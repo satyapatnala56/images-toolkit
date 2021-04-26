@@ -1,0 +1,143 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Watermark Generator",
+  "img": "https://img.icons8.com/dotty/80/000000/edit-image.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "H2": "Creating watermark for photos has been made easy with us, start by uploading your file below",
+  "TITLE": "Watermark photos- free watermark maker- safeimagekit",
+  "META": "Are you looking for a high-quality image watermark for images? Well, then you are at the right place. Our online watermark generator tool is extremely safe, user-friendly, and super quick.",
+  "keywords": "water mark 49500, watermark 49500, watermarks 49500, watermark for photos 5400, watermark photo 5400, watermarks for photos 5400, watermark for images 1900, watermark images 1900, the water mark 1300, free watermark maker 880, watermark maker free 880, add a watermark 880, add watermark 880, addwatermark 880, create a free watermark 590, create a watermark for free 590, create a watermark free 590, create free watermark 590, create watermark free 590, free watermark creator 590, watermark creator free 590, free photo watermark 590, free watermark for photos 590, photo watermark free 590, watermark on photos free 590, watermark photo free 590, watermark photos free 590, add a logo to a photo 590, add logo to photo 590, add logo to photos 590, adding logo to photos 590, create your own watermark online free 390, watermark generator 390, watermark online 320, custom watermark 260, create watermark logo 210, make a watermark free 210, watermark your photos 210, watermark adder 210, watermark template 210, add logo 210, insert watermark 210, convert image to watermark online free 210, photo watermark creator 170, free watermark online 170, watermark free online 170, watermark online free 170, add logo to picture 140, watermark download free 140, watermark image free 140, watermark images free 140, watermark free download 140, free watermark for pictures 140, watermark pictures free 140, add watermark to picture 140, edit watermark 140, watermark edit 140, watermark editor 140, download watermark free 140, free downloadable watermarks 140, free watermark download 140, free watermarks download 140, create your own watermark 110, make your own watermark 110, add copyright to photo 110, create a watermark online 90, create watermark online 90, watermark creator online 90, watermark maker free download 90, watermark generator free 90, online watermark maker 90, watermark maker online 90, watermark online maker 90, online video watermark 90, logo on pictures 70, watermark logo free 70, create watermark online free 70, add watermark to photo free 70, add watermark free 70, add logo to photo free 70, watermark tool 70, watermarking tool 70, watermarking tools 70, photo watermark online 50, online photo watermark 50, watermark photo online 50,",
+  "LABEL": "DOCX to PDF",
+  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "color": "red",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "High Quality",
+      "content": "Our watermark generator tool creates high quality watermarks for your images."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Flexibilty",
+      "content": " Our watermark generator tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "User friendly",
+      "content": "Our watermark generator tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Free of cost",
+      "content": "Our watermark generator tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No additional download",
+      "content": "Our watermark generator tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/assets/pdf.svg",
+    "heading": "How to set alarm for $variable minutes:",
+    "steps": [
+      "Click on set alarm",
+      "Set $variable minutes for alarm.",
+      "Choose sound of your choice.",
+      "Click submit to set alarm, that's it !."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    }
+  ],
+  "StructuredDataWebsite": {
+    "@type": "WebSite",
+    "name": "Safeimagekit.com",
+    "alternateName": "Safeimagekit.com",
+    "url": "www.Safeimagekit.com"
+  },
+  "StructuredDataorganization": {
+    "@type": "Organization",
+    "url": "https://www.Safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
+  },
+  "StructuredDataFaq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Will my file be saved after I complete working on the image compressor tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to do any additional signup or pay extra to use the image compressor tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        }
+      }
+    ]
+  },
+  "StructuredDataHowTo": {
+    "@type": "HowTo",
+    "name": "How to set alarm for 1 minutes:",
+    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "text": "Click on set alarm",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set 1 minutes for alarm.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Choose sound of your choice.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Click submit to set alarm, that's it !.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      }
+    ]
+  },
+  "jscdns": [
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/fabric.js/4.4.0/fabric.min.js\" integrity=\"sha512-Ly9uI3QY88jVXCgkORH2A4Qqz5xYm1pew9jEgedgSpyEg9asvyPISK+CY7QNDN3CMftXU/KLNwQR7XUUo7Cqag==\" crossorigin=\"anonymous\"></script>",
+    "<script src=\"js/w.js\"></script>"
+  ],
+  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+}

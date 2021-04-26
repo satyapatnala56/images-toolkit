@@ -1,0 +1,146 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Image Cropper",
+  "img": "https://img.icons8.com/wired/64/000000/crop.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "H2": "Cropping pictures has been made easy with us, start by uploading your file below",
+  "TITLE": "Crop Image- Image crop online- safeimagekit",
+  "META": "Are you looking for a high-quality image cropper? Well, then you are at the right place. Our online image crop tool is extremely safe, user-friendly, and super quick.",
+  "keywords": "crop 40500, cropping 40500, crop image 27100 crop images 27100, image crop 27100, image cropper 27100, crop photo 14800, crop photos 14800, photo crop 14800, photo cropper 14800, photo cropping 14800, cropped photo 14800, crop pho 14800, crop picture 8100, crop pictures 8100, cropping pictures 8100, picture crop 8100, picture cropper 8100, crop images online 5400, image crop online 5400, crop picture online 1000, crop pictures online 1000, crop online 1000, cropper online 1000, line cropping 1000, online crop 1000, crop photo free 720, free photo crop 720, crop image free 590, free crop image 590, free image crop 590, image crop free 590, crop tool online 590, online crop tool 590, photo cropping tool 480, free cropping tool 390, crop photo online free 390, crop picture free 320, crop image tool 320, freecrop 320, crop image online free 320, crop images online free 320, crop photo editor 260, custom crop 210, custom crop image 210, crop picture online free 110 crop online free 110,",
+  "LABEL": "DOCX to PDF",
+  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "color": "#ff704d",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "High Quality",
+      "content": "Our image cropper tool crops the images by retaining its quality."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Flexibilty",
+      "content": " Our image cropper tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "User friendly",
+      "content": "Our image cropper tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Free of cost",
+      "content": "Our image cropper tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No additional download",
+      "content": "Our image cropper tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/assets/pdf.svg",
+    "heading": "How to set alarm for $variable minutes:",
+    "steps": [
+      "Click on set alarm",
+      "Set $variable minutes for alarm.",
+      "Choose sound of your choice.",
+      "Click submit to set alarm, that's it !."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "Will my file be saved after I complete working on the image cropper tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    }
+  ],
+  "StructuredDataWebsite": {
+    "@type": "WebSite",
+    "name": "Safeimagekit.com",
+    "alternateName": "Safeimagekit.com",
+    "url": "www.Safeimagekit.com"
+  },
+  "StructuredDataorganization": {
+    "@type": "Organization",
+    "url": "https://www.Safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
+  },
+  "StructuredDataFaq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Will my file be saved after I complete working on the image cropper tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        }
+      }
+    ]
+  },
+  "StructuredDataHowTo": {
+    "@type": "HowTo",
+    "name": "How to set alarm for 1 minutes:",
+    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "text": "Click on set alarm",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set 1 minutes for alarm.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Choose sound of your choice.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Click submit to set alarm, that's it !.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      }
+    ]
+  },
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/croppr.css\" />",
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ],
+  "jscdns": [
+    "<script src=\"js/croppr.js\"></script>",
+    "<script src=\"js/crop.js\"></script>"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"declarationDir": "./dist",
+		"module": "commonjs",
+		"noImplicitAny": true,
+		"strict": true,
+		"outDir": "./dist",
+		"target": "es6",
+		"skipLibCheck": true
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules", "./src/worker.ts"]
+}

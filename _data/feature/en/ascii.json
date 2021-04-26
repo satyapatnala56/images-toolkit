@@ -1,0 +1,144 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Image to ASCII art generator",
+  "img": "https://img.icons8.com/ios-filled/50/000000/asc.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "H2": "Picture to ascii conversion has been made easy with us, start by uploading your file below",
+  "TITLE": "Ascii art generator- image to ascii art- safeimagekit",
+  "META": "Are you looking for a high-quality image to ascii art generator? Well, then you are at the right place. Our online ascii art generator tool is extremely safe, user-friendly, and super quick.",
+  "keywords": "ascii art 33100, ascii art generator 8100, ascii conversion 5400, picture to ascii 1000, ascii picture 1000, ascii pictures 1000, simple ascii art 880, ascii art from image 880, ascii art image 880, image to ascii art 880, ascii art maker 720, ascii drawings 590, ascii drawing 590, ascii art generator text 480, ascii art text generator 480, text to ascii art generator 480, image to ascii converter 480, ascii image converter 480, convert image to ascii 480, ascii generator from image 390, ascii generator image 390, image to ascii generator 390, ascii image generator 390, ascii art generator from image 320, image to ascii art generator 320, ascii art generator image 320, ascii art converter 260, ascii art creator 260, picture to ascii generator 170, ascii picture generator 170, ascii pictures generator 170, ascii art picture 170, picture to ascii art 170, convert image to ascii art 110, jpg to ascii 90, pic to ascii 90, ascii art online 90, image to ascii dots 70, ascii art generator online 50",
+  "LABEL": "DOCX to PDF",
+  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "color": "#6666ff",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "High Quality",
+      "content": "Our picture to ascii conversion tool converts pictures to ascii format by retaining its quality."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Flexibilty",
+      "content": " Our picture to ascii conversion tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "User friendly",
+      "content": "Our picture to ascii conversion tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Free of cost",
+      "content": "Our picture to ascii conversion tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No additional download",
+      "content": "Our picture to ascii conversion tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/assets/pdf.svg",
+    "heading": "How to set alarm for $variable minutes:",
+    "steps": [
+      "Click on set alarm",
+      "Set $variable minutes for alarm.",
+      "Choose sound of your choice.",
+      "Click submit to set alarm, that's it !."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "Will my file be saved after I complete working on the picture to ascii conversion tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the picture to ascii conversion tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    }
+  ],
+  "StructuredDataWebsite": {
+    "@type": "WebSite",
+    "name": "Safeimagekit.com",
+    "alternateName": "Safeimagekit.com",
+    "url": "www.Safeimagekit.com"
+  },
+  "StructuredDataorganization": {
+    "@type": "Organization",
+    "url": "https://www.Safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
+  },
+  "StructuredDataFaq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Will my file be saved after I complete working on the picture to ascii conversion tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to do any additional signup or pay extra to use the picture to ascii conversion tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        }
+      }
+    ]
+  },
+  "StructuredDataHowTo": {
+    "@type": "HowTo",
+    "name": "How to set alarm for 1 minutes:",
+    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "text": "Click on set alarm",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set 1 minutes for alarm.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Choose sound of your choice.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Click submit to set alarm, that's it !.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      }
+    ]
+  },
+  "jscdns": [
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js\" integrity=\"sha512-jzL0FvPiDtXef2o2XZJWgaEpVAihqquZT/tT89qCVaxVuHwJ/1DFcJ+8TBMXplSJXE8gLbVAUv+Lj20qHpGx+A==\" crossorigin=\"anonymous\"></script>",
+    "<script src=\"js/ascii/src/ascii.js\"></script>",
+    "<script src=\"js/ascii.js\"></script>"
+  ],
+  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+}

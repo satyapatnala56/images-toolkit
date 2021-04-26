@@ -1,0 +1,143 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "QR code generator",
+  "img": "https://img.icons8.com/dotty/80/000000/edit-image.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "H2": "Designing a QR code has been made easy with us, start by uploading your file below",
+  "TITLE": "QR generator- free QR code generator- safeimagekit",
+  "META": "Are you looking for a high-quality QR code generator? Well, then you are at the right place. Our online QR generator tool is extremely safe, user-friendly, and super quick.",
+  "keywords": "qr code 246000, qr codes 246000, generate qr code 165000, qr code generator 165000, qr generator 165000, the qr code generator 165000, make a qr code 33100, make qr code 33100, qr code maker 33100, free qr code generator 33100, qr code generator free 33100, create a qr code 27100, create qr code 27100, create qr codes 27100, qr code creator 27100, qr code free 8100, qrcode generator 8100, free qr code 8100, code generator 6600, free qr generator 1000, qr free generator 1000, qr generator free 1000, code qr generator online 1000, generate qr code online 1000, generator qr code online 1000, online qr code generator 1000, online qr generator 1000, qr code generator online 1000, qr code online generator 1000, qr generator online 1000, design qr code 880, designed qr codes 880, designing a qr code 880, qr code design 880, qr code designing 880, make your own qr code 720, create qr code to website 720, dynamic qr code generator 590, qr code generator dynamic 590, get a qr code 590, get qr code 590, online qr code 590, qr code online 590, qrcode online 590, generate dynamic qr code 590, generate dynamic qr codes 590, qr code dynamic generator 590, best free qr code generator 590, best qr code generator free 590, create qr code google 480, qr code creator google 480, code generator free 480, free code generator 480, free code generators 480, random qr code generator 390, random qr codes generator 390, google qr generator 320, qr generator google 320, qr code generator pro 320, free qr creator 260, my qr code 260, free qr code generator google 210, google qr code generator free 210, qr code generator website 210, website qr code generator 210, free qr code generator online 170, generate qr code free online 170, generator qr code free online 170, online free qr code generator 170, qr code generator free online 170, generate qr code online free 170, create custom qr code 170, create qr code online 140",
+  "LABEL": "DOCX to PDF",
+  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "color": "#ff8533",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "High Quality",
+      "content": "Our QR code generator tool generates QR codes that are of very high quality.  "
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Flexibilty",
+      "content": " Our QR code generator tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "User friendly",
+      "content": "Our QR code generator tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Free of cost",
+      "content": "Our QR code generator tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No additional download",
+      "content": "Our QR code generator tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/assets/pdf.svg",
+    "heading": "How to set alarm for $variable minutes:",
+    "steps": [
+      "Click on set alarm",
+      "Set $variable minutes for alarm.",
+      "Choose sound of your choice.",
+      "Click submit to set alarm, that's it !."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "Will my file be saved after I complete working on the QR code generator  tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the QR code generator tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    }
+  ],
+  "StructuredDataWebsite": {
+    "@type": "WebSite",
+    "name": "Safeimagekit.com",
+    "alternateName": "Safeimagekit.com",
+    "url": "www.Safeimagekit.com"
+  },
+  "StructuredDataorganization": {
+    "@type": "Organization",
+    "url": "https://www.Safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
+  },
+  "StructuredDataFaq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Will my file be saved after I complete working on the QR code generator tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to do any additional signup or pay extra to use the QR code generator tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        }
+      }
+    ]
+  },
+  "StructuredDataHowTo": {
+    "@type": "HowTo",
+    "name": "How to set alarm for 1 minutes:",
+    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "text": "Click on set alarm",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set 1 minutes for alarm.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Choose sound of your choice.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Click submit to set alarm, that's it !.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      }
+    ]
+  },
+  "jscdns": [
+    " <script src=\"https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js\" integrity=\"sha512-pUhApVQtLbnpLtJn6DuzDD5o2xtmLJnJ7oBoMsBnzOkVkpqofGLGPaBJ6ayD2zQe3lCgCibhJBi4cj5wAxwVKA==\" crossorigin=\"anonymous\" ></script>",
+    "<script src=\"js/qrcode.js\"></script>"
+  ],
+  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+}
