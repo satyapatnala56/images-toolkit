@@ -2,7 +2,7 @@
   "Language": "English",
   "htmlLangAtt": "en",
   "H1": "Image Compressor",
-  "img": "/assets/bulb.svg",
+  "img": "https://img.icons8.com/dotty/100/000000/compress.png",
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",

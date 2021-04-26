@@ -18,35 +18,35 @@
       "name": "Image Compression ",
       "description": "",
       "color": "#ad81ee",
-      "icon": "https://img.icons8.com/ios-filled/50/000000/asc.png",
+      "icon": "https://img.icons8.com/dotty/100/000000/compress.png",
       "url": "/compress-an-image"
     },
     {
       "name": "Image Splitter ",
       "description": "",
       "color": "#ff6666",
-      "icon": "https://img.icons8.com/ios-filled/50/000000/asc.png",
+      "icon": "https://img.icons8.com/nolan/64/split-files.png",
       "url": "/split-photo"
     },
     {
       "name": "Jpeg Compression ",
       "description": "",
       "color": "#33cccc",
-      "icon": "https://img.icons8.com/ios-filled/50/000000/asc.png",
+      "icon": "https://img.icons8.com/dotty/100/000000/compress.png",
       "url": "/compress-jpeg"
     },
     {
       "name": "Png Compression ",
       "description": "",
       "color": "#66b3ff",
-      "icon": "https://img.icons8.com/ios-filled/50/000000/asc.png",
+      "icon": "https://img.icons8.com/dotty/100/000000/compress.png",
       "url": "/compress-png"
     },
     {
       "name": "Gif Compression ",
       "description": "",
       "color": "#ff9966",
-      "icon": "https://img.icons8.com/ios-filled/50/000000/asc.png",
+      "icon": "https://img.icons8.com/dotty/100/000000/compress.png",
       "url": "/compress-a-gif"
     },
     {
@@ -110,7 +110,7 @@
       "name": " QR Code Generator",
       "description": "",
       "color": "#ff8533",
-      "icon": "https://img.icons8.com/dotty/80/000000/edit-image.png",
+      "icon": "https://img.icons8.com/wired/64/000000/qr-code.png",
       "url": "/qr-code-generator"
     },
     {
