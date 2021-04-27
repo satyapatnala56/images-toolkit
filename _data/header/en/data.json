@@ -1,0 +1,81 @@
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "",
+        "links": [
+          {
+            "iconSrc": "https://img.icons8.com/ios-filled/50/000000/asc.png",
+            "name": "ASCII image generator ",
+            "url": "/ascii",
+            "hover": "red"
+          },
+
+          {
+            "iconSrc": "https://img.icons8.com/ios-filled/50/000000/compare.png",
+            "name": "Image comparison",
+            "url": "/compare",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/wired/64/000000/crop.png",
+            "name": "Image cropper",
+            "url": "/crop",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/ios-filled/50/000000/edit-image.png",
+            "name": "Image Filter Adder",
+            "url": "/filter",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/color/48/000000/trollface.png",
+            "name": "Meme generator",
+            "url": "/meme",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/wired/64/000000/edit-image.png",
+            "name": "Text to image converter",
+            "url": "/texttoimage",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/ios-filled/50/000000/rotate-left.png",
+            "name": "Image Rotater",
+            "url": "/rotate",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/ios-filled/50/000000/resize.png",
+            "name": "Image Resizer",
+            "url": "/size",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/dotty/80/000000/edit-image.png",
+            "name": " Watermark image maker",
+            "url": "/wartermark",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/dotty/80/000000/no-image.png",
+            "name": " Image to pixelate image converter",
+            "url": "/pixelate",
+            "hover": "red"
+          }
+        ]
+      }
+    ]
+  },
+  "navItems": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ]
+}

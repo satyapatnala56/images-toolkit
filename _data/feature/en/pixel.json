@@ -1,0 +1,140 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Set alarm for $variable minutes from now",
+  "img": "https://img.icons8.com/dotty/80/000000/no-image.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "H2": "Simplest online alarm  clock to set alarms. Do not close browser tab.",
+  "TITLE": "Set alarm for $variable minutes from now",
+  "META": "Easiest way to set alarm for $variable minutes from now. Choose sound for alarm from multiple options.",
+  "keywords": "key1,key2,key3,key4",
+  "LABEL": "DOCX to PDF",
+  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "color": "#e6e600",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "High Quality",
+      "content": "Our image to pixel art conversion tool converts the images into pixel art by retaining its quality."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Flexibilty",
+      "content": " Our image to pixel art conversion tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "User friendly",
+      "content": "Our image to pixel art conversion tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Free of cost",
+      "content": "Our image to pixel art conversion tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No additional download",
+      "content": "Our image to pixel art conversion tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/assets/pdf.svg",
+    "heading": "How to set alarm for $variable minutes:",
+    "steps": [
+      "Click on set alarm",
+      "Set $variable minutes for alarm.",
+      "Choose sound of your choice.",
+      "Click submit to set alarm, that's it !."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "Will my file be saved after I complete working on the image to pixel art conversion tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the image to pixel art conversion tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    }
+  ],
+  "StructuredDataWebsite": {
+    "@type": "WebSite",
+    "name": "Safeimagekit.com",
+    "alternateName": "Safeimagekit.com",
+    "url": "www.Safeimagekit.com"
+  },
+  "StructuredDataorganization": {
+    "@type": "Organization",
+    "url": "https://www.Safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
+  },
+  "StructuredDataFaq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Will my file be saved after I complete working on the image to pixel art conversion tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to do any additional signup or pay extra to use the image to pixel art conversion tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        }
+      }
+    ]
+  },
+  "StructuredDataHowTo": {
+    "@type": "HowTo",
+    "name": "How to set alarm for 1 minutes:",
+    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "text": "Click on set alarm",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Set 1 minutes for alarm.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Choose sound of your choice.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Click submit to set alarm, that's it !.",
+        "image": "https://example.com/1x1/step4.jpg",
+        "url": "https://example.com/tie#step4"
+      }
+    ]
+  },
+  "jscdns": ["<script src=\"js/pixel.js\"></script>"],
+  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+}

@@ -1,0 +1,71 @@
+---
+permalink: /image-comparision
+layout: feature
+fileName: compare
+folderName: feature
+lang: en
+---
+
+<div class="container2">
+  <span id="inputbox">
+    <div class="row" style="margin-top: 100px">
+      <i class="far fa-image" id="icon" style="margin: auto"></i>
+    </div>
+
+    <div
+      id="Inputbox"
+      class="boxes"
+      onclick="document.getElementById('file').click()"
+    >
+      Choose the file
+    </div>
+    <p id="dropfile">Or drop the file here</p>
+  </span>
+  <span id="content">
+    <div class="row" style="margin-top: 70px">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"></div>
+    </div>
+    <div class="row" style="margin: auto">
+      <div class="col col-md-12 col-sm-12 col-xl-12" style="margin: auto">
+        <div
+          id="Inputbox2"
+          class="boxes"
+          onclick="document.getElementById('file2').click()"
+        >
+          Choose the Second file
+        </div>
+        <br />
+        <a class="btn up" id="split">Split</a>
+        <a class="btn up" id="fade">Fade</a>
+        <a class="btn up" id="compare">Compare</a>
+        <a class="btn up" id="info">Information</a>
+        <a class="btn up" id="slide">Slider</a>
+
+        <br /><br />
+        <span id="message"></span>
+      </div>
+      <a name="down"></a>
+    </div>
+    <br />
+
+    <div class="frame">
+      <p id="aboveCanvas">Result :-</p>
+      <div id="compResult"></div>
+      <br /><br />
+      <div class="row">
+        <div class="col col-md-12 col-sm-12 col-lg-12">
+          <span id="zoom"></span><br />
+          <span id="dspan"></span>
+        </div>
+      </div>
+      <img src="" id="image" alt="" />
+    </div>
+  </span>
+</div>
+
+<input type="file" id="file" class="file" />
+<input type="file" id="file2" class="file" />
+
+<script>
+  ///drag and drop n option
+</script>
