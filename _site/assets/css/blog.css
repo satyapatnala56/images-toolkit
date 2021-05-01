@@ -406,6 +406,22 @@ header {
   outline: none !important;
 }
 
+/* recent post heading stlye */
+.recent_post_heading{
+  width:100%;
+  font-size: 46px;
+  text-align: left;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    color: rgb(17, 48, 78);
+    margin-bottom: 45px;
+    padding-top: 75px;
+    display: inline-block;
+}
+
 @media (max-width: 768px) {
   .bd-search {
     padding: 10px 25px;

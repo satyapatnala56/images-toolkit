@@ -4,6 +4,7 @@ layout: feature
 fileName: texttoimage
 folderName: feature
 lang: en
+tool: Text to image converter
 ---
 
 <style>
@@ -73,7 +74,7 @@ lang: en
     height: auto;
   }
   .box {
-    height: auto;
+    height: 1400px;
     background: #353535;
   }
   #inputbox {
@@ -88,6 +89,178 @@ lang: en
   .pictureDisplay {
     margin-top: 150px;
   }
+  .lineHeightDiv {
+    height: 60px;
+    width: 350px;
+    margin: auto;
+    display: inline-block;
+    margin: 5px;
+  }
+
+  .sDiv {
+    height: 60px;
+    width: 300px;
+    margin: auto;
+    display: inline-block;
+    margin: 5px;
+  }
+  #memeShadow {
+    height: 60px;
+    width: 85%;
+    float: left;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  #lineHeight {
+    height: 60px;
+    width: 100%;
+    float: left;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  #memeStroke {
+    height: 60px;
+    width: 85%;
+    float: left;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  #memeShadowColor {
+    height: 60px;
+    width: 15%;
+    float: left;
+  }
+
+  #memeStrokeColor {
+    height: 60px;
+    width: 15%;
+    float: left;
+  }
+  #memeStroke::placeholder {
+    color: white;
+  }
+  #memeShadow::placeholder {
+    color: white;
+  }
+
+  #imageInput {
+    padding: 15px 20px;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: #353535;
+    color: white;
+  }
+  #textInput {
+    padding: 15px 20px;
+    margin-left: 30px;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: #353535;
+    color: white;
+  }
+
+  #fontSize {
+    height: 60px;
+    width: 85%;
+    float: left;
+    margin: auto;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+  }
+
+  #fontSize::placeholder {
+    color: white;
+  }
+
+  .styleButtons {
+    font-weight: bold;
+    height: 60px;
+    width: 50px;
+    border: 3px solid black;
+    display: inline-block;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+  }
+  .styleButtons p {
+    color: white;
+    font-size: 20px;
+  }
+
+  .dimensions {
+    height: 60px;
+    width: 300px;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
+    display: inline-block;
+  }
+  .dimensions::placeholder {
+    color: white;
+  }
+
+  #bgColor {
+    width: 100%;
+    height: 50px;
+  }
+
+  #bgDiv {
+    margin: auto;
+    height: 80px;
+    width: 700px;
+  }
+
+  #bgDiv p {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+  }
+  #textDiv {
+    margin: auto;
+    width: 700px;
+    height: auto;
+  }
+
+  @media (max-width: 845px) {
+    #textDiv {
+      width: 90%;
+    }
+  }
+
+  #memeTextColor {
+    float: right;
+    height: 60px;
+    width: 15%;
+  }
+
+  #memeStyle {
+    width: 250px;
+    height: 60px;
+    color: white;
+    outline: none;
+    margin: 10px;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+  }
+  #memeStyle option {
+    color: black;
+  }
 </style>
 
 <a name="down"></a>
@@ -97,33 +270,38 @@ lang: en
 
   <span id="content">
     <div class="pictureDisplay">
-      <canvas
-        id="final"
-        style="max-height: 500px; width: 100%; height: auto; margin: auto"
-      ></canvas>
+      <div class="row">
+        <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+          <br /><br /><br /><br /><br /><br />
+          <img src="" alt="" id="resultImage" style="border: 4px" />
+        </div>
+      </div>
     </div>
     <br /><br />
     <div class="row">
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
         <p id="errorMessage"></p>
-        <div id="memetextDiv">
-          <input type="text" id="memeText" placeholder="Enter the text " />
-          <input type="color" name="" id="memeTextColor" />
+        <div id="textDiv">
+          <textarea
+            placeholder="Enter the text here"
+            name=""
+            id="memeText"
+            cols="100"
+            rows="10"
+            style="width: 100%"
+          ></textarea>
         </div>
-
         <br />
-        <select name="" id="memeOpacity">
-          <option value="---">Choose the Transpirancy</option>
-          <option value="0.1">0.1</option>
-          <option value="0.2">0.2</option>
-          <option value="0.3">0.3</option>
-          <option value="0.4">0.4</option>
-          <option value="0.5">0.5</option>
-          <option value="0.6">0.6</option>
-          <option value="0.7">0.7</option>
-          <option value="0.8">0.8</option>
-          <option value="0.9">0.9</option>
-          <option value="1">1.0</option>
+
+        <select name="" id="memeStyle">
+          <option value="---">Choose the Font style</option>
+          <option value="Arial">Arial</option>
+          <option value="Times New Roman">Times New Roman</option>
+          <option value="Lucida Console">Lucida Console</option>
+          <option value="Impact">Impact</option>
+          <option value="Lucida Sans Unicode">Lucida Sans Unicode</option>
+          <option value="Palatino Linotype">Palatino Linotype</option>
+          <option value="Courier New">Courier New</option>
         </select>
         <div class="styleButtons" id="italic">
           <p style="margin-top: 12px">I</p>
@@ -131,13 +309,29 @@ lang: en
         <div class="styleButtons" id="bold">
           <p style="margin-top: 12px">B</p>
         </div>
-        <div class="styleButtons" id="underline">
-          <p style="margin-top: 12px">U</p>
+        &nbsp; &nbsp;
+
+        <div
+          id="fontDiv"
+          style="height: 60px; width: 320px; display: inline-block"
+        >
+          <input
+            type="number"
+            id="fontSize"
+            placeholder="Enter Font Size"
+            style="margin-top: 24px"
+          />
+          <input
+            type="color"
+            name=""
+            id="memeTextColor"
+            style="margin-top: 24px"
+          />
         </div>
-        <input type="text" id="fontSize" placeholder="Enter Font Size" />
+
         <br />
         <br />
-        <div class="sDiv">
+        <div class="sDiv" style="width: 340px">
           <input
             type="number"
             id="memeStroke"
@@ -145,29 +339,14 @@ lang: en
           />
           <input type="color" name="" id="memeStrokeColor" />
         </div>
-        <div class="sDiv">
+        <div class="lineHeightDiv">
           <input
             type="number"
-            id="memeShadow"
-            placeholder="Enter the Shadow Value "
+            id="lineHeight"
+            placeholder="Enter the Line Height"
           />
-          <input type="color" name="" id="memeShadowColor" />
         </div>
         <br /><br />
-        <input
-          type="number"
-          name=""
-          placeholder="Enter Canvas height"
-          id="cheight"
-          class="dimensions"
-        />
-        <input
-          type="number"
-          name=""
-          placeholder="Enter Canvas Width"
-          id="cwidth"
-          class="dimensions"
-        /><br /><br />
 
         <div id="bgDiv">
           <p>Background Color</p>
@@ -184,11 +363,7 @@ lang: en
   <span class="thankyouBox">
     <div class="row">
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <img
-          src="https://d33wubrfki0l68.cloudfront.net/5dba020712118c4d0ccbc8a57de644074402d185/2ca0c/public/styles/videoeditor/media/icons/trust.svg"
-          alt=""
-          id="thankyouImage"
-        />
+        <img src="/trust.svg" alt="" id="thankyouImage" />
         <p id="thankyouText">Thanks for your patience</p>
         <a class="btn" id="downloadButton">DOWNLOAD</a>
       </div>

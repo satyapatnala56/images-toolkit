@@ -2,12 +2,12 @@
   "Language": "English",
   "htmlLangAtt": "en",
   "h1": "Contact us",
-  "h2": "Welcome to hwtests.com",
-  "TITLE": "hwtests.com - Contact Us",
+  "h2": "Welcome to safeimagekit.com",
+  "TITLE": "",
   "META": "",
   "contactUs": [
     {
-      "p": "We, <b>hwtests.com</b> LLP, registered under the provisions of the Limited Liability Partnership Act 2008, having its registered office at “493 Saket, Pilkhuwa, Ghaziabad, Uttar Pradesh – 245 304, INDIA” represented by its Directors, hereinafter referred to as the “FIRM” (where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns)."
+      "p": "We, <b>$companyName</b> LLP, registered under the provisions of the Limited Liability Partnership Act 2008, having its registered office at “493 Saket, Pilkhuwa, Ghaziabad, Uttar Pradesh – 245 304, INDIA” represented by its Directors, hereinafter referred to as the “FIRM” (where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns)."
     },
     {
       "p": "The Firm will not be responsible for any damage suffered by users from use of the Platform. This includes but is not limited to, loss of revenue/data resulting from delays, non-deliveries, missed deliveries, or service interruptions as may occur because of any act/omission of parties. This disclaimer of liability also applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record, whether for breach of contract, tortuous behaviour, negligence, or under any other cause of action."
@@ -36,16 +36,5 @@
     {
       "p": "THE ADVERTISEMENT THAT MAY BE AVAILABLE ON E-MAIL OR WEBSITE WITH RESPECT TO THE THIRD-PARTY WEBSITE AND SERVICES ARE FOR INFORMATION PURPOSE ONLY."
     }
-  ],
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.hwtests.com",
-    "logo": "https://img.icons8.com/ios/50/000000/keyboard.png"
-  },
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "hwtests.com",
-    "alternateName": "hwtests.com",
-    "url": "www.hwtests.com"
-  }
+  ]
 }

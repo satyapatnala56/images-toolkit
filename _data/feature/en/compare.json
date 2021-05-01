@@ -1,0 +1,129 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Image Comparision",
+  "img": "https://img.icons8.com/dotty/80/000000/edit-image.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "data": {
+    "total": 0,
+    "_id": "608c883b614e470009fad864",
+    "website": "safeimagekit",
+    "feature": "Image comparison",
+    "ratings": [],
+    "created": "2021-04-30T22:44:11.540Z",
+    "__v": 0
+  },
+  "H2": "Image comparision has been made easy with us, start by uploading your file below",
+  "TITLE": "Image comparision- comparing pictures- safeimagekit",
+  "META": "Are you looking for a high-quality tool for image comparision? Well, then you are at the right place. Our online image comparision tool is extremely safe, user-friendly, and super quick.",
+  "keywords": "compare online 1000, comparison online 1000, compare tool 880, compare tools 880, image compare 880, compare images 880, compare image 880, images comparison 880, image comparison 880, comparing images 880, comparison of images 880, spot the difference between two pictures 880, spot the differences between two pictures 880, comparison images 880, compare photo 720, compare photos 720, comparison photo 720, comparison photos 720, photo compare 720, photo comparison 720, photos comparison 720, spot the difference photo 720, spot the difference photos 720, find difference between two pictures 480, compare picture 480, compare pictures 480, comparing pictures 480, comparison picture 480, find the difference between two pictures 480, find the differences between two pictures 480, comparison pictures 480, difference pic 320, image difference 320, image diff 320, imagediff 320, photo size comparison 320, photo sizes comparison 320, picture difference 320, picture differences 320, picture comparison 260, easy spot the difference 260, difference finder 260, diff finder 260, image compare online 110, image comparison online 110, compare images online 110, online image comparison 110, compare photos side by side 110, side by side photo comparison 110, compare pictures side by side 110, comparing pictures side by side 110, compare two images 110, comparing two images 110, compare two pictures 90, find difference in images 90, find differences in images 90, compare content 90, content compare 90, content comparison 90, compareit online 90, compare it online 90, comparing two pictures 90, find the difference images 90, find the differences images 90, image comparison tool 90, image comparison tools 90, photo and picture difference 70, difference photo 70, compare two photos 70, difference between picture 70, find the difference photos 70, find the differences photo 70, image compare software 70, image comparison software 70, image comparer 70, image diff tool 50, compare two pictures side by side online 50",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "#ff884d",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "High Quality",
+      "content": "Our Image comparision tool tells the image differences with utmost accuracy."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Flexibilty",
+      "content": " Our image comparison tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "User friendly",
+      "content": "Our image comparison tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Free of cost",
+      "content": "Our image comparison tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No additional download",
+      "content": "Our image comparison tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
+  },
+  "FAQ": [
+    {
+      "question": "Will my file be saved after I complete working on the image comparison tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    }
+  ],
+  "StructuredDataWebsite": {
+    "@type": "WebSite",
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
+  },
+  "StructuredDataorganization": {
+    "@type": "Organization",
+    "url": "https://www.safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
+  },
+  "StructuredDataFaq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Will my file be saved after I complete working on the image comparison tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        }
+      }
+    ]
+  },
+  "StructuredDataHowTo": {
+    "@type": "HowTo",
+    "name": "",
+    "image": "/idea.svg",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "text": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "jscdns": [
+    "<script src=\"js/imgDiff.js\"></script>",
+    "<script src=\"js/compare.js\"></script>"
+  ],
+  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+}

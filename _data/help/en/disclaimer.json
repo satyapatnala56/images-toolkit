@@ -3,7 +3,7 @@
   "htmlLangAtt": "en",
   "h1": "Disclaimer",
   "TITLE": "Disclaimer",
-  "META": "",
+  "META": "See collection of all Android alarm libraries, filter by license, modified date, languages, and select best for your usecase.",
   "disclaimer": [
     {
       "p": "We, <b>$companyName</b> LLP, registered under the provisions of the Limited Liability Partnership Act 2008, having its registered office at “493 Saket, Pilkhuwa, Ghaziabad, Uttar Pradesh – 245 304, INDIA” represented by its Directors, hereinafter referred to as the “FIRM” (where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns)."
@@ -35,16 +35,5 @@
     {
       "p": "THE ADVERTISEMENT THAT MAY BE AVAILABLE ON E-MAIL OR WEBSITE WITH RESPECT TO THE THIRD-PARTY WEBSITE AND SERVICES ARE FOR INFORMATION PURPOSE ONLY."
     }
-  ],
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "hwtests.com",
-    "alternateName": "hwtests.com",
-    "url": "www.hwtests.com"
-  },
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.hwtests.com",
-    "logo": "https://img.icons8.com/ios/50/000000/keyboard.png"
-  }
+  ]
 }

@@ -3,69 +3,132 @@ permalink: /image-comparision
 layout: feature
 fileName: compare
 folderName: feature
+tool: Image comparison
 lang: en
 ---
 
+<style>
+  .box {
+    height: 300px;
+  }
+  .compBtns {
+    padding: 13px 9.63%;
+    outline: none;
+    margin: 3px;
+    border: 1px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    font-size: auto;
+    color: white;
+    border-radius: none;
+  }
+
+  .compBtns:hover {
+    background: white;
+  }
+
+  .btnContainer {
+    height: auto;
+    width: 90%;
+    margin: auto;
+  }
+  #back {
+    height: auto;
+    width: 100%;
+    margin: auto;
+    border: 2px solid green;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+  }
+  .pictureDisplay {
+    overflow: hidden;
+    height: 500px;
+    background: none;
+  }
+  .table tr th {
+    background: white;
+    color: black;
+  }
+  .table {
+    width: 100%;
+  }
+
+  .table tr td,
+  th {
+    border: 2px solid white;
+    color: white;
+    padding: 10px 10px;
+  }
+  .tableDiv {
+    width: 510px;
+    margin: 10px;
+    height: 350px;
+    display: inline-block;
+  }
+
+  @media (max-width: 661px) {
+    .tableDiv {
+      width: 90%;
+    }
+  }
+</style>
+
+<a name="thankyouBox"></a>
+
 <div class="container2">
+  <div id="upper-loader"></div>
+
   <span id="inputbox">
-    <div class="row" style="margin-top: 100px">
+    <div class="row" style="margin-top: 30px">
       <i class="far fa-image" id="icon" style="margin: auto"></i>
+    </div>
+
+    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
+    <p id="dropfile">or drop your file here</p>
+    <p id="error"></p>
+  </span>
+  <span id="secondInput">
+    <div class="row" style="margin-top: 40px">
+      <i
+        class="fas fa-file-image"
+        style="font-size: 36px; font-size: 80px; color: white; margin: auto"
+      ></i>
     </div>
 
     <div
       id="Inputbox"
       class="boxes"
-      onclick="document.getElementById('file').click()"
+      onclick="document.querySelector('#file2').click()"
     >
-      Choose the file
+      UPLOAD SECOND FILE
     </div>
-    <p id="dropfile">Or drop the file here</p>
   </span>
-  <span id="content">
-    <div class="row" style="margin-top: 70px">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"></div>
+  <div class="row" id="loaderDiv">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+      <span id="loader"></span>
     </div>
-    <div class="row" style="margin: auto">
-      <div class="col col-md-12 col-sm-12 col-xl-12" style="margin: auto">
-        <div
-          id="Inputbox2"
-          class="boxes"
-          onclick="document.getElementById('file2').click()"
-        >
-          Choose the Second file
-        </div>
-        <br />
-        <a class="btn up" id="split">Split</a>
-        <a class="btn up" id="fade">Fade</a>
-        <a class="btn up" id="compare">Compare</a>
-        <a class="btn up" id="info">Information</a>
-        <a class="btn up" id="slide">Slider</a>
+  </div>
+  <span id="content">
+    <br />
 
-        <br /><br />
-        <span id="message"></span>
-      </div>
-      <a name="down"></a>
+    <br />
+    <div class="btnContainer">
+      <a id="slider" class="btn compBtns">Slider</a>
+      <a id="pixel" class="btn compBtns">Pixel Compare</a>
+      <a id="info" class="btn compBtns">Info</a>
+      <a id="fade" class="btn compBtns">Fade</a>
     </div>
     <br />
 
-    <div class="frame">
-      <p id="aboveCanvas">Result :-</p>
-      <div id="compResult"></div>
-      <br /><br />
-      <div class="row">
-        <div class="col col-md-12 col-sm-12 col-lg-12">
-          <span id="zoom"></span><br />
-          <span id="dspan"></span>
-        </div>
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <p id="msg"></p>
+        <span id="cResult"> </span>
       </div>
-      <img src="" id="image" alt="" />
     </div>
+    <br /><br />
   </span>
 </div>
 
-<input type="file" id="file" class="file" />
-<input type="file" id="file2" class="file" />
-
-<script>
-  ///drag and drop n option
-</script>
+<input type="file" id="file" accept=".webp,.jpg,.png,.jpeg" class="file" />
+<input type="file" id="file2" accept=".webp,.jpg,.png,.jpeg" class="file" />

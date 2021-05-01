@@ -1,55 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <input type="file" name="" id="file" /><br />
-    <input type="checkbox" name="" id="strict" /> strict<br />
-    <input type="checkbox" name="" id="checkOrientation" />Check Orientation<br />
-    <input type="text" name="" id="maxWidth" placeholder="maxWidth" /><br />
-    <input type="text" name="" id="quality" placeholder="quality" /><br />
-    <input type="text" name="" id="maxHeight" placeholder="maxHeight" /><br />
-    <input type="text" name="" id="minWidth" placeholder="minWidth" /><br />
-    <input type="text" name="" id="minHeight" placeholder="minHeight" /><br />
-    <input
-      type="text"
-      name=""
-      id="convertSize"
-      placeholder="convertSize"
-    /><br />
-    <input type="text" name="" id="width" placeholder="width" /><br />
-    <input type="text" name="" id="height" placeholder="height" /><br />
-    <input
-      type="text"
-      name=""
-      id="mimeType"
-      placeholder="mimeType"
-    /><br /><br /><br />
-    <button>submit</button>
-  </body>
+<div id="mySlider"></div>
 
-  <script
-    src="https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js"
-    integrity="sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg=="
-    crossorigin="anonymous"
-  ></script>
-  <script>
-    var file = document.querySelector("#file");
-    file.onchange = function () {
-      var reader = new FileReader();
-      reader.onload = function () {
-        console.log("old file");
-        console.log(file.files[0]);
+<script
+  type="module"
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
+></script>
+<script
+  nomodule=""
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@3/dist/collection/styles/initial.css"
+/>
 
-
-          console.log(ans);
-        };
-      };
-      reader.readAsDataURL(file.files[0]);
-    };
-  </script>
-</html>
+<img-comparison-slider>
+  <img slot="before" src="dragon.webp" style="max-height: 400px" />
+  <img slot="after" src="log.png" style="max-height: 400px" />
+</img-comparison-slider>

@@ -4,15 +4,15 @@
   "company": [
     {
       "name": "Terms and Condition",
-      "url": "/term-and-condition"
+      "url": "term-and-condition"
     },
     {
       "name": "Disclaimer",
-      "url": "/disclaimer"
+      "url": "disclaimer"
     },
     {
       "name": "Privacy",
-      "url": "/privacy-policy"
+      "url": "privacy-policy"
     }
   ],
   "product": [
@@ -34,7 +34,7 @@
     },
     {
       "name": "Gif image compresor ",
-      "url": "/ascii-art-from-image"
+      "url": "/compress-a-gif"
     },
     {
       "name": "Png Image compressor ",
@@ -112,12 +112,12 @@
   "legal": [
     {
       "name": "About Us",
-      "url": "/about"
+      "url": "about"
     },
     {
       "name": "Contact Us",
-      "url": "/contact"
+      "url": "contact"
     }
   ],
-  "messege": "© 2021 - imageutils.com"
+  "messege": "© 2021 - safeimagekit.com"
 }

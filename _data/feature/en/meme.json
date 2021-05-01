@@ -6,13 +6,22 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "data": {
+    "total": 0,
+    "_id": "608c89bb614e470009fad86b",
+    "website": "safeimagekit",
+    "feature": "Meme generator",
+    "ratings": [],
+    "created": "2021-04-30T22:50:35.100Z",
+    "__v": 0
+  },
   "H2": "Online meme maker has been made easy with us, start by uploading your file below",
   "TITLE": "Meme generator- online meme maker- safeimagekit",
   "META": "Are you looking for a high-quality meme generator? Well, then you are at the right place. Our online meme maker tool is extremely safe, user-friendly, and super quick.",
   "keywords": "meme generator 673000, memes generator 673000, meme maker 301000, make a meme 301000, make meme 301000, meme template 135000, meme templates 135000, create memes 74000, create a meme 74000, create meme 74000, meme creator 74000, meme a picture 60500, meme gen 27100, meme image 14800, online meme maker 5400, memes de fotos 1000, i love this meme 1000, meme generator unblocked 880, unblocked meme generator 880, jpg memes 480, meme editor online 210, meme maker unblocked 170",
   "width": "",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
   "color": "#5cd65c",
   "TEXTUAL_CONTENT": [
     {
@@ -54,14 +63,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -75,13 +79,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "Safeimagekit.com",
-    "alternateName": "Safeimagekit.com",
-    "url": "www.Safeimagekit.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.Safeimagekit.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
@@ -107,32 +111,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

@@ -1,17 +1,26 @@
 {
   "Language": "English",
   "htmlLangAtt": "en",
-  "H1": "Set alarm for $variable minutes from now",
+  "H1": "Image to pixel art converter",
   "img": "https://img.icons8.com/dotty/80/000000/no-image.png",
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
-  "H2": "Simplest online alarm  clock to set alarms. Do not close browser tab.",
-  "TITLE": "Set alarm for $variable minutes from now",
-  "META": "Easiest way to set alarm for $variable minutes from now. Choose sound for alarm from multiple options.",
-  "keywords": "key1,key2,key3,key4",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "data": {
+    "total": 0,
+    "_id": "608c8a0c614e470009fad86d",
+    "website": "safeimagekit",
+    "feature": "Image to pixelate image converter",
+    "ratings": [],
+    "created": "2021-04-30T22:51:56.782Z",
+    "__v": 0
+  },
+  "H2": "Image to pixel art conversion has been made easy with us, start by uploading your file below",
+  "TITLE": "Image to pixel art- pixel art maker- safeimagekit",
+  "META": "Are you looking for a high-quality image to pixel art converter? Well, then you are at the right place. Our online pixel art maker is extremely safe, user-friendly, and super quick.",
+  "keywords": "pixel art 165000, pixelart 33100, pixel art maker 14800, pixel art templates 1600, pixel art draw 1000, pixel art to draw 1000, image to pixel art 1000, picture to pixel art 880, pixel art pattern 880, convert image to pixel art 720, pixel art image converter 720, pixel art face 720, turn picture into pixel art 590, turn pictures into pixel art 590, pixel art website 590, pixel art websites 590, pixels art website 590, pixel art maker online 590, pixel art online maker 590, photo to pixel art 480, pixel art from photo 480, pixel art images 480, pixel art pictures 480, pixel art photos 480, pixel art color palette 390, image to pixel art grid 320, turn photo into pixel art 260, convert picture to pixel art 210, pixel art picture converter 210, free online pixel art 210, pixel art free online 210, pixel art online free 210, pixel art maker from image 140, pictures of pixel art 90, draw pixel art online 90, picture into pixel art 90, image to pixel art converter 90, a pixel art 90, turn image to pixel art 70, make pixel art from image 70, create pixel art from image 70, pixel art generator from image 70, pixel art mage 70, pixel mage 70, pixel art g 70",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
   "color": "#e6e600",
   "TEXTUAL_CONTENT": [
     {
@@ -53,14 +62,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -74,13 +78,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "Safeimagekit.com",
-    "alternateName": "Safeimagekit.com",
-    "url": "www.Safeimagekit.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.Safeimagekit.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
@@ -106,32 +110,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

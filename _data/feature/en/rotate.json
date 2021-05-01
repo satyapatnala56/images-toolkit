@@ -5,13 +5,22 @@
   "img": "https://img.icons8.com/ios-filled/50/000000/rotate-left.png",
   "imgwidth": "40px",
   "imgheight": "40px",
+  "data": {
+    "total": 0,
+    "_id": "608c8a53614e470009fad86f",
+    "website": "safeimagekit",
+    "feature": "Image Flipper",
+    "ratings": [],
+    "created": "2021-04-30T22:53:07.852Z",
+    "__v": 0
+  },
   "imgalt": "altvalue",
   "H2": "Photo rotation has been made easy with us, start by uploading your file below",
   "TITLE": "Flip image- image flip online- safeimagekit",
   "META": "Are you looking for a high-quality image flipper? Well, then you are at the right place. Our online flip image tool is extremely safe, user-friendly, and super quick.",
   "keyords": "flip an image 18100, flip image 18100, image flip 18100, image flipper 18100, rotate picture 1300, flip image online 880, image flip online 880, flip horizontal image 880, flip image horizontally 880, horizontal flip image 880, horizontal image flip 880, photo rotate 880, photo rotation 880, photo rotator 880, rotate photo 880, jpeg rotate 260, rotate jpeg 260, rotate jpg 260, jpeg rotator 260",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
   "color": "#9999ff",
   "TEXTUAL_CONTENT": [
     {
@@ -53,14 +62,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -74,13 +78,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "Safeimagekit.com",
-    "alternateName": "Safeimagekit.com",
-    "url": "www.Safeimagekit.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.Safeimagekit.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
@@ -106,32 +110,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

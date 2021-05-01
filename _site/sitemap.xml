@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/jekyll/update/2021/02/09/welcome-to-jekyll.html</loc>
-<lastmod>2021-02-09T21:24:03+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/js/watermarkjs/jekyll/update/2021/03/29/welcome-to-jekyll.html</loc>
 <lastmod>2021-03-29T02:10:44+05:30</lastmod>
 </url>
@@ -99,6 +95,10 @@
 <loc>http://localhost:4000/watermark-for-photos</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Combine%20PDf%20-%20Combine%20your%20PDF%20online%20for%20free.html</loc>
+<lastmod>2021-04-29T18:02:22+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/heic.html</loc>
 <lastmod>2021-04-17T13:50:34+05:30</lastmod>
 </url>
@@ -109,10 +109,6 @@
 <url>
 <loc>http://localhost:4000/js/crop/test/mock.html</loc>
 <lastmod>2018-07-07T11:46:59+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/js/heic2any-master/</loc>
-<lastmod>2020-04-07T05:08:44+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/js/watermarkjs/demo.html</loc>
@@ -144,10 +140,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/testing.html</loc>
-<lastmod>2021-04-24T15:56:57+05:30</lastmod>
+<lastmod>2021-04-30T22:51:26+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/testing2.html</loc>
-<lastmod>2021-04-26T18:44:07+05:30</lastmod>
+<lastmod>2021-05-01T02:42:07+05:30</lastmod>
 </url>
 </urlset>

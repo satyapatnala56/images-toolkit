@@ -6,12 +6,21 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "data": {
+    "total": 0,
+    "_id": "608c88e5614e470009fad867",
+    "website": "safeimagekit",
+    "feature": "Jpeg Compression",
+    "ratings": [],
+    "created": "2021-04-30T22:47:01.115Z",
+    "__v": 0
+  },
   "H2": "JPEG compression has been made easy with us, start by uploading your file below",
   "TITLE": "JPEG compressor-online JPG compressor- safeimagekit",
   "keywords": "compress jpeg 18100, jpeg compress 18100, jpeg compression 18100, jpeg compressor 18100, jpg to compress 14800, compress jpeg files 720, file compression jpeg 720, compress jpeg online 720, compress jpg online 720, jpeg compression online 720, jpeg compressor online 720, online jpg compressor 720, compressjpeg 390, jpg file compressor 320, compress image jpeg 320, compress jpeg image 320, jpeg image compression 320, free jpeg compressor 140, jpeg compressor free 140, compress jpeg windows 70, compression jpeg 70, jpeg compression size 70",
   "META": "Are you looking for a high-quality JPEG compressor? Well, then you are at the right place. Our online JPG compressor tool is extremely safe, user-friendly, and super quick.",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
   "color": "#33cccc",
   "TEXTUAL_CONTENT": [
     {
@@ -53,14 +62,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -74,14 +78,14 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "appscms",
-    "alternateName": "appscms",
-    "url": "www.appscms.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "http://www.appscms.com",
-    "logo": "http://www.example.com/images/logo.png"
+    "url": "https://www.safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
     "@type": "FAQPage",
@@ -106,32 +110,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },
