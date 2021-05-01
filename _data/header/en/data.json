@@ -10,62 +10,103 @@
           {
             "iconSrc": "https://img.icons8.com/ios-filled/50/000000/asc.png",
             "name": "ASCII image generator ",
-            "url": "/ascii",
+            "url": "/ascii-art-from-image",
             "hover": "red"
           },
 
           {
             "iconSrc": "https://img.icons8.com/ios-filled/50/000000/compare.png",
             "name": "Image comparison",
-            "url": "/compare",
+            "url": "/image-comparision",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/wired/64/000000/crop.png",
             "name": "Image cropper",
-            "url": "/crop",
+            "url": "/crop-image",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/ios-filled/50/000000/edit-image.png",
             "name": "Image Filter Adder",
-            "url": "/filter",
+            "url": "/photo-filters",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/color/48/000000/trollface.png",
             "name": "Meme generator",
-            "url": "/meme",
+            "url": "/meme-generator",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/wired/64/000000/edit-image.png",
             "name": "Text to image converter",
-            "url": "/texttoimage",
+            "url": "/text-to-image-converter",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/ios-filled/50/000000/rotate-left.png",
             "name": "Image Rotater",
-            "url": "/rotate",
+            "url": "/flip-image",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/ios-filled/50/000000/resize.png",
             "name": "Image Resizer",
-            "url": "/size",
+            "url": "/image-resize",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/dotty/80/000000/edit-image.png",
             "name": " Watermark image maker",
-            "url": "/wartermark",
+            "url": "/watermark-for-photos",
             "hover": "red"
           },
           {
             "iconSrc": "https://img.icons8.com/dotty/80/000000/no-image.png",
             "name": " Image to pixelate image converter",
-            "url": "/pixelate",
+            "url": "/pixel-art-maker",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/wired/64/000000/qr-code.png",
+            "name": "QR Code generator",
+            "url": "/qr-code-generator",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/dotty/100/000000/compress.png",
+            "name": "Image compressor",
+            "url": "/compress-an-image",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/nolan/64/split-files.png",
+            "name": "Image Splitter",
+            "url": "/split-photo",
+            "hover": "red"
+          }
+        ]
+      },
+      {
+        "categoryName": "",
+        "links": [
+          {
+            "iconSrc": "https://img.icons8.com/dotty/100/000000/compress.png",
+            "name": "Gif Compressor",
+            "url": "/compress-a-gif",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/dotty/100/000000/compress.png",
+            "name": "Png Compressor",
+            "url": "/compress-png",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "https://img.icons8.com/dotty/100/000000/compress.png",
+            "name": "Jpeg Compressor",
+            "url": "/compress-jpeg",
             "hover": "red"
           }
         ]

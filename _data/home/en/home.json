@@ -100,7 +100,7 @@
       "url": "/image-resize"
     },
     {
-      "name": " Watermark image maker",
+      "name": "Watermark image maker",
       "description": "",
       "color": "red",
       "icon": "https://img.icons8.com/dotty/80/000000/edit-image.png",
@@ -123,13 +123,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "hwtests.com",
-    "alternateName": "hwtests.com",
-    "url": "www.hwtests.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.hwtests.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/ios/50/000000/keyboard.png"
   }
 }

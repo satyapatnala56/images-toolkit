@@ -119,7 +119,7 @@ function memeProcessing() {
             if (styles[i].id == "underline") {
               underline = "underline";
             }
-            styles[i].style.background = "red";
+            styles[i].style.background = "green";
           }
         };
       }

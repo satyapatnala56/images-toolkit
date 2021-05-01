@@ -4,7 +4,7 @@
   "h1": "Privacy Policy",
   "TITLE": "Privacy Policy",
   "META": "",
-  "disclaimer": [
+  "privacyPolicy": [
     {
       "p": "We,<b>$companyName</b>, registered under the provisions of the Limited Liability Partnership Act 2008, having its registered office at “493 Saket, Pilkhuwa, Ghaziabad, Uttar Pradesh – 245 304, INDIA” represented by its Directors, hereinafter referred to as the <b>“FIRM”</b> (where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns)."
     },
@@ -12,13 +12,13 @@
       "p": "The creator of this Privacy Policy ensures a steady commitment to Your privacy with regard to the protection of your invaluable information."
     },
     {
-      "p": "This privacy policy contains information about the Website https://<b>$companyName</b> (hereinafter referred to as the “Platform”)."
+      "p": "This privacy policy contains information about the Website https://<b>$companyName</b>.$domain (hereinafter referred to as the “Platform”)."
     },
     {
       "p": "In order to provide You with Our uninterrupted use of services, We may collect and, in some circumstances, disclose information about you with your permission. To ensure better protection of Your privacy, We provide this notice explaining Our information collection and disclosure policies, and the choices You make about the way Your information is collected and used."
     },
     {
-      "p": "This Privacy Policy shall be in compliance with the General Data Protection Regulation (GDPR) in effect from May 25, 2018, and any and all provisions that may read to the contrary shall be deemed to be void and unenforceable as of that date. If you do not agree with the terms and conditions of our Privacy Policy, including in relation to the manner of collection or use of your information, please do not use or access the Site. If you have any questions or concerns regarding this Privacy Policy, you should contact our Customer Support Desk at care@$companyName."
+      "p": "This Privacy Policy shall be in compliance with the General Data Protection Regulation (GDPR) in effect from May 25, 2018, and any and all provisions that may read to the contrary shall be deemed to be void and unenforceable as of that date. If you do not agree with the terms and conditions of our Privacy Policy, including in relation to the manner of collection or use of your information, please do not use or access the Site. If you have any questions or concerns regarding this Privacy Policy, you should contact our Customer Support Desk at care@$companyName.$domain."
     },
     {
       "p": "ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEADING TO INTERPRET THE PROVISIONS CONTAINED WITHIN IT IN ANY MANNER."
@@ -81,7 +81,7 @@
       "p": "To comply with applicable laws, rules and regulations."
     },
     {
-      "p": "Where any service requested by You involves a third party, such information as is reasonably necessary by the Firm to carry out Your service request may be shared with such third party. We may also do use your contact information to send you offers based on your interests and prior activity and also to view the content preferred by you. The Firm may also use contact information internally to direct its efforts for service improvement but shall immediately delete all such information upon withdrawal of your consent for the same through the ‘unsubscribe’ button or through an email to be sent care@$companyName."
+      "p": "Where any service requested by You involves a third party, such information as is reasonably necessary by the Firm to carry out Your service request may be shared with such third party. We may also do use your contact information to send you offers based on your interests and prior activity and also to view the content preferred by you. The Firm may also use contact information internally to direct its efforts for service improvement but shall immediately delete all such information upon withdrawal of your consent for the same through the ‘unsubscribe’ button or through an email to be sent care@$companyName.$domain."
     },
     {
       "p": "To the extent possible, we provide You with the option of not divulging any specific information that you wish for us not to collect, store or use. You may also choose not to use a particular service or feature on the Platform and opt-out of any non-essential communications from the platform."
@@ -252,24 +252,13 @@
       "h2": "CONSENT WITHDRAWAL, DATA DOWNLOAD & DATA REMOVAL REQUESTS"
     },
     {
-      "p": "To withdraw your consent, or to request the download or delete your data with us for any or all our products & services at any time, please email to care@$companyName."
+      "p": "To withdraw your consent, or to request the download or delete your data with us for any or all our products & services at any time, please email to care@$companyName.$domain."
     },
     {
       "h2": "CONTACT US"
     },
     {
-      "p": "If you have any questions or concerns regarding this privacy policy, you should contact us by sending an e-mail to please email to care@$companyName. Information provided on the website may not be 100% accurate and may be provided for promotional purposes of the business."
+      "p": "If you have any questions or concerns regarding this privacy policy, you should contact us by sending an e-mail to please email to care@$companyName.$domain. Information provided on the website may not be 100% accurate and may be provided for promotional purposes of the business."
     }
-  ],
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.hwtests.com",
-    "logo": "https://img.icons8.com/ios/50/000000/keyboard.png"
-  },
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "hwtests.com",
-    "alternateName": "hwtests.com",
-    "url": "www.hwtests.com"
-  }
+  ]
 }

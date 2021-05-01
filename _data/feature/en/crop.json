@@ -6,12 +6,21 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "data": {
+    "total": 0,
+    "_id": "608c8965614e470009fad869",
+    "website": "safeimagekit",
+    "feature": "Image cropper",
+    "ratings": [],
+    "created": "2021-04-30T22:49:09.555Z",
+    "__v": 0
+  },
   "H2": "Cropping pictures has been made easy with us, start by uploading your file below",
   "TITLE": "Crop Image- Image crop online- safeimagekit",
   "META": "Are you looking for a high-quality image cropper? Well, then you are at the right place. Our online image crop tool is extremely safe, user-friendly, and super quick.",
   "keywords": "crop 40500, cropping 40500, crop image 27100 crop images 27100, image crop 27100, image cropper 27100, crop photo 14800, crop photos 14800, photo crop 14800, photo cropper 14800, photo cropping 14800, cropped photo 14800, crop pho 14800, crop picture 8100, crop pictures 8100, cropping pictures 8100, picture crop 8100, picture cropper 8100, crop images online 5400, image crop online 5400, crop picture online 1000, crop pictures online 1000, crop online 1000, cropper online 1000, line cropping 1000, online crop 1000, crop photo free 720, free photo crop 720, crop image free 590, free crop image 590, free image crop 590, image crop free 590, crop tool online 590, online crop tool 590, photo cropping tool 480, free cropping tool 390, crop photo online free 390, crop picture free 320, crop image tool 320, freecrop 320, crop image online free 320, crop images online free 320, crop photo editor 260, custom crop 210, custom crop image 210, crop picture online free 110 crop online free 110,",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
   "color": "#ff704d",
   "TEXTUAL_CONTENT": [
     {
@@ -53,14 +62,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -74,13 +78,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "Safeimagekit.com",
-    "alternateName": "Safeimagekit.com",
-    "url": "www.Safeimagekit.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.Safeimagekit.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
@@ -106,32 +110,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

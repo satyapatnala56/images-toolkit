@@ -2,14 +2,14 @@
   "Language": "English",
   "htmlLangAtt": "en",
   "h1": "Terms and condtions",
-  "TITLE": "Terms and condtions",
-  "META": "",
-  "disclaimer": [
+  "TITLE": "terms and condition",
+  "META": "See collection of all Android alarm libraries, filter by license, modified date, languages, and select best for your usecase.",
+  "termsAndConditions": [
     {
       "p": "We,<b>$companyName</b>, registered under the provisions of the Limited Liability Partnership Act 2008, having its registered office at “493 Saket, Pilkhuwa, Ghaziabad, Uttar Pradesh – 245 304, INDIA” represented by its Directors, hereinafter referred to as the <b>“FIRM”</b> (where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns)."
     },
     {
-      "p": "The Firm ensures steady commitment to Your usage of the Platform and privacy with regard to the protection of Your invaluable information. This document contains information about the Website and domain https://$companyName (hereinafter referred to as the “Platform” )."
+      "p": "The Firm ensures steady commitment to Your usage of the Platform and privacy with regard to the protection of Your invaluable information. This document contains information about the Website and domain https://$companyName.$domain (hereinafter referred to as the “Platform” )."
     },
     {
       "p": "For the purpose of these Terms of Use (“Terms”), wherever the context so requires,"
@@ -57,7 +57,7 @@
       "h3": "PLATFORM OVERVIEW"
     },
     {
-      "p": "@$companyName is a platform owned and operated by @$companyName LLP which is a limited liability partnership registered under the provisions of the Limited Liability Partnership Act, 2008."
+      "p": "@$companyName.$domain is a platform owned and operated by @$companyName.$domain LLP which is a limited liability partnership registered under the provisions of the Limited Liability Partnership Act, 2008."
     },
     {
       "p": "Servers for this website are hosted on Firebase. User is not required to install any software on his machine to use the Platform. The Platform is User-friendly and is accessible on all software and all devices such as Mac/Windows/Linux/Android/iOS."
@@ -120,7 +120,7 @@
       "p": "The User shall continue to be bound by these Terms, and it is expressly agreed to by the Parties that the User shall not have the right to terminate these Terms till the expiry of the same."
     },
     {
-      "p": "COMMUNICATION By using this Platform and providing his/her identity and contact information to the Firm through the Platform, the Users hereby agree and consent to receive calls, e-mails or SMS from the Firm and/or any of its representatives at any time. User can report to care@$companyName if they find any discrepancy with regard to Platform or content-related information and the Firm will take necessary action after an investigation. The response with resolution (if any issues found) shall be dependent on the time is taken for investigation. The User expressly agrees that notwithstanding anything contained hereinabove, it may be contacted by the Firm or any representatives relating to any Product purchased by the User on the Platform or anything pursuant thereto and the Users agrees to indemnify the Firm from any and all harassment claims. It is expressly agreed to by the Parties that any information shared by the User with the Firm shall be governed by the Privacy Policy."
+      "p": "COMMUNICATION By using this Platform and providing his/her identity and contact information to the Firm through the Platform, the Users hereby agree and consent to receive calls, e-mails or SMS from the Firm and/or any of its representatives at any time. User can report to care@$companyName.$domain if they find any discrepancy with regard to Platform or content-related information and the Firm will take necessary action after an investigation. The response with resolution (if any issues found) shall be dependent on the time is taken for investigation. The User expressly agrees that notwithstanding anything contained hereinabove, it may be contacted by the Firm or any representatives relating to any Product purchased by the User on the Platform or anything pursuant thereto and the Users agrees to indemnify the Firm from any and all harassment claims. It is expressly agreed to by the Parties that any information shared by the User with the Firm shall be governed by the Privacy Policy."
     },
     {
       "h3": "USER OBLIGATIONS AND FORMAL UNDERTAKINGS AS TO CONDUCT"
@@ -347,7 +347,7 @@
     },
     {
       "h3": "NOTICES",
-      "p": "Any and all communication relating to any dispute or grievance experienced by the User may be communicated to the Firm by the User by emailing to care@$companyName."
+      "p": "Any and all communication relating to any dispute or grievance experienced by the User may be communicated to the Firm by the User by emailing to care@$companyName.$domain."
     },
     {
       "h3": "MISCELLANEOUS PROVISIONS"
@@ -362,18 +362,7 @@
       "p": "3. <b>Severability:</b> If any provision/clause of these Terms is held to be invalid, illegal or unenforceable by any court or authority of competent jurisdiction, the validity, legality and enforceability of the remaining provisions/clauses of these Terms shall in no way be affected or impaired thereby, and each such provision/clause of these Terms shall be valid and enforceable to the fullest extent permitted by law. In such case, these Terms shall be reformed to the minimum extent necessary to correct any invalidity, illegality or unenforceability, while preserving to the maximum extent the original rights, intentions and commercial expectations of the Parties hereto, as expressed herein."
     },
     {
-      "p": "4.<b> Contact Us</b>: If you have any questions about this Policy, the practices of the Platform, or your experience with the Service provided by the Platform, you can contact us at care@$companyName."
+      "p": "4.<b> Contact Us</b>: If you have any questions about this Policy, the practices of the Platform, or your experience with the Service provided by the Platform, you can contact us at care@$companyName.$domain."
     }
-  ],
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.hwtests.com",
-    "logo": "https://img.icons8.com/ios/50/000000/keyboard.png"
-  },
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "hwtests.com",
-    "alternateName": "hwtests.com",
-    "url": "www.hwtests.com"
-  }
+  ]
 }

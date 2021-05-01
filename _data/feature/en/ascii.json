@@ -10,8 +10,17 @@
   "TITLE": "Ascii art generator- image to ascii art- safeimagekit",
   "META": "Are you looking for a high-quality image to ascii art generator? Well, then you are at the right place. Our online ascii art generator tool is extremely safe, user-friendly, and super quick.",
   "keywords": "ascii art 33100, ascii art generator 8100, ascii conversion 5400, picture to ascii 1000, ascii picture 1000, ascii pictures 1000, simple ascii art 880, ascii art from image 880, ascii art image 880, image to ascii art 880, ascii art maker 720, ascii drawings 590, ascii drawing 590, ascii art generator text 480, ascii art text generator 480, text to ascii art generator 480, image to ascii converter 480, ascii image converter 480, convert image to ascii 480, ascii generator from image 390, ascii generator image 390, image to ascii generator 390, ascii image generator 390, ascii art generator from image 320, image to ascii art generator 320, ascii art generator image 320, ascii art converter 260, ascii art creator 260, picture to ascii generator 170, ascii picture generator 170, ascii pictures generator 170, ascii art picture 170, picture to ascii art 170, convert image to ascii art 110, jpg to ascii 90, pic to ascii 90, ascii art online 90, image to ascii dots 70, ascii art generator online 50",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "data": {
+    "total": 0,
+    "_id": "608c87e7614e470009fad863",
+    "website": "safeimagekit",
+    "feature": "ASCII image generator",
+    "ratings": [],
+    "created": "2021-04-30T22:42:47.410Z",
+    "__v": 0
+  },
   "color": "#6666ff",
   "TEXTUAL_CONTENT": [
     {
@@ -53,14 +62,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -74,13 +78,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "Safeimagekit.com",
-    "alternateName": "Safeimagekit.com",
-    "url": "www.Safeimagekit.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.Safeimagekit.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
@@ -106,32 +110,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

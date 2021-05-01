@@ -6,12 +6,21 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "data": {
+    "total": 0,
+    "_id": "608c8a2d614e470009fad86e",
+    "website": "safeimagekit",
+    "feature": "QR Code Generator",
+    "ratings": [],
+    "created": "2021-04-30T22:52:29.960Z",
+    "__v": 0
+  },
   "H2": "Designing a QR code has been made easy with us, start by uploading your file below",
   "TITLE": "QR generator- free QR code generator- safeimagekit",
   "META": "Are you looking for a high-quality QR code generator? Well, then you are at the right place. Our online QR generator tool is extremely safe, user-friendly, and super quick.",
   "keywords": "qr code 246000, qr codes 246000, generate qr code 165000, qr code generator 165000, qr generator 165000, the qr code generator 165000, make a qr code 33100, make qr code 33100, qr code maker 33100, free qr code generator 33100, qr code generator free 33100, create a qr code 27100, create qr code 27100, create qr codes 27100, qr code creator 27100, qr code free 8100, qrcode generator 8100, free qr code 8100, code generator 6600, free qr generator 1000, qr free generator 1000, qr generator free 1000, code qr generator online 1000, generate qr code online 1000, generator qr code online 1000, online qr code generator 1000, online qr generator 1000, qr code generator online 1000, qr code online generator 1000, qr generator online 1000, design qr code 880, designed qr codes 880, designing a qr code 880, qr code design 880, qr code designing 880, make your own qr code 720, create qr code to website 720, dynamic qr code generator 590, qr code generator dynamic 590, get a qr code 590, get qr code 590, online qr code 590, qr code online 590, qrcode online 590, generate dynamic qr code 590, generate dynamic qr codes 590, qr code dynamic generator 590, best free qr code generator 590, best qr code generator free 590, create qr code google 480, qr code creator google 480, code generator free 480, free code generator 480, free code generators 480, random qr code generator 390, random qr codes generator 390, google qr generator 320, qr generator google 320, qr code generator pro 320, free qr creator 260, my qr code 260, free qr code generator google 210, google qr code generator free 210, qr code generator website 210, website qr code generator 210, free qr code generator online 170, generate qr code free online 170, generator qr code free online 170, online free qr code generator 170, qr code generator free online 170, generate qr code online free 170, create custom qr code 170, create qr code online 140",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
   "color": "#ff8533",
   "TEXTUAL_CONTENT": [
     {
@@ -53,14 +62,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -74,13 +78,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "Safeimagekit.com",
-    "alternateName": "Safeimagekit.com",
-    "url": "www.Safeimagekit.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.Safeimagekit.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
@@ -106,32 +110,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

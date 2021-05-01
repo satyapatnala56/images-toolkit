@@ -6,12 +6,21 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "data": {
+    "total": 0,
+    "_id": "608c88bd614e470009fad866",
+    "website": "safeimagekit",
+    "feature": "Image Compression",
+    "ratings": [],
+    "created": "2021-04-30T22:46:21.106Z",
+    "__v": 0
+  },
   "H2": "Image compression has been made easy with us, start by uploading your file below",
   "TITLE": "Image Compressor-online file compressor- safeimagekit",
   "keywords": "compress 40500, compressed 40500, compressing 40500, compress an image 33100, compress image 33100, compress images 33100, image compress 33100, image compression 33100, image compressor 33100, file compressor 18100, compress file 18100, compress files 18100, compressing photos 6600, photo compress 6600, photo compressor 6600, compress photos 6600, compress tool 1300, compress image size 1000, file compressor online 1000, files compressor online 1000, online file compressor 1000, compress a file online 1000, compress file size 1000, compressing file size 1000, compress image sizes 1000, image size compressor 1000, photo compressor size 590, photo size compressor 590, online photo compressor 480, photo compressor online 480, compress image for web 480, compress images web 480, image compressor for web 480, compress images for web 480, compressing images for web 480, compression online 390, compressor online 390, online compressor 390, losslessly compress images 390, image compressor lossless 390, lossless image compressor 390, lossless image compression 390, compress image tool 320, image compression tool 320, image compressor tool 320, free image compress 320, free image compression 320, free image compressor 320, image compression tools 320, pic compression 260, pic compressor 260, compress size 210, size compressor 210, image compressor web 210, image compressor website 210, compress images for website 210, image compressor for website 210, bulk compress images 170, compress and resize image 170, compress and resize images 170, compresser image 170, compression image 170, compress photo free 140, photo compressor free 140, compress photographs 140, compress image without losing quality 140, compress image to 256kb 110, image compressor online free 110, google image compressor 90, 8mb compressor 70, compress photo file size 70",
   "META": "Are you looking for a high-quality image compressor? Well, then you are at the right place. Our online file compressor tool is extremely safe, user-friendly, and super quick.",
-  "LABEL": "DOCX to PDF",
-  "BREADCRUMB_LABEL": "DOCX TO PDF",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
   "color": "#ad81ee",
   "TEXTUAL_CONTENT": [
     {
@@ -53,14 +62,9 @@
     }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/assets/pdf.svg",
-    "heading": "How to set alarm for $variable minutes:",
-    "steps": [
-      "Click on set alarm",
-      "Set $variable minutes for alarm.",
-      "Choose sound of your choice.",
-      "Click submit to set alarm, that's it !."
-    ]
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
   },
   "FAQ": [
     {
@@ -74,13 +78,13 @@
   ],
   "StructuredDataWebsite": {
     "@type": "WebSite",
-    "name": "Safeimagekit.com",
-    "alternateName": "Safeimagekit.com",
-    "url": "www.Safeimagekit.com"
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
   },
   "StructuredDataorganization": {
     "@type": "Organization",
-    "url": "https://www.Safeimagekit.com",
+    "url": "https://www.safeimagekit.com",
     "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
   },
   "StructuredDataFaq": {
@@ -106,32 +110,14 @@
   },
   "StructuredDataHowTo": {
     "@type": "HowTo",
-    "name": "How to set alarm for 1 minutes:",
-    "image": "https://miro.medium.com/fit/c/470/353/1*o38gRq5SvLMtgjMMo5Ph7A.jpeg",
+    "name": "",
+    "image": "/idea.svg",
     "step": [
       {
         "@type": "HowToStep",
-        "text": "Click on set alarm",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Set 1 minutes for alarm.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Choose sound of your choice.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
-      },
-      {
-        "@type": "HowToStep",
-        "text": "Click submit to set alarm, that's it !.",
-        "image": "https://example.com/1x1/step4.jpg",
-        "url": "https://example.com/tie#step4"
+        "text": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

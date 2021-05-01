@@ -56,45 +56,46 @@ function setAscii() {
     }
   }, 1000);
   ////loader end
-
-  var reader = new FileReader();
-  reader.readAsDataURL(input);
-  reader.onload = function () {
-    let ele = new imgToAscii(reader.result, 0.3);
-    ele.display();
-    var pre = document.querySelector("pre");
-    document.querySelector("#demo").appendChild(pre);
-    var observer = new MutationObserver(function (hello) {
-      html2canvas(pre, {
-        onrendered: function (canvas) {
-          var url = canvas.toDataURL();
-          var image = new Image();
-          image.src = url;
-          image.onload = function () {
-            var canvas = document.createElement("canvas");
-            var ctx = canvas.getContext("2d");
-            canvas.width = image.width;
-            canvas.height = image.height;
-            ctx.fillStyle = "white";
-            ctx.fillRect(0, 0, canvas.width, canvas.height);
-            ctx.drawImage(image, 0, 0);
-            var url2 = canvas.toDataURL();
-            document.getElementById("demo").style.display = "none";
-            document.getElementById("downloadButton").onclick = function () {
-              var a = document.createElement("a");
-              a.href = url2;
-              a.download = "downlaod";
-              document.body.appendChild(a);
-              a.click();
+  setTimeout(function () {
+    var reader = new FileReader();
+    reader.readAsDataURL(input);
+    reader.onload = function () {
+      let ele = new imgToAscii(reader.result, 0.3);
+      ele.display();
+      var pre = document.querySelector("pre");
+      document.querySelector("#demo").appendChild(pre);
+      var observer = new MutationObserver(function (hello) {
+        html2canvas(pre, {
+          onrendered: function (canvas) {
+            var url = canvas.toDataURL();
+            var image = new Image();
+            image.src = url;
+            image.onload = function () {
+              var canvas = document.createElement("canvas");
+              var ctx = canvas.getContext("2d");
+              canvas.width = image.width;
+              canvas.height = image.height;
+              ctx.fillStyle = "white";
+              ctx.fillRect(0, 0, canvas.width, canvas.height);
+              ctx.drawImage(image, 0, 0);
+              var url2 = canvas.toDataURL();
+              document.getElementById("demo").style.display = "none";
+              document.getElementById("downloadButton").onclick = function () {
+                var a = document.createElement("a");
+                a.href = url2;
+                a.download = "downlaod";
+                document.body.appendChild(a);
+                a.click();
+              };
             };
-          };
-        },
+          },
+        });
       });
-    });
-    observer.observe(pre, {
-      childList: true,
-    });
-  };
+      observer.observe(pre, {
+        childList: true,
+      });
+    };
+  }, 10000);
 }
 document.querySelector(".container2").onclick = function () {
   document.querySelector("#file").click();
