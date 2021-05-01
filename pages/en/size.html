@@ -1,0 +1,67 @@
+---
+permalink: /image-resize
+layout: feature
+fileName: size
+folderName: feature
+tool: Image Resizer
+lang: en
+---
+
+<a name="thankyouBox"></a>
+
+<div class="container2">
+  <div id="upper-loader"></div>
+
+  <span id="inputbox">
+    <div class="row" style="margin-top: 30px">
+      <i class="far fa-image" id="icon" style="margin: auto"></i>
+    </div>
+
+    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
+    <p id="dropfile">or drop your file here</p>
+    <p id="error"></p>
+  </span>
+  <div class="row" id="loaderDiv">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+      <span id="loader"></span>
+    </div>
+  </div>
+  <span id="content">
+    <div class="pictureDisplay">
+      <canvas id="final"></canvas>
+    </div>
+    <br /><br />
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <p id="errorMessage"></p>
+        <input
+          type="text"
+          id="width"
+          class="splitInput"
+          placeholder="Enter the width"
+        />
+        <input
+          type="text"
+          id="height"
+          class="splitInput"
+          placeholder="Enter the height"
+        />
+        <br /><br />
+      </div>
+    </div>
+
+    <a id="resize" class="btn submit">Resize</a>
+    <a id="save" class="btn submit">Save</a>
+  </span>
+  <span class="thankyouBox">
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <img src="/trust.svg" alt="" id="thankyouImage" />
+        <p id="thankyouText">Thanks for your patience</p>
+        <a class="btn" id="downloadButton">DOWNLOAD</a>
+      </div>
+    </div></span
+  >
+</div>
+
+<input type="file" id="file" accept="image/*" class="file" />

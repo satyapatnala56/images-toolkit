@@ -1,0 +1,62 @@
+---
+permalink: /crop-image
+layout: feature
+fileName: crop
+folderName: feature
+tool: Image Cropper
+lang: en
+---
+
+<style>
+  @media (max-width: 387px) {
+    #inp {
+      width: 90%;
+    }
+  }
+</style>
+<a name="thankyouBox"></a>
+<div class="container2">
+  <div id="upper-loader"></div>
+
+  <span id="inputbox">
+    <div class="row" style="margin-top: 30px">
+      <i class="far fa-image" id="icon" style="margin: auto"></i>
+    </div>
+
+    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
+    <p id="dropfile">or drop your file here</p>
+    <p id="error"></p>
+  </span>
+  <div class="row" id="loaderDiv">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+      <span id="loader"></span>
+    </div>
+  </div>
+  <span id="content"
+    ><br /><br /><br /><br />
+    <div style="height: auto; width: 90%; margin: auto">
+      <img id="croppingImage" style="margin: auto" />
+    </div>
+    <br /><br />
+    <br /><br />
+
+    <a
+      id="crop"
+      class="btn submit"
+      onclick="document.querySelector('#crop').style.background='green'"
+      >Crop</a
+    >
+    <a id="save" class="btn submit">Save</a>
+  </span>
+  <span class="thankyouBox">
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <img src="/trust.svg" alt="" id="thankyouImage" />
+        <p id="thankyouText">Thanks for your patience</p>
+        <a class="btn" id="downloadButton">DOWNLOAD</a>
+      </div>
+    </div></span
+  >
+</div>
+
+<input type="file" id="file" accept="image/*" class="file" />

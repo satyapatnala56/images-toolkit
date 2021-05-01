@@ -1,0 +1,644 @@
+.box {
+  height: 300px;
+  width: 100%;
+  margin: auto;
+}
+
+#qrInput {
+  outline: none;
+  background: rgba(90, 90, 90, 0.466);
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  color: white;
+  border-radius: 5px;
+}
+
+@media (max-width: 900px) {
+  #qrInput {
+    width: 80%;
+  }
+}
+#qrInput::placeholder {
+  color: white;
+}
+
+.container2 {
+  height: 300px;
+  width: 100%;
+  margin: auto;
+  cursor: pointer;
+}
+#icon {
+  font-size: 80px;
+  color: white;
+}
+#dropfile {
+  font-size: 20px;
+  margin-top: 15px;
+  text-align: center;
+  color: white;
+}
+#svgcontainer {
+  height: 1px;
+  width: 1px;
+  visibility: hidden;
+}
+#upper-loader {
+  width: 0%;
+  height: 13px;
+  background: white;
+}
+.frame {
+  background: red;
+  border: 1px solid white;
+  width: 80%;
+  height: 350px;
+  margin: auto;
+}
+#demo {
+  visibility: hidden;
+}
+
+.up {
+  margin-left: 10px;
+  outline: none;
+  color: white;
+  border: 3px solid white;
+  width: 200px;
+  font-weight: bold;
+  outline: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#save {
+  float: right;
+}
+#loader-box {
+  background: url("../spinner.gif");
+  height: 70px;
+  width: 70px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
+
+#nav {
+  width: 80%;
+  margin: auto;
+  border: 3px solid white;
+  height: 70px;
+}
+
+#demo {
+  height: 1px;
+  width: 1px;
+}
+
+#errorMessage {
+  color: yellow;
+  font-size: 25px;
+  text-align: center;
+}
+#download {
+  margin-top: 20px;
+}
+.file {
+  height: 0px;
+  width: 0px;
+  visibility: hidden;
+}
+
+.up:hover {
+  background: white;
+  color: red;
+}
+
+.croppr-region {
+  height: 100px;
+}
+
+#filteroption {
+  padding: 15px 10px;
+  width: 420px;
+  border-radius: 10px;
+  font-weight: bold;
+  color: red;
+  margin-left: 10px;
+  outline: none;
+}
+
+@media (max-width: 580px) {
+  #filteroption {
+    width: 80%;
+  }
+}
+#inp,
+#width {
+  margin: auto;
+  width: 300px;
+  height: 47px;
+  border-radius: 10px;
+  outline: none;
+}
+
+#height {
+  margin: auto;
+  width: 300px;
+  height: 47px;
+  border-radius: 10px;
+  outline: none;
+  margin-left: 10px;
+}
+
+#range {
+  width: 70%;
+  margin: auto;
+  font-size: 20px;
+}
+
+@media (max-width: 685px) {
+  #height {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: 385px) {
+  #height,
+  #width {
+    width: 90%;
+  }
+}
+
+@media (max-width: 524px) {
+  #reset {
+    margin-top: 15px;
+  }
+}
+
+.boxes {
+  padding: 13px 10px;
+  width: 220px;
+  font-size: 20px;
+  background: white;
+  margin: auto;
+  text-align: center;
+  cursor: pointer;
+}
+@media (max-width: 330px) {
+  .boxes {
+    width: 80%;
+  }
+}
+#content {
+  visibility: hidden;
+}
+/* 
+#inputbox {
+  display: none;
+} */
+.boxes p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+#message {
+  color: yellow;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+#option {
+  background: white;
+  color: red;
+  font-weight: bold;
+  padding: 15px 90px;
+  outline: none;
+  border-radius: 10px;
+}
+
+.imgBox {
+  width: 350px;
+  height: 250px;
+  border: 3px solid black;
+  display: inline-block;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+#error {
+  color: yellow;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+#downloadCard {
+  width: 600px;
+  margin: auto;
+  margin-top: 110px;
+}
+
+@media (max-width: 587px) {
+  #downloadCard {
+    margin-top: 90px;
+  }
+}
+
+@media (max-width: 746px) {
+  #downloadCard {
+    width: 90%;
+  }
+}
+
+#out {
+  margin: auto;
+  width: 70%;
+  height: 59px;
+  border: 7px solid white;
+  border-radius: 7px;
+}
+#in {
+  width: 1%;
+  height: 44.8px;
+  background: #00e600;
+}
+#loadingMessage {
+  margin-top: 130px;
+  font-weight: bold;
+  color: white;
+  font-size: 25px;
+}
+@media (max-width: 560px) {
+  #loadingMessage {
+    font-size: 24px;
+  }
+}
+@media (max-width: 425px) {
+  #loadingMessage {
+    font-size: 20px;
+  }
+}
+
+#downloadButton {
+  padding: 10px 16px;
+  background: white;
+  outline: none;
+}
+
+#thankyouImage {
+  height: 80px;
+  width: 80px;
+}
+#thankyouText {
+  text-align: center;
+  color: white;
+  margin-top: 13px;
+  font-size: 17px;
+}
+
+.splitInput {
+  background: rgba(90, 90, 90, 0.466);
+  height: 60px;
+  width: 300px;
+  margin: auto;
+  color: white;
+  outline: none;
+  border-radius: 5px;
+  margin: 15px;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+}
+
+.splitInput::placeholder {
+  color: white;
+}
+
+.submit {
+  background: rgba(90, 90, 90, 0.466);
+  color: white;
+  font-size: 17px;
+  padding: 15px 100px;
+  border: 1px solid white;
+}
+
+.pictureDisplay {
+  height: 400px;
+  width: 90%;
+  margin: auto;
+  overflow: auto;
+  background: rgba(90, 90, 90, 0.466);
+}
+
+.submit:hover {
+  color: white;
+}
+
+@media (max-width: 620px) {
+  .submit {
+    padding: 15px 70px;
+  }
+}
+
+#memeText {
+  width: 87%;
+  color: white;
+  outline: none;
+  height: 60px;
+  float: left;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+}
+
+#memeText::placeholder {
+  color: white;
+}
+@media (max-width: 496px) {
+  .submit {
+    padding: 15px 40px;
+  }
+}
+
+.thankyouBox {
+  visibility: hidden;
+}
+
+#filterChoice {
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+  padding: 15px 70px;
+  color: white;
+  border-radius: 10px;
+  text-align: left;
+}
+#memetextDiv {
+  height: 60px;
+  width: 665px;
+  margin: auto;
+}
+
+#compressOption {
+  padding: 17px 100px;
+  background: transparent;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+}
+
+#compressOption opiton {
+  color: white;
+  background: rgba(90, 90, 90, 0.466);
+}
+
+.compressImage {
+  height: inherit;
+  width: 400px;
+  display: inline-block;
+  margin: auto;
+}
+
+#outputImage {
+  margin-left: 100px;
+}
+
+.compressImage p {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.compressTable {
+  border: 3px solid white;
+  width: 100%;
+}
+.compressTable tr th,
+td {
+  border: 3px solid white;
+  height: 40px;
+  color: white;
+  text-align: center;
+}
+
+.compressTable tr th {
+  background: black;
+}
+
+@media (max-width: 541px) {
+  .compressImage {
+    width: 100%;
+  }
+}
+
+#mimetype {
+  padding: 17px 80px;
+  background: transparent;
+  color: white;
+  border-radius: 5px;
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+}
+
+#quality,
+#mimetype {
+  margin: 5px;
+}
+
+#opacityDiv {
+  height: 60px;
+  width: 400px;
+  margin: auto;
+}
+
+#memeStyle {
+  width: 250px;
+  height: 60px;
+  color: white;
+  outline: none;
+  margin: 10px;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+}
+#memeStyle option {
+  color: black;
+}
+#opacityText {
+  color: white;
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.sDiv {
+  height: 60px;
+  width: 328px;
+  margin: auto;
+  display: inline-block;
+  margin: 5px;
+}
+#memeShadow {
+  height: 60px;
+  width: 85%;
+  float: left;
+  color: white;
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+#lineHeight {
+  height: 60px;
+  width: 100%;
+  float: left;
+  color: white;
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+#memeStroke {
+  height: 60px;
+  width: 85%;
+  float: left;
+  color: white;
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+#memeShadowColor {
+  height: 60px;
+  width: 15%;
+  float: left;
+}
+
+#memeStrokeColor {
+  height: 60px;
+  width: 15%;
+  float: left;
+}
+#memeStroke::placeholder {
+  color: white;
+}
+#memeShadow::placeholder {
+  color: white;
+}
+
+#imageInput {
+  padding: 15px 20px;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: #353535;
+  color: white;
+}
+#textInput {
+  padding: 15px 20px;
+  margin-left: 30px;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: #353535;
+  color: white;
+}
+
+#fontSize {
+  height: 60px;
+  width: 300px;
+  margin: auto;
+  color: white;
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+}
+
+#fontSize::placeholder {
+  color: white;
+}
+
+.styleButtons {
+  font-weight: bold;
+  height: 60px;
+  width: 50px;
+  border: 3px solid black;
+  display: inline-block;
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+}
+.styleButtons p {
+  color: white;
+  font-size: 20px;
+}
+
+.dimensions {
+  height: 60px;
+  width: 300px;
+  outline: none;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+  border-radius: 5px;
+  margin: 5px;
+  color: white;
+  display: inline-block;
+}
+.dimensions::placeholder {
+  color: white;
+}
+
+#memeOpacity {
+  outline: none;
+  height: 60px;
+  color: white;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: rgba(90, 90, 90, 0.466);
+  width: 200px;
+}
+
+#bgColor {
+  width: 100%;
+  height: 50px;
+}
+
+#bgDiv {
+  margin: auto;
+  height: 80px;
+  width: 620px;
+}
+
+#bgDiv p {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+#textDiv {
+  margin: auto;
+  width: 700px;
+  height: auto;
+}
+
+@media (max-width: 845px) {
+  #textDiv {
+    width: 90%;
+  }
+}
+
+#memeTextColor {
+  float: right;
+  height: 60px;
+  width: 13%;
+}
+
+#secondInput {
+  visibility: hidden;
+}
+
+#msg {
+  text-align: center;
+  color: yellow;
+  font-size: 25px;
+}

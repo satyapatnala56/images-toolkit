@@ -1,0 +1,44 @@
+---
+permalink: /pixel-art-maker
+layout: feature
+fileName: pixel
+folderName: feature
+tool: Image to pixelate image converter
+lang: en
+---
+
+<style>
+  .frame {
+    margin-top: 40px;
+  }
+</style>
+
+<div class="container2">
+  <div id="upper-loader"></div>
+
+  <span id="inputbox">
+    <div class="row" style="margin-top: 30px">
+      <i class="far fa-image" id="icon" style="margin: auto"></i>
+    </div>
+
+    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
+    <p id="dropfile">or drop your file here</p>
+    <p id="error"></p>
+  </span>
+  <div class="row" id="loaderDiv">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+      <span id="loader"></span>
+    </div>
+  </div>
+  <span id="content">
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <img src="/trust.svg" alt="" id="thankyouImage" />
+        <p id="thankyouText">Thanks for your patience</p>
+        <a class="btn" id="downloadButton">DOWNLOAD</a>
+      </div>
+    </div>
+  </span>
+</div>
+
+<input type="file" id="file" class="file" />
