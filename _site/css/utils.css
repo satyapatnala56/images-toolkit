@@ -290,6 +290,7 @@
 #thankyouImage {
   height: 80px;
   width: 80px;
+  margin-top: 50px;
 }
 #thankyouText {
   text-align: center;
@@ -328,6 +329,7 @@
   margin: auto;
   overflow: auto;
   background: rgba(90, 90, 90, 0.466);
+  margin-top: -130px;
 }
 
 .submit:hover {

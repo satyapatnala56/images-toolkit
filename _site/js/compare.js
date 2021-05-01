@@ -59,6 +59,8 @@ document.querySelector("#file").onchange = function (e) {
           document.querySelector("#loader-box").style.display = "none";
           document.querySelector("#content").style.visibility = "visible";
           document.querySelector(".box").style.height = "auto";
+          document.querySelector(".container2").style.height = "auto";
+
           document.querySelector(".box").style.background = "#353535";
 
           clearInterval(ans);
