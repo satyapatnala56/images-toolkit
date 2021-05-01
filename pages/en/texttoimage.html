@@ -1,0 +1,374 @@
+---
+permalink: /text-to-image-converter
+layout: feature
+fileName: texttoimage
+folderName: feature
+lang: en
+tool: Text to image converter
+---
+
+<style>
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+
+  input:checked + .slider {
+    background-color: #2196f3;
+  }
+
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196f3;
+  }
+
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  #content {
+    visibility: visible;
+  }
+  .container2 {
+    height: auto;
+  }
+  .box {
+    height: 1400px;
+    background: #353535;
+  }
+  #inputbox {
+    margin-top: 50px;
+  }
+  #content {
+    visibility: visible;
+  }
+  #textInput {
+    margin-left: -30px;
+  }
+  .pictureDisplay {
+    margin-top: 150px;
+  }
+  .lineHeightDiv {
+    height: 60px;
+    width: 350px;
+    margin: auto;
+    display: inline-block;
+    margin: 5px;
+  }
+
+  .sDiv {
+    height: 60px;
+    width: 300px;
+    margin: auto;
+    display: inline-block;
+    margin: 5px;
+  }
+  #memeShadow {
+    height: 60px;
+    width: 85%;
+    float: left;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  #lineHeight {
+    height: 60px;
+    width: 100%;
+    float: left;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  #memeStroke {
+    height: 60px;
+    width: 85%;
+    float: left;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  #memeShadowColor {
+    height: 60px;
+    width: 15%;
+    float: left;
+  }
+
+  #memeStrokeColor {
+    height: 60px;
+    width: 15%;
+    float: left;
+  }
+  #memeStroke::placeholder {
+    color: white;
+  }
+  #memeShadow::placeholder {
+    color: white;
+  }
+
+  #imageInput {
+    padding: 15px 20px;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: #353535;
+    color: white;
+  }
+  #textInput {
+    padding: 15px 20px;
+    margin-left: 30px;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: #353535;
+    color: white;
+  }
+
+  #fontSize {
+    height: 60px;
+    width: 85%;
+    float: left;
+    margin: auto;
+    color: white;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+  }
+
+  #fontSize::placeholder {
+    color: white;
+  }
+
+  .styleButtons {
+    font-weight: bold;
+    height: 60px;
+    width: 50px;
+    border: 3px solid black;
+    display: inline-block;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+  }
+  .styleButtons p {
+    color: white;
+    font-size: 20px;
+  }
+
+  .dimensions {
+    height: 60px;
+    width: 300px;
+    outline: none;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
+    display: inline-block;
+  }
+  .dimensions::placeholder {
+    color: white;
+  }
+
+  #bgColor {
+    width: 100%;
+    height: 50px;
+  }
+
+  #bgDiv {
+    margin: auto;
+    height: 80px;
+    width: 700px;
+  }
+
+  #bgDiv p {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+  }
+  #textDiv {
+    margin: auto;
+    width: 700px;
+    height: auto;
+  }
+
+  @media (max-width: 845px) {
+    #textDiv {
+      width: 90%;
+    }
+  }
+
+  #memeTextColor {
+    float: right;
+    height: 60px;
+    width: 15%;
+  }
+
+  #memeStyle {
+    width: 250px;
+    height: 60px;
+    color: white;
+    outline: none;
+    margin: 10px;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+  }
+  #memeStyle option {
+    color: black;
+  }
+</style>
+
+<a name="down"></a>
+
+<div class="container2">
+  <div id="upper-loader"></div>
+
+  <span id="content">
+    <div class="pictureDisplay">
+      <div class="row">
+        <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+          <br /><br /><br /><br /><br /><br />
+          <img src="" alt="" id="resultImage" style="border: 4px" />
+        </div>
+      </div>
+    </div>
+    <br /><br />
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <p id="errorMessage"></p>
+        <div id="textDiv">
+          <textarea
+            placeholder="Enter the text here"
+            name=""
+            id="memeText"
+            cols="100"
+            rows="10"
+            style="width: 100%"
+          ></textarea>
+        </div>
+        <br />
+
+        <select name="" id="memeStyle">
+          <option value="---">Choose the Font style</option>
+          <option value="Arial">Arial</option>
+          <option value="Times New Roman">Times New Roman</option>
+          <option value="Lucida Console">Lucida Console</option>
+          <option value="Impact">Impact</option>
+          <option value="Lucida Sans Unicode">Lucida Sans Unicode</option>
+          <option value="Palatino Linotype">Palatino Linotype</option>
+          <option value="Courier New">Courier New</option>
+        </select>
+        <div class="styleButtons" id="italic">
+          <p style="margin-top: 12px">I</p>
+        </div>
+        <div class="styleButtons" id="bold">
+          <p style="margin-top: 12px">B</p>
+        </div>
+        &nbsp; &nbsp;
+
+        <div
+          id="fontDiv"
+          style="height: 60px; width: 320px; display: inline-block"
+        >
+          <input
+            type="number"
+            id="fontSize"
+            placeholder="Enter Font Size"
+            style="margin-top: 24px"
+          />
+          <input
+            type="color"
+            name=""
+            id="memeTextColor"
+            style="margin-top: 24px"
+          />
+        </div>
+
+        <br />
+        <br />
+        <div class="sDiv" style="width: 340px">
+          <input
+            type="number"
+            id="memeStroke"
+            placeholder="Enter the Stroke Value "
+          />
+          <input type="color" name="" id="memeStrokeColor" />
+        </div>
+        <div class="lineHeightDiv">
+          <input
+            type="number"
+            id="lineHeight"
+            placeholder="Enter the Line Height"
+          />
+        </div>
+        <br /><br />
+
+        <div id="bgDiv">
+          <p>Background Color</p>
+          <input type="color" name="" id="bgColor" value="#ffffff" />
+        </div>
+
+        <br /><br />
+      </div>
+    </div>
+    <br />
+    <a id="generate" class="btn submit">Generate</a>
+    <a id="save" class="btn submit">Save</a>
+  </span>
+  <span class="thankyouBox">
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <img src="/trust.svg" alt="" id="thankyouImage" />
+        <p id="thankyouText">Thanks for your patience</p>
+        <a class="btn" id="downloadButton">DOWNLOAD</a>
+      </div>
+    </div></span
+  >
+</div>
+
+<input type="file" id="file" accept="image/*" class="file" />

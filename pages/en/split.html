@@ -1,0 +1,73 @@
+---
+permalink: /split-photo
+layout: feature
+lang: en
+fileName: split
+tool: Image Splitter
+folderName: feature
+---
+
+<style>
+  @media (max-width: 387px) {
+    #inp {
+      width: 90%;
+    }
+  }
+</style>
+<a name="down"></a>
+<div class="container2">
+  <div id="upper-loader"></div>
+
+  <span id="inputbox">
+    <div class="row" style="margin-top: 30px">
+      <i class="far fa-image" id="icon" style="margin: auto"></i>
+    </div>
+
+    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
+    <p id="dropfile">or drop your file here</p>
+    <p id="error"></p>
+  </span>
+  <div class="row" id="loaderDiv">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+      <span id="loader"></span>
+    </div>
+  </div>
+  <span id="content"
+    ><br /><br /><br /><br />
+    <div class="pictureDisplay" style="margin-top: -290px"></div>
+    <br /><br />
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <p id="errorMessage"></p>
+
+        <input
+          type="number"
+          id="ROWS"
+          class="splitInput"
+          placeholder="Enter the rows"
+        />
+        <input
+          type="number"
+          id="COLS"
+          class="splitInput"
+          placeholder="Enter the columns"
+        />
+        <br /><br />
+      </div>
+    </div>
+
+    <a id="submit" class="btn submit">Split</a>
+    <a id="save" class="btn submit">Save</a>
+  </span>
+  <span class="thankyouBox">
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <img src="/trust.svg" alt="" id="thankyouImage" />
+        <p id="thankyouText">Thanks for your patience</p>
+        <a class="btn" id="downloadButton">DOWNLOAD</a>
+      </div>
+    </div></span
+  >
+</div>
+
+<input type="file" id="file" accept="image/*" class="file" />
