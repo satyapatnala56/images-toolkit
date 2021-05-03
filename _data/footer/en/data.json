@@ -1,0 +1,123 @@
+{
+  "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+  "heading": "safeimagekit.com",
+  "company": [
+    {
+      "name": "Terms and Condition",
+      "url": "term-and-condition"
+    },
+    {
+      "name": "Disclaimer",
+      "url": "disclaimer"
+    },
+    {
+      "name": "Privacy",
+      "url": "privacy-policy"
+    }
+  ],
+  "product": [
+    {
+      "name": "ASCII image generator ",
+      "url": "/ascii-art-from-image"
+    },
+    {
+      "name": "QR Code Generator",
+      "url": "/qr-code-generator"
+    },
+    {
+      "name": "Image Splitter ",
+      "url": "/split-photo"
+    },
+    {
+      "name": "Image Compressor ",
+      "url": "/compress-an-image"
+    },
+    {
+      "name": "Gif image compresor ",
+      "url": "/compress-a-gif"
+    },
+    {
+      "name": "Png Image compressor ",
+      "url": "/compress-png"
+    },
+    {
+      "name": "jpeg Image compressor ",
+      "url": "/compress-jpeg"
+    },
+    {
+      "name": "Image comparison",
+      "url": "/image-comparision"
+    },
+    {
+      "name": "Image cropper",
+      "url": "/crop-image"
+    },
+    {
+      "name": "Image Filter Adder",
+      "url": "/photo-filters"
+    },
+    {
+      "name": "Meme generator",
+      "url": "/meme-generator"
+    },
+    {
+      "name": "Image Flipper",
+      "url": "/flip-image"
+    },
+    {
+      "name": "Text to image converter",
+      "url": "/text-to-image-converter"
+    },
+    {
+      "name": "Image Resizer",
+      "url": "/image-resize"
+    },
+    {
+      "name": "Watermark image maker",
+      "url": "/watermark-for-photos"
+    },
+    {
+      "name": "Image to pixel art converter",
+      "url": "/pixel-art-maker"
+    }
+  ],
+
+  "social": [
+    {
+      "logo": "/assets/facebook.svg",
+      "url": "/",
+      "title": "abc"
+    },
+    {
+      "logo": "/assets/youtube.svg",
+      "url": "/",
+      "title": "abc"
+    },
+    {
+      "logo": "/assets/instagram.svg",
+      "url": "/",
+      "title": "abc"
+    },
+    {
+      "logo": "/assets/linkdin.svg",
+      "url": "/",
+      "title": "abc"
+    },
+    {
+      "logo": "/assets/twitter.svg",
+      "url": "/",
+      "title": "abc"
+    }
+  ],
+  "legal": [
+    {
+      "name": "About Us",
+      "url": "about"
+    },
+    {
+      "name": "Contact Us",
+      "url": "contact"
+    }
+  ],
+  "messege": "© 2021 - safeimagekit.com"
+}

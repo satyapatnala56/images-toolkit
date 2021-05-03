@@ -1,0 +1,49 @@
+{
+  "tools": [
+    {
+      "name": "ASCII image generator "
+    },
+    {
+      "name": "Image Compression "
+    },
+    {
+      "name": "Image Splitter "
+    },
+    {
+      "name": "Jpeg Compression "
+    },
+    {
+      "name": "Png Compression "
+    },
+    {
+      "name": "Gif Compression "
+    },
+    {
+      "name": "Image comparison"
+    },
+    {
+      "name": "Image Filter Adder"
+    },
+    {
+      "name": "Meme generator"
+    },
+    {
+      "name": "Text to image converter"
+    },
+    {
+      "name": "Image Flipper"
+    },
+    {
+      "name": "Image Resizer"
+    },
+    {
+      "name": "Watermark image maker"
+    },
+    {
+      "name": " QR Code Generator"
+    },
+    {
+      "name": " Image to pixelate image converter"
+    }
+  ]
+}

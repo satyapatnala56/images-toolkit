@@ -1,0 +1,47 @@
+---
+layout: home
+permalink: /watermark
+---
+
+<div id="done" style="overflow: scroll"></div>
+enter the name<input type="file" id="input" />
+<script src="dist/watermark.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+<script>
+  var input = document.getElementById("input");
+  input.onchange = function () {
+    var reader = new FileReader();
+    reader.onload = function () {
+      watermark([reader.result, "pt.jpg"])
+        .image(function (coffee, logo) {
+          var context = coffee.getContext("2d");
+          context.save();
+          context.fillStyle = "black";
+          context.drawImage(logo, 100, 100, 100, 100);
+          context.restore();
+          return coffee;
+        })
+        .then(function (img) {
+          document.getElementById("done").appendChild(img);
+        });
+      // var rotate = function (target) {
+      //   var context = target.getContext("2d");
+      //   context.fillStyle = "red";
+      //   context.font = "48px Josefin Slab";
+      //   context.drawImage(
+      //     "done thing hello my name is prateek taluja",
+      //     100,
+      //     100
+      //   );
+      //   return target;
+      // };
+
+      // watermark([reader.result])
+      //   .image(rotate)
+      //   .then(function (img) {
+      //     document.getElementById("done").appendChild(img);
+      //   });
+    };
+    reader.readAsDataURL(input.files[0]);
+  };
+</script>

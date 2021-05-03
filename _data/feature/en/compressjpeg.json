@@ -1,0 +1,130 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "JPEG Compressor",
+  "img": "https://img.icons8.com/dotty/100/000000/compress.png",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "altvalue",
+  "data": {
+    "total": 0,
+    "_id": "608c88e5614e470009fad867",
+    "website": "safeimagekit",
+    "feature": "Jpeg Compression",
+    "ratings": [],
+    "created": "2021-04-30T22:47:01.115Z",
+    "__v": 0
+  },
+  "H2": "JPEG compression has been made easy with us, start by uploading your file below",
+  "TITLE": "JPEG compressor-online JPG compressor- safeimagekit",
+  "keywords": "compress jpeg 18100, jpeg compress 18100, jpeg compression 18100, jpeg compressor 18100, jpg to compress 14800, compress jpeg files 720, file compression jpeg 720, compress jpeg online 720, compress jpg online 720, jpeg compression online 720, jpeg compressor online 720, online jpg compressor 720, compressjpeg 390, jpg file compressor 320, compress image jpeg 320, compress jpeg image 320, jpeg image compression 320, free jpeg compressor 140, jpeg compressor free 140, compress jpeg windows 70, compression jpeg 70, jpeg compression size 70",
+  "META": "Are you looking for a high-quality JPEG compressor? Well, then you are at the right place. Our online JPG compressor tool is extremely safe, user-friendly, and super quick.",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "#33cccc",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "High Quality",
+      "content": "Our JPEG compresssion tool compresses the images by retaining its quality."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Flexibilty",
+      "content": " Our JPEG compresssion tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "User friendly",
+      "content": "Our  JPEG compresssion tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Free of cost",
+      "content": "Our  JPEG compresssion tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No additional download",
+      "content": "Our  JPEG compresssion tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
+  },
+  "FAQ": [
+    {
+      "question": "Will my file be saved after I complete working on the  JPEG compresssion tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the JPEG compresssion tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    }
+  ],
+  "StructuredDataWebsite": {
+    "@type": "WebSite",
+    "name": "safeimagekit.com",
+    "alternateName": "safeimagekit.com",
+    "url": "www.safeimagekit.com"
+  },
+  "StructuredDataorganization": {
+    "@type": "Organization",
+    "url": "https://www.safeimagekit.com",
+    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
+  },
+  "StructuredDataFaq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Will my file be saved after I complete working on the JPEG compresssion tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I have to do any additional signup or pay extra to use the JPEG compresssion tool? ",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        }
+      }
+    ]
+  },
+  "StructuredDataHowTo": {
+    "@type": "HowTo",
+    "name": "",
+    "image": "/idea.svg",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "text": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+
+  "jscdns": [
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+    "<Script src=\"js/compressjpeg.js\"></script>"
+  ],
+  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+}

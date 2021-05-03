@@ -1,0 +1,62 @@
+---
+permalink: /flip-image
+layout: feature
+fileName: rotate
+folderName: feature
+tool: Image Flipper
+lang: en
+---
+
+<a name="thankyouBox"></a>
+
+<div class="container2">
+  <div id="upper-loader"></div>
+
+  <span id="inputbox">
+    <div class="row" style="margin-top: 30px">
+      <i class="far fa-image" id="icon" style="margin: auto"></i>
+    </div>
+
+    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
+    <p id="dropfile">or drop your file here</p>
+    <p id="error"></p>
+  </span>
+  <div class="row" id="loaderDiv">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+      <span id="loader"></span>
+    </div>
+  </div>
+  <span id="content">
+    <div class="pictureDisplay">
+      <canvas id="final"></canvas>
+    </div>
+    <br /><br />
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <p id="errorMessage"></p>
+
+        <p style="text-align: center; color: white; font-size: 25px">
+          ROTATION &nbsp; ANGLE
+        </p>
+        <input
+          type="number"
+          id="angle"
+          class="splitInput"
+          placeholder="Enter the Rotation Angle"
+        />
+        <a id="savep" class="btn submit">Rotate</a>
+      </div>
+    </div>
+  </span>
+  <span class="thankyouBox">
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <img src="/trust.svg" alt="" id="thankyouImage" />
+        <p id="thankyouText">Thanks for your patience</p>
+        <a class="btn" id="downloadButton">DOWNLOAD</a>
+      </div>
+    </div></span
+  >
+</div>
+
+<input type="file" id="file" accept="image/*" class="file" />
