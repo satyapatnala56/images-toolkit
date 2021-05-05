@@ -24,7 +24,7 @@ container.ondrop = function (e) {
     splitImage();
   } else {
     console.log("error");
-    document.querySelector(".box").style.height = "350px";
+    document.querySelector(".container2").style.height = "350px";
     document.querySelector("#error").innerHTML = "File format not supported";
   }
 };
@@ -53,7 +53,7 @@ function splitImage() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".box").style.height = "900px";
+      document.querySelector(".container2").style.height = "auto";
 
       clearInterval(ans);
     }
@@ -76,11 +76,13 @@ function splitImage() {
       c.width = image.width;
       c.height = image.height;
       ctx.drawImage(image, 0, 0);
-      c.id = "c";
-      document.querySelector(".pictureDisplay").appendChild(c);
+
+      document.querySelector("#splitList").appendChild(c);
 
       document.querySelector("#submit").onclick = function () {
-        $("#c").remove();
+        document.querySelector("#splitDiv span").innerHTML =
+          '<br><a id="downloadAll" class="btn btn-danger splitBtn">DownloadAll</a><a id="downloadzip" class="btn btn-danger splitBtn">Save As zip file</a>';
+        // document.querySelector(".splitDimensions").style.display = "none";
 
         var rows = document.querySelector("#ROWS").value || 2;
         var cols = document.querySelector("#COLS").value || 2;
@@ -110,29 +112,66 @@ function splitImage() {
             imagePieces.push(canvas.toDataURL());
           }
         }
+        $("#splitList canvas").remove();
+        $("#process").remove();
+        var ol = document.createElement("ol");
+        document.querySelector("#splitList").appendChild(ol);
+
+        document.querySelector("#splitList").style.height = "250px";
+        document.querySelector("#splitList").style.border = "3px solid white";
+
+        document.querySelector("#splitList").style.marginTop = "50px";
+
+        document.querySelector("#splitList ol").style.marginTop = "30px";
+
         for (let i = 0; i < imagePieces.length; i++) {
           var img = document.createElement("img");
           img.src = imagePieces[i];
           img.id = i;
           img.style.margin = "10px";
-          document.querySelector(".pictureDisplay").appendChild(img);
+          var li = document.createElement("li");
+          li.innerHTML =
+            "<a href=" +
+            imagePieces[i] +
+            " download=" +
+            i +
+            1 +
+            ">Section" +
+            (i + 1) +
+            ".png" +
+            "</a>";
+          document.querySelector("#splitList ol").appendChild(li);
         }
 
-        var resultImages = document.querySelectorAll(".pictureDisplay img");
-        document.querySelector("#downloadButton").onclick = function () {
+        /////donwnload as zip
+        document.querySelector("#downloadzip").onclick = function () {
+          var zip = new JSZip();
+          for (let i = 0; i < imagePieces.length; i++) {
+            zip.file(i + 1 + ".png", imagePieces[i]);
+          }
+
+          zip
+            .generateAsync({
+              type: "blob",
+            })
+            .then(function (ans) {
+              console.log(ans);
+              var ab = document.createElement("a");
+              ab.href = window.URL.createObjectURL(ans);
+              // var one = input.name.match(/^.*\./);
+              // var oneFinal = one.replace(".", "");
+              ab.download = "splitted" + ".zip";
+              ab.click();
+            });
+        };
+
+        document.querySelector("#downloadAll").onclick = function () {
           for (let i = 0; i < imagePieces.length; i++) {
             var a = document.createElement("a");
-            a.href = resultImages[i].src;
-            a.download = "download";
+            a.href = imagePieces[i];
+            a.download = i + 1 + ".png";
             a.click();
           }
-        };
-        document.querySelector("#save").onclick = function () {
-          window.location.href = "#down";
-          document.querySelector("#content").style.display = "none";
-          document.querySelector(".thankyouBox").style.visibility = "visible";
-          box.style.height = "300px";
-          box.style.background = "#ff6666";
         };
       };
       console.log(reader.result);

@@ -7,8 +7,33 @@ tool: Image Resizer
 lang: en
 ---
 
-<a name="thankyouBox"></a>
+<style>
+  @media (max-width: 387px) {
+    #inp {
+      width: 90%;
+    }
+  }
+  @media (max-width: 480px) {
+    #height,
+    #width {
+      width: 90%;
+    }
+  }
 
+  #resize,
+  #saving {
+    border: 3px solid white;
+  }
+
+  #resize:hover {
+    color: white;
+  }
+
+  #saving:hover {
+    color: white;
+  }
+</style>
+<a name="thankyouBox"></a>
 <div class="container2">
   <div id="upper-loader"></div>
 
@@ -27,41 +52,17 @@ lang: en
     </div>
   </div>
   <span id="content">
-    <div class="pictureDisplay" style="margin-top: -170px">
-      <canvas id="final"></canvas>
-    </div>
-    <br /><br />
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <p id="errorMessage"></p>
-        <input
-          type="text"
-          id="width"
-          class="splitInput"
-          placeholder="Enter the width"
-        />
-        <input
-          type="text"
-          id="height"
-          class="splitInput"
-          placeholder="Enter the height"
-        />
-        <br /><br />
+    <div class="row" style="margin-top: 65px">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12 sizing">
+        <input type="number" id="width" placeholder="Enter width" /><br />
+        <input type="number" id="height" placeholder="Enter height" /><br />
+        <a class="btn" id="resize">Resize</a>
+        <a class="btn" id="saving">Save</a><br /><br />
+        <p id="msg"></p>
       </div>
     </div>
-
-    <a id="resize" class="btn submit">Resize</a>
-    <a id="save" class="btn submit">Save</a>
   </span>
-  <span class="thankyouBox">
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <img src="/trust.svg" alt="" id="thankyouImage" />
-        <p id="thankyouText">Thanks for your patience</p>
-        <a class="btn" id="downloadButton">DOWNLOAD</a>
-      </div>
-    </div></span
-  >
+  <span class="thankyouBox"> </span>
 </div>
 
 <input type="file" id="file" accept="image/*" class="file" />

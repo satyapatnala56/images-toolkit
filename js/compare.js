@@ -5,6 +5,8 @@ var file = document.querySelector("#file");
 var box = document.querySelector(".box");
 
 var input;
+
+/////drag and drop event
 container.ondragover = function (e) {
   e.preventDefault();
 };
@@ -18,19 +20,27 @@ container.ondrop = function (e) {
     extension == "jpeg" ||
     extension == "png"
   ) {
+    input = e.dataTransfer.files[0];
+    $(".container2 #file").remove();
+
     imgComparison();
   } else {
-    console.log("error");
     document.querySelector(".box").style.height = "350px";
     document.querySelector("#error").innerHTML = "File format not supported";
   }
 };
 
-document.querySelector("#file").onchange = function (e) {
-  e.preventDefault();
+////input button event
+file.onchange = function () {
+  $(".container2 #file").remove();
+
+  input = file.files[0];
+  imgComparison();
+};
+
+function imgComparison() {
   document.querySelector("#inputbox").style.display = "none";
   document.querySelector("#secondInput").style.visibility = "visible";
-  var file = e.target.files[0];
   var reader = new FileReader();
   reader.onload = function () {
     var r1 = reader.result;
@@ -76,7 +86,7 @@ document.querySelector("#file").onchange = function (e) {
             "Fade effect based comparison";
 
           document.querySelector("#cResult").innerHTML =
-            ' <div class="pictureDisplay" style="width: 90%"> <div id="back"> <img src="' +
+            ' <div class="pictureDisplay" style="width: 90%;margin-top:134px"> <div id="back" style="margin-top:px"> <img src="' +
             r2 +
             '" alt="" style="height: auto; width: 100%; max-height: 500px; opacity: 0.6" /> </div> </div>; ';
           document.querySelector("#back").style.backgroundImage =
@@ -120,7 +130,7 @@ document.querySelector("#file").onchange = function (e) {
             img2.onload = function () {
               document.querySelector("#cResult").innerHTML =
                 ' <div style="width: 100%; height: 500px"> <div class="tableDiv"> <table id="table1" class="table"> <tr> <th>Property</th> <th>Value</th> </tr> <tr> <td>Name</td> <td>' +
-                file.name +
+                input.name +
                 "</td> </tr> <tr> <td>Size</td> <td>" +
                 parseInt(file.size) / 1000 +
                 "kb</td> </tr> <tr> <td>Type</td> <td>" +
@@ -153,9 +163,9 @@ document.querySelector("#file").onchange = function (e) {
       reader2.readAsDataURL(file2.files[0]);
     };
   };
-  reader.readAsDataURL(file);
-};
+  reader.readAsDataURL(input);
+}
 
 document.querySelector(".container2").onclick = function () {
-  document.querySelector(".file").click();
+  document.querySelector("#file").click();
 };

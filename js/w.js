@@ -27,7 +27,7 @@ container.ondrop = function (e) {
     memeProcessing();
   } else {
     console.log("error");
-    document.querySelector(".box").style.height = "350px";
+    container.style.height = "350px";
     document.querySelector("#error").innerHTML = "File format not supported";
   }
 };
@@ -62,7 +62,6 @@ function memeProcessing() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".box").style.height = "auto";
       document.querySelector(".container2").style.height = "auto";
 
       clearInterval(ans);
@@ -119,7 +118,7 @@ function memeProcessing() {
             if (styles[i].id == "underline") {
               underline = "underline";
             }
-            styles[i].style.background = "green";
+            styles[i].style.background = "red";
           }
         };
       }
@@ -195,22 +194,23 @@ function memeProcessing() {
 
       ///save button
       document.querySelector("#save").onclick = function () {
-        window.location.href = "#down";
+        window.location.href = "#";
         document.querySelector("#content").style.display = "none";
-        document.querySelector(".thankyouBox").style.visibility = "visible";
-        box.style.height = "300px";
+        document.querySelector(".thankyouBox").innerHTML =
+          ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+        container.style.height = "300px";
         box.style.background = "red";
+        ////download button
+        document.querySelector("#downloadButton").onclick = function () {
+          var result = canvas.toDataURL();
+          var a = document.createElement("a");
+          a.href = result;
+          a.download = "Meme";
+          a.click();
+        };
       };
 
       ////download button
-
-      document.querySelector("#downloadButton").onclick = function () {
-        var result = canvas.toDataURL();
-        var a = document.createElement("a");
-        a.href = result;
-        a.download = "Meme";
-        a.click();
-      };
     };
     img.src = reader2.result;
   };

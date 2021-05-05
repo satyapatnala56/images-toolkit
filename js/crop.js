@@ -58,7 +58,8 @@ function cropImage() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".box").style.height = "900px";
+      document.querySelector(".container2").style.height = "auto";
+      document.querySelector(".croppr-region").style.width = "inherit";
 
       clearInterval(ans);
     }
@@ -67,6 +68,7 @@ function cropImage() {
   var reader = new FileReader();
   reader.onload = function () {
     var img = document.querySelector("#croppingImage");
+
     img.onload = function () {
       var croppr = new Croppr("#croppingImage", {
         onCropEnd: function (value) {
@@ -88,22 +90,26 @@ function cropImage() {
             value.width,
             value.height
           );
-          document.querySelector("#save").onclick = function () {
-            window.location.href = "#thankyouBox";
+
+          document.querySelector("#saving").onclick = function () {
+            window.location.href = "#";
+
             document.querySelector("#content").style.display = "none";
-            document.querySelector(".thankyouBox").style.visibility = "visible";
-            box.style.height = "300px";
+            document.querySelector(".thankyouBox").innerHTML =
+              ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+
+            document.querySelector("#downloadButton").onclick = function () {
+              var url = canvas.toDataURL();
+              var a = document.createElement("a");
+              a.href = url;
+              a.download = "download";
+
+              document.body.appendChild(a);
+              a.click();
+            };
+
+            document.querySelector(".container2").style.height = "300px";
             box.style.background = "#ff704d";
-          };
-
-          document.querySelector("#downloadButton").onclick = function () {
-            var url = canvas.toDataURL();
-            var a = document.createElement("a");
-            a.href = url;
-            a.download = "download";
-
-            document.body.appendChild(a);
-            a.click();
           };
         },
       });

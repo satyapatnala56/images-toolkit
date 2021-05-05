@@ -22,7 +22,7 @@ container.ondrop = function (e) {
     setAscii();
   } else {
     console.log("error");
-    document.querySelector(".box").style.height = "350px";
+    document.querySelector(".container2").style.height = "350px";
     document.querySelector("#error").innerHTML = "File format not supported";
   }
 };
