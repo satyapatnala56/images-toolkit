@@ -2,17 +2,17 @@
   "Language": "English",
   "htmlLangAtt": "en",
   "H1": "Photo splitter",
-  "img": "https://img.icons8.com/nolan/64/split-files.png",
-  "imgwidth": "40px",
-  "imgheight": "40px",
+  "img": "/img/split.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
   "imgalt": "altvalue",
   "data": {
     "total": 0,
-    "_id": "608c8ab8614e470009fad871",
+    "_id": "608fd832b3e10a0009083f84",
     "website": "safeimagekit",
-    "feature": "Image Splitter",
+    "feature": "split",
     "ratings": [],
-    "created": "2021-04-30T22:54:48.777Z",
+    "created": "2021-05-03T11:02:10.680Z",
     "__v": 0
   },
   "H2": "Splitting image online has been made easy with us, start by uploading your file below",
@@ -61,11 +61,7 @@
       "content": "Our photo splitter tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
-  "HOW_TO_CONTENT": {
-    "logoImageUrl": "/idea.svg",
-    "heading": "",
-    "steps": []
-  },
+
   "FAQ": [
     {
       "question": "Will my file be saved after I complete working on the photo splitter tool? ",
@@ -76,51 +72,10 @@
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
     }
   ],
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "safeimagekit.com",
-    "alternateName": "safeimagekit.com",
-    "url": "www.safeimagekit.com"
-  },
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.safeimagekit.com",
-    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
-  },
-  "StructuredDataFaq": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Will my file be saved after I complete working on the photo splitter tool? ",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do I have to do any additional signup or pay extra to use the photo splitter tool? ",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
-        }
-      }
-    ]
-  },
-  "StructuredDataHowTo": {
-    "@type": "HowTo",
-    "name": "",
-    "image": "/idea.svg",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "text": "",
-        "image": "",
-        "url": ""
-      }
-    ]
-  },
-  "jscdns": ["<script src=\"js/split.js\"></script>"],
+
+  "jscdns": [
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js\" integrity=\"sha512-XSIn6Z+o82v4Aumv+iHmw9/oEotMU4LRi7lSd4AESpfdekKVO4zt0hUZ+2iB8cRlvpQRWqeLXdCHQxTOL00zNw==\" crossorigin=\"anonymous\"></script>",
+    "<script src=\"js/split.js\"></script>"
+  ],
   "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
 }

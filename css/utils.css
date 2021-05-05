@@ -1,9 +1,3 @@
-.box {
-  height: 300px;
-  width: 100%;
-  margin: auto;
-}
-
 #qrInput {
   outline: none;
   background: rgba(90, 90, 90, 0.466);
@@ -19,6 +13,10 @@
 }
 #qrInput::placeholder {
   color: white;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 .container2 {
@@ -70,9 +68,6 @@
   border-radius: 10px;
 }
 
-#save {
-  float: right;
-}
 #loader-box {
   background: url("../spinner.gif");
   height: 70px;
@@ -132,35 +127,31 @@
     width: 80%;
   }
 }
-#inp,
-#width {
+#inp {
   margin: auto;
   width: 300px;
   height: 47px;
   border-radius: 10px;
   outline: none;
+  margin: 10px;
 }
 
+#width,
 #height {
   margin: auto;
-  width: 300px;
-  height: 47px;
-  border-radius: 10px;
+  width: 350px;
+  height: 53px;
+  border-radius: 5px;
   outline: none;
-  margin-left: 10px;
+  background: rgba(90, 90, 90, 0.466);
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  margin: 10px;
 }
 
 #range {
   width: 70%;
   margin: auto;
   font-size: 20px;
-}
-
-@media (max-width: 685px) {
-  #height {
-    margin-top: 10px;
-    margin-right: 10px;
-  }
 }
 
 @media (max-width: 385px) {
@@ -301,14 +292,15 @@
 
 .splitInput {
   background: rgba(90, 90, 90, 0.466);
+  border: 3px solid rgba(90, 90, 90, 0.466);
+
   height: 60px;
-  width: 300px;
+  width: 418px;
   margin: auto;
   color: white;
   outline: none;
   border-radius: 5px;
-  margin: 15px;
-  border: 3px solid rgba(90, 90, 90, 0.466);
+  margin: 11px;
 }
 
 .splitInput::placeholder {
@@ -319,8 +311,10 @@
   background: rgba(90, 90, 90, 0.466);
   color: white;
   font-size: 17px;
-  padding: 15px 100px;
-  border: 1px solid white;
+  padding: 15px 84px;
+  border: 3px solid white;
+  margin: 10px;
+  outline: none;
 }
 
 .pictureDisplay {
@@ -336,12 +330,6 @@
   color: white;
 }
 
-@media (max-width: 620px) {
-  .submit {
-    padding: 15px 70px;
-  }
-}
-
 #memeText {
   width: 87%;
   color: white;
@@ -355,24 +343,7 @@
 #memeText::placeholder {
   color: white;
 }
-@media (max-width: 496px) {
-  .submit {
-    padding: 15px 40px;
-  }
-}
 
-.thankyouBox {
-  visibility: hidden;
-}
-
-#filterChoice {
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
-  padding: 15px 70px;
-  color: white;
-  border-radius: 10px;
-  text-align: left;
-}
 #memetextDiv {
   height: 60px;
   width: 665px;
@@ -643,4 +614,45 @@ td {
   text-align: center;
   color: yellow;
   font-size: 25px;
+}
+
+.sizing a {
+  border: 3px solid white;
+  border: 3px solid white;
+  padding: 12px 46px;
+  margin: 13px;
+  color: white;
+  border: 3px solid rgba(90, 90, 90, 0.466);
+  background: 3px solid white;
+}
+.sizing input {
+  color: white;
+}
+
+.sizing a :hover {
+  color: white;
+}
+
+#height::placeholder {
+  color: white;
+}
+#width::placeholder {
+  color: white;
+}
+
+#saving {
+  height: 80px;
+  width: 80px;
+  border-radius: 5px;
+  border: 2px solid white;
+  background: white;
+  margin: auto;
+}
+
+#saving img {
+  margin-top: 13px;
+}
+
+#outputContent {
+  visibility: hidden;
 }

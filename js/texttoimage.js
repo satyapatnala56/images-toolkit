@@ -72,18 +72,19 @@ document.querySelector("#generate").onclick = function () {
 
   ///save button
   document.querySelector("#save").onclick = function () {
-    window.location.href = "#down";
+    window.location.href = "#";
     document.querySelector("#content").style.display = "none";
-    document.querySelector(".thankyouBox").style.visibility = "visible";
-    box.style.height = "300px";
+    document.querySelector(".thankyouBox").innerHTML =
+      ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+    container.style.height = "300px";
     box.style.background = "#d24dff";
-  };
 
-  document.querySelector("#downloadButton").onclick = function () {
-    var a = document.createElement("a");
-    a.href = img.src;
-    a.download = "download";
-    a.click();
+    document.querySelector("#downloadButton").onclick = function () {
+      var a = document.createElement("a");
+      a.href = img.src;
+      a.download = "download";
+      a.click();
+    };
   };
 };
 ///setting options

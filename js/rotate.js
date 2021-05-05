@@ -23,7 +23,7 @@ container.ondrop = function (e) {
     rotateImg();
   } else {
     console.log("error");
-    document.querySelector(".box").style.height = "350px";
+    container.style.height = "350px";
     document.querySelector("#error").innerHTML = "File format not supported";
   }
 };
@@ -54,7 +54,7 @@ function rotateImg() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".box").style.height = "850px";
+      container.style.height = "auto";
 
       clearInterval(ans);
     }
@@ -94,8 +94,9 @@ function rotateImg() {
           ////saving button
           window.location.href = "#thankyouBox";
           document.querySelector("#content").style.display = "none";
-          document.querySelector(".thankyouBox").style.visibility = "visible";
-          box.style.height = "300px";
+          document.querySelector(".thankyouBox").innerHTML =
+            ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+          container.style.height = "300px";
           box.style.background = "#9999ff";
 
           ///downloading image

@@ -3,94 +3,32 @@ permalink: /compress-png
 layout: feature
 fileName: compresspng
 folderName: feature
-tool: Png Compression
+tool: pngcompression
 lang: en
 ---
 
 <style>
-  .switch {
-    position: relative;
-    display: inline-block;
-    width: 60px;
-    height: 34px;
-  }
-
-  .switch input {
-    opacity: 0;
-    width: 0;
-    height: 0;
-  }
-
-  .slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #ccc;
-    -webkit-transition: 0.4s;
-    transition: 0.4s;
-  }
-
-  .slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    -webkit-transition: 0.4s;
-    transition: 0.4s;
-  }
-
-  input:checked + .slider {
-    background-color: #2196f3;
-  }
-
-  input:focus + .slider {
-    box-shadow: 0 0 1px #2196f3;
-  }
-
-  input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
-    -ms-transform: translateX(26px);
-    transform: translateX(26px);
-  }
-
-  /* Rounded sliders */
-  .slider.round {
-    border-radius: 34px;
-  }
-
-  .slider.round:before {
-    border-radius: 50%;
-  }
-  .compresst {
-    margin: auto;
-    border: 1px solid white;
-  }
-  .compresst tr td,
-  th {
-    border: 1px solid white;
-    height: 40px;
-    margin: auto;
-    color: white;
-    width: 250px;
-    text-align: center;
-  }
-  .compresst tr {
-    border: 1px solid white;
-    height: auto;
-    width: 100%;
-  }
-
-  .compresst tr th {
+  .box {
     background: black;
-    color: rgb(51, 43, 43);
+  }
+
+  #imgContent div img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+    max-width: 100%;
+  }
+  #imgContent div p {
+    width: 300px;
     color: white;
-    height: 40px;
+    font-size: 20px;
+    text-align: left;
+  }
+  #imgContent div {
+    display: inline-block;
+    height: 420px;
+    width: 400px;
+    margin: 30px;
   }
 </style>
 
@@ -112,24 +50,35 @@ lang: en
       <span id="loader"></span>
     </div>
   </div>
-  <span id="content"
-    ><br /><br /><br />
-    <div style="height: 400px; width: 80%; margin: auto; margin-top: -600px">
-      <div class="compressImage" id="inputImage">
-        <p>Input Image</p>
-        <br /><br />
-        <span id="input"></span>
-      </div>
-      <div class="compressImage" id="outputImage">
-        <p>Output Image</p>
-        <br /><br />
-        <span id="output"> </span>
+  <span id="content">
+    <div class="row" style="margin-top: 50px">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <span id="imgContent">
+          <div id="inputContent">
+            <img src="" alt="" /><br /><br />
+            <p><u>Name :</u>&nbsp;&nbsp;<span id="ans1"></span></p>
+            <p><u>Type :</u>&nbsp;&nbsp;<span id="ans2"></span></p>
+            <p><u>Size :</u>&nbsp;&nbsp;<span id="ans3"></span></p>
+            <p>
+              <u>Last Modified Date :</u>&nbsp;&nbsp;<span id="ans4"></span>
+            </p>
+          </div>
+          <div id="outputContent">
+            <img src="" alt="" />
+            <br /><br />
+            <p><u>Name :</u>&nbsp;&nbsp;<span id="ans1"></span></p>
+            <p><u>Type :</u>&nbsp;&nbsp;<span id="ans2"></span></p>
+            <p><u>Size :</u>&nbsp;&nbsp;<span id="ans3"></span></p>
+            <p>
+              <u>Last Modified Date :</u>&nbsp;&nbsp;<span id="ans4"></span>
+            </p>
+          </div>
+        </span>
       </div>
     </div>
 
-    <br /><br />
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+    <div class="row" style="margin-top: -30px">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12" id="inputs">
         <input
           type="number"
           id="cwidth"
@@ -220,22 +169,16 @@ lang: en
           <option value="gif">gif</option>
         </select>
         <br />
-        <br /><br />
       </div>
     </div>
-
-    <a id="compress" class="btn submit">Compress</a>
-    <a id="save" class="btn submit">Save</a>
-  </span>
-  <span class="thankyouBox">
     <div class="row">
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <img src="/trust.svg" alt="" id="thankyouImage" />
-        <p id="thankyouText">Thanks for your patience</p>
-        <a class="btn" id="downloadButton">DOWNLOAD</a>
+        <a id="compress" class="btn submit">Compress</a>
+        <a id="save" class="btn submit">Save</a>
       </div>
-    </div></span
-  >
+    </div>
+  </span>
+  <span class="thankyouBox"> </span>
 </div>
 
 <input type="file" id="file" accept=".png" class="file" />

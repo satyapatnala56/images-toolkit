@@ -2,7 +2,6 @@ var container = document.querySelector(".container2");
 var inputbox = document.querySelector("#inputbox");
 var content = document.querySelector("#content");
 var file = document.querySelector("#file");
-var box = document.querySelector(".box");
 
 var input;
 container.ondragover = function (e) {
@@ -23,7 +22,7 @@ container.ondrop = function (e) {
     image_to_pixel_art();
   } else {
     console.log("error");
-    document.querySelector(".box").style.height = "350px";
+    document.querySelector(".container2").style.height = "350px";
     document.querySelector("#error").innerHTML = "File format not supported";
   }
 };

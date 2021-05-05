@@ -38,42 +38,14 @@ var setFilter = document.getElementById("setfilter");
 var file = document.getElementById("file");
 //filter loading
 
-var filter = [
-  "prewittHorizontal",
-  "red",
-  "blue",
-  "green",
-  "grayscale",
-  "highpass",
-  "invert",
-  "laplacian",
-  "prewittVertical",
-  "roberts",
-  "saturation",
-  "sepia",
-  "sharpen",
-  "sobelHorizontal",
-  "sobelVertical",
-  "thresholding",
-  "mirror",
-];
-filterButton = [];
-
-function setFilteroption() {
-  filterButton.push("<select id='filterChoice'>");
-  for (let i = 0; i < filter.length; i++) {
-    filterButton.push(
-      "<option value=" + filter[i] + ">" + filter[i] + "</option>"
-    );
-  }
-  filterButton.push("</select>");
-  return filterButton.join("");
-}
-document.getElementById("filter-result").innerHTML = setFilteroption();
-
 ///set filter button
 
 function sFilter() {
+  document.querySelector("#fchoice").oninput = function () {
+    document.querySelector("#filter").style.background =
+      "rgba(90, 90, 90, 0.466)";
+  };
+
   $("#file").remove();
   ///////loader
   var loaderbox = document.createElement("div");
@@ -95,7 +67,7 @@ function sFilter() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".box").style.height = "900px";
+      document.querySelector(".container2").style.height = "auto";
 
       clearInterval(ans);
     }
@@ -106,7 +78,7 @@ function sFilter() {
   reader.onload = function () {
     var img = new Image();
     var final = document.querySelector("#final");
-    var filteroption = document.getElementById("filterChoice");
+    var filteroption = document.getElementById("fchoice");
     var ctx = final.getContext("2d");
     img.onload = function () {
       final.height = img.height;
@@ -114,24 +86,36 @@ function sFilter() {
 
       ctx.drawImage(img, 0, 0);
       document.getElementById("filter").onclick = function () {
-        document.querySelector("#save").onclick = function () {
-          document.querySelector("#content").style.display = "none";
-          document.querySelector(".thankyouBox").style.visibility = "visible";
-          box.style.height = "300px";
-          box.style.background = "#00b8e6";
-        };
+        if (filteroption.value == "----") {
+          document.querySelector("#msg").innerHTML = "Please Enter your choice";
+        } else {
+          document.querySelector("#msg").innerHTML = "";
 
-        LenaJS.filterImage(final, LenaJS[filteroption.value], img);
-        document.getElementById("downloadButton").onclick = function () {
-          var canvas = document.querySelector("#final");
-          var result = canvas.toDataURL();
-          var a = document.createElement("a");
-          a.href = result;
-          a.download = "filter";
-          document.body.appendChild(a);
-          a.click();
-        };
+          document.querySelector("#filter").style.background = "green";
+
+          ///filter processing
+          LenaJS.filterImage(final, LenaJS[filteroption.value], img);
+
+          ////   saving button
+          document.querySelector("#save").onclick = function () {
+            document.querySelector("#content").style.display = "none";
+            document.querySelector(".thankyouBox").innerHTML =
+              ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+            container.style.height = "300px";
+            box.style.background = "#00b8e6";
+            document.getElementById("downloadButton").onclick = function () {
+              var canvas = document.querySelector("#final");
+              var result = canvas.toDataURL();
+              var a = document.createElement("a");
+              a.href = result;
+              a.download = "filter";
+              document.body.appendChild(a);
+              a.click();
+            };
+          };
+        }
       };
+      ///download button
 
       //// donwload image
     };
