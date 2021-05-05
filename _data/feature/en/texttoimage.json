@@ -2,7 +2,7 @@
   "Language": "English",
   "htmlLangAtt": "en",
   "H1": "Text to image converter",
-  "img": "https://img.icons8.com/wired/64/000000/edit-image.png",
+  "img": "/img/texttoimage.png",
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
@@ -61,11 +61,7 @@
       "content": "Our text to image conversion tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
-  "HOW_TO_CONTENT": {
-    "logoImageUrl": "/idea.svg",
-    "heading": "",
-    "steps": []
-  },
+
   "FAQ": [
     {
       "question": "Will my file be saved after I complete working on the text to image conversion tool? ",
@@ -76,51 +72,7 @@
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
     }
   ],
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "safeimagekit.com",
-    "alternateName": "safeimagekit.com",
-    "url": "www.safeimagekit.com"
-  },
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.safeimagekit.com",
-    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
-  },
-  "StructuredDataFaq": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Will my file be saved after I complete working on the text to image conversion tool? ",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do I have to do any additional signup or pay extra to use the text to image conversion tool? ",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
-        }
-      }
-    ]
-  },
-  "StructuredDataHowTo": {
-    "@type": "HowTo",
-    "name": "",
-    "image": "/idea.svg",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "text": "",
-        "image": "",
-        "url": ""
-      }
-    ]
-  },
+
   "jscdns": [
     "<script src=\"https://cdn.jsdelivr.net/npm/text-image/dist/text-image.js\"></script>",
 

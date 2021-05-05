@@ -35,7 +35,9 @@ file.onchange = function () {
 //
 ////drag and drop ended
 function resizeImage() {
+  ////loader end
   $("#file").remove();
+
   var loaderbox = document.createElement("div");
   loaderbox.id = "loader-box";
   var mainDiv = document.querySelector("#loaderDiv .col");
@@ -43,11 +45,10 @@ function resizeImage() {
 
   document.querySelector("#loader").innerHTML = '<p id="loadingMessage"></p>';
   document.querySelector("#loadingMessage").innerHTML =
-    "Please Wait ,Loading Your file ";
+    "Please Wait ,Converting Your file ";
   var count = 0;
   var ans = setInterval(function () {
     count = count + 10;
-    console.log(count);
     document.querySelector("#upper-loader").style.width = count + "%";
     if (count == 110) {
       document.querySelector("#upper-loader").style.display = "none";
@@ -55,13 +56,14 @@ function resizeImage() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".box").style.height = "900px";
+      document.querySelector(".container2").style.height = "auto";
+      document.querySelector(".box").style.height = "auto";
 
       clearInterval(ans);
     }
-  }, 500);
+  }, 1000);
   ////loader end
-  var canvas = document.getElementById("final");
+  var canvas = document.createElement("canvas");
   var ctx = canvas.getContext("2d");
 
   var reader = new FileReader();
@@ -81,43 +83,37 @@ function resizeImage() {
           width == "" ||
           width == undefined
         ) {
-          document.querySelector("#errorMessage").innerHTML =
-            "Please enter Height and width";
+          document.querySelector("#msg").style.color = "red";
+
+          document.querySelector("#msg").innerHTML =
+            "Please enter both Height and width";
           /////error message
         } else {
-          document.querySelector("#errorMessage").innerHTML = "";
+          document.querySelector("#msg").style.color = "yellow";
+          document.querySelector("#msg").innerHTML = "Image Resized";
           var img2 = new Image(width, height);
           img2.onload = function () {
             canvas.height = img2.height;
             canvas.width = img2.width;
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             ctx.drawImage(img2, 0, 0, width, height);
-
-            ////saving button
-
-            document.querySelector("#save").onclick = function () {
-              window.location.href = "#thankyouBox";
+            //////saving process
+            document.querySelector("#saving").onclick = function () {
               document.querySelector("#content").style.display = "none";
               document.querySelector(".thankyouBox").style.visibility =
                 "visible";
-              box.style.height = "300px";
-              box.style.background = "#ffbb33";
+              document.querySelector(".box").style.background = "#ffbb33";
+              document.getElementById("downloadButton").onclick = function () {
+                var url = canvas.toDataURL();
+                var a = document.createElement("a");
+                a.href = url;
+                a.download = "resized";
+                document.body.appendChild(a);
+                a.click();
+              };
             };
 
             /////donwloading file
-            document.getElementById("downloadButton").onclick = function () {
-              var nav = document.createElement("a");
-              nav.href = "";
-              document.body.appendChild(nav);
-              nav.click();
-
-              var url = canvas.toDataURL();
-              var a = document.createElement("a");
-              a.href = url;
-              a.download = "resized";
-              document.body.appendChild(a);
-              a.click();
-            };
           };
           img2.src = image.src;
         }

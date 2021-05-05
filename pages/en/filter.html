@@ -13,6 +13,31 @@ lang: en
       width: 90%;
     }
   }
+
+  .submit {
+    margin-top: 20px;
+  }
+
+  #fchoice {
+    width: 436px;
+    height: 60px;
+    border-radius: 5px;
+    border: 3px solid rgba(90, 90, 90, 0.466);
+    background: rgba(90, 90, 90, 0.466);
+    color: white;
+    outline: none;
+  }
+
+  @media (max-width: 532px) {
+    #fchoice {
+      width: 80%;
+    }
+  }
+  @media (max-width: 462px) {
+    .submit {
+      padding: 15px 21%;
+    }
+  }
 </style>
 
 <div class="container2">
@@ -33,32 +58,53 @@ lang: en
     </div>
   </div>
   <span id="content">
-    <div class="pictureDisplay">
-      <canvas id="final"></canvas>
+    <div class="row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <canvas
+          id="final"
+          style="
+            height: auto;
+            width: auto;
+            max-height: 400px;
+            margin-top: 80px;
+            max-width: 90%;
+          "
+        ></canvas>
+      </div>
     </div>
     <br /><br />
     <div class="row">
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <p style="text-align: center; color: white; font-size: 25px">
-          FILTER &nbsp; &nbsp;TYPES
-        </p>
-        <span id="filter-result"> </span>
-        <br /><br />
+        <select name="" id="fchoice">
+          <option value="----" selected>Choose the filter</option>
+          <option value="prewittHorizontal" selcted>prewittHorizontal</option>
+          <option value="red">red</option>
+          <option value="blue">blue</option>
+          <option value="green">green</option>
+          <option value="grayscale">grayscale</option>
+          <option value="highpass">highpass</option>
+          <option value="invert">invert</option>
+          <option value="laplacian">laplacian</option>
+          <option value="prewittVertical">prewittVertical</option>
+          <option value="roberts">roberts</option>
+          <option value="saturation">saturation</option>
+          <option value="sepia">sepia</option>
+          <option value="sharpen">sharpen</option>
+          <option value="sobelHorizontal">sobelHorizontal</option>
+          <option value="sobelVertical">sobelVertical</option>
+          <option value="thresholding">thresholding</option>
+          <option value="mirror">mirror</option>
+        </select>
+        <br />
+        <a id="filter" class="btn submit">Apply</a>
+        <a id="save" class="btn submit">Save</a><br />
+        <br />
+        <span id="msg" style="margin-top: 10px"></span>
       </div>
     </div>
-
-    <a id="filter" class="btn submit">Apply</a>
-    <a id="save" class="btn submit">Save</a>
+    <br /><br />
   </span>
-  <span class="thankyouBox">
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <img src="/trust.svg" alt="" id="thankyouImage" />
-        <p id="thankyouText">Thanks for your patience</p>
-        <a class="btn" id="downloadButton">DOWNLOAD</a>
-      </div>
-    </div></span
-  >
+  <span class="thankyouBox"> </span>
 </div>
 
 <input type="file" id="file" accept="image/*" class="file" />

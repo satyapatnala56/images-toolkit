@@ -83,13 +83,7 @@ lang: en
       <i class="far fa-image" id="icon" style="margin: auto"></i>
     </div>
 
-    <div
-      id="Inputbox"
-      class="boxes"
-      onclick="document.querySelector('#file').click()"
-    >
-      UPLOAD FILE
-    </div>
+    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
     <p id="dropfile">or drop your file here</p>
     <p id="error"></p>
   </span>
@@ -166,20 +160,18 @@ lang: en
         <a id="textInput" class="btn">Add Text</a>
       </div>
     </div>
+    <br />
 
-    <a id="generate" class="btn submit">Generate</a>
-    <a id="save" class="btn submit">Save</a>
-  </span>
-  <span class="thankyouBox">
     <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <img src="/trust.svg" alt="" id="thankyouImage" />
-        <p id="thankyouText">Thanks for your patience</p>
-        <a class="btn" id="downloadButton">DOWNLOAD</a>
+      <div class="col col-md-12 col-lg-12 col-sm-12 col-xl-12">
+        <a id="generate" class="btn submit">Generate</a>
+        <a id="save" class="btn submit">Save</a>
       </div>
-    </div></span
-  >
+    </div>
+  </span>
+  <span class="thankyouBox"> </span>
 </div>
 
-<input type="file" id="file" class="file" />
+<input type="file" id="file" accept="image/*" class="file" />
+
 <input type="file" id="file2" class="file" />

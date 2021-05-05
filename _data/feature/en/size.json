@@ -2,9 +2,9 @@
   "Language": "English",
   "htmlLangAtt": "en",
   "H1": "Resize Images",
-  "img": "https://img.icons8.com/ios-filled/50/000000/resize.png",
-  "imgwidth": "40px",
-  "imgheight": "40px",
+  "img": "/img/resize.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
   "imgalt": "altvalue",
   "data": {
     "total": 0,
@@ -61,11 +61,7 @@
       "content": "Our image resizer tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
-  "HOW_TO_CONTENT": {
-    "logoImageUrl": "/idea.svg",
-    "heading": "",
-    "steps": []
-  },
+
   "FAQ": [
     {
       "question": "Will my file be saved after I complete working on the image resizer tool? ",
@@ -76,51 +72,7 @@
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
     }
   ],
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "safeimagekit.com",
-    "alternateName": "safeimagekit.com",
-    "url": "www.safeimagekit.com"
-  },
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.safeimagekit.com",
-    "logo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png"
-  },
-  "StructuredDataFaq": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Will my file be saved after I complete working on the image compressor tool? ",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do I have to do any additional signup or pay extra to use the image compressor tool? ",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
-        }
-      }
-    ]
-  },
-  "StructuredDataHowTo": {
-    "@type": "HowTo",
-    "name": "",
-    "image": "/idea.svg",
-    "step": [
-      {
-        "@type": "HowToStep",
-        "text": "",
-        "image": "",
-        "url": ""
-      }
-    ]
-  },
+
   "jscdns": ["<script src=\"js/size.js\"></script>"],
   "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
 }

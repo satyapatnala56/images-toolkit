@@ -3,7 +3,7 @@ permalink: /split-photo
 layout: feature
 lang: en
 fileName: split
-tool: Image Splitter
+tool: split
 folderName: feature
 ---
 
@@ -13,8 +13,55 @@ folderName: feature
       width: 90%;
     }
   }
+  #saving {
+    height: 59px;
+    width: 209px;
+    border: 3px solid white;
+    background: rgba(90, 90, 90, 0.466);
+  }
+
+  .submit {
+    padding: 14px 84px;
+    margin-left: -1px;
+  }
+
+  @media (max-width: 592px) {
+    .splitInput {
+      width: 80%;
+    }
+  }
+  @media (max-width: 506px) {
+    #saving {
+      margin-right: 13px;
+    }
+  }
+
+  #splitList {
+    height: auto;
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    margin-top: 45px;
+  }
+  #splitList ol li {
+    color: white;
+  }
+  #splitList ol {
+    float: left;
+  }
+  #splitList canvas {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+    max-width: 100%;
+  }
+
+  .splitBtn {
+    margin: 15px;
+    padding: 11px 18px;
+    width: 155px;
+  }
 </style>
-<a name="down"></a>
 <div class="container2">
   <div id="upper-loader"></div>
 
@@ -32,11 +79,15 @@ folderName: feature
       <span id="loader"></span>
     </div>
   </div>
-  <span id="content"
-    ><br /><br /><br /><br />
-    <div class="pictureDisplay" style="margin-top: -290px"></div>
-    <br /><br />
+  <span id="content">
+    <br />
     <div class="row">
+      <div class="col col-ms-12 col-sm-12 col-lg-12 col-xl-12" id="splitDiv">
+        <div id="splitList"></div>
+        <span></span>
+      </div>
+    </div>
+    <div class="row" id="process">
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
         <p id="errorMessage"></p>
 
@@ -44,30 +95,21 @@ folderName: feature
           type="number"
           id="ROWS"
           class="splitInput"
-          placeholder="Enter the rows"
-        />
+          placeholder="Enter number of rows"
+        /><br />
         <input
           type="number"
           id="COLS"
           class="splitInput"
-          placeholder="Enter the columns"
+          placeholder="Enter number of columns"
         />
-        <br /><br />
+        <br />
+        <a id="submit" class="btn submit">Split</a>
       </div>
     </div>
 
-    <a id="submit" class="btn submit">Split</a>
-    <a id="save" class="btn submit">Save</a>
+    <br /><br />
   </span>
-  <span class="thankyouBox">
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <img src="/trust.svg" alt="" id="thankyouImage" />
-        <p id="thankyouText">Thanks for your patience</p>
-        <a class="btn" id="downloadButton">DOWNLOAD</a>
-      </div>
-    </div></span
-  >
 </div>
 
 <input type="file" id="file" accept="image/*" class="file" />
