@@ -184,8 +184,8 @@ html {
 #content {
   visibility: hidden;
 }
-/* 
-#inputbox {
+
+/* #inputbox {
   display: none;
 } */
 .boxes p {
@@ -348,6 +348,12 @@ html {
   height: 60px;
   width: 665px;
   margin: auto;
+}
+
+@media (max-width: 810px) {
+  #memetextDiv {
+    width: 90%;
+  }
 }
 
 #compressOption {
@@ -613,13 +619,13 @@ td {
 #msg {
   text-align: center;
   color: yellow;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .sizing a {
   border: 3px solid white;
   border: 3px solid white;
-  padding: 12px 46px;
+  padding: 11px 58px;
   margin: 13px;
   color: white;
   border: 3px solid rgba(90, 90, 90, 0.466);
