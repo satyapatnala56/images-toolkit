@@ -75,7 +75,6 @@
 
   "jscdns": [
     "<script src=\"https://cdn.jsdelivr.net/npm/text-image/dist/text-image.js\"></script>",
-
     "<script src=\"js/texttoimage.js\"></script>"
   ],
   "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]

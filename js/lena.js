@@ -44,6 +44,7 @@ function sFilter() {
   document.querySelector("#fchoice").oninput = function () {
     document.querySelector("#filter").style.background =
       "rgba(90, 90, 90, 0.466)";
+    document.querySelector("#msg").innerHTML = "";
   };
 
   $("#file").remove();
@@ -89,7 +90,7 @@ function sFilter() {
         if (filteroption.value == "----") {
           document.querySelector("#msg").innerHTML = "Please Enter your choice";
         } else {
-          document.querySelector("#msg").innerHTML = "";
+          document.querySelector("#msg").innerHTML = "Filter Applied";
 
           document.querySelector("#filter").style.background = "green";
 
@@ -98,6 +99,7 @@ function sFilter() {
 
           ////   saving button
           document.querySelector("#save").onclick = function () {
+            window.location.href = "#";
             document.querySelector("#content").style.display = "none";
             document.querySelector(".thankyouBox").innerHTML =
               ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';

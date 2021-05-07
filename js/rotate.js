@@ -54,7 +54,9 @@ function rotateImg() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".box").style.background = "#353535";
+
       container.style.height = "auto";
+      container.style.width = "92%";
 
       clearInterval(ans);
     }
@@ -70,45 +72,45 @@ function rotateImg() {
   reader.onload = function () {
     var image = new Image();
     image.onload = function () {
-      canvas.width = image.width;
-      canvas.height = image.height;
-      ctx.drawImage(image, 0, 0);
-      document.querySelector(".pictureDisplay").appendChild(canvas);
-      document.getElementById("savep").onclick = function () {
-        var rotate = document.getElementById("angle").value;
-        if (rotate == "" || rotate == undefined) {
+      document.querySelector("#prevImg").src = image.src;
+      document.getElementById("rotate").onclick = function () {
+        var rotate = document.getElementById("angle");
+        rotate.oninput = function () {
+          document.querySelector("#errorMessage").innerHTML = "";
+        };
+        if (rotate.value == "" || rotate.value == undefined) {
           ////error message
 
           document.querySelector("#errorMessage").innerHTML =
             "Please enter the Rotation Angle";
         } else {
-          ctx.clearRect(0, 0, canvas.width, canvas.height);
-          var an = parseInt(rotate);
-          var result;
-          result = 180 / an;
-          console.log(result);
-          ctx.translate(canvas.width / 2, canvas.height / 2);
-          ctx.rotate(Math.PI / result);
-          ctx.drawImage(image, -image.width / 2, -image.height / 2);
+          document.querySelector("#errorMessage").innerHTML = "Image rotated";
+
+          /////rotating process
+          Rotate(image, rotate.value + "deg");
 
           ////saving button
-          window.location.href = "#thankyouBox";
-          document.querySelector("#content").style.display = "none";
-          document.querySelector(".thankyouBox").innerHTML =
-            ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
-          container.style.height = "300px";
-          box.style.background = "#9999ff";
+          document.querySelector("#Saving").onclick = function () {
+            document.querySelector(".container2").style.width = "100%";
+
+            window.location.href = "#";
+            document.querySelector("#content").style.display = "none";
+            document.querySelector(".thankyouBox").innerHTML =
+              ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+            container.style.height = "300px";
+            box.style.background = "#9999ff";
+
+            var downloadButton = document.getElementById("downloadButton");
+            downloadButton.onclick = function () {
+              var url = document.querySelector("canvas").toDataURL();
+              var a = document.createElement("a");
+              a.href = url;
+              a.download = "download";
+              a.click();
+            };
+          };
 
           ///downloading image
-          var downloadButton = document.getElementById("downloadButton");
-          downloadButton.onclick = function () {
-            var url = canvas.toDataURL();
-            var a = document.createElement("a");
-            a.href = url;
-            a.download = "download";
-            a.click();
-            location.reload();
-          };
         }
       };
     };
@@ -116,6 +118,7 @@ function rotateImg() {
   };
   reader.readAsDataURL(input);
 }
+
 document.querySelector(".container2").onclick = function () {
   document.querySelector("#file").click();
 };

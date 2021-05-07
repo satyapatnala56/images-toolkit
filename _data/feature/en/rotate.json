@@ -73,6 +73,9 @@
     }
   ],
 
-  "jscdns": ["<script src=\"js/rotate.js\"></script>"],
+  "jscdns": [
+    "<script src=\"js/flip.js\"></script>",
+    "<script src=\"js/rotate.js\"></script>"
+  ],
   "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
 }
