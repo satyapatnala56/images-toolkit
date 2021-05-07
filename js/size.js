@@ -58,6 +58,7 @@ function resizeImage() {
       document.querySelector(".box").style.background = "#353535";
       document.querySelector(".container2").style.height = "auto";
       document.querySelector(".box").style.height = "auto";
+      document.querySelector(".container2").style.width = "90%";
 
       clearInterval(ans);
     }
@@ -98,10 +99,12 @@ function resizeImage() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             ctx.drawImage(img2, 0, 0, width, height);
             //////saving process
-            document.querySelector("#saving").onclick = function () {
+            document.querySelector("#Saving").onclick = function () {
+              document.querySelector(".container2").style.width = "100%";
+
               document.querySelector("#content").style.display = "none";
-              document.querySelector(".thankyouBox").style.visibility =
-                "visible";
+              document.querySelector(".thankyouBox").innerHTML =
+                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
               document.querySelector(".box").style.background = "#ffbb33";
               document.getElementById("downloadButton").onclick = function () {
                 var url = canvas.toDataURL();
