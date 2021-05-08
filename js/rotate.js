@@ -91,23 +91,28 @@ function rotateImg() {
 
           ////saving button
           document.querySelector("#Saving").onclick = function () {
-            document.querySelector(".container2").style.width = "100%";
+            if (rotate.value == "" || rotate.value == undefined) {
+              document.querySelector("#errorMessage").innerHTML =
+                "Please enter the Rotation Angle";
+            } else {
+              document.querySelector(".container2").style.width = "100%";
 
-            window.location.href = "#";
-            document.querySelector("#content").style.display = "none";
-            document.querySelector(".thankyouBox").innerHTML =
-              ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
-            container.style.height = "300px";
-            box.style.background = "#9999ff";
+              window.location.href = "#";
+              document.querySelector("#content").style.display = "none";
+              document.querySelector(".thankyouBox").innerHTML =
+                ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+              container.style.height = "300px";
+              box.style.background = "#9999ff";
 
-            var downloadButton = document.getElementById("downloadButton");
-            downloadButton.onclick = function () {
-              var url = document.querySelector("canvas").toDataURL();
-              var a = document.createElement("a");
-              a.href = url;
-              a.download = "download";
-              a.click();
-            };
+              var downloadButton = document.getElementById("downloadButton");
+              downloadButton.onclick = function () {
+                var url = document.querySelector("canvas").toDataURL();
+                var a = document.createElement("a");
+                a.href = url;
+                a.download = "download";
+                a.click();
+              };
+            }
           };
 
           ///downloading image

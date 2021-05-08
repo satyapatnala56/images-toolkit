@@ -9,63 +9,63 @@
   "features": [
     {
       "name": "ASCII image generator ",
-      "description": "",
+      "description": "Converts image into Ascii art",
       "color": "#6666ff",
       "icon": "/img/ascii.png",
       "url": "/ascii-art-from-image"
     },
     {
       "name": "Image Compression ",
-      "description": "",
+      "description": "Compresses image",
       "color": "#ad81ee",
       "icon": "/img/compressimage.png",
       "url": "/compress-an-image"
     },
     {
       "name": "Image Splitter ",
-      "description": "",
+      "description": "Splits image",
       "color": "#ff6666",
       "icon": "/img/split.png",
       "url": "/split-photo"
     },
     {
       "name": "Jpeg Compression ",
-      "description": "",
+      "description": "Compresses jpeg image",
       "color": "#33cccc",
       "icon": "/img/compressjpeg.png",
       "url": "/compress-jpeg"
     },
     {
       "name": "Png Compression ",
-      "description": "",
+      "description": "Compresses png image",
       "color": "#66b3ff",
       "icon": "/img/compresspng.png",
       "url": "/compress-png"
     },
     {
       "name": "Gif Compression ",
-      "description": "",
+      "description": "Compresses gif image",
       "color": "#ff9966",
       "icon": "/img/compressgif.png",
       "url": "/compress-a-gif"
     },
     {
       "name": "Image comparison",
-      "description": "",
+      "description": "Compares two images",
       "color": "#ff884d",
       "icon": "/img/compare.png",
       "url": "/image-comparision"
     },
     {
       "name": "Image cropper",
-      "description": "",
+      "description": "Crops image",
       "color": "#ff704d",
       "icon": "/img/crop.png",
       "url": "/crop-image"
     },
     {
       "name": "Image Filter Adder",
-      "description": "",
+      "description": "Add filters to an image",
       "color": "#00b8e6",
       "icon": "/img/filter.png",
       "url": "/photo-filters"
@@ -73,63 +73,52 @@
 
     {
       "name": "Meme generator",
-      "description": "",
+      "description": "Generates meme",
       "color": "#5cd65c",
       "icon": "/img/meme.png",
       "url": "/meme-generator"
     },
     {
       "name": "Text to image converter",
-      "description": "",
+      "description": "Converts text into image",
       "color": "#d24dff",
       "icon": "/img/texttoimage.png",
       "url": "/text-to-image-converter"
     },
     {
       "name": "Image Flipper",
-      "description": "",
+      "description": "Flips/Rotates image",
       "color": "#9999ff",
       "icon": "/img/rotate.png",
       "url": "/flip-image"
     },
     {
       "name": "Image Resizer",
-      "description": "",
+      "description": "Changes size image",
       "color": "#ffbb33",
       "icon": "/img/resize.png",
       "url": "/image-resize"
     },
     {
       "name": "Watermark image maker",
-      "description": "",
+      "description": "Creates watermark images",
       "color": "red",
       "icon": "/img/watermark.png",
       "url": "/watermark-for-photos"
     },
     {
       "name": " QR Code Generator",
-      "description": "",
+      "description": "Generates Qr code",
       "color": "#ff8533",
       "icon": "/img/qr.png",
       "url": "/qr-code-generator"
     },
     {
       "name": " Image to pixelate image converter",
-      "description": "",
+      "description": "Converts image into Pixel art",
       "color": "#e6e600",
       "icon": "/img/pixel.png",
       "url": "/pixel-art-maker"
     }
-  ],
-  "StructuredDataWebsite": {
-    "@type": "WebSite",
-    "name": "safeimagekit.com",
-    "alternateName": "safeimagekit.com",
-    "url": "www.safeimagekit.com"
-  },
-  "StructuredDataorganization": {
-    "@type": "Organization",
-    "url": "https://www.safeimagekit.com",
-    "logo": "https://img.icons8.com/ios/50/000000/keyboard.png"
-  }
+  ]
 }
