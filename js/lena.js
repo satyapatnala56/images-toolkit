@@ -99,21 +99,26 @@ function sFilter() {
 
           ////   saving button
           document.querySelector("#save").onclick = function () {
-            window.location.href = "#";
-            document.querySelector("#content").style.display = "none";
-            document.querySelector(".thankyouBox").innerHTML =
-              ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
-            container.style.height = "300px";
-            box.style.background = "#00b8e6";
-            document.getElementById("downloadButton").onclick = function () {
-              var canvas = document.querySelector("#final");
-              var result = canvas.toDataURL();
-              var a = document.createElement("a");
-              a.href = result;
-              a.download = "filter";
-              document.body.appendChild(a);
-              a.click();
-            };
+            if (filteroption.value == "----") {
+              document.querySelector("#msg").innerHTML =
+                "Please Enter your choice";
+            } else {
+              window.location.href = "#";
+              document.querySelector("#content").style.display = "none";
+              document.querySelector(".thankyouBox").innerHTML =
+                ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+              container.style.height = "300px";
+              box.style.background = "#00b8e6";
+              document.getElementById("downloadButton").onclick = function () {
+                var canvas = document.querySelector("#final");
+                var result = canvas.toDataURL();
+                var a = document.createElement("a");
+                a.href = result;
+                a.download = "filter";
+                document.body.appendChild(a);
+                a.click();
+              };
+            }
           };
         }
       };
