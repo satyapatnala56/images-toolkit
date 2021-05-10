@@ -1,7 +1,7 @@
-name: safeimagekit
-title: Website Tools
-email: Website-Tools@example.com
-description: Simple to use online alarm clock to wake up after specific time or at specific times
+name: Safeimagekit.com
+title: Safest website for your image processing needs. No files sent to server.
+email: support@safeimagekit.com
+description: Process your images safely, online for free using safeimagekit.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://safeimagekit.com # the base hostname & protocol for your site, e.g. http://example.com
 siteurl: https://safeimagekit.com
