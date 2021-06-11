@@ -20,7 +20,7 @@
   "META": "Are you looking for a high-quality QR code generator? Well, then you are at the right place. Our online QR generator tool is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
-  "color": "#ff8533",
+  "color": "rgb(53, 53, 53)",
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
@@ -60,6 +60,11 @@
       "content": "Our QR code generator tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": [""]
+  },
 
   "FAQ": [
     {

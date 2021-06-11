@@ -8,32 +8,356 @@ lang: en
 ---
 
 <style>
-  @media (max-width: 387px) {
-    #inp {
-      width: 90%;
+  #options_div {
+    float: left;
+    width: 40%;
+    height: 330px;
+    margin-top: 40px;
+  }
+  #image_div {
+    float: right;
+    width: 58%;
+    height: 475px;
+    margin-top: 40px;
+  }
+
+  .resizing_inputs {
+    width: 87%;
+    height: 62px;
+    border-radius: 3px;
+    color: white;
+    border-right: rgb(53, 53, 53);
+    border-top: rgb(53, 53, 53);
+    border-left: #353535;
+    outline: none;
+    border-bottom: 4px solid white;
+    margin-top: 18px;
+    font-size: 22px;
+    background: inherit;
+    font-weight: bold;
+    padding-top: 18px;
+  }
+  .resizing_inputs::placeholder {
+    color: white;
+    font-weight: bold;
+  }
+  #input_container {
+    margin-top: 29px;
+  }
+
+  #input_div {
+    height: inherit;
+    border: 10px solid white;
+    border-radius: 10px;
+  }
+
+  #output_div {
+    margin-top: 15px;
+  }
+
+  .resize_btns {
+    margin: 10px;
+    font-weight: bolder;
+    margin-top: 40px;
+    height: 53px;
+    border-radius: 6px;
+    padding-top: 11px;
+    width: 142px;
+    background: white;
+    font-size: 20px;
+    outline: none;
+  }
+  .resize_btns:hover {
+    border: 5px solid white;
+    background: rgb(53, 53, 53);
+    color: white;
+    padding-top: 6px;
+  }
+
+  @media (max-width: 400px) {
+    .resizing_inputs {
+      width: 100%;
+      font-size: 19px;
     }
   }
-  @media (max-width: 480px) {
-    #height,
-    #width {
-      width: 90%;
+  #Save_button {
+    font-weight: bold;
+    height: 64px;
+    width: 215px;
+    font-size: 29px;
+
+    border-radius: 6px;
+    color: white;
+    padding-top: 9px;
+    outline: none;
+    margin-top: 97px;
+    background: green;
+    float: left;
+    padding-bottom: 5px;
+  }
+
+  #prev_heading_div {
+    width: 74%;
+    height: 78px;
+    border: 10px solid white;
+    margin: auto;
+    margin-top: 26px;
+    float: left;
+    border-bottom: none;
+    border-top-left-radius: 10px;
+  }
+
+  #prev_img_div {
+    height: 400px;
+    width: 74%;
+    border: 10px solid white;
+    margin: auto;
+    float: left;
+    padding-top: 5px;
+    border-bottom-left-radius: 10px;
+  }
+
+  #prev_heading_div p {
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 12px;
+  }
+
+  #prev_info_div {
+    border: 10px solid white;
+    float: right;
+    width: 26%;
+    height: 478px;
+    margin: auto;
+    margin-top: -78px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+
+    border-left: none;
+  }
+
+  .prev_info_heading {
+    color: white;
+    font-weight: bold;
+    font-size: 37px;
+    margin-top: 39px;
+    text-align: left;
+  }
+  .prev_info_value {
+    text-align: left;
+    color: yellow;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: -10px;
+  }
+
+  #prev_img_div img {
+    height: auto;
+    max-height: 320px;
+    max-width: 85%;
+  }
+  #input_img_div img {
+    height: auto;
+    max-height: 350px;
+    max-width: 85%;
+  }
+
+  #resize_err {
+    color: yellow;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 26px;
+    font-weight: bolder;
+  }
+  #prev_heading_height {
+    margin-top: 52px;
+  }
+
+  #prev_back {
+    padding: 6px 10px;
+    height: 47px;
+    color: black;
+    width: 147px;
+    font-weight: bold;
+    font-size: 21px;
+    float: left;
+    background: white;
+  }
+  #alternative_save_div {
+    height: 86px;
+    margin-top: -83px;
+    width: 100%;
+  }
+  #alternative_save_button {
+    height: 64px;
+    width: 215px;
+    font-size: 29px;
+    background: green;
+    float: right;
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px;
+  }
+  #prev_back :hover {
+    border: 5px solid white;
+    background: rgb(53, 53, 53);
+    color: white;
+    padding-top: 6px;
+  }
+  #prev_info_container {
+    height: auto;
+    width: 187px;
+    margin: auto;
+    margin-left: 59px;
+  }
+  #nav_button {
+    height: 1px;
+    width: 1px;
+    visibility: hidden;
+  }
+
+  #prev_back_container {
+    height: 50px;
+    margin: auto;
+    margin-top: 22px;
+    width: 100%;
+  }
+  #resizing_inputs {
+    width: 92%;
+  }
+  #alternative_save_button {
+    visibility: hidden;
+  }
+  @media (max-width: 941px) {
+    #options_div,
+    #image_div {
+      width: 100%;
+    }
+    #image_div {
+      height: auto;
+    }
+    #Save_button {
+      visibility: hidden;
+    }
+    #alternative_save_button {
+      visibility: visible;
+    }
+    #alternative_save_div {
+      margin-top: -9px;
+    }
+    #input_container {
+      width: 420px;
+      margin: auto;
+    }
+    #alternative_save_button {
+      height: 59px;
+      width: 191px;
     }
   }
 
-  #resize,
-  #Saving {
-    border: 3px solid white;
+  @media (max-width: 630px) {
+    #input_container {
+      width: 82%;
+      margin: auto;
+    }
+    #alternative_save_button {
+      height: 59px;
+      width: 191px;
+    }
+    #alternative_save_button {
+      height: 55px;
+      width: 161px;
+      margin-top: 10px;
+      font-size: 25px;
+    }
   }
 
-  #resize:hover {
-    color: white;
+  @media (max-width: 1115px) {
+    #prev_img_div,
+    #prev_info_div,
+    #prev_heading_div {
+      width: 95%;
+      float: none;
+      border: 10px solid white;
+    }
+    #prev_back_container {
+      width: 95%;
+    }
+    #prev_info_div {
+      margin-top: 22px;
+    }
+    #prev_img_div {
+      height: auto;
+      padding-bottom: 38px;
+      padding-top: 13px;
+    }
+
+    #prev_info_container {
+      margin-left: inherit;
+    }
+    #prev_heading_div {
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+
+      border-bottom: none;
+    }
+
+    .prev_info_value,
+    .prev_info_heading {
+      text-align: center;
+    }
   }
 
-  #saving:hover {
-    color: white;
+  @media (max-width: 554px) {
+    #prev_heading_div p {
+      font-size: 26px;
+    }
+    #prev_info_div {
+      height: auto;
+    }
+    .prev_info_heading {
+      font-size: 33px;
+    }
+    .prev_info_value {
+      font-size: 21px;
+    }
+    #prev_heading_height {
+      margin-top: 28px;
+    }
+    #alternative_save_button {
+      float: none;
+    }
+    #input_div {
+      border: 7px solid white;
+    }
+  }
+  @media (max-width: 495px) {
+    #resize_img {
+      margin-top: 5px;
+    }
+    .resizing_inputs {
+      width: 92%;
+      font-size: 20px;
+    }
+    .resizing_btns {
+      width: 150px;
+    }
+    #alternative_save_button {
+      height: 50px;
+      width: 154px;
+    }
+  }
+
+  @media (max-width: 443px) {
+    #resize_err {
+      margin-top: 10px;
+      font-size: 21px;
+    }
   }
 </style>
-<a name="thankyouBox"></a>
+
 <div class="container2">
   <div id="upper-loader"></div>
 
@@ -51,18 +375,54 @@ lang: en
       <span id="loader"></span>
     </div>
   </div>
+
   <span id="content">
-    <div class="row" style="margin-top: 65px">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12 sizing">
-        <input type="number" id="width" placeholder="Enter width" /><br />
-        <input type="number" id="height" placeholder="Enter height" /><br />
-        <a class="btn submit" id="resize">Resize</a>
-        <a class="btn submit" id="Saving">Save</a><br /><br />
-        <p id="msg"></p>
+    <div class="row" style="margin: auto">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <div id="image_div">
+          <div id="alternative_save_div">
+            <a href="" class="btn" id="alternative_save_button">Save</a>
+          </div>
+          <div id="input_div">
+            <br /><br />
+            <div id="input_img_div"><img src="" alt="" /></div>
+            <br /><br />
+            <div id="input_info_div"></div>
+          </div>
+        </div>
+        <div id="options_div">
+          <div id="input_container">
+            <input
+              type="number"
+              name=""
+              id="changed_width"
+              class="resizing_inputs"
+              placeholder="Enter &nbsp;width"
+            />
+            <input
+              type="number"
+              name=""
+              id="changed_height"
+              class="resizing_inputs"
+              placeholder="Enter&nbsp; height"
+            />
+            <a
+              id="preview"
+              class="btn resize_btns"
+              onclick="document.querySelector('#nav_button').click();"
+              >Preview</a
+            >
+            <a id="resize_img" class="btn resize_btns">Resize</a><br />
+            <p id="resize_err"></p>
+            <a id="Save_button">Save</a>
+          </div>
+        </div>
       </div>
     </div>
   </span>
   <span class="thankyouBox"> </span>
-</div>
 
-<input type="file" id="file" accept="image/*" class="file" />
+  <br />
+  <br /><input type="file" id="file" accept="image/*" class="file" />
+  <button id="nav_button">done</button>
+</div>

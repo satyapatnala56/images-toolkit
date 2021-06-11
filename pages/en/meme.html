@@ -67,9 +67,15 @@ lang: en
   .slider.round:before {
     border-radius: 50%;
   }
+  .box {
+    background: #353535;
+  }
 
-  .pictureDisplay {
-    margin-top: 150px;
+  .d {
+    width: 237px;
+    height: 50px;
+    display: inline-block;
+    margin: 10px;
   }
 </style>
 
@@ -93,72 +99,101 @@ lang: en
     </div>
   </div>
   <span id="content">
-    <div class="pictureDisplay">
-      <canvas
-        id="final"
-        style="max-height: 500px; width: 100%; height: auto; margin: auto"
-      ></canvas>
-    </div>
-    <br /><br />
-    <div class="row">
+    <div
+      class="row"
+      style="
+        width: 90%;
+        border: 3px solid white;
+        margin: auto;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+      "
+    >
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
         <p id="errorMessage"></p>
         <div id="memetextDiv">
           <input type="text" id="memeText" placeholder="Enter the text " />
           <input type="color" name="" id="memeTextColor" />
         </div>
+        <div style="display: inline-block" id="opacityandsize">
+          <select name="" id="memeOpacity" style="margin-top: 12px">
+            <option value="---">Choose Opacity</option>
+            <option value="0.1">0.1</option>
+            <option value="0.2">0.2</option>
+            <option value="0.3">0.3</option>
+            <option value="0.4">0.4</option>
+            <option value="0.5">0.5</option>
+            <option value="0.6">0.6</option>
+            <option value="0.7">0.7</option>
+            <option value="0.8">0.8</option>
+            <option value="0.9">0.9</option>
+            <option value="1">1.0</option>
+          </select>
+          <input type="number" id="fontSize" placeholder="Enter Font Size" />
+        </div>
 
-        <br />
-        <select name="" id="memeOpacity">
-          <option value="---">Choose the Transpirancy</option>
-          <option value="0.1">0.1</option>
-          <option value="0.2">0.2</option>
-          <option value="0.3">0.3</option>
-          <option value="0.4">0.4</option>
-          <option value="0.5">0.5</option>
-          <option value="0.6">0.6</option>
-          <option value="0.7">0.7</option>
-          <option value="0.8">0.8</option>
-          <option value="0.9">0.9</option>
-          <option value="1">1.0</option>
-        </select>
-        <div class="styleButtons" id="italic">
-          <p style="margin-top: 12px">I</p>
+        <div class="d" id="shadowDiv">
+          <input type="number" name="" id="meme_shadow" placeholder="enter" />
+          <input type="color" name="" id="meme_shadow_color" />
         </div>
-        <div class="styleButtons" id="bold">
-          <p style="margin-top: 12px">B</p>
+        <div class="d" id="strokeDiv">
+          <input type="number" name="" id="" placeholder="enter" />
+          <input type="color" name="" id="" />
         </div>
-        <div class="styleButtons" id="underline">
-          <p style="margin-top: 12px">U</p>
+        <div class="d" id="fontstylediv">
+          <select
+            name=""
+            id=""
+            style="height: 50px; width: 100%; border-radius: 5px"
+          >
+            <option value="ans">ans</option>
+            <option value="ans">ans</option>
+            <option value="ans">ans</option>
+            <option value="ans">ans</option>
+            <option value="ans">ans</option>
+          </select>
         </div>
-        <input type="number" id="fontSize" placeholder="Enter Font Size" />
-        <br />
-        <br />
-        <div class="sDiv">
-          <input
-            type="number"
-            id="memeStroke"
-            placeholder="Enter the Stroke Value "
-          />
-          <input type="color" name="" id="memeStrokeColor" />
+        <div style="display: inline-block" id="fontSizeDiv">
+          <div style="height: 50px; width: 163px; display: inline-block">
+            <div class="styleButtons" id="bold">
+              <p>B</p>
+            </div>
+            <div class="styleButtons" id="italic ">
+              <p>I</p>
+            </div>
+            <div class="styleButtons" id="underline">
+              <p>U</p>
+            </div>
+          </div>
+          <div
+            style="height: 50px; width: 163px; display: inline-block"
+            id="styleAlign"
+          >
+            <div class="styleButtons" id="left">
+              <p>L</p>
+            </div>
+            <div class="styleButtons" id="center ">
+              <p>C</p>
+            </div>
+            <div class="styleButtons" id="right">
+              <p>R</p>
+            </div>
+          </div>
         </div>
-        <div class="sDiv">
-          <input
-            type="number"
-            id="memeShadow"
-            placeholder="Enter the Shadow Value "
-          />
-          <input type="color" name="" id="memeShadowColor" />
-        </div>
-        <br /><br />
-        <a
+        <!-- <a
           id="imageInput"
           onclick="document.querySelector('#file2').click()"
           class="btn"
           >Upload Image</a
         >
-        <a id="textInput" class="btn">Add Text</a>
+        <a id="textInput" class="btn">Add Text</a> -->
       </div>
+    </div>
+    <div class="pictureDisplay">
+      <canvas
+        id="final"
+        style="max-height: 500px; width: 100%; height: auto; margin: auto"
+      ></canvas>
     </div>
     <br />
 
@@ -175,3 +210,7 @@ lang: en
 <input type="file" id="file" accept="image/*" class="file" />
 
 <input type="file" id="file2" class="file" />
+
+<script>
+  document.querySelector(".box").style.background = "#353535";
+</script>
