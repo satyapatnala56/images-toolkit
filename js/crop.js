@@ -3,7 +3,7 @@ var inputbox = document.querySelector("#inputbox");
 var content = document.querySelector("#content");
 var file = document.querySelector("#file");
 var box = document.querySelector(".box");
-
+var flag = 0;
 var input;
 container.ondragover = function (e) {
   e.preventDefault();
@@ -63,15 +63,19 @@ function cropImage() {
 
       clearInterval(ans);
     }
-  }, 1000);
+  }, 300);
   ////loader end
   var reader = new FileReader();
   reader.onload = function () {
-    var img = document.querySelector("#croppingImage");
+    var img = document.querySelector("#original_image img");
 
     img.onload = function () {
-      var croppr = new Croppr("#croppingImage", {
+      var croppr = new Croppr("#original_image img", {
         onCropEnd: function (value) {
+          if (flag == 0) {
+            window.location.href = "#cropped_img";
+            flag = 1;
+          }
           console.log(value.x, value.y, value.width, value.height);
           var value = croppr.getValue();
           var canvas = document.createElement("canvas");
@@ -90,24 +94,24 @@ function cropImage() {
             value.width,
             value.height
           );
+          var url = canvas.toDataURL();
+          document.querySelector("#save_button_div").style.marginTop = "30px";
+          document.querySelector("#cropped_image img").src = url;
+          document.querySelector("#cropped_image").style.height = "auto";
 
-          document.querySelector("#saving").onclick = function () {
+          document.querySelector("#save").onclick = function () {
             window.location.href = "#";
-
             document.querySelector("#content").style.display = "none";
             document.querySelector(".thankyouBox").innerHTML =
               ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
 
             document.querySelector("#downloadButton").onclick = function () {
-              var url = canvas.toDataURL();
               var a = document.createElement("a");
               a.href = url;
               a.download = "download";
-
               document.body.appendChild(a);
               a.click();
             };
-
             document.querySelector(".container2").style.height = "300px";
             box.style.background = "#ff704d";
           };

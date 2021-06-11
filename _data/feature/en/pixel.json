@@ -20,7 +20,7 @@
   "META": "Are you looking for a high-quality image to pixel art converter? Well, then you are at the right place. Our online pixel art maker is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
-  "color": "#e6e600",
+  "color": "#cc66ff",
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
@@ -60,6 +60,11 @@
       "content": "Our image to pixel art conversion tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": [""]
+  },
 
   "FAQ": [
     {

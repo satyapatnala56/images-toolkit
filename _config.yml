@@ -32,3 +32,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+production_google_analytics: "UA-179965937-20"
+development_google_analytics: ""

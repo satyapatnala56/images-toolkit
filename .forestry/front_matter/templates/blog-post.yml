@@ -1,0 +1,36 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: layout
+    type: text
+    config:
+      required: false
+    label: Layout
+  - name: author
+    type: text
+    config:
+      required: false
+    label: Author
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: tags
+    type: tag_list
+    default: []
+    label: Tags
+  - name: categories
+    type: tag_list
+    default: []
+    label: Categories
+  - name: comments
+    type: boolean
+    label: Comments
+pages:

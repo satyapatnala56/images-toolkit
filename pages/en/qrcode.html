@@ -8,133 +8,206 @@ lang: en
 ---
 
 <style>
-  #thankyouImage {
-    margin-top: -1px;
+  #save {
+    height: 40px;
+    width: 150px;
+    float: right;
+    border-radius: 5px;
+    outline: none;
+    font-weight: bold;
   }
-  .switch {
-    position: relative;
-    display: inline-block;
-    width: 60px;
-    height: 34px;
+  #save_button_div {
+    margin: auto;
+    width: 100%;
+    margin-top: -7px;
+    height: 41px;
   }
-
-  .switch input {
-    opacity: 0;
-    width: 0;
-    height: 0;
+  #qr_info_input {
+    height: 239px;
+    width: 101.2%;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: -3.1px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    outline: none;
+    padding: 15px;
   }
-
-  .slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #ccc;
-    -webkit-transition: 0.4s;
-    transition: 0.4s;
+  #qr_info_input::placeholder {
+    font-size: 20px;
+    font-weight: bold;
   }
-
-  .slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    -webkit-transition: 0.4s;
-    transition: 0.4s;
+  .container2 {
+    width: 95%;
+    height: auto;
+    margin: auto;
   }
-
-  input:checked + .slider {
-    background-color: #2196f3;
-  }
-
-  input:focus + .slider {
-    box-shadow: 0 0 1px #2196f3;
+  #qr_image {
+    border: 11px solid white;
+    height: 321px;
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 39%;
+    float: left;
   }
 
-  input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
-    -ms-transform: translateX(26px);
-    transform: translateX(26px);
+  #qr_input_select option {
+    background: white;
+    color: black;
+    font-size: 22px;
   }
 
-  /* Rounded sliders */
-  .slider.round {
-    border-radius: 34px;
+  #qr_info {
+    border: 3px solid white;
+    width: 59%;
+    height: 321px;
+    margin-top: 32px;
+    border-radius: 5px;
+    float: right;
+    margin-top: 20px;
+  }
+  #qr_info_heading {
+    width: 100%;
+    height: 20%;
+  }
+  #qr_info_heading p {
+    font-weight: bold;
+    color: white;
+    margin-top: 16px;
+    font-size: 29px;
+  }
+  #qr_output {
+    height: 254px;
+    width: 76%;
+    margin-top: 24px;
+  }
+  @media (max-width: 1085px) {
+    #qr_output {
+      width: 83%;
+    }
+  }
+  @media (max-width: 1025px) {
+    #qr_output {
+      width: 87%;
+    }
+  }
+  #qr_error {
+    color: yellow;
+    margin-top: 16px;
+    font-size: 25px;
+    width: 257px;
+    margin: auto;
+  }
+  @media (max-width: 930px) {
+    #qr_image,
+    #qr_info {
+      width: 95%;
+      float: none;
+      margin: auto;
+      margin-top: 25px;
+    }
+    #save_button_div {
+      width: 95.5%;
+    }
+    .container2 {
+      height: 815px;
+    }
+    #qr_row {
+      margin-top: 10px;
+    }
+    #qr_output {
+      width: 297px;
+    }
+
+    #qr_image {
+      margin-top: 18px;
+    }
+    #save_button_div {
+      margin-top: 9px;
+    }
   }
 
-  .slider.round:before {
-    border-radius: 50%;
+  #qr_output_span p {
+    margin-top: 125px;
+    font-size: 31px;
+    color: white;
+    font-weight: bold;
+  }
+  @media (max-width: 491px) {
+    #qr_output {
+      width: 250px;
+      height: 217px;
+    }
+    #qr_image {
+      height: 289px;
+    }
+    #qr_output_span p {
+      margin-top: 109px;
+    }
+  }
+  @media (max-width: 472px) {
+    #qr_info_input {
+      margin-left: -2.1px;
+    }
+  }
+  @media (max-width: 411px) {
+    #qr_output {
+      width: 250px;
+      height: 217px;
+    }
+    #qr_image,
+    #qr_info,
+    #save_button_div {
+      width: 100%;
+    }
+  }
+  @media (max-width: 395px) {
+    #qr_output {
+      width: 227px;
+      height: 218px;
+    }
+  }
+  @media (max-width: 377px) {
+    #qr_info_heading p {
+      font-size: 26px;
+    }
   }
   #content {
+    height: 495px;
     visibility: visible;
   }
-  .pictureDisplay {
-    margin-top: 120px;
-  }
-
-  .container2 {
-    height: auto;
-  }
 </style>
-<a name="down"></a>
 <div class="container2">
   <div id="upper-loader"></div>
 
+  <span id="content">
+    <div class="row" id="qr_row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <div id="save_button_div"></div>
+        <span id="qr_error_span"></span>
+
+        <div id="qr_image">
+          <span id="qr_output_span"><p>Output</p></span>
+        </div>
+        <div id="qr_info">
+          <div id="qr_info_heading"><p>Enter the value below</p></div>
+          <textarea
+            spellcheck="false"
+            name=""
+            id="qr_info_input"
+            cols="5000"
+            rows="5000"
+            placeholder="Enter your text, contact, url"
+          ></textarea>
+        </div>
+      </div>
+    </div>
+  </span>
+  <span> </span>
   <div class="row" id="loaderDiv">
     <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
       <span id="loader"></span>
     </div>
   </div>
-  <span id="content">
-    <div
-      class="row"
-      style="
-        height: 300px;
-        width: 90%;
-        border: 3px solid rgba(90, 90, 90, 0.466);
-        background: rgba(90, 90, 90, 0.466);
-        margin: auto;
-        margin-top: 100px;
-      "
-    >
-      <div class="col col-sm-12 col-md-12 col-lg-12 col-xl-12">
-        <img id="qrOutput" style="margin: auto; margin-top: 100px" />
-      </div>
-    </div>
-    <br /><br />
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <p id="errorMessage"></p>
-        <br />
-        <p style="text-align: center; color: white; font-size: 25px">
-          ENTER YOUR TEXT BELOW
-        </p>
-
-        <textarea
-          id="qrInput"
-          rows="10"
-          cols="100"
-          placeholder="Enter text,contact Number,Url"
-        ></textarea>
-        <br /><br />
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <a id="convert" class="btn submit">Generate</a>
-        <a id="save" class="btn submit">Save</a>
-      </div>
-    </div>
-
-    <br /><br />
-  </span>
   <span class="thankyouBox"> </span>
 </div>
-
-<input type="file" id="file" accept="image/*" class="file" />

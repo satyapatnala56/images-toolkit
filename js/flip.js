@@ -13,6 +13,7 @@ var Rotate = (function () {
 
   var HAS_CANVAS = (function () {
     var canvas = document.createElement("canvas");
+    canvas.id = "canvas_id";
     return !!(canvas && canvas.getContext);
   })();
 
@@ -47,8 +48,11 @@ var Rotate = (function () {
           canvas.setAttribute("width", fullWidth);
           canvas.setAttribute("height", fullHeight);
 
-          document.querySelector("#cont").innerHTML = "";
-          document.querySelector("#cont").appendChild(canvas);
+          document.querySelector("#result_img_div").innerHTML = "";
+
+          document.querySelector("#result_img_div").appendChild(canvas);
+          canvas.style.maxHeight = "400px";
+          canvas.style.maxWidth = "100%";
 
           var g = canvas.getContext("2d");
 

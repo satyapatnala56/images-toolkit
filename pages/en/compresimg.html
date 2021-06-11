@@ -7,31 +7,6 @@ tool: imgcompression
 lang: en
 ---
 
-<style>
-  .box {
-    background: black;
-  }
-
-  #imgContent div img {
-    height: auto;
-    width: auto;
-    max-height: 300px;
-    max-width: 100%;
-  }
-  #imgContent div p {
-    width: 300px;
-    color: white;
-    font-size: 20px;
-    text-align: left;
-  }
-  #imgContent div {
-    display: inline-block;
-    height: 420px;
-    width: 400px;
-    margin: 30px;
-  }
-</style>
-
 <a name="down"></a>
 <div class="container2">
   <div id="upper-loader"></div>
@@ -51,134 +26,123 @@ lang: en
     </div>
   </div>
   <span id="content">
-    <div class="row" style="margin-top: 50px">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <span id="imgContent">
-          <div id="inputContent">
-            <img src="" alt="" /><br /><br />
-            <p><u>Name :</u>&nbsp;&nbsp;<span id="ans1"></span></p>
-            <p><u>Type :</u>&nbsp;&nbsp;<span id="ans2"></span></p>
-            <p><u>Size :</u>&nbsp;&nbsp;<span id="ans3"></span></p>
-            <p>
-              <u>Last Modified Date :</u>&nbsp;&nbsp;<span id="ans4"></span>
-            </p>
+    <div class="row" id="main_row">
+      <div
+        class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"
+        style="margin-top: 44px"
+      >
+        <div id="leftDiv">
+          <br />
+
+          <div class="row">
+            <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+              <input
+                type="number"
+                name=""
+                id="compress_height"
+                class="Num"
+                placeholder="Enter height"
+              /><input
+                type="number"
+                name=""
+                id="compress_width"
+                class="Num"
+                placeholder="Enter width"
+              /><input
+                type="number"
+                name=""
+                id="compress_maxHeight"
+                class="Num"
+                placeholder="Enter max-height"
+              /><input
+                type="number"
+                name=""
+                id="compress_maxWidth"
+                class="Num"
+                placeholder="Enter max-width"
+              />
+              <input
+                type="number"
+                name=""
+                id="compress_minHeight"
+                class="Num"
+                placeholder="Enter min-height"
+              />
+              <input
+                type="number"
+                name=""
+                id="compress_minWidth"
+                class="Num"
+                placeholder="Enter min-width"
+              />
+              <input
+                type="number"
+                name=""
+                id="compress_convertSize"
+                class="Num"
+                placeholder="Enter convert size"
+              />
+              <select name="" id="compress_mimeType" class="Num">
+                <option value="---">Enter Mimetype</option>
+                <option value="webp">.webp</option>
+                <option value="png">.png</option>
+                <option value="jpg">.jpg</option>
+                <option value="jpeg">.jpeg</option>
+              </select>
+              <select name="" id="compress_quality" class="Num">
+                <option value="---">Enter Quality</option>
+                <option value="0.1">0.1</option>
+                <option value="0.2">0.2</option>
+                <option value="0.3">0.3</option>
+                <option value="0.4">0.4</option>
+                <option value="0.5">0.5</option>
+                <option value="0.6">0.6</option>
+                <option value="0.7">0.7</option>
+                <option value="0.8">0.8</option>
+                <option value="0.9">0.9</option>
+                <option value="1">1</option>
+              </select>
+              <br />
+              <div
+                class="Cbuttons"
+                id="compress_strictBtn"
+                onclick="document.querySelector('#compress_strict').click()"
+              >
+                <p>Strict</p>
+              </div>
+              <div
+                class="Cbuttons"
+                id="orientationBtn"
+                onclick="document.querySelector('#orientation').click()"
+              >
+                <p>Orientation</p>
+              </div>
+            </div>
           </div>
-          <div id="outputContent">
-            <img src="" alt="" />
-            <br /><br />
-            <p><u>Name :</u>&nbsp;&nbsp;<span id="ans1"></span></p>
-            <p><u>Type :</u>&nbsp;&nbsp;<span id="ans2"></span></p>
-            <p><u>Size :</u>&nbsp;&nbsp;<span id="ans3"></span></p>
-            <p>
-              <u>Last Modified Date :</u>&nbsp;&nbsp;<span id="ans4"></span>
-            </p>
+        </div>
+        <div id="rightDiv">
+          <div class="result_box" id="first_result_box">
+            <div class="result_div_inner" id="img_div_one">
+              <img src="pt2.png" alt="" />
+            </div>
+            <div class="result_div_inner" id="info_div_one"></div>
           </div>
-        </span>
-      </div>
-    </div>
-
-    <div class="row" style="margin-top: -30px">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12" id="inputs">
-        <input
-          type="number"
-          id="cwidth"
-          class="splitInput"
-          placeholder="Enter the width"
-        />
-        <input
-          type="number"
-          id="cheight"
-          class="splitInput"
-          placeholder="Enter the height"
-        /><br />
-        <input
-          type="number"
-          id="min-width"
-          class="splitInput"
-          placeholder="Enter the min-width"
-        />
-        <input
-          type="number"
-          id="min-height"
-          class="splitInput"
-          placeholder="Enter the min-height"
-        /><br />
-        <input
-          type="number"
-          id="max-width"
-          class="splitInput"
-          placeholder="Enter the max-width"
-        />
-        <input
-          type="number"
-          id="max-height"
-          class="splitInput"
-          placeholder="Enter the max-height"
-        />
-        <br />
-        <input
-          type="number"
-          id="convertSize"
-          class="splitInput"
-          placeholder="Enter the convertSize"
-        />
-        <br />
-
-        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <div style="display: inline-block">
-          <p style="font-size: 25px; color: white">Strict</p>
-          <input
-            type="checkbox"
-            name=""
-            id="strict"
-            style="height: 40px; width: 40px; border: 3px solid black"
-          />
+          <div class="result_box" id="second_result_box">
+            <div class="result_div_inner" id="img_div_two">
+              <img src="pt2.png" alt="" />
+            </div>
+            <div class="result_div_inner" id="info_div_two"></div>
+          </div>
         </div>
-        &nbsp; &nbsp; &nbsp;
-        <div style="display: inline-block; margin: auto">
-          <p style="font-size: 25px; color: white">Orientation</p>
-          <input
-            type="checkbox"
-            name=""
-            id="Orientation"
-            style="height: 40px; width: 40px; border: 3px solid black"
-          />
-        </div>
-
-        <br /><br />
-
-        <select name="" id="compressOption">
-          <option value="---">Enter the Quality</option>
-          <option value="0.1">0.1</option>
-          <option value="0.2">0.2</option>
-          <option value="0.3">0.3</option>
-          <option value="0.4">0.4</option>
-          <option value="0.5">0.5</option>
-          <option value="0.6">0.6</option>
-          <option value="0.7">0.7</option>
-          <option value="0.8">0.8</option>
-          <option value="0.9">0.9</option>
-          <option value="1">1</option>
-        </select>
-        <select name="" id="mimetype">
-          <option value="---">Enter the Mimetype</option>
-          <option value="webp">webp</option>
-          <option value="jpg">jpg</option>
-          <option value="png">png</option>
-          <option value="jpeg">jpeg</option>
-          <option value="gif">gif</option>
-        </select>
-        <br />
-      </div>
-    </div>
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <a id="compress" class="btn submit">Compress</a>
-        <a id="save" class="btn submit">Save</a>
       </div>
     </div>
   </span>
+
   <span class="thankyouBox"> </span>
 </div>
 
-<input type="file" id="file" accept=".jpg,.jpeg,.png,.gif,.webp" class="file" />
+<input type="file" id="file" accept=".jpeg,.jpg,.png,.gif" class="file" /><input
+  type="checkbox"
+  name=""
+  id="compress_strict"
+/><input type="checkbox" name="" id="orientation" />
