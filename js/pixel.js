@@ -106,7 +106,6 @@ function image_to_pixel_art() {
         document.querySelector(".thankyouBox").innerHTML =
           ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
         document.querySelector(".container2").style.height = "300px";
-        box.style.background = "#ff704d";
         document.querySelector("#downloadButton").onclick = function () {
           var a = document.createElement("a");
           a.href = url;

@@ -25,12 +25,15 @@ tool: gifcompression
       <span id="loader"></span>
     </div>
   </div>
-
   <span id="content">
-    <div class="row" style="margin-top: 32px">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+    <div class="row" id="main_row">
+      <div
+        class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"
+        style="margin-top: 44px"
+      >
         <div id="leftDiv">
           <br />
+
           <div class="row">
             <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
               <input
@@ -114,19 +117,15 @@ tool: gifcompression
               >
                 <p>Orientation</p>
               </div>
-
-              <div class="Cbuttons" id="save"><p>Save</p></div>
             </div>
           </div>
         </div>
         <div id="rightDiv">
-          <div class="resultBox">
-            <div class="resultImg">
-              <p>Input</p>
-              <img src="" alt="" id="#inputImg" />
+          <div class="result_box" id="first_result_box">
+            <div class="result_div_inner" id="img_div_one">
+              <img src="pt2.png" alt="" />
             </div>
-            <div class="resultText" id="inputDiv">
-              <br />
+            <div class="result_div_inner" id="info_div_one">
               <p class="resultHeading" id="head1">Name</p>
               <p class="resultValue" id="ans1"></p>
               <p class="resultHeading" id="head2">Size</p>
@@ -137,13 +136,11 @@ tool: gifcompression
               <p class="resultValue" id="ans4"></p>
             </div>
           </div>
-          <div class="resultBox" style="margin-top: 15px" id="outputDiv">
-            <div class="resultImg">
-              <p>Output</p>
-              <img src="" alt="" id="#outputImg" />
+          <div class="result_box" id="second_result_box">
+            <div class="result_div_inner" id="img_div_two">
+              <img src="pt2.png" alt="" />
             </div>
-            <div class="resultText">
-              <br />
+            <div class="result_div_inner" id="info_div_two">
               <p class="resultHeading" id="head1b">Name</p>
               <p class="resultValue" id="ans1b"></p>
               <p class="resultHeading" id="head2b">Size</p>
@@ -162,7 +159,7 @@ tool: gifcompression
   <span class="thankyouBox"> </span>
 </div>
 
-<input type="file" id="file" accept=".gif" class="file" /><input
+<input type="file" id="file" accept=".jpeg,.jpg,.png,.gif" class="file" /><input
   type="checkbox"
   name=""
   id="compress_strict"

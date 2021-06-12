@@ -1,5 +1,5 @@
 .container2 {
-  height: auto;
+  height: 300px;
   width: 100%;
   margin: auto;
   cursor: pointer;
@@ -55,17 +55,20 @@
   height: 100%;
   width: 50%;
   border: 1px solid white;
+  padding: 10px;
 }
 #img_div_one,
 #img_div_two {
   float: left;
   padding-top: 40px;
+  display: grid;
+  justify-content: center;
   padding-bottom: 40px;
+  align-content: center;
 }
 #img_div_one img,
 #img_div_two img {
   max-height: 200px;
-  margin-top: 6px;
 }
 
 #info_div_one,
@@ -124,6 +127,10 @@
   }
 }
 
+#compress_strict,
+#orientation {
+  visibility: hidden;
+}
 @media (max-width: 929px) {
   .Num {
     width: 47%;
@@ -177,4 +184,14 @@
     margin: auto;
     margin-top: 14px;
   }
+}
+
+.resultHeading {
+  color: white;
+  margin-top: 10px;
+}
+
+.resultValue {
+  color: yellow;
+  margin-top: -10px;
 }
