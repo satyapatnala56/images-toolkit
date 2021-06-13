@@ -78,7 +78,7 @@
 
   "jscdns": [
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
-    "<Script src=\"js/compresspng.js\"></script>"
+    "<Script src=\"js/compress.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />",

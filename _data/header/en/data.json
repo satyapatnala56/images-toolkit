@@ -5,31 +5,12 @@
     "nav-link-name": "Tools",
     "dropdown": [
       {
-        "categoryName": "",
+        "categoryName": "Generate",
         "links": [
           {
             "iconSrc": "/img/ascii.png",
             "name": "ASCII image generator ",
             "url": "/ascii-art-from-image",
-            "hover": "red"
-          },
-
-          {
-            "iconSrc": "/img/compare.png",
-            "name": "Image comparison",
-            "url": "/image-comparision",
-            "hover": "red"
-          },
-          {
-            "iconSrc": "/img/crop.png",
-            "name": "Image cropper",
-            "url": "/crop-image",
-            "hover": "red"
-          },
-          {
-            "iconSrc": "/img/filter.png",
-            "name": "Image Filter Adder",
-            "url": "/photo-filters",
             "hover": "red"
           },
           {
@@ -45,26 +26,14 @@
             "hover": "red"
           },
           {
-            "iconSrc": "/img/rotate.png",
-            "name": "Image Rotater",
-            "url": "/flip-image",
-            "hover": "red"
-          },
-          {
-            "iconSrc": "/img/resize.png",
-            "name": "Image Resizer",
-            "url": "/image-resize",
-            "hover": "red"
-          },
-          {
             "iconSrc": "/img/watermark.png",
-            "name": " Watermark image maker",
+            "name": "Watermark image maker",
             "url": "/watermark-for-photos",
             "hover": "red"
           },
           {
             "iconSrc": "/img/pixel.png",
-            "name": " Image to pixelate image converter",
+            "name": "Image to pixelate image converter",
             "url": "/pixel-art-maker",
             "hover": "red"
           },
@@ -73,28 +42,39 @@
             "name": "QR Code generator",
             "url": "/qr-code-generator",
             "hover": "red"
-          },
+          }
+        ]
+      },
+      {
+        "categoryName": "Edit",
+        "links": [
           {
-            "iconSrc": "/img/compressimage.png",
-            "name": "Image compressor",
-            "url": "/compress-an-image",
+            "iconSrc": "/img/crop.png",
+            "name": "Image cropper",
+            "url": "/crop-image",
             "hover": "red"
           },
           {
-            "iconSrc": "/img/split.png",
-            "name": "Image Splitter",
-            "url": "/split-photo",
+            "iconSrc": "/img/filter.png",
+            "name": "Image Filter Adder",
+            "url": "/photo-filters",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "/img/rotate.png",
+            "name": "Image Rotater",
+            "url": "/flip-image",
             "hover": "red"
           }
         ]
       },
       {
-        "categoryName": "",
+        "categoryName": "Compress",
         "links": [
           {
-            "iconSrc": "/img/compressgif.png",
-            "name": "Gif Compressor",
-            "url": "/compress-a-gif",
+            "iconSrc": "/img/compressimage.png",
+            "name": "Image Compressor",
+            "url": "/compress-an-image",
             "hover": "red"
           },
           {
@@ -104,9 +84,38 @@
             "hover": "red"
           },
           {
+            "iconSrc": "/img/compressgif.png",
+            "name": "Gif Compressor",
+            "url": "/compress-a-gif",
+            "hover": "red"
+          },
+          {
             "iconSrc": "/img/compressjpeg.png",
             "name": "Jpeg Compressor",
             "url": "/compress-jpeg",
+            "hover": "red"
+          }
+        ]
+      },
+      {
+        "categoryName": "Other Tools",
+        "links": [
+          {
+            "iconSrc": "/img/split.png",
+            "name": "Image Splitter",
+            "url": "/split-photo",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "/img/resize.png",
+            "name": "Image Resizer",
+            "url": "/image-resize",
+            "hover": "red"
+          },
+          {
+            "iconSrc": "/img/compare.png",
+            "name": "Image Comparison",
+            "url": "/image-comparision",
             "hover": "red"
           }
         ]

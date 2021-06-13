@@ -28,19 +28,54 @@ container.ondrop = function (e) {
   e.preventDefault();
   input = e.dataTransfer.files[0];
   var extension = input.name.replace(/^.*\./, "");
-  if (
-    extension == "webp" ||
-    extension == "jpg" ||
-    extension == "jpeg" ||
-    extension == "png" ||
-    extension == "gif"
-  ) {
-    inputbox.style.display = "none";
-    compressImage();
-  } else {
-    console.log("error");
-    document.querySelector(".box").style.height = "350px";
-    document.querySelector("#error").innerHTML = "File format not supported";
+  if (window.location.href.match("compress-an-image")) {
+    if (
+      extension == "webp" ||
+      extension == "jpg" ||
+      extension == "jpeg" ||
+      extension == "png" ||
+      extension == "gif"
+    ) {
+      inputbox.style.display = "none";
+      document.querySelector(".box").style.height = "300px";
+
+      compressImage();
+    } else {
+      console.log("error");
+      document.querySelector(".box").style.height = "350px";
+      document.querySelector("#error").innerHTML = "File format not supported";
+    }
+  } else if (window.location.href.match("compress-a-gif")) {
+    if (extension == "gif") {
+      inputbox.style.display = "none";
+      document.querySelector(".box").style.height = "300px";
+
+      compressImage();
+    } else {
+      console.log("error");
+      document.querySelector(".box").style.height = "350px";
+      document.querySelector("#error").innerHTML = "File format not supported";
+    }
+  } else if (window.location.href.match("compress-jpeg")) {
+    if (extension == "jpeg") {
+      document.querySelector(".box").style.height = "300px";
+      inputbox.style.display = "none";
+      compressImage();
+    } else {
+      console.log("error");
+      document.querySelector(".box").style.height = "350px";
+      document.querySelector("#error").innerHTML = "File format not supported";
+    }
+  } else if (window.location.href.match("compress-png")) {
+    if (extension == "png") {
+      inputbox.style.display = "none";
+      document.querySelector(".box").style.height = "300px";
+      compressImage();
+    } else {
+      console.log("error");
+      document.querySelector(".box").style.height = "350px";
+      document.querySelector("#error").innerHTML = "File format not supported";
+    }
   }
 };
 file.onchange = function () {
@@ -56,8 +91,8 @@ function compressImage() {
   $("#file").remove();
   var reader = new FileReader();
   reader.onload = function () {
-    document.querySelector("#inputImg").src = reader.result;
-    document.querySelector("#outputImg").src = reader.result;
+    document.querySelector("#img_div_one img").src = reader.result;
+    document.querySelector("#img_div_two img").src = reader.result;
     var loaderbox = document.createElement("div");
     loaderbox.id = "loader-box";
     var mainDiv = document.querySelector("#loaderDiv .col");
@@ -83,18 +118,18 @@ function compressImage() {
     }, 1000);
     ////loader end
 
-    document.querySelector("#inputDiv  #ans1").innerHTML = input.name;
-    document.querySelector("#inputDiv  #ans2").innerHTML = input.type;
-    document.querySelector("#inputDiv  #ans3").innerHTML =
+    document.querySelector("#info_div_one  #ans1").innerHTML = input.name;
+    document.querySelector("#info_div_one  #ans2").innerHTML = input.type;
+    document.querySelector("#info_div_one  #ans3").innerHTML =
       parseInt(input.size) / 1000 + "kb";
-    document.querySelector("#inputDiv  #ans4").innerHTML =
+    document.querySelector("#info_div_one  #ans4").innerHTML =
       input.lastModifiedDate;
     ////compressing image
-    document.querySelector("#outputDiv  #ans1b").innerHTML = input.name;
-    document.querySelector("#outputDiv  #ans2b").innerHTML = input.type;
-    document.querySelector("#outputDiv  #ans3b").innerHTML =
+    document.querySelector("#info_div_two  #ans1b").innerHTML = input.name;
+    document.querySelector("#info_div_two  #ans2b").innerHTML = input.type;
+    document.querySelector("#info_div_two  #ans3b").innerHTML =
       parseInt(input.size) / 1000 + "kb";
-    document.querySelector("#outputDiv  #ans4b").innerHTML =
+    document.querySelector("#info_div_two  #ans4b").innerHTML =
       input.lastModifiedDate;
 
     var res = document.querySelectorAll("input,select");

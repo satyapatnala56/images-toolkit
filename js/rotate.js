@@ -112,10 +112,9 @@ function rotateImg() {
           document.querySelector(".container2").style.height = "300px";
           ///download button
           document.querySelector("#downloadButton").onclick = function () {
-            var download_file_name = input.name.match(/^.*/);
             download(
               document.querySelector("canvas").toDataURL(),
-              download_file_name,
+              "rotatedimage",
               "image/png"
             );
           };

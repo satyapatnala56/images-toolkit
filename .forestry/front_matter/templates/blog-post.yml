@@ -33,4 +33,3 @@ fields:
   - name: comments
     type: boolean
     label: Comments
-pages:

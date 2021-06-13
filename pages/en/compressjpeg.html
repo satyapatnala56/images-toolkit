@@ -25,12 +25,11 @@ lang: en
       <span id="loader"></span>
     </div>
   </div>
-
   <span id="content">
-    <div class="row" style="width: 100%; margin: auto">
+    <div class="row" id="main_row">
       <div
         class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"
-        style="margin-top: 76px"
+        style="margin-top: 44px"
       >
         <div id="leftDiv">
           <br />
@@ -122,79 +121,45 @@ lang: en
           </div>
         </div>
         <div id="rightDiv">
-          <button id="save">Save</button>
-
-          <div class="resultBox">
-            <div class="resultImg">
-              <p>Input</p>
-
-              <img src="" alt="" id="#inputImg" />
+          <div class="result_box" id="first_result_box">
+            <div class="result_div_inner" id="img_div_one">
+              <img src="pt2.png" alt="" />
             </div>
-            <div class="resultText" id="inputDiv">
-              <br />
-              <div
-                style="
-                  height: auto;
-                  width: 100%;
-                  height: 100%;
-                  width: 84%;
-                  margin: auto;
-                  margin-top: -3px;
-                "
-              >
-                <p class="resultHeading" id="head1">Name</p>
-                <p class="resultValue" id="ans1"></p>
-                <p class="resultHeading" id="head2" style="margin-top: 36px">
-                  Size
-                </p>
-                <p class="resultValue" id="ans2"></p>
-                <p class="resultHeading">Type</p>
-                <p class="resultValue" id="ans3"></p>
-                <p class="resultHeading">Last Modified Date</p>
-                <p class="resultValue" id="ans4"></p>
-              </div>
+            <div class="result_div_inner" id="info_div_one">
+              <p class="resultHeading" id="head1">Name</p>
+              <p class="resultValue" id="ans1"></p>
+              <p class="resultHeading" id="head2">Size</p>
+              <p class="resultValue" id="ans2"></p>
+              <p class="resultHeading">Type</p>
+              <p class="resultValue" id="ans3"></p>
+              <p class="resultHeading">Last Modified Date</p>
+              <p class="resultValue" id="ans4"></p>
             </div>
           </div>
-          <div class="resultBox" style="margin-top: 15px" id="outputDiv">
-            <div class="resultImg">
-              <p>Output</p>
-              <img src="" alt="" id="#outputImg" />
+          <div class="result_box" id="second_result_box">
+            <div class="result_div_inner" id="img_div_two">
+              <img src="pt2.png" alt="" />
             </div>
-            <div class="resultText">
-              <br />
-              <div
-                style="
-                  height: auto;
-                  width: 100%;
-                  height: 100%;
-                  width: 84%;
-                  margin: auto;
-                  margin-top: -3px;
-                "
-              >
-                <p class="resultHeading" id="head1b">Name</p>
-                <p class="resultValue" id="ans1b"></p>
-                <p class="resultHeading" id="head1b" style="margin-top: 36px">
-                  Size
-                </p>
-                <p class="resultValue" id="ans2b"></p>
-                <p class="resultHeading">Type</p>
-                <p class="resultValue" id="ans3b"></p>
-                <p class="resultHeading">Last Modified Date</p>
-                <p class="resultValue" id="ans4b"></p>
-              </div>
+            <div class="result_div_inner" id="info_div_two">
+              <p class="resultHeading" id="head1b">Name</p>
+              <p class="resultValue" id="ans1b"></p>
+              <p class="resultHeading" id="head2b">Size</p>
+              <p class="resultValue" id="ans2b"></p>
+              <p class="resultHeading">Type</p>
+              <p class="resultValue" id="ans3b"></p>
+              <p class="resultHeading">Last Modified Date</p>
+              <p class="resultValue" id="ans4b"></p>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <br /><br /><br />
   </span>
 
   <span class="thankyouBox"> </span>
 </div>
 
-<input type="file" id="file" accept=".jpeg" class="file" /><input
+<input type="file" id="file" accept=".jpeg,.jpg,.png,.gif" class="file" /><input
   type="checkbox"
   name=""
   id="compress_strict"
