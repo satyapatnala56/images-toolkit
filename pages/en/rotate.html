@@ -22,6 +22,7 @@ lang: en
 
   #info_div {
     float: left;
+    padding-top: 5px;
     padding-left: 30px;
     padding-right: 30px;
     width: 36%;
@@ -91,34 +92,117 @@ lang: en
     color: black;
   }
   /* #r_btn {
-    border-radius: 5px;
-    width: 100%;
-    outline: none;
-    padding: 10px 10px;
-    font-weight: bold;
-    background: white;
-    font-size: 25px;
-    color: #a29bfe;
-    margin-top: 49px;
-  }
-  #r_btn:hover {
-    color: white;
-    border: 4px solid white;
-    background: #a29bfe;
-  } */
+      border-radius: 5px;
+      width: 100%;
+      outline: none;
+      padding: 10px 10px;
+      font-weight: bold;
+      background: white;
+      font-size: 25px;
+      color: #a29bfe;
+      margin-top: 49px;
+    }
+    #r_btn:hover {
+      color: white;
+      border: 4px solid white;
+      background: #a29bfe;
+    } */
   .result_btn {
     color: #a29bfe;
     background: white;
     font-weight: bold;
     margin: 10px;
-    margin-top: 45px;
+    margin-top: 38px;
     padding: 11px;
-    width: 43%;
+    width: 138px;
     font-size: 20px;
   }
-  #save_btn:hover {
-    background: green;
+  .result_btn:hover {
+    background: #a29bfe;
+    border: 2px solid white;
     color: white;
+  }
+
+  .boxes:hover {
+    background: #a29bfe;
+    border: 2px solid white;
+    color: white;
+  }
+
+  @media (max-width: 1197px) {
+    #info_div {
+      height: auto;
+    }
+    #result_img_div {
+      height: 609px;
+    }
+
+    .result_btn {
+      margin: 0px;
+      width: 100%;
+    }
+    #preview_btn {
+      margin-top: 35px;
+    }
+    #save_btn {
+      margin-top: 17px;
+    }
+  }
+  @media (max-width: 1188px) {
+    #result_img_div {
+      height: 653px;
+    }
+  }
+  @media (max-width: 860px) {
+    #info_div,
+    #result_img_div {
+      width: 83%;
+      float: none;
+      margin: auto;
+    }
+    #info_div {
+      padding-left: 39px;
+      padding-top: 5px;
+      padding-bottom: 1px;
+      padding-right: 37px;
+      height: auto;
+    }
+
+    #save_btn,
+    #preview_btn {
+      width: 200px;
+      margin: 10px;
+      margin-top: 46px;
+    }
+    #result_img_div {
+      margin-top: 15px;
+      height: auto;
+    }
+  }
+  @media (max-width: 698px) {
+    #save_btn,
+    #preview_btn {
+      width: 100%;
+      margin: 0px;
+    }
+    #save_btn {
+      margin-top: 15px;
+    }
+    #preview_btn {
+      margin-top: 30px;
+    }
+  }
+  @media (max-width: 550px) {
+    #info_div,
+    #result_img_div {
+      width: 100%;
+    }
+  }
+  @media (max-width: 500px) {
+    #info_div,
+    #result_img_div {
+      width: 91%;
+    }
   }
 </style>
 <link
@@ -149,6 +233,7 @@ lang: en
   <span id="content">
     <div id="info_div">
       <p style="margin-top: 21px">Angle Value</p>
+
       <input
         type="number"
         name=""
@@ -174,8 +259,12 @@ lang: en
       </div>
 
       <!-- <a id="r_btn" class="btn">save</a> -->
-      <a class="btn result_btn" id="r_btn">Rotate</a>
-      <a class="btn result_btn" id="save_btn">Save</a>
+      <div class="row">
+        <div class="col col-sm-12 col-md-12 col-lg-12 col-xl-12">
+          <a class="btn result_btn" id="preview_btn">Preview</a>
+          <a class="btn result_btn" id="save_btn">Save</a>
+        </div>
+      </div>
     </div>
 
     <div id="result_img_div">
@@ -183,5 +272,10 @@ lang: en
     </div>
   </span>
   <span class="thankyouBox"></span>
+  <input
+    type="text"
+    id="rotate_button_input"
+    style="height: 1px; width: 1px; visibility: hidden"
+  />
+  <input type="file" id="file" accept=".jpg,.jpeg,.png,.webp" class="file" />
 </div>
-<input type="file" id="file" accept=".jpg,.jpeg,.png,.webp" class="file" />

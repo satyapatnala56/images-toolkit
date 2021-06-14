@@ -2,28 +2,29 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <script src="https://unpkg.com/split-grid/dist/split-grid.js"></script>
-    <link rel="stylesheet" href="bundle.css" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="Description" content="Enter your description here" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <title>Title</title>
   </head>
   <body>
-    <div class="grid">
-      <div></div>
-      <div class="gutter-col gutter-col-1"></div>
-      <div></div>
-    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+    <script>
+      var ans = convImageUrl(
+        "https://www.googleapis.com/drive/v2/files/1SwyOiM7jG4wtU1NxrpibdLOapHdZWHKe?key=AIzaSyDr30lsukCywJXYYPSn5prs6FwvmgqQkxg&alt=media&source=downloadUrl"
+      );
+      console.log(ans);
+    </script>
   </body>
-
-  <script>
-    Split({
-      columnGutters: [
-        {
-          track: 1,
-          element: document.querySelector(".gutter-col-1"),
-        },
-      ],
-    });
-  </script>
 </html>
