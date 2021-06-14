@@ -94,7 +94,6 @@ function cropImage() {
             value.width,
             value.height
           );
-          var url = canvas.toDataURL();
           document.querySelector("#save_button_div").style.marginTop = "30px";
           document.querySelector("#cropped_image img").src = url;
           document.querySelector("#cropped_image").style.height = "auto";
@@ -106,11 +105,13 @@ function cropImage() {
               ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
 
             document.querySelector("#downloadButton").onclick = function () {
-              var a = document.createElement("a");
-              a.href = url;
-              a.download = "download";
-              document.body.appendChild(a);
-              a.click();
+              canvas.toBlob(function (result_blob) {
+                var result_url = window.URL.createObjectURL(result_blob);
+                var a = document.createElement("a");
+                a.href = result_url;
+                a.download = "download";
+                a.click();
+              });
             };
             document.querySelector(".container2").style.height = "300px";
             box.style.background = "#ff704d";

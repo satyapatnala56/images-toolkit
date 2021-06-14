@@ -72,19 +72,11 @@ function rotateImg() {
       document.querySelector("#result_img_div img").src = r.result;
       var img = new Image();
       img.onload = function () {
-        document.querySelector("#r_btn").onclick = function () {
-          var rotate_value = document.querySelector("#rotate_input").value;
-          if (rotate_value == "") {
-            rotate_value = 0;
-          }
-          Rotate(img, rotate_value + "deg");
-          document.querySelector("#angle_range_span").innerHTML = "";
-        };
         var rotate_buttons = document.querySelectorAll(".rotate_buttons");
-        console.log(rotate_buttons);
         for (let i = 0; i < rotate_buttons.length; i++) {
           rotate_buttons[i].onclick = function () {
-            Rotate(img, rotate_buttons[i].id + "deg");
+            document.querySelector("#rotate_button_input").value =
+              rotate_buttons[i].id;
             document.querySelector("#angle_range_span").innerHTML = "";
           };
         }
@@ -92,12 +84,27 @@ function rotateImg() {
           document.querySelector("#angle_range_span").innerHTML =
             "(" + document.querySelector("#rotate_value_range").value + "°)";
         };
-        document.querySelector("#rotate_value_range").onchange = function () {
-          Rotate(
-            img,
-            document.querySelector("#rotate_value_range").value + "deg"
-          );
-        };
+
+        var rotate_options = document.querySelectorAll(
+          "#rotate_value_range,#rotate_input,#rotate_button_input"
+        );
+        for (let m = 0; m < rotate_options.length; m++) {
+          rotate_options[m].onchange = function () {
+            console.log(
+              document.querySelector("#rotate_button_input").value + "done"
+            );
+
+            console.log(rotate_options[m].id);
+            document.querySelector("#preview_btn").onclick = function () {
+              var rotate_value = rotate_options[m].value;
+              console.log(rotate_value);
+              if (rotate_value == "") {
+                rotate_value = 0;
+              }
+              Rotate(img, rotate_value + "deg");
+            };
+          };
+        }
         document.querySelector("#save_btn").onclick = function () {
           document.querySelector(".box").style.background = "#a29bfe";
           document.querySelector(".box-border").style.background =
@@ -112,11 +119,13 @@ function rotateImg() {
           document.querySelector(".container2").style.height = "300px";
           ///download button
           document.querySelector("#downloadButton").onclick = function () {
-            download(
-              document.querySelector("canvas").toDataURL(),
-              "rotatedimage",
-              "image/png"
-            );
+            document.querySelector("canvas").toBlob(function (result_blob) {
+              var result_url = window.URL.createObjectURL(result_blob);
+              var a = document.createElement("a");
+              a.href = result_url;
+              a.download = "download";
+              a.click();
+            });
           };
         };
       };
