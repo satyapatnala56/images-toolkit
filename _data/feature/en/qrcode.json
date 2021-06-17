@@ -11,7 +11,9 @@
     "_id": "608fd864b3e10a0009083f85",
     "website": "safeimagekit",
     "feature": "qrcode",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T11:03:00.061Z",
     "__v": 0
   },
@@ -34,7 +36,6 @@
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
-
     {
       "priority": 1,
       "logoUrl": "/assets/support.svg",
@@ -63,10 +64,59 @@
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "",
-    "steps": [""]
+    "steps": [
+      ""
+    ]
   },
-
   "FAQ": [
+    {
+      "question": "What is a QR code and how is it used?",
+      "answer": "A QR code (abbreviated from Quick Response code) is a type of matrix barcode (or two-dimensional barcode) invented in 1994 by the Japanese automotive company Denso Wave. A barcode is a machine-readable optical label that contains information about the item to which it is attached. In practice, QR codes often contain data for a locator, identifier, or tracker that points to a website or application. There are many applications to a QR code, but most of all it is in storing information of large volumes in a small square block, the users can scan the code and can access the info whenever needed."
+    },
+    {
+      "question": "What are the features offered by the QR code generator from safeimagekit.com while, generating a QR code from an image uploaded?",
+      "answer": "The QR code generator from safeimagekit.com offers versatile features while generating a QR code. The main features include generating a QR code from the text which is given as the input. The text entered can be names, normal text, phone numbers, or any URLs.  the text which is entered is converted into a QR code which can be used any number of times just by scanning the code."
+    },
+    {
+      "question": "How can we generate a QR code from our input text using the QR code generator from safeimagekit.com?",
+      "answer": "There are 4 basic steps using which the user can convert his input text to a QR code-\n-\tWrite the text in the space provided using which the user wants to generate a QR code.\n-\tHit the generate button given below the page to generate a QR code for the entered text.\n-\tHit the save option to save the changes made to the text through which the QR code is created.\n-\tHit the download button to download the QR code generated and share it with everyone! \n"
+    },
+    {
+      "question": "Which are the image formats supported by the QR code generator while creating an QR code?",
+      "answer": "Currently, the QR code generator from safeimagekit.com supports the creation of a barcode using the text. The users can enter or paste the text on the space provided and can generate the code. However, the current limit is that it does feature any image QR code conversion. But, updates to the website in the coming days will break this limitation."
+    },
+    {
+      "question": "How many QR codes can we generate at a single stretch using the QR code generator from safeimagekit.com?",
+      "answer": "Currently, the QR code generator from safeimagekit.com can generate one QR code at a single stretch. the QR code generator from safeimagekit.com does have to go through a staple number of codes for conversion and generation of a QR code to happen. so, multiple QR codes cannot be generated due to this reason. However, updates to the website in the future will make sure that this and many more exciting features be on deck."
+    },
+    {
+      "question": "Do we have to use any additional software to download the QR codes after conversion using the QR code generator from safeimagekit.com?",
+      "answer": "No, the users after converting their input text to a QR code can hit the download the option which is given below and can download the QR code. It is a browser-based converter tool that does not support or no additional software is required to download them as QR codes."
+    },
+    {
+      "question": "Can I use the QR code generator tool from safeimagekit.com without having any knowledge about basic C-programming?",
+      "answer": "Yes, our QR converter tool from safeimagekit.com can be used by everybody. Our QR code generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
+    },
+    {
+      "question": "Can I use the QR code generator from safeimagekit.com on my Windows 8?",
+      "answer": "The QR code generator tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+    },
+    {
+      "question": "Can I use the QR code generator from safeimagekit.com on my Apple iPhone 11? ",
+      "answer": "Yes, the QR code generator from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the amount of text pasted on the space for conversion which is uploaded to be converted into a QR code."
+    },
+    {
+      "question": "What will happen to our progress if we refresh our browser while we are using the QR code generator tool from safeimagekit.com?",
+      "answer": "The QR code generator tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+    },
+    {
+      "question": "Can we edit the text by including special symbols, characters, and stickers while generating a QR code using the QR code generator from safeimagekit.com?",
+      "answer": "Yes, the QR code generator from safeimagekit.com does provide the option to edit the text by including special symbols, characters, and stickers while generating a QR code using the generator tool. Some of the characters include-! @#$%^&*(). However, stickers cannot be included with the current status, these patches are destined to be included in the future"
+    },
+    {
+      "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+    },
     {
       "question": "Will my file be saved after I complete working on the QR code generator  tool? ",
       "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
@@ -76,10 +126,11 @@
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
     }
   ],
-
   "jscdns": [
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js\" integrity=\"sha512-pUhApVQtLbnpLtJn6DuzDD5o2xtmLJnJ7oBoMsBnzOkVkpqofGLGPaBJ6ayD2zQe3lCgCibhJBi4cj5wAxwVKA==\" crossorigin=\"anonymous\" ></script>",
     "<script src=\"js/qrcode.js\"></script>"
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ]
 }
