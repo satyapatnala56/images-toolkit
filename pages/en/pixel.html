@@ -7,6 +7,64 @@ tool: pixel
 lang: en
 ---
 
+<style>
+  #save {
+    height: 40px;
+    width: 150px;
+    float: right;
+    border-radius: 5px;
+    outline: none;
+    font-weight: bold;
+  }
+
+  #save_button_div {
+    margin: auto;
+    width: 100%;
+    margin-top: 24px;
+    height: 52px;
+  }
+
+  @media (max-width: 553px) {
+    .submit {
+      padding: 15px 20%;
+    }
+  }
+  #original_image,
+  #pixelated_image {
+    border: 6px solid white;
+    height: auto;
+    width: auto;
+    border-radius: 5px;
+    margin: auto;
+  }
+  #original_image img,
+  #pixelated_image img {
+    max-width: 100%;
+    max-height: 435px;
+    margin-top: 10px;
+  }
+  #original_image p,
+  #pixelated_image p {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 18px;
+  }
+
+  @media (max-width: 459px) {
+    #original_image p,
+    #pixelated_image p {
+      font-size: 29px;
+    }
+  }
+
+  #pixel_row {
+    margin: auto;
+    margin-top: 8px;
+  }
+</style>
+<a name="thankyouBox"></a>
 <div class="container2">
   <div id="upper-loader"></div>
 
@@ -25,14 +83,27 @@ lang: en
     </div>
   </div>
   <span id="content">
-    <div class="row">
+    <div class="row" id="pixel_row">
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <img src="/trust.svg" alt="" id="thankyouImage" />
-        <p id="thankyouText">Thanks for your patience</p>
-        <a class="btn" id="downloadButton">DOWNLOAD</a>
+        <div id="save_button_div"><button id="save">Save</button></div>
+
+        <div id="original_image">
+          <p>Input Image</p>
+
+          <img src="" alt="" /><br /><br /><br /><br />
+        </div>
+        <br />
+        <div id="pixelated_image">
+          <p>Pixelated Image</p>
+
+          <img src="" /><br /><br /><br /><br />
+        </div>
       </div>
     </div>
+
+    <br /><br />
   </span>
+  <span class="thankyouBox"> </span>
 </div>
 
 <input type="file" id="file" class="file" />

@@ -60,7 +60,11 @@
       "content": "Our image comparison tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
-
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": [""]
+  },
   "FAQ": [
     {
       "question": "Will my file be saved after I complete working on the image comparison tool? ",

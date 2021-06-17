@@ -3,6 +3,7 @@ var inputbox = document.querySelector("#inputbox");
 var content = document.querySelector("#content");
 var file = document.querySelector("#file");
 var box = document.querySelector(".box");
+var filter_container = [];
 
 var input;
 container.ondragover = function (e) {
@@ -41,12 +42,6 @@ var file = document.getElementById("file");
 ///set filter button
 
 function sFilter() {
-  document.querySelector("#fchoice").oninput = function () {
-    document.querySelector("#filter").style.background =
-      "rgba(90, 90, 90, 0.466)";
-    document.querySelector("#msg").innerHTML = "";
-  };
-
   $("#file").remove();
   ///////loader
   var loaderbox = document.createElement("div");
@@ -72,66 +67,64 @@ function sFilter() {
 
       clearInterval(ans);
     }
-  }, 1000);
+  }, 500);
 
-  ///////loader
+  ///////loader end
   var reader = new FileReader();
   reader.onload = function () {
+    ////filter choosing
+    document.querySelector("#rightDiv .resultBox div img").src = reader.result;
     var img = new Image();
-    var final = document.querySelector("#final");
-    var filteroption = document.getElementById("fchoice");
-    var ctx = final.getContext("2d");
     img.onload = function () {
-      final.height = img.height;
-      final.width = img.width;
+      var filter_buttons = document.querySelectorAll(".filter_buttons");
+      for (let i = 0; i < filter_buttons.length; i++) {
+        filter_container.push(filter_buttons[i]);
+        filter_buttons[i].onclick = function () {
+          console.log(filter_container[i].id);
 
-      ctx.drawImage(img, 0, 0);
-      document.getElementById("filter").onclick = function () {
-        if (filteroption.value == "----") {
-          document.querySelector("#msg").innerHTML = "Please Enter your choice";
-        } else {
-          document.querySelector("#msg").innerHTML = "Filter Applied";
-
-          document.querySelector("#filter").style.background = "green";
-
-          ///filter processing
-          LenaJS.filterImage(final, LenaJS[filteroption.value], img);
-
-          ////   saving button
-          document.querySelector("#save").onclick = function () {
-            if (filteroption.value == "----") {
-              document.querySelector("#msg").innerHTML =
-                "Please Enter your choice";
+          for (let j = 0; j < filter_container.length; j++) {
+            if (j == i) {
+              filter_container[j].style.background = "green";
+              filter_container[j].style.color = "white";
             } else {
-              window.location.href = "#";
-              document.querySelector("#content").style.display = "none";
-              document.querySelector(".thankyouBox").innerHTML =
-                ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
-              container.style.height = "300px";
-              box.style.background = "#00b8e6";
-              document.getElementById("downloadButton").onclick = function () {
-                var canvas = document.querySelector("#final");
-                var result = canvas.toDataURL();
-                var a = document.createElement("a");
-                a.href = result;
-                a.download = "filter";
-                document.body.appendChild(a);
-                a.click();
-              };
+              filter_container[j].style.background = "white";
+              filter_container[j].style.color = "black";
             }
-          };
-        }
-      };
-      ///download button
+          }
 
-      //// donwload image
+          var canvas = document.createElement("canvas");
+          canvas.height = img.height;
+          canvas.width = img.width;
+
+          ///filte roperaiton code
+          LenaJS.filterImage(canvas, LenaJS[filter_buttons[i].id], img);
+          var url = canvas.toDataURL();
+
+          document.querySelector("#rightDiv #outputDiv div img").src = url;
+          ///saving button
+          document.querySelector("#save").onclick = function () {
+            document.querySelector("#content").style.display = "none";
+            window.location.href = "#";
+            document.querySelector(".thankyouBox").innerHTML =
+              ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+            container.style.height = "300px";
+            box.style.background = "#00b8e6";
+            ////download button
+            var downloadButton = document.getElementById("downloadButton");
+            downloadButton.onclick = function () {
+              var a = document.createElement("a");
+              a.href = url;
+              a.download = "download";
+              a.click();
+            };
+          };
+        };
+      }
     };
     img.src = reader.result;
   };
   reader.readAsDataURL(input);
 }
-
-///drag and drop n option
 
 document.querySelector(".container2").onclick = function () {
   document.querySelector("#file").click();

@@ -13,11 +13,65 @@ lang: en
       width: 90%;
     }
   }
+  #save_button_div {
+    margin: auto;
+    width: 100%;
+    margin-top: 31px;
+    height: 52px;
+  }
+  #save {
+    height: 50px;
+    width: 173px;
+    float: right;
+    border-radius: 5px;
+    outline: none;
+    font-weight: bold;
+    margin-top: -11px;
+  }
 
   @media (max-width: 553px) {
     .submit {
       padding: 15px 20%;
     }
+  }
+  #original_image,
+  #cropped_image {
+    border: 6px solid white;
+    height: auto;
+    width: auto;
+    border-radius: 5px;
+    margin: auto;
+  }
+
+  #cropped_image {
+    height: 400px;
+  }
+
+  #original_image img,
+  #cropped_image img {
+    max-width: 100%;
+    max-height: 435px;
+    margin-top: 10px;
+  }
+  #original_image p,
+  #cropped_image p {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 18px;
+  }
+
+  @media (max-width: 459px) {
+    #original_image p,
+    #cropped_image p {
+      font-size: 29px;
+    }
+  }
+
+  #crop_row {
+    margin: auto;
+    margin-top: 8px;
   }
 </style>
 <a name="thankyouBox"></a>
@@ -38,30 +92,32 @@ lang: en
       <span id="loader"></span>
     </div>
   </div>
-  <span id="content"
-    ><br /><br />
+  <span id="content">
+    <div class="row" id="crop_row">
+      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+        <div id="save_button_div">
+          <button id="save">Save</button>
+        </div>
 
-    <div class="row">
-      <div class="col col-md-12 col-lg-12 col-sm-12 col-xl-12">
-        <div style="height: auto; width: 80%; margin: auto">
-          <img
-            id="croppingImage"
-            style="height: auto; width: 100%; max-height: 400px; margin: auto"
-          />
+        <div id="original_image">
+          <p>Input Image</p>
+
+          <img src="" alt="" /><br /><br />
+          <a name="cropped_img"></a>
+          <br />
+          <br />
+        </div>
+
+        <br />
+
+        <div id="cropped_image">
+          <p>Cropped Image</p>
+          <img src="" /><br /><br /><br /><br />
         </div>
       </div>
     </div>
 
-    <br /><br /><br />
-
-    <div class="row">
-      <div class="col col-md-12 col-lg-12 col-sm-12 col-xl-12">
-        <div id="saving">
-          <img src="/img/save.png" height="50" width="50" alt="" />
-        </div>
-        <br /><br /><br />
-      </div>
-    </div>
+    <br /><br />
   </span>
   <span class="thankyouBox"> </span>
 </div>

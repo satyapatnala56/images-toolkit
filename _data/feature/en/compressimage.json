@@ -60,6 +60,11 @@
       "content": "Our image compressor tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": [""]
+  },
 
   "FAQ": [
     {
@@ -76,5 +81,8 @@
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
     "<Script src=\"js/compress.js\"></script>"
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"css/compress.css\" />"
+  ]
 }

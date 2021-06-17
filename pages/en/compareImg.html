@@ -1,0 +1,153 @@
+---
+permalink: /image_comp
+layout: feature
+fileName: compare
+folderName: feature
+tool: Image comparison
+lang: en
+---
+
+<style>
+  .container2 {
+    height: auto;
+    margin: auto;
+    padding-bottom: 50px;
+  }
+  #img_comp_btns {
+    width: 700px;
+    height: 60px;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 65px;
+  }
+  .img_comp_options {
+    display: inline-block;
+    width: 24.6%;
+    height: 50px;
+    margin: auto;
+    border: 1px solid rgb(53, 53, 53);
+    background: white;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top: 9px;
+  }
+
+  .img_comp_options:hover {
+    background: green;
+    color: white;
+  }
+
+  #slide_img {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+  #split_img {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+  }
+  @media (max-width: 806px) {
+    #img_comp_btns {
+      width: 95%;
+    }
+  }
+  @media (max-width: 677px) {
+    .img_comp_options {
+      width: 23.6%;
+    }
+  }
+  @media (max-width: 400px) {
+    #slide_img {
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+      border-radius: 10px;
+    }
+    #split_img {
+      border-top-left-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-radius: 10px;
+    }
+    .img_comp_options {
+      width: 88%;
+      margin-top: 10px;
+      border-radius: 10px;
+    }
+  }
+  #output_div {
+    margin: auto;
+    width: 100%;
+    border: 2px solid white;
+    height: 390px;
+    margin-top: 9px;
+    background: white;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    border-radius: 10px;
+  }
+
+  .output_div_inner {
+    height: 370px;
+    width: 49.3%;
+    display: grid;
+    align-content: center;
+  }
+
+  #left_output {
+    float: left;
+    padding-left: 15px;
+  }
+  #right_output {
+    float: right;
+    padding-right: 15px;
+  }
+</style>
+<div class="container2">
+  <div class="row">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"></div>
+    <div id="img_comp_btns">
+      <div class="img_comp_options" id="split_img">Split</div>
+      <div class="img_comp_options" id="fade_img">Fade</div>
+      <div class="img_comp_options" id="pixel_img">Pixel</div>
+      <div class="img_comp_options" id="slide_img">Slide</div>
+    </div>
+  </div>
+
+  <div class="row" style="margin: auto">
+    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+      <div id="output_div">
+        <img src="dragon.webp" style="max-height: 370px" alt="" />
+        <!-- split image
+        <div id="left_output" class="output_div_inner">
+          <img src="dragon.webp" alt="" />
+        </div>
+        <div id="right_output" class="output_div_inner">
+          <img src="dragon.webp" alt="" />
+        </div>--->
+      </div>
+    </div>
+  </div>
+  <script>
+    document.querySelector(".box").style.background = "rgb(53, 53, 53)";
+    var img_comp_options = document.querySelectorAll(".img_comp_options");
+    console.log(img_comp_options);
+    for (let p = 0; p < img_comp_options.length; p++) {
+      img_comp_options[p].onclick = function () {
+        console.log("ans");
+        if (img_comp_options[p].style.background == "red") {
+          return false;
+        } else {
+          var option_container = img_comp_options;
+          for (let m = 0; m < option_container.length; m++) {
+            if (m == p) {
+              img_comp_options[p].style.background = "red";
+              img_comp_options[p].style.color = "white";
+            } else {
+              option_container[m].style.background = "white";
+              option_container[m].style.color = "black";
+            }
+          }
+        }
+      };
+    }
+  </script>
+</div>

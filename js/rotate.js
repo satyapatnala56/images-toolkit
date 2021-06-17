@@ -3,7 +3,8 @@ var inputbox = document.querySelector("#inputbox");
 var content = document.querySelector("#content");
 var file = document.querySelector("#file");
 var box = document.querySelector(".box");
-
+var rotate = document.querySelector("#rotate_input") || 0;
+var rotate_value_range = document.querySelector("#rotate_value_range") || 0;
 var input;
 container.ondragover = function (e) {
   e.preventDefault();
@@ -44,6 +45,9 @@ function rotateImg() {
   document.querySelector("#loader").innerHTML = '<p id="loadingMessage"></p>';
   document.querySelector("#loadingMessage").innerHTML =
     "Please Wait ,Converting Your file ";
+  setTimeout(function () {
+    rotating_process();
+  }, 6000);
   var count = 0;
   var ans = setInterval(function () {
     count = count + 10;
@@ -53,77 +57,83 @@ function rotateImg() {
       document.querySelector("#loaderDiv").style.display = "none";
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".box").style.background = "#353535";
-
-      container.style.height = "auto";
-      container.style.width = "92%";
-
+      document.querySelector(".box").style.background = "white";
+      document.querySelector(".box-border").style.background = "none";
+      document.querySelector(".box-border").style.border = "none";
+      document.querySelector(".container2").style.height = "auto";
+      window.location.href = "#";
       clearInterval(ans);
     }
-  }, 1000);
+  }, 600);
 
-  ////loader end
-
-  /////loader ending
-
-  var canvas = document.createElement("canvas");
-  var ctx = canvas.getContext("2d");
-  var reader = new FileReader();
-  reader.onload = function () {
-    var image = new Image();
-    image.onload = function () {
-      document.querySelector("#prevImg").src = image.src;
-      document.getElementById("rotate").onclick = function () {
-        var rotate = document.getElementById("angle");
-        rotate.oninput = function () {
-          document.querySelector("#errorMessage").innerHTML = "";
-        };
-        if (rotate.value == "" || rotate.value == undefined) {
-          ////error message
-
-          document.querySelector("#errorMessage").innerHTML =
-            "Please enter the Rotation Angle";
-        } else {
-          document.querySelector("#errorMessage").innerHTML = "Image rotated";
-
-          /////rotating process
-          Rotate(image, rotate.value + "deg");
-
-          ////saving button
-          document.querySelector("#Saving").onclick = function () {
-            if (rotate.value == "" || rotate.value == undefined) {
-              document.querySelector("#errorMessage").innerHTML =
-                "Please enter the Rotation Angle";
-            } else {
-              document.querySelector(".container2").style.width = "100%";
-
-              window.location.href = "#";
-              document.querySelector("#content").style.display = "none";
-              document.querySelector(".thankyouBox").innerHTML =
-                ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
-              container.style.height = "300px";
-              box.style.background = "#9999ff";
-
-              var downloadButton = document.getElementById("downloadButton");
-              downloadButton.onclick = function () {
-                var url = document.querySelector("canvas").toDataURL();
-                var a = document.createElement("a");
-                a.href = url;
-                a.download = "download";
-                a.click();
-              };
-            }
+  function rotating_process() {
+    var r = new FileReader();
+    r.onload = function () {
+      document.querySelector("#result_img_div img").src = r.result;
+      var img = new Image();
+      img.onload = function () {
+        var rotate_buttons = document.querySelectorAll(".rotate_buttons");
+        for (let i = 0; i < rotate_buttons.length; i++) {
+          rotate_buttons[i].onclick = function () {
+            document.querySelector("#rotate_button_input").value =
+              rotate_buttons[i].id;
+            document.querySelector("#angle_range_span").innerHTML = "";
           };
-
-          ///downloading image
         }
-      };
-    };
-    image.src = reader.result;
-  };
-  reader.readAsDataURL(input);
-}
+        document.querySelector("#rotate_value_range").oninput = function () {
+          document.querySelector("#angle_range_span").innerHTML =
+            "(" + document.querySelector("#rotate_value_range").value + "°)";
+        };
 
+        var rotate_options = document.querySelectorAll(
+          "#rotate_value_range,#rotate_input,#rotate_button_input"
+        );
+        for (let m = 0; m < rotate_options.length; m++) {
+          rotate_options[m].onchange = function () {
+            console.log(
+              document.querySelector("#rotate_button_input").value + "done"
+            );
+
+            console.log(rotate_options[m].id);
+            document.querySelector("#preview_btn").onclick = function () {
+              var rotate_value = rotate_options[m].value;
+              console.log(rotate_value);
+              if (rotate_value == "") {
+                rotate_value = 0;
+              }
+              Rotate(img, rotate_value + "deg");
+            };
+          };
+        }
+        document.querySelector("#save_btn").onclick = function () {
+          document.querySelector(".box").style.background = "#a29bfe";
+          document.querySelector(".box-border").style.background =
+            "rgba(0, 0, 0, 0.1)";
+          document.querySelector(".box-border").style.background =
+            "2px dashed rgba(0, 0, 0, 0.15)";
+
+          window.location.href = "#";
+          document.querySelector("#content").style.display = "none";
+          document.querySelector(".thankyouBox").innerHTML =
+            ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+          document.querySelector(".container2").style.height = "300px";
+          ///download button
+          document.querySelector("#downloadButton").onclick = function () {
+            document.querySelector("canvas").toBlob(function (result_blob) {
+              var result_url = window.URL.createObjectURL(result_blob);
+              var a = document.createElement("a");
+              a.href = result_url;
+              a.download = "download";
+              a.click();
+            });
+          };
+        };
+      };
+      img.src = r.result;
+    };
+    r.readAsDataURL(input);
+  }
+}
 document.querySelector(".container2").onclick = function () {
   document.querySelector("#file").click();
 };

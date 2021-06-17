@@ -1,0 +1,197 @@
+.container2 {
+  height: 300px;
+  width: 100%;
+  margin: auto;
+  cursor: pointer;
+  padding-bottom: 46px;
+}
+
+#leftDiv {
+  height: 734px;
+  float: left;
+  width: 30%;
+  border-radius: 5px;
+  margin-top: 12px;
+}
+
+#rightDiv {
+  float: right;
+  width: 69%;
+  height: 639px;
+  border-radius: 5px;
+  margin-top: 49px;
+}
+.Cbuttons {
+  height: 45px;
+  width: 45%;
+  border: 3px solid white;
+  display: inline-block;
+  margin: 2px;
+  margin-top: 22px;
+  border-radius: 5px;
+}
+.Num {
+  margin-top: 14px;
+  height: 50px;
+  width: 280px;
+  outline: none;
+  border-radius: 5px;
+}
+.Cbuttons p {
+  margin-top: 9px;
+  font-weight: bold;
+  color: white;
+}
+.result_box {
+  border: 1px solid white;
+  height: 47.5%;
+}
+
+#second_result_box {
+  margin-top: 22px;
+}
+
+.result_div_inner {
+  height: 100%;
+  width: 50%;
+  border: 1px solid white;
+  padding: 10px;
+}
+#img_div_one,
+#img_div_two {
+  float: left;
+  padding-top: 40px;
+  display: grid;
+  justify-content: center;
+  padding-bottom: 40px;
+  align-content: center;
+}
+#img_div_one img,
+#img_div_two img {
+  max-height: 200px;
+}
+
+#info_div_one,
+#info_div_two {
+  float: right;
+}
+
+@media (max-width: 1175px) {
+  .Num {
+    width: 95%;
+  }
+}
+#main_row {
+  width: 100%;
+  margin: auto;
+}
+#save {
+  width: 192px;
+  height: 45px;
+  margin-top: -64px;
+  float: right;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+@media (max-width: 929px) {
+  #leftDiv {
+    height: auto;
+    float: none;
+    width: 94%;
+    margin: auto;
+  }
+  #rightDiv {
+    float: none;
+    width: 94%;
+    margin: auto;
+    margin-top: 75px;
+  }
+  #main_row {
+    width: 100%;
+    margin: auto;
+    margin-top: -30px;
+  }
+  #save {
+    width: 100%;
+    height: 60px;
+    margin-top: -49px;
+    border-radius: 5px;
+    font-weight: bold;
+    float: none;
+    font-size: 25px;
+  }
+  #rightDiv {
+    margin-top: 29px;
+  }
+}
+
+#compress_strict,
+#orientation {
+  visibility: hidden;
+}
+@media (max-width: 929px) {
+  .Num {
+    width: 47%;
+    margin: 5px;
+    margin-top: 10px;
+  }
+  .Cbuttons {
+    width: 154px;
+    margin: 11px;
+    margin-top: 22px;
+  }
+}
+
+@media (max-width: 722px) {
+  .Num {
+    width: 75%;
+  }
+}
+@media (max-width: 799px) {
+  .resultImg {
+    width: 100%;
+    /* height: auto; */
+  }
+  .resultText {
+    width: 100%;
+    /* height: auto; */
+  }
+}
+@media (max-width: 626px) {
+  .Num {
+    width: 90%;
+  }
+}
+@media (max-width: 442px) {
+  .Num {
+    width: 100%;
+  }
+}
+
+@media (max-width: 546px) {
+  #orientationBtn {
+    margin-top: 2px;
+  }
+}
+@media (max-width: 448px) {
+  #leftDiv,
+  #rightDiv {
+    width: 95%;
+  }
+  .Num {
+    margin: auto;
+    margin-top: 14px;
+  }
+}
+
+.resultHeading {
+  color: white;
+  margin-top: 10px;
+}
+
+.resultValue {
+  color: yellow;
+  margin-top: -10px;
+}

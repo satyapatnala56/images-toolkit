@@ -48,20 +48,23 @@ function image_to_pixel_art() {
     console.log(count);
     document.querySelector("#upper-loader").style.width = count + "%";
     if (count == 110) {
+      document.querySelector(".container2").style.height = "auto";
       document.querySelector("#upper-loader").style.display = "none";
       document.querySelector("#loaderDiv").style.display = "none";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector("#content").style.visibility = "visible";
+      document.querySelector(".box").style.background = "#353535";
 
       clearInterval(ans);
     }
-  }, 1000);
+  }, 300);
   ////loader end
   var reader = new FileReader();
   reader.onload = function () {
     var img = new Image();
     img.crossOrigin = "anonymous";
     img.onload = function () {
+      document.querySelector("#original_image img").src = img.src;
       var canvas = document.createElement("canvas"),
         ctx = canvas.getContext("2d");
       var w,
@@ -90,14 +93,26 @@ function image_to_pixel_art() {
           ctx.fillRect(x, y, sample_size, sample_size);
         }
       }
+
       var url = canvas.toDataURL();
-      document.getElementById("downloadButton").onclick = function () {
-        console.log(url);
-        var a = document.createElement("a");
-        a.href = url;
-        a.download = "download";
-        document.body.appendChild(a);
-        a.click();
+      document.querySelector("#pixelated_image img").src = url;
+      document.querySelector("#pixelated_image").style.height = "auto";
+
+      document.querySelector("#save").onclick = function () {
+        document.querySelector(".box").style.background = "#cc66ff";
+
+        window.location.href = "#";
+        document.querySelector("#content").style.display = "none";
+        document.querySelector(".thankyouBox").innerHTML =
+          ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+        document.querySelector(".container2").style.height = "300px";
+        document.querySelector("#downloadButton").onclick = function () {
+          var a = document.createElement("a");
+          a.href = url;
+          a.download = "download";
+          document.body.appendChild(a);
+          a.click();
+        };
       };
     };
     img.src = reader.result;

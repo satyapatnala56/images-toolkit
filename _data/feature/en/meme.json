@@ -61,6 +61,11 @@
       "content": "Our  meme generator tool is completely browser based and no additional software is required to be downloaded on your device."
     }
   ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": [""]
+  },
 
   "FAQ": [
     {

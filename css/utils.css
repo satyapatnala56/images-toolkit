@@ -1,5 +1,10 @@
-#qrInput {
+input,
+select,
+button {
   outline: none;
+}
+
+#qrInput {
   background: rgba(90, 90, 90, 0.466);
   border: 3px solid rgba(90, 90, 90, 0.466);
   color: white;
@@ -26,7 +31,7 @@ html {
   cursor: pointer;
 }
 #icon {
-  font-size: 80px;
+  font-size: 90px;
   color: white;
 }
 #dropfile {
@@ -58,12 +63,10 @@ html {
 
 .up {
   margin-left: 10px;
-  outline: none;
   color: white;
   border: 3px solid white;
   width: 200px;
   font-weight: bold;
-  outline: none;
   padding: 10px;
   border-radius: 10px;
 }
@@ -119,7 +122,6 @@ html {
   font-weight: bold;
   color: red;
   margin-left: 10px;
-  outline: none;
 }
 
 @media (max-width: 580px) {
@@ -132,7 +134,6 @@ html {
   width: 300px;
   height: 47px;
   border-radius: 10px;
-  outline: none;
   margin: 10px;
 }
 
@@ -142,7 +143,6 @@ html {
   width: 350px;
   height: 53px;
   border-radius: 5px;
-  outline: none;
   background: rgba(90, 90, 90, 0.466);
   border: 3px solid rgba(90, 90, 90, 0.466);
   margin: 10px;
@@ -169,12 +169,15 @@ html {
 
 .boxes {
   padding: 13px 10px;
-  width: 220px;
+  width: 230px;
   font-size: 20px;
   background: white;
   margin: auto;
+  font-weight: bold;
   text-align: center;
+  border-radius: 4px;
   cursor: pointer;
+  margin-top: -10px;
 }
 @media (max-width: 330px) {
   .boxes {
@@ -185,9 +188,6 @@ html {
   visibility: hidden;
 }
 
-/* #inputbox {
-  display: none;
-} */
 .boxes p {
   text-align: center;
   font-weight: bold;
@@ -205,7 +205,6 @@ html {
   color: red;
   font-weight: bold;
   padding: 15px 90px;
-  outline: none;
   border-radius: 10px;
 }
 
@@ -223,24 +222,6 @@ html {
   font-weight: bold;
   font-size: 20px;
   text-align: center;
-}
-
-#downloadCard {
-  width: 600px;
-  margin: auto;
-  margin-top: 110px;
-}
-
-@media (max-width: 587px) {
-  #downloadCard {
-    margin-top: 90px;
-  }
-}
-
-@media (max-width: 746px) {
-  #downloadCard {
-    width: 90%;
-  }
 }
 
 #out {
@@ -275,7 +256,6 @@ html {
 #downloadButton {
   padding: 10px 16px;
   background: white;
-  outline: none;
 }
 
 #thankyouImage {
@@ -298,7 +278,6 @@ html {
   width: 418px;
   margin: auto;
   color: white;
-  outline: none;
   border-radius: 5px;
   margin: 11px;
 }
@@ -314,7 +293,6 @@ html {
   padding: 15px 84px;
   border: 3px solid white;
   margin: 10px;
-  outline: none;
 }
 
 .pictureDisplay {
@@ -323,7 +301,6 @@ html {
   margin: auto;
   overflow: auto;
   background: rgba(90, 90, 90, 0.466);
-  margin-top: -130px;
 }
 
 .submit:hover {
@@ -331,28 +308,25 @@ html {
 }
 
 #memeText {
-  width: 87%;
-  color: white;
-  outline: none;
+  width: 96%;
+  color: black;
   height: 60px;
   float: left;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
 }
 
 #memeText::placeholder {
-  color: white;
+  color: black;
 }
 
 #memetextDiv {
   height: 60px;
-  width: 665px;
+  width: 755px;
   margin: auto;
 }
 
-@media (max-width: 810px) {
+@media (max-width: 990px) {
   #memetextDiv {
-    width: 90%;
+    width: 97%;
   }
 }
 
@@ -363,7 +337,6 @@ html {
   border-radius: 5px;
   margin: 5px;
 
-  outline: none;
   border: 3px solid rgba(90, 90, 90, 0.466);
   background: rgba(90, 90, 90, 0.466);
 }
@@ -417,7 +390,6 @@ td {
   background: transparent;
   color: white;
   border-radius: 5px;
-  outline: none;
   border: 3px solid rgba(90, 90, 90, 0.466);
   background: rgba(90, 90, 90, 0.466);
 }
@@ -437,10 +409,8 @@ td {
   width: 250px;
   height: 60px;
   color: white;
-  outline: none;
+
   margin: 10px;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
 }
 #memeStyle option {
   color: black;
@@ -454,19 +424,16 @@ td {
 
 .sDiv {
   height: 60px;
-  width: 328px;
+  width: 268px;
   margin: auto;
   display: inline-block;
   margin: 5px;
 }
 #memeShadow {
-  height: 60px;
+  height: 50px;
   width: 85%;
   float: left;
-  color: white;
-  outline: none;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
+  color: black;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
@@ -476,88 +443,75 @@ td {
   width: 100%;
   float: left;
   color: white;
-  outline: none;
   border: 3px solid rgba(90, 90, 90, 0.466);
   background: rgba(90, 90, 90, 0.466);
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
 #memeStroke {
-  height: 60px;
-  width: 85%;
+  height: 50px;
+  width: 80%;
   float: left;
-  color: white;
-  outline: none;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
+  color: black;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
 #memeShadowColor {
-  height: 60px;
+  height: 50px;
   width: 15%;
   float: left;
 }
 
 #memeStrokeColor {
-  height: 60px;
-  width: 15%;
+  height: 50px;
+  width: 20%;
   float: left;
 }
 #memeStroke::placeholder {
-  color: white;
+  color: black;
 }
 #memeShadow::placeholder {
-  color: white;
+  color: black;
 }
 
+#textInput,
 #imageInput {
-  padding: 15px 20px;
+  padding: 10px 20px;
   border: 3px solid rgba(90, 90, 90, 0.466);
   background: #353535;
   color: white;
-}
-#textInput {
-  padding: 15px 20px;
-  margin-left: 30px;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: #353535;
-  color: white;
+  margin: 10px;
 }
 
 #fontSize {
-  height: 60px;
-  width: 300px;
+  height: 50px;
+  width: 234px;
   margin: auto;
-  color: white;
-  outline: none;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
+  color: black;
+  border-radius: 5px;
 }
 
 #fontSize::placeholder {
-  color: white;
+  color: black;
 }
 
 .styleButtons {
   font-weight: bold;
-  height: 60px;
-  width: 50px;
-  border: 3px solid black;
+  height: 50px;
+  width: 42px;
   display: inline-block;
-  outline: none;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
+  border-radius: 5px;
+  background: #ffc107;
 }
 .styleButtons p {
-  color: white;
+  color: black;
   font-size: 20px;
+  margin-top: 10px;
 }
 
 .dimensions {
   height: 60px;
   width: 300px;
-  outline: none;
   border: 3px solid rgba(90, 90, 90, 0.466);
   background: rgba(90, 90, 90, 0.466);
   border-radius: 5px;
@@ -570,14 +524,21 @@ td {
 }
 
 #memeOpacity {
-  outline: none;
-  height: 60px;
-  color: white;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
-  width: 200px;
+  height: 50px;
+  color: black;
+  width: 202px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 14px;
 }
+#memefontFamily {
+  height: 50px;
+  color: black;
+  cursor: pointer;
 
+  width: 207px;
+  border-radius: 5px;
+}
 #bgColor {
   width: 100%;
   height: 50px;
@@ -607,9 +568,11 @@ td {
 }
 
 #memeTextColor {
-  float: right;
+  position: absolute;
+  left: auto;
+  margin-left: -48px;
   height: 60px;
-  width: 13%;
+  width: 64px;
 }
 
 #secondInput {
@@ -659,6 +622,25 @@ td {
   margin-top: 13px;
 }
 
-#outputContent {
-  visibility: hidden;
+@media (max-width: 1007px) {
+  #shadowDiv,
+  #strokeDiv {
+    margin: auto;
+    margin-top: 10px;
+  }
+  #strokeDiv {
+    width: 100%;
+  }
+  #shadowDiv {
+    width: 56%;
+  }
+  #strokeDiv input[type="number"],
+  #meme_shadow {
+    width: 88%;
+    margin-left: -55px;
+  }
+  #strokeDiv input[type="color"],
+  #meme_shadow_color {
+    position: absolute;
+  }
 }

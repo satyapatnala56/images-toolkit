@@ -7,44 +7,7 @@ tool: Image Filter Adder
 lang: en
 ---
 
-<style>
-  @media (max-width: 387px) {
-    #inp {
-      width: 90%;
-    }
-  }
-
-  .submit {
-    margin-top: 20px;
-  }
-
-  #fchoice {
-    width: 436px;
-    height: 60px;
-    border-radius: 5px;
-    border: 3px solid rgba(90, 90, 90, 0.466);
-    background: rgba(90, 90, 90, 0.466);
-    color: white;
-    outline: none;
-  }
-
-  @media (max-width: 532px) {
-    #fchoice {
-      width: 80%;
-    }
-  }
-  @media (max-width: 462px) {
-    .submit {
-      padding: 15px 21%;
-    }
-  }
-
-  #fchoice option {
-    background: black;
-    color: white;
-  }
-</style>
-
+<a name="down"></a>
 <div class="container2">
   <div id="upper-loader"></div>
 
@@ -62,54 +25,58 @@ lang: en
       <span id="loader"></span>
     </div>
   </div>
+
   <span id="content">
-    <div class="row">
+    <div class="row" style="margin: auto; margin-top: 68px">
       <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <canvas
-          id="final"
-          style="
-            height: auto;
-            width: auto;
-            max-height: 400px;
-            margin-top: 80px;
-            max-width: 90%;
-          "
-        ></canvas>
-      </div>
-    </div>
-    <br /><br />
-    <div class="row">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <select name="" id="fchoice">
-          <option value="----" selected>Choose the filter</option>
-          <option value="prewittHorizontal" selcted>prewittHorizontal</option>
-          <option value="red">red</option>
-          <option value="blue">blue</option>
-          <option value="green">green</option>
-          <option value="grayscale">grayscale</option>
-          <option value="highpass">highpass</option>
-          <option value="invert">invert</option>
-          <option value="laplacian">laplacian</option>
-          <option value="prewittVertical">prewittVertical</option>
-          <option value="roberts">roberts</option>
-          <option value="saturation">saturation</option>
-          <option value="sepia">sepia</option>
-          <option value="sharpen">sharpen</option>
-          <option value="sobelHorizontal">sobelHorizontal</option>
-          <option value="sobelVertical">sobelVertical</option>
-          <option value="thresholding">thresholding</option>
-          <option value="mirror">mirror</option>
-        </select>
-        <br />
-        <a id="filter" class="btn submit">Apply</a>
-        <a id="save" class="btn submit">Save</a><br />
-        <br />
-        <span id="msg" style="margin-top: 10px"></span>
+        <div id="leftDiv">
+          <br />
+          <div class="row">
+            <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+              <a class="btn filter_buttons" id="red">Red</a
+              ><a class="btn filter_buttons" id="blue">Blue</a
+              ><a class="btn filter_buttons" id="green">Green</a
+              ><a class="btn filter_buttons" id="prewittHorizontal"
+                >prewittHorizontal</a
+              ><a class="btn filter_buttons" id="grayscale">Grayscale</a
+              ><a class="btn filter_buttons" id="highpass">Highpass</a
+              ><a class="btn filter_buttons" id="invert">Invert</a
+              ><a class="btn filter_buttons" id="laplacian">Laplacian</a
+              ><a class="btn filter_buttons" id="prewittVertical"
+                >PrewittVertical</a
+              ><a class="btn filter_buttons" id="roberts">Roberts</a
+              ><a class="btn filter_buttons" id="saturation">Saturation</a
+              ><a class="btn filter_buttons" id="sepia">Sepia</a
+              ><a class="btn filter_buttons" id="sharpen">Sharpen</a
+              ><a class="btn filter_buttons" id="sobelHorizontal"
+                >sobelHorizontal</a
+              ><a class="btn filter_buttons" id="sobelVertical">SobelVertical</a
+              ><a class="btn filter_buttons" id="thresholding">Thresholding</a
+              ><a class="btn filter_buttons" id="mirror">Mirror</a><br />
+            </div>
+          </div>
+        </div>
+        <div id="rightDiv">
+          <button id="save">Save</button>
+          <div class="resultBox">
+            <div class="resultImg">
+              <p>Input</p>
+              <img src="" alt="" id="#inputImg" />
+            </div>
+          </div>
+          <div class="resultBox" style="margin-top: 15px" id="outputDiv">
+            <div class="resultImg">
+              <p>Output</p>
+
+              <img src="" alt="" id="#outputImg" />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <br /><br />
   </span>
+
   <span class="thankyouBox"> </span>
 </div>
-
 <input type="file" id="file" accept="image/*" class="file" />
