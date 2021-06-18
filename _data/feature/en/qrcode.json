@@ -114,16 +114,16 @@
       "answer": "Yes, the QR code generator from safeimagekit.com does provide the option to edit the text by including special symbols, characters, and stickers while generating a QR code using the generator tool. Some of the characters include-! @#$%^&*(). However, stickers cannot be included with the current status, these patches are destined to be included in the future"
     },
     {
-      "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
-    },
-    {
       "question": "Will my file be saved after I complete working on the QR code generator  tool? ",
       "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
     },
     {
       "question": "Do I have to do any additional signup or pay extra to use the QR code generator tool? ",
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    },
+    {
+      "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
     }
   ],
   "jscdns": [
