@@ -126,16 +126,16 @@
       "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
     },
     {
-      "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
-    },
-    {
       "question": "Will my file be saved after I complete working on the image cropper tool? ",
       "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
     },
     {
       "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    },
+    {
+      "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
+      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
     }
   ],
   "csscdns": [
