@@ -34,7 +34,6 @@
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
-
     {
       "priority": 1,
       "logoUrl": "/assets/support.svg",
@@ -63,9 +62,10 @@
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "",
-    "steps": [""]
+    "steps": [
+      ""
+    ]
   },
-
   "FAQ": [
     {
       "question": "Will my file be saved after I complete working on the image resizer tool? ",
@@ -76,7 +76,10 @@
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
     }
   ],
-
-  "jscdns": ["<script src=\"js/size.js\"></script>"],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "jscdns": [
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>"
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ]
 }

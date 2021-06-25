@@ -34,7 +34,6 @@
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
-
     {
       "priority": 1,
       "logoUrl": "/assets/support.svg",
@@ -63,9 +62,10 @@
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "",
-    "steps": [""]
+    "steps": [
+      ""
+    ]
   },
-
   "FAQ": [
     {
       "question": "Will my file be saved after I complete working on the watermark generator tool? ",
@@ -76,10 +76,11 @@
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
     }
   ],
-
   "jscdns": [
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/fabric.js/4.4.0/fabric.min.js\" integrity=\"sha512-Ly9uI3QY88jVXCgkORH2A4Qqz5xYm1pew9jEgedgSpyEg9asvyPISK+CY7QNDN3CMftXU/KLNwQR7XUUo7Cqag==\" crossorigin=\"anonymous\"></script>",
-    "<script src=\"js/w.js\"></script>"
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/w.js\"></script>"
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ]
 }

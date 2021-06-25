@@ -1,6 +1,9 @@
 {
   "logo": "/picture.png",
   "heading": "safeimagekit.com",
+  "companytitle": "Company",
+  "producttitle": "Product",
+  "networksitestitle": "Network sites",
   "company": [
     {
       "name": "Terms and Condition",
@@ -81,7 +84,6 @@
       "url": "/pixel-art-maker"
     }
   ],
-
   "social": [
     {
       "logo": "/assets/facebook.svg",

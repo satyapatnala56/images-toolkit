@@ -34,7 +34,6 @@
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
-
     {
       "priority": 1,
       "logoUrl": "/assets/support.svg",
@@ -63,9 +62,10 @@
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "",
-    "steps": [""]
+    "steps": [
+      ""
+    ]
   },
-
   "FAQ": [
     {
       "question": "Will my file be saved after I complete working on the image flipper tool? ",
@@ -76,11 +76,12 @@
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
     }
   ],
-
   "jscdns": [
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.min.js\" integrity=\"sha512-WiGQZv8WpmQVRUFXZywo7pHIO0G/o3RyiAJZj8YXNN4AV7ReR1RYWVmZJ6y3H06blPcjJmG/sBpOVZjTSFFlzQ==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"></script>",
-    "<script src=\"js/flip.js\"></script>",
-    "<script src=\"js/rotate.js\"></script>"
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/flip.js\"></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/rotate.js\"></script>"
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ]
 }

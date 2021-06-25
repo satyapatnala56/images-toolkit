@@ -1,0 +1,12 @@
+{
+    "networkSites": [
+        {
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com"
+        },
+        {
+            "name": "safezipkit.com",
+            "url": "https://safevideokit.com"
+        }
+    ]
+}
