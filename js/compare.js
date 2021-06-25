@@ -137,8 +137,10 @@ function imgComparison() {
                 file.type +
                 "</td> </tr> <tr> <td>Height</td> <td>" +
                 img.height +
+                "px" +
                 "</td> </tr> <tr> <td>Width</td> <td>" +
                 img.width +
+                "px" +
                 "</td> </tr> </table> </div> " +
                 '<div class="tableDiv"> <table id="table1" class="table"> <tr> <th>Property</th> <th>Value</th> </tr> <tr> <td>Name</td> <td>' +
                 file2.files[0].name +
