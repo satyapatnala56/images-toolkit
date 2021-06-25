@@ -125,10 +125,6 @@ function memeProcessing() {
       //////
       //additional text
       document.querySelector("#textInput").onclick = function () {
-        document.querySelector("#generate").onclick = function () {
-          document.querySelector("#generate").style.background = "green";
-        };
-
         var t = document.querySelector("#memeText").value;
         var color = document.querySelector("#memeTextColor").value || "black";
 
