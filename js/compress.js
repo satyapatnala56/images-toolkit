@@ -37,43 +37,43 @@ container.ondrop = function (e) {
       extension == "gif"
     ) {
       inputbox.style.display = "none";
-      document.querySelector(".box").style.height = "300px";
+      document.querySelector(".container2").style.height = "300px";
 
       compressImage();
     } else {
       console.log("error");
-      document.querySelector(".box").style.height = "350px";
+      document.querySelector(".container2").style.height = "350px";
       document.querySelector("#error").innerHTML = "File format not supported";
     }
   } else if (window.location.href.match("compress-a-gif")) {
     if (extension == "gif") {
       inputbox.style.display = "none";
-      document.querySelector(".box").style.height = "300px";
+      document.querySelector(".container2").style.height = "300px";
 
       compressImage();
     } else {
       console.log("error");
-      document.querySelector(".box").style.height = "350px";
+      document.querySelector(".container2").style.height = "350px";
       document.querySelector("#error").innerHTML = "File format not supported";
     }
   } else if (window.location.href.match("compress-jpeg")) {
     if (extension == "jpeg") {
-      document.querySelector(".box").style.height = "300px";
+      document.querySelector(".container2").style.height = "300px";
       inputbox.style.display = "none";
       compressImage();
     } else {
       console.log("error");
-      document.querySelector(".box").style.height = "350px";
+      document.querySelector(".container2").style.height = "350px";
       document.querySelector("#error").innerHTML = "File format not supported";
     }
   } else if (window.location.href.match("compress-png")) {
     if (extension == "png") {
       inputbox.style.display = "none";
-      document.querySelector(".box").style.height = "300px";
+      document.querySelector(".container2").style.height = "300px";
       compressImage();
     } else {
       console.log("error");
-      document.querySelector(".box").style.height = "350px";
+      document.querySelector(".container2").style.height = "350px";
       document.querySelector("#error").innerHTML = "File format not supported";
     }
   }
