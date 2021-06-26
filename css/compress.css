@@ -11,7 +11,7 @@
   float: left;
   width: 30%;
   border-radius: 5px;
-  margin-top: 12px;
+  margin-top: 30px;
 }
 
 #rightDiv {
@@ -194,4 +194,16 @@
 .resultValue {
   color: yellow;
   margin-top: -10px;
+}
+
+#save_btnn {
+  height: 60px;
+  width: 100%;
+  margin-top: -64px;
+}
+#save_btnn a {
+  float: right;
+  height: 44px;
+  padding-top: 8px;
+  width: 155px;
 }

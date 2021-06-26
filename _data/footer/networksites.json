@@ -1,0 +1,36 @@
+{
+    "networkSites": [
+        {
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com"
+        },
+        {
+            "name": "safezipkit.com",
+            "url": "https://safevideokit.com"
+        },
+        {
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        },
+        {
+            "name": "safevideoconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

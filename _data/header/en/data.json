@@ -10,38 +10,32 @@
           {
             "iconSrc": "/img/ascii.png",
             "name": "ASCII image generator ",
-            "url": "/ascii-art-from-image",
-            "hover": "red"
+            "url": "/ascii-art-from-image"
           },
           {
             "iconSrc": "/img/meme.png",
             "name": "Meme generator",
-            "url": "/meme-generator",
-            "hover": "red"
+            "url": "/meme-generator"
           },
           {
             "iconSrc": "/img/texttoimage.png",
             "name": "Text to image converter",
-            "url": "/text-to-image-converter",
-            "hover": "red"
+            "url": "/text-to-image-converter"
           },
           {
             "iconSrc": "/img/watermark.png",
             "name": "Watermark image maker",
-            "url": "/watermark-for-photos",
-            "hover": "red"
+            "url": "/watermark-for-photos"
           },
           {
             "iconSrc": "/img/pixel.png",
             "name": "Image to pixelate image converter",
-            "url": "/pixel-art-maker",
-            "hover": "red"
+            "url": "/pixel-art-maker"
           },
           {
             "iconSrc": "/img/qr.png",
             "name": "QR Code generator",
-            "url": "/qr-code-generator",
-            "hover": "red"
+            "url": "/qr-code-generator"
           }
         ]
       },
@@ -51,20 +45,17 @@
           {
             "iconSrc": "/img/crop.png",
             "name": "Image cropper",
-            "url": "/crop-image",
-            "hover": "red"
+            "url": "/crop-image"
           },
           {
             "iconSrc": "/img/filter.png",
             "name": "Image Filter Adder",
-            "url": "/photo-filters",
-            "hover": "red"
+            "url": "/photo-filters"
           },
           {
             "iconSrc": "/img/rotate.png",
             "name": "Image Rotater",
-            "url": "/flip-image",
-            "hover": "red"
+            "url": "/flip-image"
           }
         ]
       },
@@ -74,26 +65,22 @@
           {
             "iconSrc": "/img/compressimage.png",
             "name": "Image Compressor",
-            "url": "/compress-an-image",
-            "hover": "red"
+            "url": "/compress-an-image"
           },
           {
             "iconSrc": "/img/compresspng.png",
             "name": "Png Compressor",
-            "url": "/compress-png",
-            "hover": "red"
+            "url": "/compress-png"
           },
           {
             "iconSrc": "/img/compressgif.png",
             "name": "Gif Compressor",
-            "url": "/compress-a-gif",
-            "hover": "red"
+            "url": "/compress-a-gif"
           },
           {
             "iconSrc": "/img/compressjpeg.png",
             "name": "Jpeg Compressor",
-            "url": "/compress-jpeg",
-            "hover": "red"
+            "url": "/compress-jpeg"
           }
         ]
       },
@@ -103,20 +90,17 @@
           {
             "iconSrc": "/img/split.png",
             "name": "Image Splitter",
-            "url": "/split-photo",
-            "hover": "red"
+            "url": "/split-photo"
           },
           {
             "iconSrc": "/img/resize.png",
             "name": "Image Resizer",
-            "url": "/image-resize",
-            "hover": "red"
+            "url": "/image-resize"
           },
           {
             "iconSrc": "/img/compare.png",
             "name": "Image Comparison",
-            "url": "/image-comparision",
-            "hover": "red"
+            "url": "/image-comparision"
           }
         ]
       }

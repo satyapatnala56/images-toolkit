@@ -8,421 +8,449 @@ lang: en
 ---
 
 <style>
-  #options_div {
-    float: left;
-    width: 40%;
-    height: 330px;
-    margin-top: 40px;
-  }
-  #image_div {
-    float: right;
-    width: 58%;
-    height: 475px;
-    margin-top: 40px;
-  }
-
-  .resizing_inputs {
-    width: 87%;
-    height: 62px;
-    border-radius: 3px;
-    color: white;
-    border-right: rgb(53, 53, 53);
-    border-top: rgb(53, 53, 53);
-    border-left: #353535;
-    outline: none;
-    border-bottom: 4px solid white;
-    margin-top: 18px;
-    font-size: 22px;
-    background: inherit;
-    font-weight: bold;
-    padding-top: 18px;
-  }
-  .resizing_inputs::placeholder {
-    color: white;
-    font-weight: bold;
-  }
-  #input_container {
-    margin-top: 29px;
-  }
-
-  #input_div {
-    height: inherit;
-    border: 10px solid white;
-    border-radius: 10px;
-  }
-
-  #output_div {
-    margin-top: 15px;
-  }
-
-  .resize_btns {
-    margin: 10px;
-    font-weight: bolder;
-    margin-top: 40px;
-    height: 53px;
-    border-radius: 6px;
-    padding-top: 11px;
-    width: 142px;
-    background: white;
-    font-size: 20px;
-    outline: none;
-  }
-  .resize_btns:hover {
-    border: 5px solid white;
-    background: rgb(53, 53, 53);
-    color: white;
-    padding-top: 6px;
-  }
-
-  @media (max-width: 400px) {
-    .resizing_inputs {
-      width: 100%;
-      font-size: 19px;
-    }
-  }
-  #Save_button {
-    font-weight: bold;
-    height: 64px;
-    width: 215px;
-    font-size: 29px;
-
-    border-radius: 6px;
-    color: white;
-    padding-top: 9px;
-    outline: none;
-    margin-top: 97px;
-    background: green;
-    float: left;
-    padding-bottom: 5px;
-  }
-
-  #prev_heading_div {
-    width: 74%;
-    height: 78px;
-    border: 10px solid white;
+  .container2 {
+    height: 300px;
     margin: auto;
-    margin-top: 26px;
-    float: left;
-    border-bottom: none;
-    border-top-left-radius: 10px;
-  }
-
-  #prev_img_div {
-    height: 400px;
-    width: 74%;
-    border: 10px solid white;
-    margin: auto;
-    float: left;
-    padding-top: 5px;
-    border-bottom-left-radius: 10px;
-  }
-
-  #prev_heading_div p {
-    color: white;
-    font-weight: bolder;
-    text-align: center;
-    font-size: 32px;
-    margin-top: 12px;
-  }
-
-  #prev_info_div {
-    border: 10px solid white;
-    float: right;
-    width: 26%;
-    height: 478px;
-    margin: auto;
-    margin-top: -78px;
-    border-bottom-right-radius: 10px;
-    border-top-right-radius: 10px;
-
-    border-left: none;
-  }
-
-  .prev_info_heading {
-    color: white;
-    font-weight: bold;
-    font-size: 37px;
-    margin-top: 39px;
-    text-align: left;
-  }
-  .prev_info_value {
-    text-align: left;
-    color: yellow;
-    font-size: 22px;
-    font-weight: bold;
-    margin-top: -10px;
-  }
-
-  #prev_img_div img {
-    height: auto;
-    max-height: 320px;
-    max-width: 85%;
-  }
-  #input_img_div img {
-    height: auto;
-    max-height: 350px;
-    max-width: 85%;
-  }
-
-  #resize_err {
-    color: yellow;
-    font-size: 23px;
-    text-align: center;
-    margin-top: 26px;
-    font-weight: bolder;
-  }
-  #prev_heading_height {
-    margin-top: 52px;
-  }
-
-  #prev_back {
-    padding: 6px 10px;
-    height: 47px;
-    color: black;
-    width: 147px;
-    font-weight: bold;
-    font-size: 21px;
-    float: left;
-    background: white;
-  }
-  #alternative_save_div {
-    height: 86px;
-    margin-top: -83px;
     width: 100%;
   }
-  #alternative_save_button {
-    height: 64px;
-    width: 215px;
-    font-size: 29px;
-    background: green;
-    float: right;
-    color: white;
-    font-weight: bolder;
-    border-radius: 5px;
+  #error {
+    visibility: hidden;
+    color: #611a15;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    background: #fdecea;
   }
-  #prev_back :hover {
-    border: 5px solid white;
-    background: rgb(53, 53, 53);
-    color: white;
-    padding-top: 6px;
+  html {
+    scroll-behavior: smooth;
   }
-  #prev_info_container {
-    height: auto;
-    width: 187px;
-    margin: auto;
-    margin-left: 59px;
+  #mimetype,
+  #quality {
+    font-family: Georgia;
+    font-weight: 700;
+    margin-top: -5px;
+    width: 100%;
+    background: #ffbb33;
+    border: 3px solid #fff;
+    border-radius: 6px;
+    padding-left: 8px;
+    outline: 0;
+    color: #fff;
   }
-  #nav_button {
+
+  #content {
+    visibility: hidden;
+  }
+  .boxes p {
+    text-align: center;
+    font-weight: 700;
+    font-size: 23px;
+  }
+  #message {
+    color: #ff0;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  #file {
     height: 1px;
     width: 1px;
     visibility: hidden;
   }
-
-  #prev_back_container {
-    height: 50px;
-    margin: auto;
-    margin-top: 22px;
-    width: 100%;
-  }
-  #resizing_inputs {
-    width: 92%;
-  }
-  #alternative_save_button {
+  #content {
     visibility: hidden;
   }
-  @media (max-width: 941px) {
-    #options_div,
-    #image_div {
-      width: 100%;
-    }
-    #image_div {
-      height: auto;
-    }
-    #Save_button {
-      visibility: hidden;
-    }
-    #alternative_save_button {
-      visibility: visible;
-    }
-    #alternative_save_div {
-      margin-top: -9px;
-    }
-    #input_container {
-      width: 420px;
-      margin: auto;
-    }
-    #alternative_save_button {
-      height: 59px;
-      width: 191px;
-    }
+  #icon {
+    font-size: 90px;
+    color: #fff;
+  }
+  #dropfile {
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: center;
+    color: #fff;
   }
 
-  @media (max-width: 630px) {
-    #input_container {
-      width: 82%;
-      margin: auto;
-    }
-    #alternative_save_button {
-      height: 59px;
-      width: 191px;
-    }
-    #alternative_save_button {
-      height: 55px;
-      width: 161px;
-      margin-top: 10px;
-      font-size: 25px;
+  #result_img_div {
+    height: 550px;
+    width: 62.9%;
+    float: right;
+    border-radius: 5px;
+    background: #ffbb33;
+    padding: 60px;
+    padding-top: 36px;
+  }
+  #info_div {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 36%;
+    height: 550px;
+    background: #ffbb33;
+    border-radius: 5px;
+  }
+  #height_input,
+  #width_input {
+    height: 50px;
+    font-weight: 700;
+    margin-top: -5px;
+    width: 100%;
+    background: #ffbb33;
+    border: 3px solid #fff;
+    border-radius: 6px;
+    padding-left: 8px;
+    outline: 0;
+    color: #fff;
+  }
+  #width_input::placeholder {
+    color: #fff;
+  }
+  #height_input::placeholder {
+    color: #fff;
+  }
+  #info_div p {
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 33px;
+    text-align: left;
+    color: #fff;
+  }
+  #info_div i {
+    font-size: 55px;
+    margin: 13px;
+    padding: 9px 15px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin-top: 75px;
+  }
+  .result_btn:hover {
+    color: #fff;
+    background: #ffbb33;
+    border: 2px solid #fff;
+  }
+  #preview_btn:hover {
+    color: #fff;
+    background: #ffbb33;
+    border: 2px solid #fff;
+  }
+  .result_btn {
+    color: #ffbb33;
+    background: #fff;
+    font-weight: 700;
+    margin: 10px;
+    margin-top: 55px;
+    padding: 11px;
+    width: 42%;
+    font-size: 20px;
+  }
+  #dimensions_div {
+    width: 100%;
+    height: 70px;
+    background: #fff;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 8px;
+  }
+  .output_divs {
+    height: inherit;
+    width: 32.9%;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    padding-top: 8px;
+  }
+  .output_divs p {
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffbb33;
+  }
+  .output_divs span {
+    color: #000;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  #output_img_div {
+    height: 400px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+  }
+  .success_alert {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    top: 0;
+    height: 63px;
+    padding-top: 15px;
+    font-size: 20px;
+    border-radius: 0;
+    right: 0;
+    visibility: hidden;
+    text-align: center;
+  }
+  .thankyouBox span {
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+  }
+  @media (max-width: 330px) {
+    .boxes {
+      width: 80%;
     }
   }
-
-  @media (max-width: 1115px) {
-    #prev_img_div,
-    #prev_info_div,
-    #prev_heading_div {
-      width: 95%;
-      float: none;
-      border: 10px solid white;
-    }
-    #prev_back_container {
-      width: 95%;
-    }
-    #prev_info_div {
-      margin-top: 22px;
-    }
-    #prev_img_div {
-      height: auto;
-      padding-bottom: 38px;
-      padding-top: 13px;
-    }
-
-    #prev_info_container {
-      margin-left: inherit;
-    }
-    #prev_heading_div {
-      border-top-left-radius: 5px;
-      border-top-right-radius: 5px;
-
-      border-bottom: none;
-    }
-
-    .prev_info_value,
-    .prev_info_heading {
-      text-align: center;
+  @media (max-width: 560px) {
+    #loadingMessage {
+      font-size: 24px;
     }
   }
-
-  @media (max-width: 554px) {
-    #prev_heading_div p {
-      font-size: 26px;
-    }
-    #prev_info_div {
-      height: auto;
-    }
-    .prev_info_heading {
-      font-size: 33px;
-    }
-    .prev_info_value {
-      font-size: 21px;
-    }
-    #prev_heading_height {
-      margin-top: 28px;
-    }
-    #alternative_save_button {
-      float: none;
-    }
-    #input_div {
-      border: 7px solid white;
-    }
-  }
-  @media (max-width: 495px) {
-    #resize_img {
-      margin-top: 5px;
-    }
-    .resizing_inputs {
-      width: 92%;
+  @media (max-width: 425px) {
+    #loadingMessage {
       font-size: 20px;
     }
-    .resizing_btns {
-      width: 150px;
+  }
+  @media (max-width: 1084px) {
+    #info_div,
+    #result_img_div {
+      height: 600px;
     }
-    #alternative_save_button {
-      height: 50px;
-      width: 154px;
+    #preview_btn {
+      width: 100%;
+      margin: auto;
+      padding: 12px;
+      margin-top: 54px;
+    }
+    #save_btn {
+      width: 100%;
+      margin: auto;
+      padding: 12px;
+      margin-top: 18px;
+    }
+    #result_img_div {
+      padding-top: 55px;
     }
   }
-
-  @media (max-width: 443px) {
-    #resize_err {
-      margin-top: 10px;
-      font-size: 21px;
+  @media (max-width: 1040px) {
+    .output_divs p {
+      font-size: 18px;
     }
+    .output_divs span {
+      font-size: 17px;
+    }
+    .output_divs {
+      padding-top: 10px;
+      width: 31.9%;
+    }
+  }
+  @media (max-width: 800px) {
+    #info_div,
+    #result_img_div {
+      width: 100%;
+      height: auto;
+    }
+    #output_img_div {
+      height: auto;
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+    #preview_btn,
+    #save_btn {
+      width: 190px;
+      margin: 10px;
+      margin-top: 50px;
+    }
+    #info_div {
+      height: auto;
+    }
+    #result_img_div {
+      margin-top: 22px;
+    }
+  }
+  @media (max-width: 550px) {
+    #output_img_div {
+      height: 350px;
+    }
+    #result_img_div {
+      height: auto;
+    }
+  }
+  @media (max-width: 550px) {
+    #preview_btn,
+    #save_btn {
+      width: 155px;
+    }
+  }
+  @media (max-width: 520px) {
+    .output_divs {
+      width: 100%;
+    }
+    #dimensions_div {
+      height: auto;
+    }
+  }
+  @media (max-width: 480px) {
+    #preview_btn,
+    #save_btn {
+      margin: auto;
+      width: 100%;
+    }
+    #preview_btn {
+      margin-top: 35px;
+    }
+    #save_btn {
+      margin-top: 14px;
+    }
+  }
+  @media (max-width: 450px) {
+    #output_img_div {
+      height: 280px;
+    }
+  }
+  @media (max-width: 323px) {
+    #output_img_div {
+      height: 200px;
+    }
+  }
+  .file-pick-dropdown {
+    display: inline-flex;
+    background: #fff;
+    height: 42px;
+    border-left: 1px solid rgba(0, 0, 0, 0.15);
+    padding: 13px 16px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    align-items: center;
+    position: relative;
+  }
+  .file-pick-dropdown i {
+    margin: 0;
+  }
+  .file-picker-dropdown {
+    width: 201px;
+    position: absolute;
+    background: #fff;
+    top: 111%;
+    right: 0;
+    display: none;
+    box-shadow: rgb(26 26 26 / 20%) 0 0 12px;
+    border-radius: 4px;
+  }
+  .arrow-sign {
+    font-size: 18px;
+  }
+  .file-picker-dropdown svg {
+    height: 24px;
+    width: 24px;
+  }
+  .file-picker-dropdown a,
+  .file-picker-dropdown button {
+    border: none;
+    width: 100%;
+    border-radius: 4px;
+    text-align: left;
+    background: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 15px 24px;
+    list-style: none;
+    height: 54px;
+  }
+  .file-picker-dropdown button:hover {
+    background: #efefef;
+  }
+  #downloadButton svg {
+    height: 25px;
   }
 </style>
 
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+/>
+
 <div class="container2">
   <div id="upper-loader"></div>
-
   <span id="inputbox">
     <div class="row" style="margin-top: 30px">
-      <i class="far fa-image" id="icon" style="margin: auto"></i>
+      <i
+        class="far fa-image"
+        id="icon"
+        style="margin: auto; margin-top: 7px"
+      ></i>
     </div>
 
     <div id="Inputbox" class="boxes">UPLOAD FILE</div>
     <p id="dropfile">or drop your file here</p>
-    <p id="error"></p>
+    <p id="error" class="p-3"></p>
   </span>
   <div class="row" id="loaderDiv">
     <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
       <span id="loader"></span>
     </div>
   </div>
-
   <span id="content">
-    <div class="row" style="margin: auto">
-      <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-        <div id="image_div">
-          <div id="alternative_save_div">
-            <a href="" class="btn" id="alternative_save_button">Save</a>
-          </div>
-          <div id="input_div">
-            <br /><br />
-            <div id="input_img_div"><img src="" alt="" /></div>
-            <br /><br />
-            <div id="input_info_div"></div>
-          </div>
+    <div id="info_div">
+      <p style="margin-top: 40px">Width</p>
+      <input type="number" name="" id="width_input" placeholder="Enter width" />
+      <br />
+
+      <p>Height</p>
+      <input
+        type="number"
+        name=""
+        id="height_input"
+        placeholder="Enter height"
+      />
+      <br />
+      <p>Save As</p>
+      <select name="" id="mimetype">
+        <option value="---">Choose Mimetype</option>
+        <option value="image/png">png</option>
+        <option value="image/jpg">jpg</option>
+        <option value="image/jpeg">jpeg</option>
+        <option value="image/webp">webp</option>
+      </select>
+      <br />
+
+      <div class="row">
+        <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
+          <a class="btn result_btn" id="preview_btn">Preview</a>
+          <a class="btn result_btn" id="save_btn">Save</a>
         </div>
-        <div id="options_div">
-          <div id="input_container">
-            <input
-              type="number"
-              name=""
-              id="changed_width"
-              class="resizing_inputs"
-              placeholder="Enter &nbsp;width"
-            />
-            <input
-              type="number"
-              name=""
-              id="changed_height"
-              class="resizing_inputs"
-              placeholder="Enter&nbsp; height"
-            />
-            <a
-              id="preview"
-              class="btn resize_btns"
-              onclick="document.querySelector('#nav_button').click();"
-              >Preview</a
-            >
-            <a id="resize_img" class="btn resize_btns">Resize</a><br />
-            <p id="resize_err"></p>
-            <a id="Save_button">Save</a>
-          </div>
+      </div>
+    </div>
+    <div id="result_img_div">
+      <div class="alert alert-success success_alert" role="alert">
+        Converting Image...
+      </div>
+      <div id="output_img_div">
+        <img src="" alt="" style="max-height: 300px" />
+      </div>
+      <div id="dimensions_div">
+        <div id="output_height_div" class="output_divs">
+          <p>Height<br /><span id="height_value"></span></p>
+        </div>
+        <div id="output_width_div" class="output_divs">
+          <p>
+            Width <br />
+            <span id="width_value"></span>
+          </p>
+        </div>
+        <div id="output_mimetype_div" class="output_divs">
+          <p>
+            Mimetype <br />
+            <span id="mimetype_value">image/png</span>
+          </p>
         </div>
       </div>
     </div>
   </span>
-  <span class="thankyouBox"> </span>
-
-  <br />
-  <br /><input type="file" id="file" accept="image/*" class="file" />
-  <button id="nav_button">done</button>
+  <span class="thankyouBox"></span>
 </div>
+<input
+  type="file"
+  id="file"
+  accept=".webp,.jpeg,.png,.webp,.jpg"
+  class="file"
+/>

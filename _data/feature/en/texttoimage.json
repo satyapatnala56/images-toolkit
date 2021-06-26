@@ -6,6 +6,8 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "success",
   "data": {
     "total": 0,
     "_id": "608c8af3614e470009fad872",
@@ -34,7 +36,6 @@
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
-
     {
       "priority": 1,
       "logoUrl": "/assets/support.svg",
@@ -63,10 +64,51 @@
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "",
-    "steps": [""]
+    "steps": [
+      ""
+    ]
   },
-
   "FAQ": [
+    {
+      "question": "What are the features offered by the text to image converter from safeimagekit.com while, converting a given text to an image?",
+      "answer": "The text to image feature from safeimagekit.com offers versatile features while converting a piece of text to an image. They include-\n-\tInsertion of text which is to be converted into an image.\n-\tAdjusting the font size of the text which is entered.\n-\tModifying the text by italics\n-\tAdjusting the boldness of the text to be inserted.\n-\tModifying the stroke value \n-\tAdjusting the line-height\n-\tAdjusting the background color of the text\n-\tUpgrading the text inserted with colors."
+    },
+    {
+      "question": "How does the text insertion option of text to image converter from safeimagekit.com work?",
+      "answer": "The text insertion option of text to image converter from safeimagekit.com, lets the user add text on the space which is to be generated as an image. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. After these edits, the user can convert the text to an image."
+    },
+    {
+      "question": "How do we adjust the font size of the text while generating an image using the meme generator from safeimagekit.com?",
+      "answer": "The font size of the text while generating an image using the text to image converter from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+    },
+    {
+      "question": "Can we convert our text to Italics which is entered in the space for editing, while creating an image from text using the text to image converter from safeimagekit.com?",
+      "answer": "Yes, the text to image converter from safeimagekit.com lets the user convert the text which is entered in the space for editing to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present in the space to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the process."
+    },
+    {
+      "question": "Can we convert our text from plain to bold, which is entered in the space under editing, while creating an image using the text to image converter from safeimagekit.com?",
+      "answer": "Yes, the text to image converter feature from safeimagekit.com lets the user convert the plain text to bold text which is entered in the space for editing. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present in the space to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the process."
+    },
+    {
+      "question": "How does the stroke value work in the image conversion in the text to image converter tool from safeimagekit.com?",
+      "answer": "The stroke value of text to image converter tool from safeimagekit.com works by adjusting the color of the text which is inserted in the space for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
+    },
+    {
+      "question": "How can we color the text which is entered in the image conversion space, while creating an image using the text to image converter tool from safeimagekit.com?",
+      "answer": "The text to image converter tool from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
+    },
+    {
+      "question": "How does the background colour option of text to image converter tool from safeimagekit.com work?",
+      "answer": "The background colour option of text to image converter tool from safeimagekit.com is a unique feature, which lets the user add colour to the background space of the image generated. This option can be accessed at the bottom of the page named “Background colour”. There are a variety of colours available for the user to choose, the colour when chosen can be saved by hitting the “save” option below."
+    },
+    {
+      "question": "Can I use the text to image converter tool from safeimagekit.com on my Apple iPhone 11 pro? ",
+      "answer": "Yes, the text to image converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the amount of text pasted on the space for conversion which is uploaded to be converted into an image."
+    },
+    {
+      "question": "Can I use the text to image converter tool from safeimagekit.com on my Windows 8?",
+      "answer": "The text to image converter feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+    },
     {
       "question": "Will my file be saved after I complete working on the text to image conversion tool? ",
       "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
@@ -74,12 +116,17 @@
     {
       "question": "Do I have to do any additional signup or pay extra to use the text to image conversion tool? ",
       "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    },
+    {
+      "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
     }
   ],
-
   "jscdns": [
     "<script src=\"https://cdn.jsdelivr.net/npm/text-image/dist/text-image.js\"></script>",
-    "<script src=\"js/texttoimage.js\"></script>"
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/texttoimage.js\"></script>"
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ]
 }
