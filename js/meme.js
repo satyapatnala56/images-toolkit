@@ -3,7 +3,9 @@ var inputbox = document.querySelector('#inputbox')
 var content = document.querySelector('#content')
 var file = document.querySelector('#file')
 var box = document.querySelector('.box')
+
 var input
+
 document.querySelector('.container2').onclick = function () {
   document.querySelector('#file').click()
 }
@@ -32,9 +34,11 @@ container.ondrop = function (e) {
 file.onchange = function () {
   inputbox.style.display = 'none'
   input = file.files[0]
+
   memeProcessing()
 }
 //
+
 function memeProcessing() {
   $('#file').remove()
   ///recieving values
@@ -43,6 +47,7 @@ function memeProcessing() {
   loaderbox.id = 'loader-box'
   var mainDiv = document.querySelector('#loaderDiv .col')
   mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
+
   document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
   document.querySelector('#loadingMessage').innerHTML =
     'Please Wait ,Loading Your file '
@@ -58,9 +63,11 @@ function memeProcessing() {
       document.querySelector('#loader-box').style.display = 'none'
       document.querySelector('.box').style.background = '#353535'
       document.querySelector('.container2').style.height = 'auto'
+
       clearInterval(ans)
     }
   }, 1000)
+
   var reader2 = new FileReader()
   reader2.onload = function () {
     var height, width
@@ -118,17 +125,16 @@ function memeProcessing() {
       //////
       //additional text
       document.querySelector('#textInput').onclick = function () {
-        document.querySelector('#generate').onclick = function () {
-          document.querySelector('#generate').style.background = 'green'
-        }
         var t = document.querySelector('#memeText').value
         var color = document.querySelector('#memeTextColor').value || 'black'
+
         var finalOpacity = document.querySelector('#memeOpacity').value || 1
         var shadowColor = document.querySelector('#memeShadowColor').value
         var shadow = document.querySelector('#memeShadow').value
         var strokeColor = document.querySelector('#memeStrokeColor').value
         var stroke = document.querySelector('#memeStroke').value
         var fontsize = document.querySelector('#fontSize').value || 100
+
         var text = new fabric.Text(t, {
           top: 10,
           left: 10,
@@ -141,11 +147,13 @@ function memeProcessing() {
           strokeWidth: stroke,
           shadow: 'green',
           shadowWidth: 10,
+
           opacity: parseFloat(finalOpacity),
         })
         canvas.add(text).setActiveObject(text)
       }
       //additional image
+
       document.querySelector('#file2').onchange = function () {
         document.querySelector('#generate').onclick = function () {
           document.querySelector('#generate').style.background = 'green'
@@ -179,6 +187,7 @@ function memeProcessing() {
         borderScaleFactor: 2,
         padding: 4,
       })
+
       ///save button
       document.querySelector('#save').onclick = function () {
         window.location.href = '#'
@@ -186,7 +195,7 @@ function memeProcessing() {
         document.querySelector('.thankyouBox').innerHTML =
           ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>'
         container.style.height = '300px'
-        box.style.background = '#5CD65C'
+        box.style.background = '#5cd65c'
         ////download button
         document.querySelector('#downloadButton').onclick = function () {
           var result = canvas.toDataURL()
@@ -196,6 +205,7 @@ function memeProcessing() {
           a.click()
         }
       }
+
       ////download button
     }
     img.src = reader2.result

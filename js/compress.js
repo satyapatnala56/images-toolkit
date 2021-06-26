@@ -175,22 +175,29 @@ function compressImage() {
               filename = name + mimetype
               filetype = 'image/' + mimetype
             }
-            document.querySelector('#outputDiv  #ans1b').innerHTML = filename
-            document.querySelector('#outputDiv  #ans2b').innerHTML = filetype
-            document.querySelector('#outputDiv  #ans3b').innerHTML =
+            document.querySelector('#info_div_two  #ans1b').innerHTML = filename
+            document.querySelector('#info_div_two  #ans2b').innerHTML = filetype
+            document.querySelector('#info_div_two  #ans3b').innerHTML =
               result.size / 1000 + 'kb'
-            document.querySelector('#outputDiv  #ans4b').innerHTML =
+            document.querySelector('#info_div_two  #ans4b').innerHTML =
               result.lastModifiedDate
 
-            document.querySelector('#save').onclick = function () {
-              window.location.href = '#'
+            document.querySelector('#save_btnn a').onclick = function () {
               document.querySelector('.box').style.background = '#ad81ee'
               document.querySelector('#content').style.display = 'none'
               document.querySelector('.thankyouBox').innerHTML =
                 '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>'
 
               container.style.height = '300px'
-              box.style.background = 'ad81ee'
+              if (window.location.href.match('compress-an-image')) {
+                box.style.background = '#ad81ee'
+              } else if (window.location.href.match('compress-jpeg')) {
+                box.style.background = '#33cccc'
+              } else if (window.location.href.match('compress-png')) {
+                box.style.background = '#66b3ff'
+              } else if (window.location.href.match('compress-a-gif')) {
+                box.style.background = '#ff9966'
+              }
               ////download button
 
               document.getElementById('downloadButton').onclick = function () {
@@ -229,7 +236,6 @@ function compressImage() {
             console.log(err.message)
           },
         })
-        ///saving button
       }
     }
   }

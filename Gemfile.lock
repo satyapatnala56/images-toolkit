@@ -71,7 +71,11 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+<<<<<<< HEAD
   appscms-tools-theme (~> 1.0.6)
+=======
+  appscms-tools-theme (~> 0.9.9)
+>>>>>>> bdd05ebb1b2429e4d781c245c2dd51a277356234
   jekyll (~> 3.9.0)
   jekyll-feed
   jekyll-include-cache
@@ -82,4 +86,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.9
+   2.2.20

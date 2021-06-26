@@ -98,7 +98,7 @@ function cropImage() {
             value.height
           )
           document.querySelector('#save_button_div').style.marginTop = '30px'
-          document.querySelector('#cropped_image img').src = url
+          document.querySelector('#cropped_image img').src = canvas.toDataURL()
           document.querySelector('#cropped_image').style.height = 'auto'
 
           document.querySelector('#save').onclick = function () {

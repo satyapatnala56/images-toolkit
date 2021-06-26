@@ -84,7 +84,7 @@ function splitImage() {
 
       document.querySelector('#submit').onclick = function () {
         document.querySelector('#splitDiv span').innerHTML =
-          '<br><a id="downloadAll" class="btn btn-danger splitBtn">DownloadAll</a><a id="downloadzip" class="btn btn-danger splitBtn">Save As zip file</a>'
+          '<br><a id="downloadAll" class="btn btn-danger splitBtn">Save All</a>'
         // document.querySelector(".splitDimensions").style.display = "none";
 
         var rows = document.querySelector('#ROWS').value || 2
@@ -144,28 +144,6 @@ function splitImage() {
             '.png' +
             '</a>'
           document.querySelector('#splitList ol').appendChild(li)
-        }
-
-        /////donwnload as zip
-        document.querySelector('#downloadzip').onclick = function () {
-          var zip = new JSZip()
-          for (let i = 0; i < imagePieces.length; i++) {
-            zip.file(i + 1 + '.png', imagePieces[i])
-          }
-
-          zip
-            .generateAsync({
-              type: 'blob',
-            })
-            .then(function (ans) {
-              console.log(ans)
-              var ab = document.createElement('a')
-              ab.href = window.URL.createObjectURL(ans)
-              // var one = input.name.match(/^.*\./);
-              // var oneFinal = one.replace(".", "");
-              ab.download = 'splitted' + '.zip'
-              ab.click()
-            })
         }
 
         document.querySelector('#downloadAll').onclick = function () {
