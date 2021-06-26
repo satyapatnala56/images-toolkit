@@ -6,6 +6,8 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "success",
   "H2": "Picture to ascii conversion has been made easy with us, start by uploading your file below",
   "TITLE": "Ascii art generator- image to ascii art- safeimagekit",
   "META": "Are you looking for a high-quality image to ascii art generator? Well, then you are at the right place. Our online ascii art generator tool is extremely safe, user-friendly, and super quick.",

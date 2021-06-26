@@ -6,6 +6,8 @@
   "imgwidth": "35px",
   "imgheight": "35px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "success",
   "data": {
     "total": 0,
     "_id": "608fd864b3e10a0009083f85",
@@ -125,8 +127,8 @@
     }
   ],
   "jscdns": [
-    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js\" integrity=\"sha512-pUhApVQtLbnpLtJn6DuzDD5o2xtmLJnJ7oBoMsBnzOkVkpqofGLGPaBJ6ayD2zQe3lCgCibhJBi4cj5wAxwVKA==\" crossorigin=\"anonymous\" ></script>",
-    "<script src=\"js/qrcode.js\"></script>"
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js\" integrity=\"sha512-pUhApVQtLbnpLtJn6DuzDD5o2xtmLJnJ7oBoMsBnzOkVkpqofGLGPaBJ6ayD2zQe3lCgCibhJBi4cj5wAxwVKA==\" crossorigin=\"anonymous\" ></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool'  src=\"js/qrcode.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"

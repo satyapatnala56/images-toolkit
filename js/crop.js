@@ -115,9 +115,9 @@ function cropImage() {
                 a.download = 'download'
                 a.click()
                 if (lang === 'en') {
-                  window.location.href = `/downloand?tool=${pageTool}`
+                  window.location.href = `/download?tool=${pageTool}`
                 } else {
-                  window.location.href = `/${lang}/downloand?tool=${pageTool}`
+                  window.location.href = `/${lang}/downlod?tool=${pageTool}`
                 }
               })
             }

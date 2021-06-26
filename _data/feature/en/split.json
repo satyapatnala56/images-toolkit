@@ -5,6 +5,8 @@
   "img": "/img/split.png",
   "imgwidth": "35px",
   "imgheight": "35px",
+  "nofileupload": true,
+  "variant": "success",
   "imgalt": "altvalue",
   "data": {
     "total": 0,

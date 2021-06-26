@@ -1,3 +1,6 @@
+const getScript = document.currentScript
+const pageTool = getScript.dataset.tool
+const lang = getScript.dataset.lang
 var container = document.querySelector('.container2')
 var inputbox = document.querySelector('#inputbox')
 var content = document.querySelector('#content')
@@ -203,6 +206,13 @@ function memeProcessing() {
           a.href = result
           a.download = 'Meme'
           a.click()
+          setTimeout(() => {
+            if (lang === 'en') {
+              window.location.href = `/download?tool=${pageTool}`
+            } else {
+              window.location.href = `/${lang}/downlod?tool=${pageTool}`
+            }
+          }, 200)
         }
       }
 

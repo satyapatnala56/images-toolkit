@@ -6,14 +6,14 @@
   "imgwidth": "35px",
   "imgheight": "35px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "success",
   "data": {
     "total": 0,
     "_id": "608fd5070b38cc0009a2bee3",
     "website": "safeimagekit",
     "feature": "imgcompression",
-    "ratings": [
-
-    ],
+    "ratings": [],
     "created": "2021-05-03T10:48:39.138Z",
     "__v": 0
   },

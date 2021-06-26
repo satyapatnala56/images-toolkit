@@ -91,14 +91,39 @@
     ],
     "recommendedsites": [
         {
-            "name": "safevideokit",
-            "url": "https://safevideokit.com",
-            "logo": "/img/safevideokit.svg"
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
         },
         {
+            "logo": "/img/safezipkit.png",
             "name": "safezipkit.com",
-            "url": "https://safezipkit.com/",
-            "logo": "https://d33wubrfki0l68.cloudfront.net/74bf3f3836d56b30d16137169cd4c28bf15494ed/11962/js/pt.png"
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
         }
     ]
 }

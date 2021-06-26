@@ -5,6 +5,8 @@
   "img": "/img/rotate.png",
   "imgwidth": "35px",
   "imgheight": "35px",
+  "nofileupload": true,
+  "variant": "success",
   "data": {
     "total": 0,
     "_id": "608c8a53614e470009fad86f",
