@@ -6,14 +6,14 @@
   "imgwidth": "35px",
   "imgheight": "35px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "success",
   "data": {
     "total": 0,
     "_id": "608c8a7a614e470009fad870",
     "website": "safeimagekit",
     "feature": "Image Resizer",
-    "ratings": [
-
-    ],
+    "ratings": [],
     "created": "2021-04-30T22:53:46.636Z",
     "__v": 0
   },
@@ -127,7 +127,7 @@
     }
   ],
   "jscdns": [
-    "<script src=\"js/size.js\"></script>"
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"

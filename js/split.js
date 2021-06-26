@@ -1,103 +1,106 @@
 ///drag and drop n option
-var container = document.querySelector(".container2");
-var inputbox = document.querySelector("#inputbox");
-var content = document.querySelector("#content");
-var file = document.querySelector("#file");
-var box = document.querySelector(".box");
+const getScript = document.currentScript
+const pageTool = getScript.dataset.tool
+const lang = getScript.dataset.lang
+var container = document.querySelector('.container2')
+var inputbox = document.querySelector('#inputbox')
+var content = document.querySelector('#content')
+var file = document.querySelector('#file')
+var box = document.querySelector('.box')
 
-var input;
+var input
 container.ondragover = function (e) {
-  e.preventDefault();
-};
+  e.preventDefault()
+}
 container.ondrop = function (e) {
-  e.preventDefault();
-  input = e.dataTransfer.files[0];
-  var extension = input.name.replace(/^.*\./, "");
+  e.preventDefault()
+  input = e.dataTransfer.files[0]
+  var extension = input.name.replace(/^.*\./, '')
   if (
-    extension == "webp" ||
-    extension == "jpg" ||
-    extension == "jpeg" ||
-    extension == "png" ||
-    extension == "svg"
+    extension == 'webp' ||
+    extension == 'jpg' ||
+    extension == 'jpeg' ||
+    extension == 'png' ||
+    extension == 'svg'
   ) {
-    inputbox.style.display = "none";
-    splitImage();
+    inputbox.style.display = 'none'
+    splitImage()
   } else {
-    console.log("error");
-    document.querySelector(".container2").style.height = "350px";
-    document.querySelector("#error").innerHTML = "File format not supported";
+    console.log('error')
+    document.querySelector('.container2').style.height = '350px'
+    document.querySelector('#error').innerHTML = 'File format not supported'
   }
-};
+}
 file.onchange = function () {
-  inputbox.style.display = "none";
-  input = file.files[0];
-  splitImage();
-};
+  inputbox.style.display = 'none'
+  input = file.files[0]
+  splitImage()
+}
 
 function splitImage() {
-  var loaderbox = document.createElement("div");
-  loaderbox.id = "loader-box";
-  var mainDiv = document.querySelector("#loaderDiv .col");
-  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1]);
+  var loaderbox = document.createElement('div')
+  loaderbox.id = 'loader-box'
+  var mainDiv = document.querySelector('#loaderDiv .col')
+  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
 
-  document.querySelector("#loader").innerHTML = '<p id="loadingMessage"></p>';
-  document.querySelector("#loadingMessage").innerHTML =
-    "Please Wait ,Converting Your file ";
-  var count = 0;
+  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
+  document.querySelector('#loadingMessage').innerHTML =
+    'Please Wait ,Converting Your file '
+  var count = 0
   var ans = setInterval(function () {
-    count = count + 10;
-    document.querySelector("#upper-loader").style.width = count + "%";
+    count = count + 10
+    document.querySelector('#upper-loader').style.width = count + '%'
     if (count == 110) {
-      document.querySelector("#upper-loader").style.display = "none";
-      document.querySelector("#loaderDiv").style.display = "none";
-      document.querySelector("#content").style.visibility = "visible";
-      document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".container2").style.height = "auto";
+      document.querySelector('#upper-loader').style.display = 'none'
+      document.querySelector('#loaderDiv').style.display = 'none'
+      document.querySelector('#content').style.visibility = 'visible'
+      document.querySelector('#loader-box').style.display = 'none'
+      document.querySelector('.box').style.background = '#353535'
+      document.querySelector('.container2').style.height = 'auto'
 
-      clearInterval(ans);
+      clearInterval(ans)
     }
-  }, 1000);
+  }, 1000)
 
   ////
-  var reader = new FileReader();
+  var reader = new FileReader()
 
   reader.onload = function (evt) {
-    var image = new Image();
+    var image = new Image()
     image.onload = function () {
-      $("#file").remove();
+      $('#file').remove()
 
-      var numRowsToCut = 2;
-      var numColsToCut = 3;
+      var numRowsToCut = 2
+      var numColsToCut = 3
 
-      var imagePieces = [];
-      var c = document.createElement("canvas");
-      var ctx = c.getContext("2d");
-      c.width = image.width;
-      c.height = image.height;
-      ctx.drawImage(image, 0, 0);
+      var imagePieces = []
+      var c = document.createElement('canvas')
+      var ctx = c.getContext('2d')
+      c.width = image.width
+      c.height = image.height
+      ctx.drawImage(image, 0, 0)
 
-      document.querySelector("#splitList").appendChild(c);
+      document.querySelector('#splitList').appendChild(c)
 
-      document.querySelector("#submit").onclick = function () {
-        document.querySelector("#splitDiv span").innerHTML =
-          '<br><a id="downloadAll" class="btn btn-danger splitBtn">Save All</a>';
+      document.querySelector('#submit').onclick = function () {
+        document.querySelector('#splitDiv span').innerHTML =
+          '<br><a id="downloadAll" class="btn btn-danger splitBtn">Save All</a>'
         // document.querySelector(".splitDimensions").style.display = "none";
 
-        var rows = document.querySelector("#ROWS").value || 2;
-        var cols = document.querySelector("#COLS").value || 2;
+        var rows = document.querySelector('#ROWS').value || 2
+        var cols = document.querySelector('#COLS').value || 2
 
         ////err message
 
-        numRowsToCut = rows;
-        numColsToCut = cols;
+        numRowsToCut = rows
+        numColsToCut = cols
 
         for (var x = 0; x < numRowsToCut; ++x) {
           for (var y = 0; y < numColsToCut; ++y) {
-            var canvas = document.createElement("canvas");
-            var context = canvas.getContext("2d");
-            canvas.width = image.width / rows;
-            canvas.height = image.height / cols;
+            var canvas = document.createElement('canvas')
+            var context = canvas.getContext('2d')
+            canvas.width = image.width / rows
+            canvas.height = image.height / cols
             context.drawImage(
               image,
               x * canvas.width,
@@ -108,57 +111,62 @@ function splitImage() {
               0,
               canvas.width,
               canvas.height
-            );
-            imagePieces.push(canvas.toDataURL());
+            )
+            imagePieces.push(canvas.toDataURL())
           }
         }
-        $("#splitList canvas").remove();
-        $("#process").remove();
-        var ol = document.createElement("ol");
-        document.querySelector("#splitList").appendChild(ol);
+        $('#splitList canvas').remove()
+        $('#process').remove()
+        var ol = document.createElement('ol')
+        document.querySelector('#splitList').appendChild(ol)
 
-        document.querySelector("#splitList").style.height = "250px";
-        document.querySelector("#splitList").style.border = "3px solid white";
+        document.querySelector('#splitList').style.height = '250px'
+        document.querySelector('#splitList').style.border = '3px solid white'
 
-        document.querySelector("#splitList").style.marginTop = "50px";
+        document.querySelector('#splitList').style.marginTop = '50px'
 
-        document.querySelector("#splitList ol").style.marginTop = "30px";
+        document.querySelector('#splitList ol').style.marginTop = '30px'
 
         for (let i = 0; i < imagePieces.length; i++) {
-          var img = document.createElement("img");
-          img.src = imagePieces[i];
-          img.id = i;
-          img.style.margin = "10px";
-          var li = document.createElement("li");
+          var img = document.createElement('img')
+          img.src = imagePieces[i]
+          img.id = i
+          img.style.margin = '10px'
+          var li = document.createElement('li')
           li.innerHTML =
-            "<a href=" +
+            '<a href=' +
             imagePieces[i] +
-            " download=" +
+            ' download=' +
             i +
             1 +
-            ">Section" +
+            '>Section' +
             (i + 1) +
-            ".png" +
-            "</a>";
-          document.querySelector("#splitList ol").appendChild(li);
+            '.png' +
+            '</a>'
+          document.querySelector('#splitList ol').appendChild(li)
         }
 
-        document.querySelector("#downloadAll").onclick = function () {
+        document.querySelector('#downloadAll').onclick = function () {
           for (let i = 0; i < imagePieces.length; i++) {
-            var a = document.createElement("a");
-            a.href = imagePieces[i];
-            a.download = i + 1 + ".png";
-            a.click();
+            var a = document.createElement('a')
+            a.href = imagePieces[i]
+            a.download = i + 1 + '.png'
+            a.click()
+            if (lang === 'en') {
+              window.location.href = `/download?tool=${pageTool}`
+            } else {
+              window.location.href = `/${lang}/download?tool=${pageTool}`
+            }
           }
-        };
-      };
-      console.log(reader.result);
+        }
+      }
+      console.log(reader.result)
       /////
-    };
-    image.src = evt.target.result;
-  };
-  reader.readAsDataURL(input);
+    }
+    image.src = evt.target.result
+  }
+  reader.readAsDataURL(input)
 }
-document.querySelector(".container2").onclick = function () {
-  document.querySelector("#file").click();
-};
+document.querySelector('.container2').onclick = function () {
+  document.querySelector('#file').click()
+}
