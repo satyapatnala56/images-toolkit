@@ -41,11 +41,6 @@ dropbox.addEventListener(
     const getFile = chooseFromDropbox()
   }
 )
-boxContainer.ondrop = (e) => {
-  e.preventDefault()
-  showLoader()
-  onFileDrop(e.dataTransfer.files[0])
-}
 document.querySelector('#compress_strict').onchange = function () {
   if (document.querySelector('#compress_strict').checked == true) {
     document.querySelector('#compress_strictBtn').style.background = 'green'
@@ -64,6 +59,10 @@ document.querySelector('#orientation').onchange = function () {
 var input
 container.ondragover = function (e) {
   e.preventDefault()
+}
+boxContainer.ondrop = (e) => {
+  e.preventDefault()
+  onFileDrop(e.dataTransfer.files[0])
 }
 const onFileDrop = (file) => {
   input = file
@@ -118,7 +117,8 @@ const onFileDrop = (file) => {
     }
   }
 }
-file.onchange = function () {
+const fileOnChange = () => {
+  showLoader()
   inputbox.style.display = 'none'
   input = file.files[0]
   compressImage()
@@ -133,6 +133,7 @@ function compressImage() {
   reader.onload = function () {
     document.querySelector('#img_div_one img').src = reader.result
     document.querySelector('#img_div_two img').src = reader.result
+
     var count = 0
     var ans = setInterval(function () {
       count = count + 10
