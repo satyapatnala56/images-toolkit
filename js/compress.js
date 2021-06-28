@@ -7,7 +7,45 @@ var inputbox = document.querySelector('#inputbox')
 var content = document.querySelector('#content')
 var file = document.querySelector('#file')
 var box = document.querySelector('.box')
-
+var boxContainer = document.querySelector('.container2')
+const gdrive = document.querySelector('#filepicker')
+const getFile = (file) => {
+  onFileDrop(file)
+}
+const showLoader = () => {
+  document.querySelector('#inputbox').style.display = 'none'
+  var loaderbox = document.createElement('div')
+  loaderbox.id = 'loader-box'
+  var mainDiv = document.querySelector('#loaderDiv .col')
+  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
+  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
+  document.querySelector('#loadingMessage').innerHTML =
+    'Please Wait ,Loading Your file '
+}
+const closeLoader = () => {}
+const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
+const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
+gdrive.addEventListener(
+  'click',
+  (getFile, mimeTypes, showLoader, closeLoader) => {
+    const data = loadPicker()
+  }
+)
+const getDropBoxFile = (file) => {
+  onFileDrop(file)
+}
+const dropbox = document.getElementById('dropbox')
+dropbox.addEventListener(
+  'click',
+  async (getDropBoxFile, showLoader, closeLoader) => {
+    const getFile = chooseFromDropbox()
+  }
+)
+boxContainer.ondrop = (e) => {
+  e.preventDefault()
+  showLoader()
+  onFileDrop(e.dataTransfer.files[0])
+}
 document.querySelector('#compress_strict').onchange = function () {
   if (document.querySelector('#compress_strict').checked == true) {
     document.querySelector('#compress_strictBtn').style.background = 'green'
@@ -27,8 +65,8 @@ var input
 container.ondragover = function (e) {
   e.preventDefault()
 }
-container.ondrop = function (e) {
-  e.preventDefault()
+const onFileDrop = (file) => {
+  input = file
   input = e.dataTransfer.files[0]
   var extension = input.name.replace(/^.*\./, '')
   if (window.location.href.match('compress-an-image')) {
@@ -96,14 +134,6 @@ function compressImage() {
   reader.onload = function () {
     document.querySelector('#img_div_one img').src = reader.result
     document.querySelector('#img_div_two img').src = reader.result
-    var loaderbox = document.createElement('div')
-    loaderbox.id = 'loader-box'
-    var mainDiv = document.querySelector('#loaderDiv .col')
-    mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
-
-    document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
-    document.querySelector('#loadingMessage').innerHTML =
-      'Please Wait ,Converting Your file '
     var count = 0
     var ans = setInterval(function () {
       count = count + 10

@@ -12,8 +12,47 @@ var input
 container.ondragover = function (e) {
   e.preventDefault()
 }
-container.ondrop = function (e) {
+var boxContainer = document.querySelector('.container2')
+const gdrive = document.querySelector('#filepicker')
+const getFile = (file) => {
+  onFileDrop(file)
+}
+const showLoader = () => {
+  document.querySelector('#inputbox').style.display = 'none'
+  var loaderbox = document.createElement('div')
+  loaderbox.id = 'loader-box'
+  var mainDiv = document.querySelector('#loaderDiv .col')
+  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
+  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
+  document.querySelector('#loadingMessage').innerHTML =
+    'Please Wait ,Loading Your file '
+}
+const closeLoader = () => {}
+const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
+const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
+gdrive.addEventListener(
+  'click',
+  (getFile, mimeTypes, showLoader, closeLoader) => {
+    const data = loadPicker()
+  }
+)
+const getDropBoxFile = (file) => {
+  onFileDrop(file)
+}
+const dropbox = document.getElementById('dropbox')
+dropbox.addEventListener(
+  'click',
+  async (getDropBoxFile, showLoader, closeLoader) => {
+    const getFile = chooseFromDropbox()
+  }
+)
+boxContainer.ondrop = (e) => {
   e.preventDefault()
+  showLoader()
+  onFileDrop(e.dataTransfer.files[0])
+}
+const onFileDrop = (file) => {
+  input = file
   input = e.dataTransfer.files[0]
   var extension = input.name.replace(/^.*\./, '')
   if (
@@ -31,8 +70,8 @@ container.ondrop = function (e) {
     document.querySelector('#error').innerHTML = 'File format not supported'
   }
 }
-file.onchange = function () {
-  inputbox.style.display = 'none'
+const fileOnChange = () => {
+  showLoader()
   input = file.files[0]
   rotateImg()
 }
@@ -40,14 +79,6 @@ function rotateImg() {
   /////loader starting
 
   $('#file').remove()
-  var loaderbox = document.createElement('div')
-  loaderbox.id = 'loader-box'
-  var mainDiv = document.querySelector('#loaderDiv .col')
-  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
-
-  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
-  document.querySelector('#loadingMessage').innerHTML =
-    'Please Wait ,Converting Your file '
   setTimeout(function () {
     rotating_process()
   }, 6000)
