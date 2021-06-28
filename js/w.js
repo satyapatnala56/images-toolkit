@@ -56,7 +56,6 @@ container.ondragover = function (e) {
 }
 const onFileDrop = (file) => {
   input = file
-  input = e.dataTransfer.files[0]
   var extension = input.name.replace(/^.*\./, '')
   if (
     extension == 'webp' ||
