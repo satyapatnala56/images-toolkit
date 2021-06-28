@@ -143,6 +143,7 @@
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
   ],
   "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src=\"js/croppr.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/crop.js\"></script>"
   ]

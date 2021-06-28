@@ -2,17 +2,21 @@ name: Safeimagekit.com
 title: Safest website for your image processing needs. No files sent to server.
 email: support@safeimagekit.com
 description: Process your images safely, online for free using safeimagekit.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: https://safeimagekit.com # the base hostname & protocol for your site, e.g. http://example.com
 siteurl: https://safeimagekit.com
 twitter_username: jekyllrb
 github_username: jekyll
 favicon: /picture.png
 logo: /picture.png
-paginate: "12"
-paginate_path: "/blog/page:num/"
+paginate: '12'
+paginate_path: '/blog/page:num/'
 alternateName: safeimagekit
 theme: appscms-tools-theme
+developerKey: AIzaSyDr30lsukCywJXYYPSn5prs6FwvmgqQkxg
+clientId: 762288849553-blsuhbaecksbh4tsi5blkhvp2hq9beo5.apps.googleusercontent.com
+appId: 762288849553
+dropboxapikey: ctioixo2vm18z7u
 disqus:
   shortname: utils
 # Build settings
@@ -33,7 +37,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-production_google_analytics: "UA-179965937-20"
-development_google_analytics: ""
+production_google_analytics: 'UA-179965937-20'
+development_google_analytics: ''
 
 permalink: /blog/:title
