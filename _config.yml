@@ -9,6 +9,7 @@ twitter_username: jekyllrb
 github_username: jekyll
 favicon: /picture.png
 logo: /picture.png
+pwalogo: /picture.png
 paginate: '12'
 paginate_path: '/blog/page:num/'
 alternateName: safeimagekit

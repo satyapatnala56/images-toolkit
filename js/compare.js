@@ -222,3 +222,17 @@ showDropDown.addEventListener('click', () => {
     icon.classList.add('fa-angle-up')
   }
 })
+const seocndOption = document.querySelector('#secondOption')
+const secondOptionArrow = document.querySelector('#secondOptionArrow')
+const secondOptionDropdown = document.querySelector('#secondOptionDropdown')
+seocndOption.addEventListener('click', () => {
+  if (secondOptionDropdown.style.display !== 'none') {
+    secondOptionDropdown.style.display = 'none'
+    secondOptionArrow.classList.remove('fa-angle-up')
+    secondOptionArrow.classList.add('fa-angle-down')
+  } else {
+    secondOptionDropdown.style.display = 'block'
+    secondOptionArrow.classList.remove('fa-angle-down')
+    secondOptionArrow.classList.add('fa-angle-up')
+  }
+})
