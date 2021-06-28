@@ -13,6 +13,7 @@ paginate: '12'
 paginate_path: '/blog/page:num/'
 alternateName: safeimagekit
 theme: appscms-tools-theme
+pwa: true
 developerKey: AIzaSyDr30lsukCywJXYYPSn5prs6FwvmgqQkxg
 clientId: 762288849553-blsuhbaecksbh4tsi5blkhvp2hq9beo5.apps.googleusercontent.com
 appId: 762288849553

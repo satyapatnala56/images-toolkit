@@ -224,7 +224,7 @@ lang: en
     <div class="m-auto ">
       <div class=" d-flex justify-content-center align-items-center ">
         <div id="Inputbox" class="boxes"> <img height="21px" width="21px"
-            src="/img/add-image.png" />UPLOAD FILE </div>
+            src="/img/add-image.png" /> <span class='ml-1' >CHOOSE FILE</span> </div>
         <div class="file-pick-dropdown">
           <i class="fas fa-angle-down arrow-sign "></i>
           <div class="file-picker-dropdown" style="display: none;">
@@ -297,5 +297,5 @@ lang: en
     id="rotate_button_input"
     style="height: 1px; width: 1px; visibility: hidden"
   />
-  <input type="file" id="file" accept=".jpg,.jpeg,.png,.webp" class="file" />
+  <input  onchange=" fileOnChange()" type="file" id="file" accept=".jpg,.jpeg,.png,.webp" class="file" />
 </div>

@@ -194,11 +194,7 @@ lang: en
     font-size: 22px;
     color: #fff;
   }
-  @media (max-width: 330px) {
-    .boxes {
-      width: 80%;
-    }
-  }
+
   @media (max-width: 560px) {
     #loadingMessage {
       font-size: 24px;
@@ -311,22 +307,11 @@ lang: en
       height: 200px;
     }
   }
-  .file-pick-dropdown {
-    display: inline-flex;
-    background: #fff;
-    height: 42px;
-    border-left: 1px solid rgba(0, 0, 0, 0.15);
-    padding: 13px 16px;
-    border-top-right-radius: 4px;
-    border-bottom-right-radius: 4px;
-    align-items: center;
-    position: relative;
-  }
   .file-pick-dropdown i {
     margin: 0;
   }
   .file-picker-dropdown {
-    width: 201px;
+    width: 220px;
     position: absolute;
     background: #fff;
     top: 111%;
@@ -383,7 +368,7 @@ lang: en
     <div class="m-auto ">
       <div class=" d-flex justify-content-center align-items-center ">
         <div id="Inputbox" class="boxes"> <img height="21px" width="21px"
-            src="/img/add-image.png" />UPLOAD FILE </div>
+            src="/img/add-image.png" /> <span class='ml-1' >CHOOSE FILE</span> </div>
         <div class="file-pick-dropdown">
           <i class="fas fa-angle-down arrow-sign "></i>
           <div class="file-picker-dropdown" style="display: none;">
@@ -469,6 +454,7 @@ lang: en
   <span class="thankyouBox"></span>
 </div>
 <input
+onchange=" fileOnChange()"
   type="file"
   id="file"
   accept=".webp,.jpeg,.png,.webp,.jpg"

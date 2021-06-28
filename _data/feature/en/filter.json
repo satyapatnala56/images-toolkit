@@ -7,16 +7,7 @@
   "imgheight": "35px",
   "imgalt": "altvalue",
   "nofileupload": true,
-  "variant": "success",
-  "data": {
-    "total": 0,
-    "_id": "608c8985614e470009fad86a",
-    "website": "safeimagekit",
-    "feature": "Image Filter Adder",
-    "ratings": [],
-    "created": "2021-04-30T22:49:41.627Z",
-    "__v": 0
-  },
+  "variant": "info",
   "H2": "Adding filters on photos has been made easy with us, start by uploading your file below",
   "TITLE": "Photo filters- filter on photos- safeimagekit",
   "META": "Are you looking for a high-quality filters for pictures? Well, then you are at the right place. Our online photo filter tool is extremely safe, user-friendly, and super quick.",

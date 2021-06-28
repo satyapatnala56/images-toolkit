@@ -7,7 +7,7 @@
   "imgheight": "40px",
   "imgalt": "altvalue",
   "nofileupload": true,
-  "variant": "success",
+  "variant": "warning",
   "data": {
     "total": 0,
     "_id": "608fd807b3e10a0009083f83",

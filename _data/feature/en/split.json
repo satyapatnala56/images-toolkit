@@ -6,7 +6,7 @@
   "imgwidth": "35px",
   "imgheight": "35px",
   "nofileupload": true,
-  "variant": "success",
+  "variant": "danger",
   "imgalt": "altvalue",
   "data": {
     "total": 0,
