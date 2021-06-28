@@ -226,6 +226,7 @@ const seocndOption = document.querySelector('#secondOption')
 const secondOptionArrow = document.querySelector('#secondOptionArrow')
 const secondOptionDropdown = document.querySelector('#secondOptionDropdown')
 seocndOption.addEventListener('click', () => {
+  addScripts()
   if (secondOptionDropdown.style.display !== 'none') {
     secondOptionDropdown.style.display = 'none'
     secondOptionArrow.classList.remove('fa-angle-up')
