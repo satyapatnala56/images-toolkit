@@ -118,7 +118,6 @@ const onFileDrop = (file) => {
   }
 }
 const fileOnChange = () => {
-  showLoader()
   inputbox.style.display = 'none'
   input = file.files[0]
   compressImage()
