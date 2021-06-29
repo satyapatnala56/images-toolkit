@@ -13,7 +13,9 @@
     "_id": "608fd807b3e10a0009083f83",
     "website": "safeimagekit",
     "feature": "crop",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T11:01:27.216Z",
     "__v": 0
   },
@@ -63,9 +65,14 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to crop our image.",
     "steps": [
-      ""
+      "Upload the image to be cropped.",
+      "Crop the image accordingly.",
+      "Glance at the changes made to the image file by scrolling down.",
+      "Save the changes made.",
+      "Download the image file by hitting the download option.",
+      "Hurray!! the image is ready to use."
     ]
   },
   "FAQ": [
