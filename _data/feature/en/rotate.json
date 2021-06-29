@@ -6,7 +6,7 @@
   "imgwidth": "35px",
   "imgheight": "35px",
   "nofileupload": true,
-  "variant": "success",
+  "variant": "info",
   "data": {
     "total": 0,
     "_id": "608c8a53614e470009fad86f",
@@ -131,6 +131,7 @@
     }
   ],
   "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.min.js\" integrity=\"sha512-WiGQZv8WpmQVRUFXZywo7pHIO0G/o3RyiAJZj8YXNN4AV7ReR1RYWVmZJ6y3H06blPcjJmG/sBpOVZjTSFFlzQ==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/flip.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/rotate.js\"></script>"

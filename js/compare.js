@@ -3,16 +3,54 @@ var inputbox = document.querySelector('#inputbox')
 var content = document.querySelector('#content')
 var file = document.querySelector('#file')
 var box = document.querySelector('.box')
-
 var input
-
+var boxContainer = document.querySelector('.container2')
+const gdrive = document.querySelector('#filepicker')
+const getFile = (file) => {
+  onFileChange(file)
+}
+const showLoader = () => {
+  document.querySelector('#inputbox').style.display = 'none'
+  var loaderbox = document.createElement('div')
+  loaderbox.id = 'loader-box'
+  var mainDiv = document.querySelector('#loaderDiv .col')
+  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
+  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
+  document.querySelector('#loadingMessage').innerHTML =
+    'Please Wait ,Loading Your file '
+}
+const closeLoader = () => {
+  document.querySelector('#loader-box').style.display = 'none'
+  document.querySelector('#inputbox').style.display = 'block'
+}
+const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
+const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
+gdrive.addEventListener(
+  'click',
+  (getFile, mimeTypes, showLoader, closeLoader) => {
+    const data = loadPicker()
+  }
+)
+const getDropBoxFile = (file) => {
+  onFileChange(file)
+}
+const dropbox = document.getElementById('dropbox')
+dropbox.addEventListener(
+  'click',
+  async (getDropBoxFile, showLoader, closeLoader) => {
+    const getFile = chooseFromDropbox()
+  }
+)
+boxContainer.ondrop = (e) => {
+  e.preventDefault()
+  onFileDrop(e.dataTransfer.files[0])
+}
 /////drag and drop event
 container.ondragover = function (e) {
   e.preventDefault()
 }
-container.ondrop = function (e) {
-  e.preventDefault()
-  input = e.dataTransfer.files[0]
+const onFileDrop = (file) => {
+  input = file
   var extension = input.name.replace(/^.*\./, '')
   if (
     extension == 'webp' ||
@@ -20,7 +58,6 @@ container.ondrop = function (e) {
     extension == 'jpeg' ||
     extension == 'png'
   ) {
-    input = e.dataTransfer.files[0]
     $('.container2 #file').remove()
 
     imgComparison()
@@ -31,10 +68,14 @@ container.ondrop = function (e) {
 }
 
 ////input button event
-file.onchange = function () {
+const fileOnChange = () => {
   $('.container2 #file').remove()
-
   input = file.files[0]
+  imgComparison()
+}
+const onFileChange = (file) => {
+  $('.container2 #file').remove()
+  input = file
   imgComparison()
 }
 
@@ -61,7 +102,6 @@ function imgComparison() {
       var count = 0
       var ans = setInterval(function () {
         count = count + 20
-        console.log(count)
         document.querySelector('#upper-loader').style.width = count + '%'
         if (count >= 110) {
           document.querySelector('#upper-loader').style.display = 'none'
@@ -168,6 +208,21 @@ function imgComparison() {
   reader.readAsDataURL(input)
 }
 
-document.querySelector('.container2').onclick = function () {
+document.querySelector('#Inputbox').onclick = function () {
   document.querySelector('#file').click()
 }
+const showDropDown = document.querySelector('.file-pick-dropdown')
+const icon = document.querySelector('.arrow-sign')
+const dropDown = document.querySelector('.file-picker-dropdown')
+showDropDown.addEventListener('click', () => {
+  addScripts()
+  if (dropDown.style.display !== 'none') {
+    dropDown.style.display = 'none'
+    icon.classList.remove('fa-angle-up')
+    icon.classList.add('fa-angle-down')
+  } else {
+    dropDown.style.display = 'block'
+    icon.classList.remove('fa-angle-down')
+    icon.classList.add('fa-angle-up')
+  }
+})

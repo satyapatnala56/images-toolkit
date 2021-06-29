@@ -16,7 +16,27 @@ lang: en
       <i class="far fa-image" id="icon" style="margin: auto"></i>
     </div>
 
-    <div id="Inputbox" class="boxes">UPLOAD FILE</div>
+    <div class="m-auto ">
+      <div class=" d-flex justify-content-center align-items-center ">
+        <div id="Inputbox" class="boxes"> <img height="21px" width="21px"
+            src="/img/add-image.png" /> <span class='ml-1' >CHOOSE FILE</span> </div>
+        <div class="file-pick-dropdown">
+          <i class="fas fa-angle-down arrow-sign "></i>
+          <div class="file-picker-dropdown" style="display: none;">
+            <button id="dropbox"> <svg viewBox="0 0 24 24" fill="#0061FF" xmlns="http://www.w3.org/2000/svg">
+                <path id="icon"
+                  d="M12.0146 6.57367L6.50732 10.1473L12.0146 13.721L6.50732 17.2947L1 13.6912L6.50732 10.1176L1 6.57367L6.50732 3L12.0146 6.57367ZM6.47803 18.4263L11.9854 14.8527L17.4927 18.4263L11.9854 22L6.47803 18.4263ZM12.0146 13.6912L17.522 10.1176L12.0146 6.57367L17.4927 3L23 6.57367L17.4927 10.1473L23 13.721L17.4927 17.2947L12.0146 13.6912Z">
+                </path>
+              </svg> From Dropbox</button>
+            <button id='filepicker'> <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path id="Path" d="M8.33331 3H15.6666L23 15H15.6666L8.33331 3Z" fill="#FFC107"></path>
+                <path id="Path_2" d="M4.6012 21L8.30086 15H23L19.3333 21H4.6012Z" fill="#1976D2"></path>
+                <path id="Path_3" d="M1 15.0625L4.60119 21L12 9L8.33333 3L1 15.0625Z" fill="#4CAF50"></path>
+              </svg>  From Google Drive</button>
+          </div>
+        </div>
+      </div>
+    </div>
     <p id="dropfile">or drop your file here</p>
     <p id="error"></p>
   </span>
@@ -158,7 +178,7 @@ lang: en
   </span>
 
   <span class="thankyouBox"> </span
-  ><input type="file" id="file" accept=".png" class="file" />
+  ><input  onchange=" fileOnChange()" type="file" id="file" accept=".png" class="file" />
 
   <input type="checkbox" name="" id="compress_strict" /><input
     type="checkbox"
