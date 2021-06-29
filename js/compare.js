@@ -12,19 +12,21 @@ const getFile = (file) => {
   if (firstInput.files.length === 0) {
     firstInput.files = [file]
   } else {
+    document.querySelector('#inputbox').style.display = 'none'
+    document.querySelector('#secondInput').style.visibility = 'visible'
     secondInput.files = [file]
   }
   // onFileDrop(file)
 }
 const showLoader = () => {
-  document.querySelector('#inputbox').style.display = 'none'
-  var loaderbox = document.createElement('div')
-  loaderbox.id = 'loader-box'
-  var mainDiv = document.querySelector('#loaderDiv .col')
-  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
-  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
-  document.querySelector('#loadingMessage').innerHTML =
-    'Please Wait ,Loading Your file '
+  // document.querySelector('#inputbox').style.display = 'none'
+  // var loaderbox = document.createElement('div')
+  // loaderbox.id = 'loader-box'
+  // var mainDiv = document.querySelector('#loaderDiv .col')
+  // mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
+  // document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
+  // document.querySelector('#loadingMessage').innerHTML =
+  //   'Please Wait ,Loading Your file '
 }
 const closeLoader = () => {
   // document.querySelector('#loader-box').style.display = 'none'
