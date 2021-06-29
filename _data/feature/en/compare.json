@@ -54,9 +54,14 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to compare our images. ",
     "steps": [
-      ""
+      "Upload the required images which are to be compared.",
+      "select the comparison methods on which you can compare.",
+      "Hit the fade option to compare based on fade effect.",
+      "Hit the slider option to compare using the slider option.",
+      "Hit the info option to compare the images based on their information.",
+      "Hit the pixel option to compare the images based on the pixels of the images."
     ]
   },
   "FAQ": [
