@@ -13,7 +13,9 @@
     "_id": "608fd5820b38cc0009a2bee4",
     "website": "safeimagekit",
     "feature": "pixel",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T10:50:42.778Z",
     "__v": 0
   },
@@ -63,9 +65,13 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to convert our image to pixel art.",
     "steps": [
-      ""
+      "Upload the image in the space provided.",
+      "Get a glance of the pixel art by scrolling down.",
+      "Hit the \"save\" option to save the changes made. ",
+      "Download the pixel art using the download option.",
+      "Hurray!! the pixel art is ready to use."
     ]
   },
   "FAQ": [
