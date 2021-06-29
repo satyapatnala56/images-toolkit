@@ -10,27 +10,25 @@ const getFile = (file) => {
   const firstInput = document.querySelector('#file')
   const secondInput = document.querySelector('#file2')
   if (firstInput.files.length === 0) {
-    firstInput.files = [file]
+    firstInput.files[0] = file
   } else {
-    document.querySelector('#inputbox').style.display = 'none'
-    document.querySelector('#secondInput').style.visibility = 'visible'
-    secondInput.files = [file]
+    secondInput.files[0] = [file]
   }
   // onFileDrop(file)
 }
 const showLoader = () => {
-  // document.querySelector('#inputbox').style.display = 'none'
-  // var loaderbox = document.createElement('div')
-  // loaderbox.id = 'loader-box'
-  // var mainDiv = document.querySelector('#loaderDiv .col')
-  // mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
-  // document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
-  // document.querySelector('#loadingMessage').innerHTML =
-  //   'Please Wait ,Loading Your file '
+  document.querySelector('#inputbox').style.display = 'none'
+  var loaderbox = document.createElement('div')
+  loaderbox.id = 'loader-box'
+  var mainDiv = document.querySelector('#loaderDiv .col')
+  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
+  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
+  document.querySelector('#loadingMessage').innerHTML =
+    'Please Wait ,Loading Your file '
 }
 const closeLoader = () => {
-  // document.querySelector('#loader-box').style.display = 'none'
-  // document.querySelector('#inputbox').style.display = 'block'
+  document.querySelector('#loader-box').style.display = 'none'
+  document.querySelector('#inputbox').style.display = 'block'
 }
 const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
 const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
