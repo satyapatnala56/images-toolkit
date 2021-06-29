@@ -10,7 +10,7 @@ var box = document.querySelector('.box')
 var boxContainer = document.querySelector('.container2')
 const gdrive = document.querySelector('#filepicker')
 const getFile = (file) => {
-  onFileDrop(file)
+  onFileChange(file)
 }
 const showLoader = () => {
   document.querySelector('#inputbox').style.display = 'none'
@@ -32,7 +32,7 @@ gdrive.addEventListener(
   }
 )
 const getDropBoxFile = (file) => {
-  onFileDrop(file)
+  onFileChange(file)
 }
 const dropbox = document.getElementById('dropbox')
 dropbox.addEventListener(
@@ -123,7 +123,12 @@ const fileOnChange = () => {
   input = file.files[0]
   compressImage()
 }
-
+const onFileChange = (file) => {
+  showLoader()
+  inputbox.style.display = 'none'
+  input = file
+  compressImage()
+}
 ////drag and drop ended
 
 function compressImage() {
