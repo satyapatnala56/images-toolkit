@@ -13,7 +13,9 @@
     "_id": "608fd439b3e10a0009083f81",
     "website": "safeimagekit",
     "feature": "pngcompression",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T10:45:13.383Z",
     "__v": 0
   },
@@ -63,9 +65,14 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to compress our image file.",
     "steps": [
-      ""
+      "Upload the image file in the space provided.",
+      "Adjust the parameters using the options provided.",
+      "Adjust the orientation of the image file.",
+      "Hit the save option to save the changes made.",
+      "Download the image file using the download option.",
+      "Hurray !!! the image is ready to rock."
     ]
   },
   "FAQ": [
