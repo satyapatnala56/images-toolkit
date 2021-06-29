@@ -7,7 +7,7 @@ var input
 var boxContainer = document.querySelector('.container2')
 const gdrive = document.querySelector('#filepicker')
 const getFile = (file) => {
-  onFileDrop(file)
+  onFileChange(file)
 }
 const showLoader = () => {
   document.querySelector('#inputbox').style.display = 'none'
@@ -32,7 +32,7 @@ gdrive.addEventListener(
   }
 )
 const getDropBoxFile = (file) => {
-  onFileDrop(file)
+  onFileChange(file)
 }
 const dropbox = document.getElementById('dropbox')
 dropbox.addEventListener(
@@ -71,6 +71,11 @@ const onFileDrop = (file) => {
 const fileOnChange = () => {
   $('.container2 #file').remove()
   input = file.files[0]
+  imgComparison()
+}
+const onFileChange = (file) => {
+  $('.container2 #file').remove()
+  input = file
   imgComparison()
 }
 
