@@ -7,9 +7,14 @@ var input
 var boxContainer = document.querySelector('.container2')
 const gdrive = document.querySelector('#filepicker')
 const getFile = (file) => {
-  $('.container2 #file').remove()
-  input = file
-  imgComparison()
+  const firstInput = document.querySelector('#file')
+  const secondInput = document.querySelector('#file2')
+  if (firstInput.files.length === 0) {
+    firstInput.files = [file]
+  } else {
+    secondInput.files = [file]
+  }
+  // onFileDrop(file)
 }
 const showLoader = () => {
   document.querySelector('#inputbox').style.display = 'none'
@@ -34,9 +39,7 @@ gdrive.addEventListener(
   }
 )
 const getDropBoxFile = (file) => {
-  $('.container2 #file').remove()
-  input = file
-  imgComparison()
+  onFileDrop(file)
 }
 const dropbox = document.getElementById('dropbox')
 dropbox.addEventListener(
@@ -231,6 +234,7 @@ const secondOptionArrow = document.querySelector('#secondOptionArrow')
 const secondOptionDropdown = document.querySelector('#secondOptionDropdown')
 seocndOption.addEventListener('click', () => {
   addScripts()
+
   if (secondOptionDropdown.style.display !== 'none') {
     secondOptionDropdown.style.display = 'none'
     secondOptionArrow.classList.remove('fa-angle-up')
