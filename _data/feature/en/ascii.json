@@ -18,16 +18,21 @@
     "_id": "608fd7c2b3e10a0009083f82",
     "website": "safeimagekit",
     "feature": "ascii",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T11:00:18.272Z",
     "__v": 0
   },
   "color": "#6666ff",
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to generate the ASCII art from our image.",
     "steps": [
-      ""
+      "Upload the image in the space provided.",
+      "Hit the convert option to convert the image to an ASCII art.",
+      "Hit the download option to download the ASCII art.",
+      "Hurray!!! the ASCII art is ready to rock."
     ]
   },
   "TEXTUAL_CONTENT": [
