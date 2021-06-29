@@ -65,7 +65,7 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "How to compress our image file.",
+    "heading": "How to compress our PNG image file.",
     "steps": [
       "Upload the image file in the space provided.",
       "Adjust the parameters using the options provided.",
