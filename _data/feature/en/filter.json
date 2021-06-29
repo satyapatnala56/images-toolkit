@@ -54,9 +54,14 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to add a filter to an image.",
     "steps": [
-      ""
+      "Upload the image to add a filter.",
+      "Select a filter from a variety of filter options given.",
+      "Glance at the output by scrolling down below.",
+      "Hit the save option to save the changes made.",
+      "Hit the download option to download the modified image.",
+      "Hurray!!! the image is ready to use."
     ]
   },
   "FAQ": [
