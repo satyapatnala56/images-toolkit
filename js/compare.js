@@ -27,8 +27,8 @@ const showLoader = () => {
     'Please Wait ,Loading Your file '
 }
 const closeLoader = () => {
-  document.querySelector('#loader-box').style.display = 'none'
-  document.querySelector('#inputbox').style.display = 'block'
+  // document.querySelector('#loader-box').style.display = 'none'
+  // document.querySelector('#inputbox').style.display = 'block'
 }
 const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
 const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
