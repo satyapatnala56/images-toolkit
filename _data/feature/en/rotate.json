@@ -12,7 +12,9 @@
     "_id": "608c8a53614e470009fad86f",
     "website": "safeimagekit",
     "feature": "Image Flipper",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-04-30T22:53:07.852Z",
     "__v": 0
   },
@@ -65,7 +67,11 @@
     "logoImageUrl": "/idea.svg",
     "heading": "",
     "steps": [
-      ""
+      "Upload the image file to flip it.",
+      "Adjust the parameters required for a better image quality.",
+      "Hit the \"Preview\" option to glance at the changes made.",
+      "Save the changes made to the image file.",
+      "Hurray!! the image is ready to use."
     ]
   },
   "FAQ": [
