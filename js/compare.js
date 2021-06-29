@@ -7,14 +7,7 @@ var input
 var boxContainer = document.querySelector('.container2')
 const gdrive = document.querySelector('#filepicker')
 const getFile = (file) => {
-  const firstInput = document.querySelector('#file')
-  const secondInput = document.querySelector('#file2')
-  if (firstInput.files.length === 0) {
-    firstInput.files[0] = file
-  } else {
-    secondInput.files[0] = [file]
-  }
-  // onFileDrop(file)
+  onFileDrop(file)
 }
 const showLoader = () => {
   document.querySelector('#inputbox').style.display = 'none'
@@ -104,7 +97,6 @@ function imgComparison() {
       var count = 0
       var ans = setInterval(function () {
         count = count + 20
-        console.log(count)
         document.querySelector('#upper-loader').style.width = count + '%'
         if (count >= 110) {
           document.querySelector('#upper-loader').style.display = 'none'
@@ -227,21 +219,5 @@ showDropDown.addEventListener('click', () => {
     dropDown.style.display = 'block'
     icon.classList.remove('fa-angle-down')
     icon.classList.add('fa-angle-up')
-  }
-})
-const seocndOption = document.querySelector('#secondOption')
-const secondOptionArrow = document.querySelector('#secondOptionArrow')
-const secondOptionDropdown = document.querySelector('#secondOptionDropdown')
-seocndOption.addEventListener('click', () => {
-  addScripts()
-
-  if (secondOptionDropdown.style.display !== 'none') {
-    secondOptionDropdown.style.display = 'none'
-    secondOptionArrow.classList.remove('fa-angle-up')
-    secondOptionArrow.classList.add('fa-angle-down')
-  } else {
-    secondOptionDropdown.style.display = 'block'
-    secondOptionArrow.classList.remove('fa-angle-down')
-    secondOptionArrow.classList.add('fa-angle-up')
   }
 })
