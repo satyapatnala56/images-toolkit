@@ -13,7 +13,9 @@
     "_id": "608c8af3614e470009fad872",
     "website": "safeimagekit",
     "feature": "Text to image converter",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-04-30T22:55:47.614Z",
     "__v": 0
   },
@@ -63,9 +65,13 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "HOW TO CONVERT OUR TEXT TO AN IMAGE",
     "steps": [
-      ""
+      "Enter the text to convert into an image in the space provided.",
+      "Adjust the parameters for better image output",
+      "Hit the generate button to convert the text to image",
+      "Save the changes made to the image.",
+      "Hurray !!! the image is ready to use."
     ]
   },
   "FAQ": [

@@ -13,7 +13,9 @@
     "_id": "608fd864b3e10a0009083f85",
     "website": "safeimagekit",
     "feature": "qrcode",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T11:03:00.061Z",
     "__v": 0
   },
@@ -63,9 +65,13 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to generate a QR code.",
     "steps": [
-      ""
+      "Enter the text in the space provided.",
+      "The resulting QR code will be generated on the left side.",
+      "Save the changes made to the text.",
+      "Hit the \"download\" option to download the QR code.",
+      "Hurray!! the QR CODE   is ready to use."
     ]
   },
   "FAQ": [
