@@ -1,7 +1,7 @@
 {
   "Language": "English",
   "htmlLangAtt": "en",
-  "H1": "Image Comparision",
+  "H1": "Image Comparison",
   "img": "/img/compare.png",
   "imgwidth": "35px",
   "imgheight": "35px",
@@ -54,7 +54,7 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "How to compare our images. ",
+    "heading": "How to compare our images",
     "steps": [
       "Upload the required images which are to be compared.",
       "select the comparison methods on which you can compare.",
