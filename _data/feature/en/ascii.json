@@ -6,6 +6,8 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "primary",
   "H2": "Picture to ascii conversion has been made easy with us, start by uploading your file below",
   "TITLE": "Ascii art generator- image to ascii art- safeimagekit",
   "META": "Are you looking for a high-quality image to ascii art generator? Well, then you are at the right place. Our online ascii art generator tool is extremely safe, user-friendly, and super quick.",
@@ -25,9 +27,12 @@
   "color": "#6666ff",
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to generate the ASCII art from our image.",
     "steps": [
-      ""
+      "Upload the image in the space provided.",
+      "Hit the convert option to convert the image to an ASCII art.",
+      "Hit the download option to download the ASCII art.",
+      "Hurray!!! the ASCII art is ready to rock."
     ]
   },
   "TEXTUAL_CONTENT": [
@@ -135,9 +140,10 @@
     }
   ],
   "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js\" integrity=\"sha512-jzL0FvPiDtXef2o2XZJWgaEpVAihqquZT/tT89qCVaxVuHwJ/1DFcJ+8TBMXplSJXE8gLbVAUv+Lj20qHpGx+A==\" crossorigin=\"anonymous\"></script>",
     "<script src=\"js/ascii/src/ascii.js\"></script>",
-    "<script src=\"js/ascii.js\"></script>"
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/ascii.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"

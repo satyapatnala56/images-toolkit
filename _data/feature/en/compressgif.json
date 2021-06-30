@@ -6,6 +6,8 @@
   "imgwidth": "35px",
   "imgheight": "35px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "warning",
   "data": {
     "total": 0,
     "_id": "608fd336648a23000946eece",
@@ -63,9 +65,14 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to compress our GIF file.",
     "steps": [
-      ""
+      "Upload the GIF file in the space provided.",
+      "Adjust the parameters using the options provided.",
+      "Adjust the orientation of the image file.",
+      "Hit the save option to save the changes made.",
+      "Download the image file using the download option.",
+      "Hurray !!! the image is ready to rock."
     ]
   },
   "FAQ": [
@@ -127,8 +134,9 @@
     }
   ],
   "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
-    "<Script src=\"js/compress.js\"></script>"
+    "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/compress.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />",

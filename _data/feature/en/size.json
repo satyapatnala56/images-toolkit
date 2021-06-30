@@ -6,6 +6,8 @@
   "imgwidth": "35px",
   "imgheight": "35px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "warning",
   "data": {
     "total": 0,
     "_id": "608c8a7a614e470009fad870",
@@ -63,9 +65,13 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to resize an image",
     "steps": [
-      ""
+      "Upload the image in the space provided.",
+      "Adjust the parameters for better image quality.\n",
+      "Hit the \"Preview\" to glance at the changes made.",
+      "Save the changes made.",
+      "Hurray!! the image is ready to use."
     ]
   },
   "FAQ": [
@@ -127,7 +133,8 @@
     }
   ],
   "jscdns": [
-    "<script src=\"js/size.js\"></script>"
+    "<script src=\"/assets/js/googledrive.js\"></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"

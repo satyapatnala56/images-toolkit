@@ -6,6 +6,8 @@
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "success",
   "data": {
     "total": 0,
     "_id": "608c89bb614e470009fad86b",
@@ -64,9 +66,14 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to create a MEME from our image.",
     "steps": [
-      ""
+      "Upload the image file which is to be converted into to a MEME.",
+      "Adjust the parameters to get a better meme.",
+      "Upload an image or add text which makes a meme better.",
+      "Hit the save option to save the changes made.",
+      "Download the MEME using the download option.",
+      "Hurray!! the MEME is ready to rock."
     ]
   },
   "FAQ": [
@@ -124,8 +131,9 @@
     }
   ],
   "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/fabric.js/4.4.0/fabric.min.js\" integrity=\"sha512-Ly9uI3QY88jVXCgkORH2A4Qqz5xYm1pew9jEgedgSpyEg9asvyPISK+CY7QNDN3CMftXU/KLNwQR7XUUo7Cqag==\" crossorigin=\"anonymous\"></script>",
-    "<script src=\"js/meme.js\"></script>"
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/meme.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"

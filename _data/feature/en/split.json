@@ -5,6 +5,8 @@
   "img": "/img/split.png",
   "imgwidth": "35px",
   "imgheight": "35px",
+  "nofileupload": true,
+  "variant": "danger",
   "imgalt": "altvalue",
   "data": {
     "total": 0,
@@ -63,9 +65,13 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to split our image.",
     "steps": [
-      ""
+      "Upload the image which needs a split.",
+      "Adjust the parameters required for image splitting.",
+      "Hit the \"Split\" button to initiate a split.",
+      "Hit the \"save all\" to save the changes made",
+      "Hurray!! the image is ready to use."
     ]
   },
   "FAQ": [
@@ -127,8 +133,9 @@
     }
   ],
   "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js\" integrity=\"sha512-XSIn6Z+o82v4Aumv+iHmw9/oEotMU4LRi7lSd4AESpfdekKVO4zt0hUZ+2iB8cRlvpQRWqeLXdCHQxTOL00zNw==\" crossorigin=\"anonymous\"></script>",
-    "<script src=\"js/split.js\"></script>"
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/split.js\"></script>"
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"

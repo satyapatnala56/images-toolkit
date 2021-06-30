@@ -72,7 +72,7 @@ html {
 }
 
 #loader-box {
-  background: url("../spinner.gif");
+  background: url('../spinner.gif');
   height: 70px;
   width: 70px;
   background-repeat: no-repeat;
@@ -168,22 +168,20 @@ html {
 }
 
 .boxes {
-  padding: 13px 10px;
-  width: 230px;
-  font-size: 20px;
-  background: white;
-  margin: auto;
-  font-weight: bold;
-  text-align: center;
-  border-radius: 4px;
+  background: #fff;
+  border-radius: 0;
   cursor: pointer;
-  margin-top: -10px;
+  display: flex;
+  align-items: center;
+  padding: 15px 24px;
+  height: 54px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  justify-content: center;
+  font-size: 17px;
+  font-weight: 800;
 }
-@media (max-width: 330px) {
-  .boxes {
-    width: 80%;
-  }
-}
+
 #content {
   visibility: hidden;
 }
@@ -634,13 +632,64 @@ td {
   #shadowDiv {
     width: 56%;
   }
-  #strokeDiv input[type="number"],
+  #strokeDiv input[type='number'],
   #meme_shadow {
     width: 88%;
     margin-left: -55px;
   }
-  #strokeDiv input[type="color"],
+  #strokeDiv input[type='color'],
   #meme_shadow_color {
     position: absolute;
   }
+}
+.file-pick-dropdown {
+  display: inline-flex;
+  background: #fff;
+  height: 54px;
+  border-left: 1px solid rgba(0, 0, 0, 0.15);
+  padding: 13px 20px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: center;
+  position: relative;
+}
+.file-pick-dropdown i {
+  margin: 0;
+}
+.file-picker-dropdown {
+  width: 220px;
+  position: absolute;
+  background: #fff;
+  top: 111%;
+  right: 0px;
+  display: none;
+  box-shadow: rgb(26 26 26 / 20%) 0px 0px 12px;
+  border-radius: 4px;
+}
+.arrow-sign {
+  font-size: 18px;
+}
+.file-picker-dropdown svg {
+  height: 24px;
+  width: 24px;
+}
+.file-picker-dropdown button,
+.file-picker-dropdown a {
+  border: none;
+  width: 100%;
+  border-radius: 4px;
+  text-align: left;
+  background: #fff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 15px 24px;
+  list-style: none;
+  height: 54px;
+}
+.file-picker-dropdown button:hover {
+  background: #efefef;
+}
+#downloadButton svg {
+  height: 25px;
 }
