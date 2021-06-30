@@ -84,14 +84,6 @@ function memeProcessing() {
   $('#file').remove()
   ///recieving values
   ///////loader
-  var loaderbox = document.createElement('div')
-  loaderbox.id = 'loader-box'
-  var mainDiv = document.querySelector('#loaderDiv .col')
-  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
-
-  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
-  document.querySelector('#loadingMessage').innerHTML =
-    'Please Wait ,Loading Your file '
   var count = 0
   var ans = setInterval(function () {
     count = count + 10
