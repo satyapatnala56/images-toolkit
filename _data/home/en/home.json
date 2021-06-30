@@ -54,7 +54,7 @@
       "description": "Compares two images",
       "color": "#ff884d",
       "icon": "/img/compare.png",
-      "url": "/image-comparision"
+      "url": "/image-comparison"
     },
     {
       "name": "Image cropper",
