@@ -1,129 +1,129 @@
 {
-    "Language": "English",
-    "htmlLangAtt": "en",
-    "successmessage": "Hurray! your operation was completed",
-    "tryfeatureheading": "You can also try these features",
-    "rateus": "Rate us",
-    "votes": "votes",
-    "socialshareheading": "We are a free to use platform for safe processing of your files. We need your support to grow. Help us by sharing us on social media. Thanks !",
-    "recommendedsitesheading": "Try our other sites for safe processing of you files ! ",
-    "recommendedfeatures": [
-        {
-            "logo": "/img/split.png",
-            "name": "Image Splitter",
-            "url": "/split-photo"
-        },
-        {
-            "logo": "/img/resize.png",
-            "name": "Image Resizer",
-            "url": "/image-resize"
-        },
-        {
-            "logo": "/img/compare.png",
-            "name": "Image Comparison",
-            "url": "/image-comparision"
-        },
-        {
-            "logo": "/img/compressimage.png",
-            "name": "Image Compressor",
-            "url": "/compress-an-image"
-        },
-        {
-            "logo": "/img/compresspng.png",
-            "name": "Png Compressor",
-            "url": "/compress-png"
-        },
-        {
-            "logo": "/img/compressgif.png",
-            "name": "Gif Compressor",
-            "url": "/compress-a-gif"
-        },
-        {
-            "logo": "/img/compressjpeg.png",
-            "name": "Jpeg Compressor",
-            "url": "/compress-jpeg"
-        },
-        {
-            "logo": "/img/ascii.png",
-            "name": "ASCII image generator ",
-            "url": "/ascii-art-from-image"
-        },
-        {
-            "logo": "/img/meme.png",
-            "name": "Meme generator",
-            "url": "/meme-generator"
-        },
-        {
-            "logo": "/img/texttoimage.png",
-            "name": "Text to image converter",
-            "url": "/text-to-image-converter"
-        },
-        {
-            "logo": "/img/watermark.png",
-            "name": "Watermark image maker",
-            "url": "/watermark-for-photos"
-        },
-        {
-            "logo": "/img/pixel.png",
-            "name": "Image to pixelate image converter",
-            "url": "/pixel-art-maker"
-        },
-        {
-            "logo": "/img/qr.png",
-            "name": "QR Code generator",
-            "url": "/qr-code-generator"
-        },
-        {
-            "logo": "/img/crop.png",
-            "name": "Image cropper",
-            "url": "/crop-image"
-        },
-        {
-            "logo": "/img/filter.png",
-            "name": "Image Filter Adder",
-            "url": "/photo-filters"
-        },
-        {
-            "logo": "/img/rotate.png",
-            "name": "Image Rotater",
-            "url": "/flip-image"
-        }
-    ],
-    "recommendedsites": [
-        {
-            "logo": "/img/safevideokit.svg",
-            "name": "safevideokit.com",
-            "url": "https://safevideokit.com/"
-        },
-        {
-            "logo": "/img/safezipkit.png",
-            "name": "safezipkit.com",
-            "url": "https://safezipkit.com/"
-        },
-        {
-            "logo": "/img/safepdfkit.svg",
-            "name": "safepdfkit.com",
-            "url": "https://safepdfkit.com"
-        },
-        {
-            "logo": "/img/safeaudiokit.png",
-            "name": "safeaudiokit.com",
-            "url": "https://safeaudiokit.com"
-        },
-        {
-            "logo": "/img/safeaudioconverter.png",
-            "name": "safeaudioconverter.com",
-            "url": "https://safeaudioconverter.com"
-        },
-        {
-            "logo": "/img/safevideoconverter.svg",
-            "name": "safevideoconverter.com",
-            "url": "https://safevideoconverter.com"
-        },
-        {
-            "logo": "/img/safeimageconverter.svg",
-            "name": "safeimageconverter.com",
-            "url": "https://safeimageconverter.com"
-        }
-    ]
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "successmessage": "Hurray! your operation was completed",
+  "tryfeatureheading": "You can also try these features",
+  "rateus": "Rate us",
+  "votes": "votes",
+  "socialshareheading": "We are a free to use platform for safe processing of your files. We need your support to grow. Help us by sharing us on social media. Thanks !",
+  "recommendedsitesheading": "Try our other sites for safe processing of you files ! ",
+  "recommendedfeatures": [
+    {
+      "logo": "/img/split.png",
+      "name": "Image Splitter",
+      "url": "/split-photo"
+    },
+    {
+      "logo": "/img/resize.png",
+      "name": "Image Resizer",
+      "url": "/image-resize"
+    },
+    {
+      "logo": "/img/compare.png",
+      "name": "Image Comparison",
+      "url": "/image-comparison"
+    },
+    {
+      "logo": "/img/compressimage.png",
+      "name": "Image Compressor",
+      "url": "/compress-an-image"
+    },
+    {
+      "logo": "/img/compresspng.png",
+      "name": "Png Compressor",
+      "url": "/compress-png"
+    },
+    {
+      "logo": "/img/compressgif.png",
+      "name": "Gif Compressor",
+      "url": "/compress-a-gif"
+    },
+    {
+      "logo": "/img/compressjpeg.png",
+      "name": "Jpeg Compressor",
+      "url": "/compress-jpeg"
+    },
+    {
+      "logo": "/img/ascii.png",
+      "name": "ASCII image generator ",
+      "url": "/ascii-art-from-image"
+    },
+    {
+      "logo": "/img/meme.png",
+      "name": "Meme generator",
+      "url": "/meme-generator"
+    },
+    {
+      "logo": "/img/texttoimage.png",
+      "name": "Text to image converter",
+      "url": "/text-to-image-converter"
+    },
+    {
+      "logo": "/img/watermark.png",
+      "name": "Watermark image maker",
+      "url": "/watermark-for-photos"
+    },
+    {
+      "logo": "/img/pixel.png",
+      "name": "Image to pixelate image converter",
+      "url": "/pixel-art-maker"
+    },
+    {
+      "logo": "/img/qr.png",
+      "name": "QR Code generator",
+      "url": "/qr-code-generator"
+    },
+    {
+      "logo": "/img/crop.png",
+      "name": "Image cropper",
+      "url": "/crop-image"
+    },
+    {
+      "logo": "/img/filter.png",
+      "name": "Image Filter Adder",
+      "url": "/photo-filters"
+    },
+    {
+      "logo": "/img/rotate.png",
+      "name": "Image Rotater",
+      "url": "/flip-image"
+    }
+  ],
+  "recommendedsites": [
+    {
+      "logo": "/img/safevideokit.svg",
+      "name": "safevideokit.com",
+      "url": "https://safevideokit.com/"
+    },
+    {
+      "logo": "/img/safezipkit.png",
+      "name": "safezipkit.com",
+      "url": "https://safezipkit.com/"
+    },
+    {
+      "logo": "/img/safepdfkit.svg",
+      "name": "safepdfkit.com",
+      "url": "https://safepdfkit.com"
+    },
+    {
+      "logo": "/img/safeaudiokit.png",
+      "name": "safeaudiokit.com",
+      "url": "https://safeaudiokit.com"
+    },
+    {
+      "logo": "/img/safeaudioconverter.png",
+      "name": "safeaudioconverter.com",
+      "url": "https://safeaudioconverter.com"
+    },
+    {
+      "logo": "/img/safevideoconverter.svg",
+      "name": "safevideoconverter.com",
+      "url": "https://safevideoconverter.com"
+    },
+    {
+      "logo": "/img/safeimageconverter.svg",
+      "name": "safeimageconverter.com",
+      "url": "https://safeimageconverter.com"
+    }
+  ]
 }
