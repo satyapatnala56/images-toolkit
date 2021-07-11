@@ -5,4 +5,5 @@ fileName: download
 lang: en
 permalink: download
 sitemap: false
+noindex: true
 ---
