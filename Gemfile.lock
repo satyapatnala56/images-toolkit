@@ -71,7 +71,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  appscms-tools-theme (~> 1.0.6)
+  appscms-tools-theme (~> 1.0.8)
   jekyll (~> 3.9.0)
   jekyll-feed
   jekyll-include-cache

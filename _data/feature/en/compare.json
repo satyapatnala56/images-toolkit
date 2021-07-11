@@ -133,5 +133,12 @@
   ],
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ],
+  "filelang": "en",
+  "display_formats": [
+    "jpg",
+    "jpeg",
+    "png",
+    "webp"
   ]
 }
