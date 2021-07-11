@@ -361,7 +361,7 @@ html {
   color: white;
 }
 
-.box .compressTable {
+/* .box .compressTable {
   border: 3px solid white;
   width: 100%;
 }
@@ -371,10 +371,10 @@ td {
   height: 40px;
   color: white;
   text-align: center;
-}
-.box .compressTable tr th {
+} */
+/* .box .compressTable tr th {
   background: black;
-}
+} */
 
 @media (max-width: 541px) {
   .compressImage {
