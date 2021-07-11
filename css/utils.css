@@ -361,19 +361,18 @@ html {
   color: white;
 }
 
-.compressTable {
+.box .compressTable {
   border: 3px solid white;
   width: 100%;
 }
-.compressTable tr th,
+.box .compressTable tr th,
 td {
   border: 3px solid white;
   height: 40px;
   color: white;
   text-align: center;
 }
-
-.compressTable tr th {
+.box .compressTable tr th {
   background: black;
 }
 
