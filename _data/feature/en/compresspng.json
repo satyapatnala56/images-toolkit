@@ -13,9 +13,7 @@
     "_id": "608fd439b3e10a0009083f81",
     "website": "safeimagekit",
     "feature": "pngcompression",
-    "ratings": [
-
-    ],
+    "ratings": [],
     "created": "2021-05-03T10:45:13.383Z",
     "__v": 0
   },
@@ -141,5 +139,9 @@
   "csscdns": [
     "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
     "<link rel=\"stylesheet\" href=\"css/compress.css\" />"
+  ],
+  "filelang": "en",
+  "display_formats": [
+    "png"
   ]
 }
