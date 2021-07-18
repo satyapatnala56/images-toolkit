@@ -1,252 +1,168 @@
-#leftDiv {
-  border: 3px solid white;
-  height: 812px;
-  float: left;
-  width: 30%;
-  overflow: auto;
-  border-radius: 5px;
-  margin-top: 23px;
-}
-.resultBox {
+#upload_img {
   margin: auto;
-  border: 3px solid white;
-  width: 97%;
-  height: 50%;
-  border-radius: 5px;
-}
-
-.resultImg {
-  width: 100%;
-  height: 100%;
-  float: left;
-}
-.resultImg img {
-  max-width: 95%;
-  height: auto;
-  max-height: 300px;
-}
-.resultText {
-  float: right;
-  width: 50%;
-  height: 100%;
-  border-left: 1px solid white;
-}
-
-#rightDiv {
-  float: right;
-  width: 69%;
-  height: 798px;
-  margin-top: 25px;
-}
-.Cbuttons {
-  height: 45px;
-  width: 45%;
-  border: 3px solid white;
-  display: inline-block;
-  margin: 2px;
-  margin-top: 22px;
-  border-radius: 5px;
-}
-.Num {
-  margin-top: 14px;
-  height: 45px;
-  width: 280px;
-  outline: none;
-  border-radius: 5px;
-}
-
-.Cbuttons p {
-  margin-top: 9px;
-  font-weight: bold;
-  color: white;
-}
-@media (max-width: 1175px) {
-  .Num {
-    width: 95%;
-  }
-}
-.filter_buttons {
-  color: black;
-  font-weight: bold;
-  padding: 10px 10px;
-  height: 44px;
-  background: white;
-  border-radius: 5px;
   margin-top: 16px;
-  width: 93%;
-}
-.filter_buttons:hover {
-  background: green;
-  color: white;
+  height: 67px;
+  width: 98px;
 }
 
-@media (max-width: 928px) {
-  #leftDiv {
-    height: auto;
-    float: none;
-    width: 94%;
-    margin: auto;
-  }
-  #rightDiv {
-    float: none;
-    width: 94%;
-    margin: auto;
-    margin-top: 10px;
-  }
-  .filter_buttons {
-    width: 200px;
-    margin: 10px;
-  }
-  #rightDiv {
-    margin-top: 94px;
-  }
+.container2_inner {
+  width: 100%;
+  padding: 20px;
+  height: auto;
+
+  border: 2px solid black;
+  border: 2px solid rgba(0, 0, 0, 0.125);
 }
 
-@media (max-width: 831px) {
-  .filter_buttons {
-    width: 166px;
-  }
+.header_div {
+  border: 2px solid red;
+  width: 100%;
+  height: 100px;
 }
-@media (max-width: 700px) {
-  .filter_buttons {
-    width: 151px;
-  }
+.output_div {
+  width: 100%;
+  background: white;
+  height: 500px;
+  margin: Auto;
+  display: grid;
+  justify-content: center;
+  border-radius: 10px;
+  position: relative;
+  align-content: center;
+  border-bottom-right-radius: 0px;
+  margin-top: 44px;
+  border-bottom-left-radius: 0px;
 }
-@media (max-width: 650px) {
-  .filter_buttons {
-    width: 43%;
-  }
-}
-@media (max-width: 490px) {
-  .filter_buttons {
-    width: 87%;
-    margin: auto;
-    margin-top: 10px;
-  }
-}
-
-@media (max-width: 929px) {
-  .Num {
-    width: 47%;
-    margin: 5px;
-    margin-top: 10px;
-  }
-  .Cbuttons {
-    width: 154px;
-    margin: 11px;
-    margin-top: 22px;
-  }
+.filter_div {
+  height: 140px;
+  display: flex;
+  margin-top: 8px;
 }
 
-@media (max-width: 722px) {
-  .Num {
-    width: 75%;
-  }
-}
-@media (max-width: 799px) {
-  .resultImg {
-    width: 100%;
-    /* height: auto; */
-  }
-  .resultText {
-    width: 100%;
-    /* height: auto; */
-  }
-}
-@media (max-width: 626px) {
-  .Num {
-    width: 90%;
-  }
-}
-@media (max-width: 442px) {
-  .Num {
-    width: 100%;
-  }
-}
-
-@media (max-width: 546px) {
-  #orientationBtn {
-    margin-top: 2px;
-  }
-}
-@media (max-width: 448px) {
-  #leftDiv,
-  #rightDiv {
-    width: 95%;
-  }
-  .Num {
-    margin: auto;
-    margin-top: 14px;
-  }
-}
-.resultHeading {
-  font-size: 20px;
-  color: white;
-  font-weight: bold;
-  text-align: center;
-}
-.resultValue {
-  margin-top: -10px;
-  color: yellow;
-  text-align: center;
-}
-
-.compressDownload p {
-  color: white;
-  margin-top: 9px;
-}
-
-@media (max-width: 799px) {
-  #outputDiv .resultImg {
-    border-radius: 5px;
-  }
-  #outputDiv .resultText {
-    border: 3px solid white;
-    border-radius: 5px;
-    margin-top: 15px;
-  }
-  #inputDiv #head1 {
-    margin-top: 33px;
-  }
-  .resultText {
-    border-left: none;
-  }
-}
-
-#inputDiv #head2,
-#outputDiv .resultText #head2b {
-  margin-top: 15px;
-}
-
-#compress_strict,
-#orientation {
-  visibility: hidden;
-  height: 1px;
-  width: 1px;
-}
-
-#inputDiv #ans4,
-#ans1,
-#outputDiv #ans4b,
-#ans1b {
-  width: 260px;
-  margin: auto;
-  margin-top: -10px;
-}
-
-.resultImg p {
-  font-size: 23px;
-  text-align: center;
-  color: white;
-  font-weight: bold;
-  text-decoration: underline;
-  margin-top: 13px;
-}
-#save {
-  height: 50px;
-  width: 200px;
-  margin-top: -71px;
-  float: right;
+.prev_button,
+.next_button {
+  display: grid;
+  position: absolute;
+  height: 149px;
+  justify-content: center;
+  align-content: center;
+  width: 60px;
+  top: 29px;
+  background: white;
+  cursor: pointer;
   border-radius: 5px;
+}
+.prev_button {
+  left: 22px;
+}
+.next_button {
+  right: 22px;
+}
+.prev_button img,
+.next_button img {
+  height: 35px;
+  width: 35px;
+}
+
+.filter_options {
+  height: 180px;
+  display: inline-block;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin-top: 2px;
+  padding-left: 80px;
+  scroll-behavior: smooth;
+}
+.filter_box {
+  height: 100%;
+  width: 142px;
+  display: inline-block;
+  margin-left: 13px;
+}
+.filter_box img {
+  height: 120px;
+  width: 120px;
+}
+.filter_box p {
+  margin-left: 39px;
+  font-size: 18px;
   font-weight: bold;
+  color: white;
+}
+.filter_inner {
+  height: 100%;
+  width: 3000px;
+}
+.filter_options::-webkit-scrollbar {
+  width: 50px;
+}
+.output_div img {
+  max-height: 350px;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.saving_div {
+  width: 100%;
+  height: 100px;
+  background: white;
+  padding-bottom: 66px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding-right: 20px;
+}
+.saving_div a {
+  font-weight: bold;
+  width: 160px;
+  padding-top: 10px;
+  height: 46px;
+  margin: 10px;
+  margin-top: 20px;
+}
+.cancel {
+  color: #00b8e6;
+  border: 1px solid #00b8e6;
+}
+.save {
+  background: #00b8e6;
+  color: white;
+}
+.saving_div a:hover {
+  font-weight: bold;
+  border: 2px solid black;
+}
+@media (max-width: 782px) {
+  .next_button,
+  .prev_button {
+    width: 50px;
+  }
+}
+@media (max-width: 338px) {
+  .red_box {
+    margin-left: -5px;
+  }
+}
+@media (max-width: 690px) {
+  .filter_options {
+    padding-left: 0px;
+  }
+  .next_button,
+  .prev_button {
+    display: none;
+  }
+  .filter_box {
+    margin-left: -5px;
+  }
+}
+@media (max-width: 450px) {
+  .output_div {
+    height: 350px;
+  }
+  .output_div img {
+    width: 81%;
+  }
 }

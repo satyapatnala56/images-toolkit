@@ -4,38 +4,12 @@ button {
   outline: none;
 }
 
-#qrInput {
-  background: rgba(90, 90, 90, 0.466);
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  color: white;
-  border-radius: 5px;
-}
-
-@media (max-width: 900px) {
-  #qrInput {
-    width: 80%;
-  }
-}
-#qrInput::placeholder {
-  color: white;
-}
-
 html {
   scroll-behavior: smooth;
 }
 
-.container2 {
-  height: 300px;
-  width: 100%;
-  margin: auto;
-  cursor: pointer;
-}
-#icon {
-  font-size: 90px;
-  color: white;
-}
 #dropfile {
-  font-size: 20px;
+  font-size: 16px;
   margin-top: 15px;
   text-align: center;
   color: white;
@@ -72,7 +46,7 @@ html {
 }
 
 #loader-box {
-  background: url('../spinner.gif');
+  background: url("../spinner.gif");
   height: 70px;
   width: 70px;
   background-repeat: no-repeat;
@@ -87,84 +61,24 @@ html {
   height: 70px;
 }
 
-#demo {
-  height: 1px;
-  width: 1px;
-}
-
 #errorMessage {
   color: yellow;
   font-size: 25px;
   text-align: center;
 }
-#download {
-  margin-top: 20px;
-}
+
 .file {
   height: 0px;
   width: 0px;
   visibility: hidden;
 }
 
-.up:hover {
-  background: white;
-  color: red;
-}
-
-.croppr-region {
-  height: 100px;
-}
-
-#filteroption {
-  padding: 15px 10px;
-  width: 420px;
-  border-radius: 10px;
-  font-weight: bold;
-  color: red;
-  margin-left: 10px;
-}
-
-@media (max-width: 580px) {
-  #filteroption {
-    width: 80%;
-  }
-}
 #inp {
   margin: auto;
   width: 300px;
   height: 47px;
   border-radius: 10px;
   margin: 10px;
-}
-
-#width,
-#height {
-  margin: auto;
-  width: 350px;
-  height: 53px;
-  border-radius: 5px;
-  background: rgba(90, 90, 90, 0.466);
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  margin: 10px;
-}
-
-#range {
-  width: 70%;
-  margin: auto;
-  font-size: 20px;
-}
-
-@media (max-width: 385px) {
-  #height,
-  #width {
-    width: 90%;
-  }
-}
-
-@media (max-width: 524px) {
-  #reset {
-    margin-top: 15px;
-  }
 }
 
 .boxes {
@@ -180,6 +94,7 @@ html {
   justify-content: center;
   font-size: 17px;
   font-weight: 800;
+  margin-top: -14px;
 }
 
 #content {
@@ -198,42 +113,23 @@ html {
   margin-top: 20px;
 }
 
-#option {
-  background: white;
-  color: red;
-  font-weight: bold;
-  padding: 15px 90px;
-  border-radius: 10px;
+.error1,
+.error2 {
+  color: #611a15;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  background: #fdecea;
 }
-
-.imgBox {
-  width: 350px;
-  height: 250px;
-  border: 3px solid black;
-  display: inline-block;
-  margin-top: 100px;
-  border-radius: 10px;
-}
-
 #error {
-  color: yellow;
+  color: rgb(97, 26, 21);
   font-weight: bold;
   font-size: 20px;
   text-align: center;
+  visibility: hidden;
+  background: rgb(253, 236, 234);
 }
 
-#out {
-  margin: auto;
-  width: 70%;
-  height: 59px;
-  border: 7px solid white;
-  border-radius: 7px;
-}
-#in {
-  width: 1%;
-  height: 44.8px;
-  background: #00e600;
-}
 #loadingMessage {
   margin-top: 130px;
   font-weight: bold;
@@ -268,379 +164,6 @@ html {
   font-size: 17px;
 }
 
-.splitInput {
-  background: rgba(90, 90, 90, 0.466);
-  border: 3px solid rgba(90, 90, 90, 0.466);
-
-  height: 60px;
-  width: 418px;
-  margin: auto;
-  color: white;
-  border-radius: 5px;
-  margin: 11px;
-}
-
-.splitInput::placeholder {
-  color: white;
-}
-
-.submit {
-  background: rgba(90, 90, 90, 0.466);
-  color: white;
-  font-size: 17px;
-  padding: 15px 84px;
-  border: 3px solid white;
-  margin: 10px;
-}
-
-.pictureDisplay {
-  height: 400px;
-  width: 90%;
-  margin: auto;
-  overflow: auto;
-  background: rgba(90, 90, 90, 0.466);
-}
-
-.submit:hover {
-  color: white;
-}
-
-#memeText {
-  width: 96%;
-  color: black;
-  height: 60px;
-  float: left;
-}
-
-#memeText::placeholder {
-  color: black;
-}
-
-#memetextDiv {
-  height: 60px;
-  width: 755px;
-  margin: auto;
-}
-
-@media (max-width: 990px) {
-  #memetextDiv {
-    width: 97%;
-  }
-}
-
-#compressOption {
-  padding: 17px 100px;
-  background: transparent;
-  color: white;
-  border-radius: 5px;
-  margin: 5px;
-
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
-}
-
-#compressOption opiton {
-  color: white;
-  background: rgba(90, 90, 90, 0.466);
-}
-
-.compressImage {
-  height: inherit;
-  width: 400px;
-  display: inline-block;
-  margin: auto;
-}
-
-#outputImage {
-  margin-left: 100px;
-}
-
-.compressImage p {
-  text-align: center;
-  font-size: 30px;
-  color: white;
-}
-
-/* .box .compressTable {
-  border: 3px solid white;
-  width: 100%;
-}
-.box .compressTable tr th,
-td {
-  border: 3px solid white;
-  height: 40px;
-  color: white;
-  text-align: center;
-} */
-/* .box .compressTable tr th {
-  background: black;
-} */
-
-@media (max-width: 541px) {
-  .compressImage {
-    width: 100%;
-  }
-}
-
-#mimetype {
-  padding: 17px 80px;
-  background: transparent;
-  color: white;
-  border-radius: 5px;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
-}
-
-#quality,
-#mimetype {
-  margin: 5px;
-}
-
-#opacityDiv {
-  height: 60px;
-  width: 400px;
-  margin: auto;
-}
-
-#memeStyle {
-  width: 250px;
-  height: 60px;
-  color: white;
-
-  margin: 10px;
-}
-#memeStyle option {
-  color: black;
-}
-#opacityText {
-  color: white;
-  font-size: 23px;
-  text-align: center;
-  font-weight: bold;
-}
-
-.sDiv {
-  height: 60px;
-  width: 268px;
-  margin: auto;
-  display: inline-block;
-  margin: 5px;
-}
-#memeShadow {
-  height: 50px;
-  width: 85%;
-  float: left;
-  color: black;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
-}
-
-#lineHeight {
-  height: 60px;
-  width: 100%;
-  float: left;
-  color: white;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
-}
-#memeStroke {
-  height: 50px;
-  width: 80%;
-  float: left;
-  color: black;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
-}
-#memeShadowColor {
-  height: 50px;
-  width: 15%;
-  float: left;
-}
-
-#memeStrokeColor {
-  height: 50px;
-  width: 20%;
-  float: left;
-}
-#memeStroke::placeholder {
-  color: black;
-}
-#memeShadow::placeholder {
-  color: black;
-}
-
-#textInput,
-#imageInput {
-  padding: 10px 20px;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: #353535;
-  color: white;
-  margin: 10px;
-}
-
-#fontSize {
-  height: 50px;
-  width: 234px;
-  margin: auto;
-  color: black;
-  border-radius: 5px;
-}
-
-#fontSize::placeholder {
-  color: black;
-}
-
-.styleButtons {
-  font-weight: bold;
-  height: 50px;
-  width: 42px;
-  display: inline-block;
-  border-radius: 5px;
-  background: #ffc107;
-}
-.styleButtons p {
-  color: black;
-  font-size: 20px;
-  margin-top: 10px;
-}
-
-.dimensions {
-  height: 60px;
-  width: 300px;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: rgba(90, 90, 90, 0.466);
-  border-radius: 5px;
-  margin: 5px;
-  color: white;
-  display: inline-block;
-}
-.dimensions::placeholder {
-  color: white;
-}
-
-#memeOpacity {
-  height: 50px;
-  color: black;
-  width: 202px;
-  border-radius: 5px;
-  cursor: pointer;
-  margin-left: 14px;
-}
-#memefontFamily {
-  height: 50px;
-  color: black;
-  cursor: pointer;
-
-  width: 207px;
-  border-radius: 5px;
-}
-#bgColor {
-  width: 100%;
-  height: 50px;
-}
-
-#bgDiv {
-  margin: auto;
-  height: 80px;
-  width: 620px;
-}
-
-#bgDiv p {
-  color: white;
-  text-align: center;
-  font-size: 25px;
-}
-#textDiv {
-  margin: auto;
-  width: 700px;
-  height: auto;
-}
-
-@media (max-width: 845px) {
-  #textDiv {
-    width: 90%;
-  }
-}
-
-#memeTextColor {
-  position: absolute;
-  left: auto;
-  margin-left: -48px;
-  height: 60px;
-  width: 64px;
-}
-
-#secondInput {
-  visibility: hidden;
-}
-
-#msg {
-  text-align: center;
-  color: yellow;
-  font-size: 20px;
-}
-
-.sizing a {
-  border: 3px solid white;
-  border: 3px solid white;
-  padding: 11px 58px;
-  margin: 13px;
-  color: white;
-  border: 3px solid rgba(90, 90, 90, 0.466);
-  background: 3px solid white;
-}
-.sizing input {
-  color: white;
-}
-
-.sizing a :hover {
-  color: white;
-}
-
-#height::placeholder {
-  color: white;
-}
-#width::placeholder {
-  color: white;
-}
-
-#saving {
-  height: 80px;
-  width: 80px;
-  border-radius: 5px;
-  border: 2px solid white;
-  background: white;
-  margin: auto;
-}
-
-#saving img {
-  margin-top: 13px;
-}
-
-@media (max-width: 1007px) {
-  #shadowDiv,
-  #strokeDiv {
-    margin: auto;
-    margin-top: 10px;
-  }
-  #strokeDiv {
-    width: 100%;
-  }
-  #shadowDiv {
-    width: 56%;
-  }
-  #strokeDiv input[type='number'],
-  #meme_shadow {
-    width: 88%;
-    margin-left: -55px;
-  }
-  #strokeDiv input[type='color'],
-  #meme_shadow_color {
-    position: absolute;
-  }
-}
 .file-pick-dropdown {
   display: inline-flex;
   background: #fff;
@@ -651,6 +174,7 @@ td {
   border-bottom-right-radius: 4px;
   align-items: center;
   position: relative;
+  margin-top: -14px;
 }
 .file-pick-dropdown i {
   margin: 0;
@@ -691,4 +215,70 @@ td {
 }
 #downloadButton svg {
   height: 25px;
+}
+
+.container2 {
+  width: 100%;
+  height: 300px;
+  margin: auto;
+}
+#upload_img {
+  margin: auto;
+  margin-top: 16px;
+  height: 67px;
+  width: 98px;
+}
+
+@media (max-width: 387px) {
+  #inp {
+    width: 90%;
+  }
+}
+#saving {
+  height: 59px;
+  width: 209px;
+  border: 3px solid white;
+  background: rgba(90, 90, 90, 0.466);
+}
+
+.submit {
+  padding: 14px 84px;
+  margin-left: -1px;
+}
+
+@media (max-width: 592px) {
+  .splitInput {
+    width: 80%;
+  }
+}
+@media (max-width: 506px) {
+  #saving {
+    margin-right: 13px;
+  }
+}
+
+#splitList {
+  height: auto;
+  width: 80%;
+  margin: auto;
+  overflow: auto;
+  margin-top: 45px;
+}
+#splitList ol li {
+  color: white;
+}
+#splitList ol {
+  float: left;
+}
+#splitList canvas {
+  height: auto;
+  width: auto;
+  max-height: 300px;
+  max-width: 100%;
+}
+
+.splitBtn {
+  margin: 15px;
+  padding: 11px 18px;
+  width: 155px;
 }

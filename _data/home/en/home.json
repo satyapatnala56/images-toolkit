@@ -11,113 +11,113 @@
       "name": "ASCII image generator ",
       "description": "Converts image into Ascii art",
       "color": "#6666ff",
-      "icon": "/img/ascii.png",
+      "icon": "/img/home/ascii.png",
       "url": "/ascii-art-from-image"
     },
     {
       "name": "Image Compression ",
       "description": "Compresses image",
       "color": "#ad81ee",
-      "icon": "/img/compressimage.png",
+      "icon": "/img/home/compressimg.png",
       "url": "/compress-an-image"
     },
     {
       "name": "Image Splitter ",
       "description": "Splits image",
       "color": "#ff6666",
-      "icon": "/img/split.png",
+      "icon": "/img/home/split.png",
       "url": "/split-photo"
     },
     {
       "name": "Jpeg Compression ",
       "description": "Compresses jpeg image",
       "color": "#33cccc",
-      "icon": "/img/compressjpeg.png",
+      "icon": "/img/home/compressjpeg.png",
       "url": "/compress-jpeg"
     },
     {
       "name": "Png Compression ",
       "description": "Compresses png image",
       "color": "#66b3ff",
-      "icon": "/img/compresspng.png",
+      "icon": "/img/home/compresspng.png",
       "url": "/compress-png"
     },
     {
       "name": "Gif Compression ",
       "description": "Compresses gif image",
       "color": "#ff9966",
-      "icon": "/img/compressgif.png",
+      "icon": "/img/home/compressgif.png",
       "url": "/compress-a-gif"
     },
     {
       "name": "Image comparison",
       "description": "Compares two images",
-      "color": "#ff884d",
-      "icon": "/img/compare.png",
+      "color": "#00b8e6",
+      "icon": "/img/home/compare.png",
       "url": "/image-comparison"
     },
     {
       "name": "Image cropper",
       "description": "Crops image",
       "color": "#ff704d",
-      "icon": "/img/crop.png",
+      "icon": "/img/home/crop.png",
       "url": "/crop-image"
     },
     {
       "name": "Image Filter Adder",
       "description": "Add filters to an image",
       "color": "#00b8e6",
-      "icon": "/img/filter.png",
+      "icon": "/img/home/filter.png",
       "url": "/photo-filters"
     },
 
     {
       "name": "Meme generator",
       "description": "Generates meme",
-      "color": "#5cd65c",
-      "icon": "/img/meme.png",
+      "color": "#6666ff",
+      "icon": "/img/home/meme.png",
       "url": "/meme-generator"
     },
     {
       "name": "Text to image converter",
       "description": "Converts text into image",
-      "color": "#d24dff",
-      "icon": "/img/texttoimage.png",
+      "color": "#ff8533",
+      "icon": "/img/home/texttoimage.png",
       "url": "/text-to-image-converter"
     },
     {
       "name": "Image Flipper",
       "description": "Flips/Rotates image",
       "color": "#9999ff",
-      "icon": "/img/rotate.png",
+      "icon": "/img/home/rotate.png",
       "url": "/flip-image"
     },
     {
       "name": "Image Resizer",
       "description": "Changes size image",
       "color": "#ffbb33",
-      "icon": "/img/resize.png",
+      "icon": "/img/home/resize.png",
       "url": "/image-resize"
     },
     {
       "name": "Watermark image maker",
       "description": "Creates watermark images",
       "color": "red",
-      "icon": "/img/watermark.png",
+      "icon": "/img/home/watermark.png",
       "url": "/watermark-for-photos"
     },
     {
       "name": " QR Code Generator",
       "description": "Generates Qr code",
-      "color": "#ff8533",
-      "icon": "/img/qr.png",
+      "color": "#d24dff",
+      "icon": "/img/home/qr-code.png",
       "url": "/qr-code-generator"
     },
     {
       "name": " Image to pixelate image converter",
       "description": "Converts image into Pixel art",
-      "color": "#e6e600",
-      "icon": "/img/pixel.png",
+      "color": "#ff5975",
+      "icon": "/img/home/pixelated.png",
       "url": "/pixel-art-maker"
     }
   ]

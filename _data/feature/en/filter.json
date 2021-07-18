@@ -17,37 +17,37 @@
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
-      "logoUrl": "/assets/bulb.svg",
+      "logoUrl": "/img/featureproperty/highquality.png",
       "header": "High Quality",
       "content": "Our photo filter tool adds filters to the photos by retaining its quality."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/guaranty.svg",
+      "logoUrl": "/img/featureproperty/security.png",
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/support.svg",
+      "logoUrl": "/img/featureproperty/flexible.png",
       "header": "Flexibilty",
       "content": " Our photo filter tool works on almost all kinds of browsers and devices."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/protect.svg",
+      "logoUrl": "/img/featureproperty/userfriendly.png",
       "header": "User friendly",
       "content": "Our photo filter tool is very easy to understand no professional is needed to work on our tool."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/easy.svg",
+      "logoUrl": "/img/featureproperty/free.png",
       "header": "Free of cost",
       "content": "Our photo filter tool is completely free of cost, you can use all our tools without paying a single penny"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/cloud.svg",
+      "logoUrl": "/img/featureproperty/nodownload.png",
       "header": "No additional download",
       "content": "Our photo filter tool is completely browser based and no additional software is required to be downloaded on your device."
     }
