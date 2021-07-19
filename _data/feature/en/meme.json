@@ -8,58 +8,48 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "success",
-  "data": {
-    "total": 0,
-    "_id": "608c89bb614e470009fad86b",
-    "website": "safeimagekit",
-    "feature": "Meme generator",
-    "ratings": [
 
-    ],
-    "created": "2021-04-30T22:50:35.100Z",
-    "__v": 0
-  },
   "H2": "Online meme maker has been made easy with us, start by uploading your file below",
   "TITLE": "Meme generator- online meme maker- safeimagekit",
   "META": "Are you looking for a high-quality meme generator? Well, then you are at the right place. Our online meme maker tool is extremely safe, user-friendly, and super quick.",
   "width": "",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
-  "color": "#5cd65c",
+  "color": "#7961f2",
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
-      "logoUrl": "/assets/bulb.svg",
+      "logoUrl": "/img/featureproperty/highquality.png",
       "header": "High Quality",
       "content": "Our meme generator tool generates meme that are of very high quality."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/guaranty.svg",
+      "logoUrl": "/img/featureproperty/security.png",
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/support.svg",
+      "logoUrl": "/img/featureproperty/flexible.png",
       "header": "Flexibilty",
       "content": " Our  meme generator tool works on almost all kinds of browsers and devices."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/protect.svg",
+      "logoUrl": "/img/featureproperty/userfriendly.png",
       "header": "User friendly",
       "content": "Our meme generator tool is very easy to understand no professional is needed to work on our tool."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/easy.svg",
+      "logoUrl": "/img/featureproperty/free.png",
       "header": "Free of cost",
       "content": "Our  meme generator tool is completely free of cost, you can use all our tools without paying a single penny"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/cloud.svg",
+      "logoUrl": "/img/featureproperty/nodownload.png",
       "header": "No additional download",
       "content": "Our  meme generator tool is completely browser based and no additional software is required to be downloaded on your device."
     }
@@ -136,6 +126,7 @@
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/meme.js\"></script>"
   ],
   "csscdns": [
-    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"css/meme.css\" />"
   ]
 }

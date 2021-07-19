@@ -8,15 +8,7 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "primary",
-  "data": {
-    "total": 0,
-    "_id": "608fd439b3e10a0009083f81",
-    "website": "safeimagekit",
-    "feature": "pngcompression",
-    "ratings": [],
-    "created": "2021-05-03T10:45:13.383Z",
-    "__v": 0
-  },
+
   "H2": "PNG compression has been made easy with us, start by uploading your file below",
   "TITLE": "PNG compressor- PNG compressor online- safeimagekit",
   "META": "Are you looking for a high-quality PNG compressor? Well, then you are at the right place. Our online PNG compressor tool is extremely safe, user-friendly, and super quick.",
@@ -26,37 +18,37 @@
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
-      "logoUrl": "/assets/bulb.svg",
+      "logoUrl": "/img/featureproperty/highquality.png",
       "header": "High Quality",
       "content": "Our PNG compresssion tool compresses the images by retaining its quality."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/guaranty.svg",
+      "logoUrl": "/img/featureproperty/security.png",
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/support.svg",
+      "logoUrl": "/img/featureproperty/flexible.png",
       "header": "Flexibilty",
       "content": " Our PNG compresssion tool works on almost all kinds of browsers and devices."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/protect.svg",
+      "logoUrl": "/img/featureproperty/userfriendly.png",
       "header": "User friendly",
       "content": "Our PNG compresssion tool is very easy to understand no professional is needed to work on our tool."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/easy.svg",
+      "logoUrl": "/img/featureproperty/free.png",
       "header": "Free of cost",
       "content": "Our PNG compresssion tool is completely free of cost, you can use all our tools without paying a single penny"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/cloud.svg",
+      "logoUrl": "/img/featureproperty/nodownload.png",
       "header": "No additional download",
       "content": "Our PNG compresssion tool is completely browser based and no additional software is required to be downloaded on your device."
     }
@@ -141,7 +133,5 @@
     "<link rel=\"stylesheet\" href=\"css/compress.css\" />"
   ],
   "filelang": "en",
-  "display_formats": [
-    "png"
-  ]
+  "display_formats": ["png"]
 }

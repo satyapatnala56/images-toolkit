@@ -1,14 +1,14 @@
 {
   "Language": "English",
   "htmlLangAtt": "en",
-  "H1": "Image Comparison",
+  "h1": "<img src='/img/compare.png' style='height:40px;width:40px;margin-right:10px'>Image Comparison",
   "img": "/img/compare.png",
   "imgwidth": "35px",
   "imgheight": "35px",
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "warning",
-  "H2": "Image comparision has been made easy with us, start by uploading your file below",
+  "h2": "Image comparision has been made easy with us, start by uploading your file below",
   "TITLE": "Image comparision- comparing pictures- safeimagekit",
   "META": "Are you looking for a high-quality tool for image comparision? Well, then you are at the right place. Our online image comparision tool is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
@@ -17,37 +17,37 @@
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
-      "logoUrl": "/assets/bulb.svg",
+      "logoUrl": "/img/featureproperty/highquality.png",
       "header": "High Quality",
       "content": "Our Image comparision tool tells the image differences with utmost accuracy."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/guaranty.svg",
+      "logoUrl": "/img/featureproperty/security.png",
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/support.svg",
+      "logoUrl": "/img/featureproperty/flexible.png",
       "header": "Flexibilty",
       "content": " Our image comparison tool works on almost all kinds of browsers and devices."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/protect.svg",
+      "logoUrl": "/img/featureproperty/userfriendly.png",
       "header": "User friendly",
       "content": "Our image comparison tool is very easy to understand no professional is needed to work on our tool."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/easy.svg",
+      "logoUrl": "/img/featureproperty/free.png",
       "header": "Free of cost",
       "content": "Our image comparison tool is completely free of cost, you can use all our tools without paying a single penny"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/cloud.svg",
+      "logoUrl": "/img/featureproperty/nodownload.png",
       "header": "No additional download",
       "content": "Our image comparison tool is completely browser based and no additional software is required to be downloaded on your device."
     }
@@ -129,16 +129,12 @@
   "jscdns": [
     "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src=\"js/imgDiff.js\"></script>",
-    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/compare.js\"></script>"
+    "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/compare.js\"></script>"
   ],
   "csscdns": [
-    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"css/compare.css\" />"
   ],
   "filelang": "en",
-  "display_formats": [
-    "jpg",
-    "jpeg",
-    "png",
-    "webp"
-  ]
+  "display_formats": ["jpg", "jpeg", "png", "webp"]
 }
