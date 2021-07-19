@@ -1,64 +1,54 @@
 {
   "Language": "English",
   "htmlLangAtt": "en",
-  "H1": "Image to pixel art converter",
+  "h1": "Image to pixel art converter",
   "img": "/img/pixel.png",
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "primary",
-  "data": {
-    "total": 0,
-    "_id": "608fd5820b38cc0009a2bee4",
-    "website": "safeimagekit",
-    "feature": "pixel",
-    "ratings": [
 
-    ],
-    "created": "2021-05-03T10:50:42.778Z",
-    "__v": 0
-  },
-  "H2": "Image to pixel art conversion has been made easy with us, start by uploading your file below",
+  "h2": "Image to pixel art conversion has been made easy with us, start by uploading your file below",
   "TITLE": "Image to pixel art- pixel art maker- safeimagekit",
   "META": "Are you looking for a high-quality image to pixel art converter? Well, then you are at the right place. Our online pixel art maker is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
-  "color": "#cc66ff",
+  "color": "#ff5975",
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
-      "logoUrl": "/assets/bulb.svg",
+      "logoUrl": "/img/featureproperty/highquality.png",
       "header": "High Quality",
       "content": "Our image to pixel art conversion tool converts the images into pixel art by retaining its quality."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/guaranty.svg",
+      "logoUrl": "/img/featureproperty/security.png",
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/support.svg",
+      "logoUrl": "/img/featureproperty/flexible.png",
       "header": "Flexibilty",
       "content": " Our image to pixel art conversion tool works on almost all kinds of browsers and devices."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/protect.svg",
+      "logoUrl": "/img/featureproperty/userfriendly.png",
       "header": "User friendly",
       "content": "Our image to pixel art conversion tool is very easy to understand no professional is needed to work on our tool."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/easy.svg",
+      "logoUrl": "/img/featureproperty/free.png",
       "header": "Free of cost",
       "content": "Our image to pixel art conversion tool is completely free of cost, you can use all our tools without paying a single penny"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/cloud.svg",
+      "logoUrl": "/img/featureproperty/nodownload.png",
       "header": "No additional download",
       "content": "Our image to pixel art conversion tool is completely browser based and no additional software is required to be downloaded on your device."
     }
@@ -145,6 +135,7 @@
   ],
   "csscdns": [
     "<script src=\"/assets/js/googledrive.js\"></script>",
-    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"css/pixel.css\" />"
   ]
 }

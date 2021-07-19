@@ -1,209 +1,212 @@
 .container2 {
   height: 300px;
   width: 100%;
-  margin: auto;
-  cursor: pointer;
-  padding-bottom: 46px;
 }
-
-#leftDiv {
-  height: 734px;
-  float: left;
-  width: 30%;
+.main_divs {
+  height: 600px;
   border-radius: 5px;
-  margin-top: 30px;
 }
 
-#rightDiv {
+.options_div {
+  width: 31%;
+  float: left;
+  height: 735px;
+  border: 2px solid rgba(0, 0, 0, 0.125);
+}
+.output_div {
+  width: 66.5%;
+  height: 736px;
   float: right;
-  width: 69%;
-  height: 639px;
-  border-radius: 5px;
-  margin-top: 49px;
 }
-.Cbuttons {
-  height: 45px;
-  width: 45%;
-  border: 3px solid white;
-  display: inline-block;
-  margin: 2px;
-  margin-top: 22px;
-  border-radius: 5px;
+.option_subdivs {
+  width: 100%;
 }
-.Num {
-  margin-top: 14px;
-  height: 50px;
-  width: 280px;
-  outline: none;
-  border-radius: 5px;
-}
-.Cbuttons p {
-  margin-top: 9px;
+.top_div {
+  height: 55px;
   font-weight: bold;
-  color: white;
+  padding-left: 14px;
+  font-size: 26px;
+  padding-top: 6px;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.125);
 }
-.result_box {
-  border: 1px solid white;
-  height: 47.5%;
+.bottom_div {
+  height: 631px;
+}
+.checkbox_input {
+  height: 40px;
+  width: 55px;
+}
+.bottom_div_inner {
+  width: 100%;
+  padding-left: 16px;
+  margin: auto;
+  padding-right: 16px;
+  padding-top: 12px;
+  height: inherit;
+}
+.checkbox_input p {
+  float: right;
+  font-weight: 400;
+  color: black;
+  font-size: 1rem;
+}
+#Check_orientation {
+  width: 141px;
+}
+.text_input {
+  height: 40px;
+  margin-top: 17px;
+  padding-right: 4px;
+}
+.text_input p {
+  color: #212529;
+  margin-top: 6px;
+  font-weight: 400;
+  font-size: 1rem;
+}
+.text_input input,
+.text_input select {
+  float: right;
+  margin-top: -44.5px;
+  height: 39px;
+  border-radius: 0.25rem;
+  color: #495057;
+  background: #fff;
+  border: 1px solid #ced4da;
+  width: 170px;
+}
+.img_div {
+  width: 100%;
+  height: 360px;
+  border: 2px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
 }
 
-#second_result_box {
-  margin-top: 22px;
+.output_img_div {
+  margin-top: 27px;
+}
+.header_div {
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+  height: 50px;
+  width: 100%;
+  font-weight: bold;
+  font-size: 22px;
+  padding-top: 6px;
+  padding-left: 15px;
+}
+.header_div button {
+  height: 49px;
+  margin-top: -6px;
+}
+.header_div button:hover {
+  font-weight: bold;
+}
+.section_div {
+  width: 100%;
+  height: 86%;
 }
 
-.result_div_inner {
+.image_section,
+.info_section {
   height: 100%;
-  width: 50%;
-  border: 1px solid white;
-  padding: 10px;
 }
-#img_div_one,
-#img_div_two {
+
+.image_section {
+  width: 35%;
   float: left;
-  padding-top: 40px;
   display: grid;
   justify-content: center;
-  padding-bottom: 40px;
   align-content: center;
 }
-#img_div_one img,
-#img_div_two img {
-  max-height: 200px;
+.image_section img {
+  max-height: 130px;
+  max-width: 87%;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-#info_div_one,
-#info_div_two {
+.info_section {
+  width: 65%;
+  padding: 25px;
   float: right;
+  padding-top: 9px;
 }
-
-@media (max-width: 1175px) {
-  .Num {
-    width: 95%;
-  }
-}
-#main_row {
+.info_table {
   width: 100%;
-  margin: auto;
 }
-#save {
-  width: 192px;
-  height: 45px;
-  margin-top: -64px;
-  float: right;
-  border-radius: 5px;
+.info_table tr td {
+  height: 50px;
+  font-size: 18px;
+}
+.info_table tr .tdheading {
   font-weight: bold;
-  font-size: 20px;
+}
+.info_table tr .tdvalue {
+  width: 56%;
+}
+#upload_img {
+  margin: auto;
+  margin-top: 16px;
+  height: 67px;
+  width: 98px;
 }
 
-@media (max-width: 929px) {
-  #leftDiv {
+@media (max-width: 1056px) {
+  .info_section {
+    padding-left: 60px;
+  }
+  .options_div,
+  .output_div {
+    width: 100%;
     height: auto;
-    float: none;
-    width: 94%;
-    margin: auto;
   }
-  #rightDiv {
-    float: none;
-    width: 94%;
-    margin: auto;
-    margin-top: 75px;
+  .img_div {
+    height: 700px;
   }
-  #main_row {
+  .output_div {
+    margin-top: 25px;
+  }
+  .bottom_div {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .text_input input,
+  .text_input select {
+    width: 60%;
+  }
+  .section_div .info_section,
+  .section_div .image_section {
     width: 100%;
-    margin: auto;
-    margin-top: -30px;
-  }
-  #save {
-    width: 100%;
-    height: 60px;
-    margin-top: -49px;
-    border-radius: 5px;
-    font-weight: bold;
-    float: none;
-    font-size: 25px;
-  }
-  #rightDiv {
-    margin-top: 29px;
-  }
-}
-
-#compress_strict,
-#orientation {
-  visibility: hidden;
-}
-@media (max-width: 929px) {
-  .Num {
-    width: 47%;
-    margin: 5px;
-    margin-top: 10px;
-  }
-  .Cbuttons {
-    width: 154px;
-    margin: 11px;
-    margin-top: 22px;
-  }
-}
-
-@media (max-width: 722px) {
-  .Num {
-    width: 75%;
-  }
-}
-@media (max-width: 799px) {
-  .resultImg {
-    width: 100%;
-    /* height: auto; */
-  }
-  .resultText {
-    width: 100%;
-    /* height: auto; */
+    height: 55%;
   }
 }
 @media (max-width: 626px) {
-  .Num {
-    width: 90%;
-  }
-}
-@media (max-width: 442px) {
-  .Num {
-    width: 100%;
+  .bottom_div {
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 
-@media (max-width: 546px) {
-  #orientationBtn {
-    margin-top: 2px;
+@media (max-width: 570px) {
+  .bottom_div {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .info_table tr td {
+    height: 50px;
+    font-size: 16px;
   }
 }
-@media (max-width: 448px) {
-  #leftDiv,
-  #rightDiv {
-    width: 95%;
-  }
-  .Num {
-    margin: auto;
-    margin-top: 14px;
+@media (max-width: 474px) {
+  .info_table tr td {
+    height: 50px;
+    font-size: 13px;
   }
 }
-
-.resultHeading {
-  color: white;
-  margin-top: 10px;
-}
-
-.resultValue {
-  color: yellow;
-  margin-top: -10px;
-}
-
-#save_btnn {
-  height: 60px;
-  width: 100%;
-  margin-top: -64px;
-}
-#save_btnn a {
-  float: right;
-  height: 44px;
-  padding-top: 8px;
-  width: 155px;
+@media (max-width: 400px) {
+  .info_section {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
 }

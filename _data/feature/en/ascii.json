@@ -13,15 +13,7 @@
   "META": "Are you looking for a high-quality image to ascii art generator? Well, then you are at the right place. Our online ascii art generator tool is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
-  "data": {
-    "total": 0,
-    "_id": "608fd7c2b3e10a0009083f82",
-    "website": "safeimagekit",
-    "feature": "ascii",
-    "ratings": [],
-    "created": "2021-05-03T11:00:18.272Z",
-    "__v": 0
-  },
+
   "color": "#6666ff",
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
@@ -36,37 +28,37 @@
   "TEXTUAL_CONTENT": [
     {
       "priority": 1,
-      "logoUrl": "/assets/bulb.svg",
+      "logoUrl": "/img/featureproperty/highquality.png",
       "header": "High Quality",
       "content": "Our picture to ascii conversion tool converts pictures to ascii format by retaining its quality."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/guaranty.svg",
+      "logoUrl": "/img/featureproperty/security.png",
       "header": "Data Security",
       "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/support.svg",
+      "logoUrl": "/img/featureproperty/flexible.png",
       "header": "Flexibilty",
       "content": " Our picture to ascii conversion tool works on almost all kinds of browsers and devices."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/protect.svg",
+      "logoUrl": "/img/featureproperty/userfriendly.png",
       "header": "User friendly",
       "content": "Our picture to ascii conversion tool is very easy to understand no professional is needed to work on our tool."
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/easy.svg",
+      "logoUrl": "/img/featureproperty/free.png",
       "header": "Free of cost",
       "content": "Our picture to ascii conversion tool is completely free of cost, you can use all our tools without paying a single penny"
     },
     {
       "priority": 1,
-      "logoUrl": "/assets/cloud.svg",
+      "logoUrl": "/img/featureproperty/nodownload.png",
       "header": "No additional download",
       "content": "Our picture to ascii conversion tool is completely browser based and no additional software is required to be downloaded on your device."
     }
@@ -143,7 +135,5 @@
     "<script src=\"js/ascii/src/ascii.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/ascii.js\"></script>"
   ],
-  "csscdns": [
-    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
-  ]
+  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
 }

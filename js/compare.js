@@ -1,228 +1,269 @@
-var container = document.querySelector('.container2')
-var inputbox = document.querySelector('#inputbox')
-var content = document.querySelector('#content')
-var file = document.querySelector('#file')
-var box = document.querySelector('.box')
-var input
-var boxContainer = document.querySelector('.container2')
-const gdrive = document.querySelector('#filepicker')
-const getFile = (file) => {
-  onFileChange(file)
-}
-const showLoader = () => {
-  document.querySelector('#inputbox').style.display = 'none'
-  var loaderbox = document.createElement('div')
-  loaderbox.id = 'loader-box'
-  var mainDiv = document.querySelector('#loaderDiv .col')
-  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
-  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
-  document.querySelector('#loadingMessage').innerHTML =
-    'Please Wait ,Loading Your file '
-}
-const closeLoader = () => {
-  document.querySelector('#loader-box').style.display = 'none'
-  document.querySelector('#inputbox').style.display = 'block'
-}
-const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
-const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
-gdrive.addEventListener(
-  'click',
-  (getFile, mimeTypes, showLoader, closeLoader) => {
-    const data = loadPicker()
-  }
-)
-const getDropBoxFile = (file) => {
-  onFileChange(file)
-}
-const dropbox = document.getElementById('dropbox')
-dropbox.addEventListener(
-  'click',
-  async (getDropBoxFile, showLoader, closeLoader) => {
-    const getFile = chooseFromDropbox()
-  }
-)
-boxContainer.ondrop = (e) => {
-  e.preventDefault()
-  onFileDrop(e.dataTransfer.files[0])
-}
-/////drag and drop event
-container.ondragover = function (e) {
-  e.preventDefault()
-}
-const onFileDrop = (file) => {
-  input = file
-  var extension = input.name.replace(/^.*\./, '')
-  if (
-    extension == 'webp' ||
-    extension == 'jpg' ||
-    extension == 'jpeg' ||
-    extension == 'png'
-  ) {
-    $('.container2 #file').remove()
-
-    imgComparison()
-  } else {
-    document.querySelector('.box').style.height = '350px'
-    document.querySelector('#error').innerHTML = 'File format not supported'
-  }
-}
-
-////input button event
-const fileOnChange = () => {
-  $('.container2 #file').remove()
-  input = file.files[0]
-  imgComparison()
-}
-const onFileChange = (file) => {
-  $('.container2 #file').remove()
-  input = file
-  imgComparison()
-}
-
-function imgComparison() {
-  document.querySelector('#inputbox').style.display = 'none'
-  document.querySelector('#secondInput').style.visibility = 'visible'
-  var reader = new FileReader()
-  reader.onload = function () {
-    var r1 = reader.result
-    var file2 = document.querySelector('#file2')
-    file2.onchange = function () {
-      //////
-      document.querySelector('#secondInput').style.display = 'none'
-
-      var loaderbox = document.createElement('div')
-      loaderbox.id = 'loader-box'
-      var mainDiv = document.querySelector('#loaderDiv .col')
-      mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
-
-      document.querySelector('#loader').innerHTML =
-        '<p id="loadingMessage"></p>'
-      document.querySelector('#loadingMessage').innerHTML =
-        'Please Wait ,Loading Your file '
-      var count = 0
-      var ans = setInterval(function () {
-        count = count + 20
-        document.querySelector('#upper-loader').style.width = count + '%'
-        if (count >= 110) {
-          document.querySelector('#upper-loader').style.display = 'none'
-          document.querySelector('#loaderDiv').style.display = 'none'
-          document.querySelector('#loader-box').style.display = 'none'
-          document.querySelector('#content').style.visibility = 'visible'
-          document.querySelector('.box').style.height = 'auto'
-          document.querySelector('.container2').style.height = 'auto'
-
-          document.querySelector('.box').style.background = '#353535'
-
-          clearInterval(ans)
+$(document).ready(function () {
+  var file1, file2;
+  var second_container_activation = "";
+  var input1_selectors = {
+    box: "#box1",
+    container: "#first_container",
+    boxborder: "#box-border-1",
+    imgdiv: "img_div",
+    inputimg: "input_img",
+  };
+  var input2_selectors = {
+    box: "#box2",
+    container: "#second_container",
+    boxborder: "#box-border-2",
+    imgdiv: "img_div2",
+    inputimg: "input_img2",
+  };
+  function drag_drop_error_checking(file, error_selector) {
+    var extension = file.name.replace(/^.*\./, "");
+    if (
+      extension == "webp" ||
+      extension == "png" ||
+      extension == "jpg" ||
+      extension == "jpeg"
+    ) {
+      if (error_selector == ".error2") {
+        if (second_container_activation == "file_one_uploaded") {
+          input_operation(file, input2_selectors, 0);
+          $(".comparison_input").css({ opacity: 0.2 });
+          $("#loading_id").css({ visibility: "visible" });
+          setTimeout(comparison_operation, 3000);
+        } else {
+          $(error_selector).css({
+            "padding-top": "10px",
+            "padding-bottom": "10px",
+          });
+          $(error_selector).html("Upload first file");
         }
-      }, 1000)
-
-      var reader2 = new FileReader()
-      reader2.onload = function () {
-        var r2 = reader2.result
-        //////fade effect
-        document.querySelector('#fade').onclick = function () {
-          document.querySelector('#msg').innerHTML =
-            'Fade effect based comparison'
-
-          document.querySelector('#cResult').innerHTML =
-            ' <div class="pictureDisplay" style="width: 90%;margin-top:134px"> <div id="back" style="margin-top:px"> <img src="' +
-            r2 +
-            '" alt="" style="height: auto; width: 100%; max-height: 500px; opacity: 0.6" /> </div> </div>; '
-          document.querySelector('#back').style.backgroundImage =
-            "url('" + r1 + "')"
-        }
-
-        //////pixel comparison effect
-        document.querySelector('#pixel').onclick = function () {
-          document.querySelector('#msg').innerHTML = 'Pixel based comparison'
-          document.querySelector('#cResult').innerHTML = "<img id='pt'>"
-          ////////////////////////////////
-          var img = new Image()
-          img.onload = function () {
-            var img2 = new Image()
-            img2.onload = function () {
-              diff = imagediff.diff(img, img2)
-              canvas = imagediff.createCanvas(diff.width, diff.height)
-              context = canvas.getContext('2d')
-              context.putImageData(diff, 0, 0)
-              var url = canvas.toDataURL()
-              var img3 = document.querySelector('#pt')
-              img3.onload = function () {
-                img3.style.width = '90%'
-                //   // var a = document.createElement("a");
-                //   // a.href = url;
-                //   // a.download = "download";
-                //   // a.click();
-              }
-              img3.src = url
-            }
-            img2.src = reader2.result
-          }
-          img.src = reader.result
-        }
-        document.querySelector('#info').onclick = function () {
-          document.querySelector('#msg').innerHTML = 'Info based comparison'
-
-          var img = new Image()
-          img.onload = function () {
-            var img2 = new Image()
-            img2.onload = function () {
-              document.querySelector('#cResult').innerHTML =
-                ' <div style="width: 100%; height: 500px"> <div class="tableDiv"> <table id="table1" class="table"> <tr> <th>Property</th> <th>Value</th> </tr> <tr> <td>Name</td> <td>' +
-                input.name +
-                '</td> </tr> <tr> <td>Size</td> <td>' +
-                parseInt(file.size) / 1000 +
-                'kb</td> </tr> <tr> <td>Type</td> <td>' +
-                file.type +
-                '</td> </tr> <tr> <td>Height</td> <td>' +
-                img.height +
-                'px' +
-                '</td> </tr> <tr> <td>Width</td> <td>' +
-                img.width +
-                'px' +
-                '</td> </tr> </table> </div> ' +
-                '<div class="tableDiv"> <table id="table1" class="table"> <tr> <th>Property</th> <th>Value</th> </tr> <tr> <td>Name</td> <td>' +
-                file2.files[0].name +
-                '</td> </tr> <tr> <td>Size</td> <td>' +
-                parseInt(file2.files[0].size) / 1000 +
-                'kb</td> </tr> <tr> <td>Type</td> <td>' +
-                file2.files[0].type +
-                '</td> </tr> <tr> <td>Height</td> <td>' +
-                img2.height +
-                'px</td> </tr> <tr> <td>Width</td> <td>' +
-                img2.width +
-                'px</td> </tr> </table> </div></div>'
-            }
-            img2.src = reader2.result
-          }
-          img.src = reader.result
-        }
-
-        document.querySelector('#pixel').click()
-        document.querySelector('#slider').onclick = function () {}
+      } else {
+        input_operation(file, input1_selectors, 0);
+        second_container_activation = "file_one_uploaded";
       }
-      reader2.readAsDataURL(file2.files[0])
+    } else {
+      $(error_selector).css({
+        "padding-top": "10px",
+        "padding-bottom": "10px",
+      });
+      $(error_selector).html("File not supported");
     }
   }
-  reader.readAsDataURL(input)
-}
+  /////drag and drop
+  $("#first_container").on("dragover", function (e) {
+    e.preventDefault();
+  });
 
-document.querySelector('#Inputbox').onclick = function () {
-  document.querySelector('#file').click()
-}
-const showDropDown = document.querySelector('.file-pick-dropdown')
-const icon = document.querySelector('.arrow-sign')
-const dropDown = document.querySelector('.file-picker-dropdown')
-showDropDown.addEventListener('click', () => {
-  addScripts()
-  if (dropDown.style.display !== 'none') {
-    dropDown.style.display = 'none'
-    icon.classList.remove('fa-angle-up')
-    icon.classList.add('fa-angle-down')
-  } else {
-    dropDown.style.display = 'block'
-    icon.classList.remove('fa-angle-down')
-    icon.classList.add('fa-angle-up')
+  $("#first_container").on("drop", function (e) {
+    e.preventDefault();
+    file1 = e.originalEvent.dataTransfer.files[0];
+    drag_drop_error_checking(file1, ".error1");
+  });
+  $("#second_container").on("dragover", function (e) {
+    e.preventDefault();
+  });
+  $("#second_container").on("drop", function (e) {
+    e.preventDefault();
+    file2 = e.originalEvent.dataTransfer.files[0];
+    drag_drop_error_checking(file2, ".error2");
+  });
+  //////on drag and drop end
+
+  /////onchange event
+  $("#Inputbox1").click(function () {
+    $("#file1").click();
+    $("#file1").on("change", function (e) {
+      file1 = e.target.files[0];
+
+      input_operation(file1, input1_selectors, 0);
+    });
+  });
+  $("#Inputbox2").click(function () {
+    $("#file2").click();
+
+    $("#file2").on("change", function (e) {
+      file2 = e.target.files[0];
+
+      input_operation(file2, input2_selectors, 1);
+      $(".comparison_input").css({ opacity: 0.2 });
+      $("#loading_id").css({ visibility: "visible" });
+      setTimeout(comparison_operation, 3000);
+    });
+  });
+
+  /////onchange event end
+  function option_btn_color(id) {
+    $("#fade,#difference,#slide,#split,#detail").css({
+      background: "rgba(230, 230, 230)",
+      color: "black",
+    });
+    $("#" + id).css({
+      background: "#6c757d",
+      color: "white",
+    });
   }
-})
+
+  /////main processing function
+  function comparison_operation() {
+    $("#parent_element").css({ height: "auto" });
+
+    $("#loading_id").remove();
+    $(".comparison_input").css({ display: "none" });
+    $(".content_div").css({ visibility: "visible" });
+    var reader = new FileReader();
+    reader.onload = function () {
+      var url1 = reader.result;
+      var reader2 = new FileReader();
+      reader2.onload = function () {
+        var url2 = reader2.result;
+        $("#first_img").html(file1.name);
+        $("#second_img").html(file2.name);
+
+        $("#split").on("click", function () {
+          option_btn_color("split");
+
+          $(".output_div").css({
+            "background-color": "white",
+            "padding-top": "10px",
+          });
+          $(".output_div").html(
+            '<div class="split_container"> <div class="split_img"><img src="" alt="" id="img1"/></div> <div class="margin_div"></div> <div class="split_img"> <img id="img2" src="" alt="" /> </div> </div>'
+          );
+          $("#img1").attr("src", url1);
+          $("#img2").attr("src", url2);
+        });
+
+        /////fade button
+        $("#fade").click(function () {
+          option_btn_color("fade");
+          $(".output_div").css({
+            "background-color": "rgba(240,240,240)",
+            "padding-top": "20px",
+          });
+          $(".output_div").html(
+            '<div class="fade_container"><img src="" alt=""></div>'
+          );
+          $(".fade_container").css({
+            background: "url(" + url1 + ")",
+            "background-size": "100% 100%",
+            "background-repeat": "no-repeat",
+          });
+          $(".fade_container img").attr("src", url2);
+        });
+        $("#difference").click(function () {
+          option_btn_color("difference");
+
+          $(".output_div").css({
+            "background-color": "rgba(240,240,240)",
+            "padding-top": "20px",
+          });
+          console.log(file1);
+          console.log(file2);
+          var img = new Image();
+          img.onload = function () {
+            var img2 = new Image();
+            img2.onload = function () {
+              var diff = imagediff.diff(img, img2);
+              var canvas = imagediff.createCanvas(diff.width, diff.height);
+              var context = canvas.getContext("2d");
+              context.putImageData(diff, 0, 0);
+              var url = canvas.toDataURL();
+              console.log(url);
+              $(".output_div").html(
+                '<div id="difference_container"><img src="" alt=""></div>'
+              );
+
+              $("#difference_container img").attr("src", url);
+            };
+            img2.src = url2;
+          };
+          img.src = url1;
+        });
+        $("#detail").click(function () {
+          option_btn_color("detail");
+
+          $(".output_div").html(
+            ' <div class="table_container"> <table class="table table1" > <thead class="thead-dark"> <tr> <th scope="col">Property</th> <th scope="col">Value</th> </tr> </thead> <tbody> <tr> <td>Name</td> <td>' +
+              file1.name +
+              "</td> </tr> <tr> <td>Size</td> <td>" +
+              file1.size +
+              "</td> </tr> <tr> <td>Type</td> <td>" +
+              file1.type +
+              "</td> </tr> <tr> <td>Last Modified</td> <td>" +
+              file1.lastModifiedDate +
+              '</td> </tr> </tbody> </table> <table class="table table2" > <thead class="thead-dark"> <tr> <th scope="col">Property</th> <th scope="col">Value</th> </tr> </thead> <tbody> <tr> <td>Name</td> <td>' +
+              file2.name +
+              "</td> </tr> <tr> <td>Size</td> <td>" +
+              file2.size +
+              "</td> </tr> <tr> <td>type</td> <td>" +
+              file2.type +
+              "</td> </tr> <tr> <td>lastModifiedDate</td> <td>" +
+              file2.lastModifiedDate +
+              "</td> </tr> </tbody> </table> </div>"
+          );
+        });
+        $("#slide").click(function () {
+          option_btn_color("slide");
+
+          $(".output_div").html(
+            '<div class="slider_container"> <div class="slider_img_one"> <div class="bar"> <div class="slider_circle"></div> </div> <input type="range" id="slider_range" min="0" max="100" /> <div class="slider_img_two"></div> </div> </div>'
+          );
+          var height = document.querySelector(".slider_container").offsetHeight;
+          var width = document.querySelector(".slider_container").offsetWidth;
+
+          document.querySelector(".slider_img_one").style.background =
+            "url('" + url1 + "') no-repeat";
+          document.querySelector(".slider_img_two").style.background =
+            "url('" + url2 + "') no-repeat";
+
+          document.querySelector(".slider_img_one").style.backgroundSize =
+            width + "px" + " " + height + "px";
+          document.querySelector(".slider_img_two").style.backgroundSize =
+            width + "px" + " " + height + "px";
+
+          $("#slider_range").on("input", function () {
+            $(".slider_img_two").css({
+              width: $("#slider_range").val() + "%",
+            });
+            $(".bar").css({
+              "margin-left": $("#slider_range").val() + "%",
+            });
+            $(".slider_circle").css({
+              "margin-left": $("#slider_range").val() + "%",
+            });
+          });
+        });
+        $("#slide").click();
+      };
+      reader2.readAsDataURL(file2);
+    };
+    reader.readAsDataURL(file1);
+  }
+
+  function input_operation(file, selector_arr, input_flag) {
+    $(selector_arr.container).css({ height: "auto" });
+
+    $(selector_arr.container).css({ background: "rgba(0, 0, 0, 0.10)" });
+    $(selector_arr.boxborder).css({ background: "none", border: "none" });
+
+    $(selector_arr.box).css({
+      background: "white",
+      border: "2px dashed rgba(0, 0, 0, 0.30)",
+    });
+
+    $(selector_arr.container).html(
+      "<div id=" +
+        selector_arr.imgdiv +
+        "><img id=" +
+        selector_arr.inputimg +
+        " src=''></div><p style='color:green;font-size:16px;font-weight:bold;margin-top:10px;text-align:center'>FILE UPLOADED !!!</p>"
+    );
+    var reader = new FileReader();
+    reader.onload = () => {
+      $("#" + selector_arr.inputimg).attr("src", reader.result);
+    };
+    reader.readAsDataURL(file);
+    if (input_flag == 0) {
+      $("#file2").removeAttr("disabled");
+    }
+  }
+});
