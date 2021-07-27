@@ -66,6 +66,10 @@
   },
   "FAQ": [
     {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
+    {
       "question": "What are the features offered by the “GIF compressor” feature from safeimagekit.com while compressing an image with a GIF image?",
       "answer": "GIF compressor feature from safeimagekit.com offers versatile features while compressing a GIF file. The main features include\nModifying the uploaded GIF file by adjusting the dimensions of the image such as height, width, etc. This GIF compression feature also presents the compression by entering size which can be extended to max or min depending on the GIF file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The GIF compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage."
     },
