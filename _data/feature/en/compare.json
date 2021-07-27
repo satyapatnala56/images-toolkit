@@ -56,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to compare our images",
     "steps": [
-      "Upload the required images which are to be compared.",
+      "Upload the required images or Click on the drop down arrow and select Dropbox/Google Drive which are to be compared.",
       "select the comparison methods on which you can compare.",
       "Hit the fade option to compare based on fade effect.",
       "Hit the slider option to compare using the slider option.",
@@ -136,5 +136,10 @@
     "<link rel=\"stylesheet\" href=\"css/compare.css\" />"
   ],
   "filelang": "en",
-  "display_formats": ["jpg", "jpeg", "png", "webp"]
+  "display_formats": [
+    "jpg",
+    "jpeg",
+    "png",
+    "webp"
+  ]
 }
