@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "primary",
-
   "H2": "PNG compression has been made easy with us, start by uploading your file below",
   "TITLE": "PNG compressor- PNG compressor online- safeimagekit",
   "META": "Are you looking for a high-quality PNG compressor? Well, then you are at the right place. Our online PNG compressor tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to compress our PNG image file.",
     "steps": [
-      "Upload the image file in the space provided.",
+      "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive",
       "Adjust the parameters using the options provided.",
       "Adjust the orientation of the image file.",
       "Hit the save option to save the changes made.",
@@ -133,5 +132,7 @@
     "<link rel=\"stylesheet\" href=\"css/compress.css\" />"
   ],
   "filelang": "en",
-  "display_formats": ["png"]
+  "display_formats": [
+    "png"
+  ]
 }
