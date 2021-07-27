@@ -56,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to add a filter to an image.",
     "steps": [
-      "Upload the image to add a filter.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to add a filter.",
       "Select a filter from a variety of filter options given.",
       "Glance at the output by scrolling down below.",
       "Hit the save option to save the changes made.",
