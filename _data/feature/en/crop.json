@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "warning",
-
   "H2": "Cropping pictures has been made easy with us, start by uploading your file below",
   "TITLE": "Crop Image- Image crop online- safeimagekit",
   "META": "Are you looking for a high-quality image cropper? Well, then you are at the right place. Our online image crop tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to crop our image.",
     "steps": [
-      "Upload the image to be cropped.",
+      "Upload the image to be cropped or Click on the drop down arrow and select Dropbox/Google Drive",
       "Crop the image accordingly.",
       "Glance at the changes made to the image file by scrolling down.",
       "Save the changes made.",
