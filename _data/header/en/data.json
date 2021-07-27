@@ -103,6 +103,81 @@
             "url": "/image-comparison"
           }
         ]
+      },
+      {"categoryName": "Social media resizers",
+        "links":[
+          {
+            "name": "Facebook image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+            "url": "/image-resize-facebook"
+          },
+          {
+            "name": " Instagram image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+            "url": "/image-resize-instagram"
+          },
+          {
+            "name": " Linkedin image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+            "url": "/image-resize-linkedin"
+          },
+          {
+            "name": " Email image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+            "url": "/image-resize-email"
+          },
+          {
+            "name": " Tiktok image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+            "url": "/image-resize-tiktok"
+          },
+          {
+            "name": " Twitter image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+            "url": "/image-resize-twitter"
+          },
+          {
+            "name": " Pinterest image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+            "url": "/image-resize-pinterest"
+          },
+          {
+            "name": "Snapchat image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+            "url": "/image-resize-snapchat"
+          },
+          {
+            "name": " Google Banner Ads image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+            "url": "/image-resize-google-banner-ads"
+          },
+          {
+            "name": " Discord image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+            "url": "/image-resize-discord"
+          },
+          {
+            "name": " SoundCloud image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+            "url": "/image-resize-soundcloud"
+          },
+          {
+            "name": " Whatsapp image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+            "url": "/image-resize-whatsapp"
+          },
+          {
+            "name": " Twitch image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+            "url": "/image-resize-twitch"
+          },
+          {
+            "name": " Printing image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+            "url": "/image-resize-printing"
+          }
+          
+        ]
       }
     ]
   },

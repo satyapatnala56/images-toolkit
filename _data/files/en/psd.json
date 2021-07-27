@@ -1,0 +1,129 @@
+{
+    "Format": "PSD",
+    "ShortName": "PSD",
+    "FullName": "Adobe Photoshop Document",
+    "Category": "Raster Image Files",
+    "Pros": "Make the most of Photoshop's features. You can directly import a Photoshop file into Illustrator, InDesign, and other Adobe programmes thanks to tight connectivity. Open the saved file in layers mode. If you need to keep things transparent, this is a good tool to have.",
+    "Cons": "The file is quite large. Adobe owns the PSD format. As a result, it isn't extensively used by other apps.",
+    "Createdby": "Adobe Systems",
+    "CreatedbyLink": "https://www.adobe.com/in/",
+    "CreatedInYear": "n/a",
+    "BasicInformation": "PSD is Photoshop's native file format for saving files. It's also known as PDD. PSD, often known as PDD, is a commonly used file type. PSD is compatible with all image modes (Bitmap, Grayscale, Duotone, Indexed Color, RGB, CMYK, Lab, and Multichannel). It's a picture file made by Adobe Photoshop, a professional image-editing tool that's commonly used to improve digital photos and make web graphics.",
+    "DetailedInformation": "Image layers, adjustment layers, layer masks, annotations, file information, keywords, and other Photoshop-specific components can all be found in PSD files. They are frequently made and shared by graphic designers. PSD files can be opened with a variety of Photoshop tools and flattened into other image formats (such as PNG, JPEG, and GIF) for uploading, sending, and saving.All layers merged into one single layer after being converted from a PSD to another file type. The layers are stored, accessible, and editable when saved with the PSD file extension. These files are frequently used as work-in-progress documents, rather than for final image production and delivery. PSD layers, as well as other elements like as photos, shapes, text, and effects, can be modified. RGB, CMYK, grayscale, monochrome, duotone, indexed colour, Lab colour, and multichannel colour modes are all supported by the PSD format. Photoshop files with the PSD file extension hold images while allowing for numerous editing options across Adobe Photoshop products. Masks, transparency, duotone settings, gradients, colour balancing, mixing, and clipping paths are just a few of the editing tools available.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus  —  Get it from Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Free trial"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Free trial"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg"
+                },
+                {
+                    "name": "CorelDRAW Graphics Suite 2021",
+                    "link": "https://www.coreldraw.com/en/product/coreldraw/purchase.html?AID=10816204&PID=3081440&cjevent=51885051cce111eb80d1d3470a180510&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&x-vehicle=cj",
+                    "image": "/assets/fileimg/cfwD39J.jpeg",
+                    "type": "Free trial"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Free, included with OS"
+                },
+                {
+                    "name": "Adobe Illustrator 2021",
+                    "link": "https://www.adobe.com/products/illustrator.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/16q77H1.jpeg",
+                    "type": "Free trial"
+                },
+                {
+                    "name": "Adobe Photoshop 2021",
+                    "link": "https://www.adobe.com/products/photoshop.html?mv=affiliate&mv2=red",
+                    "image": "/assets/fileimg/fClLkgM.jpeg",
+                    "type": "Free trial"
+                },
+                {
+                    "name": "GIMP",
+                    "link": "https://www.gimp.org/",
+                    "image": "/assets/fileimg/wcqHWtb.jpeg",
+                    "type": "Free "
+                },
+                {
+                    "name": "Pixelmator",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id407963104?ign-mpt=uo%3D4&mt=12",
+                    "image": "/assets/fileimg/0RX6D8V.jpeg",
+                    "type": "Paid"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "Pixelmator 2",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/HmizpGb.jpeg",
+                    "type": "Paid"
+                },
+                {
+                    "name": "Adobe Photoshop ",
+                    "link": "https://apps.apple.com/us/app/adobe-photoshop/id1457771281",
+                    "image": "/assets/fileimg/xeDZX8x.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "File viewer for Android",
+                    "link": "https://apps.apple.com/us/app/pixelmator/id924695435?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Adobe Photoshop Express",
+                    "link": "https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN&gl=US",
+                    "image": "/assets/fileimg/Mny97V6.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}
