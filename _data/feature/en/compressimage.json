@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "info",
-
   "H2": "Image compression has been made easy with us, start by uploading your file below",
   "TITLE": "Image Compressor-online file compressor- safeimagekit",
   "META": "Are you looking for a high-quality image compressor? Well, then you are at the right place. Our online file compressor tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to compress our image files.",
     "steps": [
-      "Upload the image file in the space provided.",
+      "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive",
       "Adjust the parameters using the options provided.",
       "Adjust the orientation of the image file.",
       "Hit the save option to save the changes made.",
