@@ -13,13 +13,12 @@
   "META": "Are you looking for a high-quality image to ascii art generator? Well, then you are at the right place. Our online ascii art generator tool is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
-
   "color": "#6666ff",
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "How to generate the ASCII art from our image.",
     "steps": [
-      "Upload the image in the space provided.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive",
       "Hit the convert option to convert the image to an ASCII art.",
       "Hit the download option to download the ASCII art.",
       "Hurray!!! the ASCII art is ready to rock."
@@ -135,5 +134,7 @@
     "<script src=\"js/ascii/src/ascii.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/ascii.js\"></script>"
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ]
 }
