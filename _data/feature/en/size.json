@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "warning",
-
   "H2": "Resizing photos has been made easy with us, start by uploading your file below",
   "TITLE": "Resize image- online image resize- safeimagekit",
   "META": "Are you looking for a high-quality tool for resizing photos? Well, then you are at the right place. Our online image resize tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to resize an image",
     "steps": [
-      "Upload the image in the space provided.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to select your file in the space provided.",
       "Adjust the parameters for better image quality.\n",
       "Hit the \"Preview\" to glance at the changes made.",
       "Save the changes made.",
