@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "danger",
-
   "H2": "Creating watermark for photos has been made easy with us, start by uploading your file below",
   "TITLE": "Watermark photos- free watermark maker- safeimagekit",
   "META": "Are you looking for a high-quality image watermark for images? Well, then you are at the right place. Our online watermark generator tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "HOW TO ADD WATERMARK TO MY PDF FILE",
     "steps": [
-      "Upload your image file in the space",
+      "Upload your image file or Click on the drop down arrow and select Dropbox/Google Drive",
       "Adjust the required parameters ",
       "Add a text or an image as a watermark",
       "hit the save button to save the changes made",
