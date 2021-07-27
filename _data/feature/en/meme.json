@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "success",
-
   "H2": "Online meme maker has been made easy with us, start by uploading your file below",
   "TITLE": "Meme generator- online meme maker- safeimagekit",
   "META": "Are you looking for a high-quality meme generator? Well, then you are at the right place. Our online meme maker tool is extremely safe, user-friendly, and super quick.",
@@ -58,7 +57,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to create a MEME from our image.",
     "steps": [
-      "Upload the image file which is to be converted into to a MEME.",
+      "Upload the image file or click on the drop-down arrow and select Dropbox/Google Drive and select the image which is to be converted into a MEME.",
       "Adjust the parameters to get a better meme.",
       "Upload an image or add text which makes a meme better.",
       "Hit the save option to save the changes made.",
