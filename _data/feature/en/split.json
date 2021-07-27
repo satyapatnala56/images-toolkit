@@ -13,7 +13,9 @@
     "_id": "608fd832b3e10a0009083f84",
     "website": "safeimagekit",
     "feature": "split",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T11:02:10.680Z",
     "__v": 0
   },
@@ -65,7 +67,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to split our image.",
     "steps": [
-      "Upload the image which needs a split.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to select your file which needs a split.",
       "Adjust the parameters required for image splitting.",
       "Hit the \"Split\" button to initiate a split.",
       "Hit the \"save all\" to save the changes made",
