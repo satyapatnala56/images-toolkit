@@ -7,7 +7,6 @@
   "imgheight": "35px",
   "nofileupload": true,
   "variant": "info",
-
   "imgalt": "altvalue",
   "H2": "Photo rotation has been made easy with us, start by uploading your file below",
   "TITLE": "Flip image- image flip online- safeimagekit",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to flip an image",
     "steps": [
-      "Upload the image file to flip it.",
+      "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive to select your file to flip it.",
       "Adjust the parameters required for a better image quality.",
       "Hit the \"Preview\" option to glance at the changes made.",
       "Save the changes made to the image file.",
