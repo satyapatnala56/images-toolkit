@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "warning",
-
   "H2": "Cropping pictures has been made easy with us, start by uploading your file below",
   "TITLE": "Crop Image- Image crop online- safeimagekit",
   "META": "Are you looking for a high-quality image cropper? Well, then you are at the right place. Our online image crop tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to crop our image.",
     "steps": [
-      "Upload the image to be cropped.",
+      "Upload the image to be cropped or Click on the drop down arrow and select Dropbox/Google Drive",
       "Crop the image accordingly.",
       "Glance at the changes made to the image file by scrolling down.",
       "Save the changes made.",
@@ -66,6 +65,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
       "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."

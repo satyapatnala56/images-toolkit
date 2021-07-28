@@ -13,7 +13,9 @@
     "_id": "608fd832b3e10a0009083f84",
     "website": "safeimagekit",
     "feature": "split",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T11:02:10.680Z",
     "__v": 0
   },
@@ -65,7 +67,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to split our image.",
     "steps": [
-      "Upload the image which needs a split.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to select your file which needs a split.",
       "Adjust the parameters required for image splitting.",
       "Hit the \"Split\" button to initiate a split.",
       "Hit the \"save all\" to save the changes made",
@@ -73,6 +75,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by the photo splitter from safeimagekit.com while splitting a photo or an image?",
       "answer": "The photo splitter from safeimagekit.com offers versatile features while splitting a photo or an image. The main features include\n- the separation options of the uploaded image in the degree of rows and columns.\n- The divided image file parts can be downloaded separately after splitting the image based on the need of the user. These files are offered in png format.\n- The divided image file parts can also be downloaded in the .zip format which consumes less space than the other image file formats."

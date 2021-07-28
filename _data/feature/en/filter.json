@@ -56,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to add a filter to an image.",
     "steps": [
-      "Upload the image to add a filter.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to add a filter.",
       "Select a filter from a variety of filter options given.",
       "Glance at the output by scrolling down below.",
       "Hit the save option to save the changes made.",
@@ -65,6 +65,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
       "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."

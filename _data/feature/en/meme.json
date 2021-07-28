@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "success",
-
   "H2": "Online meme maker has been made easy with us, start by uploading your file below",
   "TITLE": "Meme generator- online meme maker- safeimagekit",
   "META": "Are you looking for a high-quality meme generator? Well, then you are at the right place. Our online meme maker tool is extremely safe, user-friendly, and super quick.",
@@ -58,7 +57,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to create a MEME from our image.",
     "steps": [
-      "Upload the image file which is to be converted into to a MEME.",
+      "Upload the image file or click on the drop-down arrow and select Dropbox/Google Drive and select the image which is to be converted into a MEME.",
       "Adjust the parameters to get a better meme.",
       "Upload an image or add text which makes a meme better.",
       "Hit the save option to save the changes made.",
@@ -67,6 +66,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by the meme generator from safeimagekit.com while crafting a meme from an image?",
       "answer": "The meme generator tool from safeimagekit.com offers versatile features while crafting a meme from the uploaded image. The main features include\n-\tInsertion of text on the uploaded image file.\n-\tAdjusting the transparency of the text uploaded.\n-\tAdjusting the font size of the text to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image on an image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the text by Italics.\n-\tAdjusting the boldness of the text to be inserted.\n-\tUnderlining features of the text.\n-\tUpgrading the meme with color options."

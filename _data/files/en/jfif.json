@@ -1,0 +1,95 @@
+{
+    "Format": "JFIF",
+    "ShortName": "JFIF",
+    "FullName": "JPEG File Interchange Format",
+    "Category": "Raster Image Files",
+    "Pros": "A very popular format. Compression at a high, controlled level resulting in a small file size. format is compatible and displays correctly in all browsers, text, and graphics programs, on all computers, tablets, and mobile devices. Supports full-color realistic images with a lot of color and contrast transitions. High quality of image with a small degree of coherence.",
+    "Cons": "When you compress the image, it may “fall apart” into individual squares - 808-pixel blocks. This occurs because the compression algorithm analyses neighboring pixels. smooth color – transitions may become harsh or simply vanish. JPEG is less suitable for working with text or monochrome graphics with clear boundaries. This format does not support transparency even though it is required when creating templates, logos, and buttons. The image's quality declines with each subsequent compression step.",
+    "Createdby": "C-cube Microsystems and Joint Photographic Experts Group",
+    "CreatedbyLink": "https://jpeg.org/",
+    "CreatedInYear": "2011",
+    "BasicInformation": "A JFIF file is a bitmap graphic compressed with JPEG. It's preserved with a variant of the standard. The JPEG file format was created with the goal of storing a little quantity of data and allowing for easy transfer between platforms and apps. JPEG File Interchange Format is the acronym for JPEG File Interchange Format.",
+    "DetailedInformation": "The JFIF format specifies a lot of characteristics that were missing from the original JPEG format. Users were able to save and share files using JPEG compression after defining these characteristics, which included a standard header, resolution and aspect ratio, and colour model. Many digital cameras used to save images in the JFIF format. However, as the JPEG format improved over time, the JFIF standard became largely obsolete.",
+    "Softwaresused": [
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "Microsoft Photos",
+                    "link": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/nrsG7Ys.jpeg",
+                    "type": "Free, included with OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg"
+                },
+                {
+                    "name": "ACD Systems ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Free trial"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple Preview",
+                    "link": "https://support.apple.com/en-in/guide/preview/welcome/mac",
+                    "image": "/assets/fileimg/O1HqazZ.jpeg",
+                    "type": "Free, included with OS"
+                },
+                {
+                    "name": "Mozilla Firefox",
+                    "link": "https://www.mozilla.org/en-US/firefox/browsers/",
+                    "image": "/assets/fileimg/WofJU7C.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Opera",
+                    "link": "opera.com",
+                    "image": "/assets/fileimg/Mt9PAUF.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "ACD Systems ACDSee",
+                    "link": "https://www.acdsee.com/en/products/photo-studio-home/",
+                    "image": "/assets/fileimg/kXyPDCs.jpeg",
+                    "type": "Free trial"
+                }
+            ]
+        },
+        {
+            "platform": "ChromeOS",
+            "softwares": [
+                {
+                    "name": "Google Chrome",
+                    "link": "https://www.google.com/chrome/",
+                    "image": "/assets/fileimg/ffv3iNy.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

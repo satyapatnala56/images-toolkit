@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "primary",
-
   "H2": "PNG compression has been made easy with us, start by uploading your file below",
   "TITLE": "PNG compressor- PNG compressor online- safeimagekit",
   "META": "Are you looking for a high-quality PNG compressor? Well, then you are at the right place. Our online PNG compressor tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to compress our PNG image file.",
     "steps": [
-      "Upload the image file in the space provided.",
+      "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive",
       "Adjust the parameters using the options provided.",
       "Adjust the orientation of the image file.",
       "Hit the save option to save the changes made.",
@@ -66,6 +65,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by the “PNG compressor” feature from safeimagekit.com while compressing an image with png format?",
       "answer": "PNG compressor feature from safeimagekit.com offers versatile features while compressing a png file. The main features include\nModifying the uploaded png file by adjusting the dimensions of the image such as height, width, etc. This png compression feature also presents the compression by entering size which can be extended to max or min depending on the png file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The png compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
@@ -133,5 +140,7 @@
     "<link rel=\"stylesheet\" href=\"css/compress.css\" />"
   ],
   "filelang": "en",
-  "display_formats": ["png"]
+  "display_formats": [
+    "png"
+  ]
 }

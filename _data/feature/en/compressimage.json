@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "info",
-
   "H2": "Image compression has been made easy with us, start by uploading your file below",
   "TITLE": "Image Compressor-online file compressor- safeimagekit",
   "META": "Are you looking for a high-quality image compressor? Well, then you are at the right place. Our online file compressor tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to compress our image files.",
     "steps": [
-      "Upload the image file in the space provided.",
+      "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive",
       "Adjust the parameters using the options provided.",
       "Adjust the orientation of the image file.",
       "Hit the save option to save the changes made.",
@@ -66,6 +65,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by the “Image compressor” feature from safeimagekit.com while compressing an image?",
       "answer": "The Image compressor feature from safeimagekit.com offers versatile features while compressing an image file. The main features include\nModifying the uploaded image by adjusting the dimensions of the image such as height, width, etc. This image compression feature also presents the compression by entering size which can be extended to max or min depending on the image uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The image compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage."

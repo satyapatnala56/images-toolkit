@@ -8,7 +8,6 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "warning",
-
   "H2": "Resizing photos has been made easy with us, start by uploading your file below",
   "TITLE": "Resize image- online image resize- safeimagekit",
   "META": "Are you looking for a high-quality tool for resizing photos? Well, then you are at the right place. Our online image resize tool is extremely safe, user-friendly, and super quick.",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to resize an image",
     "steps": [
-      "Upload the image in the space provided.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to select your file in the space provided.",
       "Adjust the parameters for better image quality.\n",
       "Hit the \"Preview\" to glance at the changes made.",
       "Save the changes made.",
@@ -65,6 +64,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
       "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
