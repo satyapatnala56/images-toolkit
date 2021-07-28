@@ -15,7 +15,6 @@ image: "/uploads/qr-code.png"
 comments: false
 
 ---
-
 QR code or a quick response code is a type of barcode, which is born from the method of representing data in a visual, machine-readable form. Barcodes represent data by varying the widths and spacings of parallel lines and unlike barcodes, QR codes are completely made up of black squares arranged in a square grid on a white background, these symbols or characters are completely confined in a box, no matter the length or the size of the file stored inside the response code. This can be read by any imaging device such as a camera, and processed using [Reed–Solomon error correction](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction) until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.
 
 QR codes have their potential uses in each of the major fields currently in trending they run haywire in these fields and increase the efficiency of the website/app accordingly, thereby decreasing the workload of the user and increasing the fun of using that app/website even more than before. Some of the game-changers here are-
