@@ -33,3 +33,5 @@ fields:
 - name: comments
   type: boolean
   label: Comments
+pages:
+- _posts/blog posts/comparing-online-qr-code-generator-tools-that-are-safe-for-the-users-both-free-and-paid.md
