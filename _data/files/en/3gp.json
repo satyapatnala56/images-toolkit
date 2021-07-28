@@ -1,0 +1,141 @@
+{
+    "Format": "3GP",
+    "ShortName": "3GP",
+    "FullName": "3rd Generation Partnership Project",
+    "Category": "Video file",
+    "Pros": "Small file size, so saves disk space. Requires less mobile data. For enterprises, it generates connected environments. Extremely crucial for communicating(via text messages).",
+    "Cons": "Quality may not be up to the mark. Cannot play high resolution videos. Not supported by many programs. ",
+    "Createdby": "3rd Generation Partnership Project",
+    "CreatedbyLink": "https://www.3gpp.org/",
+    "CreatedInYear": "1998",
+    "BasicInformation": "A 3GP file is a multimedia file saved in the 3rd Generation Partnership Project's audio and video container format (3GPP). It saves video and audio streams that are sent over the Internet and between 3G mobile phones.",
+    "DetailedInformation": "3GP is a multimedia file container developed by the 3GPP (Third Generation Partnership Project) for the use of video and audio on 3G capable mobile devices like the iPhone. These files can also be viewed on phones without 3G (2G and 4G), although with certain limitations. On mobile devices with video recording capabilities, 3GP files can be edited, exported, and viewed. The 3G2 file is identical to the 3GP file, however it has distinct limits and extensions. The MPEG-14 structures are used to create the 3GP file type. 3GP has lowered bandwidth and storage requirements, allowing phone users to transport, edit, and store files online. It supports H.263 and H.264 video streams, as well as AMR-WB, AMR-WB+, AMR-NB, HE-AAC v1, AAC-LC, and Enhanced aacPlus audio streams.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus  —  Get it from Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "Microsoft Windows Media Player",
+                    "link": "https://support.microsoft.com/en-us/windows/windows-media-player-d10303a5-896c-2ce2-53d4-5bd5b9fd888b",
+                    "image": "/assets/fileimg/XYvKzO9.jpeg",
+                    "type": "Free, included with OS"
+                },
+                {
+                    "name": "Microsoft Movies and TV",
+                    "link": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2?activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/fVyIEs4.jpeg",
+                    "type": "Free, included with OS"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg"
+                },
+                {
+                    "name": "Xilisoft Video Converter Ultimate",
+                    "link": "http://www.xilivideo.com/video-converter-ultimate.html",
+                    "image": "/assets/fileimg/Cc9amsH.jpeg",
+                    "type": "Free trial"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Apple QuickTime Player",
+                    "link": "https://support.apple.com/en-in/guide/quicktime-player/welcome/mac",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Free, included with OS"
+                },
+                {
+                    "name": "Eltima Elmedia Player",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/H7CZmss.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Roxio Toast 18",
+                    "link": "https://www.roxio.com/en/products/toast/titanium/?AID=10860394&PID=3081440&utm_source=cj&utm_medium=affiliate&utm_campaign=Sharpened+Productions&cjevent=5cfb7817c9d211eb8386155e0a18050c",
+                    "image": "/assets/fileimg/V2G1SGL.jpeg",
+                    "type": "Paid"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Paid"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "File viewer for Android",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "BIT Labs Simple MP4 Video Player",
+                    "link": "https://play.google.com/store/apps/details?id=air.br.com.bitlabs.VideoPlayer&hl=en",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "J2 Interactive MX Player",
+                    "link": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en",
+                    "image": "/assets/fileimg/Cjoa7OB.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "PANDORA.TV KMPlayer",
+                    "link": "https://play.google.com/store/apps/details?id=com.kmplayer",
+                    "image": "/assets/fileimg/hnkzD4T.jpeg",
+                    "type": "Free"
+                }
+            ]
+        }
+    ]
+}

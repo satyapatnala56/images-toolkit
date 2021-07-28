@@ -1,0 +1,159 @@
+{
+    "Format": "MKV",
+    "ShortName": "MKV",
+    "FullName": "Matroska Video File",
+    "Category": "Video file",
+    "Pros": "Very flexible. Has lossy as well as lossless option. Well documented. Non-proprietary. Addition of metadata is allowed.",
+    "Cons": "There is currently no standalone hardware player that can play MKV files. Larger file size. Still under developing. ",
+    "Createdby": "Matroska",
+    "CreatedbyLink": "https://www.matroska.org/",
+    "CreatedInYear": "2002",
+    "BasicInformation": "A video file saved in the Matroska multimedia container format is known as an MKV file. It can handle a variety of audio and video codecs, including.SRT,.SSA,.USF (Universal Subtitle Format), and VobSub subtitles. Short video clips, TV shows, and movies are commonly stored as MKV files.",
+    "DetailedInformation": "The Matroska Multimedia Container (MKV) is an open and free standard for video data storage. The file can contain an unlimited number of audio, video, image, and subtitle tracks, making it a handy way to save movies, full TV programmes, and more. The user can jump to all of the different data tracks in the raw format. It's comparable to the.AVI,.ASF, and.MOV formats in that it may have a variety of video, audio, image, and subtitle tracks. Matroska Video files are multimedia files that use the Matroska container format to store one or more video tracks and are identified by the.mkv file extension. The MKV format, which is commonly used to save short video snippets, TV series, and movies, has gained popularity among anime fansubbers. Many of these users add subtitles, and the MKV format is particularly handy because it allows for several audio and subtitle tracks to be combined in one file.",
+    "Softwaresused": [
+        {
+            "platform": "Linux",
+            "softwares": [
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "HandBrake",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Windows",
+            "softwares": [
+                {
+                    "name": "File Viewer Plus  —  Get it from Microsoft",
+                    "link": "https://www.microsoft.com/en-in/p/file-viewer-plus-4/9nmsdkxc9r3f?rtc=1&activetab=pivot:overviewtab",
+                    "image": "/assets/fileimg/QdcouPN.jpeg",
+                    "type": "Freemium"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "HandBrake",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Media Player classic",
+                    "link": "https://github.com/clsid2/mpc-hc/",
+                    "image": "/assets/fileimg/PLx4Opv.jpeg"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "Mac",
+            "softwares": [
+                {
+                    "name": "Eltima Elmedia Player",
+                    "link": "https://mac.eltima.com/media-player.html",
+                    "image": "/assets/fileimg/5hGiNf7.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "ShedWorx Smart Converter",
+                    "link": "https://shedworx.com/smart-converter-pro/",
+                    "image": "/assets/fileimg/6hQNdGk.jpeg",
+                    "type": "Free trial"
+                },
+                {
+                    "name": "MPlayer",
+                    "link": "http://www.mplayerhq.hu/design7/news.html",
+                    "image": "/assets/fileimg/IKdU9NN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "HandBrake",
+                    "link": "https://handbrake.fr/",
+                    "image": "/assets/fileimg/jsU9KjR.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "VideoLan VLC Media Player",
+                    "link": "https://www.videolan.org/vlc/index.html",
+                    "image": "/assets/fileimg/99jo0FJ.jpeg",
+                    "type": "Free"
+                }
+            ]
+        },
+        {
+            "platform": "iOS",
+            "softwares": [
+                {
+                    "name": "olimsoft Oplayer",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/Xa1wjEf.jpeg",
+                    "type": "Paid"
+                },
+                {
+                    "name": "Videolan VLC for mobile",
+                    "link": "https://apps.apple.com/us/app/vlc-for-mobile/id650377962?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/rawD7q8.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Oka Apps Omni Player",
+                    "link": "https://apps.apple.com/us/app/omni-player-mkv-video-player/id1470926410",
+                    "image": "/assets/fileimg/TmHdEAq.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Pentaloop PlayerXtreme Media Player",
+                    "link": "https://apps.apple.com/us/app/playerxtreme-media-player/id456584471?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/uoX9gqI.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        },
+        {
+            "platform": "Android",
+            "softwares": [
+                {
+                    "name": "BIT Labs Simple MP4 Video Player",
+                    "link": "https://apps.apple.com/us/app/oplayer-video-player/id344784375?mt=8&ign-mpt=uo%3D4",
+                    "image": "/assets/fileimg/P6WGAMN.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "Videolabs VLC for Android",
+                    "link": "https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en",
+                    "image": "/assets/fileimg/TnwKQd9.jpeg",
+                    "type": "Free"
+                },
+                {
+                    "name": "File viewer for Android",
+                    "link": "https://play.google.com/store/apps/details?id=com.sharpened.androidfileviewer",
+                    "image": "/assets/fileimg/6uyiajm.jpeg",
+                    "type": "Freemium"
+                }
+            ]
+        }
+    ]
+}

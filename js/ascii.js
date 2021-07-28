@@ -1,3 +1,4 @@
+
 const getScript = document.currentScript;
 const pageTool = getScript.dataset.tool;
 const lang = getScript.dataset.lang;
@@ -9,6 +10,7 @@ var file = document.querySelector("#file");
 var box = document.querySelector(".box");
 var boxContainer = document.querySelector(".container2");
 const gdrive = document.querySelector("#filepicker");
+
 const getFile = (file) => {
   onFileDrop(file);
 };

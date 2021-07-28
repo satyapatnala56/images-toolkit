@@ -119,6 +119,107 @@
       "color": "#ff5975",
       "icon": "/img/home/pixelated.png",
       "url": "/pixel-art-maker"
+    },
+
+    
+    {
+      "name": "Facebook image resizer",
+      "description": "Resize images for facebook",
+      "color": "#1773ea",
+      "icon": "/img/imageResizer-assets/facebook.svg",
+      "url": "/image-resize-facebook"
+    },
+    {
+      "name": " Instagram image resizer",
+      "description": "Resize images for instagram",
+      "color": "#f00075",
+      "icon": "/img/imageResizer-assets/instagram.svg",
+      "url": "/image-resize-instagram"
+    },
+    {
+      "name": " Linkedin image resizer",
+      "description": "Resize images for linkedin",
+      "color": "#0a66c2",
+      "icon": "/img/imageResizer-assets/linkdin.svg",
+      "url": "/image-resize-linkedin"
+    },
+    {
+      "name": " Email image resizer",
+      "description": "Resize images for email",
+      "color": "#D44638",
+      "icon": "/img/imageResizer-assets/gmail.svg",
+      "url": "/image-resize-email"
+    },
+    {
+      "name": " Tiktok image resizer",
+      "description": "Resize images for tiktok",
+      "color": "#D44638",
+      "icon": "/img/imageResizer-assets/tiktok.svg",
+      "url": "/image-resize-tiktok"
+    },
+    {
+      "name": " Twitter image resizer",
+      "description": "Resize images for twitter",
+      "color": "#1da1f2",
+      "icon": "/img/imageResizer-assets/twitter.svg",
+      "url": "/image-resize-twitter"
+    },
+    {
+      "name": " Pinterest image resizer",
+      "description": "Resize images for pinterest",
+      "color": "#bd081c",
+      "icon": "/img/imageResizer-assets/pinterest.svg",
+      "url": "/image-resize-pinterest"
+    },
+    {
+      "name": "Snapchat image resizer",
+      "description": "Resize images for snapchat",
+      "color": "#9999ff",
+      "icon": "/img/imageResizer-assets/snapchat-white.svg",
+      "url": "/image-resize-snapchat"
+    },
+    {
+      "name": " Google Banner Ads image Snapchat",
+      "description": "Resize images for google banner ads",
+      "color": "#ea4335",
+      "icon": "/img/imageResizer-assets/google.svg",
+      "url": "/image-resize-google-banner-ads"
+    },
+    {
+      "name": " Discord",
+      "description": "Resize images for discord",
+      "color": "#535fee", 
+      "icon": "/img/imageResizer-assets/discord.svg",
+      "url": "/image-resize-discord"
+    },
+    {
+      "name": " SoundCloud",
+      "description": "Resize images for soundcloud",
+      "color": "#f77b00",
+      "icon": "/img/imageResizer-assets/soundcloud.svg",
+      "url": "/image-resize-soundcloud"
+    },
+    {
+      "name": " Whatsapp",
+      "description": "Resize images for whatsapp",
+      "color": "#ea4335",
+      "icon": "/img/imageResizer-assets/whatsapp.svg",
+      "url": "/image-resize-whatsapp"
+    },
+    {
+      "name": " Twitch",
+      "description": "Resize images for twitch",
+      "color": "#8c44f7",
+      "icon": "/img/imageResizer-assets/twitch.svg",
+      "url": "/image-resize-twitch"
+    },
+    {
+      "name": " Printing",
+      "description": "Resize images for printing",
+      "color": "#26d0c7",
+      "icon": "/img/imageResizer-assets/printing.svg",
+      "url": "/image-resize-printing"
     }
+    
   ]
 }
