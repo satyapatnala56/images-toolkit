@@ -9,7 +9,7 @@ title: How to add filters to photos? Best pro tips to make your website images s
   out
 layout: post
 author: THANDRA PAAVAN
-image: ''
+image: "/uploads/output-1.png"
 comments: false
 
 ---
