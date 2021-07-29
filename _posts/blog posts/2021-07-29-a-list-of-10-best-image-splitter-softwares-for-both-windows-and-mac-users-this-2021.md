@@ -12,7 +12,7 @@ title: A List of 10 best image splitter softwares for both windows and mac users
   2021
 layout: post
 author: THANDRA PAAVAN
-image: ''
+image: "/uploads/output-7.png"
 comments: false
 
 ---
