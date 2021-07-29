@@ -11,7 +11,7 @@ title: A list of best free image compressing softwares for both windows and mac 
   this 2021.
 layout: post
 author: THANDRA PAAVAN
-image: ''
+image: "/uploads/output-4.png"
 comments: false
 
 ---
