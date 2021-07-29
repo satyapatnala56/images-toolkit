@@ -10,7 +10,7 @@ categories: []
 title: A List of 10+ best meme maker apps for both android and IOS users this 2021
 layout: post
 author: THANDRA PAAVAN
-image: ''
+image: "/uploads/output-6.png"
 comments: false
 
 ---
