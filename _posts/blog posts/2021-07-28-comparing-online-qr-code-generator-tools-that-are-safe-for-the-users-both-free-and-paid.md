@@ -11,7 +11,7 @@ title: Comparing online QR code generator tools that are safe for the users, bot
   free and paid.
 layout: post
 author: THANDRA PAAVAN
-image: "/uploads/qr-code.png"
+image: "/uploads/output-3.png"
 comments: false
 
 ---
