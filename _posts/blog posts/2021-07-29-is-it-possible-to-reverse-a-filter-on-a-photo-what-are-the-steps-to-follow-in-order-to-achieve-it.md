@@ -7,7 +7,7 @@ title: Is it possible to reverse a filter on a photo? What are the steps to foll
   in order to achieve it?
 layout: post
 author: THANDRA PAAVAN
-image: ''
+image: "/uploads/output.png"
 comments: false
 
 ---
