@@ -8,7 +8,7 @@ categories: []
 title: Different ways to remove watermark from images for both windows and mac users
 layout: post
 author: THANDRA PAAVAN
-image: ''
+image: "/uploads/output-2.png"
 comments: false
 
 ---
