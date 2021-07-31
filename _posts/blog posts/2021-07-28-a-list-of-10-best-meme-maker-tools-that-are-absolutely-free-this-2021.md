@@ -11,11 +11,10 @@ categories: []
 title: A List of 10+ best meme maker tools that are absolutely free this 2021.
 layout: post
 author: THANDRA PAAVAN
-image: ''
+image: "/uploads/output-5.png"
 comments: false
 
 ---
-
 A MEME is a funny way of representing a funny situation or a person in a funny way, according to the meaning is “**meme**, is an idea, behavior, or style (meme) that is spread via the Internet, often through social media platforms and especially for humorous purposes. What is considered a meme may vary across different communities on the Internet and is subject to change over time. Traditionally, memes consisted of a combination of image macros and a concept or catchphrase, but the concept has since become broader and more multi-faceted, evolving to include more elaborate structures such as challenges, GIFs, videos, and viral sensations.”
 
 **TREND-**
