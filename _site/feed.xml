@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-01T13:50:53+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Safest website for your image processing needs. No files sent to server.</title><subtitle>Process your images safely, online for free using safeimagekit.com</subtitle><entry><title type="html">Is it possible to reverse a filter on a photo? What are the steps to follow in order to achieve it?</title><link href="http://localhost:4000/blog/is-it-possible-to-reverse-a-filter-on-a-photo-what-are-the-steps-to-follow-in-order-to-achieve-it" rel="alternate" type="text/html" title="Is it possible to reverse a filter on a photo? What are the steps to follow in order to achieve it?" /><published>2021-07-29T00:00:00+05:30</published><updated>2021-07-29T00:00:00+05:30</updated><id>http://localhost:4000/blog/is-it-possible-to-reverse-a-filter-on-a-photo-what-are-the-steps-to-follow-in-order-to-achieve-it</id><content type="html" xml:base="http://localhost:4000/blog/is-it-possible-to-reverse-a-filter-on-a-photo-what-are-the-steps-to-follow-in-order-to-achieve-it">&lt;p&gt;Image filters are the additional makeups given to an image to enhance its appearance and style. In photography, a &lt;strong&gt;filter&lt;/strong&gt; is a camera accessory consisting of an optical filter that can be inserted into the optical path. The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the camera lens. The majority of filters used with film cameras have been rendered redundant by digital filters applied either in-camera or during post-processing. Exceptions include the ultraviolet (UV) filter typically used to protect the front surface of the lens, the neutral density (ND) filter, the polarizing filter, color-enhancing filters, and the infra-red (IR) filter. The neutral density filter permits effects requiring wide apertures or long exposures to be applied to brightly lit scenes, while the graduated neutral density filter is useful in situations where the scene’s dynamic range exceeds the capability of the sensor. Not using optical filters in front of the lens has the advantage of avoiding the reduction of image quality caused by the presence of an extra optical element in the light path and may be necessary to avoid vignetting when using wide-angle lenses.&lt;/p&gt;
+
+&lt;p&gt;Image filters are very popular and are fixing in nature it all depends on the type of image on which the filter is applied. Reversing a photo filter is a rare option that cannot be found on every software or image editor. It all depends upon the type of software used, to add a filter and the time of filter applied.&lt;/p&gt;
+
+&lt;p&gt;Some of the best tips and tricks offered while editing an image with a filter include-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating edge effects-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can use various techniques to treat the edges of an effect applied to only part of an image. To leave a distinct edge, simply apply the filter. For a soft edge, feather the edge, and then apply the filter. For a transparent effect, apply the filter, and then use the Fade command to adjust the selection’s blending mode and opacity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Applying filters to layers-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can apply filters to individual layers or to several layers in succession to build up an effect. For a filter to affect a layer, the layer must be visible and must contain pixels—for example, a neutral fill color.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Applying filters to individual channels-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can apply a filter to an individual channel, apply a different effect to each color channel, or apply the same filter but with different settings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating backgrounds-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;By applying effects to solid‑color or grayscale shapes, you can generate a variety of backgrounds and textures. You might then blur these textures. Although some filters have little or no visible effect when applied to solid colors (for example, Glass), others produce interesting effects.&lt;/p&gt;
+
+&lt;p&gt;There are only a few numbers of image processing softwares that offer the option to reverse the filter after it is applied to the image. I will try my best to keep the list short and easy to follow, so most of the softwares has this reverse image filter application locked away in its premium vault and can only be unlocked when we purchase the premium pass or plans offered by the company. However, the best of the list will appear below-&lt;/p&gt;
+
+&lt;p&gt;1.Adobe Photoshop-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/rima-1.jpg&quot; alt=&quot;&quot; /&gt;Adobe Photoshop is a software that is renowned worldwide for its features offered in image, audio, and video editing. Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS. It was originally created in 1988 by Thomas and John Knoll. Filter effects are applied in the order you select them. You can rearrange filters after you apply them by dragging a filter name to another position in the list of applied filters. Rearranging filter effects can dramatically change the way your image looks. Click the eye icon next to a filter to hide the effect in the preview image. You can also delete applied filters by selecting the filter and clicking the Delete Layer icon.&lt;/p&gt;
+
+&lt;p&gt;Now, adobe photoshop as a part of its FAQ’s session has presented some instructions on how to remove an added filter, as well as add a new filter to an image. The steps are as follows-&lt;/p&gt;
+
+&lt;p&gt;1. Do one of the following-&lt;/p&gt;
+
+&lt;p&gt;· To apply a filter to an entire layer, make sure that the layer is active or selected.&lt;/p&gt;
+
+&lt;p&gt;· To apply a filter to an area of a layer, select that area.&lt;/p&gt;
+
+&lt;p&gt;· To apply a filter non-destructively, so you can change your filter settings later, select the Smart Object that contains the image content that you want to filter.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Choose Filter &amp;gt; Filter Gallery.&lt;/li&gt;
+  &lt;li&gt;Click a filter name to add the first filter. You may need to click the inverted triangle next to the filter category to see the complete list of filters. Once added, the filter appears in the applied filter list in the lower right corner of the Filter Gallery dialog box.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;4. Do any of the following-&lt;/p&gt;
+
+&lt;p&gt;· To apply filters cumulatively, click the New Effect Layer icon, and choose an additional filter to apply. Repeat this procedure to add more filters.&lt;/p&gt;
+
+&lt;p&gt;· To rearrange applied filters, drag the filter to a new position in the applied filter list in the lower right corner of the Filter Gallery dialog box.&lt;/p&gt;
+
+&lt;p&gt;· To remove applied filters, select a filter in the applied filter list, and click the Delete Layer icon.&lt;/p&gt;
+
+&lt;p&gt;5. Click ‘ok’ when the changes made are fixed and finalized.&lt;/p&gt;
+
+&lt;p&gt;As mentioned above, these steps only work if the image-editing software you use is credible software and the software used should retain the history for at least the last 3-4 steps of the image editing process, only then the applied image filter can be retained. There is also one more alternative step, we have to maintain a copy of the original photo for its edit. In this case, we have to start the whole image-editing again from step 1.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools that can reverse an image filter from an image, but as a user, it all depends on us on how we select our tools to finish our work. There are many apps and softwares that are masking themselves in front of us and stealing our personal info from our devices. The above-mentioned apps/softwares are just an example of safe and free-to-use tools, feel free to contact us through our social media handles if there are any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="how can I reverse a photo" /><category term="how do I reverse a photo" /><summary type="html">Image filters are the additional makeups given to an image to enhance its appearance and style. In photography, a filter is a camera accessory consisting of an optical filter that can be inserted into the optical path. The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the camera lens. The majority of filters used with film cameras have been rendered redundant by digital filters applied either in-camera or during post-processing. Exceptions include the ultraviolet (UV) filter typically used to protect the front surface of the lens, the neutral density (ND) filter, the polarizing filter, color-enhancing filters, and the infra-red (IR) filter. The neutral density filter permits effects requiring wide apertures or long exposures to be applied to brightly lit scenes, while the graduated neutral density filter is useful in situations where the scene’s dynamic range exceeds the capability of the sensor. Not using optical filters in front of the lens has the advantage of avoiding the reduction of image quality caused by the presence of an extra optical element in the light path and may be necessary to avoid vignetting when using wide-angle lenses.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output.png" /><media:content medium="image" url="http://localhost:4000/uploads/output.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to create a QR code in MS excel</title><link href="http://localhost:4000/blog/how-to-create-a-qr-code-in-ms-excel" rel="alternate" type="text/html" title="How to create a QR code in MS excel" /><published>2021-07-29T00:00:00+05:30</published><updated>2021-07-29T00:00:00+05:30</updated><id>http://localhost:4000/blog/how-to-create-a-qr-code-in-ms-excel</id><content type="html" xml:base="http://localhost:4000/blog/how-to-create-a-qr-code-in-ms-excel">&lt;p&gt;QR code or a quick response code is a type of barcode, which is born from the method of representing data in a visual, machine-readable form. Barcodes represent data by varying the widths and spacings of parallel lines and unlike barcodes, QR codes are completely made up of black squares arranged in a square grid on a white background, these symbols or characters are completely confined in a box, no matter the length or the size of the file stored inside the response code. This can be read by any imaging device such as a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.&lt;/p&gt;
+
+&lt;p&gt;QR codes have their potential uses in each of the major fields currently in trending they run haywire in these fields and increase the efficiency of the website/app accordingly, thereby decreasing the workload of the user and increasing the fun of using that app/website even more than before. Some of the game-changers here are-&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-operation-&quot;&gt;&lt;strong&gt;MOBILE OPERATION-&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;QR codes can be used on various mobile device operating systems. iPhones running on iOS 11 and higher and some Android devices can natively scan QR codes without downloading an external app. The camera app is able to scan and display the kind of QR code (only on iPhone) along with the link (both on Android and iPhone).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;QR CODE PAYMENT-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;QR codes can be used to store bank account information or credit card information, or they can be specifically designed to work with particular payment provider applications. There are several trial applications of QR code payments across the world. In developing countries like China, India and Bangladesh QR code payment is a very popular and convenient method of making payments. Since ALIPAY designed a QR code payment method in 2011, mobile payment has been quickly adopted in China. As of 2018, around 83% of all payments were made via mobile payment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JOINING A WIFI NETWORK-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, this seems a bit funny about using the Wi-Fi network. The users who own a Wi-Fi network can share their Wi-Fi password, even if they forget! all they need to do is to open their Wi-Fi settings and hit the share password option, and then appears a QR code upon scanning that the user can access the Wi-Fi password.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RESTAURANT ORDERING-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fast serve restaurants can present a QR code near the front door allowing guests to view an online menu, or even redirect them to an online ordering website or app, allowing them to order or potentially pay for their meal without having to stand in line or use a cashier. QR codes can also link to daily or weekly specials that are not printed on the standardized menus. At table service restaurants, QR codes enable guests to order their meals without a waiter involved—the QR code contains the table number so servers know where to bring the food. This application has grown especially since the need for social distancing during the 2020 COVID-19 pandemic has prompted reduced contact between service staff and customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO GAMES-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, this is my favorite part about the QR codes, Popular video games, such as &lt;em&gt;FEZ&lt;/em&gt;, &lt;em&gt;THE TALOS PRINCIPLE&lt;/em&gt;, and &lt;em&gt;WATCH DOGS,&lt;/em&gt; have incorporated QR codes as story and gameplay elements. &lt;em&gt;AMONG US&lt;/em&gt; has a QR code Easter egg in the “Scan boarding pass “ task in the MIRA HQ map. Mobile games such as &lt;em&gt;MUNZEE&lt;/em&gt; use geolocation in combination with QR codes to create a game that is played in the real world by scanning QR stickers in physical locations.&lt;/p&gt;
+
+&lt;p&gt;The easy for making a QR code in MS EXCEL is to download the latest version of MS office, this consists of all the office apps such as PowerPoint, Word, Excel, Access, and other apps. This process consists of 4 steps-&lt;/p&gt;
+
+&lt;p&gt;Step 1-open and create an excel sheet, fill in all the data required in the cells and save it.&lt;/p&gt;
+
+&lt;p&gt;Step 2- Click &lt;strong&gt;Developer&lt;/strong&gt; &amp;gt; &lt;strong&gt;Insert&lt;/strong&gt; &amp;gt; &lt;strong&gt;More Control to access the bar-code and QR code options.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Step3- In the &lt;strong&gt;More Controls&lt;/strong&gt; window, check for the &lt;strong&gt;Microsoft Barcode Control 16.0&lt;/strong&gt; or &lt;strong&gt;Microsoft Barcode Control 15.0&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Step4- Select the no. of cells that you need them to convert as a barcode or QR code. And hit the MICROSOFT BARCODE CONTROL OPTION to convert the data in the cells to a QR code or a Bar code depending upon the requirement of the user.&lt;/p&gt;
+
+&lt;p&gt;Step5- save the progress made to the excel sheet, and copy and share the QR code to access the data within the code.&lt;/p&gt;
+
+&lt;p&gt;Now if you don’t find any &lt;strong&gt;Microsoft Barcode Control 16.0&lt;/strong&gt; or &lt;strong&gt;Microsoft Barcode Control 15.0&lt;/strong&gt; option in your excel it is only because the excel version in your device is old and make sure to update the excel and other office apps to its latest version.&lt;/p&gt;
+
+&lt;p&gt;There is an alternative solution for this trouble, but the trick is that it involves the use of google spread sheets.&lt;/p&gt;
+
+&lt;p&gt;Google spread sheets-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Google Sheets&lt;/strong&gt; is a spreadsheet program included as part of the free, web-based Google Docs Editors suite offered by Google. The service also includes Google Docs, Google Slides, Google Drawings, Google Forms, Google Sites, and Google Keep. Google Sheets is available as a web application, mobile app for Android, iOS, Windows, BlackBerry, and as a desktop application on Google’s Chrome OS. The app is compatible with Microsoft Excel file formats. The app allows users to create and edit files online while collaborating with other users in real-time. Google spreadsheets is an alternative to Microsoft excel sheets, now these are free to use, online based spreadsheets which have their own special features.&lt;img src=&quot;/uploads/excel-qr-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The steps to create QR codes in a google spread sheets are-&lt;/p&gt;
+
+&lt;p&gt;Step1- Go to https://docs.google.com/a/ mybps.us and log in to your account.&lt;/p&gt;
+
+&lt;p&gt;Step2-Click on the Create button located on the left and choose Spreadsheet.&lt;/p&gt;
+
+&lt;p&gt;Step3-Label one column for “Text or URL” and another for “QR code”.&lt;/p&gt;
+
+&lt;p&gt;Step4-Type the Text or URL you want to be accessed when the QR code is scanned.&lt;/p&gt;
+
+&lt;p&gt;Now the point to be noted here is that the text which you enter should be from 50-4000 words to get a better and accurate QR code.&lt;/p&gt;
+
+&lt;p&gt;Step5-Copy and paste the following in the cell below “QR Code” in this case cell B2, then press enter a QR code will appear. =image (“https://chart.googleapis.com/ chart?chs=150x150&amp;amp;cht=qr&amp;amp;chl=” &amp;amp; A2).&lt;/p&gt;
+
+&lt;p&gt;Step6-Click once on cell B2 to select it. Then click the tiny blue square in the bottom right corner of the cell and drag down to fill down the formula in the remaining cells for the text or URLs you have entered. You may need to resize the cells to see the QR codes clearly.&lt;/p&gt;
+
+&lt;p&gt;Then hit the print option to get a copy of the spreadsheet including the QR codes in it, and share them to your friends and enjoy!!&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="QR code generator in excel" /><category term="QR code generator excel" /><category term="QR code generator for excel free" /><category term="QR code generator excel free" /><category term="QR code generator excel free download" /><category term="QR code generator for excel free" /><category term="QR code generator from excel file" /><category term="bulk QR code generator in excel" /><category term="how to generate QR code in excel" /><summary type="html">QR code or a quick response code is a type of barcode, which is born from the method of representing data in a visual, machine-readable form. Barcodes represent data by varying the widths and spacings of parallel lines and unlike barcodes, QR codes are completely made up of black squares arranged in a square grid on a white background, these symbols or characters are completely confined in a box, no matter the length or the size of the file stored inside the response code. This can be read by any imaging device such as a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-8.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-8.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to add filters to photos? Best pro tips to make your website images stand out</title><link href="http://localhost:4000/blog/how-to-add-filters-to-photos-best-pro-tips-to-make-your-website-images-stand-out" rel="alternate" type="text/html" title="How to add filters to photos? Best pro tips to make your website images stand out" /><published>2021-07-29T00:00:00+05:30</published><updated>2021-07-29T00:00:00+05:30</updated><id>http://localhost:4000/blog/how-to-add-filters-to-photos-best-pro-tips-to-make-your-website-images-stand-out</id><content type="html" xml:base="http://localhost:4000/blog/how-to-add-filters-to-photos-best-pro-tips-to-make-your-website-images-stand-out">&lt;p&gt;Image filters are the additional makeups given to an image to enhance its appearance and style. In photography, a &lt;strong&gt;filter&lt;/strong&gt; is a camera accessory consisting of an optical filter that can be inserted into the optical path. The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the lens. The majority of filters used with film cameras have been rendered redundant by digital filters applied either in-camera or during post-processing. Exceptions include the ultraviolet (UV) filter typically used to protect the front surface of the lens, the neutral density (ND) filter, the polarizing filter, color-enhancing filters, and the infra-red (IR) filter. The neutral density filter permits effects requiring wide apertures or long exposures to be applied to brightly lit scenes, while the graduated neutral density filter is useful in situations where the scene’s dynamic range exceeds the capability of the sensor. Not using optical filters in front of the lens has the advantage of avoiding the reduction of image quality caused by the presence of an extra optical element in the light path and may be necessary to avoid vignetting when using wide-angle lenses.&lt;/p&gt;
+
+&lt;p&gt;There are many apps and websites which provide us with many filters on the go, my top 3 image filtering apps include-&lt;/p&gt;
+
+&lt;p&gt;1.INSTAGRAM-&lt;img src=&quot;/uploads/filter-6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Instagram is a very popular app that is a successor to Facebook. An Instagram filter is a feature within the social platform that allows you to edit your photo with one click, by simply applying pre-set edits to the image that Instagram has created for you. The good old Instagram filter was first launched in 2011 with some simple options to filter your photograph with a higher resolution, an optional border, or some nice tilt-shift effects. While these options may seem basic now, it was a whole new world for individuals lacking photo-editing chops. This feature was initially launched in 2011 as an update but later, it was a world hit update.&lt;/p&gt;
+
+&lt;p&gt;2.SNAPCHAT-&lt;img src=&quot;/uploads/f0-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Snapchat is an app where the Snaps can be personalized with various forms of visual effects and stickers. Geofilters are graphical overlays available if the user is within a certain geographical location, such as a city, event, or destination. Users can design and create their geofilters for personal events at a certain cost per hour. Bitmojis are stickers featuring personalized cartoon avatars, which can be used in snaps and messaging. Bitmoji characters can also be used as World Lenses.&lt;/p&gt;
+
+&lt;p&gt;3.B612-&lt;img src=&quot;/uploads/f0-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;B612 is an image enhancing app which is used to take a better picture. There are many images editing options, out of which the major one is the image filter editor. There are many image filters and image add-ons that can be taken advantage of. The traffic of the app is very organic and has increased exponentially. This is an alternate option to stock camera app that is provided on the mobile.&lt;/p&gt;
+
+&lt;p&gt;These are my top apps for any image filter options. The filter qualities are awesome and the designs are variant to each other. Adding filters to an image is a very simple task and requires no additional knowledge on anything, now I have written steps on how to add a photo filter to a sample photo, the image editing software I have used is ADOBE SPARK, it is free to use online-based software and although it has a limited filter under unpaid plans, the hands-on experience is very good and the features are very awesome. the following steps can help the user to add a filter to his photo-&lt;/p&gt;
+
+&lt;p&gt;1. OPEN THE ADOBE SPARK WEBSITE-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/f1-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Open your browser and search for the adobe spark website through the search box. There are many features included both paid and free included and related to image editing, audio file editing, and video file enhancement features. Each has its own special features which can be upgraded with a paid version. However, to get the most out of adobe spark we need to log in to access them.&lt;/p&gt;
+
+&lt;p&gt;2. SELECT THE ADD PHOTO FILTERS OPTION-&lt;img src=&quot;/uploads/filter-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After opening the browser and logging into the website, just search for the add photo filter through the search box. Hit the add  photo filter option to access the filter option.&lt;/p&gt;
+
+&lt;p&gt;3. Select the frame and border format -&lt;img src=&quot;/uploads/filter-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are looking to create a perfect filter, you’re just a few steps away from creating one, just select the border which is to be applied to your photo before tagging in a filter to it. The borders are many, each created for its own purpose. May that be an Instagram post or story about your birthday, or be it a Facebook post, YouTube thumbnail, a poster, a landscape you have it all under one web, each occasion has a frame and border for different purpose and application.&lt;/p&gt;
+
+&lt;p&gt;4.ARRANGE THE PICTURE-&lt;img src=&quot;/uploads/filter-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Select the picture and upload it using the upload option, or search for a new template for your photo if you hadn’t got any picture as a base. There are multiple varieties available as base templates. So, select the photo to start. If you have a picture ready or if you want to just let the program auto select hit the skip.&lt;/p&gt;
+
+&lt;p&gt;5.Visit the right-side setting for a filter select-&lt;img src=&quot;/uploads/filter-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the selection of the photo, there are many features for enhancing the photo, such as the enhancements, filters, blur, etc. select the filter option for adding a photo filter. There are a decent number of filters available. Some of the filters here include duotone, grayscale, darken, contrast, Matte, lighten, colorize, multiply. To select a filter, just hit the filter button just to activate it, and the filter gets applied. To enhance your image, even more use the other features offered by adobe spark. These features include text insertion features, icons, design assets, backgrounds, logos, and libraries. The main image editing features here include the blur effect, the enhancement mode, etc. After the edits just save your progress and download the photo. There is a share option that links directly to all the social media platforms such as Instagram, Gmail, Facebook, etc. The photo can directly be shared with the media handles directly.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools that can add different types of filters to our image, but as a user, it all depends on us on how we select our tools to finish our work. There are many apps and softwares that are masking themselves in front of us and stealing our personal info from our devices. Feel free to contact us through our social media handles if there are any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="add photo filters online" /><category term="add filters to photo" /><category term="add filters to photo online" /><category term="how to add filter to picture" /><summary type="html">Image filters are the additional makeups given to an image to enhance its appearance and style. In photography, a filter is a camera accessory consisting of an optical filter that can be inserted into the optical path. The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the lens. The majority of filters used with film cameras have been rendered redundant by digital filters applied either in-camera or during post-processing. Exceptions include the ultraviolet (UV) filter typically used to protect the front surface of the lens, the neutral density (ND) filter, the polarizing filter, color-enhancing filters, and the infra-red (IR) filter. The neutral density filter permits effects requiring wide apertures or long exposures to be applied to brightly lit scenes, while the graduated neutral density filter is useful in situations where the scene’s dynamic range exceeds the capability of the sensor. Not using optical filters in front of the lens has the advantage of avoiding the reduction of image quality caused by the presence of an extra optical element in the light path and may be necessary to avoid vignetting when using wide-angle lenses.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-1.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Different ways to remove watermark from images for both windows and mac users</title><link href="http://localhost:4000/blog/different-ways-to-remove-watermark-from-images-for-both-windows-and-mac-users" rel="alternate" type="text/html" title="Different ways to remove watermark from images for both windows and mac users" /><published>2021-07-29T00:00:00+05:30</published><updated>2021-07-29T00:00:00+05:30</updated><id>http://localhost:4000/blog/different-ways-to-remove-watermark-from-images-for-both-windows-and-mac-users</id><content type="html" xml:base="http://localhost:4000/blog/different-ways-to-remove-watermark-from-images-for-both-windows-and-mac-users">&lt;p&gt;&lt;strong&gt;Watermark&lt;/strong&gt; is a kind of marker covertly embedded in a noise-tolerant signal such as audio, video, or image data. It is typically used to identify ownership of the copyright of such signal. The process of watermarking digital media such as video, audio, images, etc. has been inspired from the late 1800s through watermarking letters, postal stamps, currency notes, etc. Digital watermarks may be used to verify the authenticity or integrity of the carrier signal or to show the identity of its owners. It is prominently used for tracing copyright infringements and for banknote authentication.&lt;/p&gt;
+
+&lt;p&gt;Most of the image templates, videos, and audio files are always watermarked till the end. So, when we need an ‘inspiration’ from these files, we cannot take them on reference into our work because of the watermark of its creators. So, now these are the following methods using which we can remove the watermarks, from videos, images, etc.&lt;/p&gt;
+
+&lt;p&gt;1.INPAINT-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;INPAINT is a web-based free online image processing tool, which provides all basic image processing settings, these include- image repair, watermark remover, facial retoucher, etc. the best of the features includes all the removal tools required for watermark and other imprints. Inpaint reconstructs the selected image area from the pixels near the area boundary, it can remove any undesirable artifacts such as logos, watermarks, people, etc. It is both mac/windows supported.&lt;/p&gt;
+
+&lt;p&gt;Now it is very simple to remove the watermark using INPAINT. The steps are as follows-&lt;/p&gt;
+
+&lt;p&gt;Step 1- Open the image tool and upload the image which requires an edit through the option called “upload image”. The fact to keep in mind is that the size of the image should not exceed 10MB and the format should be restricted to Jpg and Png.&lt;/p&gt;
+
+&lt;p&gt;Step 2-click the watermark removal tool in the left menu bar. And frame the location and size of the watermark on the photo and then click on the green “ERASE” option to remove the watermark.&lt;/p&gt;
+
+&lt;p&gt;Step- the final step, is to save the changes made to the photo, and after a few seconds of the edit, we will get a photo without a watermark. We then click on the “Download” button which shows in the top right corner of the page.&lt;/p&gt;
+
+&lt;p&gt;2.WONDERSHARE PIXCUT-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/water-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;WONDERSHARE PIXCUT is an open-based, free-to-use software that can be upgraded based on the requirement of the users. The pixcut family offers many features such as background removal, bulk stock removal, watermark remover, image enlargement, and we can remove image background API. It is both mac/windows supported.&lt;/p&gt;
+
+&lt;p&gt;Now the steps to remove any background watermark includes-&lt;/p&gt;
+
+&lt;p&gt;Step1- visit the official home page of the wonder share pixcut and hit the option “Remove Watermark”.&lt;/p&gt;
+
+&lt;p&gt;Step 2-upload the image which requires a change.&lt;/p&gt;
+
+&lt;p&gt;Step 3-so, now to remove the watermark from the image, we have to choose the option “select” and adjust the brushstroke size to draw over the unwanted object.&lt;/p&gt;
+
+&lt;p&gt;Step 4-click on the “remove objects” and the pixcut will remove the unwanted objects.&lt;/p&gt;
+
+&lt;p&gt;Step 5 – save the changes made, and download the resulting image using the “download” option.&lt;/p&gt;
+
+&lt;p&gt;3.PIXLR-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/water-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pixlr is an image editing software that is a paid software. This is just like any other image editing software which has its versatile features. The features are unique and the best of them include image template, watermark removal, facial enhancements, retouches, etc. No matter where you are, you can edit photos. The powerful online photo editor also works like a charm on your mobile device, so you can enter editing mode at any time. It is both mac/windows supported.&lt;/p&gt;
+
+&lt;p&gt;The steps to remove a watermark is-&lt;/p&gt;
+
+&lt;p&gt;Step 1-launch and login to the Pixlr website or the downloaded version&lt;/p&gt;
+
+&lt;p&gt;Step 2-upload the image by hitting the option called the “open image” button. The magic feature here is that we can even upload the URL of the image instead of the image. The command automatically pulls the image from the directory or the website.&lt;/p&gt;
+
+&lt;p&gt;Step 3-hit the retouch option on the left side of the panel, then opens the tools and mode panel. Select the “&lt;strong&gt;Clone stamp&lt;/strong&gt;” option to activate the feature to remove the watermark.&lt;/p&gt;
+
+&lt;p&gt;Step 4-hit the feature option and drag the mouse to erase the watermark and hit the save button to save the changes made. We can even adjust the quality and size of the photo in that particular step, when we finish hit the download button to download the changes made.&lt;/p&gt;
+
+&lt;p&gt;4.ADOBE PHOTOSHOP-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, who doesn’t know adobe photoshop? It is famous all around for its brand, trust, and features. Adobe Photoshop offers versatile features in image/audio/video editing and each has its surprises waiting for us to unlock. It is available both online and offline, both free and paid versions. All the versions contain free features to begin with basic image editing, and can be upgraded to premium based on the requirements of the user. It is both mac/windows supported.&lt;/p&gt;
+
+&lt;p&gt;Now the following steps can help in removing a watermarking from an image-&lt;/p&gt;
+
+&lt;p&gt;Step 1- open the adobe photoshop software and upload the image to begin your image editing.&lt;/p&gt;
+
+&lt;p&gt;Step 2-Select &lt;strong&gt;Magic Wand Tool (or press W)&lt;/strong&gt; and zoom to the area of the image with &lt;strong&gt;watermark&lt;/strong&gt; by pressing &lt;strong&gt;CTRL &amp;amp; + symbol&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Step 3-now using the Magic wand tool, select the watermarked area to remove the watermarked text.&lt;/p&gt;
+
+&lt;p&gt;Now the before moving to the next step, we need to outline the watermarked text, and for doing that we &lt;strong&gt;need to expand the selection to 5px to add some background pixel to make it wider&lt;/strong&gt; and then remove it to avoid unnecessary quality drops.&lt;/p&gt;
+
+&lt;p&gt;Step 4- to expand the watermarked area, &lt;strong&gt;Go to Select » Modify » Expand&lt;/strong&gt;, and then we can see a newly opened &lt;strong&gt;dialogue box&lt;/strong&gt;, set the &lt;strong&gt;Expand selection&lt;/strong&gt; to 5 pixels, and press OK.&lt;/p&gt;
+
+&lt;p&gt;Step 5- go to Edit &lt;strong&gt;» Content-Aware Fill,&lt;/strong&gt; after selecting this option the &lt;strong&gt;Content-Aware Fill Window&lt;/strong&gt; will automatically remove the watermark and show you the result.&lt;/p&gt;
+
+&lt;p&gt;5.SOFTORBITS PHOTO STAMP REMOVER-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SOFT-ORBITS PHOTO STAMP REMOVER is one of the most featured watermark remover software and it can be downloaded for free. Aside from removing watermarks, it can also erase date stamps, remove people, and clear up any unwanted element in your photos or images. It is free-to-use software and it is supported both on windows and mac. It has many features to begin with, but the best of them can be unlocked by the premium plan purchase. It is specially built for watermark removal.&lt;/p&gt;
+
+&lt;p&gt;Now the steps to remove a watermark using the soft orbits photo stamp remover are-&lt;/p&gt;
+
+&lt;p&gt;Step1- Open the &lt;strong&gt;SOFTORBITS PHOTO STAMP REMOVER&lt;/strong&gt; in your pc, and upload your photo which requires an edit.&lt;/p&gt;
+
+&lt;p&gt;Step2-using the &lt;strong&gt;marker&lt;/strong&gt; or &lt;strong&gt;highlighter&lt;/strong&gt; tool to highlight the watermark text or image to remove it from the picture.&lt;/p&gt;
+
+&lt;p&gt;Step3- click the &lt;strong&gt;‘remove’&lt;/strong&gt; option to erase the selected or highlighted text or an image. This eliminates the watermarked text or the image from the original image.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools that can remove a watermark from an image, but as a user, it all depends on us on how we select our tools to finish our work. There are many apps and softwares that are masking themselves in front of us and stealing our personal info from our devices. The above-mentioned apps/softwares are just an example of safe and free-to-use tools, feel free to contact us through our social media handles if there are any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="how remove watermark" /><category term="watermark remover app" /><category term="remove watermark word mac" /><category term="can i remove watermark from photo" /><summary type="html">Watermark is a kind of marker covertly embedded in a noise-tolerant signal such as audio, video, or image data. It is typically used to identify ownership of the copyright of such signal. The process of watermarking digital media such as video, audio, images, etc. has been inspired from the late 1800s through watermarking letters, postal stamps, currency notes, etc. Digital watermarks may be used to verify the authenticity or integrity of the carrier signal or to show the identity of its owners. It is prominently used for tracing copyright infringements and for banknote authentication.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-2.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-2.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A List of 10 best image splitter softwares for both windows and mac users this 2021</title><link href="http://localhost:4000/blog/a-list-of-10-best-image-splitter-softwares-for-both-windows-and-mac-users-this-2021" rel="alternate" type="text/html" title="A List of 10 best image splitter softwares for both windows and mac users this 2021" /><published>2021-07-29T00:00:00+05:30</published><updated>2021-07-29T00:00:00+05:30</updated><id>http://localhost:4000/blog/a-list-of-10-best-image-splitter-softwares-for-both-windows-and-mac-users-this-2021</id><content type="html" xml:base="http://localhost:4000/blog/a-list-of-10-best-image-splitter-softwares-for-both-windows-and-mac-users-this-2021">&lt;p&gt;Image splitting refers to the option or a feature that divides the image/photo according to the requirement of the user. In technical terms, it is called “Image segmentation” and is defined as the process of partitioning a digital image into multiple segments (sets of pixels, also known as image objects). The goal of segmentation is to simplify and/or change the representation of an image into something more meaningful and easier to analyze. Image segmentation is typically used to locate objects and boundaries (lines, curves, etc.) in images. More precisely, image segmentation is the process of assigning a label to every pixel in an image such that pixels with the same label share certain characteristics.&lt;/p&gt;
+
+&lt;p&gt;There are many image splitting apps/websites available throughout the internet, the best of them includes-&lt;/p&gt;
+
+&lt;p&gt;1.PICOSMOS-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/cut-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PICOSMOS is an image-splitting software that has been developed to enhance an image. It covers all the image editing tools in its quiver. The image functions available in picosmos are image browsing, editing, composing, segmentation, combine and screen recording, and the feature of taking a screenshot.&lt;/p&gt;
+
+&lt;p&gt;The main features include-&lt;/p&gt;
+
+&lt;p&gt;- Batch processing = we can operate pictures, optimize them, rotate them, etc.&lt;/p&gt;
+
+&lt;p&gt;- Page design = we can combine our images to produce posters and covers.&lt;/p&gt;
+
+&lt;p&gt;- Cutout = we can make a sectional drawing easy and quickly separate the background.&lt;/p&gt;
+
+&lt;p&gt;- Animation production = we can produce SWF files such as GIF and WebM.&lt;/p&gt;
+
+&lt;p&gt;- Segmentation = the most important feature wherein we can cut the photo in different dimensions.&lt;/p&gt;
+
+&lt;p&gt;2.GIMP-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/cut-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;GIMP is an open-source, cross-platform image editor which is available for GNU/LINUX, WINDOWS OS, and many more operating systems. It is free to use, and we can even make modifications to its source code to make it even better. Just download the plugin, copy it to the GIMP folder. Restart the software and add an image to edit, the software now has an icon of image splitting. Select the number of rows and columns or set it by pixel, after manipulating save the image with the desired file extension like PNG, JPEG, BMP, TIF, and CXF.&lt;/p&gt;
+
+&lt;p&gt;3.PHOTOSCAPE-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/cut-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PHOTOSCOPE is free image editing software, it is one of the few image-editing softwares made especially for image segmentation, you will see many utility tools, which are used for image processing, as we launch the software. These tools include the editor, screen capture, rename, combine, batch edit, etc. it can create an animated GIF with multiple photos, etc. It works as an image splitter app too. It provides the flexibility to save individual tile images and allows you to split multiple images simultaneously.&lt;/p&gt;
+
+&lt;p&gt;4.IMAGESPLITTER-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/cut-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;IMAGE SPLITTER is a web-based image editing software that is used to recognize the text on the image, recognize handwriting, send an email, search the web, rotate the picture, and many more. It is only compatible with Windows 8 or more. It processes the image fast and can split multiple photos simultaneously, save selection into separate files, use different tools to draw/write on the picture, and save the edited image, create handwritten notes. The ORC feature gives an edge to this software.&lt;/p&gt;
+
+&lt;p&gt;5.PINE TOOLS-&lt;img src=&quot;/uploads/cut-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pine Tools is an all-in-one platform that provides a variety of image processing tools, including a Split Image Online option. With this feature, you can split photos horizontally, vertically, or both. It allows you to divide the image into equal parts, or to define the width manually.&lt;/p&gt;
+
+&lt;p&gt;6.Image cool image splitter-&lt;img src=&quot;/uploads/cut-6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Image Cool is a freeware Windows software used for image editing and splitting. It edits the image in a separate window as you click the Tools tab and select the image splitter option. The image can split into units, or the number of vertical and horizontal lines, which means it is based on the unit size, the pixel method is used, and the blocks are arranged according to your measurements.&lt;/p&gt;
+
+&lt;p&gt;With the row and column method, you can define the number of boxes to appear on the screen to split the image according to the x/y ratio. Image Cool can split one image or multiple images at a single time. The software’s interface is straightforward to use and contains many necessary tools that work without hesitation.&lt;/p&gt;
+
+&lt;p&gt;7. IMGONLINE-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/cut-7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;IMGONLINE is a website designed for the high-quality processing of JPEG photos and pictures. The main treat of the site is we can edit different formats of images such as EXIF, IPTC, XMP, and even view them online, without even compressing them. The main features of the site remove any type of data from the image, rotate the image to any angle which is a multiple of 90 degrees. All of the above is done without compromising the quality of the image or any loss in the image data. The most useful features for quick correction or improvement photos online can be auto-levels, auto enrichment, manual adjustment of brightness and contrast, color saturation and tone, world. More of the feature is that we can create random pixel backgrounds.&lt;/p&gt;
+
+&lt;p&gt;8.PHATBOY IMAGESPLITTER-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/cut-8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Phatboy Image Slicer is a freeware image splitter program for the Windows operating system. The interface on this software is easy to understand and has a great GUI structure that has all the defined tools on the side of the windows. Phatboy Image Slicer works simply by asking you to select the image to edit and open a new window that requires you to enter the measurements in either the n form of pixels or the number of rows and columns.&lt;/p&gt;
+
+&lt;p&gt;9.PHOTOSHOP-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/li.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Adobe Photoshop is a raster graphics editor developed and published by adobe. Now, who doesn’t know adobe photoshop? It is a world-famous image/audio/video editing software, which is multi-featured and multi-functional. It offers almost many features including the image splitting feature. This software provides files that edit images using separate pieces called layers. Each Photoshop layer can accept its own blending options and you can drag and transform the layers individually to edit the file. These layers can also overlap, reducing the amount of blank space in the image. For example, if an image contains your company slogan beside its logo, you can split the two components into separate pieces so you can move the slogan to the image’s base.&lt;/p&gt;
+
+&lt;p&gt;10. Safeimagekit-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/cut-9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SAFE IMAGE KIT is a versatile image editing tool that is online-based. It is free to use and it provides many images editing options such as image cropping, image splitting, meme-making, image filter adder, image compression, text to image compressor, image comparison, image flipping, image watermarking, etc. it is safe and secure to use, as it does not store any images online or any servers.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools that can split apart from an image but as a user, it all depends on us on how we select our tools to finish our work. There are many apps and softwares that are masking themselves in front of us and stealing our private info from our devices. The above-mentioned apps/softwares are just an example of safe and free-to-use tools, feel free to contact us through our social media handles if there are any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="image splitter software" /><category term="split picture software" /><category term="image splitter download" /><category term="photo splitter" /><category term="custom image splitter" /><category term="free image splitter" /><category term="image splitter free" /><summary type="html">Image splitting refers to the option or a feature that divides the image/photo according to the requirement of the user. In technical terms, it is called “Image segmentation” and is defined as the process of partitioning a digital image into multiple segments (sets of pixels, also known as image objects). The goal of segmentation is to simplify and/or change the representation of an image into something more meaningful and easier to analyze. Image segmentation is typically used to locate objects and boundaries (lines, curves, etc.) in images. More precisely, image segmentation is the process of assigning a label to every pixel in an image such that pixels with the same label share certain characteristics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-7.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-7.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A list of best free image compressing softwares for both windows and mac users this 2021.</title><link href="http://localhost:4000/blog/a-list-of-best-free-image-compressing-softwares-for-both-windows-and-mac-users-this-2021" rel="alternate" type="text/html" title="A list of best free image compressing softwares for both windows and mac users this 2021." /><published>2021-07-29T00:00:00+05:30</published><updated>2021-07-29T00:00:00+05:30</updated><id>http://localhost:4000/blog/a-list-of-best-free-image-compressing-softwares-for-both-windows-and-mac-users-this-2021</id><content type="html" xml:base="http://localhost:4000/blog/a-list-of-best-free-image-compressing-softwares-for-both-windows-and-mac-users-this-2021">&lt;p&gt;Image compression is a feature that is done to modify the image in terms of its size, dimensions, quality, texture, etc. The image will be reduced in all aspects the most preferred aspect stands its size, users detox the original image with the help of various softwares and apps. The real meaning of image compression is that it is a type of data compression applied to digital images, to reduce their cost for storage or transmission. Algorithms may take advantage of visual perception and the statistical properties of image data to provide superior results compared with generic data compression methods which are used for other digital data. Image compression is generally 2 types in nature-&lt;/p&gt;
+
+&lt;p&gt;Lossy compression-&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;         lossy compression or irreversible compression is the class of data encoding methods that uses inexact approximations and partial data discarding to represent the content. These techniques are used to reduce data size for storing, handling, and transmitting content. The different versions of the photo of the cat on this page show how higher degrees of approximation create coarser images as more details are removed. This is opposed to lossless data compression (reversible data compression) which does not degrade the data. The amount of data reduction possible using lossy compression is much higher than using lossless techniques.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Lossless compression-&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;         Lossless compression is a class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data. By contrast, lossy compression permits reconstruction only of an approximation of the original data, though usually with greatly improved compression rates (and therefore reduced media sizes). Lossless compression is used in cases where it is important that the original and the decompressed data be identical, or where deviations from the original data would be unfavorable. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Image compression may be lossy or lossless. Lossless compression is preferred for archival purposes and often for medical imaging, technical drawings, clip art, or comics. Lossy compression methods, especially when used at low bit rates, introduce compression artifacts. Lossy methods are especially suitable for natural images such as photographs in applications where the minor (sometimes imperceptible) loss of fidelity is acceptable to achieve a substantial reduction in bit rate. Lossy compression that produces negligible differences may be called visually lossless.&lt;/p&gt;
+
+&lt;p&gt;The main factors that decide the potentiality of an image compression software or an app here consist of –&lt;/p&gt;
+
+&lt;p&gt;1.Scalability-&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                              Scalability is the main factor that plays a major role while converting an image. It generally refers to a quality reduction, which can be achieved by the manipulation of a bitstream or a file. Scalability also may be found in lossless codecs, usually in form of coarse-to-fine pixel scans. Scalability is especially useful for previewing images while downloading them (e.g., in a web browser) or for providing variable quality access to e.g., databases.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;2.Meta Information-&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                                      Compressed data may contain information about the image which may be used to categorize, search, or browse images. Such information may include color and texture statistics, small preview images, and author or copyright information. Most of the websites skip this information branding it as unnecessary thereby eliminating it, so the user must make sure to download the modified image as a zip file this actually includes the additional data along with the image so that the user can only extract the information or the picture based on their demand.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;3. Processing Power-&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                                       Processing power is an important feature after scalability, the ideal condition for processing power here, should always take less time in encoding and decoding and more data coverage at the same time. Compression algorithms require different amounts of processing power to encode and decode. Some high compression algorithms require high processing power.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Image compression softwares present around the internet demand many things, but unknown to the users they might steal valuable information from and thereby exploit them. The users should always make sure about these things while referring to an unknown website or an app-&lt;/p&gt;
+
+&lt;p&gt;1.Credibility of the app/website-&lt;/p&gt;
+
+&lt;p&gt;Safety has always been the first and foremost factor which has always worried the people who are on the internet since 2005, with the advent of new methods for data breaches, the safety methods to is being upgraded exponentially. So, safety is the first and foremost factor that is to be observed when uploading your data to any unknown websites. There are two simple ways in which you can check its credibility The first way is to use a URL checker like google safe browser technology, and site checker pro and run a site check. These URL checkers are free to use and easy to manage. The second way is to view the QR code generator’s credibility is by viewing the validity of its SSL certificate.&lt;/p&gt;
+
+&lt;p&gt;2. Features matter the most-&lt;/p&gt;
+
+&lt;p&gt;features are the options offered by the app/website to the users to modify their existing data to a whole new level. Always check multiple websites on the QR codes to compare and use their features efficiently, and also check their credibility before uploading your data. Features decide almost everything, for generating the best QR code, the user requires the best features such as the QR code editing option, image editing options, colors, templates, etc.&lt;/p&gt;
+
+&lt;p&gt;3. Compatibility-&lt;/p&gt;
+
+&lt;p&gt;This is a small but important feature, while selecting a code generator always check its compatibility in multiple devices. Some of the Apps/Websites may not provide the same features on mobile/tablet as they have provided on pc. So, always check the compatibility of the QR code generator on multiple devices such as Android or iOS and compare.&lt;/p&gt;
+
+&lt;p&gt;4. Compare the plans-&lt;/p&gt;
+
+&lt;p&gt;The best features or options for our QR codes or any other services provided are always locked inside the premium vault. The keys to this kingdom lie in the plans of premium subscriptions. So, always compare the plans and services of multiple Websites/Apps to take the best out there.&lt;/p&gt;
+
+&lt;p&gt;Now coming to the softwares which provide the best image compressing options out there on the internet include-&lt;/p&gt;
+
+&lt;p&gt;1.SQUOOSH-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/compression-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                             SQUOOSH is a fast, reliable, and resourceful web-based image compression software. It is a simple photo compressor tool wherein we just drag a photo from a photo finder window and drop it on the browser, we just click the download button after dropping a photo. The bonus feature here is that all the parameters are customizable. Images here can be rotated, resized, and the color palette can be reduced. The best feature is the vertical bar that shows the original image on one side and the compressed image on the other. It can be dragged left and right to preview the quality after adjusting the compression settings.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;2.CAESIUM IMAGE COMPRESSOR- &lt;img src=&quot;/uploads/compression-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                              The cesium image compressor is divided into 3 parts which are the compression section, resizing column, the output folder. It is open-sourced and windows supported software. It can even convert or compress images from other formats, these are PNG, BMP, JPG. output folder allows you to add compressed images with unique suffixes to a new folder. The key features offered in Caesium image compressor software include –
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It can compress multiple image folders at a single instant Simple and user-friendly interface, Portable version is handier (app-based), It can format, resize, reshape any image.&lt;/p&gt;
+
+&lt;p&gt;3.RIOT-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/compression-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;RIOT or Radical image optimizer is a free optimizer tool. the users can compress and reduce the size of larger images. It supports various image formats such as JPG, JPEG, BMP, TIF, GIF, and many other RAW image formats. The user can compress, resize, rotate and flip. There are many features offered by RIOT out which stand out is the resampling feature. This allows us to adjust the height, width of the image along with their aspect ratio. The users can compare the image by keeping the original image pane side with the edited one. Resample options are available for image resizing via 6 resampling filters. There are some downsides for this software too, as this is built solely for image compression it has skipped out the feature to preview the edits before a save, so just make sure to keep the original photo handy in any case necessary.&lt;/p&gt;
+
+&lt;p&gt;4. Compressor.io- &lt;img src=&quot;/uploads/compression-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Compressor.io is an online service for compressing photos and files. It offers both lossy format and lossless format compression, after selecting an output format, the users can select and drag the image into an input box. The compression will be an automated process wherein the image will be available to download just after a few seconds. The compressed image is not as small as some other services and apps can manage, so maybe the preset compression settings are conservative.&lt;/p&gt;
+
+&lt;p&gt;5.Safeimagekit-&lt;img src=&quot;/uploads/compression-6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, this is interesting safeimagekit.com is a multimode featured website that provides many options for the users related to the image. Image conversions, art generations, image compressions, watermarking feature on an image with the text of the user’s choice, pixel art generator, ASCII art generator, etc. coming to the meme generator the features provided to the user are very standard. It is not connected to any server out there .so, the uploaded images are completely safe and secured. The image compressions offer height and width adjustment, it even offers many options apart from image compression.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools that can compress our image, but as a user, it all depends on us on how we select our tools to finish our work. There are many apps and softwares that are masking themselves in front of us and stealing our personal info from our devices. The above-mentioned apps/softwares are just an example of safe and free-to-use tools, feel free to contact us through our social media handles if there are any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="best image compression software free download" /><category term="compress image software" /><category term="compress pictures software" /><category term="advance jpeg compressor" /><category term="batch compress jpeg" /><category term="best compression software for windows 10" /><summary type="html">Image compression is a feature that is done to modify the image in terms of its size, dimensions, quality, texture, etc. The image will be reduced in all aspects the most preferred aspect stands its size, users detox the original image with the help of various softwares and apps. The real meaning of image compression is that it is a type of data compression applied to digital images, to reduce their cost for storage or transmission. Algorithms may take advantage of visual perception and the statistical properties of image data to provide superior results compared with generic data compression methods which are used for other digital data. Image compression is generally 2 types in nature-</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-4.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-4.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A List of 10+ best meme maker apps for both android and IOS users this 2021</title><link href="http://localhost:4000/blog/a-list-of-10-best-meme-maker-apps-for-both-android-and-ios-users-this-2021" rel="alternate" type="text/html" title="A List of 10+ best meme maker apps for both android and IOS users this 2021" /><published>2021-07-28T00:00:00+05:30</published><updated>2021-07-28T00:00:00+05:30</updated><id>http://localhost:4000/blog/a-list-of-10-best-meme-maker-apps-for-both-android-and-ios-users-this-2021</id><content type="html" xml:base="http://localhost:4000/blog/a-list-of-10-best-meme-maker-apps-for-both-android-and-ios-users-this-2021">&lt;p&gt;A MEME is a funny way of representing a funny situation or a person in a funny way, according to the meaning is “&lt;strong&gt;meme&lt;/strong&gt;, is an idea, behavior, or style (meme) that is spread via the Internet, often through social media platforms and especially for humorous purposes. What is considered a meme may vary across different communities on the Internet and is subject to change over time. Traditionally, memes consisted of a combination of image macros and a concept or catchphrase, but the concept has since become broader and more multi-faceted, evolving to include more elaborate structures such as challenges, GIFs, videos, and viral sensations.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TREND-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Modern memes can generally be described as more visually (rather than contextually) humorous, absurd, niche, diverse, and self-referential than earlier forms. As a result, they are less intuitive and are less likely to be fully understood by a wider audience. By the mid-2010s, they began to arise first in the form of “dank” memes, a sub-genre of memes usually involving meme formats in a different way to the image macros that were in large use before. The term “dank”, which means “a cold, damp place”, was later adapted by marijuana smokers to refer to high-quality marijuana, and then became an ironic term for a type of meme, also becoming synonymous for “cool”. This term originally meant a meme that was significantly different from the norm but is now used mainly to differentiate these modern types of memes from other, older types such as image macros. Dank memes can also refer to those which are “exceptionally unique or odd”. They have been described as “internet in-jokes” that are “so played out that they become funny again” or are “so nonsensical that they are hilarious”.&lt;/p&gt;
+
+&lt;p&gt;ARE MEMES LEGAL??-&lt;/p&gt;
+
+&lt;p&gt;Under Section 2(c) of the Indian Copyright Act, 1957, a meme could be classified as an ‘artistic work’ which states that an artistic work includes painting, sculpture, drawing (including a diagram, map, chart, or plan), an engraving or a photograph, whether or not any such work possesses artistic quality. The section uses the phrase &lt;em&gt;“whether or not possessing artistic quality”&lt;/em&gt;, the memes that are rage comics or those such as Keyboard cat would enjoy protection as they are original creations in the form of a painting, drawing, photograph, or short video clip, despite not having artistic quality. Memes that are made from cinematograph still or photographs, the original image in the background for the meme would also be protected as the picture or the still from the series/movie is an ‘artistic work’. These memes are a modification of that already existing artistic work with some little amount of creativity and therefore, they would also enjoy copyright protection. India follows a fair dealing approach as an exception to copyright infringement under Section 52(1)(a) for the purposes of private or personal use, criticism, or review. The analysis requires three steps: the amount and substantiality of dealing, the purpose of copying, and the effect on potential markets.&lt;/p&gt;
+
+&lt;p&gt;There are many meme-making apps on the internet and each has its own pros and cons but the best only stays at the top.&lt;/p&gt;
+
+&lt;p&gt;While using a meme maker, the user needs to check the pros and cons offered by the Website. The factors that matter here are-&lt;/p&gt;
+
+&lt;p&gt;1.&lt;strong&gt;Credibility of the website&lt;/strong&gt;- Safety has always been the first and foremost factor which has always worried the people who are on the internet since 2005, with the advent of new methods for data breaches, the safety methods to is being upgraded exponentially. So, safety is the first and foremost factor that is to be observed when uploading your data to any unknown websites. There are two simple ways in which you can check its credibility The first way is to use a URL checker like google safe browser technology, and site checker pro and run a site check. These URL checkers are free to use and easy to manage. The second way is to view the QR code generator’s credibility is by viewing the validity of its SSL certificate.&lt;/p&gt;
+
+&lt;p&gt;2. &lt;strong&gt;Features matter the most&lt;/strong&gt;- features are the options offered by the app/website to the users to modify their existing data to a whole new level. Always check multiple websites on the meme-making websites to compare and use their features efficiently, and also check their credibility before uploading your data. Features decide almost everything, for generating the best meme, the user requires the best features such as the meme editing option, text editing options, colours, templates, etc.&lt;/p&gt;
+
+&lt;p&gt;3. &lt;strong&gt;Compatibility-&lt;/strong&gt; This is a small but important feature, while selecting a meme generator always check its compatibility in multiple devices. Some of the Apps/Websites may not provide the same features on mobile/tablet as they have provided on pc. So, always check the compatibility of the meme generator on multiple devices such as Android or iOS and compare.&lt;/p&gt;
+
+&lt;p&gt;4. &lt;strong&gt;Compare the plans-&lt;/strong&gt; The best features or options for our meme generator. or any other services provided are always locked inside the premium vault. The keys to this kingdom lie in the plans of premium subscriptions. So, always compare the plans and services of multiple Websites/Apps to take the best out there.&lt;/p&gt;
+
+&lt;p&gt;5. &lt;strong&gt;good customer support-&lt;/strong&gt; This is another important factor that requires our focus, in times of grievances a fast and reliable help from the app/website is required. This means a lot to the customer which earns their trust. Replies to bugs, responding to the suggestions offered, etc. are some things that matters a lot and these are growth factors too.&lt;/p&gt;
+
+&lt;p&gt;There are many meme materials available throughout the internet in many fields, this dynamic list consists of many fields the some of them includes-&lt;/p&gt;
+
+&lt;p&gt;Coffin Dance/Dancing Pallbearers – A group of Ghana pallbearers that respectfully dance during funeral processions had been covered by the BBC in 2017 and gained some initial Internet popularity. In the wake of the COVID-19 pandemic, a popular TikTok video mashed the BBC footage with the EDM song “Astronomia” from Russian artist Tony Igy creating a meme that appeared to spread as a morbidly humorous reminder about the dangers of COVID-19.&lt;/p&gt;
+
+&lt;p&gt;SpongeBob SquarePants – A 1999 Nickelodeon animated television series that has spawned various Internet memes. These memes include “Surprised Patrick”, “Mr. Krabs Blur”, “Caveman SpongeBob”, “Handsome Squidward”, and ‘“Mocking SpongeBob”. In 2019, Nickelodeon officially released merchandise based on the memes.&lt;/p&gt;
+
+&lt;p&gt;Among Us – A game made by game studio Inner sloth was released on Steam in 2018. The game reached internet fame in 2020 due to the release of The Henry Stickmin Collection by the same developer, and by Twitch streamers streaming the game frequently. Stills from the game, saying things like “Emergency Meeting” and “Dead body reported” have been on many modern memes. Frequent things that happen in the game, like the Imposter lying about whom to kick out, or people trying to sabotage their crewmates, have also gotten popular in modern memes, etc.&lt;/p&gt;
+
+&lt;p&gt;The Lord of the Rings (trilogy) – Released between 2001 and 2003, just at the height of meme-style culture was taking off, several moments from the films became part of the online culture, with most notably Sean Bean’s character of Boromir stating “One does not simply walk into Mordor” as one of most commonly referenced.&lt;/p&gt;
+
+&lt;p&gt;And many more….&lt;/p&gt;
+
+&lt;p&gt;There are many app-based online meme generators available throughout the internet, but only those meme generators which can provide safety, reliability, featured, and extra styled. Some of the best meme-making apps include-&lt;/p&gt;
+
+&lt;p&gt;5.MEMENOW – Meme Maker and Meme Generator&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/memeapp-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Meme Now is the easiest and most advanced meme maker app which is free, the main features of the meme now consist of the addition and updation of popular meme templates regularly, real-time text editing features, adjusting text size, text color editing, etc. This app is developed by App Hooray. The download size of this app is around 21.54Mb. This app is free and available on both Android and iOS. This app provides multiple font sizes in text editing when creating a meme, there is no watermark added to memes, the user can add photo effects. The memes created on your device don’t get uploaded to any server. All it requires is a user to rock on. The only worrying feature about its structure is that it’s made up of ads. So, the user needs a small bit of patience equipped on his mind while using the app.&lt;/p&gt;
+
+&lt;p&gt;4.MEMATIC-THE MEME MAKER-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/memeapp-2-png.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MEMATIC is more than a MEME editor, it is fast and easy to work on. This app is offered by Trilliarden. The app has a decent meme template library that you can browse to know existing memes and create your own. The UI makes it easier for users to navigate, while the feature to add your images takes away any deficiency the app might possess. The main features offered by the app here include safe meme creation, multi-mode templates, text editing options to the photos uploaded, and font edits to the image, colour editing options. Better user service. Key features offered by the mematic include a built-in template library, no in-app purchase, simple UI and easy to use and sharing options too.&lt;/p&gt;
+
+&lt;p&gt;3.EASYMEMEMAKER-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-app-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a bottom pit of meme templates, wherein the user is provided with many-many options for their starting materials. It has many more than 100 funny memes for the user to caption. We can change images, rotate them, add texts in case of privacy issues just water-mark your meme so that no one copies them. The updated user interface is easier for the user to work on by the user. The current downloads are 5M+ and increasing. It is offered by Biracle. Have fun together! You always have a chance to add multiple images to your meme. If you haven’t found a picture that you have been looking for in the app stores you can upload it right from your gadget. Here captions can take more than one line. This app is available on both Android and iOS. It has regular updates and bug fixes and a user-friendly UI.&lt;/p&gt;
+
+&lt;p&gt;2. IMGUR-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-app-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;IMGUR is a source-sans profile for all the great meme content out there all stored in one app, this app is available in both iTunes as well as play store. It has a lot of great stuff, which gets updated regularly. You can search for memes and GIFs on cosplay, comics, puns, science, and absolutely anything. Moreover, developer Imgur Inc keeps the bugs fixed once they detect them. But the only thing that could become a hindrance is the ads and no doubt those are annoying. You can create memes as well as GIFs on something that is trending, and yes, dogs’ trend throughout the year.&lt;/p&gt;
+
+&lt;p&gt;1.GATM-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-app-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the advent of apps like Instagram and Snapchat, memes have been created on the spot with the features like photo filters, reels, and spot pic edits. Some apps though have been successful to keep their spots alive in this game. The best of them is the GATM meme generator. The app features a huge template library, and you can upload your own images too. The GATM Meme Generator can be downloaded for free, but the text formatting tools offer only basic options. the content is updated daily, and since it is in the background, you won’t even have to do it manually. Try Bad Luck Brian or Socially Awkward Penguin or browse through its Library to create more.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools that can make memes and entertain us, but as a user, it all depends on us on how we select our tools to finish our work. There are many apps and softwares that are masking themselves in front of us and stealing our personal info from our devices. The above-mentioned apps/software are just an example of safe and free-to-use tools, feel free to contact us through our social media handles if there are any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="meme maker app" /><category term="best meme maker app iPhone" /><category term="meme maker apps iPhone" /><category term="meme maker apps for android" /><category term="what's the best meme maker app" /><category term="meme making apps for iPhone" /><summary type="html">A MEME is a funny way of representing a funny situation or a person in a funny way, according to the meaning is “meme, is an idea, behavior, or style (meme) that is spread via the Internet, often through social media platforms and especially for humorous purposes. What is considered a meme may vary across different communities on the Internet and is subject to change over time. Traditionally, memes consisted of a combination of image macros and a concept or catchphrase, but the concept has since become broader and more multi-faceted, evolving to include more elaborate structures such as challenges, GIFs, videos, and viral sensations.”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-6.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-6.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Comparing online QR code generator tools that are safe for the users, both free and paid.</title><link href="http://localhost:4000/blog/comparing-online-qr-code-generator-tools-that-are-safe-for-the-users-both-free-and-paid" rel="alternate" type="text/html" title="Comparing online QR code generator tools that are safe for the users, both free and paid." /><published>2021-07-28T00:00:00+05:30</published><updated>2021-07-28T00:00:00+05:30</updated><id>http://localhost:4000/blog/comparing-online-qr-code-generator-tools-that-are-safe-for-the-users-both-free-and-paid</id><content type="html" xml:base="http://localhost:4000/blog/comparing-online-qr-code-generator-tools-that-are-safe-for-the-users-both-free-and-paid">&lt;p&gt;QR code or a quick response code is a type of barcode, which is born from the method of representing data in a visual, machine-readable form. Barcodes represent data by varying the widths and spacings of parallel lines and unlike barcodes, QR codes are completely made up of black squares arranged in a square grid on a white background, these symbols or characters are completely confined in a box, no matter the length or the size of the file stored inside the response code. This can be read by any imaging device such as a camera, and processed using &lt;a href=&quot;https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction&quot;&gt;Reed–Solomon error correction&lt;/a&gt; until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.&lt;/p&gt;
+
+&lt;p&gt;QR codes have their potential uses in each of the major fields currently in trending they run haywire in these fields and increase the efficiency of the website/app accordingly, thereby decreasing the workload of the user and increasing the fun of using that app/website even more than before. Some of the game-changers here are-&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-operation-&quot;&gt;&lt;strong&gt;MOBILE OPERATION-&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;QR codes can be used on various mobile device operating systems. iPhones running on iOS 11 and higher and some Android devices can natively scan QR codes without downloading an external app. The camera app is able to scan and display the kind of QR code (only on iPhone) along with the link (both on Android and iPhone).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;QR CODE PAYMENT-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;QR codes can be used to store bank account information or credit card information, or they can be specifically designed to work with particular payment provider applications. There are several trial applications of QR code payments across the world. In developing countries like China, India and Bangladesh QR code payment is a very popular and convenient method of making payments. Since ALIPAY designed a QR code payment method in 2011, mobile payment has been quickly adopted in China. As of 2018, around 83% of all payments were made via mobile payment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JOINING A WIFI NETWORK-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, this seems a bit funny about using the Wi-Fi network. The users who own a Wi-Fi network can share their Wi-Fi password, even if they forget! all they need to do is to open their Wi-Fi settings and hit the share password option, and then appears a QR code upon scanning that the user can access the Wi-Fi password.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RESTAURANT ORDERING-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fast serve restaurants can present a QR code near the front door allowing guests to view an online menu, or even redirect them to an online ordering website or app, allowing them to order or potentially pay for their meal without having to stand in line or use a cashier. QR codes can also link to daily or weekly specials that are not printed on the standardized menus. At table service restaurants, QR codes enable guests to order their meals without a waiter involved—the QR code contains the table number so servers know where to bring the food. This application has grown especially since the need for social distancing during the &lt;a href=&quot;https://en.wikipedia.org/wiki/COVID-19_pandemic&quot; title=&quot;COVID-19 pandemic&quot;&gt;2020 COVID-19 pandemic&lt;/a&gt; has prompted reduced contact between service staff and customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO GAMES-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, this is my favorite part about the QR codes, Popular video games, such as &lt;em&gt;FEZ&lt;/em&gt;, &lt;em&gt;THE TALOS PRINCIPLE&lt;/em&gt;, and &lt;em&gt;WATCH DOGS,&lt;/em&gt; have incorporated QR codes as story and gameplay elements. &lt;em&gt;AMONG US&lt;/em&gt; has a QR code Easter egg in the “Scan boarding pass “ task in the MIRA HQ map. Mobile games such as &lt;em&gt;MUNZEE&lt;/em&gt; use geolocation in combination with QR codes to create a game that is played in the real world by scanning QR stickers in physical locations.&lt;/p&gt;
+
+&lt;p&gt;There are many QR code scanners on the internet and each has its pros and cons but the best only stays at the top, while using a QR code scanner or generator, the user needs to check the pros and cons offered by the App/Website. The factors that matter here are-&lt;/p&gt;
+
+&lt;p&gt;1.&lt;strong&gt;Credibility of the app/website&lt;/strong&gt;- Safety has always been the first and foremost factor which has always worried the people who are on the internet since 1990’s, with the advent of new methods for data breaches, the safety methods too are being upgraded exponentially. So, safety is the first and foremost factor that is to be observed when uploading your data to any unknown websites. There are two simple ways in which you can check its credibility The first way is to use a URL checker like google safe browser technology, and site checker pro and run a site check. These URL checkers are free to use and easy to manage. The second way is to view the QR code generator’s credibility is by viewing the validity of its SSL certificate.&lt;/p&gt;
+
+&lt;p&gt;2. &lt;strong&gt;Features matter the most&lt;/strong&gt;- features are the options offered by the app/website to the users to modify their existing data to a whole new level. Always check multiple websites on the QR codes to compare and use their features efficiently, and also check their credibility before uploading your data. Features decide almost everything, for generating the best QR code, the user requires the best features such as the QR code editing option, image editing options, colors, templates, etc.&lt;/p&gt;
+
+&lt;p&gt;3. &lt;strong&gt;Compatibility-&lt;/strong&gt; This is a small but important feature, while selecting a code generator always check its compatibility in multiple devices. Some of the Apps/Websites may not provide the same features on mobile/tablet as they have provided on pc. So, always check the compatibility of the QR code generator on multiple devices such as Android or iOS and compare.&lt;/p&gt;
+
+&lt;p&gt;4. &lt;strong&gt;Compare the plans-&lt;/strong&gt; The best features or options for our QR codes or any other services provided are always locked inside the premium vault. The keys to this kingdom lie in the plans of premium subscriptions. So, always compare the plans and services of multiple Websites/Apps to take the best out there.&lt;/p&gt;
+
+&lt;p&gt;5. &lt;strong&gt;Good customer support-&lt;/strong&gt; This is another important factor that requires our focus, in times of grievances a fast and reliable help from the app/website is required. This means a lot to the customer which earns their trust. Replies to bugs, responding to the suggestions offered, etc. are some things that matter a lot and these are growth factors too.&lt;/p&gt;
+
+&lt;p&gt;The above mentioned are some of the main factors which we have to keep in mind. There are many QR code generator Apps/websites which are available, out of which the best is mentioned below –&lt;/p&gt;
+
+&lt;p&gt;6. QR stuff -&lt;/p&gt;
+
+&lt;p&gt;QR stuff is a multi-mode QR code generator/creator which offers versatile features for our QR code. It boasts a steadfast reputation of churning permanent codes that don’t expire and are 100% ads-free. This offers multiple options while creating a QR code that is completely free to operate. However, signing up for its exclusive subscription packs let you have additional benefits. &lt;img src=&quot;/uploads/qr-code-website-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;5. QRD.BY-&lt;/p&gt;
+
+&lt;p&gt;QRD code generator is free to use web-based tool, which offers steadfast and safe QR codes at a dashing speed. But the downside this QR code generator is giving to users is it only has limited QR code features such as its customizing feature, which is a crucial turning point in getting more QR code scans. This also contains paid subscriptions which allow the user to create multiple QR codes and store them in their grid. Exporting and importing QR codes from anywhere in the world along with many other features. &lt;img src=&quot;/uploads/qr-code-website-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;4. VISUALEAD-&lt;/p&gt;
+
+&lt;p&gt;Visualead is a QR code generator that focuses on creating a visually appealing QR code. This QR code generator is fun to use at first, but as you are trying to download them, they will ask you to sign-up for their 14-day trial plan. Knowing the 14 days are efficient to carry out a great marketing campaign.&lt;img src=&quot;/uploads/qr-code-website-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3. BEACONSTAC-&lt;/p&gt;
+
+&lt;p&gt;BEACONSTAC offers versatile features while creating a QR code, The website also has informative material to help you get started. The website offers a balanced setup for the creation of a QR code. The best features are divided into 2 categories, one-half of the best are available for free, while the other can be unlocked in the paid subscriptions. &lt;img src=&quot;/uploads/qr-code-website-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2. QR TIGER-&lt;/p&gt;
+
+&lt;p&gt;QR TIGER provides characteristic features in the creation of a QR code. It even provides a paid utilities and extra features. The interface of the website is user-friendly and professional at the same time. The ad-free work experience in the QR TIGER lets the user create in peace. It is cross-web connected and can be used in multiple portals such as Instagram, YouTube, Flipkart. It can even generate QR codes based on the device’s specifications.&lt;img src=&quot;/uploads/qr-code-website-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.RCODEMONKEY-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;RCODEMONKEY offers the best features under the roof for free, you can create and use the QR code in an instant QR Code Monkey also has a QR Code API hosted on RapidAPI. The outstanding features include the creation of QR codes even for digital currencies with standard security protocols these include BITCOIN, LITECOIN, etc. All of the mentioned features in the website are standard issues and are completely awesome.&lt;img src=&quot;/uploads/qr-code-website-6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools which can make QR codes, but as a user it all depends on us on how we select our tools to finish our work. There are many apps and softwares that are masking themselves in front of us and stealing our personal info from our device. The above-mentioned apps/softwares are just an example of a safe and free to use tools, feel free to contact us through our social media handles if there any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="qr code generator free" /><category term="qr code generator app" /><category term="what is qr code generator" /><category term="qr code generator download" /><category term="qr code generator and scanner" /><category term="qr code generator photo" /><summary type="html">QR code or a quick response code is a type of barcode, which is born from the method of representing data in a visual, machine-readable form. Barcodes represent data by varying the widths and spacings of parallel lines and unlike barcodes, QR codes are completely made up of black squares arranged in a square grid on a white background, these symbols or characters are completely confined in a box, no matter the length or the size of the file stored inside the response code. This can be read by any imaging device such as a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-3.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-3.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A List of 10+ best meme maker tools that are absolutely free this 2021.</title><link href="http://localhost:4000/blog/a-list-of-10-best-meme-maker-tools-that-are-absolutely-free-this-2021" rel="alternate" type="text/html" title="A List of 10+ best meme maker tools that are absolutely free this 2021." /><published>2021-07-28T00:00:00+05:30</published><updated>2021-07-28T00:00:00+05:30</updated><id>http://localhost:4000/blog/a-list-of-10-best-meme-maker-tools-that-are-absolutely-free-this-2021</id><content type="html" xml:base="http://localhost:4000/blog/a-list-of-10-best-meme-maker-tools-that-are-absolutely-free-this-2021">&lt;p&gt;A MEME is a funny way of representing a funny situation or a person in a funny way, according to the meaning is “&lt;strong&gt;meme&lt;/strong&gt;, is an idea, behavior, or style (meme) that is spread via the Internet, often through social media platforms and especially for humorous purposes. What is considered a meme may vary across different communities on the Internet and is subject to change over time. Traditionally, memes consisted of a combination of image macros and a concept or catchphrase, but the concept has since become broader and more multi-faceted, evolving to include more elaborate structures such as challenges, GIFs, videos, and viral sensations.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TREND-&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Modern memes can generally be described as more visually (rather than contextually) humorous, absurd, niche, diverse, and self-referential than earlier forms. As a result, they are less intuitive and are less likely to be fully understood by a wider audience. By the mid-2010s, they began to arise first in the form of “dank” memes, a sub-genre of memes usually involving meme formats in a different way to the image macros that were in large use before. The term “dank”, which means “a cold, damp place”, was later adapted by marijuana smokers to refer to high-quality marijuana, and then became an ironic term for a type of meme, also becoming synonymous for “cool”. This term originally meant a meme that was significantly different from the norm but is now used mainly to differentiate these modern types of memes from other, older types such as image macros. Dank memes can also refer to those which are “exceptionally unique or odd”. They have been described as “internet in-jokes” that are “so played out that they become funny again” or are “so nonsensical that they are hilarious”.&lt;/p&gt;
+
+&lt;p&gt;ARE MEMES LEGAL??-&lt;/p&gt;
+
+&lt;p&gt;Under Section 2(c) of the Indian Copyright Act, 1957, a meme could be classified as an ‘artistic work’ which states that an artistic work includes painting, sculpture, drawing (including a diagram, map, chart, or plan), an engraving or a photograph, whether or not any such work possesses artistic quality. The section uses the phrase &lt;em&gt;“whether or not possessing artistic quality”&lt;/em&gt;, the memes that are rage comics or those such as Keyboard cat would enjoy protection as they are original creations in the form of a painting, drawing, photograph, or short video clip, despite not having artistic quality. Memes that are made from cinematograph still or photographs, the original image in the background for the meme would also be protected as the picture or the still from the series/movie is an ‘artistic work’. These memes are a modification of that already existing artistic work with some little amount of creativity and therefore, they would also enjoy copyright protection. India follows a fair dealing approach as an exception to copyright infringement under Section 52(1)(a) purposes of private or personal use, criticism, or review. The analysis requires three steps: the amount and substantiality of dealing, the purpose of copying, and the effect on potential markets.&lt;/p&gt;
+
+&lt;p&gt;There are many QR code scanners on the internet and each has its pros and cons but the best only stays at the top.&lt;/p&gt;
+
+&lt;p&gt;While using a meme maker, the user needs to check the pros and cons offered by the Website. The factors that matter here are-&lt;/p&gt;
+
+&lt;p&gt;1.&lt;strong&gt;Credibility of the website&lt;/strong&gt;- Safety has always been the first and foremost factor which has always worried the people who are in the internet since 2005, with the advent of new methods for data breaches, the safety methods too are being upgraded exponentially. So, safety is the first and foremost factor that is to be observed when uploading your data to any unknown websites. There are two simple ways in which you can check its credibility The first way is to use a URL checker like google safe browser technology, and site checker pro and run a site check. These URL checkers are free to use and easy to manage. The second way is to view the QR code generator’s credibility is by viewing the validity of its SSL certificate.&lt;/p&gt;
+
+&lt;p&gt;2. &lt;strong&gt;Features matter the most&lt;/strong&gt;- features are the options offered by the app/website to the users to modify their existing data into a whole new level. Always check multiple websites on the meme-making websites to compare and use their features efficiently, and also check their credibility before uploading your data. Features decide almost everything, for generating the best meme, the user requires the best features such as the meme editing option, text editing options, colors, templates, etc.&lt;/p&gt;
+
+&lt;p&gt;3. &lt;strong&gt;Compatibility-&lt;/strong&gt; This is a small but important feature, while selecting a meme generator always check its compatibility in multiple devices. Some of the Apps/Websites may not provide the same features on mobile/tablet as they have provided on pc. So, always check the compatibility of the meme generator on multiple devices such as Android or iOS and compare.&lt;/p&gt;
+
+&lt;p&gt;4. &lt;strong&gt;Compare the plans-&lt;/strong&gt; The best features or options for our meme generator. or any other services provided are always locked inside the premium vault. The keys to this kingdom lie in the plans of premium subscriptions. So, always compare the plans and services of multiple Websites/Apps to take the best out there.&lt;/p&gt;
+
+&lt;p&gt;5. &lt;strong&gt;good customer support-&lt;/strong&gt; This is another important factor that requires our focus, in times of grievances a fast and reliable help from the app/website is required. This means a lot to the customer which earns their trust. Replies to bugs, responding to the suggestions offered, etc. are some things that matter a lot and these are growth factors too.&lt;/p&gt;
+
+&lt;p&gt;There are many meme materials available throughout the internet in many fields, this dynamic list consists of many fields the some of them includes-&lt;/p&gt;
+
+&lt;p&gt;Coffin Dance – A group of Ghana pallbearers that respectfully dance during funeral processions had been covered by the BBC in 2017 and gained some initial Internet popularity. In the wake of the COVID-19 pandemic, a popular TikTok video mashed the BBC footage with the EDM song “Astronomia” from Russian artist Tony Igy creating a meme that appeared to spread as a morbidly humorous reminder about the dangers of COVID-19.&lt;/p&gt;
+
+&lt;p&gt;SpongeBob SquarePants  – A 1999 Nickelodeon animated television series that has spawned various Internet memes. These memes include “Surprised Patrick”, “Mr. Krabs Blur”, “Caveman SpongeBob”, “Handsome Squidward”, and ‘“Mocking SpongeBob”. In 2019, Nickelodeon officially released merchandise based on the memes.&lt;/p&gt;
+
+&lt;p&gt;Among Us – A game made by game studio Innersloth was released on Steam in 2018. The game reached internet fame in 2020 due to the release of The Henry Stickmin Collection by the same developer, and by Twitch streamers streaming the game frequently. Stills from the game, saying things like “Emergency Meeting” and “Dead body reported” have been on many modern memes. Frequent things that happen in the game, like the Imposter lying about who to kick out, or people trying to sabotage their crewmates, have also gotten popular in modern memes, etc.&lt;/p&gt;
+
+&lt;p&gt;The Lord of the Rings (trilogy) – Released between 2001 and 2003, just at the height of meme-style culture was taking off, several moments from the films became part of the online culture, with most notably Sean Bean’s character of Boromir stating “One does not simply walk into Mordor” as one of most commonly referenced.&lt;/p&gt;
+
+&lt;p&gt;And many more….&lt;/p&gt;
+
+&lt;p&gt;There are many web-based online meme generators available throughout the internet, but only those meme generators which can provide safety, reliability, featured, and extra styled. Some of the best meme-making websites include-&lt;/p&gt;
+
+&lt;p&gt;1. FILMORA FREE ONLINE MEME MAKER-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-website-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Filmora is a FREE online meme maker that offers users a swift and easy-to-use interface to make memes. With this meme maker website, you can create more than images. Whatever background, color option, or edits you need to make for a meme, Filmora supports free and limitless features. The main features include meme generation with no watermark, free meme-making service, and choose the efficient format for better output of the meme. And many more&lt;/p&gt;
+
+&lt;p&gt;2.ADOBE SPARK-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-website-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Elegance, featuristic, and stylish as it is made adobe spark is well known for its service and trust among the audience for its products, though most of these services are paid ones, the adobe spark is one of its own kind with the best inputs with no charge at all, even a noob in meme making can become a pro meme maker by following its instructions carefully, its time-efficient, and has multi-theme support which has almost every major field related template for meme-making. To upgrade to its pro provides it with even more options than a normal one.&lt;/p&gt;
+
+&lt;p&gt;3.CRELLO MEME MAKER-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-website-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As new as it is to the creative field and characteristic it appears, Crello meme maker is loaded up with all the new features required for perfect meme creation. It has a very clean interface with good service. The Main features here are- better text formatting options, good image editing features, best fonts and themes for our memes, etc. the customer service is also very good and reliable.&lt;/p&gt;
+
+&lt;p&gt;4.CANVAS-&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-website-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Canvas is an all-rounder meme-making website, which provides many features with many graphic design’s impressions. It has many options both paid and free available for the users. However, the user can grab always grab better deals with a plan upgrade. Some of the best features that canvas provides to the users include- flexible and editable meme templates, watermark restriction on any meme, meme blur effect, etc.&lt;/p&gt;
+
+&lt;p&gt;5.SAFE IMAGEKIT&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meme-website-6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, this is interesting safeimagekit.com is a multimode featured website that provides many options for the users related to the image. Image conversions, art generations, image compressions, watermarking feature on an image with the text of the user’s choice, pixel art generator, ASCII art generator, etc. coming to the meme generator the features provided to the user are very standard. It is not connected to any server out there .so, the uploaded images are completely safe and secured.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, there are many tools that can make memes and entertain us, but as a user, it all depends on us on how we select our tools to finish our work. There are many apps and software that are masking themselves in front of us and stealing our personal info from our devices. The above-mentioned apps/software are just an example of safe and free-to-use tools, feel free to contact us through our social media handles if there are any doubts/suggestions/ideas to be presented for this post.&lt;/p&gt;</content><author><name>THANDRA PAAVAN</name></author><category term="meme maker free" /><category term="meme maker online" /><category term="meme maker for pc" /><category term="meme maker website" /><category term="meme maker free online" /><category term="meme maker software" /><category term="meme maker site" /><summary type="html">A MEME is a funny way of representing a funny situation or a person in a funny way, according to the meaning is “meme, is an idea, behavior, or style (meme) that is spread via the Internet, often through social media platforms and especially for humorous purposes. What is considered a meme may vary across different communities on the Internet and is subject to change over time. Traditionally, memes consisted of a combination of image macros and a concept or catchphrase, but the concept has since become broader and more multi-faceted, evolving to include more elaborate structures such as challenges, GIFs, videos, and viral sensations.”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/uploads/output-5.png" /><media:content medium="image" url="http://localhost:4000/uploads/output-5.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

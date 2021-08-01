@@ -7,7 +7,6 @@
   "imgheight": "35px",
   "nofileupload": true,
   "variant": "info",
-
   "imgalt": "altvalue",
   "H2": "Photo rotation has been made easy with us, start by uploading your file below",
   "TITLE": "Flip image- image flip online- safeimagekit",
@@ -57,7 +56,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "How to flip an image",
     "steps": [
-      "Upload the image file to flip it.",
+      "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive to select your file to flip it.",
       "Adjust the parameters required for a better image quality.",
       "Hit the \"Preview\" option to glance at the changes made.",
       "Save the changes made to the image file.",
@@ -65,6 +64,14 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What are the features offered by the image flipper feature from safeimagekit.com while, flipping an image?",
       "answer": "Image flipper from safeimagekit.com offers versatile features while flipping an image, where we upload the image file in the space provided and edit that image by rotating it to its left or to is its right or rotate the image with a marginal angle."

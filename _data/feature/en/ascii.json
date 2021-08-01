@@ -13,13 +13,12 @@
   "META": "Are you looking for a high-quality image to ascii art generator? Well, then you are at the right place. Our online ascii art generator tool is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
-
   "color": "#6666ff",
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "How to generate the ASCII art from our image.",
     "steps": [
-      "Upload the image in the space provided.",
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive",
       "Hit the convert option to convert the image to an ASCII art.",
       "Hit the download option to download the ASCII art.",
       "Hurray!!! the ASCII art is ready to rock."
@@ -64,6 +63,14 @@
     }
   ],
   "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
     {
       "question": "What is ASCII art and how is it used?",
       "answer": "ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters). The basic ASCII art is made up of simple based characters which include commas, full stops, and colons, etc."
@@ -135,5 +142,7 @@
     "<script src=\"js/ascii/src/ascii.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/ascii.js\"></script>"
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"css/utils.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+  ]
 }
