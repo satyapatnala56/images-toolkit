@@ -85,7 +85,6 @@ const fileOnChange = () => {
 function setAscii() {
   $("#file").remove();
   var count = 0;
-  showLoader();
   var ans = setInterval(function () {
     count = count + 10;
     document.querySelector("#upper-loader").style.width = count + "%";
