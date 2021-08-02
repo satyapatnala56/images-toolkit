@@ -61,8 +61,11 @@ const onFileDrop = (file) => {
     extension == "png" ||
     extension == "svg"
   ) {
+    showLoader();
+
     document.querySelector(".box").style.height = "300px";
     inputbox.style.display = "none";
+
     sFilter();
   } else {
     console.log("error");
@@ -73,7 +76,10 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   input = file.files[0];
+
   sFilter();
 };
 ////drag and drop ended
@@ -88,7 +94,6 @@ function sFilter() {
   $("#file").remove();
   ///////loader
   var count = 0;
-  showLoader();
   var ans = setInterval(function () {
     count = count + 10;
     console.log(count);

@@ -59,6 +59,8 @@ const onFileDrop = (file) => {
     extension == "png" ||
     extension == "svg"
   ) {
+    showLoader();
+
     inputbox.style.display = "none";
     document.querySelector(".container2").style.height = "300px";
 
@@ -72,13 +74,14 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   input = file.files[0];
   splitImage();
 };
 
 function splitImage() {
   var count = 0;
-  showLoader();
 
   var ans = setInterval(function () {
     count = count + 10;

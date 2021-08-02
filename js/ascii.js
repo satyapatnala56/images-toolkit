@@ -60,8 +60,9 @@ const onFileDrop = (file) => {
     extension == "jpeg" ||
     extension == "png"
   ) {
-    file_name = input.name;
+    showLoader();
 
+    file_name = input.name;
     document.querySelector(".container2").style.height = "300px";
     inputbox.style.display = "none";
     setAscii();
@@ -74,6 +75,8 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   inputbox.style.display = "none";
   input = file.files[0];
   file_name = input.name;
@@ -83,7 +86,6 @@ const fileOnChange = () => {
 function setAscii() {
   $("#file").remove();
   var count = 0;
-  showLoader();
   var ans = setInterval(function () {
     count = count + 10;
     document.querySelector("#upper-loader").style.width = count + "%";

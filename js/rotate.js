@@ -154,6 +154,8 @@ const onFileDrop = (file) => {
     extension == "png" ||
     extension == "svg"
   ) {
+    showLoader();
+
     container.style.height = "300px";
 
     inputbox.style.display = "none";
@@ -167,6 +169,8 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   input = file.files[0];
   rotateImg();
 };
@@ -178,7 +182,6 @@ function rotateImg() {
     rotating_process();
   }, 6000);
   var count = 0;
-  showLoader();
 
   var ans = setInterval(function () {
     count = count + 10;

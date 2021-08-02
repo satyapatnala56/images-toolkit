@@ -59,9 +59,9 @@ const onFileDrop = (file) => {
     extension == "png" ||
     extension == "svg"
   ) {
+    showLoader();
     inputbox.style.display = "none";
     document.querySelector(".box").style.height = "300px";
-
     cropImage();
   } else {
     console.log("error");
@@ -72,18 +72,16 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
   input = file.files[0];
   cropImage();
 };
-////drag and drop ended
 
 //////cropping image
 function cropImage() {
   ////loader
   $("#file").remove();
   var count = 0;
-  showLoader();
-
   var ans = setInterval(function () {
     count = count + 10;
     console.log(count);

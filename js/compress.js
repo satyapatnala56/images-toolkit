@@ -61,6 +61,8 @@ const onFileDrop = (file) => {
       extension == "png" ||
       extension == "gif"
     ) {
+      showLoader();
+
       inputbox.style.display = "none";
       document.querySelector(".container2").style.height = "300px";
 
@@ -74,9 +76,9 @@ const onFileDrop = (file) => {
     }
   } else if (window.location.href.match("compress-a-gif")) {
     if (extension == "gif") {
+      showLoader();
       inputbox.style.display = "none";
       document.querySelector(".container2").style.height = "300px";
-
       compressImage();
     } else {
       console.log("error");
@@ -87,6 +89,7 @@ const onFileDrop = (file) => {
     }
   } else if (window.location.href.match("compress-jpeg")) {
     if (extension == "jpeg") {
+      showLoader();
       document.querySelector(".container2").style.height = "300px";
       inputbox.style.display = "none";
       compressImage();
@@ -99,6 +102,7 @@ const onFileDrop = (file) => {
     }
   } else if (window.location.href.match("compress-png")) {
     if (extension == "png") {
+      showLoader();
       inputbox.style.display = "none";
       document.querySelector(".container2").style.height = "300px";
       compressImage();
@@ -112,13 +116,19 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   inputbox.style.display = "none";
   input = file.files[0];
+
   compressImage();
 };
 const onFileChange = (file) => {
+  showLoader();
+
   inputbox.style.display = "none";
   input = file;
+
   compressImage();
 };
 ////drag and drop ended
@@ -133,7 +143,6 @@ function compressImage() {
       reader.result;
 
     var count = 0;
-    showLoader();
     var ans = setInterval(function () {
       count = count + 10;
       document.querySelector("#upper-loader").style.width = count + "%";
