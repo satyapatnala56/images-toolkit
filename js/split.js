@@ -10,7 +10,7 @@ var box = document.querySelector(".box");
 var boxContainer = document.querySelector(".container2");
 const gdrive = document.querySelector("#filepicker");
 const getFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 0);
 };
 const showLoader = () => {
   document.querySelector("#inputbox").style.display = "none";
@@ -32,7 +32,7 @@ gdrive.addEventListener(
   }
 );
 const getDropBoxFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 0);
 };
 const dropbox = document.getElementById("dropbox");
 dropbox.addEventListener(
@@ -49,7 +49,7 @@ var input;
 container.ondragover = function (e) {
   e.preventDefault();
 };
-const onFileDrop = (file) => {
+const onFileDrop = (file, flag = 1) => {
   input = file;
   var extension = input.name.replace(/^.*\./, "");
   if (
@@ -59,7 +59,9 @@ const onFileDrop = (file) => {
     extension == "png" ||
     extension == "svg"
   ) {
-    showLoader();
+    if (flag == 1) {
+      showLoader();
+    }
 
     inputbox.style.display = "none";
     document.querySelector(".container2").style.height = "300px";
