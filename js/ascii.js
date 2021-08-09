@@ -1,4 +1,3 @@
-
 const getScript = document.currentScript;
 const pageTool = getScript.dataset.tool;
 const lang = getScript.dataset.lang;
@@ -12,7 +11,7 @@ var boxContainer = document.querySelector(".container2");
 const gdrive = document.querySelector("#filepicker");
 
 const getFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 0);
 };
 const showLoader = () => {
   document.querySelector("#inputbox").style.display = "none";
@@ -34,7 +33,7 @@ gdrive.addEventListener(
   }
 );
 const getDropBoxFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 0);
 };
 const dropbox = document.getElementById("dropbox");
 dropbox.addEventListener(
@@ -51,7 +50,7 @@ var input;
 container.ondragover = function (e) {
   e.preventDefault();
 };
-const onFileDrop = (file) => {
+const onFileDrop = (file, flag = 1) => {
   input = file;
   var extension = input.name.replace(/^.*\./, "");
   if (
@@ -60,8 +59,12 @@ const onFileDrop = (file) => {
     extension == "jpeg" ||
     extension == "png"
   ) {
+    if (flag == 0) {
+    }
+    if (flag == 1) {
+      showLoader();
+    }
     file_name = input.name;
-
     document.querySelector(".container2").style.height = "300px";
     inputbox.style.display = "none";
     setAscii();
@@ -74,6 +77,8 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   inputbox.style.display = "none";
   input = file.files[0];
   file_name = input.name;
@@ -83,7 +88,6 @@ const fileOnChange = () => {
 function setAscii() {
   $("#file").remove();
   var count = 0;
-  showLoader();
   var ans = setInterval(function () {
     count = count + 10;
     document.querySelector("#upper-loader").style.width = count + "%";

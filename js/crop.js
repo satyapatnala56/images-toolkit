@@ -9,7 +9,7 @@ var box = document.querySelector(".box");
 var boxContainer = document.querySelector(".container2");
 const gdrive = document.querySelector("#filepicker");
 const getFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 1);
 };
 const showLoader = () => {
   document.querySelector("#inputbox").style.display = "none";
@@ -31,7 +31,7 @@ gdrive.addEventListener(
   }
 );
 const getDropBoxFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 1);
 };
 const dropbox = document.getElementById("dropbox");
 dropbox.addEventListener(
@@ -44,12 +44,11 @@ boxContainer.ondrop = (e) => {
   e.preventDefault();
   onFileDrop(e.dataTransfer.files[0]);
 };
-var flag = 0;
 var input;
 container.ondragover = function (e) {
   e.preventDefault();
 };
-const onFileDrop = (file) => {
+const onFileDrop = (file, flag = 0) => {
   input = file;
   var extension = input.name.replace(/^.*\./, "");
   if (
@@ -59,9 +58,11 @@ const onFileDrop = (file) => {
     extension == "png" ||
     extension == "svg"
   ) {
+    if (flag == 0) {
+      showLoader();
+    }
     inputbox.style.display = "none";
     document.querySelector(".box").style.height = "300px";
-
     cropImage();
   } else {
     console.log("error");
@@ -72,18 +73,16 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
   input = file.files[0];
   cropImage();
 };
-////drag and drop ended
 
 //////cropping image
 function cropImage() {
   ////loader
   $("#file").remove();
   var count = 0;
-  showLoader();
-
   var ans = setInterval(function () {
     count = count + 10;
     console.log(count);

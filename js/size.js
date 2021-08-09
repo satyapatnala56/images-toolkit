@@ -15,7 +15,7 @@ container.ondragover = function (e) {
 var boxContainer = document.querySelector(".container2");
 const gdrive = document.querySelector("#filepicker");
 const getFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 1);
 };
 const showLoader = () => {
   document.querySelector("#inputbox").style.display = "none";
@@ -37,7 +37,7 @@ gdrive.addEventListener(
   }
 );
 const getDropBoxFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 1);
 };
 const dropbox = document.getElementById("dropbox");
 dropbox.addEventListener(
@@ -50,7 +50,7 @@ boxContainer.ondrop = (e) => {
   e.preventDefault();
   onFileDrop(e.dataTransfer.files[0]);
 };
-const onFileDrop = (file) => {
+const onFileDrop = (file, flag = 0) => {
   input = file;
   var extension = input.name.replace(/^.*\./, "");
   if (
@@ -59,6 +59,10 @@ const onFileDrop = (file) => {
     extension == "jpeg" ||
     extension == "png"
   ) {
+    if (flag == 0) {
+      showLoader();
+    }
+
     inputbox.style.display = "none";
     container.style.height = "300px";
     convert_webp();
@@ -71,6 +75,8 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   input = file.files[0];
   container.style.height = "300px";
   convert_webp();
@@ -83,7 +89,6 @@ function convert_webp() {
     webp_to_img();
   }, 6000);
   var count = 0;
-  showLoader();
   var ans = setInterval(function () {
     count = count + 10;
     document.querySelector("#upper-loader").style.width = count + "%";

@@ -10,7 +10,7 @@ var input;
 var boxContainer = document.querySelector(".container2");
 const gdrive = document.querySelector("#filepicker");
 const getFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 1);
 };
 const showLoader = () => {
   document.querySelector("#inputbox").style.display = "none";
@@ -32,7 +32,7 @@ gdrive.addEventListener(
   }
 );
 const getDropBoxFile = (file) => {
-  onFileDrop(file);
+  onFileDrop(file, 1);
 };
 const dropbox = document.getElementById("dropbox");
 dropbox.addEventListener(
@@ -51,7 +51,7 @@ document.querySelector("#Inputbox").onclick = function () {
 container.ondragover = function (e) {
   e.preventDefault();
 };
-const onFileDrop = (file) => {
+const onFileDrop = (file, flag = 0) => {
   input = file;
   var extension = input.name.replace(/^.*\./, "");
   if (
@@ -61,6 +61,10 @@ const onFileDrop = (file) => {
     extension == "png" ||
     extension == "svg"
   ) {
+    if (flag == 0) {
+      showLoader();
+    }
+
     container.style.height = "300px";
 
     inputbox.style.display = "none";
@@ -74,6 +78,8 @@ const onFileDrop = (file) => {
   }
 };
 const fileOnChange = () => {
+  showLoader();
+
   input = file.files[0];
 
   memeProcessing();
@@ -84,7 +90,6 @@ function memeProcessing() {
   $("#file").remove();
 
   var count = 0;
-  showLoader();
 
   var ans = setInterval(function () {
     count = count + 10;
