@@ -1,4 +1,3 @@
-
 const getScript = document.currentScript;
 const pageTool = getScript.dataset.tool;
 const lang = getScript.dataset.lang;
