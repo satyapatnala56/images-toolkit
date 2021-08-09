@@ -124,8 +124,6 @@ const fileOnChange = () => {
   compressImage();
 };
 const onFileChange = (file) => {
-  showLoader();
-
   inputbox.style.display = "none";
   input = file;
 
