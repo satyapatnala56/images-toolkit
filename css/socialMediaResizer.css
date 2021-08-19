@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 :root {
@@ -25,16 +25,16 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   margin-top: 5%;
 }
 
@@ -45,11 +45,11 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   gap: 10px;
 }
@@ -57,7 +57,7 @@
 .socialMediaResizer .Landing .title_logo .LandingIcon {
   width: 30px;
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
 }
 
 .socialMediaResizer .Landing .title_logo .Title {
@@ -66,7 +66,7 @@
   width: fit-content;
   font-size: 24px;
   color: #3b3b3b;
-  font-family: 'open sans';
+  font-family: "open sans";
   font-weight: lighter;
 }
 
@@ -74,7 +74,7 @@
   color: #707070;
   font-size: 18px;
   background: #ffffff;
-  font-family: 'open sans';
+  font-family: "open sans";
   font-weight: lighter;
 }
 
@@ -102,18 +102,19 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
   display: none;
 }
 
-.socialMediaResizer .Landing .Container .FinalButtons .FileDownloadButton, .socialMediaResizer .Landing .Container .FinalButtons .FilePreview {
+.socialMediaResizer .Landing .Container .FinalButtons .FileDownloadButton,
+.socialMediaResizer .Landing .Container .FinalButtons .FilePreview {
   width: 200px;
   height: 50px;
   text-decoration: none;
@@ -121,16 +122,16 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   background: var(--mainUIColor);
   color: white;
   font-size: 18px;
@@ -139,7 +140,8 @@
   z-index: 1;
 }
 
-.socialMediaResizer .Landing .Container .FinalButtons .FileDownloadButton:hover, .socialMediaResizer .Landing .Container .FinalButtons .FilePreview:hover {
+.socialMediaResizer .Landing .Container .FinalButtons .FileDownloadButton:hover,
+.socialMediaResizer .Landing .Container .FinalButtons .FilePreview:hover {
   border: 1px solid var(--mainUIColor);
   color: #353535;
   background: white;
@@ -154,16 +156,16 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   background: var(--mainUIColorSecondary);
 }
 
@@ -172,35 +174,35 @@
   font-size: 14px;
   color: rgba(255, 255, 255, 0.993);
   bottom: 20px;
-  font-family: 'open sans';
+  font-family: "open sans";
   font-weight: lighter;
 }
 
 .socialMediaResizer .Landing .Container .innerContent .InputBox {
   -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
   width: 200px;
   height: 50px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   background: white;
   border-radius: 6px;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
   -ms-flex-item-align: center;
-      align-self: center;
+  align-self: center;
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-          box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
@@ -209,7 +211,13 @@
   height: 100%;
 }
 
-.socialMediaResizer .Landing .Container .innerContent .InputBox .Button .InputButton {
+.socialMediaResizer
+  .Landing
+  .Container
+  .innerContent
+  .InputBox
+  .Button
+  .InputButton {
   width: 200px;
   height: 50px;
   text-decoration: none;
@@ -217,25 +225,31 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   background: white;
   font-size: 18px;
   color: #353535;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  font-family: 'Open sans';
+  font-family: "Open sans";
 }
 
-.socialMediaResizer .Landing .Container .innerContent .InputBox .Button .InputButton:hover {
+.socialMediaResizer
+  .Landing
+  .Container
+  .innerContent
+  .InputBox
+  .Button
+  .InputButton:hover {
   border: 1px solid white;
   background: var(--mainUIColor);
   color: white;
@@ -245,7 +259,7 @@
 .socialMediaResizer .Landing .Container .innerContent .UploadIcon {
   width: 30px;
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
 }
 
 .socialMediaResizer .Landing .Container .innerContent .Information {
@@ -262,16 +276,16 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   position: relative;
 }
 
@@ -283,32 +297,32 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
 }
 
 .socialMediaResizer .Landing .ContainerOnloading .ProgressInfo img {
   width: 50px;
   height: 50px;
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
 }
 
 .socialMediaResizer .Landing .ContainerOnloading .ProgressInfo h3 {
   font-size: 18px;
   color: #353535;
-  font-family: 'Open sans';
+  font-family: "Open sans";
 }
 
 .socialMediaResizer .Landing .ContainerOnloading .ProgressBar {
@@ -340,19 +354,19 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   padding-left: 5%;
 }
 
@@ -360,21 +374,21 @@
   width: 50px;
   height: 50px;
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
 }
 
 .socialMediaResizer .workspace .topDiv h3 {
   margin-top: 5%;
   font-size: 36px;
   color: white;
-  font-family: 'open sans';
+  font-family: "open sans";
 }
 
 .socialMediaResizer .workspace .topDiv p {
   width: 50%;
   margin-top: 2%;
   color: white;
-  font-family: 'open sans';
+  font-family: "open sans";
   text-align: left;
 }
 
@@ -386,7 +400,7 @@
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: auto auto auto;
-      grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto;
   gap: 20px;
   background: whitesmoke;
 }
@@ -409,7 +423,7 @@
 
 .socialMediaResizer .workspace .Previews .ImageWrap h4 {
   font-size: 16px;
-  font-family: 'open sans';
+  font-family: "open sans";
   font-weight: lighter;
   width: 70%;
   height: 50px;
@@ -421,7 +435,7 @@
   position: absolute;
   right: 20px;
   bottom: 20px;
-  font-family: 'open sans';
+  font-family: "open sans";
   font-size: 12px;
   background: #4242429d;
   border-radius: 6px;
@@ -430,11 +444,11 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
 }
 
@@ -454,9 +468,9 @@
 
 .socialMediaResizer .workspace .Previews .ImageWrap:hover {
   -webkit-box-shadow: rgba(117, 117, 117, 0.336) 0px 19px 43px;
-          box-shadow: rgba(117, 117, 117, 0.336) 0px 19px 43px;
+  box-shadow: rgba(117, 117, 117, 0.336) 0px 19px 43px;
   -webkit-transform: translate3d(0px, -1px, 0px);
-          transform: translate3d(0px, -1px, 0px);
+  transform: translate3d(0px, -1px, 0px);
 }
 
 .socialMediaResizer .workspace .Previews .ImageWrap .editButton {
@@ -475,23 +489,23 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .socialMediaResizer .workspace .Previews .ImageWrap .editButton:hover {
   background: #8e5dff;
   color: white;
   -webkit-box-shadow: 0 0 4px #a57eff;
-          box-shadow: 0 0 4px #a57eff;
+  box-shadow: 0 0 4px #a57eff;
 }
 
 .socialMediaResizer .workspace .overlay {
@@ -506,16 +520,16 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   display: none;
 }
 
@@ -527,16 +541,16 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   border-radius: 10px;
 }
 
@@ -547,27 +561,27 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   position: relative;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   padding-left: 2%;
   border-bottom: 1px solid #50505052;
 }
 
 .socialMediaResizer .workspace .overlay .Container .TopBar h3 {
   color: #3b3b3b;
-  font-family: 'Open sans';
+  font-family: "Open sans";
 }
 
 .socialMediaResizer .workspace .overlay .Container .TopBar img {
@@ -577,7 +591,7 @@
   width: 20px;
   height: 20px;
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
   cursor: pointer;
 }
 
@@ -588,49 +602,73 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .leftContainer {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .leftContainer {
   width: 55%;
   height: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .leftContainer p {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .leftContainer
+  p {
   min-height: 12px;
-  font-family: 'Open sans';
+  font-family: "Open sans";
   font-size: 14px;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .leftContainer .imgWrap {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .leftContainer
+  .imgWrap {
   width: 100%;
   height: 80%;
   border-radius: 10px;
   background: white;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .leftContainer .imgWrap img {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .leftContainer
+  .imgWrap
+  img {
   display: block;
   width: 100%;
 }
@@ -642,59 +680,84 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
   gap: 10px;
   padding-left: 30px;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .information .topBox {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .information
+  .topBox {
   width: 100%;
   height: 20%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .information .topBox h4 {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .information
+  .topBox
+  h4 {
   font-size: 24px;
-  font-family: 'open sans';
+  font-family: "open sans";
   color: #3b3b3b;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .information .topBox p {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .information
+  .topBox
+  p {
   text-align: left;
   font-weight: bolder;
   color: #6b6b6b;
-  font-family: 'Open sans';
+  font-family: "Open sans";
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .downloadCurrentSize {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .downloadCurrentSize {
   width: 180px;
   height: 50px;
   border-radius: 20px;
@@ -707,11 +770,16 @@
   color: #8e5dff;
 }
 
-.socialMediaResizer .workspace .overlay .Container .infoContainer .downloadCurrentSize:hover {
+.socialMediaResizer
+  .workspace
+  .overlay
+  .Container
+  .infoContainer
+  .downloadCurrentSize:hover {
   background: #8e5dff;
   color: white;
   -webkit-box-shadow: 0 0 8px #a57eff;
-          box-shadow: 0 0 8px #a57eff;
+  box-shadow: 0 0 8px #a57eff;
 }
 
 .socialMediaResizer .DownloadButtons {
@@ -723,17 +791,18 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   gap: 20px;
   background: white;
   -webkit-box-shadow: 0 -1px 5px rgba(155, 155, 155, 0.336);
-          box-shadow: 0 -1px 5px rgba(155, 155, 155, 0.336);
+  box-shadow: 0 -1px 5px rgba(155, 155, 155, 0.336);
   display: none;
+  z-index: 10;
 }
 
 .socialMediaResizer .DownloadButtons button {
@@ -751,37 +820,37 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   text-align: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
 .socialMediaResizer .DownloadButtons button:hover {
   background: #8e5dff;
   color: white;
   -webkit-box-shadow: 0 0 4px #a57eff;
-          box-shadow: 0 0 4px #a57eff;
+  box-shadow: 0 0 4px #a57eff;
 }
 
 .icon-scroll {
   width: 30px;
   height: 50px;
   -webkit-box-shadow: inset 0 0 0 1px #3498db;
-          box-shadow: inset 0 0 0 1px #3498db;
+  box-shadow: inset 0 0 0 1px #3498db;
   border-radius: 25px;
   position: relative;
 }
 
 .icon-scroll:before {
   position: absolute;
-  content: '';
+  content: "";
   width: 8px;
   height: 8px;
   background: #3498db;
@@ -789,11 +858,11 @@
   top: 8px;
   border-radius: 4px;
   -webkit-animation-duration: 1.5s;
-          animation-duration: 1.5s;
+  animation-duration: 1.5s;
   -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
   -webkit-animation-name: scroll;
-          animation-name: scroll;
+  animation-name: scroll;
 }
 
 @-webkit-keyframes scroll {
@@ -803,7 +872,7 @@
   100% {
     opacity: 0;
     -webkit-transform: translateY(30px);
-            transform: translateY(30px);
+    transform: translateY(30px);
   }
 }
 
@@ -814,7 +883,7 @@
   100% {
     opacity: 0;
     -webkit-transform: translateY(30px);
-            transform: translateY(30px);
+    transform: translateY(30px);
   }
 }
 
@@ -822,7 +891,7 @@
   .socialMediaResizer .workspace .Previews {
     padding-left: 2%;
     -ms-grid-columns: auto;
-        grid-template-columns: auto;
+    grid-template-columns: auto;
   }
   .socialMediaResizer .DownloadButtons {
     bottom: 60px;
@@ -848,7 +917,12 @@
     right: 10px;
     top: 10px;
   }
-  .socialMediaResizer .workspace .overlay .Container .infoContainer .downloadCurrentSize {
+  .socialMediaResizer
+    .workspace
+    .overlay
+    .Container
+    .infoContainer
+    .downloadCurrentSize {
     width: 100px;
     height: 40px;
   }
