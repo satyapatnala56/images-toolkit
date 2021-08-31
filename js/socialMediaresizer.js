@@ -5,6 +5,7 @@ var _URL = window.URL || window.webkitURL;
 let windowURL = window.location.href;
 windowURL = windowURL.slice(windowURL.lastIndexOf("/")).split("-")[2];
 let currentURL = windowURL[0].toUpperCase() + windowURL.slice(1);
+console.log(currentURL);
 
 if (windowURL == "google") currentURL = "Google Banner Ads";
 
@@ -160,7 +161,11 @@ fetch("../JS/ResizerData.json")
   .then((response) => {
     return response.json();
   })
-  .then((data) => (currentData = data["resizerData"][currentURL]));
+  .then(function (data) {
+    currentData = data["resizerData"][currentURL];
+    console.log("------------------CURRENT DATA---------------------------");
+    console.log(currentData);
+  });
 
 let OverlayImage = document.querySelector(".imgWrap img");
 const gdrive = document.querySelector("#filepicker");
@@ -282,7 +287,13 @@ let showCropper = (e) => {
 let checkedBoxes = {};
 
 let handleCheckboxChange = (e) => {
-  checkedBoxes[e.target.dataset["forImage"]] = e.target.checked;
+  console.log(e.target.dataset["forImage"]);
+  console.log(e.target.checked);
+  if (e.target.checked == true) {
+    checkedBoxes[e.target.dataset["forImage"]] = e.target.checked;
+  } else {
+    checkedBoxes = {};
+  }
 };
 
 let downloadCurrentSize = (e) => {
@@ -359,11 +370,13 @@ let triggerDownload = () => {
 
 let handleDownload = (e) => {
   window.scrollTo(0, 0);
+
   let id = e.id;
   let progress = 0;
   total = 0;
-  DownloadButtons.style.display = "none";
   if (id == "download-all") {
+    DownloadButtons.style.display = "none";
+
     total = Object.keys(currentData).length;
     for (let key in currentData) {
       if (key in canvases) {
@@ -407,57 +420,66 @@ let handleDownload = (e) => {
       }
     }
   } else {
-    total = Object.keys(checkedBoxes).length;
+    var err_msg = document.querySelector(".error_msg");
 
-    for (let key in checkedBoxes) {
-      if (checkedBoxes[key]) {
-        if (key in canvases) {
-          let canvas = canvases[key];
-          let url = canvas.toDataURL("image/png", 1);
-          let img = new Image();
-          let canvasTemp = document.createElement("canvas");
-          canvasTemp.width = currentData[key][0];
-          canvasTemp.height = currentData[key][1];
-          img.onload = async () => {
-            await resizer
-              .resize(img, canvasTemp, { quality: 3 })
-              .then(async () => {
-                await resizer.toBlob(canvasTemp).then(async (blob) => {
-                  progress += 1;
-                  await ZipFiles.file(`${currentURL + key}.png`, blob);
-                  progressBar.style.width = (progress / total) * 100 + "%";
-                  if (progress >= total) triggerDownload();
+    total = Object.keys(checkedBoxes).length;
+    if (total == 0) {
+      err_msg.style.visibility = "visible";
+    } else {
+      err_msg.style.visibility = "hidden";
+
+      DownloadButtons.style.display = "none";
+
+      for (let key in checkedBoxes) {
+        if (checkedBoxes[key]) {
+          if (key in canvases) {
+            let canvas = canvases[key];
+            let url = canvas.toDataURL("image/png", 1);
+            let img = new Image();
+            let canvasTemp = document.createElement("canvas");
+            canvasTemp.width = currentData[key][0];
+            canvasTemp.height = currentData[key][1];
+            img.onload = async () => {
+              await resizer
+                .resize(img, canvasTemp, { quality: 3 })
+                .then(async () => {
+                  await resizer.toBlob(canvasTemp).then(async (blob) => {
+                    progress += 1;
+                    await ZipFiles.file(`${currentURL + key}.png`, blob);
+                    progressBar.style.width = (progress / total) * 100 + "%";
+                    if (progress >= total) triggerDownload();
+                  });
                 });
-              });
-          };
-          img.src = url;
-        } else {
-          let img = new Image();
-          let canvasTemp = document.createElement("canvas");
-          canvasTemp.width = currentData[key][0];
-          canvasTemp.height = currentData[key][1];
-          img.onload = async () => {
-            await resizer
-              .resize(img, canvasTemp, { quality: 3 })
-              .then(async () => {
-                await resizer.toBlob(canvasTemp).then(async (blob) => {
-                  progress += 1;
-                  await ZipFiles.file(`${currentURL + key}.png`, blob);
-                  progressBar.style.width = (progress / total) * 100 + "%";
-                  if (progress >= total) triggerDownload();
+            };
+            img.src = url;
+          } else {
+            let img = new Image();
+            let canvasTemp = document.createElement("canvas");
+            canvasTemp.width = currentData[key][0];
+            canvasTemp.height = currentData[key][1];
+            img.onload = async () => {
+              await resizer
+                .resize(img, canvasTemp, { quality: 3 })
+                .then(async () => {
+                  await resizer.toBlob(canvasTemp).then(async (blob) => {
+                    progress += 1;
+                    await ZipFiles.file(`${currentURL + key}.png`, blob);
+                    progressBar.style.width = (progress / total) * 100 + "%";
+                    if (progress >= total) triggerDownload();
+                  });
                 });
-              });
-          };
-          img.src = imgURLrl;
+            };
+            img.src = imgURLrl;
+          }
         }
       }
+      workspaceContainer.style.display = "none";
+      landingContainer.style.display = "flex";
+      document
+        .querySelector(".Landing .Container")
+        .classList.add("ContainerOnloading");
     }
   }
-  workspaceContainer.style.display = "none";
-  landingContainer.style.display = "flex";
-  document
-    .querySelector(".Landing .Container")
-    .classList.add("ContainerOnloading");
 
   // Object.keys(obj).length
 };
