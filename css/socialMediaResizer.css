@@ -15,6 +15,7 @@
   width: 100%;
   min-height: -webkit-fit-content;
   min-height: -moz-fit-content;
+  position: relative;
   min-height: fit-content;
 }
 
@@ -931,3 +932,19 @@
   }
 }
 /*# sourceMappingURL=socialMediaResizer.css.map */
+
+.error_msg {
+  position: absolute;
+  height: 66px;
+  color: #721c24;
+  top: -65px;
+  background-color: #f8d7da;
+  z-index: 10;
+  visibility: hidden;
+  border-color: #f5c6cb;
+  width: 100%;
+  font-size: 20px;
+  padding-top: 16px;
+  font-weight: bold;
+  text-align: center;
+}
