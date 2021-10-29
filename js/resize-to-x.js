@@ -304,7 +304,3 @@ document.getElementById("dim_pixels").addEventListener("click", () => {
   document.getElementById("pixels").style.display="block";
   document.getElementById("inches").style.display="none";
 })
-document.getElementById("dim_inches").addEventListener("click", () => {
-  document.getElementById("pixels").style.display="none";
-  document.getElementById("inches").style.display="block";
-})

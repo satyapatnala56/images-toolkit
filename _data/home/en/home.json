@@ -100,13 +100,6 @@
       "url": "/image-resize"
     },
     {
-      "name": "Resizer Image to X",
-      "description": "Changes size image",
-      "color": "#ffbb33",
-      "icon": "/img/home/resize.png",
-      "url": "/resize-image-to-X"
-    },
-    {
       "name": "Watermark image maker",
       "description": "Creates watermark images",
       "color": "red",
@@ -127,7 +120,13 @@
       "icon": "/img/home/pixelated.png",
       "url": "/pixel-art-maker"
     },
-
+    {
+      "name": "Resizer Image to X",
+      "description": "Changes size image",
+      "color": "#ffbb33",
+      "icon": "/img/home/resize.png",
+      "url": "/resize-image-to-X"
+    },
     
     {
       "name": "Facebook image resizer",
