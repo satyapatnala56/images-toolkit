@@ -98,6 +98,7 @@ function convert_webp() {
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
       document.querySelector(".container2").style.height = "800px";
+      document.querySelector(".container2").style.height = "800px";
       document.querySelector(".container2").style.background = "#ffbb33";
       document.querySelector(".box").style.borderRadius = "20px";
       document.querySelector(".container2").style.borderRadius = "25px";
