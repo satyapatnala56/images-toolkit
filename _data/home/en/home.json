@@ -207,6 +207,13 @@
       "url": "/image-resize-whatsapp"
     },
     {
+      "name": " squarespace",
+      "description": "Resize images for squarespace",
+      "color": "#8c44f7",
+      "icon": "/img/imageResizer-assets/squarespace.svg",
+      "url": "/image-resize-squarespace"
+    },
+    {
       "name": " Twitch",
       "description": "Resize images for twitch",
       "color": "#8c44f7",

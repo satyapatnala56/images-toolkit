@@ -69,6 +69,12 @@
         "square video ad":[1080,1080],
         "horizontal video ad":[1920,1080]
     },
+    "Squarespace":
+    {
+        "preferred image":[1500 ,2500 ],
+        "banner  photo":[2000 ,2500 ],
+        "vertical image":[1000 ,1500 ]
+    },
     "Twitter":
     {
         "profile photo":[300,400],

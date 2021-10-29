@@ -167,6 +167,11 @@
             "url": "/image-resize-whatsapp"
           },
           {
+            "name": " squarespace image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+            "url": "/image-resize-squarespace"
+          },
+          {
             "name": " Twitch image resizer",
             "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
             "url": "/image-resize-twitch"
