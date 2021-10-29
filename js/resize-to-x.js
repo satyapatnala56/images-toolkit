@@ -97,8 +97,8 @@ function convert_webp() {
       document.querySelector("#loaderDiv").style.display = "none";
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".container2").style.height = "620px";
-      document.querySelector("#footer_div").style.paddingTop = "19px";
+      document.querySelector(".container2").style.height = "800px";
+      document.querySelector(".container2").style.height = "800px";
       document.querySelector(".container2").style.background = "#ffbb33";
       document.querySelector(".box").style.borderRadius = "20px";
       document.querySelector(".container2").style.borderRadius = "25px";
@@ -300,3 +300,11 @@ showDropDown.addEventListener("click", () => {
     icon.classList.add("fa-angle-up");
   }
 });
+document.getElementById("dim_pixels").addEventListener("click", () => {
+  document.getElementById("pixels").style.display="block";
+  document.getElementById("inches").style.display="none";
+})
+document.getElementById("dim_inches").addEventListener("click", () => {
+  document.getElementById("pixels").style.display="none";
+  document.getElementById("inches").style.display="block";
+})
