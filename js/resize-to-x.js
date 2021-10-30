@@ -252,6 +252,7 @@ function convert_webp() {
                 "transparent";
               document.querySelector(".container2").style.borderRadius = "0px";
               document.querySelector(".box").style.borderRadius = "0px";
+              ///download button
 
               document.querySelector("#downloadButton").onclick = function () {
                 document.querySelector(".thankyouBox span").innerHTML =
