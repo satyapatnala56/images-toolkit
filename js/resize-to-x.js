@@ -83,7 +83,6 @@ const fileOnChange = () => {
 };
 function convert_webp() {
   document.querySelector(".success_alert").style.visibility = "hidden";
-  /////loader starting
   $("#file").remove();
   setTimeout(function () {
     webp_to_img();
