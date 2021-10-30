@@ -97,8 +97,7 @@ function convert_webp() {
       document.querySelector("#loaderDiv").style.display = "none";
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".container2").style.height = "800px";
-      document.querySelector(".container2").style.height = "800px";
+      document.querySelector(".container2").style.height = "620px";
       document.querySelector(".container2").style.background = "#ffbb33";
       document.querySelector(".box").style.borderRadius = "20px";
       document.querySelector(".container2").style.borderRadius = "25px";
@@ -114,22 +113,38 @@ function convert_webp() {
       var img = new Image();
       img.onload = function () {
         document.querySelector("#output_div_inner img").src = r.result;
-        var dimension_btn = document.querySelectorAll(".dimension_btn");
-        for (let m = 0; m < dimension_btn.length; m++) {
-          dimension_btn[m].onclick = function () {
-            console.log(dimension_btn[m].id);
-            var button_id = dimension_btn[m].id;
-            var button_arr = button_id.split("X");
-            var button_width = button_arr[0];
-            var button_height = button_arr[1];
-
-            document.querySelector("#resize_height input").value =
-              button_height;
-            document.querySelector("#resize_width input").value = button_width;
-
-            initial_conversion("Loading preview...", "Preview loaded", 0);
-          };
+      var inches = document.getElementById("dimensions_div_inches");
+      inches.addEventListener("change", (e) => {
+        const value = e.target.value;
+        var button_arr = value.split("X");
+        var button_width = button_arr[0];
+        var button_height = button_arr[1];
+        if (value) {
+          document.querySelector("#resize_height input").value = parseInt(button_height);
+           document.querySelector("#resize_width input").value = parseInt(button_width);
+        initial_conversion("Loading preview...", "Preview loaded", 0);
+        } else {
+          document.querySelector("#resize_height input").value =
+          button_height;
+        document.querySelector("#resize_width input").value = button_width;
         }
+      });
+      var pixecl = document.getElementById("dimensions_div_pixcel");
+      pixecl.addEventListener("change", (e) => {
+        const value = e.target.value;
+        var button_arr = value.split("X");
+        var button_width = button_arr[0];
+        var button_height = button_arr[1];
+        if (value) {
+          document.querySelector("#resize_height input").value = parseInt(button_height);
+           document.querySelector("#resize_width input").value = parseInt(button_width);
+        initial_conversion("Loading preview...", "Preview loaded", 0);
+        } else {
+          document.querySelector("#resize_height input").value =
+          button_height;
+        document.querySelector("#resize_width input").value = button_width;
+        }
+      });
         document.querySelector("#preview").onclick = function () {
           initial_conversion("Loading preview...", "Preview loaded", 0);
         };

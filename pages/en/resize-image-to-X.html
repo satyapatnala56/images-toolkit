@@ -96,11 +96,11 @@ lang: en
             </div>
             <div class="input_div" id="resize_height">
               <p>Height</p>
-              <input type="number" />
+              <input type="number"/>
             </div>
             <div class="input_div" id="resize_width">
               <p>Width</p>
-              <input type="number" />
+              <input type="number"/>
             </div>
             <br />
             <div class="input_div" id="resize_quality">
@@ -127,66 +127,96 @@ lang: en
                 <option value="webp">WEBP</option>
               </select>
             </div>
-            <div class="input_div" id="dimensions_div_pixcel">
-                <p>Quality</p>
-                <select name="" id="">
-                  <option value="1">1</option>
-                  <option value="0.9">0.9</option>
-                  <option value="0.8">0.8</option>
-                  <option value="0.7">0.7</option>
-                  <option value="0.6">0.6</option>
-                  <option value="0.5">0.5</option>
-                  <option value="0.4">0.4</option>
-                  <option value="0.3">0.3</option>
-                  <option value="0.2">0.2</option>
-                  <option value="0.1">0.1</option>
+              <div class="input_div">
+                <p>Dimensions in inches</p>
+                <select  name="" id="dimensions_div_inches">
+                  <option value="1200X1800">3 X 5</option>
+                  <option value="1200X1800">4 x 6</option>
+                  <option value="1500X2100">5 x 7</option>
+                  <option value="2400X3000">8 X 8</option>
+                  <option value="768X960">8 X 10</option>
+                  <option value="2400X3000">8.5 X 11</option>
+                  <!-- <option value="2400X3000">9 X 16</option>
+                  <option value="2400X3000">11 X 14</option>
+                  <option value="2400X3000">11 X 16</option>
+                  <option value="2400X3000">12 X 18</option>
+                  <option value="2400X3000">18 X 24</option>
+                  <option value="2400X3000">24 X 36</option>
+                  <option value="2400X3000">2 x 2</option>
+                  <option value="2400X3000">5 X 8</option>
+                  <option value="2400X3000">5 X 5</option>
+                  <option value="2400X3000">6 x 4</option>
+                  <option value="2400X3000">4 x 6 </option>
+                  <option value="2400X3000">12 X 6</option>
+                  <option value="2400X3000">16 X 20</option>
+                  <option value="2400X3000">18 X 36</option>
+                  <option value="2400X3000">20 X 24</option>
+                  <option value="2400X3000">15 X 30</option>
+                  <option value="2400X3000">30 X 40</option>
+                  <option value="2400X3000">30 X 36</option>
+                  <option value="2400X3000">24 X 30</option>
+                  <option value="2400X3000">24 X 36</option>
+                  <option value="2400X3000">24 X 48</option> -->
+                  
                 </select>
               </div>
-              <div class="input_div" id="dimensions_div_inches">
-                <p>Quality</p>
-                <select name="" id="">
-                  <option value="1">1</option>
-                  <option value="0.9">0.9</option>
-                  <option value="0.8">0.8</option>
-                  <option value="0.7">0.7</option>
-                  <option value="0.6">0.6</option>
-                  <option value="0.5">0.5</option>
-                  <option value="0.4">0.4</option>
-                  <option value="0.3">0.3</option>
-                  <option value="0.2">0.2</option>
-                  <option value="0.1">0.1</option>
+              <div class="input_div">
+                <p>Dimensions in pixels</p>
+                <select  name="" id="dimensions_div_pixcel">
+                  <option value="900X1500">900 X 1500</option>
+                  <option value="1200X1800">1200 X 1800</option>
+                  <option value="1500X2100">1500 X 2100</option>
+                  <option value="2400X2400">2400 X 2400</option>
+                  <option value="2400X3000">2400 X 3000</option>
+                  <option value="2550X3300">2550 X 3300</option>
+                  <option value="2700X4800">2700 X 4800</option>
+                  <option value="3300X4800">3300 X 4800</option>
+                  <option value="3300X4200">3300 X 4200</option>
+                  <option value="1920X1080">1920 X 1080</option>
+                  <option value="1080X1920">1080 X 1920</option>
+                  <option value="500X500">500 X 500</option>
+                  <option value="42X59.4">42 X 59.4</option>
+                  <option value="1080X1080">1080 X 1080</option>
+                  <option value="1920X1080">1920 X 1080</option>
+                  <option value="29.7X21">29.7 X 21</option>
+                  <option value="1280X720">1280 X 720</option>
+                  <option value="21X29.7">21 X 29.7</option>
+                  <option value="1000X1000">1000 X 1000</option>
+                  <option value="1920X480">1920 X 480</option>
+                  <option value="800X2000">800 X 2000</option>
+                  <option value="1200X628">1200 x 628</option>
+                  <option value="1200X675">1200 x 675</option>
+                  <option value="700X800">700 x 800</option>
+                  <option value="385X256">385 x 256</option>
+                  <option value="266X177">266 x 177</option>
+                  <option value="320X320">320 X 320</option>
+                  <option value="1080X566">1080 X 566</option>
+                  <option value="1080X1350">1080 X 1350</option>
+                  <option value="170X170">170 X 170</option>
+                  <option value="1200X630">1200 X  630</option>
+                  <option value="630X1200">630 X  1200</option>
+                  <option value="1640X923">1640 x 923</option>
+                  <option value="128X128">128 x 128</option>
+                  <option value="32X32">32 x 32</option>
+                  <option value="1584X396">1584 x 396</option>
+                  <option value="300X300">300 x 300</option>
+                  <option value="1280X720">1280 x 720</option>
+                  <option value="1024X768">1024 x 768</option>
+                  <option value="480X640">480 x 640</option>
+                  <option value="1024X768">1024 X 768</option>
+                  <option value="1920X1080">1920  X 1080</option>
+                  <option value="1280X720">1280  X 720</option>
+                  <option value="450X450">450  X 450</option>
+                  <option value="480X640">480 X  640</option>
+                  <option value="150X150">150 X  150</option>
+                  <option value="1280X720">1280 X  720</option>
+                  <option value="254X94">254 x 94</option>
+                  <option value="560X208">560 x 208</option>
+                  <option value="168X168">168 x 168</option>
+                  <option value="1958X745">1958 x 745</option>
+                  <option value="2037X754">2037 x 754</option>
                 </select>
               </div>
-            <div id="dimensions_div">
-              <p id="dim_pixels">Dimensions</p>
-              <!-- <p id="dim_inches">Dimensions in inches</p> -->
-              <div id="pixels">
-              <div class="dimension_btn" id="900X1500">900 X 1500</div>
-              <div class="dimension_btn" id="1200X1800">1200 X 1800</div>
-              <div class="dimension_btn" id="1500X2100">1500 X 2100</div>
-              <div class="dimension_btn" id="2400X2400">2400 X 2400</div>
-              <div class="dimension_btn" id="2400X3000">2400 X 3000</div>
-              <div class="dimension_btn" id="2550X3300">2550 X 3300</div>
-              <div class="dimension_btn" id="2700X4800">2700 X 4800</div>
-              <div class="dimension_btn" id="3300X4800">3300 X 4800</div>
-              <div class="dimension_btn" id="3300X4200">3300 X 4200</div>
-              <div class="dimension_btn" id="1920X1080">1920 X 1080</div>
-              <div class="dimension_btn" id="1080X1920">1080 X 1920</div>
-              <div class="dimension_btn" id="500X500">500 X 500</div>
-              <div class="dimension_btn" id="42X59.4">42 X 59.4</div>
-              <div class="dimension_btn" id="1080X1080">1080 X 1080</div>
-              <div class="dimension_btn" id="1920X1080">1920 X 1080</div>
-              <div class="dimension_btn" id="29.7X21">29.7 X 21</div>
-              <div class="dimension_btn" id="1280X720">1280 X 720</div>
-              <div class="dimension_btn" id="21X29.7">21 X 29.7</div>
-              <div class="dimension_btn" id="1000X1000">1000 X 1000</div>
-              <div class="dimension_btn" id="1920X480">1920 X 480</div>
-              <div class="dimension_btn" id="800X2000">800 X 2000</div>
-              <div class="dimension_btn" id="1200X628">1200 x 628</div>
-              <div class="dimension_btn" id="1200X675">1200 x 675</div>
-              <div class="dimension_btn" id="700X 800">700 x 800</div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
