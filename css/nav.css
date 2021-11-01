@@ -1,0 +1,4 @@
+.dropdown-menu {
+    overflow-y: scroll !important;
+    height: 70vh !important;
+  }
