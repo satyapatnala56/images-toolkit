@@ -243,6 +243,7 @@ function convert_webp() {
               document.querySelector("#downloadButton").onclick = function () {
                 document.querySelector(".thankyouBox span").innerHTML =
                   "Downloading might take a while";
+                  debugger
                 canvas.toBlob(function (blob) {
                   var r = new FileReader();
                   r.onload = function () {

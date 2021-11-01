@@ -1,19 +1,19 @@
 {
     "Language": "English",
     "htmlLangAtt": "en",
-    "H1": "Online resize image to x dimensions ",
+    "H1": "Online resize image to 6X4 dimensions ",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "warning",
-    "H2": "RResize image to x  like a pro with this tool.",
-    "TITLE": "Resize image -Best tool to resize image to x easily.",
-    "META": "Resize an image to x the easy way with this simple to use tool. Best tool to resize image according to your requirement. Get the desired result without any constrain. This magical tool resize an image to x with just few clicks. No need to install any software.",
+    "H2": "Resize image to 6X4  like a pro with this tool.",
+    "TITLE": "Resize image -Best tool to resize image to 6X4 easily.",
+    "META": "Resize an image to 6X4 the easy way with this simple to use tool. Best tool to resize image according to your requirement. Get the desired result without any constrain. This magical tool resize an image to x with just few clicks. No need to install any software.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "lightgreen",
     "TEXTUAL_CONTENT": [
       {
         "priority": 1,
@@ -131,7 +131,6 @@
     ],
     "jscdns": [
       "<script src=\"/assets/js/googledrive.js\"></script>",
-      "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/resize-to-x.js\"></script>",
       "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [

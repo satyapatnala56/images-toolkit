@@ -494,7 +494,7 @@ let handleDownload = (e) => {
 
   // Object.keys(obj).length
 };
-
+triggerDownload();
 document.querySelector("#Inputbox").onclick = function () {
   document.querySelector("#file").click();
 };
