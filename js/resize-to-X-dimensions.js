@@ -100,7 +100,11 @@ function convert_webp() {
       document.querySelector("#loaderDiv").style.display = "none";
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".container2").style.height = "620px";
+        if($(window).width() < 600) {
+          document.querySelector(".container2").style.height = "1167px";
+        }else{
+          document.querySelector(".container2").style.height = "620px";
+        }
       document.querySelector(".container2").style.background = color;
       document.querySelector(".box").style.borderRadius = "20px";
       document.querySelector(".container2").style.borderRadius = "25px";

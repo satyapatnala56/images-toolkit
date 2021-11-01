@@ -257,11 +257,6 @@
             "url": "/resize-image-to-20X24"
           },
           {
-            "name": "resizer image to 21X29 ",
-            "iconSrc": "/img/resize.png",
-            "url": "/resize-image-to-21X29"
-          },
-          {
             "name": "resizer image to 24X36 ",
             "iconSrc": "/img/resize.png",
             "url": "/resize-image-to-24X36"
@@ -321,6 +316,11 @@
             "url": "/resize-image-to-128X128"
           },
           {
+            "name": "resizer image to 21X29 ",
+            "iconSrc": "/img/resize.png",
+            "url": "/resize-image-to-21X29"
+          },
+          {
             "name": "resizer image to 150X150 ",
             "iconSrc": "/img/resize.png",
             "url": "/resize-image-to-150X150"
@@ -356,9 +356,9 @@
             "url": "/resize-image-to-320X320"
           },
           {
-            "name": "resizer image to 385X356 ",
+            "name": "resizer image to 385X256 ",
             "iconSrc": "/img/resize.png",
-            "url": "/resize-image-to-385X356"
+            "url": "/resize-image-to-385X256"
           },
           {
             "name": "resizer image to 450X450 ",
