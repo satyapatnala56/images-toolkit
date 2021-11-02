@@ -132,7 +132,6 @@ function convert_webp() {
         image.onload = function () {
           var naturalheight = image.height;
           var naturalwidth = image.width;
-
           converting_process(
             message1,
             message2,
@@ -255,15 +254,30 @@ function convert_webp() {
       var img = new Image();
       document.querySelector("#resize_height input").value = parseInt(y_height);
       document.querySelector("#resize_width input").value = parseInt(x_width);
-      
-      console.log("inashhshsh")
       starting_initial_conversion("Loading preview...", "Preview loaded", 0);
       img.onload = function () {
         document.querySelector("#output_div_inner img").src = r.result;
+        var drop_data = x_width + "X" + y_height;
         if(type_dimesions === "pixels"){
           document.getElementById("div_pixcel").style.display="block";
+          console.log(drop_data)
+          for (var option of document.getElementById("dimensions_div_pixcel").options)
+          {
+          if (option.value === drop_data)
+          {
+              option.selected = true;
+          }
+          }
         }else{
           document.getElementById("div_inches").style.display="block";
+          console.log(drop_data)
+          for (var option of document.getElementById("dimensions_div_inches").options)
+          {
+          if (option.value === drop_data)
+          {
+              option.selected = true;
+          }
+          }
         }
       var inches = document.getElementById("dimensions_div_inches");
       inches.addEventListener("change", (e) => {
@@ -272,6 +286,7 @@ function convert_webp() {
         var button_width = button_arr[0];
         var button_height = button_arr[1];
         if (value) {
+          
           document.querySelector("#resize_height input").value = parseInt(button_height);
           document.querySelector("#resize_width input").value = parseInt(button_width); 
         initial_conversion("Loading preview...", "Preview loaded", 0);

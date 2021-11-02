@@ -1,12 +1,15 @@
+///drag and drop n option
 const getScript = document.currentScript;
 const pageTool = getScript.dataset.tool;
 const lang = getScript.dataset.lang;
 let resizer = new pica();
 var _URL = window.URL || window.webkitURL;
+
 //Decision variable change this to change feature
 let windowURL = window.location.href;
 windowURL = windowURL.slice(windowURL.lastIndexOf("/")).split("-")[2];
 let currentURL = windowURL[0].toUpperCase() + windowURL.slice(1);
+console.log(currentURL);
 
 if (windowURL == "google") currentURL = "Google Banner Ads";
 
@@ -100,17 +103,17 @@ let UIData = {
     description: `Resize your images now for various whatsapp uploads.`,
     iconURL: "./img/imageResizer-assets/whatsapp.svg",
   },
-  Squarespace: {
-    mainColor: "#8c44f7",
-    fontColor: "white",
-    description: `Resize your images now for various squarespace uploads.`,
-    iconURL: "./img/imageResizer-assets/squarespace.svg",
-  },
   Twitch: {
     mainColor: "#8c44f7",
     fontColor: "white",
     description: `Resize your images now for various twitch uploads.`,
     iconURL: "./img/imageResizer-assets/twitch.svg",
+  },
+  Squarespace: {
+    mainColor: "#8c44f7",
+    fontColor: "white",
+    description: `Resize your images now for various twitch uploads.`,
+    iconURL: "./img/imageResizer-assets/squarespace.svg",
   },
   Printing: {
     mainColor: "#26d0c7",
@@ -172,7 +175,7 @@ fetch("../JS/ResizerData.json")
     currentData = data["resizerData"][currentURL];
     console.log("------------------CURRENT DATA---------------------------");
     console.log(currentData);
-  });   
+  });
 
 let OverlayImage = document.querySelector(".imgWrap img");
 const gdrive = document.querySelector("#filepicker");
@@ -374,7 +377,6 @@ let triggerDownload = () => {
     saveAs(content, `ImageResizer.zip`);
     if (lang === "en") {
       window.location.href = `/download?tool=${pageTool}`;
-      console.log("len"+`/download?tool=${pageTool}`)
     } else {
       window.location.href = `/${lang}/download?tool=${pageTool}`;
     }
@@ -383,11 +385,13 @@ let triggerDownload = () => {
 
 let handleDownload = (e) => {
   window.scrollTo(0, 0);
+
   let id = e.id;
   let progress = 0;
   total = 0;
   if (id == "download-all") {
     DownloadButtons.style.display = "none";
+
     total = Object.keys(currentData).length;
     for (let key in currentData) {
       if (key in canvases) {
@@ -488,13 +492,13 @@ let handleDownload = (e) => {
       landingContainer.style.display = "flex";
       document
         .querySelector(".Landing .Container")
-        .classList.add("   ");
+        .classList.add("ContainerOnloading");
     }
   }
 
   // Object.keys(obj).length
 };
-triggerDownload();
+
 document.querySelector("#Inputbox").onclick = function () {
   document.querySelector("#file").click();
 };

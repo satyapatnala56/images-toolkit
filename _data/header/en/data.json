@@ -98,11 +98,6 @@
             "url": "/image-resize"
           },
           {
-            "iconSrc": "/img/resize.png",
-            "name": "Resizer Image to x",
-            "url": "/resize-image-to-X"
-          },
-          {
             "iconSrc": "/img/compare.png",
             "name": "Image Comparison",
             "url": "/image-comparison"
