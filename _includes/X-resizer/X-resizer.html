@@ -85,16 +85,16 @@
                 <p>Filename As</p>
                 <input type="text" />
               </div>
-              <div class="input_div" id="resize_height">
+              <div class="input_div" id="resize_height" style="display: none;">
                 <p>Height</p>
                 <input type="number"/>
               </div>
-              <div class="input_div" id="resize_width">
+              <div class="input_div" id="resize_width" style="display: none;">
                 <p>Width</p>
                 <input type="number"/>
               </div>
               <br />
-              <div class="input_div" id="resize_quality">
+              <div class="input_div" id="resize_quality" style="display: none;">
                 <p>Quality</p>
                 <select name="" id="">
                   <option value="1">1</option>
@@ -107,15 +107,6 @@
                   <option value="0.3">0.3</option>
                   <option value="0.2">0.2</option>
                   <option value="0.1">0.1</option>
-                </select>
-              </div>
-              <div class="input_div" id="save_as">
-                <p>Save As</p>
-                <select name="" id="">
-                  <option value="png">PNG</option>
-                  <option value="jpg">JPG</option>
-                  <option value="jpeg">JPEG</option>
-                  <option value="webp">WEBP</option>
                 </select>
               </div>
                 <div class="input_div" id="div_pixcel" style="width: 99.5%; margin-top: 0px; display: none;" >
@@ -175,7 +166,7 @@
                     <option value="2037X754">2037 x 754</option>
                   </select>
                 </div>
-                <div class="input_div" id="div_inches" style="width: 99.5%; margin-top: 0px; display: none;" >
+                <div class="input_div" id="div_inches" style="width: 99.5%; display: none;" >
                   <p>Dimensions in inches</p>
                   <select  name="" id="dimensions_div_inches">
                     <option value="1200X1800">3 X 5</option>
@@ -205,6 +196,15 @@
                     <option value="7200X10800">24 X 36</option>
                     <option value="7200X14400">24 X 48</option>
                     
+                  </select>
+                </div>
+                <div class="input_div" id="save_as" style="width: 99.5%;">
+                  <p>Save As</p>
+                  <select name="" id="">
+                    <option value="png">PNG</option>
+                    <option value="jpg">JPG</option>
+                    <option value="jpeg">JPEG</option>
+                    <option value="webp">WEBP</option>
                   </select>
                 </div>
             </div>
