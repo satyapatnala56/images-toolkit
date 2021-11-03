@@ -14,44 +14,7 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "lightgreen",
-    "TEXTUAL_CONTENT": [
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/highquality.png",
-        "header": "High Quality",
-        "content": "Our image resizer tool resizer the images by retaining its quality."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/security.png",
-        "header": "Data Security",
-        "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/flexible.png",
-        "header": "Flexibilty",
-        "content": " Our image resizer tool works on almost all kinds of browsers and devices."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/userfriendly.png",
-        "header": "User friendly",
-        "content": "Our image resizer tool is very easy to understand no professional is needed to work on our tool."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/free.png",
-        "header": "Free of cost",
-        "content": "Our image resizer tool is completely free of cost, you can use all our tools without paying a single penny"
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/nodownload.png",
-        "header": "No additional download",
-        "content": "Our image resizer tool is completely browser based and no additional software is required to be downloaded on your device."
-      }
-    ],
+    "TEXTUAL_CONTENT":[],
     "HOW_TO_CONTENT": {
       "logoImageUrl": "/idea.svg",
       "heading": "How to resize an image",

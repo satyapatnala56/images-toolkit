@@ -217,6 +217,11 @@
             "url": "/resize-image-to-8X11"
           },
           {
+            "name": "resizer image to 2X2 ",
+            "iconSrc": "/img/resize.png",
+            "url": "/resize-image-to-2X2"
+          },
+          {
             "name": "resizer image to 9X16 ",
             "iconSrc": "/img/resize.png",
             "url": "/resize-image-to-9X16"
