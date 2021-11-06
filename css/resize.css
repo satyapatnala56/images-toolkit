@@ -103,14 +103,6 @@
 #file_name input {
   width: 98.5%;
 }
-#footer_div {
-  height: auto;
-  width: 99%;
-  padding-top: 24px;
-  padding-left: 46px;
-  padding-right: 30px;
-  padding-bottom: 40px;
-}
 
 #save,
 #preview {
@@ -281,12 +273,8 @@
     margin-top: 10px;
     float: none;
   }
-  #footer_div {
-    width: 90%;
-    height: auto;
-    margin: auto;
-    padding-left: 27px;
-  }
+
+
   #output_div {
     padding-left: 24px;
     padding-right: 24px;
@@ -331,4 +319,15 @@
   #header_div {
     font-size: 25px;
   }
+}
+#footer_div {
+  height: auto;
+  width: 99%;
+  padding-top: 14px;
+  padding-left: 46px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+}
+option{
+  color: black;
 }

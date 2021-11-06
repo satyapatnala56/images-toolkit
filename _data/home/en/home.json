@@ -120,8 +120,6 @@
       "icon": "/img/home/pixelated.png",
       "url": "/pixel-art-maker"
     },
-
-    
     {
       "name": "Facebook image resizer",
       "description": "Resize images for facebook",
@@ -205,6 +203,13 @@
       "color": "#ea4335",
       "icon": "/img/imageResizer-assets/whatsapp.svg",
       "url": "/image-resize-whatsapp"
+    },
+    {
+      "name": " squarespace",
+      "description": "Resize images for squarespace",
+      "color": "#8c44f7",
+      "icon": "/img/imageResizer-assets/squarespace.svg",
+      "url": "/image-resize-squarespace"
     },
     {
       "name": " Twitch",
