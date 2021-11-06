@@ -76,10 +76,6 @@
       "url": "/image-resize"
     },
     {
-      "name": "Resizer Image to x",
-      "url": "/resize-image-to-X"
-    },
-    {
       "name": "Watermark image maker",
       "url": "/watermark-for-photos"
     },
