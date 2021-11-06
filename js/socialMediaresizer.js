@@ -1,3 +1,7 @@
+///drag and drop n option
+const getScript = document.currentScript;
+const pageTool = getScript.dataset.tool;
+const lang = getScript.dataset.lang;
 let resizer = new pica();
 var _URL = window.URL || window.webkitURL;
 
@@ -104,6 +108,12 @@ let UIData = {
     fontColor: "white",
     description: `Resize your images now for various twitch uploads.`,
     iconURL: "./img/imageResizer-assets/twitch.svg",
+  },
+  Squarespace: {
+    mainColor: "#8c44f7",
+    fontColor: "white",
+    description: `Resize your images now for various twitch uploads.`,
+    iconURL: "./img/imageResizer-assets/squarespace.svg",
   },
   Printing: {
     mainColor: "#26d0c7",
@@ -365,6 +375,11 @@ let triggerDownload = () => {
     "./img/imageResizer-assets/cheers.svg";
   zip.generateAsync({ type: "blob" }).then(function (content) {
     saveAs(content, `ImageResizer.zip`);
+    if (lang === "en") {
+      window.location.href = `/download?tool=${pageTool}`;
+    } else {
+      window.location.href = `/${lang}/download?tool=${pageTool}`;
+    }
   });
 };
 

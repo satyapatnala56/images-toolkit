@@ -97,7 +97,8 @@ function convert_webp() {
       document.querySelector("#loaderDiv").style.display = "none";
       document.querySelector("#content").style.visibility = "visible";
       document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".container2").style.height = "auto";
+      document.querySelector(".container2").style.height = "620px";
+      document.querySelector("#footer_div").style.paddingTop = "19px";
       document.querySelector(".container2").style.background = "#ffbb33";
       document.querySelector(".box").style.borderRadius = "20px";
       document.querySelector(".container2").style.borderRadius = "25px";
@@ -242,6 +243,7 @@ function convert_webp() {
               document.querySelector("#downloadButton").onclick = function () {
                 document.querySelector(".thankyouBox span").innerHTML =
                   "Downloading might take a while";
+                  debugger
                 canvas.toBlob(function (blob) {
                   var r = new FileReader();
                   r.onload = function () {

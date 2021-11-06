@@ -76,6 +76,10 @@
       "url": "/image-resize"
     },
     {
+      "name": "Resizer Image to x",
+      "url": "/resize-image-to-X"
+    },
+    {
       "name": "Watermark image maker",
       "url": "/watermark-for-photos"
     },
@@ -126,6 +130,10 @@
     {
       "name": " SoundCloud image resizer",
       "url": "/image-resize-soundcloud"
+    },
+    {
+      "name": " squarespace image resizer",
+      "url": "/image-resize-squarespace"
     },
     {
       "name": " Whatsapp image resizer",

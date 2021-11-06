@@ -278,7 +278,7 @@ function compressImage() {
               document.querySelector("#content").style.display = "none";
               document.querySelector(".thankyouBox").innerHTML =
                 '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
-
+                alert("heloo")
               container.style.height = "300px";
               if (window.location.href.match("compress-an-image")) {
                 box.style.background = "#ad81ee";
