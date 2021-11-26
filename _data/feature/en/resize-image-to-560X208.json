@@ -1,76 +1,75 @@
 {
-    "Language": "English",
-    "htmlLangAtt": "en",
-    "H1": "Online resize image to 560X208 dimensions ",
-    "img": "/img/resize.png",
-    "imgwidth": "35px",
-    "imgheight": "35px",
-    "imgalt": "altvalue",
-    "nofileupload": true,
-    "variant": "warning",
-    "H2": "Resize image to 560X208  like a pro with this tool.",
-    "TITLE": "Resize image -Best tool to resize image to 560X208 easily.",
-    "META": "Resize an image to 560X208 the easy way with this simple to use tool. Best tool to resize image according to your requirement. Get the desired result without any constrain. This magical tool resize an image to x with just few clicks. No need to install any software.",
-    "LABEL": "",
-    "BREADCRUMB_LABEL": "",
-    "color": "lightblue",
-    "TEXTUAL_CONTENT": [
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/highquality.png",
-        "header": "High Quality",
-        "content": "Our image resizer tool resizer the images by retaining its quality."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/security.png",
-        "header": "Data Security",
-        "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/flexible.png",
-        "header": "Flexibilty",
-        "content": " Our image resizer tool works on almost all kinds of browsers and devices."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/userfriendly.png",
-        "header": "User friendly",
-        "content": "Our image resizer tool is very easy to understand no professional is needed to work on our tool."
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/free.png",
-        "header": "Free of cost",
-        "content": "Our image resizer tool is completely free of cost, you can use all our tools without paying a single penny"
-      },
-      {
-        "priority": 1,
-        "logoUrl": "/img/featureproperty/nodownload.png",
-        "header": "No additional download",
-        "content": "Our image resizer tool is completely browser based and no additional software is required to be downloaded on your device."
-      }
-    ],
-    "HOW_TO_CONTENT": {
-      "logoImageUrl": "/idea.svg",
-      "heading": "How to resize an image",
-      "steps": [
-        "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to select your file in the space provided.",
-        "Adjust the parameters for better image quality.\n",
-        "Hit the \"Preview\" to glance at the changes made.",
-        "Save the changes made.",
-        "Hurray!! the image is ready to use."
-      ]
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Online resize image to 560X208 dimensions ",
+  "img": "/img/resize.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
+  "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "warning",
+  "H2": "Resize image to 560X208  like a pro with this tool.",
+  "TITLE": "Resize image -Best tool to resize image to 560X208 easily.",
+  "META": "Resize an image to 560X208 the easy way with this simple to use tool. Best tool to resize image according to your requirement. Get the desired result without any constrain. This magical tool resize an image to x with just few clicks. No need to install any software.",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "lightblue",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "High Quality",
+      "content": "Our image resizer tool resizer the images by retaining its quality."
     },
-    "FAQ": [],
-    "jscdns": [
-      "<script src=\"/assets/js/googledrive.js\"></script>",
-      "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
-    ],
-    "csscdns": [
-      "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-      "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "Flexibilty",
+      "content": " Our image resizer tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/userfriendly.png",
+      "header": "User friendly",
+      "content": "Our image resizer tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/free.png",
+      "header": "Free of cost",
+      "content": "Our image resizer tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "No additional download",
+      "content": "Our image resizer tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "How to resize an image",
+    "steps": [
+      "Upload the image or Click on the drop down arrow and select Dropbox/Google Drive to select your file in the space provided.",
+      "Adjust the parameters for better image quality.\n",
+      "Hit the \"Preview\" to glance at the changes made.",
+      "Save the changes made.",
+      "Hurray!! the image is ready to use."
     ]
-  }
-  
+  },
+  "FAQ": [],
+  "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
+    "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"css/image-resize.css\" />"
+  ]
+}
