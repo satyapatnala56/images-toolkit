@@ -63,7 +63,12 @@
       "Hurray!! the image is ready to use."
     ]
   },
-  "FAQ": [],
+  "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
   "jscdns": [
     "<script src=\"/assets/js/googledrive.js\"></script>",
     "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
