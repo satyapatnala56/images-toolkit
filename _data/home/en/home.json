@@ -70,7 +70,6 @@
       "icon": "/img/home/filter.png",
       "url": "/photo-filters"
     },
-
     {
       "name": "Meme generator",
       "description": "Generates meme",
@@ -186,7 +185,7 @@
     {
       "name": " Discord",
       "description": "Resize images for discord",
-      "color": "#535fee", 
+      "color": "#535fee",
       "icon": "/img/imageResizer-assets/discord.svg",
       "url": "/image-resize-discord"
     },
@@ -225,6 +224,5 @@
       "icon": "/img/imageResizer-assets/printing.svg",
       "url": "/image-resize-printing"
     }
-    
   ]
 }
