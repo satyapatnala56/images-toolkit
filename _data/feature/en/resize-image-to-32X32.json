@@ -74,7 +74,7 @@
     "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
   ],
   "csscdns": [
-    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-    "<link rel=\"stylesheet\" href=\"css/image-resize.css\" />"
+    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/image-resize.css\" />"
   ]
 }

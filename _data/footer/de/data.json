@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "Firma",
+    "producttitle": "Produkt",
+    "networksitestitle": "Netzwerk-Sites",
+    "company": [
+        {
+            "name": "Allgemeine Geschäftsbedingungen",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "Haftungsausschluss",
+            "url": "disclaimer"
+        },
+        {
+            "name": "Datenschutz",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "ASCII-Bildgenerator ",
+            "url": "/de/ascii-art-from-image"
+        },
+        {
+            "name": "QR-Codegenerator",
+            "url": "/de/qr-code-generator"
+        },
+        {
+            "name": "Bild-Splitter ",
+            "url": "/de/split-photo"
+        },
+        {
+            "name": "Bild-Kompressor ",
+            "url": "/de/compress-an-image"
+        },
+        {
+            "name": "GIF-Bildkompressor ",
+            "url": "/de/compress-a-gif"
+        },
+        {
+            "name": "Png-Bild-Kompressor ",
+            "url": "/de/compress-png"
+        },
+        {
+            "name": "JPEG-Bildkompressor ",
+            "url": "/de/compress-jpeg"
+        },
+        {
+            "name": "Bild-Vergleich",
+            "url": "/de/image-comparison"
+        },
+        {
+            "name": "Bildzuschneider",
+            "url": "/de/crop-image"
+        },
+        {
+            "name": "Bildfilter-Adder",
+            "url": "/de/photo-filters"
+        },
+        {
+            "name": "Meme-Generator",
+            "url": "/de/meme-generator"
+        },
+        {
+            "name": "Bild-Flipper",
+            "url": "/de/flip-image"
+        },
+        {
+            "name": "Text zum Bild-Konverter",
+            "url": "/de/text-to-image-converter"
+        },
+        {
+            "name": "Bild-Resizer",
+            "url": "/de/image-resize"
+        },
+        {
+            "name": "Wasserzeichen-Bildmacher",
+            "url": "/de/watermark-for-photos"
+        },
+        {
+            "name": "Bild-zu-Pixel-Art-Konverter",
+            "url": "/de/pixel-art-maker"
+        },
+        {
+            "name": "Facebook-Bild-Resizer",
+            "url": "/de/image-resize-facebook"
+        },
+        {
+            "name": " Instagram-Bild-Resizer",
+            "url": "/de/image-resize-instagram"
+        },
+        {
+            "name": " Linkedin-Bildgrößenänderung",
+            "url": "/de/image-resize-linkedin"
+        },
+        {
+            "name": " E-Mail-Bild-Resizer",
+            "url": "/de/image-resize-email"
+        },
+        {
+            "name": " Tiktok Bildgrößenänderung",
+            "url": "/de/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter-Bild-Resizer",
+            "url": "/de/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest-Bild-Resizer",
+            "url": "/de/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat-Bildgrößenänderung",
+            "url": "/de/image-resize-snapchat"
+        },
+        {
+            "name": " Google-Bannerwerbung Bild Snapchat",
+            "url": "/de/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Discord-Bild-Größenanpassung",
+            "url": "/de/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud-Bildgrößenänderung",
+            "url": "/de/image-resize-soundcloud"
+        },
+        {
+            "name": " Squarespace-Bild-Resizer",
+            "url": "/de/image-resize-squarespace"
+        },
+        {
+            "name": " WhatsApp-Bildgrößenänderung",
+            "url": "/de/image-resize-whatsapp"
+        },
+        {
+            "name": " Twitch-Bild-Resizer",
+            "url": "/de/image-resize-twitch"
+        },
+        {
+            "name": " Bild-Resizer drucken",
+            "url": "/de/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "Über uns",
+            "url": "about"
+        },
+        {
+            "name": "Kontaktiere uns",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

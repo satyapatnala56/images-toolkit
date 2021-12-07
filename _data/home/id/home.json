@@ -1,0 +1,228 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "h1": "SafeImageKit.com - Cara paling aman untuk memproses gambar Anda",
+    "h2": "Tidak ada file yang dikirim ke server. 100% aman.",
+    "TITLE": "SafeImageKit.com - Cara paling aman untuk memproses gambar Anda",
+    "META": "Gunakan SafeImageKit.com untuk memproses gambar Anda dengan aman, online secara gratis. Beberapa operasi didukung.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "Generator gambar ASCII ",
+            "description": "Mengkonversi gambar menjadi seni Ascii",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/id/ascii-art-from-image"
+        },
+        {
+            "name": "Kompresi Gambar ",
+            "description": "Kompres gambar",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/id/compress-an-image"
+        },
+        {
+            "name": "Gambar Splitter ",
+            "description": "Membagi gambar",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/id/split-photo"
+        },
+        {
+            "name": "Kompresi Jpeg ",
+            "description": "Mengompres gambar jpeg",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/id/compress-jpeg"
+        },
+        {
+            "name": "Kompresi Png ",
+            "description": "Mengompres gambar png",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/id/compress-png"
+        },
+        {
+            "name": "Kompresi Gif ",
+            "description": "Mengompres gambar gif",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/id/compress-a-gif"
+        },
+        {
+            "name": "Perbandingan gambar",
+            "description": "Membandingkan dua gambar",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/id/image-comparison"
+        },
+        {
+            "name": "Gambar cropper",
+            "description": "Citra tanaman",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/id/crop-image"
+        },
+        {
+            "name": "Adder Filter Gambar",
+            "description": "Menambahkan filter ke gambar",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/id/photo-filters"
+        },
+        {
+            "name": "Generator meme",
+            "description": "Menghasilkan meme",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/id/meme-generator"
+        },
+        {
+            "name": "Konverter teks ke gambar",
+            "description": "Mengkonversi teks menjadi gambar",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/id/text-to-image-converter"
+        },
+        {
+            "name": "Gambar Flipper",
+            "description": "Flips/Rotates gambar",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/id/flip-image"
+        },
+        {
+            "name": "Resizer gambar",
+            "description": "Perubahan ukuran gambar",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/id/image-resize"
+        },
+        {
+            "name": "Pembuat gambar watermark",
+            "description": "Membuat gambar watermark",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/id/watermark-for-photos"
+        },
+        {
+            "name": " QR Kode Generator",
+            "description": "Menghasilkan kode Qr",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/id/qr-code-generator"
+        },
+        {
+            "name": " Gambar ke pixelate image converter",
+            "description": "Mengkonversi gambar menjadi Pixel art",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/id/pixel-art-maker"
+        },
+        {
+            "name": "Resizer gambar Facebook",
+            "description": "Ubah ukuran gambar untuk facebook",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/id/image-resize-facebook"
+        },
+        {
+            "name": " Resizer gambar Instagram",
+            "description": "Ubah ukuran gambar untuk instagram",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/id/image-resize-instagram"
+        },
+        {
+            "name": " Resizer gambar Linkedin",
+            "description": "Ubah ukuran gambar untuk linkedin",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/id/image-resize-linkedin"
+        },
+        {
+            "name": " Resizer gambar email",
+            "description": "Ubah ukuran gambar untuk email",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/id/image-resize-email"
+        },
+        {
+            "name": " Resizer gambar Tiktok",
+            "description": "Ubah ukuran gambar untuk tiktok",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/id/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter gambar resizer",
+            "description": "Ubah ukuran gambar untuk twitter",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/id/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest gambar resizer",
+            "description": "Ubah ukuran gambar untuk pinterest",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/id/image-resize-pinterest"
+        },
+        {
+            "name": "Resizer gambar Snapchat",
+            "description": "Ubah ukuran gambar untuk snapchat",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/id/image-resize-snapchat"
+        },
+        {
+            "name": " Google Banner Iklan gambar Snapchat",
+            "description": "Mengubah ukuran gambar untuk iklan banner google",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/id/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Perselisihan",
+            "description": "Ubah ukuran gambar untuk perselisihan",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/id/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Ubah ukuran gambar untuk soundcloud",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/id/image-resize-soundcloud"
+        },
+        {
+            "name": " Whatsapp",
+            "description": "Ubah ukuran gambar untuk whatsapp",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/id/image-resize-whatsapp"
+        },
+        {
+            "name": " squarespace",
+            "description": "Mengubah ukuran gambar untuk squarespace",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/id/image-resize-squarespace"
+        },
+        {
+            "name": " Kedutan",
+            "description": "Ubah ukuran gambar untuk kedutan",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/id/image-resize-twitch"
+        },
+        {
+            "name": " Mencetak",
+            "description": "Ubah ukuran gambar untuk dicetak",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/id/image-resize-printing"
+        }
+    ]
+}

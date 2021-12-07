@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "公司",
+    "producttitle": "產品",
+    "networksitestitle": "网络站点",
+    "company": [
+        {
+            "name": "条款和条件",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "免责声明",
+            "url": "disclaimer"
+        },
+        {
+            "name": "隐私",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "ASCII 图像生成器 ",
+            "url": "/zh/ascii-art-from-image"
+        },
+        {
+            "name": "QR 码生成器",
+            "url": "/zh/qr-code-generator"
+        },
+        {
+            "name": "图像拆分器 ",
+            "url": "/zh/split-photo"
+        },
+        {
+            "name": "图像压缩器 ",
+            "url": "/zh/compress-an-image"
+        },
+        {
+            "name": "Gif 图像压缩器 ",
+            "url": "/zh/compress-a-gif"
+        },
+        {
+            "name": "Png 图像压缩器 ",
+            "url": "/zh/compress-png"
+        },
+        {
+            "name": "jpeg 图像压缩器 ",
+            "url": "/zh/compress-jpeg"
+        },
+        {
+            "name": "图像比较",
+            "url": "/zh/image-comparison"
+        },
+        {
+            "name": "图片裁剪器",
+            "url": "/zh/crop-image"
+        },
+        {
+            "name": "图像滤镜加法器",
+            "url": "/zh/photo-filters"
+        },
+        {
+            "name": "模因生成器",
+            "url": "/zh/meme-generator"
+        },
+        {
+            "name": "图片 Flipper",
+            "url": "/zh/flip-image"
+        },
+        {
+            "name": "文本到图像转换器",
+            "url": "/zh/text-to-image-converter"
+        },
+        {
+            "name": "图像调整器",
+            "url": "/zh/image-resize"
+        },
+        {
+            "name": "水印图像制作者",
+            "url": "/zh/watermark-for-photos"
+        },
+        {
+            "name": "图像到像素艺术转换器",
+            "url": "/zh/pixel-art-maker"
+        },
+        {
+            "name": "Facebook 图片大小调整器",
+            "url": "/zh/image-resize-facebook"
+        },
+        {
+            "name": " Instagram 图片大小调整器",
+            "url": "/zh/image-resize-instagram"
+        },
+        {
+            "name": " Linkedin 图像大小调整器",
+            "url": "/zh/image-resize-linkedin"
+        },
+        {
+            "name": " 电子邮件图像调整器",
+            "url": "/zh/image-resize-email"
+        },
+        {
+            "name": " Tiktok 图像调整器",
+            "url": "/zh/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter 图片大小调整器",
+            "url": "/zh/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest 的图像调整器",
+            "url": "/zh/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat 图像调整器",
+            "url": "/zh/image-resize-snapchat"
+        },
+        {
+            "name": " 谷歌横幅广告图片 Snapchat",
+            "url": "/zh/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Discord 图像缩放器",
+            "url": "/zh/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud 图像调整器",
+            "url": "/zh/image-resize-soundcloud"
+        },
+        {
+            "name": " 方形空间图像调整器",
+            "url": "/zh/image-resize-squarespace"
+        },
+        {
+            "name": " Whatsapp 图像大小调整器",
+            "url": "/zh/image-resize-whatsapp"
+        },
+        {
+            "name": " Twitch 图像调整器",
+            "url": "/zh/image-resize-twitch"
+        },
+        {
+            "name": " 打印图像缩放器",
+            "url": "/zh/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "关于我们",
+            "url": "about"
+        },
+        {
+            "name": "联系我们",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

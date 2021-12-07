@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "Société",
+    "producttitle": "Produit",
+    "networksitestitle": "Sites du réseau",
+    "company": [
+        {
+            "name": "Termes et conditions",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "Avis de non-responsabilité",
+            "url": "disclaimer"
+        },
+        {
+            "name": "Confidentialité",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "Générateur d'images ASCII ",
+            "url": "/fr/ascii-art-from-image"
+        },
+        {
+            "name": "Générateur de code QR",
+            "url": "/fr/qr-code-generator"
+        },
+        {
+            "name": "Splitter d'images ",
+            "url": "/fr/split-photo"
+        },
+        {
+            "name": "Compresseur d'image ",
+            "url": "/fr/compress-an-image"
+        },
+        {
+            "name": "Compresseur d'images Gif ",
+            "url": "/fr/compress-a-gif"
+        },
+        {
+            "name": "Compresseur d'image Png ",
+            "url": "/fr/compress-png"
+        },
+        {
+            "name": "Compresseur d'image jpeg ",
+            "url": "/fr/compress-jpeg"
+        },
+        {
+            "name": "Comparaison d'images",
+            "url": "/fr/image-comparison"
+        },
+        {
+            "name": "Recadrage d'image",
+            "url": "/fr/crop-image"
+        },
+        {
+            "name": "Addateur de filtre d'image",
+            "url": "/fr/photo-filters"
+        },
+        {
+            "name": "Générateur de mèmes",
+            "url": "/fr/meme-generator"
+        },
+        {
+            "name": "Flipper d'image",
+            "url": "/fr/flip-image"
+        },
+        {
+            "name": "Convertisseur de texte en image",
+            "url": "/fr/text-to-image-converter"
+        },
+        {
+            "name": "Redimensionneur d'image",
+            "url": "/fr/image-resize"
+        },
+        {
+            "name": "Créateur d'images filigranes",
+            "url": "/fr/watermark-for-photos"
+        },
+        {
+            "name": "Convertisseur d'image en pixel art",
+            "url": "/fr/pixel-art-maker"
+        },
+        {
+            "name": "Redimensionneur d'image Facebook",
+            "url": "/fr/image-resize-facebook"
+        },
+        {
+            "name": " Redimensionneur d'image Instagram",
+            "url": "/fr/image-resize-instagram"
+        },
+        {
+            "name": " Redimensionneur d'image Linkedin",
+            "url": "/fr/image-resize-linkedin"
+        },
+        {
+            "name": " Redimensionneur d'image d'e-mail",
+            "url": "/fr/image-resize-email"
+        },
+        {
+            "name": " Redimensionneur d'image Tiktok",
+            "url": "/fr/image-resize-tiktok"
+        },
+        {
+            "name": " Redimensionneur d'image Twitter",
+            "url": "/fr/image-resize-twitter"
+        },
+        {
+            "name": " Redimensionneur d'image Pinterest",
+            "url": "/fr/image-resize-pinterest"
+        },
+        {
+            "name": "Redimensionneur d'image Snapchat",
+            "url": "/fr/image-resize-snapchat"
+        },
+        {
+            "name": " Image Google Banner Ads Snapchat",
+            "url": "/fr/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Redimensionneur d'image Discord",
+            "url": "/fr/image-resize-discord"
+        },
+        {
+            "name": " Redimensionneur d'image SoundCloud",
+            "url": "/fr/image-resize-soundcloud"
+        },
+        {
+            "name": " redimensionneur d'image squarespace",
+            "url": "/fr/image-resize-squarespace"
+        },
+        {
+            "name": " Redimensionneur d'image Whatsapp",
+            "url": "/fr/image-resize-whatsapp"
+        },
+        {
+            "name": " Redimensionneur d'image Twitch",
+            "url": "/fr/image-resize-twitch"
+        },
+        {
+            "name": " Redimensionneur d'image d'impression",
+            "url": "/fr/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "À propos de nous",
+            "url": "about"
+        },
+        {
+            "name": "Contactez-Nous",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

@@ -1,0 +1,129 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "successmessage": "ไชโย!การดำเนินงานของคุณเสร็จสมบูรณ์",
+    "tryfeatureheading": "นอกจากนี้คุณยังสามารถลองใช้คุณสมบัติเหล่านี้",
+    "rateus": "ให้คะแนนเรา",
+    "votes": "ลงคะแนน",
+    "socialshareheading": "เรามีอิสระที่จะใช้แพลตฟอร์มสำหรับการประมวลผลที่ปลอดภัยของไฟล์ของคุณเราต้องการความช่วยเหลือจากคุณในการเติบโตช่วยเราโดยการแบ่งปันเราบนโซเชียลมีเดียขอบคุณ!",
+    "recommendedsitesheading": "ลองใช้เว็บไซต์อื่น ๆ ของเราสำหรับการประมวลผลไฟล์ของคุณอย่างปลอดภัย! ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "ตัวแยกภาพ",
+            "url": "/th/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "ตัวปรับขนาดภาพ",
+            "url": "/th/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "การเปรียบเทียบภาพ",
+            "url": "/th/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "เครื่องอัดภาพ",
+            "url": "/th/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "คอมเพรสเซอร์",
+            "url": "/th/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "คอมเพรสเซอร์",
+            "url": "/th/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "เครื่องอัดอากาศแบบ Jpeg",
+            "url": "/th/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "เครื่องกำเนิดภาพ ASCII ",
+            "url": "/th/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "เครื่องกำเนิดมีม",
+            "url": "/th/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "แปลงข้อความเป็นภาพ",
+            "url": "/th/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "เครื่องมือสร้างภาพลายน้ำ",
+            "url": "/th/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "ภาพเป็นพิกเซลแปลงภาพ",
+            "url": "/th/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "เครื่องกำเนิดไฟฟ้า QR Code",
+            "url": "/th/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "เครื่องตัดภาพ",
+            "url": "/th/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "Adder ฟิลเตอร์ภาพ",
+            "url": "/th/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "เครื่องหมุนภาพ",
+            "url": "/th/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

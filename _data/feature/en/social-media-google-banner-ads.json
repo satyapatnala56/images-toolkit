@@ -120,7 +120,7 @@
     "<script src=\"/assets/js/googledrive.js\"></script>"
   ],
   "csscdns": [
-    "<link rel=\"stylesheet\" href=\"css/utils.css\" />"
+    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />"
   ],
   "filelang": "en",
   "display_formats": [

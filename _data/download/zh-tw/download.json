@@ -1,0 +1,129 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "successmessage": "赫裏！您的操作已完成",
+    "tryfeatureheading": "您也可以嘗試這些功能",
+    "rateus": "評價我們",
+    "votes": "票",
+    "socialshareheading": "我們是一個免費使用平台來安全處理您的文件。我們需要您的支持才能發展。通過在社交媒體上分享我們來幫助我們。謝謝！",
+    "recommendedsitesheading": "嘗試我們的其他網站來安全處理您的文件！ ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "圖像分割器",
+            "url": "/zh-TW/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "圖像調整大小",
+            "url": "/zh-TW/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "圖像比較",
+            "url": "/zh-TW/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "圖像壓縮機",
+            "url": "/zh-TW/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "PNG 壓縮機",
+            "url": "/zh-TW/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "GIF 壓縮機",
+            "url": "/zh-TW/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "JPEG 壓縮機",
+            "url": "/zh-TW/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "ASCII 圖像生成器 ",
+            "url": "/zh-TW/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "模因發生器",
+            "url": "/zh-TW/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "文本到圖像轉換器",
+            "url": "/zh-TW/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "水印圖像製作器",
+            "url": "/zh-TW/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "圖像到像素化圖像轉換器",
+            "url": "/zh-TW/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "二維碼生成器",
+            "url": "/zh-TW/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "圖像剪切",
+            "url": "/zh-TW/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "圖像過濾器添加器",
+            "url": "/zh-TW/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "圖像旋轉",
+            "url": "/zh-TW/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

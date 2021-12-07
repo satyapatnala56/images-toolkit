@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "سيفيماجيكيت .com",
+    "companytitle": "شركة",
+    "producttitle": "المنتج",
+    "networksitestitle": "مواقع الشبكة",
+    "company": [
+        {
+            "name": "الشروط والأحكام",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "إخلاء المسؤولية",
+            "url": "disclaimer"
+        },
+        {
+            "name": "الخصوصية",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "مولد الصور ASCII ",
+            "url": "/ar/ascii-art-from-image"
+        },
+        {
+            "name": "مولد رمز الاستجابة السريعة",
+            "url": "/ar/qr-code-generator"
+        },
+        {
+            "name": "مقسم الصورة ",
+            "url": "/ar/split-photo"
+        },
+        {
+            "name": "ضاغط الصور ",
+            "url": "/ar/compress-an-image"
+        },
+        {
+            "name": "ضاغط صورة Gif ",
+            "url": "/ar/compress-a-gif"
+        },
+        {
+            "name": "ضاغط صورة Png ",
+            "url": "/ar/compress-png"
+        },
+        {
+            "name": "ضاغط صورة jpeg ",
+            "url": "/ar/compress-jpeg"
+        },
+        {
+            "name": "مقارنة الصور",
+            "url": "/ar/image-comparison"
+        },
+        {
+            "name": "صورة كروبر",
+            "url": "/ar/crop-image"
+        },
+        {
+            "name": "أداة تصفية الصور",
+            "url": "/ar/photo-filters"
+        },
+        {
+            "name": "مولد ميمي",
+            "url": "/ar/meme-generator"
+        },
+        {
+            "name": "صورة فليبر",
+            "url": "/ar/flip-image"
+        },
+        {
+            "name": "تحويل نص إلى صورة",
+            "url": "/ar/text-to-image-converter"
+        },
+        {
+            "name": "ريزيزر الصورة",
+            "url": "/ar/image-resize"
+        },
+        {
+            "name": "صانع صورة العلامة المائية",
+            "url": "/ar/watermark-for-photos"
+        },
+        {
+            "name": "محول صورة إلى بكسل",
+            "url": "/ar/pixel-art-maker"
+        },
+        {
+            "name": "تغيير صورة فيسبوك",
+            "url": "/ar/image-resize-facebook"
+        },
+        {
+            "name": " ريزيزر صورة إنستغرام",
+            "url": "/ar/image-resize-instagram"
+        },
+        {
+            "name": " تغيير حجم صورة لينكد إن",
+            "url": "/ar/image-resize-linkedin"
+        },
+        {
+            "name": " تغيير صورة البريد الإلكتروني",
+            "url": "/ar/image-resize-email"
+        },
+        {
+            "name": " أداة تغيير حجم الصورة Tiktok",
+            "url": "/ar/image-resize-tiktok"
+        },
+        {
+            "name": " تغيير حجم صورة تويتر",
+            "url": "/ar/image-resize-twitter"
+        },
+        {
+            "name": " تغيير صورة بينتيريست",
+            "url": "/ar/image-resize-pinterest"
+        },
+        {
+            "name": "تغيير صورة سناب شات",
+            "url": "/ar/image-resize-snapchat"
+        },
+        {
+            "name": " صورة إعلانات بانر جوجل سناب شات",
+            "url": "/ar/image-resize-google-banner-ads"
+        },
+        {
+            "name": " تغيير صورة ديسكورد",
+            "url": "/ar/image-resize-discord"
+        },
+        {
+            "name": " تغيير حجم الصورة SoundCloud",
+            "url": "/ar/image-resize-soundcloud"
+        },
+        {
+            "name": " squarespace صورة ريزيزر",
+            "url": "/ar/image-resize-squarespace"
+        },
+        {
+            "name": " تغيير صورة واتس اب",
+            "url": "/ar/image-resize-whatsapp"
+        },
+        {
+            "name": " تغيير صورة نشل",
+            "url": "/ar/image-resize-twitch"
+        },
+        {
+            "name": " ريزيزر صورة الطباعة",
+            "url": "/ar/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "معلومات عنا",
+            "url": "about"
+        },
+        {
+            "name": "اتصل بنا",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

@@ -148,27 +148,27 @@
     {
       "logo": "/assets/facebook.svg",
       "url": "/",
-      "title": "abc"
+      "title": "facebook"
     },
     {
       "logo": "/assets/youtube.svg",
       "url": "/",
-      "title": "abc"
+      "title": "youtube"
     },
     {
       "logo": "/assets/instagram.svg",
       "url": "/",
-      "title": "abc"
+      "title": "instagram"
     },
     {
       "logo": "/assets/linkdin.svg",
       "url": "/",
-      "title": "abc"
+      "title": "linkedin"
     },
     {
       "logo": "/assets/twitter.svg",
       "url": "/",
-      "title": "abc"
+      "title": "twitter"
     }
   ],
   "legal": [

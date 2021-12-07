@@ -1,0 +1,228 @@
+{
+    "Language": "Русский",
+    "htmlLangAtt": "ru",
+    "h1": "SafeImageKit.com — самый безопасный способ обработки изображений",
+    "h2": "Файлы не отправляются на сервер. 100% безопасно.",
+    "TITLE": "SafeImageKit.com — самый безопасный способ обработки изображений",
+    "META": "Используйте SafeImageKit.com для безопасной обработки изображений онлайн бесплатно. Поддерживается несколько операций.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "Генератор изображений ASCII ",
+            "description": "Преобразует изображение в искусство Ascii",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/ru/ascii-art-from-image"
+        },
+        {
+            "name": "Сжатие изображений ",
+            "description": "Сжимает изображение",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/ru/compress-an-image"
+        },
+        {
+            "name": "Разделитель изображений ",
+            "description": "Разделение изображения",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/ru/split-photo"
+        },
+        {
+            "name": "Сжатие JPEG ",
+            "description": "Сжимает изображение jpeg",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/ru/compress-jpeg"
+        },
+        {
+            "name": "Сжатие Png ",
+            "description": "Сжимает изображение png",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/ru/compress-png"
+        },
+        {
+            "name": "Сжатие GIF ",
+            "description": "Сжимает изображение gif",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/ru/compress-a-gif"
+        },
+        {
+            "name": "Сравнение изображений",
+            "description": "Сравнивает два изображения",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/ru/image-comparison"
+        },
+        {
+            "name": "Обрезка изображений",
+            "description": "Изображение урожая",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/ru/crop-image"
+        },
+        {
+            "name": "Сумматор фильтров изображений",
+            "description": "Добавление фильтров к изображению",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/ru/photo-filters"
+        },
+        {
+            "name": "Генератор мемов",
+            "description": "Создает мем",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/ru/meme-generator"
+        },
+        {
+            "name": "Конвертер текста в изображение",
+            "description": "Преобразует текст в изображение",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/ru/text-to-image-converter"
+        },
+        {
+            "name": "Флиппер изображений",
+            "description": "Переворачивает/поворачивает изображение",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/ru/flip-image"
+        },
+        {
+            "name": "Измеритель размера изображения",
+            "description": "Изменяет размер изображения",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/ru/image-resize"
+        },
+        {
+            "name": "Создатель изображений водяных знаков",
+            "description": "Создает изображения водяных знаков",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/ru/watermark-for-photos"
+        },
+        {
+            "name": " Генератор QR-кода",
+            "description": "Генерирует Qr-код",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/ru/qr-code-generator"
+        },
+        {
+            "name": " Конвертер изображений в пиксели",
+            "description": "Преобразует изображение в пиксельную графику",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/ru/pixel-art-maker"
+        },
+        {
+            "name": "Измеритель размера изображений Facebook",
+            "description": "Изменение размера изображений для facebook",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/ru/image-resize-facebook"
+        },
+        {
+            "name": " Ресайзер изображений в Instagram",
+            "description": "Изменение размера изображений для instagram",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/ru/image-resize-instagram"
+        },
+        {
+            "name": " Измеритель размера изображения Linkedin",
+            "description": "Изменение размера изображений для linkedin",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/ru/image-resize-linkedin"
+        },
+        {
+            "name": " Ресайзер изображений электронной почты",
+            "description": "Изменение размера изображений для электронной почты",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/ru/image-resize-email"
+        },
+        {
+            "name": " Измеритель размера изображения Tiktok",
+            "description": "Изменение размера изображений для tiktok",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/ru/image-resize-tiktok"
+        },
+        {
+            "name": " Измеритель размера изображений Twitter",
+            "description": "Изменение размера изображений для twitter",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/ru/image-resize-twitter"
+        },
+        {
+            "name": " Измеритель размера изображения Pinterest",
+            "description": "Изменение размера изображений для pinterest",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/ru/image-resize-pinterest"
+        },
+        {
+            "name": "Измеритель размера изображения Snapchat",
+            "description": "Изменение размера изображений для snapchat",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/ru/image-resize-snapchat"
+        },
+        {
+            "name": " Изображение баннерной рекламы Google Snapchat",
+            "description": "Изменение размера изображений для рекламных баннеров google",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/ru/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Дискорд",
+            "description": "Изменение размера изображений для discord",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/ru/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Изменение размера изображений для soundcloud",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/ru/image-resize-soundcloud"
+        },
+        {
+            "name": " WhatsApp",
+            "description": "Изменение размера изображений для whatsapp",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/ru/image-resize-whatsapp"
+        },
+        {
+            "name": " квадратное пространство",
+            "description": "Изменение размера изображений для квадратного пространства",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/ru/image-resize-squarespace"
+        },
+        {
+            "name": " Twitch",
+            "description": "Изменение размера изображений для twitch",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/ru/image-resize-twitch"
+        },
+        {
+            "name": " печать",
+            "description": "Изменение размера изображений для печати",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/ru/image-resize-printing"
+        }
+    ]
+}

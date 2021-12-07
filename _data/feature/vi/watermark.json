@@ -1,0 +1,137 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "H1": "Máy tạo hình mờ",
+    "img": "/img/watermark.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "nguy hiểm",
+    "H2": "Tạo hình mờ cho ảnh đã được thực hiện dễ dàng với chúng tôi, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
+    "TITLE": "Hình ảnh Watermark- nhà sản xuất hình mờ miễn phí- safeimagekit",
+    "META": "Bạn đang tìm kiếm một hình mờ hình ảnh chất lượng cao cho hình ảnh? Vâng, sau đó bạn đang ở đúng nơi. Công cụ tạo hình mờ trực tuyến của chúng tôi cực kỳ an toàn, thân thiện với người dùng và siêu nhanh.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "red",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Chất lượng cao",
+            "content": "Công cụ tạo hình mờ của chúng tôi tạo ra hình mờ chất lượng cao cho hình ảnh của bạn."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Bảo mật dữ liệu",
+            "content": "Không có dữ liệu nào của bạn được gửi trên máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt. Điều này cho phép chúng tôi an toàn 100% cho người dùng"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Tính linh hoạt",
+            "content": " Công cụ tạo hình mờ của chúng tôi hoạt động trên hầu hết các loại trình duyệt và thiết bị."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Thân thiện với người dùng",
+            "content": "Công cụ tạo hình mờ của chúng tôi rất dễ hiểu không cần chuyên nghiệp để làm việc trên công cụ của chúng tôi."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Miễn phí",
+            "content": "Công cụ tạo hình mờ của chúng tôi hoàn toàn miễn phí, bạn có thể sử dụng tất cả các công cụ của chúng tôi mà không phải trả một xu"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Không tải thêm",
+            "content": "Công cụ tạo hình mờ của chúng tôi hoàn toàn dựa trên trình duyệt và không cần tải xuống phần mềm bổ sung trên thiết bị của bạn."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "CÁCH THÊM HÌNH MỜ VÀO TỆP PDF CỦA TÔI",
+        "steps": [
+            "Tải lên tệp hình ảnh của bạn hoặc Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive",
+            "Điều chỉnh các thông số cần thiết ",
+            "Thêm văn bản hoặc hình ảnh dưới dạng hình mờ",
+            "nhấn nút lưu để lưu các thay đổi được thực hiện",
+            "Hurray!! hình ảnh đã sẵn sàng để đá."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+        },
+        {
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+        },
+        {
+            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
+            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
+        },
+        {
+            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
+            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
+        },
+        {
+            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
+        },
+        {
+            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+        },
+        {
+            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
+            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
+        },
+        {
+            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
+        },
+        {
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
+        },
+        {
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+        },
+        {
+            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+        },
+        {
+            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        },
+        {
+            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/fabric.js/4.4.0/fabric.min.js\" integrity=\"sha512-Ly9uI3QY88jVXCgkORH2A4Qqz5xYm1pew9jEgedgSpyEg9asvyPISK+CY7QNDN3CMftXU/KLNwQR7XUUo7Cqag==\" crossorigin=\"anonymous\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/meme.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/meme.css\" />"
+    ]
+}

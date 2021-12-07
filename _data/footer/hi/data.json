@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "सेफइमेज किट. कॉम",
+    "companytitle": "कम्पनी",
+    "producttitle": "प्रोडक्ट",
+    "networksitestitle": "नेटवर्क साइट",
+    "company": [
+        {
+            "name": "नियम और शर्तें",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "अस्वीकरण",
+            "url": "disclaimer"
+        },
+        {
+            "name": "निजता",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "ASCII छवि जनरेटर ",
+            "url": "/hi/ascii-art-from-image"
+        },
+        {
+            "name": "QR कोड जेनरेटर",
+            "url": "/hi/qr-code-generator"
+        },
+        {
+            "name": "इमेज स्प्लिटर ",
+            "url": "/hi/split-photo"
+        },
+        {
+            "name": "इमेज कंप्रेसर ",
+            "url": "/hi/compress-an-image"
+        },
+        {
+            "name": "Gif छवि कम्प्रेसर ",
+            "url": "/hi/compress-a-gif"
+        },
+        {
+            "name": "Png छवि कंप्रेसर ",
+            "url": "/hi/compress-png"
+        },
+        {
+            "name": "jpeg छवि कंप्रेसर ",
+            "url": "/hi/compress-jpeg"
+        },
+        {
+            "name": "छवि तुलना",
+            "url": "/hi/image-comparison"
+        },
+        {
+            "name": "इमेज क्रॉपर",
+            "url": "/hi/crop-image"
+        },
+        {
+            "name": "छवि फ़िल्टर योजक",
+            "url": "/hi/photo-filters"
+        },
+        {
+            "name": "मेमे जेनरेटर",
+            "url": "/hi/meme-generator"
+        },
+        {
+            "name": "इमेज फ्लिपर",
+            "url": "/hi/flip-image"
+        },
+        {
+            "name": "टेक्स्ट टू इमेज कन्वर्टर",
+            "url": "/hi/text-to-image-converter"
+        },
+        {
+            "name": "इमेज रिसाइज़र",
+            "url": "/hi/image-resize"
+        },
+        {
+            "name": "वॉटरमार्क इमेज मेकर",
+            "url": "/hi/watermark-for-photos"
+        },
+        {
+            "name": "छवि से पिक्सेल कला कनवर्टर",
+            "url": "/hi/pixel-art-maker"
+        },
+        {
+            "name": "फेसबुक इमेज रिसाइज़र",
+            "url": "/hi/image-resize-facebook"
+        },
+        {
+            "name": " इंस्टाग्राम इमेज रिसाइज़र",
+            "url": "/hi/image-resize-instagram"
+        },
+        {
+            "name": " लिंक्डइन इमेज रिसाइज़र",
+            "url": "/hi/image-resize-linkedin"
+        },
+        {
+            "name": " ईमेल इमेज रिसाइज़र",
+            "url": "/hi/image-resize-email"
+        },
+        {
+            "name": " टिक्टॉक इमेज रिसाइज़र",
+            "url": "/hi/image-resize-tiktok"
+        },
+        {
+            "name": " ट्विटर इमेज रिसाइज़र",
+            "url": "/hi/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest छवि पुनर्विक्रेता",
+            "url": "/hi/image-resize-pinterest"
+        },
+        {
+            "name": "स्नैपचैट इमेज रिसाइज़र",
+            "url": "/hi/image-resize-snapchat"
+        },
+        {
+            "name": " Google बैनर विज्ञापन छवि स्नैपचैट",
+            "url": "/hi/image-resize-google-banner-ads"
+        },
+        {
+            "name": " छवि पुनर्विक्रेता को त्यागें",
+            "url": "/hi/image-resize-discord"
+        },
+        {
+            "name": " साउंडक्लाउड इमेज रिसाइज़र",
+            "url": "/hi/image-resize-soundcloud"
+        },
+        {
+            "name": " स्क्वरस्पेस इमेज रिसाइज़र",
+            "url": "/hi/image-resize-squarespace"
+        },
+        {
+            "name": " व्हाट्सएप इमेज रिसाइज़र",
+            "url": "/hi/image-resize-whatsapp"
+        },
+        {
+            "name": " ट्विच इमेज रिसाइज़र",
+            "url": "/hi/image-resize-twitch"
+        },
+        {
+            "name": " प्रिंटिंग इमेज रिसाइज़र",
+            "url": "/hi/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "हमारे बारे में",
+            "url": "about"
+        },
+        {
+            "name": "हमसे संपर्क करें",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

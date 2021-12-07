@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "เซฟอิมเมจคิทคอม",
+    "companytitle": "บริษัท",
+    "producttitle": "สินค้า",
+    "networksitestitle": "ไซต์เครือข่าย",
+    "company": [
+        {
+            "name": "ข้อกำหนดและเงื่อนไข",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "ผู้สละสิทธิ์",
+            "url": "disclaimer"
+        },
+        {
+            "name": "ความเป็นส่วนตัว",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "เครื่องกำเนิดภาพ ASCII ",
+            "url": "/th/ascii-art-from-image"
+        },
+        {
+            "name": "เครื่องสร้างรหัส QR",
+            "url": "/th/qr-code-generator"
+        },
+        {
+            "name": "ตัวแยกภาพ ",
+            "url": "/th/split-photo"
+        },
+        {
+            "name": "เครื่องอัดภาพ ",
+            "url": "/th/compress-an-image"
+        },
+        {
+            "name": "เครื่องบีบอัดภาพ Gif ",
+            "url": "/th/compress-a-gif"
+        },
+        {
+            "name": "เครื่องอัดภาพ Png ",
+            "url": "/th/compress-png"
+        },
+        {
+            "name": "jpeg คอมเพรสเซอร์ภาพ ",
+            "url": "/th/compress-jpeg"
+        },
+        {
+            "name": "การเปรียบเทียบภาพ",
+            "url": "/th/image-comparison"
+        },
+        {
+            "name": "เครื่องตัดภาพ",
+            "url": "/th/crop-image"
+        },
+        {
+            "name": "Adder ฟิลเตอร์ภาพ",
+            "url": "/th/photo-filters"
+        },
+        {
+            "name": "เครื่องกำเนิดมีม",
+            "url": "/th/meme-generator"
+        },
+        {
+            "name": "ภาพฟลิปเปอร์",
+            "url": "/th/flip-image"
+        },
+        {
+            "name": "แปลงข้อความเป็นภาพ",
+            "url": "/th/text-to-image-converter"
+        },
+        {
+            "name": "ตัวปรับขนาดภาพ",
+            "url": "/th/image-resize"
+        },
+        {
+            "name": "เครื่องมือสร้างภาพลายน้ำ",
+            "url": "/th/watermark-for-photos"
+        },
+        {
+            "name": "แปลงภาพเป็นพิกเซล",
+            "url": "/th/pixel-art-maker"
+        },
+        {
+            "name": "ตัวปรับขนาดรูปภาพ Facebook",
+            "url": "/th/image-resize-facebook"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพ Instagram",
+            "url": "/th/image-resize-instagram"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพ Linkedin",
+            "url": "/th/image-resize-linkedin"
+        },
+        {
+            "name": " ตัวปรับขนาดรูปภาพอีเมล",
+            "url": "/th/image-resize-email"
+        },
+        {
+            "name": " ทิกต็อก อิมเมจ",
+            "url": "/th/image-resize-tiktok"
+        },
+        {
+            "name": " ปรับขนาดภาพทวิตเตอร์",
+            "url": "/th/image-resize-twitter"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพ Pinterest",
+            "url": "/th/image-resize-pinterest"
+        },
+        {
+            "name": "ตัวปรับขนาดภาพ Snapchat",
+            "url": "/th/image-resize-snapchat"
+        },
+        {
+            "name": " ภาพโฆษณาแบนเนอร์ของ Google Snapchat",
+            "url": "/th/image-resize-google-banner-ads"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพไม่ลงรอยกัน",
+            "url": "/th/image-resize-discord"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพ SoundCloud",
+            "url": "/th/image-resize-soundcloud"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพสแควร์สเปซ",
+            "url": "/th/image-resize-squarespace"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพ Whatsapp",
+            "url": "/th/image-resize-whatsapp"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพ Twitch",
+            "url": "/th/image-resize-twitch"
+        },
+        {
+            "name": " ตัวปรับขนาดภาพพิมพ์",
+            "url": "/th/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "เกี่ยวกับเรา",
+            "url": "about"
+        },
+        {
+            "name": "ติดต่อเรา",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

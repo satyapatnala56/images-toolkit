@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "Компанія",
+    "producttitle": "Продукт",
+    "networksitestitle": "Мережеві сайти",
+    "company": [
+        {
+            "name": "Умови та умови",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "Відмова від відповідальності",
+            "url": "disclaimer"
+        },
+        {
+            "name": "Конфіденційність",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "Генератор зображень ASCII ",
+            "url": "/uk/ascii-art-from-image"
+        },
+        {
+            "name": "Генератор QR-коду",
+            "url": "/uk/qr-code-generator"
+        },
+        {
+            "name": "Розгалужувач зображення ",
+            "url": "/uk/split-photo"
+        },
+        {
+            "name": "Зображення компресора ",
+            "url": "/uk/compress-an-image"
+        },
+        {
+            "name": "Gif зображення компресор ",
+            "url": "/uk/compress-a-gif"
+        },
+        {
+            "name": "Png зображення компресора ",
+            "url": "/uk/compress-png"
+        },
+        {
+            "name": "JPEG зображення Компресор ",
+            "url": "/uk/compress-jpeg"
+        },
+        {
+            "name": "Порівняння зображень",
+            "url": "/uk/image-comparison"
+        },
+        {
+            "name": "Обрізка зображень",
+            "url": "/uk/crop-image"
+        },
+        {
+            "name": "Фільтр зображення сумадер",
+            "url": "/uk/photo-filters"
+        },
+        {
+            "name": "Генератор мемів",
+            "url": "/uk/meme-generator"
+        },
+        {
+            "name": "Зображення Фліппер",
+            "url": "/uk/flip-image"
+        },
+        {
+            "name": "Конвертер тексту в зображення",
+            "url": "/uk/text-to-image-converter"
+        },
+        {
+            "name": "Зміна розміру зображення",
+            "url": "/uk/image-resize"
+        },
+        {
+            "name": "Виробник зображень водяних знаків",
+            "url": "/uk/watermark-for-photos"
+        },
+        {
+            "name": "Зображення в піксельний конвертер",
+            "url": "/uk/pixel-art-maker"
+        },
+        {
+            "name": "Розмір зображення Facebook",
+            "url": "/uk/image-resize-facebook"
+        },
+        {
+            "name": " Змінний розмір зображення в Instagram",
+            "url": "/uk/image-resize-instagram"
+        },
+        {
+            "name": " Змінний розмір зображення LinkedIn",
+            "url": "/uk/image-resize-linkedin"
+        },
+        {
+            "name": " Зміна розміру зображення електронної пошти",
+            "url": "/uk/image-resize-email"
+        },
+        {
+            "name": " Tiktok Resizer зображення",
+            "url": "/uk/image-resize-tiktok"
+        },
+        {
+            "name": " Зміна розміру зображення Twitter",
+            "url": "/uk/image-resize-twitter"
+        },
+        {
+            "name": " Зміна розміру зображення Pinterest",
+            "url": "/uk/image-resize-pinterest"
+        },
+        {
+            "name": "Змінний розмір зображення Snapchat",
+            "url": "/uk/image-resize-snapchat"
+        },
+        {
+            "name": " Google Банер оголошення зображення Snapchat",
+            "url": "/uk/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Зміна розміру зображення розбрату",
+            "url": "/uk/image-resize-discord"
+        },
+        {
+            "name": " Звуковий змінювача зображень SoundCloud",
+            "url": "/uk/image-resize-soundcloud"
+        },
+        {
+            "name": " squarespace зображення Resizerpace",
+            "url": "/uk/image-resize-squarespace"
+        },
+        {
+            "name": " Whatsapp розмір зображення",
+            "url": "/uk/image-resize-whatsapp"
+        },
+        {
+            "name": " Зміна розміру зображення Twitch",
+            "url": "/uk/image-resize-twitch"
+        },
+        {
+            "name": " Друк зміни розміру зображення",
+            "url": "/uk/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "Про нас",
+            "url": "about"
+        },
+        {
+            "name": "зв'яжіться з нами",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

@@ -1,0 +1,228 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "h1": "SafeImagekit.com - Sikreste måde at behandle dine billeder på",
+    "h2": "Ingen filer sendes til serveren. 100% sikker.",
+    "TITLE": "SafeImagekit.com - Sikreste måde at behandle dine billeder på",
+    "META": "Brug SafeImagekit.com til sikkert at behandle dine billeder online gratis. Flere handlinger understøttes.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "ASCII billede generator ",
+            "description": "Konverterer billede til Ascii kunst",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/da/ascii-art-from-image"
+        },
+        {
+            "name": "Billede Komprimering ",
+            "description": "Komprimerer billede",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/da/compress-an-image"
+        },
+        {
+            "name": "Billede Splitter ",
+            "description": "Opdeler billede",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/da/split-photo"
+        },
+        {
+            "name": "Jpeg-komprimering ",
+            "description": "Komprimerer jpeg billede",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/da/compress-jpeg"
+        },
+        {
+            "name": "Png Kompression ",
+            "description": "Komprimerer png billede",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/da/compress-png"
+        },
+        {
+            "name": "Gif Compression ",
+            "description": "Komprimerer gif billede",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/da/compress-a-gif"
+        },
+        {
+            "name": "Billede sammenligning",
+            "description": "Sammenligner to billeder",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/da/image-comparison"
+        },
+        {
+            "name": "Billede cropper",
+            "description": "Afgrøder billede",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/da/crop-image"
+        },
+        {
+            "name": "Billede Filter Adder",
+            "description": "Føj filtre til et billede",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/da/photo-filters"
+        },
+        {
+            "name": "Meme generator",
+            "description": "Genererer meme",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/da/meme-generator"
+        },
+        {
+            "name": "Tekst til billede konverter",
+            "description": "Konverterer tekst til billede",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/da/text-to-image-converter"
+        },
+        {
+            "name": "Billede Flipper",
+            "description": "Flips/Roterer billede",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/da/flip-image"
+        },
+        {
+            "name": "Billede Resizer",
+            "description": "Ændringer størrelse billede",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/da/image-resize"
+        },
+        {
+            "name": "Vandmærke billede maker",
+            "description": "Opretter vandmærkebilleder",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/da/watermark-for-photos"
+        },
+        {
+            "name": " QR-kode Generator",
+            "description": "Genererer Qr-kode",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/da/qr-code-generator"
+        },
+        {
+            "name": " Billede til pixelate billede konverter",
+            "description": "Konverterer billede til Pixel kunst",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/da/pixel-art-maker"
+        },
+        {
+            "name": "Facebook billede resizer",
+            "description": "Ændre størrelse på billeder til facebook",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/da/image-resize-facebook"
+        },
+        {
+            "name": " Instagram billede resizer",
+            "description": "Ændre størrelse på billeder til instagram",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/da/image-resize-instagram"
+        },
+        {
+            "name": " Linkedin-billede resizer",
+            "description": "Ændre størrelsen på billeder til linkedin",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/da/image-resize-linkedin"
+        },
+        {
+            "name": " E-mail-billede resizer",
+            "description": "Ændre størrelsen på billeder til e-mail",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/da/image-resize-email"
+        },
+        {
+            "name": " Tiktok billede resizer",
+            "description": "Ændre størrelsen på billeder til tiktok",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/da/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter billede resizer",
+            "description": "Ændre størrelse på billeder til twitter",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/da/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest billede resizer",
+            "description": "Ændre størrelse på billeder til pinterest",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/da/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat billede resizer",
+            "description": "Ændre størrelsen på billeder til snapchat",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/da/image-resize-snapchat"
+        },
+        {
+            "name": " Google Banner Ads billede Snapchat",
+            "description": "Ændre størrelsen på billeder til google-bannerannoncer",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/da/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Uenighed",
+            "description": "Ændre størrelsen på billeder for uenighed",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/da/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Ændre størrelsen på billeder til SoundCloud",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/da/image-resize-soundcloud"
+        },
+        {
+            "name": " Whatsapp",
+            "description": "Ændre størrelse på billeder til whatsapp",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/da/image-resize-whatsapp"
+        },
+        {
+            "name": " firkanteplads",
+            "description": "Ændre størrelsen på billeder til kvadratisk plads",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/da/image-resize-squarespace"
+        },
+        {
+            "name": " Spjæt",
+            "description": "Ændre størrelsen på billeder til spjæt",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/da/image-resize-twitch"
+        },
+        {
+            "name": " Udskrivning",
+            "description": "Ændre størrelsen på billeder til udskrivning",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/da/image-resize-printing"
+        }
+    ]
+}

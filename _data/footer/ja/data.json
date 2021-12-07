@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "会社",
+    "producttitle": "製品",
+    "networksitestitle": "ネットワークサイト",
+    "company": [
+        {
+            "name": "利用規約",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "免責事項",
+            "url": "disclaimer"
+        },
+        {
+            "name": "プライバシー",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "ASCII イメージジェネレータ ",
+            "url": "/ja/ascii-art-from-image"
+        },
+        {
+            "name": "QR コードジェネレーター",
+            "url": "/ja/qr-code-generator"
+        },
+        {
+            "name": "イメージスプリッタ ",
+            "url": "/ja/split-photo"
+        },
+        {
+            "name": "イメージコンプレッサー ",
+            "url": "/ja/compress-an-image"
+        },
+        {
+            "name": "GIF イメージコンプレッサー ",
+            "url": "/ja/compress-a-gif"
+        },
+        {
+            "name": "PNG 画像圧縮機 ",
+            "url": "/ja/compress-png"
+        },
+        {
+            "name": "jpeg 画像圧縮機 ",
+            "url": "/ja/compress-jpeg"
+        },
+        {
+            "name": "イメージ比較",
+            "url": "/ja/image-comparison"
+        },
+        {
+            "name": "イメージクロッパー",
+            "url": "/ja/crop-image"
+        },
+        {
+            "name": "イメージフィルタ加算器",
+            "url": "/ja/photo-filters"
+        },
+        {
+            "name": "ミームジェネレーター",
+            "url": "/ja/meme-generator"
+        },
+        {
+            "name": "イメージフリッパー",
+            "url": "/ja/flip-image"
+        },
+        {
+            "name": "テキストからイメージへのコンバーター",
+            "url": "/ja/text-to-image-converter"
+        },
+        {
+            "name": "イメージリサイザー",
+            "url": "/ja/image-resize"
+        },
+        {
+            "name": "ウォーターマーク画像メーカー",
+            "url": "/ja/watermark-for-photos"
+        },
+        {
+            "name": "画像からピクセルアートへのコンバーター",
+            "url": "/ja/pixel-art-maker"
+        },
+        {
+            "name": "フェイスブック画像リサイザー",
+            "url": "/ja/image-resize-facebook"
+        },
+        {
+            "name": " インスタグラム画像リサイザー",
+            "url": "/ja/image-resize-instagram"
+        },
+        {
+            "name": " Linkedinの画像リサイザー",
+            "url": "/ja/image-resize-linkedin"
+        },
+        {
+            "name": " メール画像リサイザー",
+            "url": "/ja/image-resize-email"
+        },
+        {
+            "name": " Tiktok 画像リサイザー",
+            "url": "/ja/image-resize-tiktok"
+        },
+        {
+            "name": " ツイッター画像リサイズ",
+            "url": "/ja/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest 画像リサイズ",
+            "url": "/ja/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat画像リサイザー",
+            "url": "/ja/image-resize-snapchat"
+        },
+        {
+            "name": " Googleバナー広告画像スナップチャット",
+            "url": "/ja/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Discord画像リサイズ",
+            "url": "/ja/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud イメージリサイザー",
+            "url": "/ja/image-resize-soundcloud"
+        },
+        {
+            "name": " スクエアスペースイメージリサイザー",
+            "url": "/ja/image-resize-squarespace"
+        },
+        {
+            "name": " Whatsapp 画像リサイズ",
+            "url": "/ja/image-resize-whatsapp"
+        },
+        {
+            "name": " Twitch 画像リサイズ",
+            "url": "/ja/image-resize-twitch"
+        },
+        {
+            "name": " 印刷イメージリサイズ",
+            "url": "/ja/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "当社について",
+            "url": "about"
+        },
+        {
+            "name": "お問い合わせ",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

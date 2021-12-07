@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "Công ty",
+    "producttitle": "Sản phẩm",
+    "networksitestitle": "Các trang mạng",
+    "company": [
+        {
+            "name": "Điều khoản và điều kiện",
+            "url": "terms-and-conditions"
+        },
+        {
+            "name": "Khước từ",
+            "url": "disclaimer"
+        },
+        {
+            "name": "Quyền riêng tư",
+            "url": "privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "Máy tạo hình ảnh ASCII ",
+            "url": "/vi/ascii-art-from-image"
+        },
+        {
+            "name": "Trình tạo mã QR",
+            "url": "/vi/qr-code-generator"
+        },
+        {
+            "name": "Bộ chia hình ảnh ",
+            "url": "/vi/split-photo"
+        },
+        {
+            "name": "Máy nén hình ảnh ",
+            "url": "/vi/compress-an-image"
+        },
+        {
+            "name": "Máy nén hình ảnh Gif ",
+            "url": "/vi/compress-a-gif"
+        },
+        {
+            "name": "Máy nén hình ảnh png ",
+            "url": "/vi/compress-png"
+        },
+        {
+            "name": "Máy nén hình ảnh jpeg ",
+            "url": "/vi/compress-jpeg"
+        },
+        {
+            "name": "So sánh hình ảnh",
+            "url": "/vi/image-comparison"
+        },
+        {
+            "name": "Hình ảnh cắt",
+            "url": "/vi/crop-image"
+        },
+        {
+            "name": "Bộ lọc hình ảnh Adder",
+            "url": "/vi/photo-filters"
+        },
+        {
+            "name": "Máy phát điện Meme",
+            "url": "/vi/meme-generator"
+        },
+        {
+            "name": "Hình ảnh Flipper",
+            "url": "/vi/flip-image"
+        },
+        {
+            "name": "Chuyển đổi văn bản sang hình ảnh",
+            "url": "/vi/text-to-image-converter"
+        },
+        {
+            "name": "Image Resizer",
+            "url": "/vi/image-resize"
+        },
+        {
+            "name": "Nhà sản xuất hình ảnh Watermark",
+            "url": "/vi/watermark-for-photos"
+        },
+        {
+            "name": "Chuyển đổi ảnh sang pixel art",
+            "url": "/vi/pixel-art-maker"
+        },
+        {
+            "name": "Trình chỉnh sửa hình ảnh Facebook",
+            "url": "/vi/image-resize-facebook"
+        },
+        {
+            "name": " Trình chỉnh sửa hình ảnh Instagram",
+            "url": "/vi/image-resize-instagram"
+        },
+        {
+            "name": " Trình thay đổi hình ảnh Linkedin",
+            "url": "/vi/image-resize-linkedin"
+        },
+        {
+            "name": " Thay đổi hình ảnh email",
+            "url": "/vi/image-resize-email"
+        },
+        {
+            "name": " Trình chỉnh sửa hình ảnh Tiktok",
+            "url": "/vi/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter resizer hình ảnh",
+            "url": "/vi/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest Resizer hình ảnh",
+            "url": "/vi/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat Resizer hình ảnh",
+            "url": "/vi/image-resize-snapchat"
+        },
+        {
+            "name": " Google Banner quảng cáo hình ảnh Snapchat",
+            "url": "/vi/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Bộ thay đổi hình ảnh Discord",
+            "url": "/vi/image-resize-discord"
+        },
+        {
+            "name": " Bộ thay đổi hình ảnh SoundCloud",
+            "url": "/vi/image-resize-soundcloud"
+        },
+        {
+            "name": " squarespace hình ảnh resizer",
+            "url": "/vi/image-resize-squarespace"
+        },
+        {
+            "name": " Trình chỉnh sửa hình ảnh Whatsapp",
+            "url": "/vi/image-resize-whatsapp"
+        },
+        {
+            "name": " Trình chỉnh lại hình ảnh Twitch",
+            "url": "/vi/image-resize-twitch"
+        },
+        {
+            "name": " In resizer hình ảnh",
+            "url": "/vi/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "Về chúng tôi",
+            "url": "about"
+        },
+        {
+            "name": "Liên hệ với chúng tôi",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

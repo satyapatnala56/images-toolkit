@@ -1,0 +1,155 @@
+{
+    "Language": "简体中文",
+    "htmlLangAtt": "zh",
+    "H1": "图片裁剪器",
+    "img": "/img/crop.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "警告",
+    "H2": "我们可以轻松裁剪图片，首先在下面上传文件",
+    "TITLE": "裁剪图像-在线图像裁剪-safeimagekit",
+    "META": "您在寻找高质量的图像裁剪器吗？好吧，那么你来对地方了。我们的在线图像裁剪工具非常安全，用户友好且超级快捷。",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff704d",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高质量",
+            "content": "我们的图像裁剪器工具通过保持图像质量来裁剪图像。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "数据安全",
+            "content": "您的任何数据都不会发送到我们的服务器上，所有操作都是在浏览器本身上完成的。这使我们能够为用户提供 100％ 的安全"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "灵活性",
+            "content": " 我们的图像裁剪器工具几乎可以在所有类型的浏览器和设备上使用。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "用户友好",
+            "content": "我们的图像裁剪器工具非常容易理解，不需要专业人员来使用我们的工具。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "免费",
+            "content": "我们的图像裁剪工具完全免费，您无需支付任何费用即可使用我们所有的工具"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "没有额外的下载",
+            "content": "我们的图像裁剪工具完全基于浏览器，无需在设备上下载其他软件。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "如何裁剪我们的形象。",
+        "steps": [
+            "上传要裁剪的图片，或者单击下拉箭头，然后选择 Dropbox/Google 云端硬盘",
+            "相应地裁剪图像。",
+            "向下滚动查看对图像文件所做的更改。",
+            "保存所做的更改。",
+            "点击下载选项下载图像文件。",
+            "欢呼！！图像已准备就绪，可以使用了。"
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+        },
+        {
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+        },
+        {
+            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
+            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+        },
+        {
+            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
+            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+        },
+        {
+            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
+            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+        },
+        {
+            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
+            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+        },
+        {
+            "question": "What is the time taken by the converter to crop an image file?",
+            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+        },
+        {
+            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
+            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+        },
+        {
+            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
+            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+        },
+        {
+            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
+            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+        },
+        {
+            "question": "Which image format is preferable among webp and jpg formats?",
+            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+        },
+        {
+            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
+            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+        },
+        {
+            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
+            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+        },
+        {
+            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+        },
+        {
+            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
+            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+        },
+        {
+            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
+            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the image cropper tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        },
+        {
+            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/croppr.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/crop.css\" />"
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"/js/croppr.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/crop.js\"></script>"
+    ]
+}
