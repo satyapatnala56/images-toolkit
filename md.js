@@ -69,7 +69,7 @@ for (let [code, text] of Object.entries(languages)) {
 
     nf = nf.replace(
       /permalink.*/,
-      'permalink: /' + code + content.attributes.permalink
+      'permalink: /' + code + content.attributes.permalink.toLowerCase()
     )
 
     console.log(nf)
