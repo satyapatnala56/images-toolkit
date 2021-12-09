@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "नियम और शर्तें",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "अस्वीकरण",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "निजता",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

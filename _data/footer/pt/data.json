@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "Termos e condições",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "Aviso de responsabilidade",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "Privacidade",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

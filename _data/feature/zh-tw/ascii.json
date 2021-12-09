@@ -1,6 +1,6 @@
 {
     "Language": "繁體中文",
-    "htmlLangAtt": "zh-TW",
+    "htmlLangAtt": "zh-tw",
     "H1": "圖像到 ASCII 藝術生成器",
     "img": "/img/ascii.png",
     "imgwidth": "40px",

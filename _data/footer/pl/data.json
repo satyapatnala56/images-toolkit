@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "Warunki i warunki",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "Zrzeczenie się odpowiedzialności",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "Prywatność",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "الشروط والأحكام",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "إخلاء المسؤولية",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "الخصوصية",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

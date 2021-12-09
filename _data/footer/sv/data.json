@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "Villkor och villkor",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "friskrivningsklausul",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "Integritet",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

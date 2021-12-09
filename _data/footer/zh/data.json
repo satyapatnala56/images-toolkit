@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "条款和条件",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "免责声明",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "隐私",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "Умови та умови",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "Відмова від відповідальності",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "Конфіденційність",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

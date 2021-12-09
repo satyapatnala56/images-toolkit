@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "Şartlar ve Koşullar",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "Yasal Uyarı",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "Gizlilik",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

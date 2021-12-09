@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "이용 약관",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "면책 조항",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "프라이버시",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

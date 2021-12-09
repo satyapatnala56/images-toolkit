@@ -7,141 +7,141 @@
     "company": [
         {
             "name": "條款和條件",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "棄權書",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "隱私",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [
         {
             "name": "ASCII 圖像生成器 ",
-            "url": "/zh-TW/ascii-art-from-image"
+            "url": "/zh-tw/ascii-art-from-image"
         },
         {
             "name": "二維碼生成器",
-            "url": "/zh-TW/qr-code-generator"
+            "url": "/zh-tw/qr-code-generator"
         },
         {
             "name": "圖像分割器 ",
-            "url": "/zh-TW/split-photo"
+            "url": "/zh-tw/split-photo"
         },
         {
             "name": "圖像壓縮機 ",
-            "url": "/zh-TW/compress-an-image"
+            "url": "/zh-tw/compress-an-image"
         },
         {
             "name": "GIF 圖像壓縮器 ",
-            "url": "/zh-TW/compress-a-gif"
+            "url": "/zh-tw/compress-a-gif"
         },
         {
             "name": "PNG 圖像壓縮機 ",
-            "url": "/zh-TW/compress-png"
+            "url": "/zh-tw/compress-png"
         },
         {
             "name": "jpeg 圖像壓縮機 ",
-            "url": "/zh-TW/compress-jpeg"
+            "url": "/zh-tw/compress-jpeg"
         },
         {
             "name": "圖像比較",
-            "url": "/zh-TW/image-comparison"
+            "url": "/zh-tw/image-comparison"
         },
         {
             "name": "圖像剪切",
-            "url": "/zh-TW/crop-image"
+            "url": "/zh-tw/crop-image"
         },
         {
             "name": "圖像過濾器添加器",
-            "url": "/zh-TW/photo-filters"
+            "url": "/zh-tw/photo-filters"
         },
         {
             "name": "模因發生器",
-            "url": "/zh-TW/meme-generator"
+            "url": "/zh-tw/meme-generator"
         },
         {
             "name": "圖像翻轉",
-            "url": "/zh-TW/flip-image"
+            "url": "/zh-tw/flip-image"
         },
         {
             "name": "文本到圖像轉換器",
-            "url": "/zh-TW/text-to-image-converter"
+            "url": "/zh-tw/text-to-image-converter"
         },
         {
             "name": "圖像調整大小",
-            "url": "/zh-TW/image-resize"
+            "url": "/zh-tw/image-resize"
         },
         {
             "name": "水印圖像製作器",
-            "url": "/zh-TW/watermark-for-photos"
+            "url": "/zh-tw/watermark-for-photos"
         },
         {
             "name": "圖像到像素藝術轉換器",
-            "url": "/zh-TW/pixel-art-maker"
+            "url": "/zh-tw/pixel-art-maker"
         },
         {
             "name": "臉書圖像調整大小",
-            "url": "/zh-TW/image-resize-facebook"
+            "url": "/zh-tw/image-resize-facebook"
         },
         {
             "name": " Instagram 圖像調整大小",
-            "url": "/zh-TW/image-resize-instagram"
+            "url": "/zh-tw/image-resize-instagram"
         },
         {
             "name": " 領英圖像調整大小",
-            "url": "/zh-TW/image-resize-linkedin"
+            "url": "/zh-tw/image-resize-linkedin"
         },
         {
             "name": " 電子郵件圖像調整大小",
-            "url": "/zh-TW/image-resize-email"
+            "url": "/zh-tw/image-resize-email"
         },
         {
             "name": " 蒂克託克圖像調整大小",
-            "url": "/zh-TW/image-resize-tiktok"
+            "url": "/zh-tw/image-resize-tiktok"
         },
         {
             "name": " 推特圖像調整大小",
-            "url": "/zh-TW/image-resize-twitter"
+            "url": "/zh-tw/image-resize-twitter"
         },
         {
             "name": " Pinterest 圖像調整大小",
-            "url": "/zh-TW/image-resize-pinterest"
+            "url": "/zh-tw/image-resize-pinterest"
         },
         {
             "name": "快照圖像調整大小",
-            "url": "/zh-TW/image-resize-snapchat"
+            "url": "/zh-tw/image-resize-snapchat"
         },
         {
             "name": " 谷歌橫幅廣告圖片快照",
-            "url": "/zh-TW/image-resize-google-banner-ads"
+            "url": "/zh-tw/image-resize-google-banner-ads"
         },
         {
             "name": " 不和諧的圖像調整大小",
-            "url": "/zh-TW/image-resize-discord"
+            "url": "/zh-tw/image-resize-discord"
         },
         {
             "name": " 聲雲圖像調整大小",
-            "url": "/zh-TW/image-resize-soundcloud"
+            "url": "/zh-tw/image-resize-soundcloud"
         },
         {
             "name": " 平方變更圖像調整大小",
-            "url": "/zh-TW/image-resize-squarespace"
+            "url": "/zh-tw/image-resize-squarespace"
         },
         {
             "name": " Whatsapp 圖像調整大小",
-            "url": "/zh-TW/image-resize-whatsapp"
+            "url": "/zh-tw/image-resize-whatsapp"
         },
         {
             "name": " 抽搐圖像調整大小",
-            "url": "/zh-TW/image-resize-twitch"
+            "url": "/zh-tw/image-resize-twitch"
         },
         {
             "name": " 打印圖像調整大小",
-            "url": "/zh-TW/image-resize-printing"
+            "url": "/zh-tw/image-resize-printing"
         }
     ],
     "social": [

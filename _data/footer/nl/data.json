@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "Algemene voorwaarden",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "vrijwaring",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "Privacy",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

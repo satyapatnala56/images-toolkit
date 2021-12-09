@@ -1,6 +1,6 @@
 {
     "Language": "繁體中文",
-    "htmlLangAtt": "zh-TW",
+    "htmlLangAtt": "zh-tw",
     "successmessage": "赫裏！您的操作已完成",
     "tryfeatureheading": "您也可以嘗試這些功能",
     "rateus": "評價我們",
@@ -11,82 +11,82 @@
         {
             "logo": "/img/split.png",
             "name": "圖像分割器",
-            "url": "/zh-TW/split-photo"
+            "url": "/zh-tw/split-photo"
         },
         {
             "logo": "/img/resize.png",
             "name": "圖像調整大小",
-            "url": "/zh-TW/image-resize"
+            "url": "/zh-tw/image-resize"
         },
         {
             "logo": "/img/compare.png",
             "name": "圖像比較",
-            "url": "/zh-TW/image-comparison"
+            "url": "/zh-tw/image-comparison"
         },
         {
             "logo": "/img/compressimage.png",
             "name": "圖像壓縮機",
-            "url": "/zh-TW/compress-an-image"
+            "url": "/zh-tw/compress-an-image"
         },
         {
             "logo": "/img/compresspng.png",
             "name": "PNG 壓縮機",
-            "url": "/zh-TW/compress-png"
+            "url": "/zh-tw/compress-png"
         },
         {
             "logo": "/img/compressgif.png",
             "name": "GIF 壓縮機",
-            "url": "/zh-TW/compress-a-gif"
+            "url": "/zh-tw/compress-a-gif"
         },
         {
             "logo": "/img/compressjpeg.png",
             "name": "JPEG 壓縮機",
-            "url": "/zh-TW/compress-jpeg"
+            "url": "/zh-tw/compress-jpeg"
         },
         {
             "logo": "/img/ascii.png",
             "name": "ASCII 圖像生成器 ",
-            "url": "/zh-TW/ascii-art-from-image"
+            "url": "/zh-tw/ascii-art-from-image"
         },
         {
             "logo": "/img/meme.png",
             "name": "模因發生器",
-            "url": "/zh-TW/meme-generator"
+            "url": "/zh-tw/meme-generator"
         },
         {
             "logo": "/img/texttoimage.png",
             "name": "文本到圖像轉換器",
-            "url": "/zh-TW/text-to-image-converter"
+            "url": "/zh-tw/text-to-image-converter"
         },
         {
             "logo": "/img/watermark.png",
             "name": "水印圖像製作器",
-            "url": "/zh-TW/watermark-for-photos"
+            "url": "/zh-tw/watermark-for-photos"
         },
         {
             "logo": "/img/pixel.png",
             "name": "圖像到像素化圖像轉換器",
-            "url": "/zh-TW/pixel-art-maker"
+            "url": "/zh-tw/pixel-art-maker"
         },
         {
             "logo": "/img/qr.png",
             "name": "二維碼生成器",
-            "url": "/zh-TW/qr-code-generator"
+            "url": "/zh-tw/qr-code-generator"
         },
         {
             "logo": "/img/crop.png",
             "name": "圖像剪切",
-            "url": "/zh-TW/crop-image"
+            "url": "/zh-tw/crop-image"
         },
         {
             "logo": "/img/filter.png",
             "name": "圖像過濾器添加器",
-            "url": "/zh-TW/photo-filters"
+            "url": "/zh-tw/photo-filters"
         },
         {
             "logo": "/img/rotate.png",
             "name": "圖像旋轉",
-            "url": "/zh-TW/flip-image"
+            "url": "/zh-tw/flip-image"
         }
     ],
     "recommendedsites": [

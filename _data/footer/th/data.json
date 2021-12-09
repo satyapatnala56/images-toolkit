@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "ข้อกำหนดและเงื่อนไข",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "ผู้สละสิทธิ์",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "ความเป็นส่วนตัว",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [

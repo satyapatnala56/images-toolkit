@@ -7,15 +7,15 @@
     "company": [
         {
             "name": "Điều khoản và điều kiện",
-            "url": "terms-and-conditions"
+            "url": "/terms-and-conditions"
         },
         {
             "name": "Khước từ",
-            "url": "disclaimer"
+            "url": "/disclaimer"
         },
         {
             "name": "Quyền riêng tư",
-            "url": "privacy-policy"
+            "url": "/privacy-policy"
         }
     ],
     "product": [
