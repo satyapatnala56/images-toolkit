@@ -1,7 +1,7 @@
 {
     "Language": "Svenska",
     "htmlLangAtt": "sv",
-    "H1": "Gratis online 2x2 dimensioner bildresizer i tum",
+    "H1": "Gratis Online 2x2 dimensioner bildresizer i tum",
     "keywords": "ändra storlek på bilden till 2x2",
     "img": "/img/resize.png",
     "imgwidth": "35px",
@@ -9,9 +9,9 @@
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "varning",
-    "H2": "Bästa verktyget för att snabbt ändra storlek på bilder till 2x2 dimensioner",
+    "H2": "Bästa verktyget för att ändra storlek på bilder till 2x2 dimensioner snabbt",
     "TITLE": "Ändra storlek på bilder till 2x2 dimensioner i inches utan att förlora kvaliteten - Bästa gratis online-verktyg",
-    "META": "Ändra storlek på dina bilder till 2x2-förhållande direkt utan att förlora kvaliteten. Detta gratis 2x2 bildresizer verktyg kan du ladda ner storlek bilder i JPG, JPEG, PNG & WEBP format utan inloggning krav. ",
+    "META": "Ändra storlek på dina bilder till 2x2 förhållande direkt utan att förlora kvaliteten. Detta gratis 2x2 bildresizer verktyg kan du ladda ner storlek bilder i JPG, JPEG, PNG & WEBP-format utan inloggning krav. ",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#0D66D0",
@@ -32,13 +32,13 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Sekretess och datasäkerhet",
-            "content": "Inga data överförs till våra servrar eller används för några marknadsföringsändamål när du använder resizer image till 2x2 dimensioner verktyg. Alla aktiviteter som utförs när du använder resizer bild till 2x2 dimensioner verktyg slutförs enbart i webbläsaren. Som ett resultat kan vi ge total säkerhet för alla våra kunder, vilket gör vår resizer image till 2x2 dimensioner verktyg pålitlig och helt säker att använda i alla situationer."
+            "content": "Inga data överförs till våra servrar eller används för några marknadsföringsändamål när du använder resizer image till 2x2 dimensioner verktyg. Alla aktiviteter som utförs när du använder resizer bild till 2x2 dimensioner verktyg slutförs enbart i webbläsaren. Som ett resultat kan vi ge total säkerhet för alla våra kunder, vilket gör vår resizer image till 2x2 dimensioner verktyg pålitligt och helt säkert att använda i alla situationer."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Det är tillgängligt för alla utan kostnad",
-            "content": "Alla är välkomna att använda resizer bild till 2x2 dimensioner verktyg, och det finns inget krav på att registrera. Användning av vår resizer bild till 2x2 dimensioner verktyg är helt gratis, och vi debiterar dig inte något för det. När du använder resizer image till 2x2 dimensioner verktyg, det finns ingen gräns för hur många gånger du kan ändra storlek på dina bilder."
+            "content": "Alla är välkomna att använda resizer bild till 2x2 dimensioner verktyg, och det finns inget krav på att registrera. Användning av vår resizer bild till 2x2 dimensioner verktyg är helt gratis, och vi debiterar dig inte något för det. När du använder resizer bild till 2x2 dimensioner verktyg, det finns ingen gräns för hur många gånger du kan ändra storlek på dina bilder."
         },
         {
             "priority": 1,
@@ -50,7 +50,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Det krävs ingen ytterligare nedladdning",
-            "content": "För att kunna använda vårt resizer image till 2x2 dimensioner verktyg, Vi kräver inte att du laddar ner eller installerar någon programvara på din dator eller mobila enhet. Vår resizer bild till 2x2 dimensioner verktyg är helt webbläsarbaserat, och du kan komma åt vår webbplats när som helst genom att bara ange vår URL i din webbläsare och använda verktyget efter behov."
+            "content": "För att kunna använda vår resizer image till 2x2 dimensioner verktyg, Vi kräver inte att du laddar ner eller installerar någon programvara på din dator eller mobila enhet. Vår resizer bild till 2x2 dimensioner verktyg är helt webbläsarbaserat, och du kan komma åt vår webbplats när som helst genom att bara ange vår URL i din webbläsare och använda verktyget efter behov."
         }
     ],
     "HOW_TO_CONTENT": {
@@ -132,7 +132,7 @@
     ],
     "jscdns": [
         "<script src='/assets/js/googledrive.js'></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh02g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel='stylesheet' href='/css/utils.css' />",

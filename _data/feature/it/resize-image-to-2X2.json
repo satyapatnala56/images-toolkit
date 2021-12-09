@@ -1,7 +1,7 @@
 {
     "Language": "Italiano",
     "htmlLangAtt": "it",
-    "H1": "Ridimensionatore di immagini online gratuito 2x2 dimensioni in pollici",
+    "H1": "Ridimensionatore di immagini 2x2 online gratuito in pollici",
     "keywords": "ridimensiona l'immagine a 2x2",
     "img": "/img/resize.png",
     "imgwidth": "35px",
@@ -26,31 +26,31 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Semplice da usare",
-            "content": "Questo strumento per ridimensionare immagini 2x2 dimensioni in pollici è molto semplice da usare. Innanzitutto, l'interfaccia utente è davvero semplice e diretta. A causa del fatto che tutto è in un unico punto, non dovrai indovinare da dove iniziare a modificare. Inoltre, il nostro strumento di ridimensionamento delle immagini in dimensioni 2x2 non contiene alcuna pubblicità, il che si traduce in un'esperienza utente più piacevole per l'utente finale."
+            "content": "Questo strumento di ridimensionamento di immagini 2x2 dimensioni in pollici è molto semplice da usare. Innanzitutto, l'interfaccia utente è davvero semplice e diretta. A causa del fatto che tutto è in un unico punto, non dovrai indovinare da dove iniziare a modificare. Inoltre, il nostro strumento di ridimensionamento per immagini di dimensioni 2x2 non contiene alcuna pubblicità, il che si traduce in un'esperienza utente più piacevole per l'utente finale."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Privacy e sicurezza dei dati",
-            "content": "Nessun dato viene trasferito ai nostri server o utilizzato per scopi di marketing durante l'utilizzo dello strumento ridimensionatore immagine a dimensioni 2x2. Tutte le attività eseguite durante l'utilizzo dello strumento ridimensionatore immagine a dimensioni 2x2 vengono completate esclusivamente all'interno del browser. Di conseguenza, siamo in grado di dare totale sicurezza a tutti i nostri clienti, il che rende la nostra immagine ridimensionatrice a dimensioni 2x2 affidabile e completamente sicura da usare in qualsiasi situazione."
+            "content": "Nessun dato viene trasferito ai nostri server o utilizzato per scopi di marketing durante l'utilizzo dello strumento ridimensionatore immagine a dimensioni 2x2. Tutte le attività eseguite durante l'utilizzo dello strumento ridimensionatore immagine a dimensioni 2x2 vengono completate esclusivamente all'interno del browser. Di conseguenza, siamo in grado di dare totale sicurezza a tutti i nostri clienti, il che rende la nostra immagine ridimensionatrice a 2x2 strumento affidabile e completamente sicuro da usare in qualsiasi situazione."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "È disponibile per tutti gratuitamente",
-            "content": "Tutti sono invitati a utilizzare lo strumento ridimensionatore per dimensioni 2x2 e non è necessario registrarsi. L'uso del nostro strumento di ridimensionamento dell'immagine in dimensioni 2x2 è completamente gratuito e non ti addebitiamo nulla per questo. Quando si utilizza lo strumento ridimensionatore immagine a dimensioni 2x2, non c'è limite al numero di volte in cui è possibile ridimensionare le immagini."
+            "content": "Tutti sono invitati a utilizzare lo strumento ridimensionatore per dimensioni 2x2 e non è necessario registrarsi. L'uso del nostro strumento di ridimensionamento per immagini di dimensioni 2x2 è completamente gratuito e non ti addebitiamo nulla per questo. Quando si utilizza lo strumento ridimensionatore immagine a dimensioni 2x2, non c'è limite al numero di volte in cui è possibile ridimensionare le immagini."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Adattabilità",
-            "content": "Chrome, Safari, Firefox, Microsoft Edge e altri browser popolari sono tutti supportati dallo strumento ridimensionatore immagine a dimensioni 2x2. Quando si utilizza lo strumento ridimensionatore immagine a dimensioni 2x2, si adatterà a qualsiasi dimensione dello schermo, rendendolo facilmente accessibile sul computer desktop, tablet o telefono cellulare."
+            "content": "Chrome, Safari, Firefox, Microsoft Edge e altri browser popolari sono tutti supportati dallo strumento ridimensionatore immagine a dimensioni 2x2. Quando si utilizza lo strumento di ridimensionamento dell'immagine in dimensioni 2x2, si adatterà a qualsiasi dimensione dello schermo, rendendolo facilmente accessibile sul computer desktop, tablet o telefono cellulare."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Non è richiesto alcun ulteriore download",
-            "content": "Per utilizzare il nostro strumento di ridimensionamento per immagini di dimensioni 2x2, non è necessario scaricare o installare alcun software sul computer o dispositivo mobile. Il nostro strumento di ridimensionamento dell'immagine in dimensioni 2x2 è completamente basato su browser e puoi accedere al nostro sito Web in qualsiasi momento semplicemente inserendo il nostro URL nel tuo browser e utilizzando lo strumento secondo necessità."
+            "content": "Per utilizzare il nostro strumento di ridimensionamento per immagini di dimensioni 2x2, non è necessario scaricare o installare alcun software sul computer o dispositivo mobile. Il nostro strumento di ridimensionamento delle immagini in dimensioni 2x2 è completamente basato su browser e puoi accedere al nostro sito Web in qualsiasi momento semplicemente inserendo il nostro URL nel tuo browser e utilizzando lo strumento secondo necessità."
         }
     ],
     "HOW_TO_CONTENT": {
@@ -132,7 +132,7 @@
     ],
     "jscdns": [
         "<script src='/assets/js/googledrive.js'></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh02g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel='stylesheet' href='/css/utils.css' />",

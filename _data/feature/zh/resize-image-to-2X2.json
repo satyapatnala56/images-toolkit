@@ -32,7 +32,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "隐私和数据安全",
-            "content": "在使用将图像调整为 2x2 尺寸工具时，不会将任何数据传输到我们的服务器或用于任何营销目的。使用将图像调整为 2x2 尺寸工具时执行的所有活动仅在浏览器中完成。因此，我们能够为所有客户提供完全的安全保障，这使我们的将图像调整为 2x2 尺寸的工具可靠且在任何情况下都可以完全安全地使用。"
+            "content": "在使用将图像调整为 2x2 尺寸工具时，不会将任何数据传输到我们的服务器或用于任何营销目的。使用将图像调整为 2x2 尺寸工具时执行的所有活动仅在浏览器中完成。因此，我们能够为所有客户提供完全的安全保障，这使得我们的将图像调整为 2x2 尺寸的工具可靠且在任何情况下都可以完全安全地使用。"
         },
         {
             "priority": 1,
@@ -44,7 +44,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "适应性",
-            "content": "将图像调整为 2x2 尺寸工具支持 Chrome、Safari、Firefox、微软 Edge 和其他流行的浏览器。当您使用将图像调整为 2x2 尺寸工具时，它将适应任何屏幕尺寸，从而使您可以在台式计算机、平板电脑或手机上轻松访问它。"
+            "content": "将图像调整为 2x2 尺寸工具支持 Chrome、Safari、Firefox、微软 Edge 和其他流行的浏览器。当您使用将图像调整为 2x2 尺寸工具时，它将适应任何屏幕尺寸，使您可以在台式计算机，平板电脑或手机上轻松访问它。"
         },
         {
             "priority": 1,
@@ -132,7 +132,7 @@
     ],
     "jscdns": [
         "<script src='/assets/js/googledrive.js'></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh02g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel='stylesheet' href='/css/utils.css' />",

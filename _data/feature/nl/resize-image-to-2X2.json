@@ -10,7 +10,7 @@
     "nofileupload": true,
     "variant": "waarschuwing",
     "H2": "Beste tool voor het snel wijzigen van afbeeldingen naar 2x2 afmetingen",
-    "TITLE": "Verklein de grootte van afbeeldingen naar 2x2 afmetingen in inches zonder de kwaliteit te verliezen - Beste gratis online tool",
+    "TITLE": "Formaat van afbeeldingen wijzigen naar 2x2 afmetingen in inches zonder de kwaliteit te verliezen - Beste gratis online tool",
     "META": "Wijzig het formaat van uw afbeeldingen onmiddellijk naar de verhouding 2x2 zonder hun kwaliteit te verliezen. Met deze gratis 2x2 beeldresizertool kunt u afbeeldingen met afmetingen downloaden in JPG-, JPEG-, PNG- en WEBP-formaten zonder enige aanmeldingsvereiste. ",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
@@ -26,25 +26,25 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Eenvoudig te gebruiken",
-            "content": "Dit gereedschap voor afmetingen van 2x2 afbeeldingen in inches is heel eenvoudig te bedienen. Eerst en vooral is de gebruikersinterface heel eenvoudig en eenvoudig. Omdat alles op één plek staat, hoef je niet te raden waar je moet beginnen met bewerken. Bovendien bevat onze resizer image to 2x2 dimensies tool geen advertenties, wat resulteert in een aangenamere gebruikerservaring voor de eindgebruiker."
+            "content": "Dit gereedschap voor afmetingen van 2x2 afbeeldingen in inches is heel eenvoudig te bedienen. Eerst en vooral is de gebruikersinterface heel eenvoudig en eenvoudig. Omdat alles op één plek staat, hoef je niet te raden waar je moet beginnen met bewerken. Bovendien bevat onze resizer afbeelding tot 2x2 dimensies tool geen advertenties, wat resulteert in een aangenamere gebruikerservaring voor de eindgebruiker."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Privacy- en gegevensbeveiliging",
-            "content": "Er worden geen gegevens overgebracht naar onze servers of gebruikt voor marketingdoeleinden tijdens het gebruik van de resizerimage naar 2x2 dimensies tool. Alle activiteiten die worden uitgevoerd tijdens het gebruik van de resizerafbeelding tot 2x2 dimensies, worden uitsluitend in de browser voltooid. Als gevolg hiervan zijn we in staat om totale veiligheid te bieden aan al onze klanten, waardoor onze resizerafbeelding tot 2x2 dimensies gereedschap betrouwbaar en volledig veilig te gebruiken is in elke situatie."
+            "content": "Er worden geen gegevens overgebracht naar onze servers of gebruikt voor marketingdoeleinden tijdens het gebruik van de resizerimage naar 2x2 dimensies tool. Alle activiteiten die worden uitgevoerd tijdens het gebruik van de resizerafbeelding tot 2x2 dimensies, worden uitsluitend in de browser voltooid. Als gevolg hiervan zijn we in staat om totale veiligheid te bieden aan al onze klanten, waardoor onze resizerafbeelding tot 2x2 afmetingen gereedschap betrouwbaar en volledig veilig in gebruik is in elke situatie."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Het is gratis voor iedereen beschikbaar.",
-            "content": "Iedereen is welkom om de resizerafbeelding te gebruiken voor 2x2 dimensies gereedschap, en er is geen vereiste om te registreren. Het gebruik van onze resizerafbeelding tot 2x2 dimensies tool is volledig gratis en we brengen er niets voor in rekening. Bij het gebruik van resizerafbeelding naar 2x2 dimensies gereedschap, is er geen limiet aan het aantal keren dat u de grootte van uw afbeeldingen kunt wijzigen."
+            "content": "Iedereen is welkom om de resizerafbeelding te gebruiken voor 2x2 dimensies gereedschap, en het is niet verplicht om te registreren. Het gebruik van onze resizerafbeelding tot 2x2 afmetingen tool is volledig gratis en we brengen er niets voor in rekening. Bij het gebruik van resizerafbeelding naar 2x2 dimensies gereedschap, is er geen limiet aan het aantal keren dat u de grootte van uw afbeeldingen kunt wijzigen."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Aanpassingsvermogen",
-            "content": "Chrome, Safari, Firefox, Microsoft Edge en andere populaire browsers worden allemaal ondersteund door de tool Resizer Image to 2x2 dimensies. Wanneer u de grootte van de afbeelding tot 2x2 dimensies gebruikt, past deze zich aan elk schermformaat aan, waardoor het gemakkelijk toegankelijk is voor u op uw desktopcomputer, tabletcomputer of mobiele telefoon."
+            "content": "Chrome, Safari, Firefox, Microsoft Edge en andere populaire browsers worden allemaal ondersteund door de resizerimage naar 2x2 dimensies tool. Wanneer u de resizerafbeelding gebruikt tot 2x2 dimensies tool, past deze zich aan elk schermformaat aan, waardoor het gemakkelijk toegankelijk is voor u op uw desktopcomputer, tabletcomputer of mobiele telefoon."
         },
         {
             "priority": 1,
@@ -132,7 +132,7 @@
     ],
     "jscdns": [
         "<script src='/assets/js/googledrive.js'></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh02g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel='stylesheet' href='/css/utils.css' />",

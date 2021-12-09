@@ -11,7 +11,7 @@
     "variant": "memperingati",
     "H2": "Alat Terbaik untuk Mengubah Ukuran Gambar ke Dimensi 2x2 Dengan Cepat",
     "TITLE": "Ubah ukuran gambar menjadi dimensi 2x2 dalam inci tanpa kehilangan kualitas - Alat online gratis terbaik",
-    "META": "Ubah ukuran gambar Anda ke rasio 2x2 secara instan tanpa kehilangan kualitasnya. Alat resizer gambar 2x2 gratis ini memungkinkan Anda mengunduh gambar yang diubah ukurannya dalam format JPG, JPEG, PNG & WEBP tanpa persyaratan masuk. ",
+    "META": "Ubah ukuran gambar Anda menjadi rasio 2x2 secara instan tanpa kehilangan kualitasnya. Alat resizer gambar 2x2 gratis ini memungkinkan Anda mengunduh gambar yang diubah ukurannya dalam format JPG, JPEG, PNG & WEBP tanpa persyaratan masuk. ",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#0D66D0",
@@ -38,13 +38,13 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Ini tersedia untuk semua orang tanpa biaya",
-            "content": "Semua orang dipersilakan untuk menggunakan gambar resizer ke alat dimensi 2x2, dan tidak ada persyaratan untuk mendaftar. Penggunaan gambar resizer kami ke alat dimensi 2x2 benar-benar gratis, dan kami tidak mengenakan biaya apa pun untuk itu. Bila menggunakan gambar resizer ke alat dimensi 2x2, tidak ada batasan untuk berapa kali Anda dapat mengubah ukuran gambar Anda."
+            "content": "Semua orang dipersilakan untuk menggunakan gambar resizer untuk 2x2 dimensi alat, dan tidak ada persyaratan untuk mendaftar. Penggunaan gambar resizer kami ke alat dimensi 2x2 benar-benar gratis, dan kami tidak mengenakan biaya apa pun untuk itu. Bila menggunakan gambar resizer ke alat dimensi 2x2, tidak ada batasan untuk berapa kali Anda dapat mengubah ukuran gambar Anda."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Kemampuan beradaptasi",
-            "content": "Chrome, Safari, Firefox, Microsoft Edge, dan browser populer lainnya semuanya didukung oleh gambar resizer ke alat dimensi 2x2. Bila Anda menggunakan gambar resizer ke alat dimensi 2x2, itu akan beradaptasi dengan ukuran layar apa pun, sehingga mudah diakses untuk Anda di komputer desktop, komputer tablet, atau ponsel Anda."
+            "content": "Chrome, Safari, Firefox, Microsoft Edge, dan browser populer lainnya semuanya didukung oleh gambar resizer untuk 2x2 dimensi alat. Bila Anda menggunakan gambar resizer ke alat dimensi 2x2, itu akan beradaptasi dengan ukuran layar apa pun, sehingga mudah diakses untuk Anda di komputer desktop, komputer tablet, atau ponsel Anda."
         },
         {
             "priority": 1,
@@ -132,7 +132,7 @@
     ],
     "jscdns": [
         "<script src='/assets/js/googledrive.js'></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh02g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel='stylesheet' href='/css/utils.css' />",

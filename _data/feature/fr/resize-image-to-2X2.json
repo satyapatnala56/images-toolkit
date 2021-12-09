@@ -1,8 +1,8 @@
 {
     "Language": "Français",
     "htmlLangAtt": "fr",
-    "H1": "Redimensionneur d'image 2x2 Dimensions en ligne gratuit en pouces",
-    "keywords": "redimensionner l'image en 2x2",
+    "H1": "Redimensionneur d'image 2x2 en ligne gratuit en pouces",
+    "keywords": "redimensionner l'image à 2x2",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
@@ -11,7 +11,7 @@
     "variant": "avertissement",
     "H2": "Meilleur outil pour redimensionner rapidement des images aux dimensions 2x2",
     "TITLE": "Redimensionner les images aux dimensions 2x2 en pouces sans perte de qualité - Meilleur outil en ligne gratuit",
-    "META": "Redimensionnez vos images au format 2x2 instantanément sans perte de qualité. Cet outil de redimensionnement d'image 2x2 gratuit vous permet de télécharger les images redimensionnées aux formats JPG, JPEG, PNG et WEBP sans aucune obligation de connexion. ",
+    "META": "Redimensionnez vos images au format 2x2 instantanément sans perte de qualité. Cet outil gratuit de redimensionnement d'image 2x2 vous permet de télécharger les images redimensionnées aux formats JPG, JPEG, PNG et WEBP sans aucune obligation de connexion. ",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#0D66D0",
@@ -26,7 +26,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Simple à utiliser",
-            "content": "Cet outil de redimensionnement d'image 2x2 dimensions en pouces est très simple à utiliser. Tout d'abord, l'interface utilisateur est vraiment simple et directe. Étant donné que tout se trouve au même endroit, vous n'aurez pas à deviner par où commencer le montage. De plus, notre outil de redimensionnement de l'image aux dimensions 2x2 ne contient aucune publicité, ce qui se traduit par une expérience utilisateur plus agréable pour l'utilisateur final."
+            "content": "Cet outil de redimensionnement d'image 2x2 en pouces est très simple à utiliser. Tout d'abord, l'interface utilisateur est vraiment simple et directe. Étant donné que tout se trouve au même endroit, vous n'aurez pas à deviner par où commencer le montage. De plus, notre outil de redimensionnement d'image aux dimensions 2x2 ne contient aucune publicité, ce qui se traduit par une expérience utilisateur plus agréable pour l'utilisateur final."
         },
         {
             "priority": 1,
@@ -38,13 +38,13 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Il est accessible à tous gratuitement",
-            "content": "Tout le monde est invité à utiliser l'outil de redimensionnement de l'image aux dimensions 2x2, et il n'est pas nécessaire de s'enregistrer. L'utilisation de notre outil de redimensionnement d'image aux dimensions 2x2 est totalement gratuite, et nous ne vous facturons rien pour cela. Lorsque vous utilisez l'outil Redimensionner l'image aux dimensions 2x2, il n'y a pas de limite au nombre de fois où vous pouvez redimensionner vos images."
+            "content": "Tout le monde est invité à utiliser l'outil de redimensionnement d'image aux dimensions 2x2, et il n'est pas nécessaire de s'enregistrer. L'utilisation de notre outil de redimensionnement d'image aux dimensions 2x2 est totalement gratuite, et nous ne vous facturons rien pour cela. Lorsque vous utilisez l'outil de redimensionnement d'image aux dimensions 2x2, il n'y a pas de limite au nombre de fois où vous pouvez redimensionner vos images."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Adaptabilité",
-            "content": "Chrome, Safari, Firefox, Microsoft Edge et d'autres navigateurs populaires sont tous pris en charge par l'outil de redimensionnement d'image aux dimensions 2x2. Lorsque vous utilisez l'outil de redimensionnement d'image aux dimensions 2x2, il s'adapte à toutes les tailles d'écran, ce qui le rend facilement accessible sur votre ordinateur de bureau, tablette ou téléphone portable."
+            "content": "Chrome, Safari, Firefox, Microsoft Edge et d'autres navigateurs populaires sont tous pris en charge par l'outil de redimensionnement d'image aux dimensions 2x2. Lorsque vous utilisez l'outil de redimensionnement d'image aux dimensions 2x2, il s'adapte à toutes les tailles d'écran, ce qui la rend facilement accessible pour vous sur votre ordinateur de bureau, tablette ou téléphone portable."
         },
         {
             "priority": 1,
@@ -132,7 +132,7 @@
     ],
     "jscdns": [
         "<script src='/assets/js/googledrive.js'></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh02g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel='stylesheet' href='/css/utils.css' />",

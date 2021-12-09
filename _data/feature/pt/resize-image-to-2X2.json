@@ -26,19 +26,19 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Simples de usar",
-            "content": "Esta ferramenta de redimensionamento de imagens 2x2 dimensões em polegadas é muito simples de operar. Em primeiro lugar, a interface do usuário é muito simples e direta. Devido ao fato de que tudo está em um só lugar, você não precisará adivinhar por onde começar a editar. Além disso, nossa ferramenta de redimensionamento de imagem para dimensões 2x2 não contém anúncios, o que resulta em uma experiência de usuário mais agradável para o usuário final."
+            "content": "Esta ferramenta de redimensionamento de imagens 2x2 em polegadas é muito simples de operar. Em primeiro lugar, a interface do usuário é muito simples e direta. Devido ao fato de que tudo está em um só lugar, você não precisará adivinhar por onde começar a editar. Além disso, nossa ferramenta de redimensionamento de imagem para dimensões 2x2 não contém anúncios, o que resulta em uma experiência de usuário mais agradável para o usuário final."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Privacidade e segurança de dados",
-            "content": "Nenhum dado é transferido para nossos servidores ou utilizado para fins de marketing ao usar a imagem redimensionadora para a ferramenta de dimensões 2x2. Todas as atividades realizadas durante o uso da ferramenta de redimensionamento de imagem para dimensões 2x2 são concluídas somente no navegador. Como resultado, somos capazes de oferecer total segurança para todos os nossos clientes, o que torna nossa ferramenta de redimensionamento de imagem para dimensões 2x2 confiável e completamente segura para uso em qualquer situação."
+            "content": "Nenhum dado é transferido para nossos servidores ou utilizado para fins de marketing ao usar a ferramenta de redimensionamento de imagem para dimensões 2x2. Todas as atividades realizadas durante o uso da ferramenta de redimensionamento de imagem para dimensões 2x2 são concluídas somente no navegador. Como resultado, somos capazes de oferecer total segurança para todos os nossos clientes, o que torna nossa imagem redimensionadora para ferramentas de dimensões 2x2 confiável e completamente segura para uso em qualquer situação."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Está disponível para todos sem nenhum custo",
-            "content": "Todos são bem-vindos para usar a ferramenta de redimensionamento de imagem para dimensões 2x2, e não há necessidade de registro. O uso da nossa ferramenta de redimensionamento de imagem para dimensões 2x2 é totalmente gratuito e não cobramos nada por isso. Ao usar a ferramenta de redimensionamento de imagem para dimensões 2x2, não há limite para o número de vezes que você pode redimensionar suas imagens."
+            "content": "Todos são bem-vindos para usar a ferramenta de redimensionamento de imagem para dimensões 2x2, e não há necessidade de registro. O uso de nossa ferramenta de redimensionamento de imagem para dimensões 2x2 é totalmente gratuito e não cobramos nada por isso. Ao usar a ferramenta de redimensionamento de imagem para dimensões 2x2, não há limite para o número de vezes que você pode redimensionar suas imagens."
         },
         {
             "priority": 1,
@@ -132,7 +132,7 @@
     ],
     "jscdns": [
         "<script src='/assets/js/googledrive.js'></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh02g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel='stylesheet' href='/css/utils.css' />",
