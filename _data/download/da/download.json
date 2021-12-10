@@ -1,0 +1,129 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "successmessage": "Hurra! din operation blev afsluttet",
+    "tryfeatureheading": "Du kan også prøve disse funktioner",
+    "rateus": "Bedøm os",
+    "votes": "stemmer på",
+    "socialshareheading": "Vi er en gratis at bruge platform til sikker behandling af dine filer. Vi har brug for din støtte for at vokse. Hjælp os ved at dele os på sociale medier. Tak!",
+    "recommendedsitesheading": "Prøv vores andre websteder for sikker behandling af dine filer! ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "Billede Splitter",
+            "url": "/da/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "Billede Resizer",
+            "url": "/da/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "Billede Sammenligning",
+            "url": "/da/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "Billede Kompressor",
+            "url": "/da/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "Png Kompressor",
+            "url": "/da/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "Gif Kompressor",
+            "url": "/da/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "Jpeg Kompressor",
+            "url": "/da/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "ASCII billede generator ",
+            "url": "/da/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "Meme generator",
+            "url": "/da/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "Tekst til billede konverter",
+            "url": "/da/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "Vandmærke billede maker",
+            "url": "/da/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "Billede til pixelate billede konverter",
+            "url": "/da/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "QR-kode generator",
+            "url": "/da/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "Billede cropper",
+            "url": "/da/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "Billede Filter Adder",
+            "url": "/da/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "Billede Rotater",
+            "url": "/da/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

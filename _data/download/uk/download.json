@@ -1,0 +1,129 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "successmessage": "Ура! ваша операція була завершена",
+    "tryfeatureheading": "Ви також можете спробувати ці функції",
+    "rateus": "Оцініть нас",
+    "votes": "голосів",
+    "socialshareheading": "Ми безкоштовно використовуємо платформу для безпечної обробки ваших файлів. Нам потрібна ваша підтримка, щоб рости. Допоможіть нам, поділившись нами в соціальних мережах. Спасибо!",
+    "recommendedsitesheading": "Спробуйте інші наші сайти для безпечної обробки ваших файлів! ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "Розгалужувач зображення",
+            "url": "/uk/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "Зміна розміру зображення",
+            "url": "/uk/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "Порівняння зображень",
+            "url": "/uk/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "Зображення компресора",
+            "url": "/uk/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "Png Компресор",
+            "url": "/uk/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "Gif Компресор",
+            "url": "/uk/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "JPEG Компресор",
+            "url": "/uk/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "Генератор зображень ASCII ",
+            "url": "/uk/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "Генератор мемів",
+            "url": "/uk/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "Конвертер тексту в зображення",
+            "url": "/uk/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "Виробник зображень водяних знаків",
+            "url": "/uk/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "Зображення для пікселяції конвертер зображень",
+            "url": "/uk/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "Генератор QR-коду",
+            "url": "/uk/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "Обрізка зображень",
+            "url": "/uk/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "Фільтр зображення сумадер",
+            "url": "/uk/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "Зображення ротатер",
+            "url": "/uk/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

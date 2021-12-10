@@ -1,0 +1,228 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "h1": "SafeImageKit.com-あなたのイメージを処理する最も安全な方法",
+    "h2": "ファイルはサーバーに送信されません。100% 安全です。",
+    "TITLE": "SafeImageKit.com-あなたのイメージを処理する最も安全な方法",
+    "META": "SafeImageKit.comを使用して、画像をオンラインで無料で安全に処理できます。複数の操作がサポートされています。",
+    "keywords": "",
+    "features": [
+        {
+            "name": "ASCII イメージジェネレータ ",
+            "description": "イメージを Ascii アートに変換します。",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/ja/ascii-art-from-image"
+        },
+        {
+            "name": "イメージ圧縮 ",
+            "description": "イメージを圧縮する",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/ja/compress-an-image"
+        },
+        {
+            "name": "イメージスプリッタ ",
+            "description": "イメージを分割します",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/ja/split-photo"
+        },
+        {
+            "name": "Jpeg圧縮 ",
+            "description": "JPEG イメージを圧縮します",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/ja/compress-jpeg"
+        },
+        {
+            "name": "PNG 圧縮 ",
+            "description": "PNG 画像を圧縮します",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/ja/compress-png"
+        },
+        {
+            "name": "Gif 圧縮 ",
+            "description": "GIF 画像を圧縮します",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/ja/compress-a-gif"
+        },
+        {
+            "name": "イメージ比較",
+            "description": "2 つのイメージを比較します。",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/ja/image-comparison"
+        },
+        {
+            "name": "イメージクロッパー",
+            "description": "クロップイメージ",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/ja/crop-image"
+        },
+        {
+            "name": "イメージフィルタ加算器",
+            "description": "画像にフィルターを追加する",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/ja/photo-filters"
+        },
+        {
+            "name": "ミームジェネレーター",
+            "description": "ミームを生成",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/ja/meme-generator"
+        },
+        {
+            "name": "テキストからイメージへのコンバーター",
+            "description": "テキストをイメージに変換します",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/ja/text-to-image-converter"
+        },
+        {
+            "name": "イメージフリッパー",
+            "description": "イメージを反転/回転",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/ja/flip-image"
+        },
+        {
+            "name": "イメージリサイザー",
+            "description": "画像のサイズを変更",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/ja/image-resize"
+        },
+        {
+            "name": "ウォーターマーク画像メーカー",
+            "description": "ウォーターマークイメージを作成します。",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/ja/watermark-for-photos"
+        },
+        {
+            "name": " QR コードジェネレーター",
+            "description": "Qr コードを生成",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/ja/qr-code-generator"
+        },
+        {
+            "name": " イメージからピクセル化イメージへのコンバーター",
+            "description": "画像をピクセルアートに変換",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/ja/pixel-art-maker"
+        },
+        {
+            "name": "フェイスブック画像リサイザー",
+            "description": "フェイスブックの画像のサイズ変更",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/ja/image-resize-facebook"
+        },
+        {
+            "name": " インスタグラム画像リサイザー",
+            "description": "インスタグラム用に画像のサイズを変更",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/ja/image-resize-instagram"
+        },
+        {
+            "name": " Linkedinの画像リサイザー",
+            "description": "LinkedIn 用に画像のサイズを変更する",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/ja/image-resize-linkedin"
+        },
+        {
+            "name": " メール画像リサイザー",
+            "description": "メール用の画像のサイズ変更",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/ja/image-resize-email"
+        },
+        {
+            "name": " Tiktok 画像リサイザー",
+            "description": "tiktokの画像のサイズ変更",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/ja/image-resize-tiktok"
+        },
+        {
+            "name": " ツイッター画像リサイズ",
+            "description": "ツイッター用の画像のサイズ変更",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/ja/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest 画像リサイズ",
+            "description": "ピンタレスト用に画像のサイズを変更する",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/ja/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat画像リサイザー",
+            "description": "Snapchat用に画像のサイズを変更する",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/ja/image-resize-snapchat"
+        },
+        {
+            "name": " Googleバナー広告画像スナップチャット",
+            "description": "Googleバナー広告の画像のサイズ変更",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/ja/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Discord",
+            "description": "Discord用に画像のサイズを変更する",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/ja/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Soundcloud 用にイメージのサイズを変更",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/ja/image-resize-soundcloud"
+        },
+        {
+            "name": " whatsapp",
+            "description": "WhatsAppの画像のサイズを変更する",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/ja/image-resize-whatsapp"
+        },
+        {
+            "name": " squarespace",
+            "description": "SquareSpace用にイメージのサイズを変更する",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/ja/image-resize-squarespace"
+        },
+        {
+            "name": " けいれん",
+            "description": "twitch用の画像のサイズ変更",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/ja/image-resize-twitch"
+        },
+        {
+            "name": " プリント",
+            "description": "印刷用に画像のサイズを変更する",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/ja/image-resize-printing"
+        }
+    ]
+}

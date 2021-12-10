@@ -1,0 +1,129 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "successmessage": "Hore! operasi Anda selesai",
+    "tryfeatureheading": "Anda juga dapat mencoba fitur ini",
+    "rateus": "Beri kami nilai",
+    "votes": "suara",
+    "socialshareheading": "Kami bebas menggunakan platform untuk pemrosesan file Anda dengan aman. Kami membutuhkan dukungan Anda untuk tumbuh. Bantu kami dengan membagikan kami di media sosial. Terima kasih!",
+    "recommendedsitesheading": "Coba situs kami yang lain untuk pemrosesan file Anda yang aman! ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "Gambar Splitter",
+            "url": "/id/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "Resizer gambar",
+            "url": "/id/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "Perbandingan Gambar",
+            "url": "/id/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "Kompresor gambar",
+            "url": "/id/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "Kompresor Png",
+            "url": "/id/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "Kompresor Gif",
+            "url": "/id/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "Kompresor Jpeg",
+            "url": "/id/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "Generator gambar ASCII ",
+            "url": "/id/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "Generator meme",
+            "url": "/id/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "Konverter teks ke gambar",
+            "url": "/id/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "Pembuat gambar watermark",
+            "url": "/id/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "Gambar ke pixelate image converter",
+            "url": "/id/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "QR Kode Generator",
+            "url": "/id/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "Gambar cropper",
+            "url": "/id/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "Adder Filter Gambar",
+            "url": "/id/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "Gambar Rotator",
+            "url": "/id/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

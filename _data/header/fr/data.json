@@ -1,0 +1,530 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Générer",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Générateur d'images ASCII ",
+                        "url": "/fr/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Générateur de mèmes",
+                        "url": "/fr/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Convertisseur de texte en image",
+                        "url": "/fr/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Créateur d'images filigranes",
+                        "url": "/fr/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Convertisseur d'image en image pixelée",
+                        "url": "/fr/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "Générateur de QR Code",
+                        "url": "/fr/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Éditer",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Recadrage d'image",
+                        "url": "/fr/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Addateur de filtre d'image",
+                        "url": "/fr/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Rotateur d'images",
+                        "url": "/fr/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Compresser",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Compresseur d'image",
+                        "url": "/fr/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Compresseur Png",
+                        "url": "/fr/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Compresseur Gif",
+                        "url": "/fr/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Compresseur Jpeg",
+                        "url": "/fr/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Autres outils",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Splitter d'images",
+                        "url": "/fr/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Redimensionneur d'image",
+                        "url": "/fr/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Comparaison d'images",
+                        "url": "/fr/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Redimensionneurs de réseaux sociaux",
+                "links": [
+                    {
+                        "name": "Redimensionneur d'image Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/fr/image-resize-facebook"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/fr/image-resize-instagram"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Linkedin",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/fr/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Redimensionneur d'image d'e-mail",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/fr/image-resize-email"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Tiktok",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/fr/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Twitter",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/fr/image-resize-twitter"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Pinterest",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/fr/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Redimensionneur d'image Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/fr/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Google Banner Ads",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/fr/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Discord",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/fr/image-resize-discord"
+                    },
+                    {
+                        "name": " Redimensionneur d'image SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/fr/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Whatsapp",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/fr/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " redimensionneur d'image squarespace",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/fr/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Redimensionneur d'image Twitch",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/fr/image-resize-twitch"
+                    },
+                    {
+                        "name": " Redimensionneur d'image d'impression",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/fr/image-resize-printing"
+                    }
+                ]
+            },
+            {
+                "categoryName": "redimensionneurs d'images en pouces",
+                "links": [
+                    {
+                        "name": "image de redimensionnement en 3X5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "image de redimensionnement en 4X6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "image de redimensionnement à 5X7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "image de redimensionnement en 8X8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "image de redimensionnement en 8X10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "image de redimensionnement en 8X11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "image de redimensionnement en 2X2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "image de redimensionnement à 9X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "image de redimensionnement à 11X14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "image de redimensionnement à 11X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "image de redimensionnement à 12X18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "image de redimensionnement à 18X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "image de redimensionnement à 18X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "image de redimensionnement à 20X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "image de redimensionnement en 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "image de redimensionnement en 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "image de redimensionnement en 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "image de redimensionnement à 29X21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "image de redimensionnement à 30X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "image de redimensionnement à 30X40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "redimensionneurs d'images en pixels",
+                "links": [
+                    {
+                        "name": "image de redimensionnement à 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 32 x 32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "image de redimensionnement à 42X59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "image de redimensionnement à 128X128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "image de redimensionnement à 21X29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "image de redimensionnement à 150X150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "image redimensionneur à 168X168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "image de redimensionnement à 170X170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "image de redimensionnement à 254X94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "image de redimensionnement à 266X177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "image de redimensionnement à 300X300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "image de redimensionnement à 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "image de redimensionnement à 385X256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "image de redimensionnement à 450X450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "image de redimensionnement à 500 x 500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "image de redimensionnement à 560X208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "image de redimensionnement à 630X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "image de redimensionnement à 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 800X2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "image de redimensionnement à 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1000X524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1000X1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1080X1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1080X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1080X1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "image redimensionneur à 1200X628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "image redimensionneur à 1200X630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "image redimensionneur à 1200X675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1200 x 1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1280X720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1500X2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "image redimensionneur à 1584X396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "image de redimensionnement vers 1640X923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1920X480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "image de redimensionnement vers 1920X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "image de redimensionnement vers 1958X745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "image de redimensionnement à 2037X754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "image de redimensionnement à 2400X3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "image de redimensionnement à 2550X3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "image redimensionneur à 2700X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 3300X4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "image de redimensionnement à 3300X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blogue",
+            "url": "/blog"
+        }
+    ]
+}

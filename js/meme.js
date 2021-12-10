@@ -430,7 +430,7 @@ function memeProcessing() {
                 if (lang === "en") {
                   window.location.href = `/download?tool=${pageTool}`;
                 } else {
-                  window.location.href = `/${lang}/downlod?tool=${pageTool}`;
+                  window.location.href = `/${lang}/download?tool=${pageTool}`;
                 }
               }, 200);
             });

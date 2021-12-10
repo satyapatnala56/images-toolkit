@@ -1,0 +1,9 @@
+---
+layout: download
+folderName: download
+fileName: download
+lang: zh-tw
+permalink: /zh-tw/download
+sitemap: false
+noindex: true
+---
