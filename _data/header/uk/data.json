@@ -1,0 +1,530 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Згенерувати",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Генератор зображень ASCII ",
+                        "url": "/uk/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Генератор мемів",
+                        "url": "/uk/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Конвертер тексту в зображення",
+                        "url": "/uk/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Виробник зображень водяних знаків",
+                        "url": "/uk/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Зображення для пікселяції конвертер зображень",
+                        "url": "/uk/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "Генератор QR-коду",
+                        "url": "/uk/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Редагувати",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Обрізка зображень",
+                        "url": "/uk/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Фільтр зображення сумадер",
+                        "url": "/uk/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Зображення ротатер",
+                        "url": "/uk/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Компрес",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Зображення компресора",
+                        "url": "/uk/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Png Компресор",
+                        "url": "/uk/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Gif Компресор",
+                        "url": "/uk/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "JPEG Компресор",
+                        "url": "/uk/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Розгалужувач зображення",
+                        "url": "/uk/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Зміна розміру зображення",
+                        "url": "/uk/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Порівняння зображень",
+                        "url": "/uk/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Резизери соціальних медіа",
+                "links": [
+                    {
+                        "name": "Розмір зображення Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/uk/image-resize-facebook"
+                    },
+                    {
+                        "name": " Змінний розмір зображення в Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/uk/image-resize-instagram"
+                    },
+                    {
+                        "name": " Змінний розмір зображення LinkedIn",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/uk/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Зміна розміру зображення електронної пошти",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/uk/image-resize-email"
+                    },
+                    {
+                        "name": " Tiktok Resizer зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/uk/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Зміна розміру зображення Twitter",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/uk/image-resize-twitter"
+                    },
+                    {
+                        "name": " Зміна розміру зображення Pinterest",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/uk/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Змінний розмір зображення Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/uk/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Google Банероголошення Розмір зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/uk/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Зміна розміру зображення розбрату",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/uk/image-resize-discord"
+                    },
+                    {
+                        "name": " Звуковий змінювача зображень SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/uk/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp розмір зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/uk/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " squarespace зображення Resizerpace",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/uk/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Зміна розміру зображення Twitch",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/uk/image-resize-twitch"
+                    },
+                    {
+                        "name": " Друк зміни розміру зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/uk/image-resize-printing"
+                    }
+                ]
+            },
+            {
+                "categoryName": "зображення змінювачі в дюймах",
+                "links": [
+                    {
+                        "name": "розмір зображення до 3X5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 4X6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 5X7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 8X8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 8X10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 8X11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "розмір зображення до 2X2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "розмір зображення до 9X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 11X14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 11X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "розмір зображення до 12X18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "розмір зображення до 18X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 18X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 20X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "розмір зображення до 24X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 24X30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "розмір зображення до 24X48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "розмір зображення до 29X21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "розмір зображення до 30X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 30X40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "змінювачі зображень у пікселях",
+                "links": [
+                    {
+                        "name": "зміна розміру зображення до 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "розмір зображення до 32X32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "розмір зображення до 42X59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "розмір зображення на 128X128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "зміна розміру зображення в 21X29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 150X150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 168X168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 170X170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 254X94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 266X177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "розмір зображення до 300X300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 320X320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 385X256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 450X450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 500X500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "розмір зображення на 560X208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 630X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "розмір зображення до 700X800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 800X2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "розмір зображення на 1000X524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1000X1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1024х768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1080X1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1080X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1080X1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200X628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200X630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200X675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "розмір зображення на 1280X720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1500X2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1584X396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1640X923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "розмір зображення на 1920X480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1920X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "розмір зображення на 1958X745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 2037X754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "розмір зображення до 2400X3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 2550X3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 2700X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 3300X4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 3300X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Блог",
+            "url": "/blog"
+        }
+    ]
+}

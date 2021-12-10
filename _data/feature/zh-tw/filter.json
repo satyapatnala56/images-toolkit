@@ -1,0 +1,142 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-tw",
+    "H1": "照片過濾器",
+    "img": "/img/filter.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "信息",
+    "H2": "在我們的照片上添加過濾器已經很容易，首先在下面上傳您的文件",
+    "TITLE": "照片過濾器-照片上的過濾器-安全影像套件",
+    "META": "您是否正在尋找一個高品質的圖片過濾器？那麼，你是在正確的地方。我們的在線照片過濾工具非常安全，用户友好，速度超快。",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#00b8e6",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高品質",
+            "content": "我們的照片過濾工具通過保持照片質量，為照片添加濾鏡。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "數據安全",
+            "content": "您的數據都不會在我們的服務器上發送所有操作都是在瀏覽器本身上完成的。這使我們能夠 100% 為我們的用户安全"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "靈活性",
+            "content": " 我們的照片過濾工具幾乎適用於所有類型的瀏覽器和設備。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "用户友好",
+            "content": "我們的照片過濾工具非常容易理解，不需要專業人員來處理我們的工具。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "免費",
+            "content": "我們的照片過濾工具是完全免費的，您可以使用我們所有的工具，而無需支付一分錢"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "無需額外下載",
+            "content": "我們的照片過濾工具完全基於瀏覽器，無需在您的設備上下載其他軟件。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "如何將濾鏡添加到圖像。",
+        "steps": [
+            "上傳圖片或單擊下拉箭頭，然後選擇 Dropbox/Google 雲端硬盤添加篩選器。",
+            "從給定的各種過濾器選項中選擇一個過濾器。",
+            "通過向下滾動瀏覽輸出。",
+            "點擊保存選項以保存所做的更改。",
+            "點擊下載選項下載修改後的映像。",
+            "赫裏!!圖像已準備好使用。"
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+        },
+        {
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+        },
+        {
+            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
+            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
+        },
+        {
+            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
+            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
+        },
+        {
+            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
+            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
+        },
+        {
+            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+        },
+        {
+            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
+            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
+        },
+        {
+            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+        },
+        {
+            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
+            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
+        },
+        {
+            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
+            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
+        },
+        {
+            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
+            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+        },
+        {
+            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
+            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+        },
+        {
+            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the photo filter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        },
+        {
+            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"/js/lena2.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/lena.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/filter.css\" />"
+    ]
+}

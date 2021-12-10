@@ -1,0 +1,530 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Menghasilkan",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Generator gambar ASCII ",
+                        "url": "/id/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Generator meme",
+                        "url": "/id/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Konverter teks ke gambar",
+                        "url": "/id/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Pembuat gambar watermark",
+                        "url": "/id/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Gambar ke pixelate image converter",
+                        "url": "/id/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "QR Kode Generator",
+                        "url": "/id/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Mengedit",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Gambar cropper",
+                        "url": "/id/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Adder Filter Gambar",
+                        "url": "/id/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Gambar Rotator",
+                        "url": "/id/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Kompres",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Kompresor gambar",
+                        "url": "/id/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Kompresor Png",
+                        "url": "/id/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Kompresor Gif",
+                        "url": "/id/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Kompresor Jpeg",
+                        "url": "/id/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Alat Lainnya",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Gambar Splitter",
+                        "url": "/id/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Resizer gambar",
+                        "url": "/id/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Perbandingan Gambar",
+                        "url": "/id/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Resizer media sosial",
+                "links": [
+                    {
+                        "name": "Resizer gambar Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/id/image-resize-facebook"
+                    },
+                    {
+                        "name": " Resizer gambar Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/id/image-resize-instagram"
+                    },
+                    {
+                        "name": " Resizer gambar Linkedin",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/id/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Resizer gambar email",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/id/image-resize-email"
+                    },
+                    {
+                        "name": " Resizer gambar Tiktok",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/id/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Twitter gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/id/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/id/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Resizer gambar Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/id/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Google Banner Iklan gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/id/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Resizer gambar perselisihan",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/id/image-resize-discord"
+                    },
+                    {
+                        "name": " Resizer gambar SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/id/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/id/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " resizer gambar squarespace",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/id/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Resizer gambar kedutan",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/id/image-resize-twitch"
+                    },
+                    {
+                        "name": " Mencetak resizer gambar",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/id/image-resize-printing"
+                    }
+                ]
+            },
+            {
+                "categoryName": "gambar resizer dalam inci",
+                "links": [
+                    {
+                        "name": "gambar resizer untuk 3X5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "gambar resizer untuk 4X6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "gambar resizer untuk 5X7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "gambar resizer untuk 8X8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "gambar resizer untuk 8X10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "gambar resizer untuk 8X11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "gambar resizer untuk 2X2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "gambar resizer untuk 9X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "gambar resizer untuk 11X14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "gambar resizer untuk 11X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "gambar resizer untuk 12X18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "gambar resizer untuk 18X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "gambar resizer untuk 18X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "gambar resizer untuk 20X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "gambar resizer untuk 24X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "gambar resizer untuk 24X30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "gambar resizer untuk 24X48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "gambar resizer untuk 29X21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "gambar resizer untuk 30X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "gambar resizer untuk 30X40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "gambar resizer dalam pixel",
+                "links": [
+                    {
+                        "name": "gambar resizer untuk 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "gambar resizer untuk 32X32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "gambar resizer untuk 42X59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "gambar resizer untuk 128X128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "gambar resizer untuk 21X29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "gambar resizer untuk 150X150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "gambar resizer untuk 168X168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "gambar resizer untuk 170X170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "gambar resizer untuk 254X94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "gambar resizer untuk 266X177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "gambar resizer untuk 300X300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "gambar resizer untuk 320X320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "gambar resizer untuk 385X256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "gambar resizer untuk 450X450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "gambar resizer untuk 500X500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "gambar resizer untuk 560X208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "gambar resizer untuk 630X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "gambar resizer untuk 700X800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "gambar resizer untuk 800X2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "gambar resizer untuk 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1000X524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1000X1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1024X768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1080X1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1080X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1080X1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1200X628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1200X630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1200X675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1200X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1280X720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1500X2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1584X396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1640X923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1920X480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1920X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "gambar resizer untuk 1958X745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "gambar resizer untuk 2037X754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "gambar resizer untuk 2400X3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "gambar resizer untuk 2550X3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "gambar resizer untuk 2700X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "gambar resizer untuk 3300X4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "gambar resizer untuk 3300X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/id/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

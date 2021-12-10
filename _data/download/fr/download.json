@@ -1,0 +1,129 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "successmessage": "Vive ! votre opération a été terminée",
+    "tryfeatureheading": "Vous pouvez également essayer ces fonctionnalités",
+    "rateus": "Évaluez-nous",
+    "votes": "votes",
+    "socialshareheading": "Nous sommes une plateforme gratuite pour le traitement sécurisé de vos fichiers. Nous avons besoin de votre soutien pour nous développer. Aidez-nous en nous partageant sur les réseaux sociaux. Merci !",
+    "recommendedsitesheading": "Essayez nos autres sites pour un traitement sécurisé de vos fichiers ! ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "Splitter d'images",
+            "url": "/fr/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "Redimensionneur d'image",
+            "url": "/fr/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "Comparaison d'images",
+            "url": "/fr/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "Compresseur d'image",
+            "url": "/fr/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "Compresseur Png",
+            "url": "/fr/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "Compresseur Gif",
+            "url": "/fr/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "Compresseur Jpeg",
+            "url": "/fr/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "Générateur d'images ASCII ",
+            "url": "/fr/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "Générateur de mèmes",
+            "url": "/fr/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "Convertisseur de texte en image",
+            "url": "/fr/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "Créateur d'images filigranes",
+            "url": "/fr/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "Convertisseur d'image en image pixelée",
+            "url": "/fr/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "Générateur de QR Code",
+            "url": "/fr/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "Recadrage d'image",
+            "url": "/fr/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "Addateur de filtre d'image",
+            "url": "/fr/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "Rotateur d'images",
+            "url": "/fr/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

@@ -132,11 +132,11 @@
   ],
   "jscdns": [
     "<script src=\"/assets/js/googledrive.js\"></script>",
-    "<script src=\"js/lena2.js\"></script>",
-    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/lena.js\"></script>"
+    "<script src=\"/js/lena2.js\"></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/lena.js\"></script>"
   ],
   "csscdns": [
-    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-    "<link rel=\"stylesheet\" href=\"css/filter.css\" />"
+    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/filter.css\" />"
   ]
 }

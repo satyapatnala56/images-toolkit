@@ -1,0 +1,129 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "successmessage": "Hurra! Twoja operacja została zakończona",
+    "tryfeatureheading": "Można również wypróbować te funkcje",
+    "rateus": "Oceń nas",
+    "votes": "głosów",
+    "socialshareheading": "Jesteśmy bezpłatną platformą do bezpiecznego przetwarzania Twoich plików. Potrzebujemy waszego wsparcia, by się rozwijać. Pomóż nam, udostępniając nas w mediach społecznościowych. Dzięki!",
+    "recommendedsitesheading": "Wypróbuj nasze inne strony w celu bezpiecznego przetwarzania Twoich plików! ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "Rozdzielacz obrazu",
+            "url": "/pl/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "Rozmiar obrazu",
+            "url": "/pl/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "Porównanie obrazów",
+            "url": "/pl/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "Kompresor obrazu",
+            "url": "/pl/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "Sprężarka Png",
+            "url": "/pl/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "Sprężarka Gif",
+            "url": "/pl/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "Kompresor JPEG",
+            "url": "/pl/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "Generator obrazów ASCII ",
+            "url": "/pl/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "Generator meme",
+            "url": "/pl/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "Konwerter tekstu na obraz",
+            "url": "/pl/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "Ekspres obrazu znaku wodnego",
+            "url": "/pl/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "Konwerter obrazu na piksele",
+            "url": "/pl/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "Generator kodu QR",
+            "url": "/pl/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "Kadruk obrazu",
+            "url": "/pl/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "Adder filtra obrazu",
+            "url": "/pl/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "Rotater obrazu",
+            "url": "/pl/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

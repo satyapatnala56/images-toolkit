@@ -1,0 +1,132 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "h1": "ปรับขนาดภาพสำหรับ Soundcloud",
+    "img": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "เตือน",
+    "h2": "อัปโหลดรูปภาพของคุณที่นี่และปรับขนาดเดี๋ยวนี้",
+    "TITLE": "ปรับขนาดภาพสำหรับ Soundcoud | เครื่องมือปรับขนาดภาพออนไลน์ ",
+    "META": "กำลังมองหาตัวปรับขนาดภาพฟรีและออนไลน์สำหรับ Soundcoud?เยี่ยมชมเว็บไซต์ของเราและปรับขนาดภาพสำหรับ Soundcoud ในไม่กี่วินาที.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff884d",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/lightbulb.svg",
+            "header": "ใช้งานง่าย",
+            "content": "กระบวนการปรับขนาดภาพโซเชียลมีเดียสง่างามและตรงไปตรงมา"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/target.svg",
+            "header": "ผลลัพธ์ที่แม่นยำ",
+            "content": "ผลลัพธ์ที่ถูกต้องและด้วยเหตุนี้จึงสมบูรณ์ตอบสนองความต้องการของผู้ใช้"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cross.svg",
+            "header": "ข้ามแพลตฟอร์ม",
+            "content": "คุณสามารถใช้โปรแกรมนี้จากนี้บนระบบปฏิบัติการใด ๆ เช่น Windows/Mac/Linux/Android/iPhone"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/shield.svg",
+            "header": "ปลอดภัยและเชื่อถือได้",
+            "content": "ไม่มีเซิร์ฟเวอร์ที่เกี่ยวข้องและด้วยเหตุนี้ข้อมูลและไฟล์ของคุณมีความปลอดภัย"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/fast.svg",
+            "header": "รวดเร็วและมีประสิทธิภาพ",
+            "content": "เว็บไซต์ประมวลผลไฟล์ของคุณได้อย่างรวดเร็วและมีประสิทธิภาพคุณสามารถทำงานของคุณเสร็จในเวลาไม่นาน"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud_new.svg",
+            "header": "ไม่มีไฟล์ถูกอัปโหลด",
+            "content": "แอพลิเคชันทำงานอย่างสมบูรณ์บนเบราว์เซอร์ของคุณโดยไม่ต้อง invlolving เซิร์ฟเวอร์ใด ๆดังนั้นไฟล์ของคุณมีความปลอดภัย"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "วิธีปรับขนาดภาพของคุณ",
+        "steps": [
+            "อัปโหลดรูปภาพที่คุณต้องการปรับขนาด",
+            "เลือกขนาดที่เหมาะสมหรือหลายขนาด",
+            "กดดาวน์โหลดทั้งหมดเพื่อดาวน์โหลดทุกขนาดที่มีอยู่",
+            "กดปุ่มดาวน์โหลดที่เลือกเพื่อดาวน์โหลดขนาดภาพที่เลือก"
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "What are the features offered by the Sound cloud image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Sound cloud image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories,\nThe important info here is that our image dimensions are super precise.\n"
+        },
+        {
+            "question": "What are the different image categories available in the Sound cloud image resizer offered by Safeimagekit.com?",
+            "answer": "The Sound cloud image resizer offers image editing options in multiple sections where a user can upload his/her image in the Sound cloud app/website, these categories include-\n-\tSound cloud album cover.\n-\tSound cloud profile photo.\n-\tSound cloud minimum header."
+        },
+        {
+            "question": "How can I adjust the width of the image using the Sound cloud image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+        },
+        {
+            "question": "How can I adjust the height of the image using the Sound cloud image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+        },
+        {
+            "question": "How can I resize an image using the Sound cloud image resizer feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there.\n"
+        },
+        {
+            "question": "Does the resize option of the Sound cloud image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
+        },
+        {
+            "question": "Can I use the Sound cloud image resizer feature from safeimagekit.com on my Windows 8?",
+            "answer": "The Sound cloud image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+        },
+        {
+            "question": "Can I use the Sound cloud image resizer feature from safeimagekit.com on my Android device?",
+            "answer": "Yes, the Sound cloud image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+        },
+        {
+            "question": "Do we have to use any additional software to download the modified images after conversion using the Sound cloud image resizer feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image."
+        },
+        {
+            "question": "What will happen to our progress if we refresh our browser while we are using the Sound cloud image resizer tool from safeimagekit.com?",
+            "answer": "The Sound cloud image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+        },
+        {
+            "question": "Can we resize the image files which are locked, using the Sound cloud image resizer feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the Sound cloud image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+        },
+        {
+            "question": "Will my uploaded image files corrupt after resizing the image files using The Sound cloud image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />"
+    ],
+    "filelang": "en",
+    "display_formats": [
+        "jpg",
+        "jpeg",
+        "png",
+        "webp"
+    ]
+}

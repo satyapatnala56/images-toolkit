@@ -1,0 +1,150 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "H1": "फोटो स्प्लिटर",
+    "img": "/img/split.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "nofileupload": true,
+    "variant": "खतरा",
+    "imgalt": "altvalue",
+    "data": {
+        "total": 0,
+        "_id": "608 एफडी 832 बी 3 ई 10 ए 0009083 एफ 84",
+        "website": "सुरक्षित छवि किट",
+        "feature": "विभाजन",
+        "ratings": [],
+        "created": "2021-05-03 बजे 11:02:10 .680 हर्ट्ज",
+        "__v": 0
+    },
+    "H2": "ऑनलाइन विभाजन छवि को हमारे साथ आसान बना दिया गया है, नीचे अपनी फ़ाइल अपलोड करके शुरू करें",
+    "TITLE": "फोटो स्प्लिटर - स्प्लिट फोटो - सुरक्षित इमेज किट",
+    "META": "क्या आप एक उच्च-गुणवत्ता वाले फोटो स्प्लिटर की तलाश कर रहे हैं? ठीक है, तो आप सही जगह पर हैं। हमारा ऑनलाइन स्प्लिट फोटो टूल बेहद सुरक्षित, उपयोगकर्ता के अनुकूल और सुपर क्विक है।",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff6666",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "हाई क्वालिटी",
+            "content": "हमारा फोटो स्प्लिटर टूल अपनी गुणवत्ता को बनाए रखते हुए छवियों को विभाजित करता है।"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "डेटा सुरक्षा",
+            "content": "आपका कोई भी डेटा हमारे सर्वर पर नहीं भेजा जाता है, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं। यह हमें अपने उपयोगकर्ताओं के लिए 100% सुरक्षित रहने में सक्षम बनाता है"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilty",
+            "content": " हमारा फोटो स्प्लिटर टूल लगभग सभी प्रकार के ब्राउज़रों और उपकरणों पर काम करता है।"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "यूजर फ्रेंडली",
+            "content": "हमारे फोटो स्प्लिटर टूल को समझना बहुत आसान है, हमारे टूल पर काम करने के लिए किसी पेशेवर की आवश्यकता नहीं है।"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "नि:शुल्क",
+            "content": "हमारा फोटो स्प्लिटर टूल पूरी तरह से नि: शुल्क है, आप एक पैसा चुकाए बिना हमारे सभी उपकरणों का उपयोग कर सकते हैं"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "कोई अतिरिक्त डाउनलोड नहीं",
+            "content": "हमारा फोटो स्प्लिटर टूल पूरी तरह से ब्राउज़र आधारित है और आपके डिवाइस पर कोई अतिरिक्त सॉफ़्टवेयर डाउनलोड करने की आवश्यकता नहीं है।"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "हमारी छवि को कैसे विभाजित करें।",
+        "steps": [
+            "छवि अपलोड करें या ड्रॉप डाउन तीर पर क्लिक करें और अपनी फ़ाइल का चयन करने के लिए ड्रॉपबॉक्स/Google ड्राइव का चयन करें जिसे विभाजन की आवश्यकता है।",
+            "छवि विभाजन के लिए आवश्यक पैरामीटर समायोजित करें।",
+            "विभाजन शुरू करने के लिए “Split” बटन दबाएं।",
+            "किए गए परिवर्तनों को सहेजने के लिए “सभी को सहेजें” दबाएं",
+            "हुर्रे!! छवि उपयोग करने के लिए तैयार है।"
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+        },
+        {
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+        },
+        {
+            "question": "What are the features offered by the photo splitter from safeimagekit.com while splitting a photo or an image?",
+            "answer": "The photo splitter from safeimagekit.com offers versatile features while splitting a photo or an image. The main features include\n- the separation options of the uploaded image in the degree of rows and columns.\n- The divided image file parts can be downloaded separately after splitting the image based on the need of the user. These files are offered in png format.\n- The divided image file parts can also be downloaded in the .zip format which consumes less space than the other image file formats."
+        },
+        {
+            "question": "How many parts can we divide the uploaded image file in terms of rows, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of rows while splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Row divisions are horizontal divisions, which are made across the image while splitting."
+        },
+        {
+            "question": "How many parts can we divide the uploaded image file in terms of columns, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of columns while, splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Columns divisions are vertical divisions, which are made across the image while splitting."
+        },
+        {
+            "question": "How many image parts do I get if I enter 20 in the space of rows and 50 in the space of columns while splitting an image using the image splitter from safeimagekit.com?",
+            "answer": "The image splitter feature from safeimagekit.com is fitted with basic math codes which have the ability to perform simple calculations. So, when we enter 20 in the space of rows and 50 in the space of columns the page performs basic math and the number of rows is multiplied by the number of columns such that we get their product as divisions of the image. So, 50*20=1000 image divisions(parts) of the uploaded image. These image parts can be downloaded in the form of png file separately by part or can be downloaded as a zip file."
+        },
+        {
+            "question": "Can we download the split part of the image in the form of a jpeg, after splitting the uploaded image using the photo splitter from safeimagekit.com?",
+            "answer": "No, the splitting option of photo splitter from safeimagekit.com offers the download of the image section in the form of png only. Currently, the image splitter splits the image accordingly and produces the parts of the image in png format as well as a zip file. Jpeg, jpg, and other image formats are destined to be included in the coming future."
+        },
+        {
+            "question": "Can we download the sections of the image file overall, instead of one by one using the split feature of photo splitter from safeimagekit.com?",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com lets the user download all the sections of the image in a single stretch instead of downloading them one by one. There is an option called “save as zip file” at the bottom of the page after splitting them. After hitting that option, all the sections of the image downloads into a single zip file and the user can separate and extract the required section from the zip file whenever it is needed."
+        },
+        {
+            "question": "Does the split feature of the photo splitter from safeimagekit.com provide the option to download a single section of the image file uploaded? ",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com does provide the option to download a single section of the image file uploaded. Just hit the section of the image which is required and it downloads that particular section only in the png image format."
+        },
+        {
+            "question": "Does the split feature of photo splitter from safeimagekit.com provide any type of preview after splitting the uploaded image file?",
+            "answer": "No, currently the split feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image."
+        },
+        {
+            "question": "How do we split the image file using the split feature from safeimagekit.com?",
+            "answer": "There are 6 basic steps that the user can refer to while splitting an image file-\n-\tUpload the image file to be split\n-\tEnter the number of rows and columns required \n-\tHit split\n-\tBOOM!! The sections of the uploaded image file are presented below\n-\tDownload the required section by clicking it separately, or download them all together using the “DOWNLOAD ALL” option.\n-\tIf the space to be downloaded is more, feel free to use the “save as zip file” option which downloads all the sections in a single zip file."
+        },
+        {
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Windows 8?",
+            "answer": "Photo splitter is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+        },
+        {
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the photo splitter feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the photo splitter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        },
+        {
+            "question": "Do I have to do any additional signup or pay extra to use the photo splitter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js\" integrity=\"sha512-XSIn6Z+o82v4Aumv+iHmw9/oEotMU4LRi7lSd4AESpfdekKVO4zt0hUZ+2iB8cRlvpQRWqeLXdCHQxTOL00zNw==\" crossorigin=\"anonymous\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/split.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/split.css\" />"
+    ]
+}

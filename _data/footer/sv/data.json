@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "Företag",
+    "producttitle": "Produkt",
+    "networksitestitle": "Nätverksplatser",
+    "company": [
+        {
+            "name": "Villkor och villkor",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "friskrivningsklausul",
+            "url": "/disclaimer"
+        },
+        {
+            "name": "Integritet",
+            "url": "/privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "ASCII bildgenerator ",
+            "url": "/sv/ascii-art-from-image"
+        },
+        {
+            "name": "QR-kodgenerator",
+            "url": "/sv/qr-code-generator"
+        },
+        {
+            "name": "Bild Splitter ",
+            "url": "/sv/split-photo"
+        },
+        {
+            "name": "Bildkompressor ",
+            "url": "/sv/compress-an-image"
+        },
+        {
+            "name": "Gif bildkompresor ",
+            "url": "/sv/compress-a-gif"
+        },
+        {
+            "name": "Png-bildkompressor ",
+            "url": "/sv/compress-png"
+        },
+        {
+            "name": "jpeg bildkompressor ",
+            "url": "/sv/compress-jpeg"
+        },
+        {
+            "name": "Jämförelse",
+            "url": "/sv/image-comparison"
+        },
+        {
+            "name": "Bild beskärare",
+            "url": "/sv/crop-image"
+        },
+        {
+            "name": "Bild Filter Adder",
+            "url": "/sv/photo-filters"
+        },
+        {
+            "name": "Meme generator",
+            "url": "/sv/meme-generator"
+        },
+        {
+            "name": "Bild Flipper",
+            "url": "/sv/flip-image"
+        },
+        {
+            "name": "Text till bildkonverterare",
+            "url": "/sv/text-to-image-converter"
+        },
+        {
+            "name": "Bildstorlek",
+            "url": "/sv/image-resize"
+        },
+        {
+            "name": "Vattenstämpel bildtillverkare",
+            "url": "/sv/watermark-for-photos"
+        },
+        {
+            "name": "Konverterare för bild till pixel",
+            "url": "/sv/pixel-art-maker"
+        },
+        {
+            "name": "Bild-resizer för Facebook",
+            "url": "/sv/image-resize-facebook"
+        },
+        {
+            "name": " Image Resizer för Instagram",
+            "url": "/sv/image-resize-instagram"
+        },
+        {
+            "name": " Linkedin bildstorlek",
+            "url": "/sv/image-resize-linkedin"
+        },
+        {
+            "name": " Bildstorlek för e-post",
+            "url": "/sv/image-resize-email"
+        },
+        {
+            "name": " Tiktok bildstorlek",
+            "url": "/sv/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter-bildstorlek",
+            "url": "/sv/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest bildstorlek",
+            "url": "/sv/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat bildresizer",
+            "url": "/sv/image-resize-snapchat"
+        },
+        {
+            "name": " Google Banner Ads bild Snapchat",
+            "url": "/sv/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Bildresizer för oenighet",
+            "url": "/sv/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud-bildstorlek",
+            "url": "/sv/image-resize-soundcloud"
+        },
+        {
+            "name": " bildresizer för fyrkantig rymd",
+            "url": "/sv/image-resize-squarespace"
+        },
+        {
+            "name": " Whatsapps bildresizer",
+            "url": "/sv/image-resize-whatsapp"
+        },
+        {
+            "name": " Rycka bildstorlek",
+            "url": "/sv/image-resize-twitch"
+        },
+        {
+            "name": " Skriva ut bildstorlek",
+            "url": "/sv/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "Om oss",
+            "url": "about"
+        },
+        {
+            "name": "Kontakta oss",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}
