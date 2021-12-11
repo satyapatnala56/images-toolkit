@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.9.0"
-gem "appscms-tools-theme","~> 1.7.1"
+gem "appscms-tools-theme","~> 1.7.3"
 
 
 gem "kramdown-parser-gfm"
