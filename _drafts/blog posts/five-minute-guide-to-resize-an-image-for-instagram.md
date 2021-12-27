@@ -68,10 +68,20 @@ Instagram image resizer provides image editing choices in a variety of categorie
 
 First and foremost, upload the image that needs to be edited.
 
+![](/uploads/insta.PNG)
+
 The next step is to make adjustments to the image's important parameters, such as the width, height, etc.
+
+![](/uploads/insta-2.PNG)
 
 The added benefit is that we can zoom in and out to regulate the image's required content by simply scrolling in and out.
 
+![](/uploads/insta-3.PNG)
+
 To obtain all available sizes, click the download all button.
 
+![](/uploads/insta-4.PNG)
+
 To download specified image sizes, click the download selected option.
+
+![](/uploads/insta-5.PNG)
