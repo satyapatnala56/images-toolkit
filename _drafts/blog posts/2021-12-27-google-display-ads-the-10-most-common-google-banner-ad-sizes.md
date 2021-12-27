@@ -4,7 +4,7 @@ categories: []
 title: 'Google Display Ads: The 10 most common Google Banner ad sizes'
 layout: post
 author: Arjyahi
-image: "/uploads/yo-6.png"
+image: "/uploads/yo-9.png"
 comments: false
 
 ---
