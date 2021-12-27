@@ -34,7 +34,7 @@ That isn't to say that digital marketers should just use high display ad sizes i
 
 Due to the obvious way Google's ad inventory affects the accessibility of display ad space on its network, this is the case. Google often has a large amount of inventory for small and medium ad slots, but not so much for larger ad spaces. A marketer who only publishes large-sized ads is likely to have a high CTR but limited reach and placement flexibility.
 
-![](/uploads/pexels-pixabay-267401.jpg)
+![](/uploads/google-g7396779da_1920.jpg)
 
 To get the most out of their display advertisements, digital marketers should mix and match the most popular and best-performing ad sizes for which there is enough inventory. Let's take a look at the ten most common Google display ad sizes to make things easier.
 
@@ -58,7 +58,7 @@ Leaderboard banners are a type of Google display ad that performs well. They've 
 
 ### Inline Rectangle (300 x 250)
 
-The most popular Google display ad size on the system is the inline rectangle. This ad size is also known as an "MPU," which stands for mid-page unit or multi-purpose component. These advertisements are commonly placed in the centre of pages to break up the material. They can be used to start a lightbox ad experience or to start a video ad.
+The most popular Google display ad size on the system is the inline rectangle. This ad size is also known as an "MPU," which stands for a mid-page unit or multi-purpose component. These advertisements are commonly placed in the center of pages to break up the material. They can be used to start a lightbox ad experience or to start a video ad.
 
 ### Large Rectangle (336 x 280)
 
