@@ -12,7 +12,7 @@ comments: false
 
 ## **Introduction**
 
-Are you making use of the most popular and effective Google display ad sizes to help your campaigns succeed?
+Are you making use of the most popular and effective Google display ad sizes to help your campaigns succeed? 
 
 One of the very first things you'll have to establish when designing ad creative for your next online marketing campaign is the size of your ad banners. The Google display network provides a wide selection of banner sizes, which can encourage the inexperienced to simply choose the one that seems most handy and go ahead and produce ads.
 
