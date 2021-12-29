@@ -66,7 +66,7 @@ Because most ad servers favor the high-performing 300 x 250 inline rectangular f
 
 ### Skyscraper- 120 × 600
 
-Because skyscraper advertising is tall and thin, viewers will see them as they scroll down the screen. Due to the sheer success of the wide skyscraper and large skyscraper ad formats, the 120 x 600 format has gone out of favour on the Google ad network. Google also claims that there is a shortage of inventory, which can result in poor ad performance.
+Because skyscraper advertising is tall and thin, viewers will see them as they scroll down the screen. Due to the sheer success of the wide skyscraper and large skyscraper ad formats, the 120 x 600 format has gone out of favor on the Google ad network. Google also claims that there is a shortage of inventory, which can result in poor ad performance.
 
 ### 160 x 600 - Wide Skyscraper
 
@@ -84,7 +84,7 @@ The Large Leaderboard is an extending ad format that debuts at the top of the pa
 
 ## **Google's Top 5 Most Effective Display Ad Sizes**
 
-Google has done us a favor by making the top-performing ad sizes available throughout the Google display network. Excluding the 320 x 100 huge mobile banner, which ranks sixth and is exclusively served on mobile devices, all of the display ad sizes on this list were among the most popular.
+Google has done us a favour by making the top-performing ad sizes available throughout the Google display network. Excluding the 320 x 100 huge mobile banner, which ranks sixth and is exclusively served on mobile devices, all of the display ad sizes on this list were among the most popular.
 
 The finest display ad sizes, according to Google, are:
 
@@ -102,6 +102,6 @@ The finest display ad sizes, according to Google, are:
 
 When it comes to perfecting the art of Google Ads web advertising, size does count. Design, at the same time, does.
 
-While display advertising has a lesser direct click-through rate than search ads, it should be aesthetically attractive, with carefully designed text, the proper mix of typefaces, color, images, and maybe motion. They're wonderful for building brand awareness, and when utilized for remarketing, potential clients are more and more inclined to buy an item, even if it's not today.
+While display advertising has a lesser direct click-through rate than search ads, they should be aesthetically attractive, with carefully designed text, the proper mix of typefaces, color, images, and maybe motion. They're wonderful for building brand awareness, and when utilized for remarketing, potential clients are more and more inclined to buy an item, even if it's not today.
 
 It's critical that you select the best-performing ad sizes and ad locations for your campaign to maximize impressions and conversions. For desktop and mobile devices, you'll have to choose a range of sizes and include both textual and picture advertising.

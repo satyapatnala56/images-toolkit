@@ -8,9 +8,9 @@
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "warning",
-  "h2": "Upload your image here and resize now",
-  "TITLE": "Resize image for Whatsapp | Online Image resizer tool ",
-  "META": "Looking for a free and online image resizer for Whatsapp? Visit our website and resize image for Whatsapp in few seconds.",
+  "h2": "Upload images and resize them for your pic or dp",
+  "TITLE": "Resize images for Whatsapp | Create dp and profile images ",
+  "META": "Looking for a free and online image resizer for Whatsapp to resize your dp or profile pics? Visit our website and resize image for Whatsapp in few seconds.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
   "color": "#ff884d",
@@ -19,7 +19,7 @@
       "priority": 1,
       "logoUrl": "/assets/lightbulb.svg",
       "header": "Simple to use",
-      "content": "Social media image resizer process elegant and straightforward"
+      "content": "Whatsapp image size converter - elegant and straightforward"
     },
     {
       "priority": 1,
