@@ -1,7 +1,7 @@
 {
   "Language": "English",
   "htmlLangAtt": "en",
-  "H1": "Photo splitter",
+  "H1": "Split photo online with advanced tool for free",
   "img": "/img/split.png",
   "imgwidth": "35px",
   "imgheight": "35px",
@@ -13,11 +13,13 @@
     "_id": "608fd832b3e10a0009083f84",
     "website": "safeimagekit",
     "feature": "split",
-    "ratings": [],
+    "ratings": [
+
+    ],
     "created": "2021-05-03T11:02:10.680Z",
     "__v": 0
   },
-  "H2": "Splitting image online has been made easy with us, start by uploading your file below",
+  "H2": "Splitting image online has been made easy by us, start by uploading your file below",
   "TITLE": "Photo splitter- split photo- safeimagekit",
   "META": "Are you looking for a high-quality photo splitter? Well, then you are at the right place. Our online split photo tool is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
