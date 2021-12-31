@@ -20,6 +20,7 @@ clientId: 862003477277-6c2jd8ggqvqpmbae6671umo1c83eidug.apps.googleusercontent.c
 appId: 862003477277
 internationalizationall: true
 dropboxapikey: gdmcpa9nvv4xmih
+safeui: true
 disqus:
   shortname: utils
 # Build settings
