@@ -1,14 +1,14 @@
 {
   "Language": "English",
   "htmlLangAtt": "en",
-  "H1": "Watermark Generator",
+  "H1": "Free watermark generator for PC, MAC, IOS and ANDROID",
   "img": "/img/watermark.png",
   "imgwidth": "35px",
   "imgheight": "35px",
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "danger",
-  "H2": "Creating watermark for photos has been made easy with us, start by uploading your file below",
+  "H2": "Creating watermark for photos has been made easy by us, start by uploading your file below",
   "TITLE": "Watermark photos- free watermark maker- safeimagekit",
   "META": "Are you looking for a high-quality image watermark for images? Well, then you are at the right place. Our online watermark generator tool is extremely safe, user-friendly, and super quick.",
   "LABEL": "",
@@ -64,6 +64,10 @@
     ]
   },
   "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    },
     {
       "question": "Is it safe to allow access to my drive?",
       "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
