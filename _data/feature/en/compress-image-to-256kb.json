@@ -64,7 +64,7 @@
   "FAQ": [
     {
       "question": "What is image compression? Why do we need image compression?",
-      "answer": "Image compression aims to eliminate image data redundancy and irrelevance in order to store or transmit data more efficiently. Its goal is to reduce the number of bits necessary to represent an image. There are two types of image compression: lossy and lossless. \r\nThe key benefits of compression are storage hardware savings, data transmission time savings, and communication bandwidth savings. This can save you a lot of money. Compressed files require far less storage capacity than uncompressed data, resulting in significant savings in storage costs."
+      "answer": "Image compression aims to eliminate image data redundancy and irrelevance in order to store or transmit data more efficiently. Its goal is to reduce the number of bits necessary to represent an image. There are two types of image compression: lossy and lossless. The key benefits of compression are storage hardware savings, data transmission time savings, and communication bandwidth savings. This can save you a lot of money. Compressed files require far less storage capacity than uncompressed data, resulting in significant savings in storage costs."
     },
     {
       "question": "What does an image compressor do?",
@@ -72,7 +72,7 @@
     },
     {
       "question": "What are the types of image compressions?",
-      "answer": "There are lossless and lossy image compression algorithms available.\r\nIt is feasible to reduce the size of a compressed file without affecting image quality. Lossless compression, in general, but not always, results in larger files than lossy compression. It's advisable to use lossless compression when working with images to reduce the number of recompression stages.\r\nLossy coding compression algorithms preserve a representation of the original uncompressed image that may appear flawless but aren't quite a replica. Lossy compression, when compared to lossless compression, typically results in smaller file sizes. In lossy compression methods, variable compression, which compromises image quality for file size, is prevalent."
+      "answer": "There are lossless and lossy image compression algorithms available. It is feasible to reduce the size of a compressed file without affecting image quality. Lossless compression, in general, but not always, results in larger files than lossy compression. It's advisable to use lossless compression when working with images to reduce the number of recompression stages. Lossy coding compression algorithms preserve a representation of the original uncompressed image that may appear flawless but aren't quite a replica. Lossy compression, when compared to lossless compression, typically results in smaller file sizes. In lossy compression methods, variable compression, which compromises image quality for file size, is prevalent."
     },
     {
       "question": "How does compress image to 256kb tool dimensions tool work?",
@@ -84,7 +84,7 @@
     },
     {
       "question": "What is image compression ratio?",
-      "answer": "The ratio of uncompressed to compressed size is known as the data compression ratio.\r\nFor example, a representation that decreases a file's storage space from 100 KB to 50 KB has a compression ratio of 100\/50 = 2, often notated as an explicit ratio, 2:1, or as an implicit ratio, 2\/1."
+      "answer": "The ratio of uncompressed to compressed size is known as the data compression ratio. For example, a representation that decreases a file's storage space from 100 KB to 50 KB has a compression ratio of 100/50 = 2, often notated as an explicit ratio, 2:1, or as an implicit ratio, 2/1."
     },
     {
       "question": "Does compression alter the size of an image?",
@@ -104,7 +104,7 @@
     },
     {
       "question": "What image formats does compress image to 256kb tool support?",
-      "answer": "There are now five types of image formats available. You can adjust the image's format to meet your needs. WEBP, PNG, JPG, JPEG, and GIF are among the formats available. If you want to maintain the format the same, select the option Enter the mime type. After uploading the image, go to the bottom of the page and select the Mime type option, then save your modifications. "
+      "answer": "There are now five types of image formats available. You can adjust the image's format to meet your needs. WEBP, PNG, JPG, JPEG, and GIF are among the formats available. If you want to maintain the format the same, select the option 'Enter the mime type.' After uploading the image, go to the bottom of the page and select the 'Mime type' option, then save your modifications. "
     },
     {
       "question": "Is it possible to compress many images at the same time by using compress image to 256kb tool?",
@@ -141,4 +141,4 @@
     "<link rel='stylesheet' href='/css/compress-image-to-xsize.css' />"
   ]
 }
-
+    
