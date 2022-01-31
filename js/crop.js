@@ -217,6 +217,8 @@ function cropImage() {
       }
 
       document.querySelector(".cancel_btn").onclick = function () {
+        document.getElementById("crop_btn").innerText = "Crop";
+        // document.getElementById("crop_icon").style.display = "none";
         document.querySelector("#output_div").innerHTML = "";
 
         var img3 = new Image();
@@ -250,6 +252,9 @@ function cropImage() {
                 value.height
               );
 
+              document.getElementById("crop_btn").innerText = "Save";
+              // document.getElementById("crop_icon").style.display = "none";
+
               var img5 = new Image();
               img5.id = "clipped_img";
               img5.onload = function () {
@@ -260,7 +265,7 @@ function cropImage() {
                 ).style.display = "none";
                 document.querySelector(".croppr-region").style.display = "none";
                 document.querySelector("#output_div").appendChild(img5);
-                document.querySelector(".save_btn").onclick = function () {
+                document.querySelector("#crop_btn").onclick = function () {
                   window.location.href = "#";
                   document.querySelector(".box").style.borderRadius = "0px";
                   document.querySelector(".container2").style.borderRadius =
