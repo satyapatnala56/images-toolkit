@@ -108,7 +108,7 @@ function compressImage() {
   $("#file").remove();
   var reader = new FileReader();
   reader.onload = function () {
-    document.querySelector("#input_img .image_section img").src = reader.result;
+    // document.querySelector("#input_img .image_section img").src = reader.result;
     document.querySelector("#output_img .image_section img").src =
       reader.result;
 
@@ -132,18 +132,18 @@ function compressImage() {
     }, 300);
     ////loader end
 
-    document.querySelector(".info_section #input_table  #name").innerHTML =
-      input.name;
-    document.querySelector(".info_section #input_table  #type").innerHTML =
-      input.type;
-    document.querySelector(".info_section #input_table  #size").innerHTML =
-      parseInt(input.size) / 1000 + "kb";
-    document.querySelector(
-      ".info_section #input_table  #lastModifiedDate"
-    ).innerHTML = input.lastModifiedDate;
-    document.querySelector(
-      ".info_section #input_table  #lastModified"
-    ).innerHTML = input.lastModified;
+    // document.querySelector(".info_section #input_table  #name").innerHTML =
+    //   input.name;
+    // document.querySelector(".info_section #input_table  #type").innerHTML =
+    //   input.type;
+    // document.querySelector(".info_section #input_table  #size").innerHTML =
+    //   parseInt(input.size) / 1000 + "kb";
+    // document.querySelector(
+    //   ".info_section #input_table  #lastModifiedDate"
+    // ).innerHTML = input.lastModifiedDate;
+    // document.querySelector(
+    //   ".info_section #input_table  #lastModified"
+    // ).innerHTML = input.lastModified;
     ////compressing image
 
     document.querySelector(".info_section #output_table  #name").innerHTML =
@@ -214,9 +214,9 @@ function compressImage() {
               ".info_section #output_table  #lastModified"
             ).innerHTML = input.lastModified;
 
-            document.querySelector(
-              ".info_section #input_table  #name"
-            ).innerHTML = input.name;
+            // document.querySelector(
+            //   ".info_section #input_table  #name"
+            // ).innerHTML = input.name;
 
 
 
@@ -279,9 +279,9 @@ function compressImage() {
             ".info_section #output_table  #lastModified"
           ).innerHTML = input.lastModified;
 
-          document.querySelector(
-            ".info_section #input_table  #name"
-          ).innerHTML = input.name;
+          // document.querySelector(
+          //   ".info_section #input_table  #name"
+          // ).innerHTML = input.name;
 
           
           // can't compress to this size
@@ -343,9 +343,9 @@ function compressImage() {
               ".info_section #output_table  #lastModified"
             ).innerHTML = input.lastModified;
 
-            document.querySelector(
-              ".info_section #input_table  #name"
-            ).innerHTML = input.name;
+            // document.querySelector(
+            //   ".info_section #input_table  #name"
+            // ).innerHTML = input.name;
           }
         }
       }
@@ -395,8 +395,8 @@ function displayInfo(label, input) {
   const p = document.createElement("p");
   p.innerText = `${label} - ${readableBytes(file.size)}`;
   // document.getElementById("header_div").style.background = "green";
-  document.querySelector(".info_section #input_table  #name").innerHTML =
-    input.name;
+  // document.querySelector(".info_section #input_table  #name").innerHTML =
+  //   input.name;
 }
 
 function readableBytes(bytes) {

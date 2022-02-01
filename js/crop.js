@@ -265,7 +265,7 @@ function cropImage() {
                 ).style.display = "none";
                 document.querySelector(".croppr-region").style.display = "none";
                 document.querySelector("#output_div").appendChild(img5);
-                document.querySelector("#crop_btn").onclick = function () {
+                // document.querySelector("#crop_btn").onclick = function () {
                   window.location.href = "#";
                   document.querySelector(".box").style.borderRadius = "0px";
                   document.querySelector(".container2").style.borderRadius =
@@ -295,7 +295,7 @@ function cropImage() {
                         }
                       });
                     };
-                };
+                // };
               };
               img5.src = canvas.toDataURL();
             };
