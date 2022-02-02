@@ -225,10 +225,28 @@ function compressImage() {
               window.location.href = "#";
               document.querySelector(".container2").style.background = "none";
 
-              // document.querySelector(".box").style.background = "#ad81ee";
+              document.querySelector(".container2").style.background = "none";
+
+              document.querySelector(".box").style.background = "#ad81ee";
 
               document.querySelector("#content").style.display = "none";
+              document.querySelector(".thankyouBox").innerHTML =
+                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+              // alert("heloo")
+              container.style.height = "300px";
+              if (window.location.href.match("compress-an-image")) {
+                box.style.background = "#ad81ee";
+              } else if (window.location.href.match("compress-jpeg")) {
+                box.style.background = "#33cccc";
+              } else if (window.location.href.match("compress-png")) {
+                box.style.background = "#66b3ff";
+              } else if (window.location.href.match("compress-a-gif")) {
+                box.style.background = "#ff9966";
+              }
+              // document.querySelector(".box").style.background = "#ad81ee";
 
+              // document.querySelector("#content").style.display = "none"; 
+              document.getElementById("downloadButton").onclick = function (){
               var reader2 = new FileReader();
               reader2.onload = function () {
                 var url = window.URL.createObjectURL(blob);
@@ -246,6 +264,7 @@ function compressImage() {
               };
               reader2.readAsDataURL(blob);
             };
+          };
           },
           MIME_TYPE,
           QUALITY,
