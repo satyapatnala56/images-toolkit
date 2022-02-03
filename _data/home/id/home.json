@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/id/image-resize-printing"
+        },
+        {
+            "name": "Media Socail",
+            "description": "Socail Media gambar Resizer",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/id/social-media-resizer"
+        },
+        {
+            "name": "Resizer gambar",
+            "description": "Ubah ukuran gambar menjadi X ke Y inci/piksel",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/id/image-resizers-all"
+        },
+        {
+            "name": " Kompres Gambar",
+            "description": "Daftar Gambar Compresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/id/compress-image-all"
         }
     ]
 }

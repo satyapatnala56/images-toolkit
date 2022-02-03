@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/vi/image-resize-printing"
+        },
+        {
+            "name": "Truyền thông Socail",
+            "description": "Socail Media hình ảnh Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/vi/social-media-resizer"
+        },
+        {
+            "name": "Thay đổi hình ảnh",
+            "description": "Thay đổi kích thước hình ảnh thành X sang Y inches/pixels",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/vi/image-resizers-all"
+        },
+        {
+            "name": " Nén hình ảnh",
+            "description": "Danh sách các hình ảnh Compresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/vi/compress-image-all"
         }
     ]
 }

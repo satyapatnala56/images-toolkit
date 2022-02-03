@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/sv/image-resize-printing"
+        },
+        {
+            "name": "Socail Media",
+            "description": "Socail Media-bilder Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/sv/social-media-resizer"
+        },
+        {
+            "name": "Bildstorlek",
+            "description": "Bildens storlek till X till Y tum/pixlar",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/sv/image-resizers-all"
+        },
+        {
+            "name": " Komprimera bilder",
+            "description": "Lista över bilder komprimerare",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/sv/compress-image-all"
         }
     ]
 }
