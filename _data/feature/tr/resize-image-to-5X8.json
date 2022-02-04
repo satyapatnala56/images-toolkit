@@ -1,0 +1,443 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "H1": "Çevrimiçi görüntüyü 5X8 boyuta yeniden boyutlandırın ",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "uyarı",
+    "H2": "Bu araçla profesyonel gibi 5X8 görüntüyü yeniden boyutlandırın.",
+    "TITLE": "Görüntüyü yeniden boyutlandırma -En iyi araç 5X8 kolayca görüntüyü yeniden boyutlandırmak için.",
+    "META": "Bu kullanımı kolay araç ile bir görüntüyü 5X8 kolay bir şekilde yeniden boyutlandırın. İhtiyacınıza göre görüntüyü yeniden boyutlandırmak için en iyi araç. Herhangi bir kısıtlama olmadan istenen sonucu elde edin. Bu büyülü araç sadece birkaç tıklama ile x bir görüntüyü yeniden boyutlandırmak. Herhangi bir yazılım yüklemenize gerek yok.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "inç cinsinden görüntüler resizers",
+                "links": [
+                    {
+                        "name": "3X5'e resizer görüntüsü ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "resizer görüntüsü 4X6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "5X7'ye resizer görüntüsü ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "resizer görüntüsü 8X8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "resizer görüntüsü 8X10'a ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "resizer görüntüsü 8X11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "2X2 resizer görüntü ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "resizer görüntüsü 9X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "resizer görüntüsü 11X14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "resizer görüntüsü 11X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "resizer görüntüsü 12X18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "resizer görüntüsü 18X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "resizer görüntüsü 18X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "resizer görüntüsü 20X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "resizer görüntüsü 24X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "resizer görüntüsü 24X30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "resizer görüntüsü 24X48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "resizer görüntüsü 29X21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "resizer görüntüsü 30X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "resizer görüntüsü 30X40'a ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "piksel olarak görüntü yeniden boyutlandırıcılar",
+                "links": [
+                    {
+                        "name": "yeniden boyutlandırıcı görüntü 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "yeniden boyutlandırıcı görüntüsü 32X32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "resizer görüntüsü 42X59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "resizer görüntüsü 128X128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "resizer görüntüsü 21X29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "resizer görüntüsü 150X150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "resizer görüntüsü 168X168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "resizer görüntüsü 170X170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "resizer görüntüsü 254X94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "resizer görüntüsü 266X177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "resizer görüntüsü 300X300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "resizer görüntüsü 320X320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "resizer görüntüsü 385X256'ya ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "resizer görüntüsü 450X450'ye ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "resizer görüntüsü 500X500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "resizer görüntüsü 560X208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "resizer görüntüsü 630X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "resizer görüntüsü 700X800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "resizer görüntüsü 800X2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "yeniden boyutlandırıcı görüntü 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1000X524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1000X1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1024X768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "yeniden boyutlandırıcı görüntü 1080X1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1080X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "yeniden boyutlandırıcı görüntü 1080X1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1200X628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1200X630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1200X675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1200X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1280X720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1500X2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1584X396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1640X923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1920X480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1920X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "resizer görüntüsü 1958X745'e ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "resizer görüntüsü 2037X754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "resizer görüntü 2400X3000 için ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "resizer görüntüsü 2550X3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "resizer görüntü 2700X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "resizer görüntüsü 3300X4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "resizer görüntü 3300X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/tr/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Bir görüntü nasıl yeniden boyutlandırılır",
+        "steps": [
+            "Görüntüyü yükleyin veya açılan oka tıklayın ve açılan alana dosyanızı seçmek için Dropbox/Google Drive'ı seçin.",
+            "Daha iyi görüntü kalitesi için parametreleri ayarlayın.\n",
+            "Yapılan değişikliklere göz atarak “Önizleme” e tıklayın.",
+            "Yapılan değişiklikleri kaydedin.",
+            "Yaşasın!! görüntü kullanıma hazırdır."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+        },
+        {
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+        },
+        {
+            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
+        },
+        {
+            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+        },
+        {
+            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+        },
+        {
+            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
+        },
+        {
+            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
+        },
+        {
+            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
+            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+        },
+        {
+            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+        },
+        {
+            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+        },
+        {
+            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
+            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+        },
+        {
+            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+        },
+        {
+            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the image resizer tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        },
+        {
+            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/image-resize.css\" />"
+    ]
+}
