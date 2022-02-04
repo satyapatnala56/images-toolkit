@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Resizer media sosial",
+                "links": [
+                    {
+                        "name": "Resizer gambar Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/id/image-resize-facebook"
+                    },
+                    {
+                        "name": " Resizer gambar Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/id/image-resize-instagram"
+                    },
+                    {
+                        "name": " Resizer gambar Linkedin",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/id/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Resizer gambar email",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/id/image-resize-email"
+                    },
+                    {
+                        "name": " Resizer gambar Tiktok",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/id/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Twitter gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/id/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/id/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Resizer gambar Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/id/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Google Banner Iklan gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/id/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Resizer gambar perselisihan",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/id/image-resize-discord"
+                    },
+                    {
+                        "name": " Resizer gambar SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/id/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp gambar resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/id/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " resizer gambar squarespace",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/id/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Resizer gambar kedutan",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/id/image-resize-twitch"
+                    },
+                    {
+                        "name": " Mencetak resizer gambar",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/id/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

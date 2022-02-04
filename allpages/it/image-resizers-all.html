@@ -4,9 +4,9 @@ folderName: allpages
 fileName: image-resizers-all
 lang: it
 permalink: /it/image-resizers-all
-nointernationalization: true
 ---
 
+{% assign boxColor = site.data.allpages.it.all-resizer-urls%}
 <style>
     a:hover {
         text-decoration: underline;
@@ -14,13 +14,13 @@ nointernationalization: true
 </style>
 
 <div class="row m-0 mb-5">
-    {% for item in site.data.feature.en %}
-    {% if item[0] contains 'resize-image' %}
-    <li class="col-md-3 py-2 conver-list" style="list-style: none;">
-        <a href="/{{item[0]}}" style="color:#0d6efd!important;">
-            {{ item[0] | replace: "-"," " |capitalize}}
+    <ul class="sup-ul row col-md-12">
+    {% for object in boxColor %}
+    <li class="col-md-3 conver-list">
+        <a href="{{object.url}}" style="color:#0d6efd!important;">
+            {{ object.name }}
         </a>
     </li>
-    {% endif %}
     {% endfor %}
+    </ul>
 </div>

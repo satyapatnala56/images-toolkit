@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#9999ff",
+     "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "सोशल मीडिया रेज़िज़र",
+                "links": [
+                    {
+                        "name": "फेसबुक इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/hi/image-resize-facebook"
+                    },
+                    {
+                        "name": " इंस्टाग्राम इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/hi/image-resize-instagram"
+                    },
+                    {
+                        "name": " लिंक्डइन इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/hi/image-resize-linkedin"
+                    },
+                    {
+                        "name": " ईमेल इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/hi/image-resize-email"
+                    },
+                    {
+                        "name": " टिक्टॉक इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/hi/image-resize-tiktok"
+                    },
+                    {
+                        "name": " ट्विटर इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/hi/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest छवि पुनर्विक्रेता",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/hi/image-resize-pinterest"
+                    },
+                    {
+                        "name": "स्नैपचैट इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/hi/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Google बैनर विज्ञापन छवि पुनर्विक्रेता",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/hi/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " छवि पुनर्विक्रेता को त्यागें",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/hi/image-resize-discord"
+                    },
+                    {
+                        "name": " साउंडक्लाउड इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/hi/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " व्हाट्सएप इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/hi/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " स्क्वरस्पेस इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/hi/image-resize-squarespace"
+                    },
+                    {
+                        "name": " ट्विच इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/hi/image-resize-twitch"
+                    },
+                    {
+                        "name": " प्रिंटिंग इमेज रिसाइज़र",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/hi/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

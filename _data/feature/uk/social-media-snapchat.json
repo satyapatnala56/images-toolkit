@@ -14,7 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#9999ff",
-    "TEXTUAL_CONTENT": [
+  "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown":   
+        {
+                "categoryName": "Резизери соціальних медіа",
+                "links": [
+                    {
+                        "name": "Розмір зображення Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/uk/image-resize-facebook"
+                    },
+                    {
+                        "name": " Змінний розмір зображення в Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/uk/image-resize-instagram"
+                    },
+                    {
+                        "name": " Змінний розмір зображення LinkedIn",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/uk/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Зміна розміру зображення електронної пошти",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/uk/image-resize-email"
+                    },
+                    {
+                        "name": " Tiktok Resizer зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/uk/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Зміна розміру зображення Twitter",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/uk/image-resize-twitter"
+                    },
+                    {
+                        "name": " Зміна розміру зображення Pinterest",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/uk/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Змінний розмір зображення Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/uk/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Google Банероголошення Розмір зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/uk/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Зміна розміру зображення розбрату",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/uk/image-resize-discord"
+                    },
+                    {
+                        "name": " Звуковий змінювача зображень SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/uk/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp розмір зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/uk/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " squarespace зображення Resizerpace",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/uk/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Зміна розміру зображення Twitch",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/uk/image-resize-twitch"
+                    },
+                    {
+                        "name": " Друк зміни розміру зображення",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/uk/image-resize-printing"
+                    }
+                ]
+            }
+        },
+"TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",

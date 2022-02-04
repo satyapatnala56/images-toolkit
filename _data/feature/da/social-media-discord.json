@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Sociale medier resizers",
+                "links": [
+                    {
+                        "name": "Facebook billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/da/image-resize-facebook"
+                    },
+                    {
+                        "name": " Instagram billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/da/image-resize-instagram"
+                    },
+                    {
+                        "name": " Linkedin-billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/da/image-resize-linkedin"
+                    },
+                    {
+                        "name": " E-mail-billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/da/image-resize-email"
+                    },
+                    {
+                        "name": " Tiktok billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/da/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Twitter billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/da/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/da/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Snapchat billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/da/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Google Banner Ads billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/da/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Discord billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/da/image-resize-discord"
+                    },
+                    {
+                        "name": " SoundCloud billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/da/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/da/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " kvadratisk billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/da/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Twitch billede resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/da/image-resize-twitch"
+                    },
+                    {
+                        "name": " Udskrivning af billedresizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/da/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

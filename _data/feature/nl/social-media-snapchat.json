@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#9999ff",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Resizers van sociale media",
+                "links": [
+                    {
+                        "name": "Afbeeldingsgrootte van Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/nl/image-resize-facebook"
+                    },
+                    {
+                        "name": " Instagram-beeldgrootte",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/nl/image-resize-instagram"
+                    },
+                    {
+                        "name": " Linkedin beeldformaat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/nl/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Resizer voor e-mailafbeeldingen",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/nl/image-resize-email"
+                    },
+                    {
+                        "name": " Tiktok-afbeeldingsgrootte",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/nl/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Twitter-afbeeldingsgrootte",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/nl/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest-beeldformaat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/nl/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Snapchat-beeldformaat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/nl/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Afbeeldingsgrootte van Google Banner Ads-afbeeldingen",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/nl/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Discord-beeldformaat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/nl/image-resize-discord"
+                    },
+                    {
+                        "name": " SoundCloud-beeldresizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/nl/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " WhatsApp-beeldformaat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/nl/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " squarespace afbeeldingsresizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/nl/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Twitch-afbeeldingsresizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/nl/image-resize-twitch"
+                    },
+                    {
+                        "name": " Resizer voor afbeeldingen afdrukken",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/nl/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

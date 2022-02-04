@@ -14,7 +14,347 @@
     "META": "Cambia el tamaño de tus imágenes a una relación de 1920x480 al instante sin perder su calidad. Esta herramienta gratuita para cambiar el tamaño de imagen a 1920x480 le permite descargar las imágenes redimensionadas en formatos JPG, JPEG, PNG y WEBP sin necesidad de iniciar sesión.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#0D66D0",
+    "color": "#0D66D0",  
+    "megaMenu": {
+       "nav-link-name": "Tools",
+       "dropdown": [
+           {
+               "categoryName": "redimensionadores de imágenes en pulgadas",
+               "links": [
+                   {
+                       "name": "cambiar el tamaño de la imagen a 3X5 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-3X5"
+                   },
+                   {
+                       "name": "redimensionar imagen a 4X6 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-4X6"
+                   },
+                   {
+                       "name": "cambiar el tamaño de la imagen a 5X7 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-5X7"
+                   },
+                   {
+                       "name": "redimensionar imagen a 8X8",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-8X8"
+                   },
+                   {
+                       "name": "redimensionar imagen a 8X10 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-8X10"
+                   },
+                   {
+                       "name": "redimensionar imagen a 8X11 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-8X11"
+                   },
+                   {
+                       "name": "redimensionar imagen a 2X2 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-2X2"
+                   },
+                   {
+                       "name": "redimensionar imagen a 9X16 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-9X16"
+                   },
+                   {
+                       "name": "redimensionar imagen a 11X14 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-11X14"
+                   },
+                   {
+                       "name": "redimensionar imagen a 11X16 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-11X16"
+                   },
+                   {
+                       "name": "cambiar el tamaño de la imagen a 12X18 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-12X18"
+                   },
+                   {
+                       "name": "redimensionar imagen a 18X24 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-18X24"
+                   },
+                   {
+                       "name": "redimensionar imagen a 18X36 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-18X36"
+                   },
+                   {
+                       "name": "redimensionar imagen a 20X24 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-20X24"
+                   },
+                   {
+                       "name": "redimensionar imagen a 24X36 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-24X36"
+                   },
+                   {
+                       "name": "cambiar el tamaño de la imagen a 24X30 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-24X30"
+                   },
+                   {
+                       "name": "redimensionar imagen a 24X48 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-24X48"
+                   },
+                   {
+                       "name": "redimensionar imagen a 29X21 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-29X21"
+                   },
+                   {
+                       "name": "redimensionar imagen a 30X36 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-30X36"
+                   },
+                   {
+                       "name": "redimensionar imagen a 30X40 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-30X40"
+                   }
+               ]
+           },
+           {
+               "categoryName": "redimensionadores de imágenes en píxeles",
+               "links": [
+                   {
+                       "name": "redimensionar imagen a 900X1500 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-900X1500"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1200X1800 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1200X1800"
+                   },
+                   {
+                       "name": "redimensionar imagen a 32X32 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-32X32"
+                   },
+                   {
+                       "name": "redimensionar imagen a 42X59 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-42X59"
+                   },
+                   {
+                       "name": "redimensionar imagen a 128X128 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-128X128"
+                   },
+                   {
+                       "name": "redimensionar imagen a 21X29 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-21X29"
+                   },
+                   {
+                       "name": "redimensionar imagen a 150X150 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-150X150"
+                   },
+                   {
+                       "name": "redimensionar imagen a 168X168 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-168X168"
+                   },
+                   {
+                       "name": "redimensionar imagen a 170X170 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-170X170"
+                   },
+                   {
+                       "name": "redimensionar imagen a 254X94 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-254X94"
+                   },
+                   {
+                       "name": "redimensionar imagen a 266X177 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-266X177"
+                   },
+                   {
+                       "name": "redimensionar imagen a 300X300 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-300X300"
+                   },
+                   {
+                       "name": "redimensionar imagen a 320X320 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-320X320"
+                   },
+                   {
+                       "name": "redimensionar imagen a 385X256 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-385X256"
+                   },
+                   {
+                       "name": "redimensionar imagen a 450X450 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-450X450"
+                   },
+                   {
+                       "name": "redimensionar imagen a 500X500 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-500X500"
+                   },
+                   {
+                       "name": "redimensionar imagen a 560X208 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-560X208"
+                   },
+                   {
+                       "name": "redimensionar imagen a 630X1200 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-630X1200"
+                   },
+                   {
+                       "name": "redimensionar imagen a 700X800 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-700X800"
+                   },
+                   {
+                       "name": "redimensionar imagen a 800X2000 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-800X2000"
+                   },
+                   {
+                       "name": "redimensionar imagen a 900X1500 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-900X1500"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1000X524 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1000X524"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1000X1000 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1000X1000"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1024X768 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1024X768"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1080X1920 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1080X1920"
+                   },
+                   {
+                       "name": "imagen redimensionador a 1080X1080 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1080X1080"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1080X1350 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1080X1350"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1200X628 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1200X628"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1200X630 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1200X630"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1200X675 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1200X675"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1200X1200 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1200X1200"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1200X1800 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1200X1800"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1280X720 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1280X720"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1500X2100 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1500X2100"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1584X396 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1584X396"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1640X923 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1640X923"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1920X480 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1920X480"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1920X1080 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1920X1080"
+                   },
+                   {
+                       "name": "redimensionar imagen a 1958X745 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-1958X745"
+                   },
+                   {
+                       "name": "redimensionar imagen a 2037X754 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-2037X754"
+                   },
+                   {
+                       "name": "redimensionar imagen a 2400X3000 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-2400X3000"
+                   },
+                   {
+                       "name": "redimensionar imagen a 2550X3300 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-2550X3300"
+                   },
+                   {
+                       "name": "redimensionar imagen a 2700X4800 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-2700X4800"
+                   },
+                   {
+                       "name": "redimensionar imagen a 3300X4200 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-3300X4200"
+                   },
+                   {
+                       "name": "redimensionar imagen a 3300X4800 ",
+                       "iconSrc": "/img/resize.png",
+                       "url": "/es/resize-image-to-3300X4800"
+                   }
+               ]
+           }
+       ]
+   },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
