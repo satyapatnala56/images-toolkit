@@ -150,6 +150,15 @@
   width: 98px;
 }
 
+#thankyouImage{
+  margin-top: 18px !important;
+}
+
+#newFileSize{
+  font-size: 17px;
+  color: white;
+}
+
 @media (max-width: 1056px) {
   .info_section {
     padding-left: 60px;

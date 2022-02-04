@@ -16,6 +16,7 @@ var first = true;
 var second = false;
 var third = true;
 var forth = false;
+var fifth = false;
 let m = 0;
 let size = getScript.dataset.size;
 console.log(size);
@@ -103,6 +104,8 @@ const onFileChange = (file) => {
 };
 ////drag and drop ended
 
+let final_blob;
+
 function compressImage() {
   ////loader end
   $("#file").remove();
@@ -126,6 +129,12 @@ function compressImage() {
         document.querySelector(".container2").style.paddingLeft = "0px";
         document.querySelector(".container2").style.paddingRight = "0px";
         document.querySelector(".container2").style.height = "auto";
+
+        document.querySelector(".container2").style.background = "none";
+
+              document.querySelector(".box").style.background = "#ad81ee";
+
+              document.querySelector("#content").style.display = "none";
 
         clearInterval(ans);
       }
@@ -201,7 +210,7 @@ function compressImage() {
             document.querySelector(
               ".info_section #output_table  #type"
             ).innerHTML = blob.type;
-            let final_blob = parseInt(blob.size) / 1024;
+            final_blob = parseInt(blob.size) / 1024;
             document.querySelector(
               ".info_section #output_table  #size"
             ).innerHTML =
@@ -221,7 +230,8 @@ function compressImage() {
 
 
 
-            document.querySelector("#saving_image").onclick = function () {
+            // document.querySelector("#saving_image").onclick = function () {
+              if(fifth == true){
               window.location.href = "#";
               document.querySelector(".container2").style.background = "none";
 
@@ -231,8 +241,11 @@ function compressImage() {
 
               document.querySelector("#content").style.display = "none";
               document.querySelector(".thankyouBox").innerHTML =
-                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p><p id = "newFileSize">New file size : </p><a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
               // alert("heloo")
+
+              document.querySelector("#newFileSize").innerHTML = "New file size: " + Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
+              document.querySelector("#newFileSize").style.color = "ffffff"
               container.style.height = "300px";
               if (window.location.href.match("compress-an-image")) {
                 box.style.background = "#ad81ee";
@@ -264,6 +277,7 @@ function compressImage() {
               };
               reader2.readAsDataURL(blob);
             };
+          // };
           };
           },
           MIME_TYPE,
@@ -277,6 +291,7 @@ function compressImage() {
         if (m == 0 && blob.size / 1024 > size) {
           first = false;
           third = false;
+          fifth = true;
           console.log("hi");
 
 
@@ -331,6 +346,7 @@ function compressImage() {
               second = false;
               third = false;
               forth = true;
+              fifth = true;
               m = Math.round((m + Number.EPSILON) * 100) / 100;
               callback(m);
             }
@@ -343,6 +359,7 @@ function compressImage() {
             }
           }
           if (forth == true) {
+            console.log("HIII")
             document.querySelector(
               ".info_section #output_table  #name"
             ).innerHTML = "C_" + input.name;
