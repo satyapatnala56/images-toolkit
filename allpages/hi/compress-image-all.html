@@ -1,0 +1,25 @@
+---
+layout: home
+folderName: allpages
+fileName: compress-image-all
+lang: hi
+permalink: /hi/compress-image-all
+---
+{% assign boxColor = site.data.allpages.en.all-compress-url%}
+<style>
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<div class="row m-0 mb-5">
+    <ul class="sup-ul row col-md-12">
+    {% for object in boxColor %}
+    <li class="col-md-3 conver-list">
+        <a href="{{object.url}}" style="color:#0d6efd!important;">
+            {{ object.name }}
+        </a>
+    </li>
+    {% endfor %}
+    </ul>
+</div>
