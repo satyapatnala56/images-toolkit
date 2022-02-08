@@ -2,7 +2,7 @@
     "Language": "Français",
     "htmlLangAtt": "fr",
     "h1": "SafeImageKit.com - Le moyen le plus sûr de traiter vos images",
-    "h2": "Aucun fichier n'est envoyé au serveur. 100% sécurisé.",
+    "h2": "Aucun fichier n'est envoyé au serveur. 100% sûr.",
     "TITLE": "SafeImageKit.com - Le moyen le plus sûr de traiter vos images",
     "META": "Utilisez SafeImageKit.com pour traiter vos images en toute sécurité, gratuitement en ligne. Plusieurs opérations sont prises en charge.",
     "keywords": "",
@@ -22,14 +22,14 @@
             "url": "/fr/compress-an-image"
         },
         {
-            "name": "Splitter d'images ",
-            "description": "Fractionne l'image",
+            "name": "séparateur d'image ",
+            "description": "Divise l'image",
             "color": "#ff6666",
             "icon": "/img/home/split.png",
             "url": "/fr/split-photo"
         },
         {
-            "name": "Compression Jpeg ",
+            "name": "Compression JPEG ",
             "description": "Compresse l'image JPEG",
             "color": "#33cccc",
             "icon": "/img/home/compressjpeg.png",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Compression Gif ",
-            "description": "Compresse l'image gif",
+            "description": "Compresse l'image GIF",
             "color": "#ff9966",
             "icon": "/img/home/compressgif.png",
             "url": "/fr/compress-a-gif"
@@ -57,14 +57,14 @@
             "url": "/fr/image-comparison"
         },
         {
-            "name": "Recadrage d'image",
+            "name": "Rognage d'image",
             "description": "Image des cultures",
             "color": "#ff704d",
             "icon": "/img/home/crop.png",
             "url": "/fr/crop-image"
         },
         {
-            "name": "Addateur de filtre d'image",
+            "name": "Adder filtre d'image",
             "description": "Ajouter des filtres à une image",
             "color": "#00b8e6",
             "icon": "/img/home/filter.png",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Flipper d'image",
-            "description": "Retonnement/Rotation de l'image",
+            "description": "Retour/fait pivoter l'image",
             "color": "#9999ff",
             "icon": "/img/home/rotate.png",
             "url": "/fr/flip-image"
@@ -99,7 +99,7 @@
             "url": "/fr/image-resize"
         },
         {
-            "name": "Créateur d'images filigranes",
+            "name": "Créateur d'image filigrane",
             "description": "Création d'images en filigrane",
             "color": "red",
             "icon": "/img/home/watermark.png",
@@ -113,8 +113,8 @@
             "url": "/fr/qr-code-generator"
         },
         {
-            "name": " Convertisseur d'image en image pixelée",
-            "description": "Convertit l'image en Pixel art",
+            "name": " Convertisseur d'image en image pixellisée",
+            "description": "Convertit une image en Pixel Art",
             "color": "#ff5975",
             "icon": "/img/home/pixelated.png",
             "url": "/fr/pixel-art-maker"
@@ -176,7 +176,7 @@
             "url": "/fr/image-resize-snapchat"
         },
         {
-            "name": " Image Google Banner Ads Snapchat",
+            "name": " Image de Google Banner Ads Snapchat",
             "description": "Redimensionner les images pour les bannières publicitaires Google",
             "color": "#ea4335",
             "icon": "/img/imageResizer-assets/google.svg",
@@ -218,11 +218,32 @@
             "url": "/fr/image-resize-twitch"
         },
         {
-            "name": " impression",
+            "name": " Impression",
             "description": "Redimensionner les images pour l'impression",
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/fr/image-resize-printing"
+        },
+        {
+            "name": "Réseaux sociaux",
+            "description": "Resizers d'images de médias sociaux",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/fr/social-media-resizer"
+        },
+        {
+            "name": "Redimensionneurs d'image",
+            "description": "Redimensionner l'image en X à Y pouces/pixels",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/fr/image-resizers-all"
+        },
+        {
+            "name": " Compresser les images",
+            "description": "Liste des images Compresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/fr/compress-image-all"
         }
     ]
 }

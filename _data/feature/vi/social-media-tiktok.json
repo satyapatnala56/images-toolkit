@@ -14,7 +14,92 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
-    "TEXTUAL_CONTENT": [
+      "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+ {
+                "categoryName": "Bộ thay đổi phương tiện truyền thông xã hội",
+                "links": [
+                    {
+                        "name": "Trình chỉnh sửa hình ảnh Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/vi/image-resize-facebook"
+                    },
+                    {
+                        "name": " Trình chỉnh sửa hình ảnh Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/vi/image-resize-instagram"
+                    },
+                    {
+                        "name": " Trình thay đổi hình ảnh Linkedin",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/vi/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Thay đổi hình ảnh email",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/vi/image-resize-email"
+                    },
+                    {
+                        "name": " Trình chỉnh sửa hình ảnh Tiktok",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/vi/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Twitter resizer hình ảnh",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/vi/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest Resizer hình ảnh",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/vi/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Snapchat Resizer hình ảnh",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/vi/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Trình chỉnh sửa hình ảnh Google Banner Ads",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/vi/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Bộ thay đổi hình ảnh Discord",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/vi/image-resize-discord"
+                    },
+                    {
+                        "name": " Bộ thay đổi hình ảnh SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/vi/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Trình chỉnh sửa hình ảnh Whatsapp",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/vi/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " squarespace hình ảnh resizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/vi/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Trình chỉnh lại hình ảnh Twitch",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/vi/image-resize-twitch"
+                    },
+                    {
+                        "name": " In resizer hình ảnh",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/vi/image-resize-printing"
+                    }
+                ]
+                    }
+       ]
+    },
+"TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",

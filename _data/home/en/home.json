@@ -223,6 +223,27 @@
       "color": "#26d0c7",
       "icon": "/img/imageResizer-assets/printing.svg",
       "url": "/image-resize-printing"
+    },
+    {
+      "name": "Socail Media",
+      "description": "Socail Media images Resizers",
+      "color": "#ea4335",
+      "icon": "/img/imageResizer-assets/whatsapp.svg",
+      "url": "/social-media-resizer"
+    },
+    {
+      "name": "Image resizers",
+      "description": "Image resize into X to Y inches/pixels",
+      "color": "#ffbb33",
+      "icon": "/img/home/resize.png",
+      "url": "/image-resizers-all"
+    },
+    {
+      "name": " Compress Images",
+      "description": "List of Images Compresser",
+      "color": "#ad81ee",
+      "icon": "/img/home/compressimg.png",
+      "url": "/compress-image-all"
     }
   ]
 }

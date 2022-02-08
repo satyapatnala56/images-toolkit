@@ -15,6 +15,346 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "thay đổi hình ảnh trong inch",
+                "links": [
+                    {
+                        "name": "resizer hình ảnh để 3X5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 4X6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 5X7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 8X8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 8X10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 8X11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2X2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 9X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 11X14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 11X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 12X18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 18X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 18X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 20X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 24X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 24X30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 24X48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 29X21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 30X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 30X40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "thay đổi hình ảnh trong pixel",
+                "links": [
+                    {
+                        "name": "resizer hình ảnh để 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "resizer image để 32X32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "resizer image để 42X59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 128X128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 21X29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 150X150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 168X168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 170X170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 254X94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 266X177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 300X300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 320X320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 385X256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 450X450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 500X500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 560X208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 630X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 700X800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 800X2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1000X524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1000X1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1024X768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1080X1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1080X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1080X1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1280X720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1500X2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1584X396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1640X923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1920X480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1920X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1958X745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2037X754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2400X3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2550X3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2700X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 3300X4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 3300X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

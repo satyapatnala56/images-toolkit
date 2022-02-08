@@ -15,6 +15,346 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "画像リサイザー (インチ)",
+                "links": [
+                    {
+                        "name": "イメージを 3X5 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "イメージのサイズを 4X6 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "イメージのサイズを 5X7 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "画像を8X8にリサイズする",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "イメージのサイズを 8X10 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "イメージのサイズを 8X11 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "イメージを 2X2 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "イメージのサイズを 9X16 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "画像を11X14にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "画像を11X16にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "画像を12X18にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "画像のサイズを 18X24 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "画像を18X36にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "イメージのサイズを 20X24 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "画像を24X36にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "イメージを24X30にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "イメージを24X48にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "イメージのサイズを 29X21 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "イメージを30X36にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "イメージを30X40にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "画像リサイザー (ピクセル単位)",
+                "links": [
+                    {
+                        "name": "イメージを900X1500にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "イメージを1200X1800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "イメージを32X32にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "画像を42X59にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "イメージを128X128にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "イメージを21X29にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "イメージを150X150にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "イメージを168X168にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "イメージのサイズを 170X170 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "イメージを254X94にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "イメージを266X177にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "イメージを300X300にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "イメージを320X320にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "イメージを385X256にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "イメージのサイズを 450X450 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "イメージを500X500にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "イメージを560X208にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "イメージを630X1200にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "イメージを700X800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "イメージを 800X2000 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "イメージを900X1500にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "イメージを 1000X524 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "イメージを1000X1000にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "イメージを1024X768にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "イメージを1080X1920にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "イメージを1080X1080にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "イメージを1080X1350にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "イメージを1200X628にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "イメージを1200X630にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "イメージを1200X675にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "イメージを1200X1200にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "イメージを1200X1800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "イメージを1280X720にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "イメージを1500X2100にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "イメージを1584X396にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "イメージを1640X923にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "イメージを1920X480にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "イメージを1920X1080にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "イメージを1958X745にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "イメージを2037X754にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "イメージを2400X3000にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "イメージを2550X3300にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "イメージを2700X4800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "イメージを3300X4200にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "イメージを3300X4800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/uk/image-resize-printing"
+        },
+        {
+            "name": "Сокейл Медіа",
+            "description": "Socail Медіа Зображення Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/uk/social-media-resizer"
+        },
+        {
+            "name": "Резизатори зображень",
+            "description": "Розмір зображення в X до Y дюймів/пікселів",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/uk/image-resizers-all"
+        },
+        {
+            "name": " Стиснути зображення",
+            "description": "Список зображень Compresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/uk/compress-image-all"
         }
     ]
 }

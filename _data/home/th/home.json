@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/th/image-resize-printing"
+        },
+        {
+            "name": "โซเคล สื่อ",
+            "description": "Socail สื่อภาพ Residenzers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/th/social-media-resizer"
+        },
+        {
+            "name": "ตัวปรับขนาดภาพ",
+            "description": "ปรับขนาดภาพเป็น X เป็น Y นิ้ว/พิกเซล",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/th/image-resizers-all"
+        },
+        {
+            "name": " บีบอัดรูปภาพ",
+            "description": "รายการของคอมเพรสเซอร์รูปภาพ",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/th/compress-image-all"
         }
     ]
 }

@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "소셜 미디어 리사이저",
+                "links": [
+                    {
+                        "name": "페이스 북 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/ko/image-resize-facebook"
+                    },
+                    {
+                        "name": " 인스타그램 이미지 크기 조정",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/ko/image-resize-instagram"
+                    },
+                    {
+                        "name": " 링크드인 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/ko/image-resize-linkedin"
+                    },
+                    {
+                        "name": " 이메일 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/ko/image-resize-email"
+                    },
+                    {
+                        "name": " 틱톡 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/ko/image-resize-tiktok"
+                    },
+                    {
+                        "name": " 트위터 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/ko/image-resize-twitter"
+                    },
+                    {
+                        "name": " 핀터레스트 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/ko/image-resize-pinterest"
+                    },
+                    {
+                        "name": "스냅챗 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/ko/image-resize-snapchat"
+                    },
+                    {
+                        "name": " 구글 배너 광고 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/ko/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " 디스코드 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/ko/image-resize-discord"
+                    },
+                    {
+                        "name": " 사운드클라우드 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/ko/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " 왓츠앱 이미지 크기 조정",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/ko/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " 네모스페이스 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/ko/image-resize-squarespace"
+                    },
+                    {
+                        "name": " 트위치 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/ko/image-resize-twitch"
+                    },
+                    {
+                        "name": " 인쇄 이미지 리사이저",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/ko/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

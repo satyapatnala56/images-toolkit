@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Ресайзеры социальных сетей",
+                "links": [
+                    {
+                        "name": "Измеритель размера изображений Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/ru/image-resize-facebook"
+                    },
+                    {
+                        "name": " Ресайзер изображений в Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/ru/image-resize-instagram"
+                    },
+                    {
+                        "name": " Измеритель размера изображения Linkedin",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/ru/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Ресайзер изображений электронной почты",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/ru/image-resize-email"
+                    },
+                    {
+                        "name": " Измеритель размера изображения Tiktok",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/ru/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Измеритель размера изображений Twitter",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/ru/image-resize-twitter"
+                    },
+                    {
+                        "name": " Измеритель размера изображения Pinterest",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/ru/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Измеритель размера изображения Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/ru/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Изменение размера изображения баннерной рекламы Google",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/ru/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Изменить размер изображения Discord",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/ru/image-resize-discord"
+                    },
+                    {
+                        "name": " Измеритель размера изображений SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/ru/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Изменить размер изображения Whatsapp",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/ru/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " средство изменения размера квадратного изображения",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/ru/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Изменить размер изображения Twitch",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/ru/image-resize-twitch"
+                    },
+                    {
+                        "name": " Ресайзер для печати изображений",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/ru/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

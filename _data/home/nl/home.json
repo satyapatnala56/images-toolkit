@@ -15,21 +15,21 @@
             "url": "/nl/ascii-art-from-image"
         },
         {
-            "name": "Compressie van het beeld ",
-            "description": "Comprimeert het beeld",
+            "name": "Compressie van afbeeldingen ",
+            "description": "Comprimeert afbeelding",
             "color": "#ad81ee",
             "icon": "/img/home/compressimg.png",
             "url": "/nl/compress-an-image"
         },
         {
-            "name": "Beeldsplitter ",
+            "name": "Image Splitter ",
             "description": "Splits afbeelding",
             "color": "#ff6666",
             "icon": "/img/home/split.png",
             "url": "/nl/split-photo"
         },
         {
-            "name": "JPEG-compressie ",
+            "name": "Jpeg-compressie ",
             "description": "Comprimeert jpeg-afbeelding",
             "color": "#33cccc",
             "icon": "/img/home/compressjpeg.png",
@@ -43,7 +43,7 @@
             "url": "/nl/compress-png"
         },
         {
-            "name": "GIF-compressie ",
+            "name": "Gif-compressie ",
             "description": "Comprimeert gif-afbeelding",
             "color": "#ff9966",
             "icon": "/img/home/compressgif.png",
@@ -64,7 +64,7 @@
             "url": "/nl/crop-image"
         },
         {
-            "name": "Adder voor beeldfilter",
+            "name": "Image Filter Adder",
             "description": "Filters toevoegen aan een afbeelding",
             "color": "#00b8e6",
             "icon": "/img/home/filter.png",
@@ -78,7 +78,7 @@
             "url": "/nl/meme-generator"
         },
         {
-            "name": "Tekst-naar-beeldconverter",
+            "name": "Converter van tekst naar afbeelding",
             "description": "Converteert tekst naar afbeelding",
             "color": "#ff8533",
             "icon": "/img/home/texttoimage.png",
@@ -86,143 +86,164 @@
         },
         {
             "name": "Afbeelding Flipper",
-            "description": "Afbeelding Flips/Roteert",
+            "description": "Afbeelding ombladen/roteert",
             "color": "#9999ff",
             "icon": "/img/home/rotate.png",
             "url": "/nl/flip-image"
         },
         {
-            "name": "Image Resizer",
-            "description": "Verandert de grootte van afbeelding",
+            "name": "Beeldresizer",
+            "description": "Afbeelding van grootte wijzigen",
             "color": "#ffbb33",
             "icon": "/img/home/resize.png",
             "url": "/nl/image-resize"
         },
         {
-            "name": "Maker van watermerk",
+            "name": "Maker van watermerken",
             "description": "Maakt watermerkafbeeldingen",
             "color": "red",
             "icon": "/img/home/watermark.png",
             "url": "/nl/watermark-for-photos"
         },
         {
-            "name": " QR-codegenerator",
+            "name": " QR-code-generator",
             "description": "Genereert QR-code",
             "color": "#d24dff",
             "icon": "/img/home/qr-code.png",
             "url": "/nl/qr-code-generator"
         },
         {
-            "name": " Afbeelding naar pixelate-beeldconverter",
-            "description": "Converteert afbeelding naar pixelart",
+            "name": " Beeld - naar pixelate beeldconverter",
+            "description": "Zet afbeelding om in pixelkunst",
             "color": "#ff5975",
             "icon": "/img/home/pixelated.png",
             "url": "/nl/pixel-art-maker"
         },
         {
-            "name": "Afbeeldingsgrootte van Facebook",
-            "description": "Afbeeldingen wijzigen voor facebook",
+            "name": "Facebook-beeldresizer",
+            "description": "Formaat van afbeeldingen wijzigen voor facebook",
             "color": "#1773ea",
             "icon": "/img/imageResizer-assets/facebook.svg",
             "url": "/nl/image-resize-facebook"
         },
         {
-            "name": " Instagram-beeldgrootte",
-            "description": "Afbeeldingen wijzigen voor instagram",
+            "name": " Instagram-beeldresizer",
+            "description": "Formaat van afbeeldingen wijzigen voor instagram",
             "color": "#f00075",
             "icon": "/img/imageResizer-assets/instagram.svg",
             "url": "/nl/image-resize-instagram"
         },
         {
-            "name": " Linkedin beeldformaat",
-            "description": "Het formaat van afbeeldingen wijzigen voor linkedin",
+            "name": " Linkedin-beeldresizer",
+            "description": "Formaat van afbeeldingen wijzigen voor linkedin",
             "color": "#0a66c2",
             "icon": "/img/imageResizer-assets/linkdin.svg",
             "url": "/nl/image-resize-linkedin"
         },
         {
             "name": " Resizer voor e-mailafbeeldingen",
-            "description": "De grootte van afbeeldingen wijzigen voor e-mail",
+            "description": "Formaat van afbeeldingen wijzigen voor e-mail",
             "color": "#D44638",
             "icon": "/img/imageResizer-assets/gmail.svg",
             "url": "/nl/image-resize-email"
         },
         {
-            "name": " Tiktok-afbeeldingsgrootte",
-            "description": "Afbeeldingen wijzigen voor tiktok",
+            "name": " Tiktok-beeldresizer",
+            "description": "Formaat van afbeeldingen wijzigen voor tiktok",
             "color": "#D44638",
             "icon": "/img/imageResizer-assets/tiktok.svg",
             "url": "/nl/image-resize-tiktok"
         },
         {
-            "name": " Twitter-afbeeldingsgrootte",
-            "description": "Afbeeldingen wijzigen voor twitter",
+            "name": " Twitter-beeldresizer",
+            "description": "Formaat van afbeeldingen wijzigen voor twitter",
             "color": "#1da1f2",
             "icon": "/img/imageResizer-assets/twitter.svg",
             "url": "/nl/image-resize-twitter"
         },
         {
-            "name": " Pinterest-beeldformaat",
-            "description": "Het formaat van afbeeldingen wijzigen voor pinterest",
+            "name": " Pinterest-beeldresizer",
+            "description": "Afbeeldingen wijzigen voor pinterest",
             "color": "#bd081c",
             "icon": "/img/imageResizer-assets/pinterest.svg",
             "url": "/nl/image-resize-pinterest"
         },
         {
-            "name": "Snapchat-beeldformaat",
-            "description": "Het formaat van afbeeldingen wijzigen voor snapchat",
+            "name": "Snapchat-beeldresizer",
+            "description": "Formaat van afbeeldingen wijzigen voor snapchat",
             "color": "#9999ff",
             "icon": "/img/imageResizer-assets/snapchat-white.svg",
             "url": "/nl/image-resize-snapchat"
         },
         {
             "name": " Google Banner Ads-afbeelding Snapchat",
-            "description": "Afbeeldingen wijzigen voor google banneradvertenties",
+            "description": "Formaat van afbeeldingen wijzigen voor google banneradvertenties",
             "color": "#ea4335",
             "icon": "/img/imageResizer-assets/google.svg",
             "url": "/nl/image-resize-google-banner-ads"
         },
         {
             "name": " Onenigheid",
-            "description": "Het formaat van afbeeldingen wijzigen voor onenigheid",
+            "description": "Formaat van afbeeldingen wijzigen voor onenigheid",
             "color": "#535fee",
             "icon": "/img/imageResizer-assets/discord.svg",
             "url": "/nl/image-resize-discord"
         },
         {
             "name": " SoundCloud",
-            "description": "Het formaat van afbeeldingen wijzigen voor soundcloud",
+            "description": "Formaat van afbeeldingen wijzigen voor soundcloud",
             "color": "#f77b00",
             "icon": "/img/imageResizer-assets/soundcloud.svg",
             "url": "/nl/image-resize-soundcloud"
         },
         {
             "name": " Whatsapp",
-            "description": "Het formaat van afbeeldingen wijzigen voor whatsapp",
+            "description": "Afbeeldingen wijzigen voor whatsapp",
             "color": "#ea4335",
             "icon": "/img/imageResizer-assets/whatsapp.svg",
             "url": "/nl/image-resize-whatsapp"
         },
         {
-            "name": " squarespace",
-            "description": "De grootte van afbeeldingen wijzigen voor squarespace",
+            "name": " vierkante ruimte",
+            "description": "Formaat van afbeeldingen wijzigen voor squarespace",
             "color": "#8c44f7",
             "icon": "/img/imageResizer-assets/squarespace.svg",
             "url": "/nl/image-resize-squarespace"
         },
         {
             "name": " Zenuwtrekking",
-            "description": "Afbeeldingen wijzigen voor twitch",
+            "description": "Formaat van afbeeldingen wijzigen voor twitch",
             "color": "#8c44f7",
             "icon": "/img/imageResizer-assets/twitch.svg",
             "url": "/nl/image-resize-twitch"
         },
         {
             "name": " Afdrukken",
-            "description": "Afbeeldingen verkleinen om af te drukken",
+            "description": "Formaat van afbeeldingen wijzigen om te printen",
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/nl/image-resize-printing"
+        },
+        {
+            "name": "Sociale media",
+            "description": "Socail Media afbeeldingen Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/nl/social-media-resizer"
+        },
+        {
+            "name": "Beeldresizers",
+            "description": "Het formaat van de afbeelding wijzigen in X naar Y inch/pixels",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/nl/image-resizers-all"
+        },
+        {
+            "name": " Afbeeldingen comprimeren",
+            "description": "Lijst met beeldcompresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/nl/compress-image-all"
         }
     ]
 }

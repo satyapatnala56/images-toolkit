@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "社交媒體調整大小",
+                "links": [
+                    {
+                        "name": "臉書圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/zh-tw/image-resize-facebook"
+                    },
+                    {
+                        "name": " Instagram 圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/zh-tw/image-resize-instagram"
+                    },
+                    {
+                        "name": " 領英圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/zh-tw/image-resize-linkedin"
+                    },
+                    {
+                        "name": " 電子郵件圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/zh-tw/image-resize-email"
+                    },
+                    {
+                        "name": " 蒂克託克圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/zh-tw/image-resize-tiktok"
+                    },
+                    {
+                        "name": " 推特圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/zh-tw/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest 圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/zh-tw/image-resize-pinterest"
+                    },
+                    {
+                        "name": "快照圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/zh-tw/image-resize-snapchat"
+                    },
+                    {
+                        "name": " 谷歌橫幅廣告圖片調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/zh-tw/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " 不和諧的圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/zh-tw/image-resize-discord"
+                    },
+                    {
+                        "name": " 聲雲圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/zh-tw/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp 圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/zh-tw/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " 平方變更圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/zh-tw/image-resize-squarespace"
+                    },
+                    {
+                        "name": " 抽搐圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/zh-tw/image-resize-twitch"
+                    },
+                    {
+                        "name": " 打印圖像調整大小",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/zh-tw/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

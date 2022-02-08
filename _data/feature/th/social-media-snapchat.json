@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#9999ff",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+             {
+                "categoryName": "โซเชียลมีเดีย",
+                "links": [
+                    {
+                        "name": "ตัวปรับขนาดรูปภาพ Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/th/image-resize-facebook"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพ Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/th/image-resize-instagram"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพ Linkedin",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/th/image-resize-linkedin"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดรูปภาพอีเมล",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/th/image-resize-email"
+                    },
+                    {
+                        "name": " ทิกต็อก อิมเมจ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/th/image-resize-tiktok"
+                    },
+                    {
+                        "name": " ปรับขนาดภาพทวิตเตอร์",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/th/image-resize-twitter"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพ Pinterest",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/th/image-resize-pinterest"
+                    },
+                    {
+                        "name": "ตัวปรับขนาดภาพ Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/th/image-resize-snapchat"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดรูปภาพโฆษณาแบนเนอร์ของ Google",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/th/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพไม่ลงรอยกัน",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/th/image-resize-discord"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพ SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/th/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพ Whatsapp",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/th/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพสแควร์สเปซ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/th/image-resize-squarespace"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพ Twitch",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/th/image-resize-twitch"
+                    },
+                    {
+                        "name": " ตัวปรับขนาดภาพพิมพ์",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/th/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

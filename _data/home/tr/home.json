@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/tr/image-resize-printing"
+        },
+        {
+            "name": "Socail Medya",
+            "description": "Socail Media Resizers görüntüleri",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/tr/social-media-resizer"
+        },
+        {
+            "name": "Görüntü yeniden boyutlandırıcılar",
+            "description": "Görüntü X ile Y inç/piksel olarak yeniden boyutlandırılır",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/tr/image-resizers-all"
+        },
+        {
+            "name": " Resimleri Sıkıştırma",
+            "description": "Görüntü Sıkıştırıcı Listesi",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/tr/compress-image-all"
         }
     ]
 }

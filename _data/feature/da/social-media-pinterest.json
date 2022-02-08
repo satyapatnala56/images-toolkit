@@ -14,6 +14,12 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+         
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

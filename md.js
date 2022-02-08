@@ -5,7 +5,7 @@ let home = {
 }
 
 let features = {
-  dir: './pages/',
+  dir: './allpages/',
 }
 
 let fl = fs.readdirSync(features.dir + 'en')

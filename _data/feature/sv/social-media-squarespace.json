@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Motsvarande för sociala medier",
+                "links": [
+                    {
+                        "name": "Bild-resizer för Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/sv/image-resize-facebook"
+                    },
+                    {
+                        "name": " Image Resizer för Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/sv/image-resize-instagram"
+                    },
+                    {
+                        "name": " Linkedin bildstorlek",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/sv/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Bildstorlek för e-post",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/sv/image-resize-email"
+                    },
+                    {
+                        "name": " Tiktok bildstorlek",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/sv/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Twitter-bildstorlek",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/sv/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest bildstorlek",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/sv/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Snapchat bildresizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/sv/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Bilderskydd för Google Banner Ads",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/sv/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Bildresizer för oenighet",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/sv/image-resize-discord"
+                    },
+                    {
+                        "name": " SoundCloud-bildstorlek",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/sv/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapps bildresizer",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/sv/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " bildresizer för fyrkantig rymd",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/sv/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Rycka bildstorlek",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/sv/image-resize-twitch"
+                    },
+                    {
+                        "name": " Skriva ut bildstorlek",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/sv/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

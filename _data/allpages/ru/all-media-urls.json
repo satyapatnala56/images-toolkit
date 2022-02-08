@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Facebook image resizer",
+        "url": "/ru/image-resize-facebook"
+    },
+    {
+        "name": "Discord image resizer",
+        "url": "/ru/image-resize-discord"
+    },
+    {
+        "name": "Email image resizer",
+        "url": "/ru/image-resize-email"
+    },
+    {
+        "name": "Google Banner Ads image resizer",
+        "url": "/ru/image-resize-google-banner-ads"
+    },
+    {
+        "name": "Instagram image resizer",
+        "url": "/ru/image-resize-instagram"
+    },
+    {
+        "name": "Linkedin image resizer",
+        "url": "/ru/image-resize-linkedin"
+    },
+    {
+        "name": "Pinterest image resizer",
+        "url": "/ru/image-resize-pinterest"
+    },
+    {
+        "name": "Printing image resizer",
+        "url": "/ru/image-resize-printing"
+    },
+    {
+        "name": "Snapchat image resizer",
+        "url": "/ru/image-resize-snapchat"
+    },
+    {
+        "name": "Soundcloud image resizer",
+        "url": "/ru/image-resize-soundcloud"
+    },
+    {
+        "name": "Squarespace image resizer",
+        "url": "/ru/image-resize-squarespace"
+    },
+    {
+        "name": "Tiktok image resizer",
+        "url": "/ru/image-resize-tiktok"
+    },
+    {
+        "name": "Twitch image resizer",
+        "url": "/ru/image-resize-twitch"
+    },
+    {
+        "name": "Whatsapp image resizer",
+        "url": "/ru/image-resize-whatsapp"
+    }
+]

@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/pl/image-resize-printing"
+        },
+        {
+            "name": "Nośniki do gniazdo",
+            "description": "Socail Media obrazy Rezyzatory",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/pl/social-media-resizer"
+        },
+        {
+            "name": "Rezeratory obrazu",
+            "description": "Zmiana rozmiaru obrazu na X do Y/piksele",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/pl/image-resizers-all"
+        },
+        {
+            "name": " Kompresuj obrazy",
+            "description": "Lista obrazów Compresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/pl/compress-image-all"
         }
     ]
 }

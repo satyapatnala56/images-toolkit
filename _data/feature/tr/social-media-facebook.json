@@ -14,7 +14,92 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
-    "TEXTUAL_CONTENT": [
+     "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Sosyal medya yeniden boyutlandırıcıları",
+                "links": [
+                    {
+                        "name": "Facebook resim yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/tr/image-resize-facebook"
+                    },
+                    {
+                        "name": " Instagram görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/tr/image-resize-instagram"
+                    },
+                    {
+                        "name": " Linkedin görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/tr/image-resize-linkedin"
+                    },
+                    {
+                        "name": " E-posta resim yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/tr/image-resize-email"
+                    },
+                    {
+                        "name": " Tiktok görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/tr/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Twitter görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/tr/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/tr/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Snapchat görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/tr/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Google Banner Reklamları resim yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/tr/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Discord görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/tr/image-resize-discord"
+                    },
+                    {
+                        "name": " SoundCloud görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/tr/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/tr/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " kare pace görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/tr/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Twitch görüntü yeniden boyutlandırıcı",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/tr/image-resize-twitch"
+                    },
+                    {
+                        "name": " Görüntü yeniden boyutlandırıcı yazdırma",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/tr/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    }, 
+"TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",
