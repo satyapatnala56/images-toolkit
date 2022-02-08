@@ -16,6 +16,7 @@ var first = true;
 var second = false;
 var third = true;
 var forth = false;
+var fifth = false;
 let m = 0;
 let size = getScript.dataset.size;
 console.log(size);
@@ -103,12 +104,14 @@ const onFileChange = (file) => {
 };
 ////drag and drop ended
 
+let final_blob;
+
 function compressImage() {
   ////loader end
   $("#file").remove();
   var reader = new FileReader();
   reader.onload = function () {
-    document.querySelector("#input_img .image_section img").src = reader.result;
+    // document.querySelector("#input_img .image_section img").src = reader.result;
     document.querySelector("#output_img .image_section img").src =
       reader.result;
 
@@ -127,23 +130,29 @@ function compressImage() {
         document.querySelector(".container2").style.paddingRight = "0px";
         document.querySelector(".container2").style.height = "auto";
 
+        document.querySelector(".container2").style.background = "none";
+
+              document.querySelector(".box").style.background = "#ad81ee";
+
+              document.querySelector("#content").style.display = "none";
+
         clearInterval(ans);
       }
     }, 300);
     ////loader end
 
-    document.querySelector(".info_section #input_table  #name").innerHTML =
-      input.name;
-    document.querySelector(".info_section #input_table  #type").innerHTML =
-      input.type;
-    document.querySelector(".info_section #input_table  #size").innerHTML =
-      parseInt(input.size) / 1000 + "kb";
-    document.querySelector(
-      ".info_section #input_table  #lastModifiedDate"
-    ).innerHTML = input.lastModifiedDate;
-    document.querySelector(
-      ".info_section #input_table  #lastModified"
-    ).innerHTML = input.lastModified;
+    // document.querySelector(".info_section #input_table  #name").innerHTML =
+    //   input.name;
+    // document.querySelector(".info_section #input_table  #type").innerHTML =
+    //   input.type;
+    // document.querySelector(".info_section #input_table  #size").innerHTML =
+    //   parseInt(input.size) / 1000 + "kb";
+    // document.querySelector(
+    //   ".info_section #input_table  #lastModifiedDate"
+    // ).innerHTML = input.lastModifiedDate;
+    // document.querySelector(
+    //   ".info_section #input_table  #lastModified"
+    // ).innerHTML = input.lastModified;
     ////compressing image
 
     document.querySelector(".info_section #output_table  #name").innerHTML =
@@ -201,7 +210,7 @@ function compressImage() {
             document.querySelector(
               ".info_section #output_table  #type"
             ).innerHTML = blob.type;
-            let final_blob = parseInt(blob.size) / 1024;
+            final_blob = parseInt(blob.size) / 1024;
             document.querySelector(
               ".info_section #output_table  #size"
             ).innerHTML =
@@ -214,21 +223,43 @@ function compressImage() {
               ".info_section #output_table  #lastModified"
             ).innerHTML = input.lastModified;
 
-            document.querySelector(
-              ".info_section #input_table  #name"
-            ).innerHTML = input.name;
+            // document.querySelector(
+            //   ".info_section #input_table  #name"
+            // ).innerHTML = input.name;
 
 
 
 
-            document.querySelector("#saving_image").onclick = function () {
+            // document.querySelector("#saving_image").onclick = function () {
+              if(fifth == true){
               window.location.href = "#";
               document.querySelector(".container2").style.background = "none";
 
-              // document.querySelector(".box").style.background = "#ad81ee";
+              document.querySelector(".container2").style.background = "none";
+
+              document.querySelector(".box").style.background = "#ad81ee";
 
               document.querySelector("#content").style.display = "none";
+              document.querySelector(".thankyouBox").innerHTML =
+                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p><p id = "newFileSize">New file size : </p><a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+              // alert("heloo")
 
+              document.querySelector("#newFileSize").innerHTML = "New file size: " + Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
+              document.querySelector("#newFileSize").style.color = "ffffff"
+              container.style.height = "300px";
+              if (window.location.href.match("compress-an-image")) {
+                box.style.background = "#ad81ee";
+              } else if (window.location.href.match("compress-jpeg")) {
+                box.style.background = "#33cccc";
+              } else if (window.location.href.match("compress-png")) {
+                box.style.background = "#66b3ff";
+              } else if (window.location.href.match("compress-a-gif")) {
+                box.style.background = "#ff9966";
+              }
+              // document.querySelector(".box").style.background = "#ad81ee";
+
+              // document.querySelector("#content").style.display = "none"; 
+              document.getElementById("downloadButton").onclick = function (){
               var reader2 = new FileReader();
               reader2.onload = function () {
                 var url = window.URL.createObjectURL(blob);
@@ -246,6 +277,8 @@ function compressImage() {
               };
               reader2.readAsDataURL(blob);
             };
+          // };
+          };
           },
           MIME_TYPE,
           QUALITY,
@@ -258,6 +291,7 @@ function compressImage() {
         if (m == 0 && blob.size / 1024 > size) {
           first = false;
           third = false;
+          fifth = true;
           console.log("hi");
 
 
@@ -279,9 +313,9 @@ function compressImage() {
             ".info_section #output_table  #lastModified"
           ).innerHTML = input.lastModified;
 
-          document.querySelector(
-            ".info_section #input_table  #name"
-          ).innerHTML = input.name;
+          // document.querySelector(
+          //   ".info_section #input_table  #name"
+          // ).innerHTML = input.name;
 
           
           // can't compress to this size
@@ -312,6 +346,7 @@ function compressImage() {
               second = false;
               third = false;
               forth = true;
+              fifth = true;
               m = Math.round((m + Number.EPSILON) * 100) / 100;
               callback(m);
             }
@@ -324,6 +359,7 @@ function compressImage() {
             }
           }
           if (forth == true) {
+            console.log("HIII")
             document.querySelector(
               ".info_section #output_table  #name"
             ).innerHTML = "C_" + input.name;
@@ -343,9 +379,9 @@ function compressImage() {
               ".info_section #output_table  #lastModified"
             ).innerHTML = input.lastModified;
 
-            document.querySelector(
-              ".info_section #input_table  #name"
-            ).innerHTML = input.name;
+            // document.querySelector(
+            //   ".info_section #input_table  #name"
+            // ).innerHTML = input.name;
           }
         }
       }
@@ -395,8 +431,8 @@ function displayInfo(label, input) {
   const p = document.createElement("p");
   p.innerText = `${label} - ${readableBytes(file.size)}`;
   // document.getElementById("header_div").style.background = "green";
-  document.querySelector(".info_section #input_table  #name").innerHTML =
-    input.name;
+  // document.querySelector(".info_section #input_table  #name").innerHTML =
+  //   input.name;
 }
 
 function readableBytes(bytes) {
