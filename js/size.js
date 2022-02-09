@@ -1,161 +1,167 @@
-const getScript = document.currentScript;
-const pageTool = getScript.dataset.tool;
-const lang = getScript.dataset.lang;
-var container = document.querySelector(".container2");
-var inputbox = document.querySelector("#inputbox");
-var content = document.querySelector("#content");
-var file = document.querySelector("#file");
-var box = document.querySelector(".box");
-var rotate = document.querySelector("#rotate_input") || 0;
-var rotate_value_range = document.querySelector("#rotate_value_range") || 0;
-var input;
+const getScript = document.currentScript
+const pageTool = getScript.dataset.tool
+const lang = getScript.dataset.lang
+var container = document.querySelector('.container2')
+var inputbox = document.querySelector('#inputbox')
+var content = document.querySelector('#content')
+var file = document.querySelector('#file')
+var box = document.querySelector('.box')
+var rotate = document.querySelector('#rotate_input') || 0
+var rotate_value_range = document.querySelector('#rotate_value_range') || 0
+var input
 container.ondragover = function (e) {
-  e.preventDefault();
-};
-var boxContainer = document.querySelector(".container2");
-const gdrive = document.querySelector("#filepicker");
+  e.preventDefault()
+}
+var boxContainer = document.querySelector('.container2')
+const gdrive = document.querySelector('#filepicker')
 const getFile = (file) => {
-  onFileDrop(file, 1);
-};
+  onFileDrop(file, 1)
+}
 const showLoader = () => {
-  document.querySelector("#inputbox").style.display = "none";
-  var loaderbox = document.createElement("div");
-  loaderbox.id = "loader-box";
-  var mainDiv = document.querySelector("#loaderDiv .col");
-  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1]);
-  document.querySelector("#loader").innerHTML = '<p id="loadingMessage"></p>';
-  document.querySelector("#loadingMessage").innerHTML =
-    "Please Wait ,Loading Your file ";
-};
-const closeLoader = () => {};
-const mimeTypes = "image/png,image/jpg,image/jpeg,image/webp";
-const filemimes = [".png", ".webp", ".jpg", ".jpeg"];
+  document.querySelector('#inputbox').style.display = 'none'
+  var loaderbox = document.createElement('div')
+  loaderbox.id = 'loader-box'
+  var mainDiv = document.querySelector('#loaderDiv .col')
+  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1])
+  document.querySelector('#loader').innerHTML = '<p id="loadingMessage"></p>'
+  document.querySelector('#loadingMessage').innerHTML =
+    'Please Wait ,Loading Your file '
+}
+const closeLoader = () => {}
+const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
+const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
 gdrive.addEventListener(
-  "click",
+  'click',
   (getFile, mimeTypes, showLoader, closeLoader) => {
-    const data = loadPicker();
+    const data = loadPicker()
   }
-);
+)
 const getDropBoxFile = (file) => {
-  onFileDrop(file, 1);
-};
-const dropbox = document.getElementById("dropbox");
+  onFileDrop(file, 1)
+}
+const dropbox = document.getElementById('dropbox')
 dropbox.addEventListener(
-  "click",
+  'click',
   async (getDropBoxFile, showLoader, closeLoader) => {
-    const getFile = chooseFromDropbox();
+    const getFile = chooseFromDropbox()
   }
-);
+)
 boxContainer.ondrop = (e) => {
-  e.preventDefault();
-  onFileDrop(e.dataTransfer.files[0]);
-};
+  e.preventDefault()
+  onFileDrop(e.dataTransfer.files[0])
+}
 const onFileDrop = (file, flag = 0) => {
-  input = file;
-  var extension = input.name.replace(/^.*\./, "");
+  input = file
+  var extension = input.name.replace(/^.*\./, '')
   if (
-    extension == "webp" ||
-    extension == "jpg" ||
-    extension == "jpeg" ||
-    extension == "png"
+    extension == 'webp' ||
+    extension == 'jpg' ||
+    extension == 'jpeg' ||
+    extension == 'png'
   ) {
     if (flag == 0) {
-      showLoader();
+      showLoader()
     }
 
-    inputbox.style.display = "none";
-    container.style.height = "300px";
-    convert_webp();
+    inputbox.style.display = 'none'
+    container.style.height = '300px'
+    convert_webp()
   } else {
-    container.style.height = "350px";
-    document.querySelector("#error").style.visibility = "visible";
+    container.style.height = '350px'
+    document.querySelector('#error').style.visibility = 'visible'
 
-    document.querySelector("#error").style.visibility = "visible";
-    document.querySelector("#error").innerHTML = "File not supported";
+    document.querySelector('#error').style.visibility = 'visible'
+    document.querySelector('#error').innerHTML = 'File not supported'
   }
-};
+}
 const fileOnChange = () => {
-  showLoader();
+  showLoader()
 
-  input = file.files[0];
-  container.style.height = "300px";
-  convert_webp();
-};
+  input = file.files[0]
+  container.style.height = '300px'
+  convert_webp()
+}
 function convert_webp() {
-  document.querySelector(".success_alert").style.visibility = "hidden";
+  document.querySelector('.success_alert').style.visibility = 'hidden'
   /////loader starting
-  $("#file").remove();
+  $('#file').remove()
   setTimeout(function () {
-    webp_to_img();
-  }, 6000);
-  var count = 0;
+    webp_to_img()
+  }, 6000)
+  var count = 0
   var ans = setInterval(function () {
-    count = count + 10;
-    document.querySelector("#upper-loader").style.width = count + "%";
+    count = count + 10
+    document.querySelector('#upper-loader').style.width = count + '%'
     if (count == 110) {
-      document.querySelector("#upper-loader").style.display = "none";
-      document.querySelector("#loaderDiv").style.display = "none";
-      document.querySelector("#content").style.visibility = "visible";
-      document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".container2").style.height = "620px";
-      document.querySelector("#footer_div").style.paddingTop = "19px";
-      document.querySelector(".container2").style.background = "#ffbb33";
-      document.querySelector(".box").style.borderRadius = "20px";
-      document.querySelector(".container2").style.borderRadius = "25px";
+      document.querySelector('#upper-loader').style.display = 'none'
+      document.querySelector('#loaderDiv').style.display = 'none'
+      document.querySelector('#content').style.visibility = 'visible'
+      document.querySelector('#loader-box').style.display = 'none'
+      document.querySelector('.container2').style.height = 'auto'
+      document.querySelector('#footer_div').style.paddingTop = '19px'
+      document.querySelector('.container2').style.background = '#fff'
+      document.querySelector('.box').style.borderRadius = '20px'
+      document.querySelector('.container2').style.borderRadius = '25px'
+      document.querySelector('.box').style.background = '#ffffff'
+      document.querySelector('.box-border').style.background = '#ffffff'
+      document.querySelector('.box-border').style.border = 'none'
+      document.querySelector('.flex-container').style.display = 'none'
+      document.querySelector('.alert').style.display = 'none'
 
-      window.location.href = "#";
-      clearInterval(ans);
+      window.location.href = '#'
+      clearInterval(ans)
     }
-  }, 600);
+  }, 600)
   function webp_to_img() {
-    document.querySelector(".success_alert").style.visibility = "hidden";
-    var r = new FileReader();
+    document.querySelector('.success_alert').style.visibility = 'hidden'
+    var r = new FileReader()
     r.onload = function () {
-      var img = new Image();
+      var img = new Image()
       img.onload = function () {
-        document.querySelector("#output_div_inner img").src = r.result;
-        var dimension_btn = document.querySelectorAll(".dimension_btn");
+        document.querySelector('#output_div_inner img').src = r.result
+        var dimension_btn = document.querySelectorAll('.dimension_btn')
         for (let m = 0; m < dimension_btn.length; m++) {
           dimension_btn[m].onclick = function () {
-            console.log(dimension_btn[m].id);
-            var button_id = dimension_btn[m].id;
-            var button_arr = button_id.split("X");
-            var button_width = button_arr[0];
-            var button_height = button_arr[1];
+            console.log(dimension_btn[m].id)
+            var button_id = dimension_btn[m].id
+            var button_arr = button_id.split('X')
+            var button_width = button_arr[0]
+            var button_height = button_arr[1]
 
-            document.querySelector("#resize_height input").value =
-              button_height;
-            document.querySelector("#resize_width input").value = button_width;
+            document.querySelector('#resize_height input').value = button_height
+            document.querySelector('#resize_width input').value = button_width
 
-            initial_conversion("Loading preview...", "Preview loaded", 0);
-          };
+            initial_conversion('Loading preview...', 'Preview loaded', 0)
+          }
         }
-        document.querySelector("#preview").onclick = function () {
-          initial_conversion("Loading preview...", "Preview loaded", 0);
-        };
-        document.querySelector("#save").onclick = function () {
-          initial_conversion("Saving Image...", "", 1);
-        };
-        function initial_conversion(message1, message2, value) {
-          var file_name =
-            document.querySelector("#file_name input").value ||
-            input.name.match(/^.*\./);
-          var height =
-            document.querySelector("#resize_height input").value || img.height;
-          var quality =
-            document.querySelector("#resize_quality select").value || 1;
-          var width =
-            document.querySelector("#resize_width input").value || img.width;
+        let changeConfig = document.getElementsByClassName('change-config')
+        Array.from(changeConfig).map((i) => {
+          i.addEventListener('input', () => {
+            initial_conversion('Loading preview...', 'Preview loaded', 0)
+          })
+        })
 
-          var mimetype = document.querySelector("#save_as select").value;
+        document.querySelector('#save').onclick = function () {
+          initial_conversion('Saving Image...', '', 1)
+        }
+        function initial_conversion(message1, message2, value) {
+          var file_name = input.name.match(/^.*\./)
+          var height =
+            document.querySelector('#resize_height input').value || img.height
+          var quality =
+            document.querySelector('#resize_quality select').value || 1
+          var width =
+            document.querySelector('#resize_width input').value || img.width
+
+          var mimetype = document.querySelector('#save_as select').value
           new Compressor(input, {
             quality: parseInt(quality),
             success(final_blob) {
-              var final_url = window.URL.createObjectURL(final_blob);
-              var image = new Image(width, height);
+              var final_url = window.URL.createObjectURL(final_blob)
+              var image = new Image(width, height)
               image.onload = function () {
-                var naturalheight = image.height;
-                var naturalwidth = image.width;
+                var naturalheight = image.height
+                var naturalwidth = image.width
 
                 converting_process(
                   message1,
@@ -169,11 +175,11 @@ function convert_webp() {
                   file_name,
                   naturalwidth,
                   naturalheight
-                );
-              };
-              image.src = final_url;
+                )
+              }
+              image.src = final_url
             },
-          });
+          })
         }
 
         function converting_process(
@@ -189,115 +195,114 @@ function convert_webp() {
           naturalwidth,
           naturalheight
         ) {
-          window.location.href = "#";
+          window.location.href = '#'
 
-          document.querySelector(".success_alert").style.visibility = "visible";
-          document.querySelector(".success_alert").style.borderColor =
-            "#b6d4fe";
-          document.querySelector(".success_alert").style.color = "#084298";
-          document.querySelector(".success_alert").style.background = "#cfe2ff";
-          document.querySelector(".success_alert").innerHTML = message1;
+          document.querySelector('.success_alert').style.visibility = 'visible'
+          document.querySelector('.success_alert').style.borderColor = '#b6d4fe'
+          document.querySelector('.success_alert').style.color = '#084298'
+          document.querySelector('.success_alert').style.background = '#cfe2ff'
+          document.querySelector('.success_alert').innerHTML = message1
 
-          var canvas = document.createElement("canvas");
-          var ctx = canvas.getContext("2d");
-          canvas.height = naturalheight;
-          canvas.width = naturalwidth;
-          ctx.drawImage(image, 0, 0, width, height);
-          document.querySelector("#output_div_inner img").src =
-            canvas.toDataURL();
-          document.querySelector("#output_div_inner img").onload = function () {
-            document.querySelector(".success_alert").style.borderColor =
-              "#badbcc";
-            document.querySelector(".success_alert").style.color = "#0f5132";
-            document.querySelector(".success_alert").style.background =
-              "#d1e7dd";
-            document.querySelector(".success_alert").innerHTML = message2;
-            if (message2 == "") {
-              document.querySelector(".success_alert").style.visibility =
-                "hidden";
+          var canvas = document.createElement('canvas')
+          var ctx = canvas.getContext('2d')
+          canvas.height = naturalheight
+          canvas.width = naturalwidth
+          ctx.drawImage(image, 0, 0, width, height)
+          document.querySelector('#output_div_inner img').src =
+            canvas.toDataURL()
+          document.querySelector('#output_div_inner img').onload = function () {
+            document.querySelector('.success_alert').style.borderColor =
+              '#badbcc'
+            document.querySelector('.success_alert').style.color = '#0f5132'
+            document.querySelector('.success_alert').style.background =
+              '#d1e7dd'
+            document.querySelector('.success_alert').innerHTML = message2
+            if (message2 == '') {
+              document.querySelector('.success_alert').style.visibility =
+                'hidden'
             } else {
               setTimeout(function () {
-                document.querySelector(".success_alert").style.visibility =
-                  "hidden";
-              }, 2000);
+                document.querySelector('.success_alert').style.visibility =
+                  'hidden'
+              }, 2000)
             }
 
             function image_saving(file_name, mimetype) {
-              window.location.href = "#";
-              document.querySelector(".box").style.background = "#ffbb33";
-              document.querySelector(".box-border").style.background =
-                "rgba(0, 0, 0, 0.1)";
-              document.querySelector(".box-border").style.background =
-                "2px dashed rgba(0, 0, 0, 0.15)";
+              window.location.href = '#'
+              document.querySelector('.box').style.background = '#ffbb33'
+              document.querySelector('.box-border').style.background =
+                'rgba(0, 0, 0, 0.1)'
+              document.querySelector('.box-border').style.background =
+                '2px dashed rgba(0, 0, 0, 0.15)'
 
-              document.querySelector("#content").style.display = "none";
-              document.querySelector(".thankyouBox").innerHTML =
-                ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <span><a class="btn" id="downloadButton">DOWNLOAD</a></span> </div> </div>';
-              document.querySelector(".container2").style.height = "300px";
-              document.querySelector(".container2").style.background =
-                "transparent";
-              document.querySelector(".container2").style.borderRadius = "0px";
-              document.querySelector(".box").style.borderRadius = "0px";
+              document.querySelector('#content').style.display = 'none'
+              document.querySelector('.thankyouBox').innerHTML =
+                ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <span><a class="btn" id="downloadButton">DOWNLOAD</a></span> </div> </div>'
+              document.querySelector('.container2').style.height = '300px'
+              document.querySelector('.container2').style.background =
+                'transparent'
+              document.querySelector('.container2').style.borderRadius = '0px'
+              document.querySelector('.box').style.borderRadius = '0px'
               ///download button
 
-              document.querySelector("#downloadButton").onclick = function () {
-                document.querySelector(".thankyouBox span").innerHTML =
-                  "Downloading might take a while";
-                  debugger
+              document.querySelector('#downloadButton').onclick = function () {
+                document.querySelector('.thankyouBox span').innerHTML =
+                  'Downloading might take a while'
+                debugger
                 canvas.toBlob(function (blob) {
-                  var r = new FileReader();
+                  var r = new FileReader()
                   r.onload = function () {
                     var b = new Blob([r.result], {
-                      type: "image/" + mimetype,
-                    });
-                    var url = window.URL.createObjectURL(b);
-                    var a = document.createElement("a");
-                    a.href = url;
-                    a.download = "Safeimagekit-" + file_name + mimetype;
-                    a.click();
+                      type: 'image/' + mimetype,
+                    })
+                    var url = window.URL.createObjectURL(b)
+                    var a = document.createElement('a')
+                    a.href = url
+                    a.download = 'Safeimagekit-' + file_name + mimetype
+                    a.click()
                     setTimeout(() => {
-                      if (lang === "en") {
-                        window.location.href = `/download?tool=${pageTool}`;
+                      if (lang === 'en') {
+                        window.location.href = `/download?tool=${pageTool}`
                       } else {
-                        window.location.href = `/${lang}/download?tool=${pageTool}`;
+                        window.location.href = `/${lang}/download?tool=${pageTool}`
                       }
-                    }, 200);
-                  };
-                  r.readAsArrayBuffer(blob);
-                });
-              };
+                    }, 200)
+                  }
+                  r.readAsArrayBuffer(blob)
+                })
+              }
             }
             if (value == 1) {
-              image_saving(file_name, mimetype);
+              image_saving(file_name, mimetype)
             } else if (value == 0) {
-              return false;
+              return false
             }
-          };
+          }
         }
-      };
-      img.src = r.result;
-    };
-    r.readAsDataURL(input);
+      }
+      img.src = r.result
+    }
+    r.readAsDataURL(input)
   }
 }
-document.querySelector("#Inputbox").onclick = function () {
-  document.querySelector("#file").click();
-};
+document.querySelector('#Inputbox').onclick = function () {
+  document.querySelector('#file').click()
+}
 
-var inputs = document.querySelectorAll("#height_input,#width_input,#mimetype");
+var inputs = document.querySelectorAll('#height_input,#width_input,#mimetype')
 
-const showDropDown = document.querySelector(".file-pick-dropdown");
-const icon = document.querySelector(".arrow-sign");
-const dropDown = document.querySelector(".file-picker-dropdown");
-showDropDown.addEventListener("click", () => {
-  addScripts();
-  if (dropDown.style.display !== "none") {
-    dropDown.style.display = "none";
-    icon.classList.remove("fa-angle-up");
-    icon.classList.add("fa-angle-down");
+const showDropDown = document.querySelector('.file-pick-dropdown')
+const icon = document.querySelector('.arrow-sign')
+const dropDown = document.querySelector('.file-picker-dropdown')
+showDropDown.addEventListener('click', () => {
+  addScripts()
+  if (dropDown.style.display !== 'none') {
+    dropDown.style.display = 'none'
+    icon.classList.remove('fa-angle-up')
+    icon.classList.add('fa-angle-down')
   } else {
-    dropDown.style.display = "block";
-    icon.classList.remove("fa-angle-down");
-    icon.classList.add("fa-angle-up");
+    dropDown.style.display = 'block'
+    icon.classList.remove('fa-angle-down')
+    icon.classList.add('fa-angle-up')
   }
-});
+})

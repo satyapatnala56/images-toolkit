@@ -401,7 +401,10 @@ let handleDownload = (e) => {
             .then(async () => {
               await resizer.toBlob(canvasTemp).then(async (blob) => {
                 progress += 1
-                await ZipFiles.file(`${currentURL + key}.png`, blob)
+                await ZipFiles.file(
+                  `${currentURL + key}-safeimagekit.png`,
+                  blob
+                )
                 progressBar.style.width = (progress / total) * 100 + '%'
                 if (progress >= total) triggerDownload()
               })
@@ -419,7 +422,10 @@ let handleDownload = (e) => {
             .then(async () => {
               await resizer.toBlob(canvasTemp).then(async (blob) => {
                 progress += 1
-                await ZipFiles.file(`${currentURL + key}.png`, blob)
+                await ZipFiles.file(
+                  `${currentURL + key}-safeimagekit.png`,
+                  blob
+                )
                 progressBar.style.width = (progress / total) * 100 + '%'
                 if (progress >= total) triggerDownload()
               })
@@ -434,6 +440,101 @@ let handleDownload = (e) => {
     total = Object.keys(checkedBoxes).length
     if (total == 0) {
       err_msg.style.visibility = 'visible'
+    } else if (total === 1) {
+      err_msg.style.visibility = 'hidden'
+
+      DownloadButtons.style.display = 'none'
+
+      for (let key in checkedBoxes) {
+        if (checkedBoxes[key]) {
+          if (key in canvases) {
+            let canvas = canvases[key]
+            let url = canvas.toDataURL('image/png', 1)
+            let img = new Image()
+            let canvasTemp = document.createElement('canvas')
+            canvasTemp.width = currentData[key][0]
+            canvasTemp.height = currentData[key][1]
+            img.onload = async () => {
+              await resizer
+                .resize(img, canvasTemp, { quality: 3 })
+                .then(async () => {
+                  await resizer.toBlob(canvasTemp).then(async (blob) => {
+                    progress += 1
+                    progressBar.style.width = (progress / total) * 100 + '%'
+                    if (progress >= total) {
+                      document.querySelector('.alert').style.display = 'block'
+                      document.querySelector('.flex-container').style.display =
+                        'block'
+                      progressBar.style.display = 'none'
+                      document.querySelector(
+                        '.Landing .Container h3'
+                      ).innerText = 'thanks for your patience'
+                      document.querySelector(
+                        '.Landing .Container .ProgressInfo img'
+                      ).src = './img/imageResizer-assets/cheers.svg'
+                      const url = window.URL.createObjectURL(blob)
+                      const a = document.createElement('a')
+                      a.style.display = 'none'
+                      a.href = url
+                      // the filename you want
+                      a.download = `${currentURL + key}-safeimagekit.png`
+                      document.body.appendChild(a)
+                      a.click()
+                      window.URL.revokeObjectURL(url)
+                      if (lang === 'en') {
+                        window.location.href = `/download?tool=${pageTool}`
+                      } else {
+                        window.location.href = `/${lang}/download?tool=${pageTool}`
+                      }
+                      if (lang === 'en') {
+                        window.location.href = `/download?tool=${pageTool}`
+                      } else {
+                        window.location.href = `/${lang}/download?tool=${pageTool}`
+                      }
+                    }
+                  })
+                })
+            }
+            img.src = url
+          } else {
+            let img = new Image()
+            let canvasTemp = document.createElement('canvas')
+            canvasTemp.width = currentData[key][0]
+            canvasTemp.height = currentData[key][1]
+            img.onload = async () => {
+              await resizer
+                .resize(img, canvasTemp, { quality: 3 })
+                .then(async () => {
+                  await resizer.toBlob(canvasTemp).then(async (blob) => {
+                    progress += 1
+                    progressBar.style.width = (progress / total) * 100 + '%'
+                    if (progress >= total) {
+                      const url = window.URL.createObjectURL(blob)
+                      const a = document.createElement('a')
+                      a.style.display = 'none'
+                      a.href = url
+                      a.download = `${currentURL + key}-safeimagekit.png`
+                      document.body.appendChild(a)
+                      a.click()
+                      window.URL.revokeObjectURL(url)
+                      if (lang === 'en') {
+                        window.location.href = `/download?tool=${pageTool}`
+                      } else {
+                        window.location.href = `/${lang}/download?tool=${pageTool}`
+                      }
+                    }
+                  })
+                })
+            }
+            img.src = imgURLrl
+          }
+        }
+      }
+      workspaceContainer.style.display = 'none'
+      landingContainer.style.display = 'flex'
+      document
+        .querySelector('.Landing .Container')
+        .classList.add('ContainerOnloading')
     } else {
       err_msg.style.visibility = 'hidden'
 
@@ -454,7 +555,10 @@ let handleDownload = (e) => {
                 .then(async () => {
                   await resizer.toBlob(canvasTemp).then(async (blob) => {
                     progress += 1
-                    await ZipFiles.file(`${currentURL + key}.png`, blob)
+                    await ZipFiles.file(
+                      `${currentURL + key}-safeimagekit.png`,
+                      blob
+                    )
                     progressBar.style.width = (progress / total) * 100 + '%'
                     if (progress >= total) triggerDownload()
                   })
@@ -472,7 +576,10 @@ let handleDownload = (e) => {
                 .then(async () => {
                   await resizer.toBlob(canvasTemp).then(async (blob) => {
                     progress += 1
-                    await ZipFiles.file(`${currentURL + key}.png`, blob)
+                    await ZipFiles.file(
+                      `${currentURL + key}-safeimagekit.png`,
+                      blob
+                    )
                     progressBar.style.width = (progress / total) * 100 + '%'
                     if (progress >= total) triggerDownload()
                   })

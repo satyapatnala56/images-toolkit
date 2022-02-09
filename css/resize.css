@@ -57,7 +57,7 @@
   padding-right: 24px;
 }
 #output_div_inner {
-  background-image: url("/img/transparent.png");
+  background-image: url('/img/transparent.png');
   height: 100%;
   border-radius: 5px;
   width: 100%;
@@ -274,7 +274,6 @@
     float: none;
   }
 
-
   #output_div {
     padding-left: 24px;
     padding-right: 24px;
@@ -328,6 +327,6 @@
   padding-right: 30px;
   padding-bottom: 40px;
 }
-option{
+option {
   color: black;
 }
