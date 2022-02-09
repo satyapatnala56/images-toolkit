@@ -29,97 +29,97 @@ let UIData = {
     mainColor: '#1773ea',
     fontColor: 'white',
     description: `We've taken all 12 Facebook image sizes and made them easily accessible. Use our image resizer to resize images from stories to ads, posts, cover photos and event pages.`,
-    iconURL: './img/imageResizer-assets/facebook.svg',
+    iconURL: '/img/imageResizer-assets/facebook.svg',
   },
   Instagram: {
     mainColor: '#f00075',
     fontColor: 'white',
     description: `Our image resizer is the perfect tool for businesses and IG users, making it easier to resize images into stories, vertical horizontal and square posts, video thumbnails and more with no effort at all.`,
-    iconURL: './img/imageResizer-assets/instagram.svg',
+    iconURL: '/img/imageResizer-assets/instagram.svg',
   },
   Youtube: {
     mainColor: '#ff0000',
     fontColor: 'white',
     description: `Find the best fit for your YouTube Banner Image. Don't let your channel graphics go unnoticed.`,
-    iconURL: './img/imageResizer-assets/youtube.svg',
+    iconURL: '/img/imageResizer-assets/youtube.svg',
   },
   Linkedin: {
     mainColor: '#0a66c2',
     fontColor: 'white',
     description: `This network of professionals is a great place for any business to show off their content. Resize your photos for LinkedIn and get your profile noticed with high quality images.`,
-    iconURL: './img/imageResizer-assets/linkdin.svg',
+    iconURL: '/img/imageResizer-assets/linkdin.svg',
   },
   Email: {
     mainColor: '#D44638',
     fontColor: 'white',
     description: `The perfect email header can help you get your message across before the user even reads the first sentence. Get their attention and make sure it’s sized right with our free image resizer.`,
-    iconURL: './img/imageResizer-assets/gmail.svg',
+    iconURL: '/img/imageResizer-assets/gmail.svg',
   },
   Tiktok: {
     mainColor: '#000000',
     fontColor: 'white',
     description: `TikTok video dimensions are super precise at 1080x1920 and the max file size is 287.6 MB - size it right with our easy steps above.`,
-    iconURL: './img/imageResizer-assets/tiktok.svg',
+    iconURL: '/img/imageResizer-assets/tiktok.svg',
   },
   Twitter: {
     mainColor: '#1da1f2',
     fontColor: 'white',
     description: `Whether you're creating a header or profile image - the perfect image size is a must to get the best quality visual. Our image resizer has you covered for all 11 Twitter dimensions in one easy click.`,
-    iconURL: './img/imageResizer-assets/twitter.svg',
+    iconURL: '/img/imageResizer-assets/twitter.svg',
   },
   Pinterest: {
     mainColor: '#bd081c',
     fontColor: 'white',
     description: `Pins, thumbnails, board covers...use this image resizer to create an aesthetically pleasing board with all your favorite pins.`,
-    iconURL: './img/imageResizer-assets/pinterest.svg',
+    iconURL: '/img/imageResizer-assets/pinterest.svg',
   },
   Snapchat: {
     mainColor: '#9999ff',
     fontColor: 'white',
     description: `Snapchat images have one universal dimension - 1080 x 1920. Use our free online collage maker to make your image more interesting before resizing it with our image resizer.`,
-    iconURL: './img/imageResizer-assets/snapchat.svg',
+    iconURL: '/img/imageResizer-assets/snapchat.svg',
   },
   'Google Banner Ads': {
     mainColor: '#ea4335',
     fontColor: 'white',
     description: `When creating ads for your business, ease is the best route. All 22 dimensions for Google Display Network banners can be created here, using Promo.com’s pic resizer.`,
-    iconURL: './img/imageResizer-assets/google.svg',
+    iconURL: '/img/imageResizer-assets/google.svg',
   },
   Discord: {
     mainColor: '#535fee',
     fontColor: 'white',
     description: `Resize your images now for various discord uploads.`,
-    iconURL: './img/imageResizer-assets/discord.svg',
+    iconURL: '/img/imageResizer-assets/discord.svg',
   },
   Soundcloud: {
     mainColor: '#f77b00',
     fontColor: 'white',
     description: `Resize your images now for various soundcloud uploads.`,
-    iconURL: './img/imageResizer-assets/soundcloud.svg',
+    iconURL: '/img/imageResizer-assets/soundcloud.svg',
   },
   Whatsapp: {
     mainColor: '#17980e',
     fontColor: 'white',
     description: `Resize your images now for various whatsapp uploads.`,
-    iconURL: './img/imageResizer-assets/whatsapp.svg',
+    iconURL: '/img/imageResizer-assets/whatsapp.svg',
   },
   Twitch: {
     mainColor: '#8c44f7',
     fontColor: 'white',
     description: `Resize your images now for various twitch uploads.`,
-    iconURL: './img/imageResizer-assets/twitch.svg',
+    iconURL: '/img/imageResizer-assets/twitch.svg',
   },
   Squarespace: {
     mainColor: '#8c44f7',
     fontColor: 'white',
     description: `Resize your images now for various twitch uploads.`,
-    iconURL: './img/imageResizer-assets/squarespace.svg',
+    iconURL: '/img/imageResizer-assets/squarespace.svg',
   },
   Printing: {
     mainColor: '#26d0c7',
     fontColor: 'white',
     description: `Resize your images now for various printing uploads.`,
-    iconURL: './img/imageResizer-assets/printing.svg',
+    iconURL: '/img/imageResizer-assets/printing.svg',
   },
 }
 
@@ -156,7 +156,7 @@ let landingContainer = document.querySelector('.Landing')
 let workspaceContainer = document.querySelector('.workspace')
 let infoContainerTopBarh4 = document.getElementById('overlayh4')
 let infoContainerTopBarp = document.getElementById('overlayp')
-fetch('../JS/ResizerData.json')
+fetch('/JS/ResizerData.json')
   .then((response) => {
     return response.json()
   })
@@ -471,7 +471,7 @@ let handleDownload = (e) => {
                       ).innerText = 'thanks for your patience'
                       document.querySelector(
                         '.Landing .Container .ProgressInfo img'
-                      ).src = './img/imageResizer-assets/cheers.svg'
+                      ).src = '/img/imageResizer-assets/cheers.svg'
                       const url = window.URL.createObjectURL(blob)
                       const a = document.createElement('a')
                       a.style.display = 'none'
