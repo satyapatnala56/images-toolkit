@@ -21,6 +21,28 @@ appId: 862003477277
 internationalizationall: true
 dropboxapikey: gdmcpa9nvv4xmih
 safeui: true
+noFaqsList:
+  - hi
+  - id
+  - da
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - pl
+  - pt
+  - sv
+  - vi
+  - tr
+  - ru
+  - uk
+  - ar
+  - th
+  - ko
+  - ja
+  - zh
+  - zh-tw
 disqus:
   shortname: utils
 # Build settings
