@@ -3,6 +3,7 @@ const getScript = document.currentScript
 const pageTool = getScript.dataset.tool
 const lang = getScript.dataset.lang
 let resizer = new pica()
+let fileName = ''
 var _URL = window.URL || window.webkitURL
 
 //Decision variable change this to change feature
@@ -236,6 +237,9 @@ function onFileDrop(file) {
   }
 }
 let handleInput = (file) => {
+  fileName = file.name
+  var zip = new JSZip()
+  var ZipFiles = zip.folder(`${fileName}-safeimagekit`)
   document.querySelector('.alert').style.display = 'none'
   document.querySelector('.flex-container').style.display = 'none'
   DownloadButtons.style.display = 'flex'
@@ -357,8 +361,6 @@ let showPreviews = () => {
   workspaceContainer.style.display = 'inherit'
 }
 
-var zip = new JSZip()
-var ZipFiles = zip.folder('IconResizer')
 let triggerDownload = () => {
   document.querySelector('.alert').style.display = 'block'
   document.querySelector('.flex-container').style.display = 'block'
@@ -368,7 +370,7 @@ let triggerDownload = () => {
   document.querySelector('.Landing .Container .ProgressInfo img').src =
     '/img/imageResizer-assets/cheers.svg'
   zip.generateAsync({ type: 'blob' }).then(function (content) {
-    saveAs(content, `ImageResizer.zip`)
+    saveAs(content, `${fileName}-safeimagekit.zip`)
     if (lang === 'en') {
       window.location.href = `/download?tool=${pageTool}`
     } else {
