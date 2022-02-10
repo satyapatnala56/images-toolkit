@@ -46,7 +46,7 @@ html {
 }
 
 #loader-box {
-  background: url("../spinner.gif");
+  background: url('../spinner.gif');
   height: 70px;
   width: 70px;
   background-repeat: no-repeat;
@@ -227,6 +227,7 @@ html {
   margin-top: 16px;
   height: 67px;
   width: 98px;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 387px) {

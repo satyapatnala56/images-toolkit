@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#9999ff",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Redimensionadores de mídia social",
+                "links": [
+                    {
+                        "name": "Redimensionador de imagens do Facebook",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/pt/image-resize-facebook"
+                    },
+                    {
+                        "name": " Redimensionador de imagens do Instagram",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/pt/image-resize-instagram"
+                    },
+                    {
+                        "name": " Redimensionador de imagens do Linkedin",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/pt/image-resize-linkedin"
+                    },
+                    {
+                        "name": " Redimensionador de imagens de e-mail",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/pt/image-resize-email"
+                    },
+                    {
+                        "name": " Redimensionador de imagens Tiktok",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/pt/image-resize-tiktok"
+                    },
+                    {
+                        "name": " Redimensionador de imagens do Twitter",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/pt/image-resize-twitter"
+                    },
+                    {
+                        "name": " Redimensionador de imagens do Pinterest",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/pt/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Redimensionador de imagens Snapchat",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/pt/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Redimensionador de imagens do Google Banner Ads",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/pt/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Redimensionador de imagens Discord",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/pt/image-resize-discord"
+                    },
+                    {
+                        "name": " Redimensionador de imagens do SoundCloud",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/pt/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Redimensionador de imagens Whatsapp",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/pt/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " redimensionador de imagens do squarespace",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/pt/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Redimensionador de imagens Twitch",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/pt/image-resize-twitch"
+                    },
+                    {
+                        "name": " Redimensionador de imagens de impressão",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/pt/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

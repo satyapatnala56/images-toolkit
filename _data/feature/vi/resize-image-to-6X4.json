@@ -1,0 +1,480 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "H1": "Trực tuyến thay đổi kích thước hình ảnh để 6X4 kích thước ",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "cảnh báo",
+    "H2": "Thay đổi kích thước hình ảnh thành 6X4 như một pro với công cụ này.",
+    "TITLE": "Thay đổi kích thước hình ảnh -công cụ tốt nhất để thay đổi kích thước hình ảnh để 6X4 một cách dễ dàng.",
+    "META": "Thay đổi kích thước hình ảnh thành 6X4 một cách dễ dàng với công cụ này đơn giản để sử dụng. Công cụ tốt nhất để thay đổi kích thước hình ảnh theo yêu cầu của bạn. Nhận kết quả mong muốn mà không có bất kỳ hạn chế nào. Công cụ huyền diệu này thay đổi kích thước hình ảnh thành x chỉ với vài cú nhấp chuột. Không cần cài đặt bất kỳ phần mềm nào.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "thay đổi hình ảnh trong inch",
+                "links": [
+                    {
+                        "name": "resizer hình ảnh để 3X5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 4X6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 5X7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 8X8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 8X10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 8X11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2X2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 9X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 11X14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 11X16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 12X18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 18X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 18X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 20X24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 24X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 24X30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 24X48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 29X21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 30X36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 30X40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "thay đổi hình ảnh trong pixel",
+                "links": [
+                    {
+                        "name": "resizer hình ảnh để 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "resizer image để 32X32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "resizer image để 42X59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 128X128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 21X29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 150X150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 168X168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 170X170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 254X94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 266X177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 300X300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 320X320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 385X256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 450X450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 500X500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 560X208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 630X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 700X800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 800X2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 900X1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1000X524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1000X1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1024X768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1080X1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1080X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1080X1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1200X1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1280X720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1500X2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1584X396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1640X923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1920X480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1920X1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 1958X745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2037X754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2400X3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2550X3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 2700X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 3300X4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "resizer hình ảnh để 3300X4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/vi/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Giữ chất lượng hình ảnh cao",
+            "content": "Có thể thay đổi kích thước hình ảnh theo inch mà không ảnh hưởng đến chất lượng của chúng với sự trợ giúp của hình ảnh resizer của chúng tôi thành công cụ kích thước 6X4. Tỷ lệ khung hình của hình ảnh phóng to sẽ giống như tỷ lệ khung hình của hình ảnh gốc. Không có yêu cầu công nghệ, và ngay cả những người dùng phi kỹ thuật cũng có thể hoàn thành thủ tục. Nó cũng cung cấp cho bạn một bản xem trước của hình ảnh thay đổi kích thước, cho phép bạn hoàn thành quy trình thay đổi kích thước một cách trơn tru nhất có thể."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Đơn giản để sử dụng",
+            "content": "Công cụ kích thước 6X4 kích thước hình ảnh này tính bằng inch rất đơn giản để hoạt động. Đầu tiên và quan trọng nhất, giao diện người dùng thực sự đơn giản và đơn giản. Do thực tế là mọi thứ đều ở một chỗ, bạn sẽ không phải đoán nơi bắt đầu chỉnh sửa. Ngoài ra, công cụ kích thước hình ảnh kích thước 6X4 của chúng tôi không chứa bất kỳ quảng cáo nào, dẫn đến trải nghiệm người dùng dễ chịu hơn cho người dùng cuối."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Quyền riêng tư và bảo mật dữ liệu",
+            "content": "Không có dữ liệu nào được chuyển đến máy chủ của chúng tôi hoặc sử dụng cho bất kỳ mục đích tiếp thị nào trong khi sử dụng hình ảnh resizer sang công cụ kích thước 6X4. Tất cả các hoạt động được thực hiện trong khi sử dụng công cụ kích thước hình ảnh resizer để 6X4 được hoàn thành chỉ trong trình duyệt. Kết quả là, chúng tôi có thể cung cấp an toàn cho tất cả khách hàng của chúng tôi, điều này làm cho hình ảnh resizer của chúng tôi để 6X4 kích thước công cụ đáng tin cậy và hoàn toàn an toàn để sử dụng trong mọi tình huống."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Nó có sẵn cho tất cả mọi người miễn phí",
+            "content": "Mọi người đều được chào đón để sử dụng hình ảnh resizer để 6X4 kích thước công cụ, và không có yêu cầu để đăng ký. Sử dụng hình ảnh resizer của chúng tôi để 6X4 kích thước công cụ là hoàn toàn miễn phí, và chúng tôi không tính phí cho bạn bất cứ điều gì cho nó. Khi sử dụng resizer image to 6X4 dimensions tool, không có giới hạn về số lần bạn có thể thay đổi kích thước hình ảnh của mình."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Khả năng thích ứng",
+            "content": "Chrome, Safari, Firefox, Microsoft Edge và các trình duyệt phổ biến khác đều được hỗ trợ bởi công cụ kích thước hình ảnh resizer thành 6X4. Khi bạn sử dụng công cụ kích thước hình ảnh resizer thành 6X4, nó sẽ thích ứng với bất kỳ kích thước màn hình nào, làm cho nó dễ dàng truy cập cho bạn trên máy tính để bàn, máy tính bảng hoặc điện thoại di động của bạn."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Không cần tải xuống thêm",
+            "content": "Để sử dụng hình ảnh resizer của chúng tôi để 6X4 kích thước công cụ, chúng tôi không yêu cầu bạn tải xuống hoặc cài đặt bất kỳ phần mềm nào trên máy tính hoặc thiết bị di động của bạn. Công cụ kích thước hình ảnh kích thước 6X4 của chúng tôi hoàn toàn dựa trên trình duyệt và bạn có thể truy cập trang web của chúng tôi bất cứ lúc nào bằng cách nhập URL của chúng tôi vào trình duyệt của bạn và sử dụng công cụ khi cần thiết."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Cách thay đổi kích thước hình ảnh",
+        "steps": [
+            "Tải lên hình ảnh hoặc Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive để chọn tệp của bạn trong không gian được cung cấp.",
+            "Điều chỉnh các thông số để có chất lượng hình ảnh tốt hơn.\n",
+            "Nhấn “Xem trước” để lướt qua các thay đổi được thực hiện.",
+            "Lưu các thay đổi được thực hiện.",
+            "Hurray!! hình ảnh đã sẵn sàng để sử dụng."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+        },
+        {
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+        },
+        {
+            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
+        },
+        {
+            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+        },
+        {
+            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+        },
+        {
+            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
+        },
+        {
+            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
+        },
+        {
+            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
+            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+        },
+        {
+            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+        },
+        {
+            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+        },
+        {
+            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
+            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+        },
+        {
+            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+        },
+        {
+            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the image resizer tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        },
+        {
+            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/image-resize.css\" />"
+    ]
+}

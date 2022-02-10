@@ -14,7 +14,346 @@
     "META": "अपनी गुणवत्ता खोए बिना अपनी छवियों को 2700x4800 अनुपात में तुरंत आकार दें। 2700x4800 टूल के लिए यह मुफ्त रिसाइज़र छवि आपको बिना किसी आवश्यकता के JPG, JPEG, PNG और WEBP स्वरूपों में आकार की छवियों को डाउनलोड करने की अनुमति देती है।",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#0D66D0",
+    "color": "#0D66D0",  "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "छवियाँ इंच में आकार बदलने वाले",
+                "links": [
+                    {
+                        "name": "रिसाइज़र छवि को 3X5 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 4X6 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 5X7 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 8X8 पर",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "8X10 के लिए छवि को पुन: आकार देना ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 8X11 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 2X2 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "9X16 के लिए छवि को पुन: आकार देना ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 11X14 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 11X16 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 12X18 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "18X24 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "18X36 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "20X24 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "24X36 के लिए छवि को रिसाइज़र करें ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "24X30 के लिए छवि को रिसाइज़र करें ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "24X48 के लिए छवि को पुन: आकार देना ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "29X21 के लिए छवि को पुन: आकार देना ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 30X36 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 30X40 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "पिक्सेल में छवियों का आकार बदलता है",
+                "links": [
+                    {
+                        "name": "रिसाइज़र छवि 900X1500 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 1200X1800 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 32X32 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "42X59 के लिए छवि का आकार बदलें ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 128X128 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "21X29 के लिए छवि को रिसाइज़र करें ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 150X150 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 168X168 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 170X170 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "254X94 के लिए छवि का आकार बदलें ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "266X177 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "300X300 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "320X320 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "385X256 पर पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 450X450 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "500X500 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "560X208 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "630X1200 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "700X800 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 800X2000 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 900X1500 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "1000X524 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "1000X1000 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 1024X768 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 1080X1920 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 1080X1080 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 1080X1350 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "1200X628 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "1200X630 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "1200X675 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 1200X1200 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "रिसाइज़र छवि 1200X1800 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 1280X720 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 1500X2100 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "1584X396 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि को 1640X923 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 1920X480 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 1920X1080 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "1958X745 के लिए छवि को पुन: आकार देना ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "2037X754 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "2400X3000 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 2550X3300 तक ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "रीसाइज़र छवि 2700X4800 पर ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "3300X4200 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "3300X4800 के लिए पुनर्विक्रेता छवि ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/hi/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,

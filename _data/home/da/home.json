@@ -223,6 +223,27 @@
             "color": "#26d0c7",
             "icon": "/img/imageResizer-assets/printing.svg",
             "url": "/da/image-resize-printing"
+        },
+        {
+            "name": "Socail Medier",
+            "description": "Socail Media billeder Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/da/social-media-resizer"
+        },
+        {
+            "name": "Billede resizers",
+            "description": "Billede resize til X til Y inches/pixels",
+            "color": "#ffbb33",
+            "icon": "/img/home/resize.png",
+            "url": "/da/image-resizers-all"
+        },
+        {
+            "name": " Komprimer billeder",
+            "description": "Liste over Images Compresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/da/compress-image-all"
         }
     ]
 }

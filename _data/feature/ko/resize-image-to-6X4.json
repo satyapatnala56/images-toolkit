@@ -1,0 +1,480 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "H1": "6X4 치수로 온라인 크기 조정 이미지 ",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "경고를 표시합니다",
+    "H2": "이 도구를 사용하여 전문가처럼 이미지 크기를 6X4로 조정하십시오.",
+    "TITLE": "이미지 크기 조정-이미지 크기를 6X4로 쉽게 조정할 수있는 최고의 도구입니다.",
+    "META": "사용하기 쉬운 이 도구를 사용하여 이미지 크기를 6X4로 쉽게 조정할 수 있습니다.요구 사항에 따라 이미지 크기를 조정하는 가장 좋은 도구입니다.제약 없이 원하는 결과를 얻을 수 있습니다.이 마법 도구는 몇 번의 클릭만으로 이미지 크기를 x로 조정합니다.소프트웨어를 설치할 필요가 없습니다.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "이미지 크기 조정기 (인치)",
+                "links": [
+                    {
+                        "name": "3X5로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-3X5"
+                    },
+                    {
+                        "name": "4X6으로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-4X6"
+                    },
+                    {
+                        "name": "5X7로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-5X7"
+                    },
+                    {
+                        "name": "8X8로 이미지 크기 조정",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-8X8"
+                    },
+                    {
+                        "name": "이미지를 8X10으로 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-8X10"
+                    },
+                    {
+                        "name": "8X11로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-8X11"
+                    },
+                    {
+                        "name": "이미지를 2X2로 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-2X2"
+                    },
+                    {
+                        "name": "9X16으로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-9X16"
+                    },
+                    {
+                        "name": "이미지 크기를 11X14로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-11X14"
+                    },
+                    {
+                        "name": "이미지 크기를 11X16으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-11X16"
+                    },
+                    {
+                        "name": "이미지 크기를 12X18로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-12X18"
+                    },
+                    {
+                        "name": "이미지 크기를 18X24로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-18X24"
+                    },
+                    {
+                        "name": "이미지 크기를 18X36으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-18X36"
+                    },
+                    {
+                        "name": "이미지 크기를 20X24로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-20X24"
+                    },
+                    {
+                        "name": "이미지 크기를 24X36으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-24X36"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 24X30으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-24X30"
+                    },
+                    {
+                        "name": "이미지 크기를 24X48로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-24X48"
+                    },
+                    {
+                        "name": "이미지 크기를 29X21로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-29X21"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 30X36으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-30X36"
+                    },
+                    {
+                        "name": "이미지 크기를 30X40으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-30X40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "이미지 크기 조정기 (픽셀)",
+                "links": [
+                    {
+                        "name": "이미지 크기 조절기를 900X1500으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "이미지 크기를 1200X1800으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "32X32로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-32X32"
+                    },
+                    {
+                        "name": "42X59로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-42X59"
+                    },
+                    {
+                        "name": "이미지 크기를 128X128로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-128X128"
+                    },
+                    {
+                        "name": "21X29로 이미지 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-21X29"
+                    },
+                    {
+                        "name": "이미지 크기를 150X150으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-150X150"
+                    },
+                    {
+                        "name": "이미지 크기를 168X168로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-168X168"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 170X170으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-170X170"
+                    },
+                    {
+                        "name": "이미지 크기를 254X94로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-254X94"
+                    },
+                    {
+                        "name": "이미지 크기를 266X177로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-266X177"
+                    },
+                    {
+                        "name": "이미지 크기를 300X300으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-300X300"
+                    },
+                    {
+                        "name": "이미지 크기를 320X320으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-320X320"
+                    },
+                    {
+                        "name": "이미지 크기를 385X256으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-385X256"
+                    },
+                    {
+                        "name": "이미지 크기를 450X450으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-450X450"
+                    },
+                    {
+                        "name": "이미지 크기를 500X500으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-500X500"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 560X208로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-560X208"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 630X1200으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-630X1200"
+                    },
+                    {
+                        "name": "이미지 크기를 700X800으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-700X800"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 800X2000으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-800X2000"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 900X1500으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-900X1500"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1000X524로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1000X524"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1000X1000으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1000X1000"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1024X768로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1024X768"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1080X1920으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1080X1920"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1080X1080으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1080X1080"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1080X1350으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1080X1350"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1200X628로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1200X628"
+                    },
+                    {
+                        "name": "이미지 크기를 1200X630으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1200X630"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1200X675로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1200X675"
+                    },
+                    {
+                        "name": "이미지 크기를 1200X1200으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1200X1200"
+                    },
+                    {
+                        "name": "이미지 크기를 1200X1800으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1200X1800"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1280X720으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1280X720"
+                    },
+                    {
+                        "name": "이미지 크기를 1500X2100으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1500X2100"
+                    },
+                    {
+                        "name": "이미지 크기를 1584X396으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1584X396"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 1640X923으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1640X923"
+                    },
+                    {
+                        "name": "이미지 크기를 1920X480으로 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1920X480"
+                    },
+                    {
+                        "name": "이미지 크기를 1920X1080으로 크기 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1920X1080"
+                    },
+                    {
+                        "name": "이미지 크기를 1958X745로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-1958X745"
+                    },
+                    {
+                        "name": "이미지 크기를 2037X754로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-2037X754"
+                    },
+                    {
+                        "name": "이미지 크기를 2400X3000으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-2400X3000"
+                    },
+                    {
+                        "name": "이미지 크기를 2550X3300으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-2550X3300"
+                    },
+                    {
+                        "name": "이미지 크기 조절기를 2700X4800으로 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-2700X4800"
+                    },
+                    {
+                        "name": "이미지 크기를 3300X4200으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-3300X4200"
+                    },
+                    {
+                        "name": "이미지 크기를 3300X4800으로 조정 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ko/resize-image-to-3300X4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "이미지 품질을 높게 유지",
+            "content": "이미지를 6X4 치수로 크기 조정 도구를 사용하여 품질을 손상시키지 않고 이미지 크기를 인치로 조정할 수 있습니다.확대된 이미지의 가로 세로 비율은 원본 이미지의 가로 세로 비율과 같습니다.기술적 요구 사항은 없으며 기술적이지 않은 사용자도 절차를 완료 할 수 있습니다.또한 크기가 조정된 이미지의 미리 보기를 제공하므로 가능한 가장 부드러운 방법으로 크기 조정 절차를 완료할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "간편한 사용",
+            "content": "이 이미지 리사이저 6X4 치수 도구 (인치) 는 작동이 매우 간단합니다.무엇보다도 UI는 정말 간단하고 직관적입니다.모든 것이 한 곳에 있기 때문에 편집을 시작할 위치를 추측 할 필요가 없습니다.또한 이미지를 6X4 치수로 크기 조정 도구에는 광고가 포함되어 있지 않으므로 최종 사용자에게 더 즐거운 사용자 경험을 제공합니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "개인 정보 보호 및 데이터 보안",
+            "content": "리사이저 이미지를 6X4 치수로 사용하는 동안 어떠한 데이터도 서버로 전송되거나 마케팅 목적으로 활용되지 않습니다.이미지를 6X4 치수로 크기 조정 도구를 사용하는 동안 수행되는 모든 작업은 브라우저 내에서만 완료됩니다.결과적으로 우리는 모든 고객에게 완전한 안전을 제공 할 수 있으므로 6X4 치수로 이미지 크기 조정 도구를 신뢰할 수 있고 어떤 상황에서도 완전히 안전하게 사용할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "누구나 무료로 사용할 수 있습니다.",
+            "content": "누구나 이미지 크기 조정 도구를 6X4 치수로 사용할 수 있으며 등록 할 필요가 없습니다.리사이저 이미지를 6X4 치수로 사용하는 것은 완전히 무료이며 비용을 청구하지 않습니다.이미지 크기 조절기를 6X4 치수로 사용할 때 이미지 크기를 조정할 수 있는 횟수에는 제한이 없습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "적응성",
+            "content": "크롬, 사파리, 파이어폭스, 마이크로소프트 엣지 및 기타 인기 있는 브라우저는 모두 리사이저 이미지를 6X4 치수로 지원합니다.이미지를 6X4 치수로 크기 조정 도구를 사용하면 모든 화면 크기에 맞게 조정되므로 데스크톱 컴퓨터, 태블릿 컴퓨터 또는 휴대폰에서 쉽게 액세스 할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "더 이상 다운로드할 필요가 없습니다.",
+            "content": "이미지를 6X4 치수로 크기 조정 도구를 사용하기 위해 컴퓨터 또는 모바일 장치에 소프트웨어를 다운로드하거나 설치할 필요가 없습니다.6X4 치수로 이미지 크기 조정 도구는 완전히 브라우저 기반이며 브라우저에 URL을 입력하고 필요에 따라 도구를 사용하여 언제든지 웹 사이트에 액세스 할 수 있습니다."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "이미지 크기 조정 방법",
+        "steps": [
+            "이미지를 업로드하거나 드롭다운 화살표를 클릭하고 Dropbox/Google 드라이브를 선택하여 제공된 공간에서 파일을 선택합니다.",
+            "더 나은 이미지 품질을 위해 매개 변수를 조정합니다.\n",
+            "“미리보기”를 눌러 변경 사항을 한 눈에 볼 수 있습니다.",
+            "변경 사항을 저장합니다.",
+            "만세!!이미지를 사용할 준비가 되었습니다."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+        },
+        {
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+        },
+        {
+            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
+        },
+        {
+            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+        },
+        {
+            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+        },
+        {
+            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
+        },
+        {
+            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
+        },
+        {
+            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
+            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+        },
+        {
+            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+        },
+        {
+            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+        },
+        {
+            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
+            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+        },
+        {
+            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+        },
+        {
+            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the image resizer tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+        },
+        {
+            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+        },
+        {
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/image-resize.css\" />"
+    ]
+}

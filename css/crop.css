@@ -51,10 +51,16 @@
   display: flex;
   padding-top: 10px;
   margin-top: 18px;
+  justify-content: center;
 }
 .function_btns div {
   margin-left: 10px;
   font-size: 19px;
+}
+
+#crop_btn img{
+  height: 25px !important;
+  margin-top: 2px !important;
 }
 
 #output_div {

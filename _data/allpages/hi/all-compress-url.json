@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Compress image 1 to 2mb",
+        "url": "/compress-image-to-1-2-mb"
+    },
+    {
+        "name": "Compress image 1 to 3mb",
+        "url": "/compress-image-to-1-3-mb"
+    },
+    {
+        "name": "Compress image 1 to 8kb",
+        "url": "/compress-image-to-1-8-kb"
+    },
+    {
+        "name": "Compress image to 1mb",
+        "url": "/compress-image-to-1-mb"
+    },
+    {
+        "name": "Compress image 2 to 4kb",
+        "url": "/compress-image-to-2-4-kb"
+    },
+    {
+        "name": "Compress image 2 to 6mb",
+        "url": "/compress-image-to-2-6-mb"
+    },
+    {
+        "name": "Compress image to 2mb",
+        "url": "/compress-image-to-2-mb"
+    },
+    {
+        "name": "Compress image 3 to 5mb",
+        "url": "/compress-image-to-3-5-mb"
+    },
+    {
+        "name": "Compress image to 3kb",
+        "url": "/compress-image-to-3-kb"
+    },
+    {
+        "name": "Compress image 4 to 4kb",
+        "url": "/compress-image-to-4-4-kb"
+    },
+    {
+        "name": "Compress image to 6kb",
+        "url": "/compress-image-to-6-kb"
+    },
+    {
+        "name": "Compress image to 6mb",
+        "url": "/compress-image-to-6-mb"
+    },
+    {
+        "name": "Compress image to 8kb",
+        "url": "/compress-image-to-8-kb"
+    },
+    {
+        "name": "Compress image to 9kb",
+        "url": "/compress-image-to-9-kb"
+    },
+    {
+        "name": "Compress image 11 to 8kb",
+        "url": "/compress-image-to-11-8-kb"
+    },
+    {
+        "name": "Compress image to 15kb",
+        "url": "/compress-image-to-15-kb"
+    },
+    {
+        "name": "Compress image to 20kb",
+        "url": "/compress-image-to-20-kb"
+    },
+    {
+        "name": "Compress image to 25kb",
+        "url": "/compress-image-to-25-kb"
+    },
+    {
+        "name": "Compress image to 27kb",
+        "url": "/compress-image-to-27-kb"
+    },
+    {
+        "name": "Compress image to 30kb",
+        "url": "/compress-image-to-30-kb"
+    },
+    {
+        "name": "Compress image to 50kb",
+        "url": "/compress-image-to-50-kb"
+    },
+    {
+        "name": "Compress image to 71kb",
+        "url": "/compress-image-to-71-kb"
+    },
+    {
+        "name": "Compress image to 79kb",
+        "url": "/compress-image-to-79-kb"
+    },
+    {
+        "name": "Compress image to 100kb",
+        "url": "/compress-image-to-100-kb"
+    },
+    {
+        "name": "Compress image to 173kb",
+        "url": "/compress-image-to-173-kb"
+    },
+    {
+        "name": "Compress image to 200kb",
+        "url": "/compress-image-to-200-kb"
+    },
+    {
+        "name": "Compress image to 240kb",
+        "url": "/compress-image-to-240-kb"
+    },
+    {
+        "name": "Compress image to 256kb",
+        "url": "/compress-image-to-256-kb"
+    },
+    {
+        "name": "Compress image to 299kb",
+        "url": "/compress-image-to-299-kb"
+    },
+    {
+        "name": "Compress image to 300kb",
+        "url": "/compress-image-to-300-kb"
+    },
+    {
+        "name": "Compress image to 399kb",
+        "url": "/compress-image-to-399-kb"
+    },
+    {
+        "name": "Compress image to 414kb",
+        "url": "/compress-image-to-414-kb"
+    },
+    {
+        "name": "Compress image to 425kb",
+        "url": "/compress-image-to-425-kb"
+    },
+    {
+        "name": "Compress image to 480kb",
+        "url": "/compress-image-to-480-kb"
+    },
+    {
+        "name": "Compress image to 500kb",
+        "url": "/compress-image-to-500-kb"
+    },
+    {
+        "name": "Compress image to 600kb",
+        "url": "/compress-image-to-720-kb"
+    }
+]

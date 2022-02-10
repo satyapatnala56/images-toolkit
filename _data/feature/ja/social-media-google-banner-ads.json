@@ -14,6 +14,91 @@
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "ソーシャルメディアのリサイザー",
+                "links": [
+                    {
+                        "name": "フェイスブック画像リサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/ja/image-resize-facebook"
+                    },
+                    {
+                        "name": " インスタグラム画像リサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+                        "url": "/ja/image-resize-instagram"
+                    },
+                    {
+                        "name": " Linkedinの画像リサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+                        "url": "/ja/image-resize-linkedin"
+                    },
+                    {
+                        "name": " メール画像リサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+                        "url": "/ja/image-resize-email"
+                    },
+                    {
+                        "name": " Tiktok 画像リサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+                        "url": "/ja/image-resize-tiktok"
+                    },
+                    {
+                        "name": " ツイッター画像リサイズ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+                        "url": "/ja/image-resize-twitter"
+                    },
+                    {
+                        "name": " Pinterest 画像リサイズ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+                        "url": "/ja/image-resize-pinterest"
+                    },
+                    {
+                        "name": "Snapchat画像リサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+                        "url": "/ja/image-resize-snapchat"
+                    },
+                    {
+                        "name": " Googleバナー広告の画像サイズ変更",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+                        "url": "/ja/image-resize-google-banner-ads"
+                    },
+                    {
+                        "name": " Discord画像リサイズ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+                        "url": "/ja/image-resize-discord"
+                    },
+                    {
+                        "name": " SoundCloud イメージリサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+                        "url": "/ja/image-resize-soundcloud"
+                    },
+                    {
+                        "name": " Whatsapp 画像リサイズ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+                        "url": "/ja/image-resize-whatsapp"
+                    },
+                    {
+                        "name": " スクエアスペースイメージリサイザー",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+                        "url": "/ja/image-resize-squarespace"
+                    },
+                    {
+                        "name": " Twitch 画像リサイズ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+                        "url": "/ja/image-resize-twitch"
+                    },
+                    {
+                        "name": " 印刷イメージリサイズ",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+                        "url": "/ja/image-resize-printing"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
