@@ -237,7 +237,7 @@ function onFileDrop(file) {
   }
 }
 let handleInput = (file) => {
-  fileName = file.name
+  fileName = file.name.split('.')[0]
   document.querySelector('.alert').style.display = 'none'
   document.querySelector('.flex-container').style.display = 'none'
   DownloadButtons.style.display = 'flex'
