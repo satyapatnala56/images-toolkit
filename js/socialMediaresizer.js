@@ -5,7 +5,7 @@ const lang = getScript.dataset.lang
 let resizer = new pica()
 let fileName = ''
 var _URL = window.URL || window.webkitURL
-
+var zip = new JSZip()
 //Decision variable change this to change feature
 let windowURL = window.location.href
 windowURL = windowURL.slice(windowURL.lastIndexOf('/')).split('-')[2]
@@ -382,7 +382,7 @@ let handleDownload = (e) => {
 
   let id = e.id
   let progress = 0
-  var zip = new JSZip()
+
   var ZipFiles = zip.folder(`${fileName}-safeimagekit`)
   total = 0
   if (id == 'download-all') {
