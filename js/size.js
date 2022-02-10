@@ -98,7 +98,7 @@ function convert_webp() {
       document.querySelector('#content').style.visibility = 'visible'
       document.querySelector('#loader-box').style.display = 'none'
       document.querySelector('.container2').style.height = 'auto'
-      document.querySelector('#footer_div').style.paddingTop = '19px'
+      document.querySelector('#footer_div').style.paddingTop = '30px'
       document.querySelector('.container2').style.background = '#fff'
       document.querySelector('.box').style.borderRadius = '20px'
       document.querySelector('.container2').style.borderRadius = '25px'

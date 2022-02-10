@@ -99,14 +99,14 @@
 }
 .custom-dimensions-options {
   display: flex;
-  margin: 30px 0px;
+  margin-top: 30px;
 }
 #resize_quality {
   margin: 30px 0px;
   text-align: left;
 }
 #dimensions_div {
-  margin: 30px 0px;
+  margin-top: 30px;
   text-align: left;
 }
 #dimensions_div .title {
