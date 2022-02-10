@@ -238,8 +238,6 @@ function onFileDrop(file) {
 }
 let handleInput = (file) => {
   fileName = file.name
-  var zip = new JSZip()
-  var ZipFiles = zip.folder(`${fileName}-safeimagekit`)
   document.querySelector('.alert').style.display = 'none'
   document.querySelector('.flex-container').style.display = 'none'
   DownloadButtons.style.display = 'flex'
@@ -384,6 +382,8 @@ let handleDownload = (e) => {
 
   let id = e.id
   let progress = 0
+  var zip = new JSZip()
+  var ZipFiles = zip.folder(`${fileName}-safeimagekit`)
   total = 0
   if (id == 'download-all') {
     DownloadButtons.style.display = 'none'
