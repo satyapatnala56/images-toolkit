@@ -366,7 +366,7 @@ let triggerDownload = () => {
   document.querySelector('.Landing .Container h3').innerText =
     'thanks for your patience'
   document.querySelector('.Landing .Container .ProgressInfo img').src =
-    './img/imageResizer-assets/cheers.svg'
+    '/img/imageResizer-assets/cheers.svg'
   zip.generateAsync({ type: 'blob' }).then(function (content) {
     saveAs(content, `ImageResizer.zip`)
     if (lang === 'en') {

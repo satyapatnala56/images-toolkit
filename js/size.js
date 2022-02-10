@@ -105,9 +105,6 @@ function convert_webp() {
       document.querySelector('.box').style.background = '#ffffff'
       document.querySelector('.box-border').style.background = '#ffffff'
       document.querySelector('.box-border').style.border = 'none'
-      document.querySelector('.flex-container').style.display = 'none'
-      document.querySelector('.alert').style.display = 'none'
-
       window.location.href = '#'
       clearInterval(ans)
     }
