@@ -3,8 +3,9 @@ const getScript = document.currentScript
 const pageTool = getScript.dataset.tool
 const lang = getScript.dataset.lang
 let resizer = new pica()
+let fileName = ''
 var _URL = window.URL || window.webkitURL
-
+var zip = new JSZip()
 //Decision variable change this to change feature
 let windowURL = window.location.href
 windowURL = windowURL.slice(windowURL.lastIndexOf('/')).split('-')[2]
@@ -29,97 +30,97 @@ let UIData = {
     mainColor: '#1773ea',
     fontColor: 'white',
     description: `We've taken all 12 Facebook image sizes and made them easily accessible. Use our image resizer to resize images from stories to ads, posts, cover photos and event pages.`,
-    iconURL: './img/imageResizer-assets/facebook.svg',
+    iconURL: '/img/imageResizer-assets/facebook.svg',
   },
   Instagram: {
     mainColor: '#f00075',
     fontColor: 'white',
     description: `Our image resizer is the perfect tool for businesses and IG users, making it easier to resize images into stories, vertical horizontal and square posts, video thumbnails and more with no effort at all.`,
-    iconURL: './img/imageResizer-assets/instagram.svg',
+    iconURL: '/img/imageResizer-assets/instagram.svg',
   },
   Youtube: {
     mainColor: '#ff0000',
     fontColor: 'white',
     description: `Find the best fit for your YouTube Banner Image. Don't let your channel graphics go unnoticed.`,
-    iconURL: './img/imageResizer-assets/youtube.svg',
+    iconURL: '/img/imageResizer-assets/youtube.svg',
   },
   Linkedin: {
     mainColor: '#0a66c2',
     fontColor: 'white',
     description: `This network of professionals is a great place for any business to show off their content. Resize your photos for LinkedIn and get your profile noticed with high quality images.`,
-    iconURL: './img/imageResizer-assets/linkdin.svg',
+    iconURL: '/img/imageResizer-assets/linkdin.svg',
   },
   Email: {
     mainColor: '#D44638',
     fontColor: 'white',
     description: `The perfect email header can help you get your message across before the user even reads the first sentence. Get their attention and make sure it’s sized right with our free image resizer.`,
-    iconURL: './img/imageResizer-assets/gmail.svg',
+    iconURL: '/img/imageResizer-assets/gmail.svg',
   },
   Tiktok: {
     mainColor: '#000000',
     fontColor: 'white',
     description: `TikTok video dimensions are super precise at 1080x1920 and the max file size is 287.6 MB - size it right with our easy steps above.`,
-    iconURL: './img/imageResizer-assets/tiktok.svg',
+    iconURL: '/img/imageResizer-assets/tiktok.svg',
   },
   Twitter: {
     mainColor: '#1da1f2',
     fontColor: 'white',
     description: `Whether you're creating a header or profile image - the perfect image size is a must to get the best quality visual. Our image resizer has you covered for all 11 Twitter dimensions in one easy click.`,
-    iconURL: './img/imageResizer-assets/twitter.svg',
+    iconURL: '/img/imageResizer-assets/twitter.svg',
   },
   Pinterest: {
     mainColor: '#bd081c',
     fontColor: 'white',
     description: `Pins, thumbnails, board covers...use this image resizer to create an aesthetically pleasing board with all your favorite pins.`,
-    iconURL: './img/imageResizer-assets/pinterest.svg',
+    iconURL: '/img/imageResizer-assets/pinterest.svg',
   },
   Snapchat: {
     mainColor: '#9999ff',
     fontColor: 'white',
     description: `Snapchat images have one universal dimension - 1080 x 1920. Use our free online collage maker to make your image more interesting before resizing it with our image resizer.`,
-    iconURL: './img/imageResizer-assets/snapchat.svg',
+    iconURL: '/img/imageResizer-assets/snapchat.svg',
   },
   'Google Banner Ads': {
     mainColor: '#ea4335',
     fontColor: 'white',
     description: `When creating ads for your business, ease is the best route. All 22 dimensions for Google Display Network banners can be created here, using Promo.com’s pic resizer.`,
-    iconURL: './img/imageResizer-assets/google.svg',
+    iconURL: '/img/imageResizer-assets/google.svg',
   },
   Discord: {
     mainColor: '#535fee',
     fontColor: 'white',
     description: `Resize your images now for various discord uploads.`,
-    iconURL: './img/imageResizer-assets/discord.svg',
+    iconURL: '/img/imageResizer-assets/discord.svg',
   },
   Soundcloud: {
     mainColor: '#f77b00',
     fontColor: 'white',
     description: `Resize your images now for various soundcloud uploads.`,
-    iconURL: './img/imageResizer-assets/soundcloud.svg',
+    iconURL: '/img/imageResizer-assets/soundcloud.svg',
   },
   Whatsapp: {
     mainColor: '#17980e',
     fontColor: 'white',
     description: `Resize your images now for various whatsapp uploads.`,
-    iconURL: './img/imageResizer-assets/whatsapp.svg',
+    iconURL: '/img/imageResizer-assets/whatsapp.svg',
   },
   Twitch: {
     mainColor: '#8c44f7',
     fontColor: 'white',
     description: `Resize your images now for various twitch uploads.`,
-    iconURL: './img/imageResizer-assets/twitch.svg',
+    iconURL: '/img/imageResizer-assets/twitch.svg',
   },
   Squarespace: {
     mainColor: '#8c44f7',
     fontColor: 'white',
     description: `Resize your images now for various twitch uploads.`,
-    iconURL: './img/imageResizer-assets/squarespace.svg',
+    iconURL: '/img/imageResizer-assets/squarespace.svg',
   },
   Printing: {
     mainColor: '#26d0c7',
     fontColor: 'white',
     description: `Resize your images now for various printing uploads.`,
-    iconURL: './img/imageResizer-assets/printing.svg',
+    iconURL: '/img/imageResizer-assets/printing.svg',
   },
 }
 
@@ -156,7 +157,7 @@ let landingContainer = document.querySelector('.Landing')
 let workspaceContainer = document.querySelector('.workspace')
 let infoContainerTopBarh4 = document.getElementById('overlayh4')
 let infoContainerTopBarp = document.getElementById('overlayp')
-fetch('../JS/ResizerData.json')
+fetch('/JS/ResizerData.json')
   .then((response) => {
     return response.json()
   })
@@ -236,6 +237,7 @@ function onFileDrop(file) {
   }
 }
 let handleInput = (file) => {
+  fileName = file.name.split('.')[0]
   document.querySelector('.alert').style.display = 'none'
   document.querySelector('.flex-container').style.display = 'none'
   DownloadButtons.style.display = 'flex'
@@ -357,8 +359,6 @@ let showPreviews = () => {
   workspaceContainer.style.display = 'inherit'
 }
 
-var zip = new JSZip()
-var ZipFiles = zip.folder('IconResizer')
 let triggerDownload = () => {
   document.querySelector('.alert').style.display = 'block'
   document.querySelector('.flex-container').style.display = 'block'
@@ -366,9 +366,9 @@ let triggerDownload = () => {
   document.querySelector('.Landing .Container h3').innerText =
     'thanks for your patience'
   document.querySelector('.Landing .Container .ProgressInfo img').src =
-    './img/imageResizer-assets/cheers.svg'
+    '/img/imageResizer-assets/cheers.svg'
   zip.generateAsync({ type: 'blob' }).then(function (content) {
-    saveAs(content, `ImageResizer.zip`)
+    saveAs(content, `${fileName}-safeimagekit.zip`)
     if (lang === 'en') {
       window.location.href = `/download?tool=${pageTool}`
     } else {
@@ -382,6 +382,8 @@ let handleDownload = (e) => {
 
   let id = e.id
   let progress = 0
+
+  var ZipFiles = zip.folder(`${fileName}-safeimagekit`)
   total = 0
   if (id == 'download-all') {
     DownloadButtons.style.display = 'none'
@@ -401,7 +403,10 @@ let handleDownload = (e) => {
             .then(async () => {
               await resizer.toBlob(canvasTemp).then(async (blob) => {
                 progress += 1
-                await ZipFiles.file(`${currentURL + key}.png`, blob)
+                await ZipFiles.file(
+                  `${currentURL + key}-safeimagekit.png`,
+                  blob
+                )
                 progressBar.style.width = (progress / total) * 100 + '%'
                 if (progress >= total) triggerDownload()
               })
@@ -419,7 +424,10 @@ let handleDownload = (e) => {
             .then(async () => {
               await resizer.toBlob(canvasTemp).then(async (blob) => {
                 progress += 1
-                await ZipFiles.file(`${currentURL + key}.png`, blob)
+                await ZipFiles.file(
+                  `${currentURL + key}-safeimagekit.png`,
+                  blob
+                )
                 progressBar.style.width = (progress / total) * 100 + '%'
                 if (progress >= total) triggerDownload()
               })
@@ -434,6 +442,101 @@ let handleDownload = (e) => {
     total = Object.keys(checkedBoxes).length
     if (total == 0) {
       err_msg.style.visibility = 'visible'
+    } else if (total === 1) {
+      err_msg.style.visibility = 'hidden'
+
+      DownloadButtons.style.display = 'none'
+
+      for (let key in checkedBoxes) {
+        if (checkedBoxes[key]) {
+          if (key in canvases) {
+            let canvas = canvases[key]
+            let url = canvas.toDataURL('image/png', 1)
+            let img = new Image()
+            let canvasTemp = document.createElement('canvas')
+            canvasTemp.width = currentData[key][0]
+            canvasTemp.height = currentData[key][1]
+            img.onload = async () => {
+              await resizer
+                .resize(img, canvasTemp, { quality: 3 })
+                .then(async () => {
+                  await resizer.toBlob(canvasTemp).then(async (blob) => {
+                    progress += 1
+                    progressBar.style.width = (progress / total) * 100 + '%'
+                    if (progress >= total) {
+                      document.querySelector('.alert').style.display = 'block'
+                      document.querySelector('.flex-container').style.display =
+                        'block'
+                      progressBar.style.display = 'none'
+                      document.querySelector(
+                        '.Landing .Container h3'
+                      ).innerText = 'thanks for your patience'
+                      document.querySelector(
+                        '.Landing .Container .ProgressInfo img'
+                      ).src = '/img/imageResizer-assets/cheers.svg'
+                      const url = window.URL.createObjectURL(blob)
+                      const a = document.createElement('a')
+                      a.style.display = 'none'
+                      a.href = url
+                      // the filename you want
+                      a.download = `${currentURL + key}-safeimagekit.png`
+                      document.body.appendChild(a)
+                      a.click()
+                      window.URL.revokeObjectURL(url)
+                      if (lang === 'en') {
+                        window.location.href = `/download?tool=${pageTool}`
+                      } else {
+                        window.location.href = `/${lang}/download?tool=${pageTool}`
+                      }
+                      if (lang === 'en') {
+                        window.location.href = `/download?tool=${pageTool}`
+                      } else {
+                        window.location.href = `/${lang}/download?tool=${pageTool}`
+                      }
+                    }
+                  })
+                })
+            }
+            img.src = url
+          } else {
+            let img = new Image()
+            let canvasTemp = document.createElement('canvas')
+            canvasTemp.width = currentData[key][0]
+            canvasTemp.height = currentData[key][1]
+            img.onload = async () => {
+              await resizer
+                .resize(img, canvasTemp, { quality: 3 })
+                .then(async () => {
+                  await resizer.toBlob(canvasTemp).then(async (blob) => {
+                    progress += 1
+                    progressBar.style.width = (progress / total) * 100 + '%'
+                    if (progress >= total) {
+                      const url = window.URL.createObjectURL(blob)
+                      const a = document.createElement('a')
+                      a.style.display = 'none'
+                      a.href = url
+                      a.download = `${currentURL + key}-safeimagekit.png`
+                      document.body.appendChild(a)
+                      a.click()
+                      window.URL.revokeObjectURL(url)
+                      if (lang === 'en') {
+                        window.location.href = `/download?tool=${pageTool}`
+                      } else {
+                        window.location.href = `/${lang}/download?tool=${pageTool}`
+                      }
+                    }
+                  })
+                })
+            }
+            img.src = imgURLrl
+          }
+        }
+      }
+      workspaceContainer.style.display = 'none'
+      landingContainer.style.display = 'flex'
+      document
+        .querySelector('.Landing .Container')
+        .classList.add('ContainerOnloading')
     } else {
       err_msg.style.visibility = 'hidden'
 
@@ -454,7 +557,10 @@ let handleDownload = (e) => {
                 .then(async () => {
                   await resizer.toBlob(canvasTemp).then(async (blob) => {
                     progress += 1
-                    await ZipFiles.file(`${currentURL + key}.png`, blob)
+                    await ZipFiles.file(
+                      `${currentURL + key}-safeimagekit.png`,
+                      blob
+                    )
                     progressBar.style.width = (progress / total) * 100 + '%'
                     if (progress >= total) triggerDownload()
                   })
@@ -472,7 +578,10 @@ let handleDownload = (e) => {
                 .then(async () => {
                   await resizer.toBlob(canvasTemp).then(async (blob) => {
                     progress += 1
-                    await ZipFiles.file(`${currentURL + key}.png`, blob)
+                    await ZipFiles.file(
+                      `${currentURL + key}-safeimagekit.png`,
+                      blob
+                    )
                     progressBar.style.width = (progress / total) * 100 + '%'
                     if (progress >= total) triggerDownload()
                   })

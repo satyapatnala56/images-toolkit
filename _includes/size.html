@@ -1,7 +1,4 @@
 <div class="container2">
-  <div class="alert alert-success success_alert" role="alert">
-    Converting Image...
-  </div>
   <div id="upper-loader"></div>
 
   <span id="inputbox">
@@ -50,54 +47,51 @@
       <span id="loader"></span>
     </div>
   </div>
-  <span id="content">
-    <div id="header_div">Resize your image</div>
-    <div id="function_div">
-      <div id="output_div" class="function_box">
-        <div id="output_div_inner"><img src="" alt="" /></div>
+  <div id="content">
+    <div class="row">
+      <div class="col-md-8">
+        <div id="function_div">
+          <div id="output_div" class="function_box">
+            <div id="output_div_inner"><img src="" alt="" /></div>
+          </div>
+        </div>
       </div>
-      <div id="options_div" class="function_box">
-        <div class="row">
-          <div class="col col-ms-12 col-lg-12 col-sm-12 col-xl-12">
-            <div class="input_div" id="file_name">
-              <p>Filename As</p>
-              <input type="text" />
-            </div>
+      <div class="col-md-4">
+        <div class="alert alert-success success_alert" role="alert">
+          Converting Image...
+        </div>
+        <div id="header_div">Resize image</div>
+        <div id="options_div" class="function_box">
+          <div class="custom-dimensions-options">
             <div class="input_div" id="resize_height">
-              <p>Height</p>
-              <input type="number" />
+              <div>Height</div>
+              <input type="number" class="change-config" id="img_height" />
+              <span class="ml-1 mr-4">px</span>
             </div>
             <div class="input_div" id="resize_width">
-              <p>Width</p>
-              <input type="number" />
+              <div>Width</div>
+              <input type="number" class="change-config" id="img_width" />
+              <span class="ml-1">px</span>
             </div>
-            <br />
-            <div class="input_div" id="resize_quality">
-              <p>Quality</p>
-              <select name="" id="">
-                <option value="1">1</option>
-                <option value="0.9">0.9</option>
-                <option value="0.8">0.8</option>
-                <option value="0.7">0.7</option>
-                <option value="0.6">0.6</option>
-                <option value="0.5">0.5</option>
-                <option value="0.4">0.4</option>
-                <option value="0.3">0.3</option>
-                <option value="0.2">0.2</option>
-                <option value="0.1">0.1</option>
-              </select>
-            </div>
-            <div class="input_div" id="save_as">
-              <p>Save As</p>
-              <select name="" id="">
-                <option value="png">PNG</option>
-                <option value="jpg">JPG</option>
-                <option value="jpeg">JPEG</option>
-                <option value="webp">WEBP</option>
-              </select>
-            </div>
-            <div id="dimensions_div">
-              <p>Dimensions</p>
+          </div>
+          <div class="input_div d-none" id="resize_quality">
+            <span>Quality:</span>
+            <select class="custom-select change-config" name="" id="img_quality">
+              <option value="1">1</option>
+              <option value="0.9">0.9</option>
+              <option value="0.8">0.8</option>
+              <option value="0.7">0.7</option>
+              <option value="0.6">0.6</option>
+              <option value="0.5">0.5</option>
+              <option value="0.4">0.4</option>
+              <option value="0.3">0.3</option>
+              <option value="0.2">0.2</option>
+              <option value="0.1">0.1</option>
+            </select>
+          </div>
+          <div id="dimensions_div">
+            <div class="title">Dimensions</div>
+            <div class="dimension-btns">
               <div class="dimension_btn" id="300X300">300 X 300</div>
               <div class="dimension_btn" id="900X1500">900 X 1500</div>
               <div class="dimension_btn" id="700X720">700 X 720</div>
@@ -105,15 +99,22 @@
               <div class="dimension_btn" id="320X480">320 X 480</div>
             </div>
           </div>
+          <div class="input_div" id="save_as" style="margin-top: 30px;">
+            <span>Save As:</span>
+            <select class="custom-select" name="" id="">
+              <option value="png">PNG</option>
+              <option value="jpg">JPG</option>
+              <option value="jpeg">JPEG</option>
+              <option value="webp">WEBP</option>
+            </select>
+          </div>
+        </div>
+        <div id="footer_div">
+          <a class="btn-design" id="save">Save</a>
         </div>
       </div>
     </div>
-    <div id="footer_div">
-      <a class="btn" id="save">SAVE&nbsp; CHANGES</a>
-      <a class="btn" id="preview">PREVIEW</a>
-    </div>
-  </span>
-
+  </div>
   <span class="thankyouBox"> </span>
 </div>
 <input onchange="fileOnChange()" type="file" id="file" accept=".jpg,.jpeg,.png,.webp" class="file" />
