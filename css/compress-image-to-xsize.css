@@ -9,7 +9,7 @@
 
 .output_div {
   width: 66.5%;
-  height: 736px;
+  height: 345px;
   /* float: right; */
   display: flex;
   justify-content: center;
@@ -148,6 +148,15 @@
   margin-top: 16px;
   height: 67px;
   width: 98px;
+}
+
+#thankyouImage{
+  margin-top: 18px !important;
+}
+
+#newFileSize{
+  font-size: 17px;
+  color: white;
 }
 
 @media (max-width: 1056px) {
