@@ -92,6 +92,11 @@ const handleDownload = () => {
   document.body.appendChild(a)
   a.click()
   window.URL.revokeObjectURL(url)
+  if (lang === 'en') {
+    window.location.href = `/download?tool=${pageTool}`
+  } else {
+    window.location.href = `/${lang}/download?tool=${pageTool}`
+  }
 }
 const fileSize = (bytes, decimals = 2) => {
   if (bytes === 0) return '0 Bytes'
