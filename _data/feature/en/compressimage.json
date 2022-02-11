@@ -136,7 +136,6 @@
     "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
   ],
   "csscdns": [
-    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
     "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
   ]
 }
