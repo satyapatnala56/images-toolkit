@@ -22,104 +22,104 @@
                 "categoryName": "inç cinsinden görüntüler resizers",
                 "links": [
                     {
-                        "name": "3X5'e resizer görüntüsü ",
+                        "name": "3x5'e resizer görüntüsü ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-3X5"
+                        "url": "/tr/resize-image-to-3x5"
                     },
                     {
-                        "name": "resizer görüntüsü 4X6 ",
+                        "name": "resizer görüntüsü 4x6 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-4X6"
+                        "url": "/tr/resize-image-to-4x6"
                     },
                     {
-                        "name": "5X7'ye resizer görüntüsü ",
+                        "name": "5x7'ye resizer görüntüsü ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-5X7"
+                        "url": "/tr/resize-image-to-5x7"
                     },
                     {
-                        "name": "resizer görüntüsü 8X8",
+                        "name": "resizer görüntüsü 8x8",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-8X8"
+                        "url": "/tr/resize-image-to-8x8"
                     },
                     {
-                        "name": "resizer görüntüsü 8X10'a ",
+                        "name": "resizer görüntüsü 8x10'a ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-8X10"
+                        "url": "/tr/resize-image-to-8x10"
                     },
                     {
-                        "name": "resizer görüntüsü 8X11 ",
+                        "name": "resizer görüntüsü 8x11 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-8X11"
+                        "url": "/tr/resize-image-to-8x11"
                     },
                     {
-                        "name": "2X2 resizer görüntü ",
+                        "name": "2x2 resizer görüntü ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-2X2"
+                        "url": "/tr/resize-image-to-2x2"
                     },
                     {
-                        "name": "resizer görüntüsü 9X16 ",
+                        "name": "resizer görüntüsü 9x16 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-9X16"
+                        "url": "/tr/resize-image-to-9x16"
                     },
                     {
-                        "name": "resizer görüntüsü 11X14 ",
+                        "name": "resizer görüntüsü 11x14 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-11X14"
+                        "url": "/tr/resize-image-to-11x14"
                     },
                     {
-                        "name": "resizer görüntüsü 11X16 ",
+                        "name": "resizer görüntüsü 11x16 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-11X16"
+                        "url": "/tr/resize-image-to-11x16"
                     },
                     {
-                        "name": "resizer görüntüsü 12X18 ",
+                        "name": "resizer görüntüsü 12x18 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-12X18"
+                        "url": "/tr/resize-image-to-12x18"
                     },
                     {
-                        "name": "resizer görüntüsü 18X24 ",
+                        "name": "resizer görüntüsü 18x24 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-18X24"
+                        "url": "/tr/resize-image-to-18x24"
                     },
                     {
-                        "name": "resizer görüntüsü 18X36 ",
+                        "name": "resizer görüntüsü 18x36 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-18X36"
+                        "url": "/tr/resize-image-to-18x36"
                     },
                     {
-                        "name": "resizer görüntüsü 20X24 ",
+                        "name": "resizer görüntüsü 20x24 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-20X24"
+                        "url": "/tr/resize-image-to-20x24"
                     },
                     {
-                        "name": "resizer görüntüsü 24X36 ",
+                        "name": "resizer görüntüsü 24x36 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-24X36"
+                        "url": "/tr/resize-image-to-24x36"
                     },
                     {
-                        "name": "resizer görüntüsü 24X30 ",
+                        "name": "resizer görüntüsü 24x30 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-24X30"
+                        "url": "/tr/resize-image-to-24x30"
                     },
                     {
-                        "name": "resizer görüntüsü 24X48 ",
+                        "name": "resizer görüntüsü 24x48 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-24X48"
+                        "url": "/tr/resize-image-to-24x48"
                     },
                     {
-                        "name": "resizer görüntüsü 29X21 ",
+                        "name": "resizer görüntüsü 29x21 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-29X21"
+                        "url": "/tr/resize-image-to-29x21"
                     },
                     {
-                        "name": "resizer görüntüsü 30X36 ",
+                        "name": "resizer görüntüsü 30x36 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-30X36"
+                        "url": "/tr/resize-image-to-30x36"
                     },
                     {
-                        "name": "resizer görüntüsü 30X40'a ",
+                        "name": "resizer görüntüsü 30x40'a ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-30X40"
+                        "url": "/tr/resize-image-to-30x40"
                     }
                 ]
             },
@@ -127,229 +127,229 @@
                 "categoryName": "piksel olarak görüntü yeniden boyutlandırıcılar",
                 "links": [
                     {
-                        "name": "yeniden boyutlandırıcı görüntü 900X1500 ",
+                        "name": "yeniden boyutlandırıcı görüntü 900x1500 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-900X1500"
+                        "url": "/tr/resize-image-to-900x1500"
                     },
                     {
-                        "name": "resizer görüntüsü 1200X1800 ",
+                        "name": "resizer görüntüsü 1200x1800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1200X1800"
+                        "url": "/tr/resize-image-to-1200x1800"
                     },
                     {
-                        "name": "yeniden boyutlandırıcı görüntüsü 32X32 ",
+                        "name": "yeniden boyutlandırıcı görüntüsü 32x32 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-32X32"
+                        "url": "/tr/resize-image-to-32x32"
                     },
                     {
-                        "name": "resizer görüntüsü 42X59 ",
+                        "name": "resizer görüntüsü 42x59 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-42X59"
+                        "url": "/tr/resize-image-to-42x59"
                     },
                     {
-                        "name": "resizer görüntüsü 128X128 ",
+                        "name": "resizer görüntüsü 128x128 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-128X128"
+                        "url": "/tr/resize-image-to-128x128"
                     },
                     {
-                        "name": "resizer görüntüsü 21X29 ",
+                        "name": "resizer görüntüsü 21x29 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-21X29"
+                        "url": "/tr/resize-image-to-21x29"
                     },
                     {
-                        "name": "resizer görüntüsü 150X150 ",
+                        "name": "resizer görüntüsü 150x150 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-150X150"
+                        "url": "/tr/resize-image-to-150x150"
                     },
                     {
-                        "name": "resizer görüntüsü 168X168 ",
+                        "name": "resizer görüntüsü 168x168 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-168X168"
+                        "url": "/tr/resize-image-to-168x168"
                     },
                     {
-                        "name": "resizer görüntüsü 170X170 ",
+                        "name": "resizer görüntüsü 170x170 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-170X170"
+                        "url": "/tr/resize-image-to-170x170"
                     },
                     {
-                        "name": "resizer görüntüsü 254X94 ",
+                        "name": "resizer görüntüsü 254x94 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-254X94"
+                        "url": "/tr/resize-image-to-254x94"
                     },
                     {
-                        "name": "resizer görüntüsü 266X177 ",
+                        "name": "resizer görüntüsü 266x177 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-266X177"
+                        "url": "/tr/resize-image-to-266x177"
                     },
                     {
-                        "name": "resizer görüntüsü 300X300 ",
+                        "name": "resizer görüntüsü 300x300 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-300X300"
+                        "url": "/tr/resize-image-to-300x300"
                     },
                     {
-                        "name": "resizer görüntüsü 320X320 ",
+                        "name": "resizer görüntüsü 320x320 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-320X320"
+                        "url": "/tr/resize-image-to-320x320"
                     },
                     {
-                        "name": "resizer görüntüsü 385X256'ya ",
+                        "name": "resizer görüntüsü 385x256'ya ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-385X256"
+                        "url": "/tr/resize-image-to-385x256"
                     },
                     {
-                        "name": "resizer görüntüsü 450X450'ye ",
+                        "name": "resizer görüntüsü 450x450'ye ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-450X450"
+                        "url": "/tr/resize-image-to-450x450"
                     },
                     {
-                        "name": "resizer görüntüsü 500X500 ",
+                        "name": "resizer görüntüsü 500x500 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-500X500"
+                        "url": "/tr/resize-image-to-500x500"
                     },
                     {
-                        "name": "resizer görüntüsü 560X208 ",
+                        "name": "resizer görüntüsü 560x208 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-560X208"
+                        "url": "/tr/resize-image-to-560x208"
                     },
                     {
-                        "name": "resizer görüntüsü 630X1200 ",
+                        "name": "resizer görüntüsü 630x1200 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-630X1200"
+                        "url": "/tr/resize-image-to-630x1200"
                     },
                     {
-                        "name": "resizer görüntüsü 700X800 ",
+                        "name": "resizer görüntüsü 700x800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-700X800"
+                        "url": "/tr/resize-image-to-700x800"
                     },
                     {
-                        "name": "resizer görüntüsü 800X2000 ",
+                        "name": "resizer görüntüsü 800x2000 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-800X2000"
+                        "url": "/tr/resize-image-to-800x2000"
                     },
                     {
-                        "name": "yeniden boyutlandırıcı görüntü 900X1500 ",
+                        "name": "yeniden boyutlandırıcı görüntü 900x1500 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-900X1500"
+                        "url": "/tr/resize-image-to-900x1500"
                     },
                     {
-                        "name": "resizer görüntüsü 1000X524 ",
+                        "name": "resizer görüntüsü 1000x524 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1000X524"
+                        "url": "/tr/resize-image-to-1000x524"
                     },
                     {
-                        "name": "resizer görüntüsü 1000X1000 ",
+                        "name": "resizer görüntüsü 1000x1000 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1000X1000"
+                        "url": "/tr/resize-image-to-1000x1000"
                     },
                     {
-                        "name": "resizer görüntüsü 1024X768 ",
+                        "name": "resizer görüntüsü 1024x768 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1024X768"
+                        "url": "/tr/resize-image-to-1024x768"
                     },
                     {
-                        "name": "yeniden boyutlandırıcı görüntü 1080X1920 ",
+                        "name": "yeniden boyutlandırıcı görüntü 1080x1920 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1080X1920"
+                        "url": "/tr/resize-image-to-1080x1920"
                     },
                     {
-                        "name": "resizer görüntüsü 1080X1080 ",
+                        "name": "resizer görüntüsü 1080x1080 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1080X1080"
+                        "url": "/tr/resize-image-to-1080x1080"
                     },
                     {
-                        "name": "yeniden boyutlandırıcı görüntü 1080X1350 ",
+                        "name": "yeniden boyutlandırıcı görüntü 1080x1350 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1080X1350"
+                        "url": "/tr/resize-image-to-1080x1350"
                     },
                     {
-                        "name": "resizer görüntüsü 1200X628 ",
+                        "name": "resizer görüntüsü 1200x628 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1200X628"
+                        "url": "/tr/resize-image-to-1200x628"
                     },
                     {
-                        "name": "resizer görüntüsü 1200X630 ",
+                        "name": "resizer görüntüsü 1200x630 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1200X630"
+                        "url": "/tr/resize-image-to-1200x630"
                     },
                     {
-                        "name": "resizer görüntüsü 1200X675 ",
+                        "name": "resizer görüntüsü 1200x675 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1200X675"
+                        "url": "/tr/resize-image-to-1200x675"
                     },
                     {
-                        "name": "resizer görüntüsü 1200X1200 ",
+                        "name": "resizer görüntüsü 1200x1200 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1200X1200"
+                        "url": "/tr/resize-image-to-1200x1200"
                     },
                     {
-                        "name": "resizer görüntüsü 1200X1800 ",
+                        "name": "resizer görüntüsü 1200x1800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1200X1800"
+                        "url": "/tr/resize-image-to-1200x1800"
                     },
                     {
-                        "name": "resizer görüntüsü 1280X720 ",
+                        "name": "resizer görüntüsü 1280x720 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1280X720"
+                        "url": "/tr/resize-image-to-1280x720"
                     },
                     {
-                        "name": "resizer görüntüsü 1500X2100 ",
+                        "name": "resizer görüntüsü 1500x2100 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1500X2100"
+                        "url": "/tr/resize-image-to-1500x2100"
                     },
                     {
-                        "name": "resizer görüntüsü 1584X396 ",
+                        "name": "resizer görüntüsü 1584x396 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1584X396"
+                        "url": "/tr/resize-image-to-1584x396"
                     },
                     {
-                        "name": "resizer görüntüsü 1640X923 ",
+                        "name": "resizer görüntüsü 1640x923 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1640X923"
+                        "url": "/tr/resize-image-to-1640x923"
                     },
                     {
-                        "name": "resizer görüntüsü 1920X480 ",
+                        "name": "resizer görüntüsü 1920x480 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1920X480"
+                        "url": "/tr/resize-image-to-1920x480"
                     },
                     {
-                        "name": "resizer görüntüsü 1920X1080 ",
+                        "name": "resizer görüntüsü 1920x1080 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1920X1080"
+                        "url": "/tr/resize-image-to-1920x1080"
                     },
                     {
-                        "name": "resizer görüntüsü 1958X745'e ",
+                        "name": "resizer görüntüsü 1958x745'e ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-1958X745"
+                        "url": "/tr/resize-image-to-1958x745"
                     },
                     {
-                        "name": "resizer görüntüsü 2037X754 ",
+                        "name": "resizer görüntüsü 2037x754 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-2037X754"
+                        "url": "/tr/resize-image-to-2037x754"
                     },
                     {
-                        "name": "resizer görüntü 2400X3000 için ",
+                        "name": "resizer görüntü 2400x3000 için ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-2400X3000"
+                        "url": "/tr/resize-image-to-2400x3000"
                     },
                     {
-                        "name": "resizer görüntüsü 2550X3300 ",
+                        "name": "resizer görüntüsü 2550x3300 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-2550X3300"
+                        "url": "/tr/resize-image-to-2550x3300"
                     },
                     {
-                        "name": "resizer görüntü 2700X4800 ",
+                        "name": "resizer görüntü 2700x4800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-2700X4800"
+                        "url": "/tr/resize-image-to-2700x4800"
                     },
                     {
-                        "name": "resizer görüntüsü 3300X4200 ",
+                        "name": "resizer görüntüsü 3300x4200 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-3300X4200"
+                        "url": "/tr/resize-image-to-3300x4200"
                     },
                     {
-                        "name": "resizer görüntü 3300X4800 ",
+                        "name": "resizer görüntü 3300x4800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/tr/resize-image-to-3300X4800"
+                        "url": "/tr/resize-image-to-3300x4800"
                     }
                 ]
             }
