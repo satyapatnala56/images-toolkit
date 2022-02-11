@@ -22,104 +22,104 @@
                 "categoryName": "이미지 리사이저 (인치)",
                 "links": [
                     {
-                        "name": "이미지를 3X5로 크기 조정 ",
+                        "name": "이미지를 3x5로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-3X5"
+                        "url": "/ko/resize-image-to-3x5"
                     },
                     {
-                        "name": "이미지를 4X6으로 크기 조정 ",
+                        "name": "이미지를 4x6으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-4X6"
+                        "url": "/ko/resize-image-to-4x6"
                     },
                     {
-                        "name": "이미지를 5X7로 크기 조정 ",
+                        "name": "이미지를 5x7로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-5X7"
+                        "url": "/ko/resize-image-to-5x7"
                     },
                     {
-                        "name": "이미지를 8X8로 크기 조정",
+                        "name": "이미지를 8x8로 크기 조정",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-8X8"
+                        "url": "/ko/resize-image-to-8x8"
                     },
                     {
-                        "name": "이미지를 8X10으로 크기 조정 ",
+                        "name": "이미지를 8x10으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-8X10"
+                        "url": "/ko/resize-image-to-8x10"
                     },
                     {
-                        "name": "이미지를 8X11로 크기 조정 ",
+                        "name": "이미지를 8x11로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-8X11"
+                        "url": "/ko/resize-image-to-8x11"
                     },
                     {
-                        "name": "이미지를 2X2로 크기 조정 ",
+                        "name": "이미지를 2x2로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-2X2"
+                        "url": "/ko/resize-image-to-2x2"
                     },
                     {
-                        "name": "이미지를 9X16으로 크기 조정 ",
+                        "name": "이미지를 9x16으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-9X16"
+                        "url": "/ko/resize-image-to-9x16"
                     },
                     {
-                        "name": "이미지를 11X14로 크기 조정 ",
+                        "name": "이미지를 11x14로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-11X14"
+                        "url": "/ko/resize-image-to-11x14"
                     },
                     {
-                        "name": "이미지를 11X16으로 크기 조정 ",
+                        "name": "이미지를 11x16으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-11X16"
+                        "url": "/ko/resize-image-to-11x16"
                     },
                     {
-                        "name": "이미지를 12X18로 크기 조정 ",
+                        "name": "이미지를 12x18로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-12X18"
+                        "url": "/ko/resize-image-to-12x18"
                     },
                     {
-                        "name": "이미지를 18X24로 크기 조정 ",
+                        "name": "이미지를 18x24로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-18X24"
+                        "url": "/ko/resize-image-to-18x24"
                     },
                     {
-                        "name": "이미지를 18X36으로 크기 조정 ",
+                        "name": "이미지를 18x36으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-18X36"
+                        "url": "/ko/resize-image-to-18x36"
                     },
                     {
-                        "name": "이미지를 20X24로 크기 조정 ",
+                        "name": "이미지를 20x24로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-20X24"
+                        "url": "/ko/resize-image-to-20x24"
                     },
                     {
-                        "name": "이미지를 24X36으로 크기 조정 ",
+                        "name": "이미지를 24x36으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-24X36"
+                        "url": "/ko/resize-image-to-24x36"
                     },
                     {
-                        "name": "이미지를 24X30으로 크기 조정 ",
+                        "name": "이미지를 24x30으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-24X30"
+                        "url": "/ko/resize-image-to-24x30"
                     },
                     {
-                        "name": "이미지를 24X48로 크기 조정 ",
+                        "name": "이미지를 24x48로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-24X48"
+                        "url": "/ko/resize-image-to-24x48"
                     },
                     {
-                        "name": "이미지를 29X21로 크기 조정하기 ",
+                        "name": "이미지를 29x21로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-29X21"
+                        "url": "/ko/resize-image-to-29x21"
                     },
                     {
-                        "name": "이미지를 30X36으로 크기 조정 ",
+                        "name": "이미지를 30x36으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-30X36"
+                        "url": "/ko/resize-image-to-30x36"
                     },
                     {
-                        "name": "이미지를 30X40으로 크기 조정 ",
+                        "name": "이미지를 30x40으로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-30X40"
+                        "url": "/ko/resize-image-to-30x40"
                     }
                 ]
             },
@@ -127,229 +127,229 @@
                 "categoryName": "이미지 리사이저 (픽셀)",
                 "links": [
                     {
-                        "name": "이미지를 900X1500으로 크기 조정하기 ",
+                        "name": "이미지를 900x1500으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-900X1500"
+                        "url": "/ko/resize-image-to-900x1500"
                     },
                     {
-                        "name": "이미지를 1200X1800으로 크기 조정하기 ",
+                        "name": "이미지를 1200x1800으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1200X1800"
+                        "url": "/ko/resize-image-to-1200x1800"
                     },
                     {
-                        "name": "이미지를 32X32로 크기 조정 ",
+                        "name": "이미지를 32x32로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-32X32"
+                        "url": "/ko/resize-image-to-32x32"
                     },
                     {
-                        "name": "이미지를 42X59로 크기 조정 ",
+                        "name": "이미지를 42x59로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-42X59"
+                        "url": "/ko/resize-image-to-42x59"
                     },
                     {
-                        "name": "이미지를 128X128로 크기 조정하기 ",
+                        "name": "이미지를 128x128로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-128X128"
+                        "url": "/ko/resize-image-to-128x128"
                     },
                     {
-                        "name": "이미지를 21X29로 크기 조정 ",
+                        "name": "이미지를 21x29로 크기 조정 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-21X29"
+                        "url": "/ko/resize-image-to-21x29"
                     },
                     {
-                        "name": "이미지를 150X150으로 크기 조정하기 ",
+                        "name": "이미지를 150x150으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-150X150"
+                        "url": "/ko/resize-image-to-150x150"
                     },
                     {
-                        "name": "이미지를 168X168로 크기 조정하기 ",
+                        "name": "이미지를 168x168로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-168X168"
+                        "url": "/ko/resize-image-to-168x168"
                     },
                     {
-                        "name": "이미지를 170X170으로 크기 조정하기 ",
+                        "name": "이미지를 170x170으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-170X170"
+                        "url": "/ko/resize-image-to-170x170"
                     },
                     {
-                        "name": "이미지를 254X94로 크기 조정하기 ",
+                        "name": "이미지를 254x94로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-254X94"
+                        "url": "/ko/resize-image-to-254x94"
                     },
                     {
-                        "name": "이미지를 266X177로 크기 조정하기 ",
+                        "name": "이미지를 266x177로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-266X177"
+                        "url": "/ko/resize-image-to-266x177"
                     },
                     {
-                        "name": "이미지를 300X300으로 크기 조정하기 ",
+                        "name": "이미지를 300x300으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-300X300"
+                        "url": "/ko/resize-image-to-300x300"
                     },
                     {
-                        "name": "이미지를 320X320으로 크기 조정하기 ",
+                        "name": "이미지를 320x320으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-320X320"
+                        "url": "/ko/resize-image-to-320x320"
                     },
                     {
-                        "name": "이미지를 385X256으로 크기 조정하기 ",
+                        "name": "이미지를 385x256으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-385X256"
+                        "url": "/ko/resize-image-to-385x256"
                     },
                     {
-                        "name": "이미지를 450X450으로 크기 조정하기 ",
+                        "name": "이미지를 450x450으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-450X450"
+                        "url": "/ko/resize-image-to-450x450"
                     },
                     {
-                        "name": "이미지를 500X500으로 크기 조정하기 ",
+                        "name": "이미지를 500x500으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-500X500"
+                        "url": "/ko/resize-image-to-500x500"
                     },
                     {
-                        "name": "이미지를 560X208로 크기 조정하기 ",
+                        "name": "이미지를 560x208로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-560X208"
+                        "url": "/ko/resize-image-to-560x208"
                     },
                     {
-                        "name": "이미지를 630X1200으로 크기 조정하기 ",
+                        "name": "이미지를 630x1200으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-630X1200"
+                        "url": "/ko/resize-image-to-630x1200"
                     },
                     {
-                        "name": "이미지를 700X800으로 크기 조정하기 ",
+                        "name": "이미지를 700x800으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-700X800"
+                        "url": "/ko/resize-image-to-700x800"
                     },
                     {
-                        "name": "이미지를 800X2000으로 크기 조정하기 ",
+                        "name": "이미지를 800x2000으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-800X2000"
+                        "url": "/ko/resize-image-to-800x2000"
                     },
                     {
-                        "name": "이미지를 900X1500으로 크기 조정하기 ",
+                        "name": "이미지를 900x1500으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-900X1500"
+                        "url": "/ko/resize-image-to-900x1500"
                     },
                     {
-                        "name": "이미지를 1000X524로 크기 조정하기 ",
+                        "name": "이미지를 1000x524로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1000X524"
+                        "url": "/ko/resize-image-to-1000x524"
                     },
                     {
-                        "name": "이미지를 1000X1000으로 크기 조정하기 ",
+                        "name": "이미지를 1000x1000으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1000X1000"
+                        "url": "/ko/resize-image-to-1000x1000"
                     },
                     {
-                        "name": "이미지를 1024X768로 크기 조정하기 ",
+                        "name": "이미지를 1024x768로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1024X768"
+                        "url": "/ko/resize-image-to-1024x768"
                     },
                     {
-                        "name": "이미지를 1080X1920으로 크기 조정하기 ",
+                        "name": "이미지를 1080x1920으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1080X1920"
+                        "url": "/ko/resize-image-to-1080x1920"
                     },
                     {
-                        "name": "이미지를 1080X1080으로 크기 조정하기 ",
+                        "name": "이미지를 1080x1080으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1080X1080"
+                        "url": "/ko/resize-image-to-1080x1080"
                     },
                     {
-                        "name": "이미지를 1080X1350으로 크기 조정하기 ",
+                        "name": "이미지를 1080x1350으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1080X1350"
+                        "url": "/ko/resize-image-to-1080x1350"
                     },
                     {
-                        "name": "이미지를 1200X628로 크기 조정하기 ",
+                        "name": "이미지를 1200x628로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1200X628"
+                        "url": "/ko/resize-image-to-1200x628"
                     },
                     {
-                        "name": "이미지를 1200X630으로 크기 조정하기 ",
+                        "name": "이미지를 1200x630으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1200X630"
+                        "url": "/ko/resize-image-to-1200x630"
                     },
                     {
-                        "name": "이미지를 1200X675로 크기 조정하기 ",
+                        "name": "이미지를 1200x675로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1200X675"
+                        "url": "/ko/resize-image-to-1200x675"
                     },
                     {
-                        "name": "이미지를 1200X1200으로 크기 조정하기 ",
+                        "name": "이미지를 1200x1200으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1200X1200"
+                        "url": "/ko/resize-image-to-1200x1200"
                     },
                     {
-                        "name": "이미지를 1200X1800으로 크기 조정하기 ",
+                        "name": "이미지를 1200x1800으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1200X1800"
+                        "url": "/ko/resize-image-to-1200x1800"
                     },
                     {
-                        "name": "이미지를 1280X720으로 크기 조정하기 ",
+                        "name": "이미지를 1280x720으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1280X720"
+                        "url": "/ko/resize-image-to-1280x720"
                     },
                     {
-                        "name": "이미지를 1500X2100으로 크기 조정하기 ",
+                        "name": "이미지를 1500x2100으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1500X2100"
+                        "url": "/ko/resize-image-to-1500x2100"
                     },
                     {
-                        "name": "이미지를 1584X396으로 크기 조정하기 ",
+                        "name": "이미지를 1584x396으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1584X396"
+                        "url": "/ko/resize-image-to-1584x396"
                     },
                     {
-                        "name": "이미지를 1640X923으로 크기 조정하기 ",
+                        "name": "이미지를 1640x923으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1640X923"
+                        "url": "/ko/resize-image-to-1640x923"
                     },
                     {
-                        "name": "이미지를 1920X480으로 크기 조정하기 ",
+                        "name": "이미지를 1920x480으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1920X480"
+                        "url": "/ko/resize-image-to-1920x480"
                     },
                     {
-                        "name": "이미지를 1920X1080으로 크기 조정하기 ",
+                        "name": "이미지를 1920x1080으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1920X1080"
+                        "url": "/ko/resize-image-to-1920x1080"
                     },
                     {
-                        "name": "이미지를 1958X745로 크기 조정하기 ",
+                        "name": "이미지를 1958x745로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-1958X745"
+                        "url": "/ko/resize-image-to-1958x745"
                     },
                     {
-                        "name": "이미지를 2037X754로 크기 조정하기 ",
+                        "name": "이미지를 2037x754로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-2037X754"
+                        "url": "/ko/resize-image-to-2037x754"
                     },
                     {
-                        "name": "이미지를 2400X3000으로 크기 조정하기 ",
+                        "name": "이미지를 2400x3000으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-2400X3000"
+                        "url": "/ko/resize-image-to-2400x3000"
                     },
                     {
-                        "name": "이미지를 2550X3300으로 크기 조정하기 ",
+                        "name": "이미지를 2550x3300으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-2550X3300"
+                        "url": "/ko/resize-image-to-2550x3300"
                     },
                     {
-                        "name": "이미지를 2700X4800으로 크기 조정하기 ",
+                        "name": "이미지를 2700x4800으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-2700X4800"
+                        "url": "/ko/resize-image-to-2700x4800"
                     },
                     {
-                        "name": "이미지를 3300X4200으로 크기 조정하기 ",
+                        "name": "이미지를 3300x4200으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-3300X4200"
+                        "url": "/ko/resize-image-to-3300x4200"
                     },
                     {
-                        "name": "이미지를 3300X4800으로 크기 조정하기 ",
+                        "name": "이미지를 3300x4800으로 크기 조정하기 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/ko/resize-image-to-3300X4800"
+                        "url": "/ko/resize-image-to-3300x4800"
                     }
                 ]
             }
