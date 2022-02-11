@@ -58,7 +58,7 @@
   font-size: 19px;
 }
 
-#crop_btn img{
+#crop_btn img {
   height: 25px !important;
   margin-top: 2px !important;
 }
@@ -156,6 +156,7 @@
   margin-top: 16px;
   height: 67px;
   width: 98px;
+  margin-bottom: 30px !important;
 }
 .function_btns_outer {
   display: flex;

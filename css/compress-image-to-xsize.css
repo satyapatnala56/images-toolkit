@@ -148,13 +148,14 @@
   margin-top: 16px;
   height: 67px;
   width: 98px;
+  margin-bottom: 30px !important;
 }
 
-#thankyouImage{
+#thankyouImage {
   margin-top: 18px !important;
 }
 
-#newFileSize{
+#newFileSize {
   font-size: 17px;
   color: white;
 }
