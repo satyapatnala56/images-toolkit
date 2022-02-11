@@ -227,7 +227,7 @@ html {
   margin-top: 16px;
   height: 67px;
   width: 98px;
-  margin-bottom: 30px;
+  margin-bottom: 30px !important;
 }
 
 @media (max-width: 387px) {
