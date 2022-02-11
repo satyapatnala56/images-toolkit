@@ -1,36 +1,82 @@
+const getScript = document.currentScript
+const pageTool = getScript.dataset.tool
+const lang = getScript.dataset.lang
+const gdrive = document.querySelector('#filepicker')
+const showLoader = () => {
+  document.querySelector('#file-loader').style.display = 'flex'
+  document.querySelector('.file-input').style.display = 'none'
+}
+const closeLoader = () => {}
+const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
+const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
+gdrive.addEventListener(
+  'click',
+  (getFile, mimeTypes, showLoader, closeLoader) => {
+    const data = loadPicker()
+  }
+)
+const getDropBoxFile = (file) => {
+  ChangeFile(file)
+}
+const getFile = (file) => {
+  ChangeFile(file)
+}
+const dropbox = document.getElementById('dropbox')
+dropbox.addEventListener(
+  'click',
+  async (getDropBoxFile, showLoader, closeLoader) => {
+    const getFile = chooseFromDropbox()
+  }
+)
 document.querySelector('#Inputbox').onclick = function () {
   document.querySelector('#file').click()
 }
 let inputFile = ''
 const fileOnChange = () => {
+  document.querySelector('#file-loader').style.display = 'flex'
+  document.querySelector('.file-input').style.display = 'none'
   inputFile = file.files[0]
   compressImage(file.files[0])
 }
+const ChangeFile = (file) => {
+  document.querySelector('#file-loader').style.display = 'flex'
+  document.querySelector('.file-input').style.display = 'none'
+  inputFile = file
+  compressImage(file)
+}
 let downloadFile = ''
 document.querySelector('#quality-range').addEventListener('change', (e) => {
+  e.target.disabled = true
+  document.querySelector('#loading-img-div').style.visibility = 'visible'
   document.querySelector('#quality-input').value = e.target.value
   new Compressor(inputFile, {
-    quality: Number(e.target.value) / 100,
+    quality: (Number(e.target.value) - 10) / 100,
     success(result) {
+      document.querySelector('#loading-img-div').style.visibility = 'hidden'
       document.querySelector('#compressed-img').src =
         URL.createObjectURL(result)
       document.querySelector('#compressed-img-size').innerHTML = fileSize(
         result.size
       )
+      e.target.disabled = false
       downloadFile = result
     },
   })
 })
 document.querySelector('#quality-input').addEventListener('change', (e) => {
+  e.target.disabled = true
+  document.querySelector('#loading-img-div').style.visibility = 'visible'
   document.querySelector('#quality-range').value = e.target.value
   new Compressor(inputFile, {
-    quality: Number(e.target.value) / 100,
+    quality: (Number(e.target.value) - 10) / 100,
     success(result) {
       document.querySelector('#compressed-img').src =
         URL.createObjectURL(result)
       document.querySelector('#compressed-img-size').innerHTML = fileSize(
         result.size
       )
+      document.querySelector('#loading-img-div').style.visibility = 'hidden'
+      e.target.disabled = false
       document.querySelector('#download-btn').addEventListener('click', () => {
         handleDownload()
       })
@@ -62,13 +108,10 @@ const slide = () => {
   let slideValue = document.getElementById('slider').value
   document.getElementById('original-img').style.clipPath =
     'polygon(0 0,' + slideValue + '% 0,' + slideValue + '% 100%, 0 100%)'
-  console.log(
-    'polygon(0 0,' + slideValue + '% 0,' + slideValue + '% 100%, 0 100%)'
-  )
 }
 const compressImage = (file) => {
-  document.querySelector('.custom-box').style.display = 'none'
-  let quality = Number(document.querySelector('#quality-range').value) / 100
+  let quality =
+    (Number(document.querySelector('#quality-range').value) - 10) / 100
   new Compressor(file, {
     quality: quality,
     success(result) {
@@ -84,6 +127,7 @@ const compressImage = (file) => {
       document.querySelector('#original-img-size').innerHTML = fileSize(
         file.size
       )
+      document.querySelector('.custom-box').style.display = 'none'
       document.querySelector('#download-btn').addEventListener('click', () => {
         handleDownload()
       })

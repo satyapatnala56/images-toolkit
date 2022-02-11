@@ -5,6 +5,28 @@
   width: 98px;
 }
 
+#file-loader {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#file-loader img {
+  height: 60px;
+}
+
+#file-loader p {
+  text-align: center;
+  color: #fff;
+  font-size: 17px;
+}
+
+#loading-img {
+  height: 27px;
+  width: 27px;
+  margin-right: 21px;
+}
+
 #dropbox svg,
 #filepicker svg,
 .boxes svg {
@@ -91,6 +113,7 @@
   border: 1px dashed rgba(0, 0, 0, 0.15);
   background: rgba(0, 0, 0, 0.1);
   padding: 40px;
+  min-height: 300px;
 }
 
 .file-name {
@@ -113,13 +136,28 @@
 
 .range-div input {
   position: absolute;
-  width: 244px;
+  width: 234px;
   transform-origin: right top;
   transform: translateX(-100%) rotate(-90deg);
   transform: translate3d(-100%, 0, 0) rotate(-90deg);
   margin-left: -10px;
   transition: opacity 0.2s ease-out;
-  margin-top: 15px;
+  margin-top: 10px;
+  -webkit-appearance: none;
+}
+
+.range-div input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  padding: 4px;
+  background-size: contain;
+  border: 2px solid #46b3fe;
+  background: #46b3fe
+    url('https://codyhouse.co/demo/image-comparison-slider/img/cd-arrows.svg')
+    no-repeat center center;
+}
+
+.range-div input::-webkit-slider-runnable-track {
+  background: #46b4fe59;
 }
 
 #dropfile {
@@ -181,4 +219,50 @@
   flex-direction: column;
   align-items: center;
   padding-top: 40px;
+}
+
+@media (max-width: 768px) {
+  .range-div {
+    width: 100%;
+  }
+
+  .range-div input {
+    transform: translate3d(0%, 0, 0) rotate(0deg);
+    position: initial;
+    width: 100%;
+  }
+
+  .quality {
+    padding-top: 10px;
+  }
+}
+
+#quality-input {
+  background: none;
+  border: none;
+  cursor: text;
+  font-size: 1em;
+  letter-spacing: 0.04em;
+  height: 1.875em;
+  border: 2px solid #46b3fe;
+  border-radius: 4px;
+  font-weight: 600;
+  text-align: center;
+  box-shadow: inset 0 0 0 #46b3fe;
+  transition: opacity 0.2s ease-out, box-shadow 0.2s ease-out;
+  flex-shrink: 0;
+  margin-bottom: 0.625em;
+  color: #38404b;
+  -webkit-text-fill-color: #38404b;
+}
+
+.download-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#download-btn {
+  background: #46b3fe;
+  border: 2px solid #46b3fe;
+  font-size: 16px;
 }
