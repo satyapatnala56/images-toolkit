@@ -188,104 +188,104 @@
                 "categoryName": "redimensionneurs d'images en pouces",
                 "links": [
                     {
-                        "name": "image de redimensionnement en 3X5 ",
+                        "name": "image de redimensionnement en 3x5 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-3X5"
+                        "url": "/fr/resize-image-to-3x5"
                     },
                     {
-                        "name": "image de redimensionnement en 4X6 ",
+                        "name": "image de redimensionnement en 4x6 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-4X6"
+                        "url": "/fr/resize-image-to-4x6"
                     },
                     {
-                        "name": "image de redimensionnement à 5X7 ",
+                        "name": "image de redimensionnement à 5x7 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-5X7"
+                        "url": "/fr/resize-image-to-5x7"
                     },
                     {
-                        "name": "image de redimensionnement en 8X8",
+                        "name": "image de redimensionnement en 8x8",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-8X8"
+                        "url": "/fr/resize-image-to-8x8"
                     },
                     {
-                        "name": "image de redimensionnement en 8X10 ",
+                        "name": "image de redimensionnement en 8x10 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-8X10"
+                        "url": "/fr/resize-image-to-8x10"
                     },
                     {
-                        "name": "image de redimensionnement en 8X11 ",
+                        "name": "image de redimensionnement en 8x11 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-8X11"
+                        "url": "/fr/resize-image-to-8x11"
                     },
                     {
-                        "name": "image de redimensionnement en 2X2 ",
+                        "name": "image de redimensionnement en 2x2 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-2X2"
+                        "url": "/fr/resize-image-to-2x2"
                     },
                     {
-                        "name": "image de redimensionnement à 9X16 ",
+                        "name": "image de redimensionnement à 9x16 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-9X16"
+                        "url": "/fr/resize-image-to-9x16"
                     },
                     {
-                        "name": "image de redimensionnement à 11X14 ",
+                        "name": "image de redimensionnement à 11x14 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-11X14"
+                        "url": "/fr/resize-image-to-11x14"
                     },
                     {
-                        "name": "image de redimensionnement à 11X16 ",
+                        "name": "image de redimensionnement à 11x16 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-11X16"
+                        "url": "/fr/resize-image-to-11x16"
                     },
                     {
-                        "name": "image de redimensionnement à 12X18 ",
+                        "name": "image de redimensionnement à 12x18 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-12X18"
+                        "url": "/fr/resize-image-to-12x18"
                     },
                     {
-                        "name": "image de redimensionnement à 18X24 ",
+                        "name": "image de redimensionnement à 18x24 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-18X24"
+                        "url": "/fr/resize-image-to-18x24"
                     },
                     {
-                        "name": "image de redimensionnement à 18X36 ",
+                        "name": "image de redimensionnement à 18x36 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-18X36"
+                        "url": "/fr/resize-image-to-18x36"
                     },
                     {
-                        "name": "image de redimensionnement à 20X24 ",
+                        "name": "image de redimensionnement à 20x24 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-20X24"
+                        "url": "/fr/resize-image-to-20x24"
                     },
                     {
                         "name": "image de redimensionnement en 24x36 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-24X36"
+                        "url": "/fr/resize-image-to-24x36"
                     },
                     {
                         "name": "image de redimensionnement en 24x30 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-24X30"
+                        "url": "/fr/resize-image-to-24x30"
                     },
                     {
                         "name": "image de redimensionnement en 24x48 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-24X48"
+                        "url": "/fr/resize-image-to-24x48"
                     },
                     {
-                        "name": "image de redimensionnement à 29X21 ",
+                        "name": "image de redimensionnement à 29x21 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-29X21"
+                        "url": "/fr/resize-image-to-29x21"
                     },
                     {
-                        "name": "image de redimensionnement à 30X36 ",
+                        "name": "image de redimensionnement à 30x36 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-30X36"
+                        "url": "/fr/resize-image-to-30x36"
                     },
                     {
-                        "name": "image de redimensionnement à 30X40 ",
+                        "name": "image de redimensionnement à 30x40 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-30X40"
+                        "url": "/fr/resize-image-to-30x40"
                     }
                 ]
             },
@@ -293,229 +293,229 @@
                 "categoryName": "redimensionneurs d'images en pixels",
                 "links": [
                     {
-                        "name": "image de redimensionnement à 900X1500 ",
+                        "name": "image de redimensionnement à 900x1500 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-900X1500"
+                        "url": "/fr/resize-image-to-900x1500"
                     },
                     {
-                        "name": "image de redimensionnement à 1200X1800 ",
+                        "name": "image de redimensionnement à 1200x1800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1200X1800"
+                        "url": "/fr/resize-image-to-1200x1800"
                     },
                     {
                         "name": "image de redimensionnement à 32 x 32 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-32X32"
+                        "url": "/fr/resize-image-to-32x32"
                     },
                     {
-                        "name": "image de redimensionnement à 42X59 ",
+                        "name": "image de redimensionnement à 42x59 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-42X59"
+                        "url": "/fr/resize-image-to-42x59"
                     },
                     {
-                        "name": "image de redimensionnement à 128X128 ",
+                        "name": "image de redimensionnement à 128x128 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-128X128"
+                        "url": "/fr/resize-image-to-128x128"
                     },
                     {
-                        "name": "image de redimensionnement à 21X29 ",
+                        "name": "image de redimensionnement à 21x29 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-21X29"
+                        "url": "/fr/resize-image-to-21x29"
                     },
                     {
-                        "name": "image de redimensionnement à 150X150 ",
+                        "name": "image de redimensionnement à 150x150 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-150X150"
+                        "url": "/fr/resize-image-to-150x150"
                     },
                     {
-                        "name": "image redimensionneur à 168X168 ",
+                        "name": "image redimensionneur à 168x168 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-168X168"
+                        "url": "/fr/resize-image-to-168x168"
                     },
                     {
-                        "name": "image de redimensionnement à 170X170 ",
+                        "name": "image de redimensionnement à 170x170 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-170X170"
+                        "url": "/fr/resize-image-to-170x170"
                     },
                     {
-                        "name": "image de redimensionnement à 254X94 ",
+                        "name": "image de redimensionnement à 254x94 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-254X94"
+                        "url": "/fr/resize-image-to-254x94"
                     },
                     {
-                        "name": "image de redimensionnement à 266X177 ",
+                        "name": "image de redimensionnement à 266x177 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-266X177"
+                        "url": "/fr/resize-image-to-266x177"
                     },
                     {
-                        "name": "image de redimensionnement à 300X300 ",
+                        "name": "image de redimensionnement à 300x300 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-300X300"
+                        "url": "/fr/resize-image-to-300x300"
                     },
                     {
                         "name": "image de redimensionnement à 320x320 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-320X320"
+                        "url": "/fr/resize-image-to-320x320"
                     },
                     {
-                        "name": "image de redimensionnement à 385X256 ",
+                        "name": "image de redimensionnement à 385x256 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-385X256"
+                        "url": "/fr/resize-image-to-385x256"
                     },
                     {
-                        "name": "image de redimensionnement à 450X450 ",
+                        "name": "image de redimensionnement à 450x450 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-450X450"
+                        "url": "/fr/resize-image-to-450x450"
                     },
                     {
                         "name": "image de redimensionnement à 500 x 500 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-500X500"
+                        "url": "/fr/resize-image-to-500x500"
                     },
                     {
-                        "name": "image de redimensionnement à 560X208 ",
+                        "name": "image de redimensionnement à 560x208 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-560X208"
+                        "url": "/fr/resize-image-to-560x208"
                     },
                     {
-                        "name": "image de redimensionnement à 630X1200 ",
+                        "name": "image de redimensionnement à 630x1200 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-630X1200"
+                        "url": "/fr/resize-image-to-630x1200"
                     },
                     {
                         "name": "image de redimensionnement à 700x800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-700X800"
+                        "url": "/fr/resize-image-to-700x800"
                     },
                     {
-                        "name": "image de redimensionnement à 800X2000 ",
+                        "name": "image de redimensionnement à 800x2000 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-800X2000"
+                        "url": "/fr/resize-image-to-800x2000"
                     },
                     {
-                        "name": "image de redimensionnement à 900X1500 ",
+                        "name": "image de redimensionnement à 900x1500 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-900X1500"
+                        "url": "/fr/resize-image-to-900x1500"
                     },
                     {
-                        "name": "image de redimensionnement à 1000X524 ",
+                        "name": "image de redimensionnement à 1000x524 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1000X524"
+                        "url": "/fr/resize-image-to-1000x524"
                     },
                     {
-                        "name": "image de redimensionnement à 1000X1000 ",
+                        "name": "image de redimensionnement à 1000x1000 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1000X1000"
+                        "url": "/fr/resize-image-to-1000x1000"
                     },
                     {
                         "name": "image de redimensionnement à 1024x768 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1024X768"
+                        "url": "/fr/resize-image-to-1024x768"
                     },
                     {
-                        "name": "image de redimensionnement à 1080X1920 ",
+                        "name": "image de redimensionnement à 1080x1920 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1080X1920"
+                        "url": "/fr/resize-image-to-1080x1920"
                     },
                     {
-                        "name": "image de redimensionnement à 1080X1080 ",
+                        "name": "image de redimensionnement à 1080x1080 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1080X1080"
+                        "url": "/fr/resize-image-to-1080x1080"
                     },
                     {
-                        "name": "image de redimensionnement à 1080X1350 ",
+                        "name": "image de redimensionnement à 1080x1350 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1080X1350"
+                        "url": "/fr/resize-image-to-1080x1350"
                     },
                     {
-                        "name": "image redimensionneur à 1200X628 ",
+                        "name": "image redimensionneur à 1200x628 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1200X628"
+                        "url": "/fr/resize-image-to-1200x628"
                     },
                     {
-                        "name": "image redimensionneur à 1200X630 ",
+                        "name": "image redimensionneur à 1200x630 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1200X630"
+                        "url": "/fr/resize-image-to-1200x630"
                     },
                     {
-                        "name": "image redimensionneur à 1200X675 ",
+                        "name": "image redimensionneur à 1200x675 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1200X675"
+                        "url": "/fr/resize-image-to-1200x675"
                     },
                     {
                         "name": "image de redimensionnement à 1200 x 1200 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1200X1200"
+                        "url": "/fr/resize-image-to-1200x1200"
                     },
                     {
-                        "name": "image de redimensionnement à 1200X1800 ",
+                        "name": "image de redimensionnement à 1200x1800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1200X1800"
+                        "url": "/fr/resize-image-to-1200x1800"
                     },
                     {
-                        "name": "image de redimensionnement à 1280X720 ",
+                        "name": "image de redimensionnement à 1280x720 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1280X720"
+                        "url": "/fr/resize-image-to-1280x720"
                     },
                     {
-                        "name": "image de redimensionnement à 1500X2100 ",
+                        "name": "image de redimensionnement à 1500x2100 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1500X2100"
+                        "url": "/fr/resize-image-to-1500x2100"
                     },
                     {
-                        "name": "image redimensionneur à 1584X396 ",
+                        "name": "image redimensionneur à 1584x396 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1584X396"
+                        "url": "/fr/resize-image-to-1584x396"
                     },
                     {
-                        "name": "image de redimensionnement vers 1640X923 ",
+                        "name": "image de redimensionnement vers 1640x923 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1640X923"
+                        "url": "/fr/resize-image-to-1640x923"
                     },
                     {
-                        "name": "image de redimensionnement à 1920X480 ",
+                        "name": "image de redimensionnement à 1920x480 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1920X480"
+                        "url": "/fr/resize-image-to-1920x480"
                     },
                     {
-                        "name": "image de redimensionnement vers 1920X1080 ",
+                        "name": "image de redimensionnement vers 1920x1080 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1920X1080"
+                        "url": "/fr/resize-image-to-1920x1080"
                     },
                     {
-                        "name": "image de redimensionnement vers 1958X745 ",
+                        "name": "image de redimensionnement vers 1958x745 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-1958X745"
+                        "url": "/fr/resize-image-to-1958x745"
                     },
                     {
-                        "name": "image de redimensionnement à 2037X754 ",
+                        "name": "image de redimensionnement à 2037x754 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-2037X754"
+                        "url": "/fr/resize-image-to-2037x754"
                     },
                     {
-                        "name": "image de redimensionnement à 2400X3000 ",
+                        "name": "image de redimensionnement à 2400x3000 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-2400X3000"
+                        "url": "/fr/resize-image-to-2400x3000"
                     },
                     {
-                        "name": "image de redimensionnement à 2550X3300 ",
+                        "name": "image de redimensionnement à 2550x3300 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-2550X3300"
+                        "url": "/fr/resize-image-to-2550x3300"
                     },
                     {
-                        "name": "image redimensionneur à 2700X4800 ",
+                        "name": "image redimensionneur à 2700x4800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-2700X4800"
+                        "url": "/fr/resize-image-to-2700x4800"
                     },
                     {
-                        "name": "image de redimensionnement à 3300X4200 ",
+                        "name": "image de redimensionnement à 3300x4200 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-3300X4200"
+                        "url": "/fr/resize-image-to-3300x4200"
                     },
                     {
-                        "name": "image de redimensionnement à 3300X4800 ",
+                        "name": "image de redimensionnement à 3300x4800 ",
                         "iconSrc": "/img/resize.png",
-                        "url": "/fr/resize-image-to-3300X4800"
+                        "url": "/fr/resize-image-to-3300x4800"
                     }
                 ]
             }

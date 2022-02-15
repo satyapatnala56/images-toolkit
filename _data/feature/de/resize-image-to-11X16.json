@@ -16,345 +16,345 @@
     "BREADCRUMB_LABEL": "",
     "color": "#0D66D0",
     "megaMenu": {
-       "nav-link-name": "Tools",
-       "dropdown": [
-           {
-               "categoryName": "Bildgrößenverkleinerer in Zoll",
-               "links": [
-                   {
-                       "name": "Bildgröße auf 3X5 ändern ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-3X5"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 4X6 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-4X6"
-                   },
-                   {
-                       "name": "Bildgröße auf 5X7 ändern ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-5X7"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 8X8",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-8X8"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 8X10 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-8X10"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 8X11 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-8X11"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 2X2 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-2X2"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 9X16 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-9X16"
-                   },
-                   {
-                       "name": "Bildgröße auf 11X14 ändern ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-11X14"
-                   },
-                   {
-                       "name": "Bildgröße auf 11X16 ändern ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-11X16"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 12X18 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-12X18"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 18X24 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-18X24"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 18X36 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-18X36"
-                   },
-                   {
-                       "name": "Bildgröße auf 20X24 ändern ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-20X24"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 24X36 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-24X36"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 24X30 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-24X30"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 24X48 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-24X48"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 29X21 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-29X21"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 30X36 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-30X36"
-                   },
-                   {
-                       "name": "Bildgröße auf 30X40 ändern ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-30X40"
-                   }
-               ]
-           },
-           {
-               "categoryName": "Größenanpassungen von Bildern in Pixeln",
-               "links": [
-                   {
-                       "name": "Resizer-Bild auf 900X1500 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-900X1500"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1200X1800 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1200X1800"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 32X32 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-32X32"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 42X59 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-42X59"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 128X128 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-128X128"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 21X29 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-21X29"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 150X150 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-150X150"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 168X168 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-168X168"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 170X170 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-170X170"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 254X94 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-254X94"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 266X177 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-266X177"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 300X300 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-300X300"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 320X320 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-320X320"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 385X256 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-385X256"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 450X450 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-450X450"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 500X500 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-500X500"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 560X208 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-560X208"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 630X1200 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-630X1200"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 700X800 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-700X800"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 800X2000 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-800X2000"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 900X1500 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-900X1500"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1000X524 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1000X524"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1000X1000 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1000X1000"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1024X768 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1024X768"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1080X1920 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1080X1920"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1080X1080 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1080X1080"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1080X1350 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1080X1350"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1200X628 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1200X628"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1200X630 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1200X630"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1200X675 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1200X675"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1200X1200 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1200X1200"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1200X1800 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1200X1800"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1280X720 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1280X720"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1500X2100 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1500X2100"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1584X396 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1584X396"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1640X923 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1640X923"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1920X480 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1920X480"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1920X1080 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1920X1080"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 1958X745 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-1958X745"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 2037X754 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-2037X754"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 2400X3000 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-2400X3000"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 2550X3300 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-2550X3300"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 2700X4800 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-2700X4800"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 3300X4200 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-3300X4200"
-                   },
-                   {
-                       "name": "Resizer-Bild auf 3300X4800 ",
-                       "iconSrc": "/img/resize.png",
-                       "url": "/de/resize-image-to-3300X4800"
-                   }
-               ]
-           }
-       ]
-   },
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Bildgrößenverkleinerer in Zoll",
+                "links": [
+                    {
+                        "name": "Bildgröße auf 3x5 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "Bildgröße auf 5x7 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "Bildgröße auf 11x14 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "Bildgröße auf 11x16 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "Bildgröße auf 20x24 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "Bildgröße auf 30x40 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Größenanpassungen von Bildern in Pixeln",
+                "links": [
+                    {
+                        "name": "Resizer-Bild auf 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
