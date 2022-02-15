@@ -1,225 +1,217 @@
-///drag and drop n option
-const getScript = document.currentScript;
-const pageTool = getScript.dataset.tool;
-const lang = getScript.dataset.lang;
-var container = document.querySelector(".container2");
-var inputbox = document.querySelector("#inputbox");
-var content = document.querySelector("#content");
-var file = document.querySelector("#file");
-var box = document.querySelector(".box");
-var boxContainer = document.querySelector(".container2");
-const gdrive = document.querySelector("#filepicker");
-const getFile = (file) => {
-  onFileDrop(file, 0);
-};
+const getScript = document.currentScript
+const pageTool = getScript.dataset.tool
+const lang = getScript.dataset.lang
+const gdrive = document.querySelector('#filepicker')
+const inputBox = document.querySelector('#Inputbox')
+const fileDropBox = document.querySelector('.custom-box')
+const cropBoxPanel = document.getElementById('crop-box-panel')
+const downloadButton = document.querySelector('#download-button')
+let cropper = ''
+let rows = 3
+let columns = 3
+let croppedImageWidth = ''
+let croppedImageHeight = ''
 const showLoader = () => {
-  document.querySelector("#inputbox").style.display = "none";
-  var loaderbox = document.createElement("div");
-  loaderbox.id = "loader-box";
-  var mainDiv = document.querySelector("#loaderDiv .col");
-  mainDiv.insertBefore(loaderbox, mainDiv.childNodes[1]);
-  document.querySelector("#loader").innerHTML = '<p id="loadingMessage"></p>';
-  document.querySelector("#loadingMessage").innerHTML =
-    "Please Wait ,Loading Your file ";
-};
-const closeLoader = () => {};
-const mimeTypes = "image/png,image/jpg,image/jpeg,image/webp";
-const filemimes = [".png", ".webp", ".jpg", ".jpeg"];
-gdrive.addEventListener(
-  "click",
-  (getFile, mimeTypes, showLoader, closeLoader) => {
-    const data = loadPicker();
-  }
-);
-const getDropBoxFile = (file) => {
-  onFileDrop(file, 0);
-};
-const dropbox = document.getElementById("dropbox");
-dropbox.addEventListener(
-  "click",
-  async (getDropBoxFile, showLoader, closeLoader) => {
-    const getFile = chooseFromDropbox();
-  }
-);
-boxContainer.ondrop = (e) => {
-  e.preventDefault();
-  onFileDrop(e.dataTransfer.files[0]);
-};
-var input;
-container.ondragover = function (e) {
-  e.preventDefault();
-};
-const onFileDrop = (file, flag = 1) => {
-  input = file;
-  var extension = input.name.replace(/^.*\./, "");
-  if (
-    extension == "webp" ||
-    extension == "jpg" ||
-    extension == "jpeg" ||
-    extension == "png" ||
-    extension == "svg"
-  ) {
-    if (flag == 1) {
-      showLoader();
-    }
-
-    inputbox.style.display = "none";
-    document.querySelector(".container2").style.height = "300px";
-
-    splitImage();
-  } else {
-    console.log("error");
-    document.querySelector("#error").style.visibility = "visible";
-
-    document.querySelector(".container2").style.height = "350px";
-    document.querySelector("#error").innerHTML = "File format not supported";
-  }
-};
-const fileOnChange = () => {
-  showLoader();
-
-  input = file.files[0];
-  splitImage();
-};
-
-function splitImage() {
-  var count = 0;
-
-  var ans = setInterval(function () {
-    count = count + 10;
-    document.querySelector("#upper-loader").style.width = count + "%";
-    if (count == 110) {
-      document.querySelector("#upper-loader").style.display = "none";
-      document.querySelector("#loaderDiv").style.display = "none";
-      document.querySelector("#content").style.visibility = "visible";
-      document.querySelector("#loader-box").style.display = "none";
-      document.querySelector(".box").style.background = "#353535";
-      document.querySelector(".container2").style.height = "auto";
-
-      clearInterval(ans);
-    }
-  }, 1000);
-
-  ////
-  var reader = new FileReader();
-
-  reader.onload = function (evt) {
-    var image = new Image();
-    image.onload = function () {
-      $("#file").remove();
-
-      var numRowsToCut = 2;
-      var numColsToCut = 3;
-
-      var imagePieces = [];
-      var c = document.createElement("canvas");
-      var ctx = c.getContext("2d");
-      c.width = image.width;
-      c.height = image.height;
-      ctx.drawImage(image, 0, 0);
-
-      document.querySelector("#splitList").appendChild(c);
-
-      document.querySelector("#submit").onclick = function () {
-        document.querySelector("#splitDiv span").innerHTML =
-          '<br><a id="downloadAll" class="btn btn-danger splitBtn">Save All</a>';
-        // document.querySelector(".splitDimensions").style.display = "none";
-
-        var rows = document.querySelector("#ROWS").value || 2;
-        var cols = document.querySelector("#COLS").value || 2;
-
-        ////err message
-
-        numRowsToCut = rows;
-        numColsToCut = cols;
-
-        for (var x = 0; x < numRowsToCut; ++x) {
-          for (var y = 0; y < numColsToCut; ++y) {
-            var canvas = document.createElement("canvas");
-            var context = canvas.getContext("2d");
-            canvas.width = image.width / rows;
-            canvas.height = image.height / cols;
-            context.drawImage(
-              image,
-              x * canvas.width,
-              y * canvas.height,
-              canvas.width,
-              canvas.height,
-              0,
-              0,
-              canvas.width,
-              canvas.height
-            );
-            imagePieces.push(canvas.toDataURL());
-          }
-        }
-        $("#splitList canvas").remove();
-        $("#process").remove();
-        var ol = document.createElement("ol");
-        document.querySelector("#splitList").appendChild(ol);
-
-        document.querySelector("#splitList").style.height = "250px";
-        document.querySelector("#splitList").style.border = "3px solid white";
-
-        document.querySelector("#splitList").style.marginTop = "50px";
-
-        document.querySelector("#splitList ol").style.marginTop = "30px";
-
-        for (let i = 0; i < imagePieces.length; i++) {
-          var img = document.createElement("img");
-          img.src = imagePieces[i];
-          img.id = i;
-          img.style.margin = "10px";
-          var li = document.createElement("li");
-          li.innerHTML =
-            "<a href=" +
-            imagePieces[i] +
-            " download=" +
-            i +
-            1 +
-            ">Section" +
-            (i + 1) +
-            ".png" +
-            "</a>";
-          document.querySelector("#splitList ol").appendChild(li);
-        }
-
-        document.querySelector("#downloadAll").onclick = function () {
-          for (let i = 0; i < imagePieces.length; i++) {
-            var a = document.createElement("a");
-            a.href = imagePieces[i];
-            a.download = i + 1 + ".png";
-            a.click();
-            if (lang === "en") {
-              window.location.href = `/download?tool=${pageTool}`;
-            } else {
-              window.location.href = `/${lang}/download?tool=${pageTool}`;
-            }
-          }
-        };
-      };
-      console.log(reader.result);
-      /////
-    };
-    image.src = evt.target.result;
-  };
-  reader.readAsDataURL(input);
+  showLoading()
 }
-document.querySelector("#Inputbox").onclick = function () {
-  document.querySelector("#file").click();
-};
-const showDropDown = document.querySelector(".file-pick-dropdown");
-const icon = document.querySelector(".arrow-sign");
-const dropDown = document.querySelector(".file-picker-dropdown");
-showDropDown.addEventListener("click", () => {
-  addScripts();
-  if (dropDown.style.display !== "none") {
-    dropDown.style.display = "none";
-    icon.classList.remove("fa-angle-up");
-    icon.classList.add("fa-angle-down");
-  } else {
-    dropDown.style.display = "block";
-    icon.classList.remove("fa-angle-down");
-    icon.classList.add("fa-angle-up");
+const closeLoader = () => {}
+const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
+const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
+gdrive.addEventListener(
+  'click',
+  (getFile, mimeTypes, showLoader, closeLoader) => {
+    const data = loadPicker()
   }
-});
+)
+const getDropBoxFile = (file) => {
+  handleFile(file)
+}
+const getFile = (file) => {
+  handleFile(file)
+}
+const fileOnChange = () => {
+  handleFile(file.files[0])
+}
+const dropbox = document.getElementById('dropbox')
+dropbox.addEventListener(
+  'click',
+  async (getDropBoxFile, showLoader, closeLoader) => {
+    const getFile = chooseFromDropbox()
+  }
+)
+inputBox.onclick = function () {
+  document.querySelector('#file').click()
+}
+fileDropBox.addEventListener('dragover', (e) => {
+  e.preventDefault()
+})
+fileDropBox.addEventListener('drop', (e) => {
+  e.preventDefault()
+  handleFile(e.dataTransfer.files[0])
+})
+let inputFile = ''
+const handleFile = (file) => {
+  document.querySelector('#file-loader').style.display = 'flex'
+  document.querySelector('.file-input').style.display = 'none'
+  inputFile = file
+  if (file) {
+    const actionButtons = document.getElementsByClassName('action-buttons')
+    const reader = new FileReader()
+    reader.onload = (e) => {
+      if (e.target.result) {
+        let image = new Image()
+        image.onload = () => {
+          croppedImageWidth = image.width
+          croppedImageHeight = image.height
+          let img = document.createElement('img')
+          img.id = 'image'
+          img.src = e.target.result
+          cropBoxPanel.appendChild(img)
+          cropper = new Cropper(img, {
+            guides: false,
+            ready() {
+              updateCells()
+              Array.from(actionButtons).map((item) => {
+                item.addEventListener('click', (e) => {
+                  switch (e.target.dataset.type) {
+                    case 'col-plus':
+                      columns += 1
+                      break
+                    case 'col-minus':
+                      columns != 1 ? (columns -= 1) : columns
+                      break
+                    case 'row-plus':
+                      rows += 1
+                      break
+                    case 'row-minus':
+                      rows != 1 ? (rows -= 1) : rows
+                      break
+                    default:
+                      break
+                  }
+                  updateCells()
+                })
+              })
+              downloadButton.addEventListener('click', handleDownload)
+              this.cropper.crop()
+            },
+          })
+        }
+        image.src = e.target.result
+      }
+    }
+    reader.readAsDataURL(file)
+  }
+  stopLoading()
+  document.querySelector('.split-img-box').style.display = 'block'
+}
+const showLoading = () => {
+  document.querySelector('#file-loader').style.display = 'flex'
+  document.querySelector('.file-input').style.display = 'none'
+}
+const stopLoading = () => {
+  fileDropBox.style.display = 'none'
+}
+const updateCells = () => {
+  document.querySelector('#cols-number').innerHTML = columns
+  document.querySelector('#rows-number').innerHTML = rows
+  let columnsData = ''
+  Array.from(Array(columns).keys()).map((i) => {
+    columns - 1 === i
+      ? (columnsData += `<div class="cell last-child" ></div>`)
+      : (columnsData += `<div class="cell" ></div>`)
+  })
+  let appendData = ''
+  Array.from(Array(rows).keys()).map((i) => {
+    appendData += `<div class='column'>${columnsData}</div>`
+  })
+
+  document.querySelector('.cropper-center').innerHTML = appendData
+}
+const showDropDown = document.querySelector('.file-pick-dropdown')
+const icon = document.querySelector('.arrow-sign')
+const dropDown = document.querySelector('.file-picker-dropdown')
+showDropDown.addEventListener('click', () => {
+  addScripts()
+  if (dropDown.style.display !== 'none') {
+    dropDown.style.display = 'none'
+    icon.classList.remove('fa-angle-up')
+    icon.classList.add('fa-angle-down')
+  } else {
+    dropDown.style.display = 'block'
+    icon.classList.remove('fa-angle-down')
+    icon.classList.add('fa-angle-up')
+  }
+})
+const handleDownload = () => {
+  let cropperImg = cropper
+    .getCroppedCanvas({ width: croppedImageWidth, height: croppedImageHeight })
+    .toDataURL()
+  let blob = dataURLtoBlob(cropperImg)
+  let reader = new FileReader()
+  reader.readAsDataURL(blob)
+  reader.onload = function (evt) {
+    let image = new Image()
+    image.onload = function () {
+      let om = document.createElement('img')
+      document.body.appendChild(om)
+      let imagePieces = []
+      let colWidth = image.width / columns
+      let rowHeight = image.height / rows
+      for (var x = 0; x < rows; ++x) {
+        for (var y = 0; y < columns; ++y) {
+          var canvas = document.createElement('canvas')
+          var context = canvas.getContext('2d')
+          canvas.height = rowHeight
+          canvas.width = colWidth
+          context.drawImage(
+            image,
+            y * colWidth,
+            x * rowHeight,
+            colWidth,
+            rowHeight,
+            0,
+            0,
+            colWidth,
+            rowHeight
+          )
+          imagePieces.push(canvas.toDataURL())
+        }
+      }
+      let zip = new JSZip()
+      let zipFiles = zip.folder(`${inputFile.name}-safeimagekit`)
+      imagePieces.map((file, index) => {
+        zipFiles.file(
+          `${inputFile.name.split('.')[0] + index + 1}-safeimagekit.png`,
+          getBase64String(file),
+          { base64: true }
+        )
+      })
+      zip.generateAsync({ type: 'blob' }).then(function (content) {
+        saveAs(content, `${inputFile.name}-safeimagekit.zip`)
+        if (lang === 'en') {
+          window.location.href = `/download?tool=${pageTool}`
+        } else {
+          window.location.href = `/${lang}/download?tool=${pageTool}`
+        }
+      })
+    }
+    image.src = evt.target.result
+  }
+}
+
+const getBase64String = (dataURL) => {
+  const idx = dataURL.indexOf('base64,') + 'base64,'.length
+  return dataURL.substring(idx)
+}
+const dataURLtoBlob = (dataurl) => {
+  let arr = dataurl.split(','),
+    mime = arr[0].match(/:(.*?);/)[1],
+    bstr = atob(arr[1]),
+    n = bstr.length,
+    u8arr = new Uint8Array(n)
+  while (n--) {
+    u8arr[n] = bstr.charCodeAt(n)
+  }
+  return new Blob([u8arr], { type: mime })
+}
