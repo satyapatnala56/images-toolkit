@@ -105,6 +105,11 @@ const onFileChange = (file) => {
 ////drag and drop ended
 
 let final_blob;
+let countforalert = 0;
+let forZeroalert = false;
+
+document.querySelector(".waitBox").style.display = "none";
+
 
 function compressImage() {
   ////loader end
@@ -135,8 +140,23 @@ function compressImage() {
               document.querySelector(".box").style.background = "#ad81ee";
 
               document.querySelector("#content").style.display = "none";
+        document.querySelector(".thankyouBox").style.display = "block";
+        // if (document.querySelector(".waitBox").style.display == "block"){
+        //   document.querySelector(".waitBox").style.display = "none";
+        //   console.log(1)
+        // }else{
+        //   document.querySelector(".waitBox").style.display = "block"
+        //   console.log(2)
+        // }
+        if(fifth == false){
+          document.querySelector(".waitBox").style.display = "block"
+        }
+        
 
         clearInterval(ans);
+        // if (forZeroalert==true){
+        //     alert("We can't compress the image further")
+        //   }
       }
     }, 300);
     ////loader end
@@ -232,6 +252,10 @@ function compressImage() {
 
             // document.querySelector("#saving_image").onclick = function () {
               if(fifth == true){
+                document.querySelector(".waitBox").style.display = "none";
+                console.log(1)
+
+              
               window.location.href = "#";
               document.querySelector(".container2").style.background = "none";
 
@@ -241,11 +265,17 @@ function compressImage() {
 
               document.querySelector("#content").style.display = "none";
               document.querySelector(".thankyouBox").innerHTML =
-                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p><p id = "newFileSize">New file size : </p><a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
-              // alert("heloo")
+                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p><p id = "newFileSize">New file size : </p><p id = "zeroAlert"></p><a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+
 
               document.querySelector("#newFileSize").innerHTML = "New file size: " + Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
-              document.querySelector("#newFileSize").style.color = "ffffff"
+              if(forZeroalert == true){
+                document.querySelector("#zeroAlert").innerText = "We can't compress the image further";
+                document.querySelector("#downloadButton").style.marginBottom = "18px";
+              }
+              document.querySelector(".thankyouBox").style.display = "none";
+              document.querySelector("#newFileSize").style.color = "#ffffff"
+              document.querySelector("#zeroAlert").style.color = "#ffffff"
               container.style.height = "300px";
               if (window.location.href.match("compress-an-image")) {
                 box.style.background = "#ad81ee";
@@ -256,6 +286,10 @@ function compressImage() {
               } else if (window.location.href.match("compress-a-gif")) {
                 box.style.background = "#ff9966";
               }
+
+                if (Math.round((final_blob + Number.EPSILON) * 100) / 100 > size && countforalert == 2) {
+                  alert("we can't compress the image further");
+                }
               // document.querySelector(".box").style.background = "#ad81ee";
 
               // document.querySelector("#content").style.display = "none"; 
@@ -288,30 +322,18 @@ function compressImage() {
 
       function getQualityFactor(blob) {
         console.log("hi1");
+        if (m == 1 && blob.size / 1024 < size){
+          document.querySelector(".thankyouBox").innerHTML =
+            '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"><p style = "color:white;">Sorry, choose different image</p></div> </div>';
+          document.querySelector(".waitBox").style.display = "none";
+        }
         if (m == 0 && blob.size / 1024 > size) {
           first = false;
           third = false;
           fifth = true;
+          forZeroalert = true;
           console.log("hi");
 
-
-          document.querySelector(
-            ".info_section #output_table  #name"
-          ).innerHTML = "C_" + input.name;
-          document.querySelector(
-            ".info_section #output_table  #type"
-          ).innerHTML = blob.type;
-          let final_blob = parseInt(blob.size) / 1024;
-          document.querySelector(
-            ".info_section #output_table  #size"
-          ).innerHTML = Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
-          document.querySelector(
-            ".info_section #output_table  #lastModifiedDate"
-          ).innerHTML = input.lastModifiedDate;
-
-          document.querySelector(
-            ".info_section #output_table  #lastModified"
-          ).innerHTML = input.lastModified;
 
           // document.querySelector(
           //   ".info_section #input_table  #name"
@@ -345,10 +367,10 @@ function compressImage() {
               m = m - 0.01;
               second = false;
               third = false;
-              forth = true;
-              fifth = true;
               m = Math.round((m + Number.EPSILON) * 100) / 100;
+              fifth = true;
               callback(m);
+              forth = true;
             }
           }
           if (third == true) {
@@ -360,24 +382,7 @@ function compressImage() {
           }
           if (forth == true) {
             console.log("HIII")
-            document.querySelector(
-              ".info_section #output_table  #name"
-            ).innerHTML = "C_" + input.name;
-            document.querySelector(
-              ".info_section #output_table  #type"
-            ).innerHTML = blob.type;
-            let final_blob = parseInt(blob.size) / 1024;
-            document.querySelector(
-              ".info_section #output_table  #size"
-            ).innerHTML =
-              Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
-            document.querySelector(
-              ".info_section #output_table  #lastModifiedDate"
-            ).innerHTML = input.lastModifiedDate;
-
-            document.querySelector(
-              ".info_section #output_table  #lastModified"
-            ).innerHTML = input.lastModified;
+            countforalert++;
 
             // document.querySelector(
             //   ".info_section #input_table  #name"
