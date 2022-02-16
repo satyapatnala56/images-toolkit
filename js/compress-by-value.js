@@ -108,6 +108,7 @@ let final_blob;
 let countforalert = 0;
 let forZeroalert = false;
 let onValueOne = false;
+let pleaseWait = false;
 
 document.querySelector(".waitBox").style.display = "none";
 
@@ -151,6 +152,7 @@ function compressImage() {
         // }
         if(fifth == false && onValueOne == false){
           document.querySelector(".waitBox").style.display = "block"
+          pleaseWait = true;
         }
         
 
@@ -265,16 +267,32 @@ function compressImage() {
               document.querySelector(".box").style.background = "#ad81ee";
 
               document.querySelector("#content").style.display = "none";
-              document.querySelector(".thankyouBox").innerHTML =
-                '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p><p id = "newFileSize">New file size : </p><p id = "zeroAlert"></p><a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+              // document.querySelector(".thankyouBox").innerHTML =
+              //   '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p><p id = "newFileSize">New file size : </p><p id = "zeroAlert"></p><a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
 
 
-              document.querySelector("#newFileSize").innerHTML = "New file size: " + Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
+              // document.querySelector("#newFileSize").innerHTML = "New file size: " + Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
               if(forZeroalert == true){
-                document.querySelector("#zeroAlert").innerText = "We can't compress the image further";
-                document.querySelector("#downloadButton").style.marginBottom = "18px";
-              }
-              document.querySelector(".thankyouBox").style.display = "none";
+                document.querySelector(".thankyouBox").innerHTML =
+                  '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"><p id = "zeroAlert"></p></div> </div>';
+                document.querySelector("#zeroAlert").innerText = "Sorry, we can't compress this image to " + `${size}` + "kb";
+                // document.querySelector("#downloadButton").style.marginBottom = "18px";
+                document.querySelector("#zeroAlert").style.color = "#ffffff";
+                // document.querySelector(".thankyouBox").innerHTML = "";
+              }else{
+                document.querySelector(".thankyouBox").innerHTML =
+                  '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p><p id = "newFileSize">New file size : </p><p id = "zeroAlert"></p><a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div>';
+                  if((Math.round((final_blob + Number.EPSILON) * 100) / 100) > 1024){
+                    let temp = (Math.round((final_blob + Number.EPSILON) * 100) / 100)/1024;
+                    temp = Math.round((temp + Number.EPSILON) * 100) / 100;
+                    document.querySelector("#newFileSize").innerHTML = "New file size: " + temp + "mb";
+                  }else{
+                    document.querySelector("#newFileSize").innerHTML = "New file size: " + Math.round((final_blob + Number.EPSILON) * 100) / 100 + "kb";
+                  }
+                
+                if(pleaseWait==false){
+                  document.querySelector(".thankyouBox").style.display = "none";
+                }
               document.querySelector("#newFileSize").style.color = "#ffffff"
               document.querySelector("#zeroAlert").style.color = "#ffffff"
               container.style.height = "300px";
@@ -287,7 +305,7 @@ function compressImage() {
               } else if (window.location.href.match("compress-a-gif")) {
                 box.style.background = "#ff9966";
               }
-
+              console.log("last step")
                 if (Math.round((final_blob + Number.EPSILON) * 100) / 100 > size && countforalert == 2) {
                   alert("we can't compress the image further");
                 }
@@ -312,6 +330,8 @@ function compressImage() {
               };
               reader2.readAsDataURL(blob);
             };
+              }
+              
           // };
           };
           },
