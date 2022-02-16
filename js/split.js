@@ -51,6 +51,7 @@ fileDropBox.addEventListener('drop', (e) => {
 })
 let inputFile = ''
 const handleFile = (file) => {
+  document.querySelector('#image-format').value = file.type.split('/')[1]
   document.querySelector('#file-loader').style.display = 'flex'
   document.querySelector('.file-input').style.display = 'none'
   inputFile = file
