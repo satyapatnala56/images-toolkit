@@ -123,7 +123,9 @@ const updateCells = () => {
   })
   let appendData = ''
   Array.from(Array(rows).keys()).map((i) => {
-    appendData += `<div class='column'>${columnsData}</div>`
+    rows - 1 === i
+      ? (appendData += `<div class='row-item last-child'>${columnsData}</div>`)
+      : (appendData += `<div class='row'>${columnsData}</div>`)
   })
 
   document.querySelector('.cropper-center').innerHTML = appendData
@@ -144,6 +146,9 @@ showDropDown.addEventListener('click', () => {
   }
 })
 const handleDownload = () => {
+  document.getElementById('saving-data').style.display = 'block'
+  let fileType = document.querySelector('#image-format').value
+  cropBoxPanel.style.display = 'none'
   let cropperImg = cropper
     .getCroppedCanvas({ width: croppedImageWidth, height: croppedImageHeight })
     .toDataURL()
@@ -175,25 +180,36 @@ const handleDownload = () => {
             colWidth,
             rowHeight
           )
-          imagePieces.push(canvas.toDataURL())
+          imagePieces.push(canvas.toDataURL(`image/${fileType}`))
         }
       }
       let zip = new JSZip()
       let zipFiles = zip.folder(`${inputFile.name}-safeimagekit`)
       imagePieces.map((file, index) => {
         zipFiles.file(
-          `${inputFile.name.split('.')[0] + index + 1}-safeimagekit.png`,
+          `${
+            inputFile.name.split('.')[0] + index + 1
+          }-safeimagekit.${fileType}`,
           getBase64String(file),
           { base64: true }
         )
       })
-      zip.generateAsync({ type: 'blob' }).then(function (content) {
-        saveAs(content, `${inputFile.name}-safeimagekit.zip`)
-        if (lang === 'en') {
-          window.location.href = `/download?tool=${pageTool}`
-        } else {
-          window.location.href = `/${lang}/download?tool=${pageTool}`
-        }
+      document.getElementById('saving-data').style.display = 'none'
+      document.querySelector('#file-loader').style.display = 'none'
+      document.querySelector('.split-img-box').style.display = 'none'
+      cropBoxPanel.style.display = 'none'
+      fileDropBox.style.display = 'flex'
+      document.querySelector('.saving-file-download-wrap').style.display =
+        'flex'
+      document.querySelector('#download-zip').addEventListener('click', () => {
+        zip.generateAsync({ type: 'blob' }).then(function (content) {
+          saveAs(content, `${inputFile.name}-safeimagekit.zip`)
+          if (lang === 'en') {
+            window.location.href = `/download?tool=${pageTool}`
+          } else {
+            window.location.href = `/${lang}/download?tool=${pageTool}`
+          }
+        })
       })
     }
     image.src = evt.target.result
