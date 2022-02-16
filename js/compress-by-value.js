@@ -107,6 +107,7 @@ const onFileChange = (file) => {
 let final_blob;
 let countforalert = 0;
 let forZeroalert = false;
+let onValueOne = false;
 
 document.querySelector(".waitBox").style.display = "none";
 
@@ -148,7 +149,7 @@ function compressImage() {
         //   document.querySelector(".waitBox").style.display = "block"
         //   console.log(2)
         // }
-        if(fifth == false){
+        if(fifth == false && onValueOne == false){
           document.querySelector(".waitBox").style.display = "block"
         }
         
@@ -323,8 +324,9 @@ function compressImage() {
       function getQualityFactor(blob) {
         console.log("hi1");
         if (m == 1 && blob.size / 1024 < size){
-          document.querySelector(".thankyouBox").innerHTML =
+          document.querySelector(".thankyouBox").innerHTML = 
             '<div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"><p style = "color:white;">Sorry, choose different image</p></div> </div>';
+          onValueOne = true;
           document.querySelector(".waitBox").style.display = "none";
         }
         if (m == 0 && blob.size / 1024 > size) {
