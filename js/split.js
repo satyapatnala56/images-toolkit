@@ -125,7 +125,7 @@ const updateCells = () => {
   Array.from(Array(rows).keys()).map((i) => {
     rows - 1 === i
       ? (appendData += `<div class='row-item last-child'>${columnsData}</div>`)
-      : (appendData += `<div class='row'>${columnsData}</div>`)
+      : (appendData += `<div class='row-item'>${columnsData}</div>`)
   })
 
   document.querySelector('.cropper-center').innerHTML = appendData
