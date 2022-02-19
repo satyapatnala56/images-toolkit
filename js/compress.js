@@ -2,6 +2,8 @@ const getScript = document.currentScript
 const pageTool = getScript.dataset.tool
 const lang = getScript.dataset.lang
 const gdrive = document.querySelector('#filepicker')
+const fileDropBox = document.querySelector('.custom-box')
+
 const showLoader = () => {
   document.querySelector('#file-loader').style.display = 'flex'
   document.querySelector('.file-input').style.display = 'none'
@@ -21,6 +23,13 @@ const getDropBoxFile = (file) => {
 const getFile = (file) => {
   ChangeFile(file)
 }
+fileDropBox.addEventListener('dragover', (e) => {
+  e.preventDefault()
+})
+fileDropBox.addEventListener('drop', (e) => {
+  e.preventDefault()
+  ChangeFile(e.dataTransfer.files[0])
+})
 const dropbox = document.getElementById('dropbox')
 dropbox.addEventListener(
   'click',
