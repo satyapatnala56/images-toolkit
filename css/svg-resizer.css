@@ -1,0 +1,191 @@
+.success_alert {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  top: 0px;
+  height: 63px;
+  padding-top: 15px;
+  font-size: 20px;
+  right: 0;
+  visibility: hidden;
+  text-align: center;
+}
+#content {
+  margin-top: 30px;
+}
+#output_div_inner {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  width: 100%;
+}
+
+#output_div_inner img {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  max-height: 440px;
+}
+#output_div {
+  padding: 40px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  min-height: 520px;
+}
+#header_div {
+  text-align: left;
+  font-weight: 900;
+  margin-bottom: 20px;
+  font-family: system-ui;
+  font-size: 2.1rem;
+}
+#options_div {
+  font-size: 14px;
+  font-weight: 300;
+}
+.resize-options-div {
+  height: 100%;
+}
+.resize-options-div input[type='text'] {
+  margin-bottom: 20px;
+}
+.resize-options-div p {
+  text-align: left;
+}
+.resize-options-div select {
+  margin-bottom: 20px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.btn-design {
+  padding: 11px 24px 12px 24px;
+  font-weight: 700;
+  display: block;
+  width: 148px;
+  font-size: 15px;
+  border-radius: 34px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn-design:hover {
+  text-decoration: none;
+}
+#preview {
+  color: #000;
+  background: #f0f0f0;
+  margin-right: 10px;
+}
+#save {
+  background: #0d66d0;
+  color: #fff;
+}
+@media (max-width: 370px) {
+  .buttons {
+    flex-direction: column;
+    width: 100%;
+    gap: 28px;
+  }
+  .btn-design {
+    width: 100%;
+  }
+  #output_div {
+    padding: 35px 10px 35px 10px;
+  }
+}
+.custom-dimensions-options {
+  display: flex;
+  margin-top: 30px;
+}
+#resize_quality {
+  margin: 30px 0px;
+  text-align: left;
+}
+#dimensions_div {
+  margin-top: 30px;
+  text-align: left;
+}
+#dimensions_div .title {
+  padding: 4px 0px;
+}
+#resize_quality select,
+#save_as select {
+  width: 176px;
+  border: 1px solid #c6c5c5;
+  border-radius: 3px;
+  height: 30px;
+  margin-left: 5px;
+  color: rgb(97, 96, 96);
+  padding: 0px 4px;
+}
+.input_div {
+  text-align: left;
+}
+.input_div input {
+  width: 5.55rem;
+  border: 1px solid #c6c5c5;
+  border-radius: 3px;
+  height: 30px;
+  padding: 0px 8px;
+}
+.input_div div {
+  text-align: left;
+  padding: 4px 0px;
+}
+.dimension-btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.dimension_btn {
+  border: 1px solid #c6c5c5;
+  border-radius: 4px;
+  padding: 5px 8px;
+  background: #ffffff;
+  color: #000;
+  cursor: pointer;
+}
+.dimension_btn :hover{
+  background: #7a7a7a;
+  color: #fff
+}
+
+.custom-select {
+  background: #fff url('/assets/arrowdown.png') right 9px center/9px 10px
+    no-repeat;
+}
+#aspectratioCheckbox{
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+#aspectratioCheckbox label{
+  margin-bottom: 0;
+  padding-left: 7px;
+}
+#aspectratioCheckbox input{
+  padding-left: 1px;
+}
+
+@media (max-width:767px){
+  .alloptions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #header_div{
+    display: none;
+  }
+  #options_div {
+    font-size: 14px;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+}
