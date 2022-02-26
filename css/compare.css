@@ -2,7 +2,6 @@
   height: 100px;
 }
 #parent_element {
-  height: 470px;
   position: relative;
 }
 #loading_id {
@@ -21,7 +20,7 @@
 }
 
 .options_div {
-  height: 110px;
+  height: auto;
   width: 100%;
 }
 .output_div {
@@ -48,17 +47,7 @@
   justify-content: center;
   width: 100%;
 }
-.container2 {
-  height: 800px;
-}
-.box {
-  height: 400px;
-}
-.comparison_input {
-  display: flex;
-  width: 100%;
-  justify-content: center;
-}
+
 .box-padding {
   width: 600px;
 }
@@ -68,36 +57,17 @@
   }
 }
 @media (max-width: 910px) {
-  #parent_element {
-    height: 890px;
-  }
   #loading_id {
     margin-top: 352px;
-  }
-  .comparison_input {
-    display: inline-block;
   }
   .box-padding {
     width: 89%;
     margin: auto;
   }
-  #box2 {
-    margin-top: 330px;
-  }
 }
 @media (max-width: 465px) {
-  #parent_element {
-    height: 682px;
-  }
   #loading_id {
     margin-top: 252px;
-  }
-  .box,
-  .container2 {
-    height: 800px;
-  }
-  #box2 {
-    margin-top: 230px;
   }
   #img_div,
   #img_div2 {
@@ -126,16 +96,15 @@
 .content_div {
   height: auto;
   width: 100%;
-  border: 1px solid black;
-  visibility: hidden;
+  display: none;
 }
 
 .option_btns {
-  width: 650px;
   margin: auto;
-  height: 65px;
   display: flex;
-  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
 }
 
 .fade_container,
@@ -175,11 +144,6 @@
 @media (max-width: 650px) {
   .fade_container {
     width: 80%;
-  }
-}
-@media (max-width: 721px) {
-  .option_btns {
-    width: 90%;
   }
 }
 @media (max-width: 530px) {
@@ -230,15 +194,18 @@
   }
 }
 .option_btns div {
-  height: 49px;
-  width: 25%;
-  font-size: 18px;
+  width: 130px;
+  padding: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
   font-weight: bold;
+  cursor: pointer;
   text-align: center;
   border: 2px solid white;
-  padding-top: 10px;
   background: rgba(230, 230, 230);
-  margin-top: 10px;
+  height: 51px;
 }
 .table_container {
   width: 100%;
@@ -271,9 +238,6 @@
   .option_btns {
     height: auto;
     display: block;
-  }
-  .options_div {
-    height: 295px;
   }
   .option_btns div {
     width: 100%;
@@ -365,4 +329,68 @@
     margin-left: auto;
     margin-right: auto;
   }
+}
+.boxes {
+  border-radius: 6px;
+}
+@media (max-width: 768px) {
+  .box {
+    min-height: 200px;
+  }
+  .boxes {
+    padding: 14px 16px;
+    height: 48px;
+  }
+  .container2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    justify-content: center;
+    min-height: 270px;
+  }
+  #upload_img {
+    margin: 0 !important;
+  }
+  .input_div1,
+  .inputbox2 {
+    margin-top: 10px;
+  }
+  .option_btns {
+    width: 90%;
+    display: block;
+    height: auto;
+    margin-bottom: 6px !important;
+  }
+  .option_btns div {
+    width: 100%;
+    margin: auto;
+  }
+  #loading_id {
+    margin-top: 70px;
+  }
+}
+.dropfile {
+  margin: 0;
+  color: #fff;
+}
+@media (max-width: 992px) {
+  .option_btns {
+    gap: 10px;
+  }
+  #loading_id {
+    margin-top: 100px;
+  }
+}
+.options {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  padding: 20px 0px;
+}
+.options input,
+.options select {
+  border-radius: 10px;
+  border: 2px solid #e5dfdf;
 }
