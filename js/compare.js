@@ -119,6 +119,8 @@ $(document).ready(function () {
         $('#second_img').html(file2.name)
 
         $('#split').on('click', function () {
+          document.querySelector('.options').style.display = 'none'
+          document.querySelector('.file_name_div').style.display = 'flex'
           option_btn_color('split')
 
           $('.output_div').css({
@@ -152,6 +154,8 @@ $(document).ready(function () {
           $('.fade_container img').attr('src', url2)
         })
         $('#difference').click(function () {
+          document.querySelector('.options').style.display = 'none'
+          document.querySelector('.file_name_div').style.display = 'flex'
           option_btn_color('difference')
 
           $('.output_div').css({
