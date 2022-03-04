@@ -94,7 +94,7 @@
         {
             "name": "Image Resizer",
             "description": "Thay đổi kích thước hình ảnh",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/vi/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Thay đổi hình ảnh",
             "description": "Thay đổi kích thước hình ảnh thành X sang Y inches/pixels",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/vi/image-resizers-all"
         },

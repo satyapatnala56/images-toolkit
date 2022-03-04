@@ -94,7 +94,7 @@
         {
             "name": "ตัวปรับขนาดภาพ",
             "description": "เปลี่ยนขนาดภาพ",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/th/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "ตัวปรับขนาดภาพ",
             "description": "ปรับขนาดภาพเป็น X เป็น Y นิ้ว/พิกเซล",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/th/image-resizers-all"
         },

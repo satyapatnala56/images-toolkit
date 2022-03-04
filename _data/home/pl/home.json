@@ -94,7 +94,7 @@
         {
             "name": "Rozmiar obrazu",
             "description": "Zmienia rozmiar obrazu",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/pl/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Rezeratory obrazu",
             "description": "Zmiana rozmiaru obrazu na X do Y/piksele",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/pl/image-resizers-all"
         },

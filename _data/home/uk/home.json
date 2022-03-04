@@ -94,7 +94,7 @@
         {
             "name": "Зміна розміру зображення",
             "description": "Зміни розміру зображення",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/uk/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Резизатори зображень",
             "description": "Розмір зображення в X до Y дюймів/пікселів",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/uk/image-resizers-all"
         },

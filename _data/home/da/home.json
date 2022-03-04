@@ -94,7 +94,7 @@
         {
             "name": "Billede Resizer",
             "description": "Ændringer størrelse billede",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/da/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Billede resizers",
             "description": "Billede resize til X til Y inches/pixels",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/da/image-resizers-all"
         },

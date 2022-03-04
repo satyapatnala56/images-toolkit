@@ -94,7 +94,7 @@
         {
             "name": "Beeldresizer",
             "description": "Afbeelding van grootte wijzigen",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/nl/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Beeldresizers",
             "description": "Het formaat van de afbeelding wijzigen in X naar Y inch/pixels",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/nl/image-resizers-all"
         },
