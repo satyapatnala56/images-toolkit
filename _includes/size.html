@@ -62,7 +62,35 @@
         </div>
         <div id="header_div">Resize image</div>
         <div id="options_div" class="function_box">
+          <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+              <a class="nav-link active" id="strechy-tab" data-toggle="tab" href="#strechy" role="tab"
+                aria-controls="strechy" aria-selected="true">Strechy</a>
+            </li>
+            <li class="nav-item" role="presentation">
+              <a class="nav-link" id="fixed-tab" data-toggle="tab" href="#fixed" role="tab" aria-controls="fixed"
+                aria-selected="false">Fixed</a>
+            </li>
+
+          </ul>
+          <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="strechy" role="tabpanel" aria-labelledby="strechy-tab">
+              <div class="text-left">Slider</div>
+              <div class="d-flex">
+                <div class="d-flex align-items-center mr-2" id="perc">100%</div> <input type="range" min="50" max="200"
+                  value="100" name="strech-range" id="strech-range">
+              </div>
+            </div>
+            <div class="tab-pane fade" id="fixed" role="tabpanel" aria-labelledby="fixed-tab">
+              <div class="d-flex">
+                <div class="pt-1 pr-2">
+                  BGcolor</div> <input type="color" name="color" id="color">
+              </div>
+            </div>
+          </div>
           <div class="custom-dimensions-options">
+            <i data-toggle="tooltip" data-placement="top" title="Unlock aspect" id="aspect-radio"
+              class="fas fa-lock"></i>
             <div class="input_div" id="resize_height">
               <div>Height</div>
               <input type="number" class="change-config" id="img_height" />
@@ -110,7 +138,7 @@
           </div>
         </div>
         <div id="footer_div">
-          <a class="btn-design" id="save">Save</a>
+          <a class="btn-design" id="save">Download</a>
         </div>
       </div>
     </div>
