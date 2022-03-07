@@ -94,9 +94,23 @@
     {
       "name": "Image Resizer",
       "description": "Changes size image",
-      "color": "#ffbb33",
+      "color": "#0566D1",
       "icon": "/img/home/resize.png",
       "url": "/image-resize"
+    },
+    {
+      "name": "SVG Resizer",
+      "description": "Resize SVG",
+      "color": "#32a852",
+      "icon": "/img/home/resize.png",
+      "url": "/svg-resizer"
+    },
+    {
+      "name": "Multiple Image Resizer",
+      "description": "Resize multiple image at once",
+      "color": "#ffbd4a",
+      "icon": "/img/home/resize.png",
+      "url": "/multiimage-resizer"
     },
     {
       "name": "Watermark image maker",
@@ -234,7 +248,7 @@
     {
       "name": "Image resizers",
       "description": "Image resize into X to Y inches/pixels",
-      "color": "#ffbb33",
+      "color": "#0566D1",
       "icon": "/img/home/resize.png",
       "url": "/image-resizers-all"
     },

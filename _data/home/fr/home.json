@@ -94,7 +94,7 @@
         {
             "name": "Redimensionneur d'image",
             "description": "Changements de taille d'image",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/fr/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Redimensionneurs d'image",
             "description": "Redimensionner l'image en X à Y pouces/pixels",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/fr/image-resizers-all"
         },

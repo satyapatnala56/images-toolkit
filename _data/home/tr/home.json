@@ -94,7 +94,7 @@
         {
             "name": "Görüntü Resizer",
             "description": "Boyut resmini değiştirir",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/tr/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Görüntü yeniden boyutlandırıcılar",
             "description": "Görüntü X ile Y inç/piksel olarak yeniden boyutlandırılır",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/tr/image-resizers-all"
         },

@@ -13,7 +13,7 @@
     "META": "사진 크기 조정을 위한 고품질 도구를 찾고 계십니까?그럼 당신은 바로 이곳에 있습니다.온라인 이미지 크기 조정 도구는 매우 안전하고 사용자 친화적이며 매우 빠릅니다.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "#0566D1",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
@@ -130,9 +130,9 @@
         }
     ],
     "jscdns": [
-        "<script src=\"/assets/js/googledrive.js\"></script>",
-        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/size.js\"></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script defer src=\"/assets/js/googledrive.js\"></script>",
+        "<script defer data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
+        "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
         "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",

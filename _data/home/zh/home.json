@@ -94,7 +94,7 @@
         {
             "name": "图像调整器",
             "description": "更改大小的图像",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/zh/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "图像大小调整器",
             "description": "图像调整为X到Y英寸/像素",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/zh/image-resizers-all"
         },

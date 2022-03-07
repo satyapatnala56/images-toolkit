@@ -94,7 +94,7 @@
         {
             "name": "تغيير حجم الصور",
             "description": "تغيير حجم الصورة",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/ar/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "مقاومات الصور",
             "description": "تغيير حجم الصورة إلى X إلى Y بوصة/بكسل",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/ar/image-resizers-all"
         },

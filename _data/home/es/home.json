@@ -94,7 +94,7 @@
         {
             "name": "Image Resizer",
             "description": "Cambia el tamaño de imagen",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/es/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Redimensionadores de imagen",
             "description": "Cambiar el tamaño de la imagen de X a Y pulgadas/píxeles",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/es/image-resizers-all"
         },

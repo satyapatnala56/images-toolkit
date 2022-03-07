@@ -1,3 +1,6 @@
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 const getScript = document.currentScript
 const pageTool = getScript.dataset.tool
 const lang = getScript.dataset.lang
@@ -8,6 +11,215 @@ var file = document.querySelector('#file')
 var box = document.querySelector('.box')
 var rotate = document.querySelector('#rotate_input') || 0
 var rotate_value_range = document.querySelector('#rotate_value_range') || 0
+let dimensionsDiv = document.querySelector('#dimensions_div')
+const perc = document.querySelector('#perc')
+let type = 'stretch'
+let imageOriginalHeight = null
+let imageOriginalWidth = null
+let fixedImageHeight = null
+let fixedImageWidth = null
+let aspectRatio = null
+let image = null
+let imageDataUrl = null
+let lockedAspectRadio = true
+let imageHeightDiffValue = 0
+let imageWidthDiffValue = 0
+var file_name = ''
+let color = document.querySelector('#color')
+let fixedTab = document.querySelector('#fixed-tab')
+let strechyTab = document.querySelector('#strechy-tab')
+const imageHeightInputBox = document.querySelector('#img_height')
+const imageWidthInputBox = document.querySelector('#img_width')
+let strechRangeInput = document.querySelector('#strech-range')
+let aspectRadioElement = document.querySelector('#aspect-radio')
+let url = null
+color.addEventListener('input', () => {
+  drawFixedImage(imageHeightDiffValue, imageWidthDiffValue, 0, 0)
+})
+strechRangeInput.addEventListener('change', (e) => {
+  perc.innerHTML = `${e.target.value}%`
+  let imageHeight = Math.round(
+    (imageOriginalHeight * Number(e.target.value)) / 100
+  )
+  let imageWidth = Math.round(
+    (imageOriginalWidth * Number(e.target.value)) / 100
+  )
+  imageWidthInputBox.value = imageWidth
+  imageHeightInputBox.value = imageHeight
+  renderResizedImage(imageHeight, imageWidth)
+})
+fixedTab.addEventListener('click', () => {
+  type = 'fixed'
+  dimensionsDiv.style.display = 'none'
+  aspectRadioElement.dataset.originalTitle = 'Lock aspect'
+  lockedAspectRadio = false
+  aspectRadioElement.className = 'fas fa-unlock'
+})
+strechyTab.addEventListener('click', () => {
+  type = 'stretch'
+  dimensionsDiv.style.display = 'block'
+})
+let changeConfig = document.getElementsByClassName('change-config')
+Array.from(changeConfig).map((i) => {
+  i.addEventListener('change', (e) => {
+    if (e.target.value < 0) {
+      e.target.id = 'img_height' ? (e.target.value = 1) : (e.target.value = 1)
+    }
+    if (type === 'stretch') {
+      if (lockedAspectRadio) {
+        if (e.target.id === 'img_height') {
+          imageWidthInputBox.value = Math.round(
+            imageHeightInputBox.value * aspectRatio
+          )
+          renderResizedImage(
+            imageHeightInputBox.value,
+            Math.round(imageHeightInputBox.value * aspectRatio)
+          )
+        } else {
+          imageHeightInputBox.value = Math.round(
+            imageWidthInputBox.value / aspectRatio
+          )
+          renderResizedImage(
+            Math.round(imageWidthInputBox.value / aspectRatio),
+            imageWidthInputBox.value
+          )
+        }
+      } else {
+        renderResizedImage(imageHeightInputBox.value, imageWidthInputBox.value)
+      }
+    } else {
+      if (lockedAspectRadio) {
+        if (e.target.id === 'img_height') {
+          imageWidthInputBox.value = Math.round(
+            imageHeightInputBox.value * aspectRatio
+          )
+        } else {
+          imageHeightInputBox.value = Math.round(
+            imageWidthInputBox.value / aspectRatio
+          )
+        }
+        fixedImageHeight = imageHeightInputBox.value
+        fixedImageWidth = imageWidthInputBox.value
+        drawFixedImage(
+          0,
+          0,
+          imageHeightInputBox.value,
+          imageWidthInputBox.value
+        )
+      } else {
+        let imageHeightInputBoxValue = Number(imageHeightInputBox.value)
+        let imageWidthInputBoxValue = Number(imageWidthInputBox.value)
+        let findAspectWidth = Math.round(
+          Number(imageWidthInputBox.value) * aspectRatio
+        )
+        let findAspectHeight = Math.round(
+          Number(imageWidthInputBox.value) / aspectRatio
+        )
+        if ((e.id = 'img_height')) {
+          if (findAspectHeight <= imageHeightInputBoxValue) {
+            drawFixedImage(
+              Math.round(
+                (imageHeightInputBoxValue -
+                  Math.round(Number(imageWidthInputBoxValue) / aspectRatio)) /
+                  2
+              ),
+              0,
+              imageHeightInputBoxValue,
+              imageWidthInputBoxValue
+            )
+            fixedImageWidth = imageWidthInputBoxValue
+            fixedImageHeight = Math.round(
+              Number(imageWidthInputBoxValue) / aspectRatio
+            )
+          }
+          if (findAspectHeight > imageHeightInputBoxValue) {
+            drawFixedImage(
+              0,
+              Math.round(
+                (imageWidthInputBoxValue -
+                  Number(imageHeightInputBoxValue) * aspectRatio) /
+                  2
+              ),
+              imageHeightInputBoxValue,
+              Number(imageHeightInputBoxValue) * aspectRatio
+            )
+            fixedImageHeight = imageHeightInputBoxValue
+            fixedImageWidth = Number(imageHeightInputBoxValue) * aspectRatio
+          }
+        } else {
+          if (findAspectWidth <= imageWidthInputBoxValue) {
+            drawFixedImage(
+              0,
+              Math.round(
+                (imageHeightInputBoxValue -
+                  Math.round(Number(imageWidthInputBoxValue) * aspectRatio)) /
+                  2
+              ),
+              imageHeightInputBoxValue,
+              imageWidthInputBoxValue
+            )
+            fixedImageWidth = Math.round(
+              Number(imageWidthInputBoxValue) * aspectRatio
+            )
+            fixedImageHeight = imageWidthInputBoxValue
+          }
+          if (findAspectWidth > imageWidthInputBoxValue) {
+            drawFixedImage(
+              0,
+              Math.round(
+                (imageHeightInputBoxValue -
+                  Number(imageWidthInputBoxValue) / aspectRatio) /
+                  2
+              ),
+              imageHeightInputBoxValue,
+              Number(imageHeightInputBoxValue) * aspectRatio
+            )
+            fixedImageHeight = Number(imageHeightInputBoxValue) / aspectRatio
+            fixedImageWidth = imageWidthInputBoxValue
+          }
+        }
+      }
+    }
+  })
+})
+aspectRadioElement.addEventListener('click', (e) => {
+  lockedAspectRadio = lockedAspectRadio ? false : true
+  lockedAspectRadio
+    ? (e.target.dataset.originalTitle = 'Unlock aspect')
+    : (e.target.dataset.originalTitle = 'Lock aspect')
+  e.target.className =
+    e.target.className === 'fas fa-lock' ? 'fas fa-unlock' : 'fas fa-lock'
+})
+const renderResizedImage = (height, width) => {
+  image.onload = function () {
+    let canvas = document.createElement('canvas')
+    let ctx = canvas.getContext('2d')
+    canvas.height = height
+    canvas.width = width
+    ctx.drawImage(image, 0, 0, width, height)
+    document.querySelector('#output_div_inner img').src = canvas.toDataURL()
+    url = canvas.toDataURL()
+  }
+  image.src = imageDataUrl
+}
+const drawFixedImage = (heightDiff, WidthDiff, imageHeight, imageWidth) => {
+  image.onload = function () {
+    image.height = fixedImageHeight
+    image.width = fixedImageWidth
+    imageHeightDiffValue = heightDiff
+    imageWidthDiffValue = WidthDiff
+    let canvas = document.createElement('canvas')
+    canvas.width = Number(imageWidthInputBox.value)
+    canvas.height = Number(imageHeightInputBox.value)
+    let ctx = canvas.getContext('2d')
+    ctx.fillStyle = color.value
+    ctx.fillRect(0, 0, canvas.width, canvas.height)
+    ctx.drawImage(image, WidthDiff, heightDiff, image.width, image.height)
+    document.querySelector('#output_div_inner img').src = canvas.toDataURL()
+    url = canvas.toDataURL()
+  }
+  image.src = imageDataUrl
+}
 var input
 container.ondragover = function (e) {
   e.preventDefault()
@@ -83,7 +295,6 @@ const fileOnChange = () => {
 }
 function convert_webp() {
   document.querySelector('.success_alert').style.visibility = 'hidden'
-  /////loader starting
   $('#file').remove()
   setTimeout(function () {
     webp_to_img()
@@ -114,12 +325,20 @@ function convert_webp() {
     var r = new FileReader()
     r.onload = function () {
       var img = new Image()
+      image = img
+
       img.onload = function () {
+        imageOriginalHeight = img.height
+        imageOriginalWidth = img.width
+        imageHeightInputBox.value = imageOriginalHeight
+        imageWidthInputBox.value = imageOriginalWidth
+        fixedImageHeight = imageOriginalHeight
+        fixedImageWidth = imageOriginalWidth
+        aspectRatio = imageOriginalWidth / imageOriginalHeight
         document.querySelector('#output_div_inner img').src = r.result
         var dimension_btn = document.querySelectorAll('.dimension_btn')
         for (let m = 0; m < dimension_btn.length; m++) {
           dimension_btn[m].onclick = function () {
-            console.log(dimension_btn[m].id)
             var button_id = dimension_btn[m].id
             var button_arr = button_id.split('X')
             var button_width = button_arr[0]
@@ -131,18 +350,12 @@ function convert_webp() {
             initial_conversion('Loading preview...', 'Preview loaded', 0)
           }
         }
-        let changeConfig = document.getElementsByClassName('change-config')
-        Array.from(changeConfig).map((i) => {
-          i.addEventListener('input', () => {
-            initial_conversion('Loading preview...', 'Preview loaded', 0)
-          })
-        })
 
         document.querySelector('#save').onclick = function () {
-          initial_conversion('Saving Image...', '', 1)
+          image_saving()
         }
         function initial_conversion(message1, message2, value) {
-          var file_name = input.name.match(/^.*\./)
+          file_name = input.name.match(/^.*\./)
           var height =
             document.querySelector('#resize_height input').value || img.height
           var quality =
@@ -207,6 +420,7 @@ function convert_webp() {
           ctx.drawImage(image, 0, 0, width, height)
           document.querySelector('#output_div_inner img').src =
             canvas.toDataURL()
+          url = canvas.toDataURL()
           document.querySelector('#output_div_inner img').onload = function () {
             document.querySelector('.success_alert').style.borderColor =
               '#badbcc'
@@ -223,60 +437,11 @@ function convert_webp() {
                   'hidden'
               }, 2000)
             }
-
-            function image_saving(file_name, mimetype) {
-              window.location.href = '#'
-              document.querySelector('.box').style.background = '#ffbb33'
-              document.querySelector('.box-border').style.background =
-                'rgba(0, 0, 0, 0.1)'
-              document.querySelector('.box-border').style.background =
-                '2px dashed rgba(0, 0, 0, 0.15)'
-
-              document.querySelector('#content').style.display = 'none'
-              document.querySelector('.thankyouBox').innerHTML =
-                ' <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <span><a class="btn" id="downloadButton">DOWNLOAD</a></span> </div> </div>'
-              document.querySelector('.container2').style.height = '300px'
-              document.querySelector('.container2').style.background =
-                'transparent'
-              document.querySelector('.container2').style.borderRadius = '0px'
-              document.querySelector('.box').style.borderRadius = '0px'
-              ///download button
-
-              document.querySelector('#downloadButton').onclick = function () {
-                document.querySelector('.thankyouBox span').innerHTML =
-                  'Downloading might take a while'
-                canvas.toBlob(function (blob) {
-                  var r = new FileReader()
-                  r.onload = function () {
-                    var b = new Blob([r.result], {
-                      type: 'image/' + mimetype,
-                    })
-                    var url = window.URL.createObjectURL(b)
-                    var a = document.createElement('a')
-                    a.href = url
-                    a.download = 'Safeimagekit-' + file_name + mimetype
-                    a.click()
-                    setTimeout(() => {
-                      if (lang === 'en') {
-                        window.location.href = `/download?tool=${pageTool}`
-                      } else {
-                        window.location.href = `/${lang}/download?tool=${pageTool}`
-                      }
-                    }, 200)
-                  }
-                  r.readAsArrayBuffer(blob)
-                })
-              }
-            }
-            if (value == 1) {
-              image_saving(file_name, mimetype)
-            } else if (value == 0) {
-              return false
-            }
           }
         }
       }
       img.src = r.result
+      imageDataUrl = r.result
     }
     r.readAsDataURL(input)
   }
@@ -302,3 +467,17 @@ showDropDown.addEventListener('click', () => {
     icon.classList.add('fa-angle-up')
   }
 })
+function image_saving() {
+  let fileExtension = document.querySelector('.custom-select').value
+  var a = document.createElement('a')
+  a.href = url
+  a.download = 'Safeimagekit-' + file_name + fileExtension
+  a.click()
+  setTimeout(() => {
+    if (lang === 'en') {
+      window.location.href = `/download?tool=${pageTool}`
+    } else {
+      window.location.href = `/${lang}/download?tool=${pageTool}`
+    }
+  }, 200)
+}

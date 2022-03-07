@@ -94,7 +94,7 @@
         {
             "name": "圖像調整大小",
             "description": "更改圖像大小",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/zh-TW/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "圖像調整大小",
             "description": "圖像大小調整為 X 到 Y 英寸/像素",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/zh-TW/image-resizers-all"
         },

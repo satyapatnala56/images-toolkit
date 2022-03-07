@@ -99,7 +99,6 @@
 }
 .custom-dimensions-options {
   display: flex;
-  margin-top: 30px;
 }
 #resize_quality {
   margin: 30px 0px;
@@ -152,4 +151,28 @@
 .custom-select {
   background: #fff url('/assets/arrowdown.png') right 9px center/9px 10px
     no-repeat;
+}
+#aspect-radio {
+  display: block;
+  margin-bottom: 0;
+  font-size: 18px;
+  padding: 0px 9px 8px 0px;
+  cursor: pointer;
+  margin-top: 32px;
+}
+#strechy,
+#fixed {
+  margin: 20px 0px;
+}
+#strech-range {
+  width: 86%;
+  display: block;
+  margin: 22px 0px 20px 0px;
+}
+#color {
+  border: none;
+  background: #fff;
+  padding: 0;
+  height: 30px;
+  width: 30px;
 }
