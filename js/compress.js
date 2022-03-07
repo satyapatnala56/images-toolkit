@@ -3,7 +3,7 @@ const pageTool = getScript.dataset.tool
 const lang = getScript.dataset.lang
 const gdrive = document.querySelector('#filepicker')
 const fileDropBox = document.querySelector('.custom-box')
-
+let differenceLine = document.querySelector('#difference-line')
 const showLoader = () => {
   document.querySelector('#file-loader').style.display = 'flex'
   document.querySelector('.file-input').style.display = 'none'
@@ -120,10 +120,26 @@ const fileSize = (bytes, decimals = 2) => {
 }
 const slide = () => {
   let slideValue = document.getElementById('slider').value
+  differenceLine.style.left = `calc(${slideValue}% - 1.6px)`
   document.getElementById('original-img').style.clipPath =
     'polygon(0 0,' + slideValue + '% 0,' + slideValue + '% 100%, 0 100%)'
 }
 const compressImage = (file) => {
+  let reader = new FileReader()
+  reader.readAsDataURL(file)
+  reader.onload = function (e) {
+    let image = new Image()
+    image.src = e.target.result
+    image.onload = function () {
+      let height = this.height
+      let width = this.width
+      let aspectRadio = width / height
+      height = 320
+      width = height / aspectRadio
+      console.log(width)
+    }
+  }
+
   let quality =
     (Number(document.querySelector('#quality-range').value) - 10) / 100
   new Compressor(file, {
