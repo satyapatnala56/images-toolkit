@@ -140,24 +140,26 @@
   transform-origin: right top;
   transform: translateX(-100%) rotate(-90deg);
   transform: translate3d(-100%, 0, 0) rotate(-90deg);
-  margin-left: -10px;
-  transition: opacity 0.2s ease-out;
-  margin-top: 10px;
   -webkit-appearance: none;
+  margin-left: -11.4px;
+  margin-top: 10px;
+  z-index: 1;
 }
 
 .range-div input::-webkit-slider-thumb {
   -webkit-appearance: none;
-  padding: 4px;
+  padding: 10px;
+  display: block;
   background-size: contain;
-  border: 2px solid #46b3fe;
-  background: #46b3fe
+  border: 2px solid #2488ff;
+  margin-bottom: 100px !important;
+  background: #2488ff
     url('https://codyhouse.co/demo/image-comparison-slider/img/cd-arrows.svg')
     no-repeat center center;
 }
 
 .range-div input::-webkit-slider-runnable-track {
-  background: #46b4fe59;
+  background-color: transparent;
 }
 
 #dropfile {
@@ -205,7 +207,7 @@
   border-radius: 50%;
   background-size: contain;
   cursor: col-resize;
-  background: #46b3fe
+  background: #2488ff
     url('https://codyhouse.co/demo/image-comparison-slider/img/cd-arrows.svg')
     no-repeat center center;
 }
@@ -224,21 +226,29 @@
 @media (max-width: 768px) {
   .range-div {
     width: 100%;
+    position: relative;
   }
 
   .range-div input {
     transform: translate3d(0%, 0, 0) rotate(0deg);
     position: initial;
     width: 100%;
+    margin-left: 0px !important;
   }
 
   .quality {
     padding-top: 10px;
   }
+  .custom-range-track {
+    margin-top: 21px !important;
+    width: 100% !important;
+    height: 8px !important;
+    left: 0 !important;
+  }
 }
 
 #quality-input {
-  background: none;
+  background: 0 0;
   border: none;
   cursor: text;
   font-size: 1em;
@@ -262,7 +272,35 @@
 }
 
 #download-btn {
-  background: #46b3fe;
-  border: 2px solid #46b3fe;
+  background: #2488ff;
+  border: 2px solid #2488ff;
   font-size: 16px;
+  padding: 10px 20px;
+  font-size: 17px;
+}
+#difference-line {
+  height: 100%;
+  width: 3px;
+  background-color: #fff;
+  position: absolute;
+  left: 50%;
+}
+
+.custom-range-track {
+  position: absolute;
+  margin-top: 10px;
+  height: 100px;
+  width: 6px;
+  left: 50%;
+  background-color: #2488ff9c;
+  height: 234px;
+  border-radius: 15px;
+}
+#download-btn i {
+  margin-bottom: 0px;
+  margin-right: 4px;
+}
+.compress-img-box p {
+  color: #000;
+  font-size: 17px;
 }
