@@ -88,19 +88,29 @@
         "categoryName": "Other Tools",
         "links": [
           {
+            "iconSrc": "/img/resize.png",
+            "name": "Image Resizer",
+            "url": "/image-resize"
+          },
+          {
             "iconSrc": "/img/split.png",
             "name": "Image Splitter",
             "url": "/split-photo"
           },
           {
             "iconSrc": "/img/resize.png",
-            "name": "Image Resizer",
-            "url": "/image-resize"
+            "name": "Multiple Image Resizer",
+            "url": "/multiimage-resizer"
           },
           {
             "iconSrc": "/img/compare.png",
             "name": "Image Comparison",
             "url": "/image-comparison"
+          },
+          {
+            "iconSrc": "/img/resize.png",
+            "name": "SVG Resizer",
+            "url": "/svg-resizer"
           }
         ]
       },
