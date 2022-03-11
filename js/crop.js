@@ -18,6 +18,7 @@ const cropInputWidth = document.querySelector('#crop-width')
 Array.from(mediaCrop).map((item) => {
   item.addEventListener('click', (e) => {
     document.querySelector('.alert').style.display = 'none'
+    document.querySelector('#dropdownMenuButton').innerHTML = e.currentTarget.id
     if (e.currentTarget.id === 'freely') {
       cropInputHeight.disabled = false
       cropInputWidth.disabled = false
@@ -28,7 +29,6 @@ Array.from(mediaCrop).map((item) => {
       cropInputWidth.disabled = true
       let find = data.find((i) => i.name.toLowerCase() === e.currentTarget.id)
       setId = e.currentTarget.id
-      document.querySelector('#dropdownMenuButton').innerHTML = find.name
       let html = ''
       for (const key in find) {
         const element = find[key]
