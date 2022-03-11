@@ -17,6 +17,7 @@ const cropInputWidth = document.querySelector('#crop-width')
 
 Array.from(mediaCrop).map((item) => {
   item.addEventListener('click', (e) => {
+    document.querySelector('.alert').style.display = 'none'
     if (e.currentTarget.id === 'freely') {
       cropInputHeight.disabled = false
       cropInputWidth.disabled = false
