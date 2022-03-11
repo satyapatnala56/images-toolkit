@@ -147,4 +147,5 @@
   </div>
 </div>
 <input class="d-none" onchange="fileOnChange()" type="file" id="file" accept=".webp,.png,.jpg,.jpeg,.gif" />
-<span id="get-detail" style="display: none;" data-height="{{page.height}}" data-width="{{page.width}}"></span>
+<span id="get-detail" style="display: none;" data-height="{{page.height | default: 0}}"
+  data-width="{{page.width | default: 0}}"></span>
