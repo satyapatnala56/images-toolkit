@@ -380,6 +380,11 @@ const handleDownload = () => {
   a.download = 'Safeimagekit.png'
   document.body.appendChild(a)
   a.click()
+  if (lang === 'en') {
+    window.location.href = `/download?tool=${pageTool}`
+  } else {
+    window.location.href = `/${lang}/download?tool=${pageTool}`
+  }
 }
 
 function ratio(val, lim) {

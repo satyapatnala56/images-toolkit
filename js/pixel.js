@@ -207,10 +207,8 @@ const handleFile = (file) => {
       if (e.target.result) {
         let image = new Image()
         image.onload = () => {
-          maxheight.value =
-            imgHeight !== undefined ? Number(imgHeight) : image.height
-          maxwidth.value =
-            imgWidth !== undefined ? Number(imgWidth) : image.width
+          maxheight.value = imgHeight === '' ? Number(imgHeight) : image.height
+          maxwidth.value = imgWidth === '' ? Number(imgWidth) : image.width
           image.setAttribute('id', 'pixel-img')
           px = new pixelit({ from: image })
           pixelitimg()
@@ -286,6 +284,11 @@ showDropDown.addEventListener('click', () => {
 })
 const handleDownload = () => {
   px.saveImage()
+  if (lang === 'en') {
+    window.location.href = `/download?tool=${pageTool}`
+  } else {
+    window.location.href = `/${lang}/download?tool=${pageTool}`
+  }
 }
 maxheight.addEventListener('change', pixelitimg)
 maxwidth.addEventListener('change', pixelitimg)
