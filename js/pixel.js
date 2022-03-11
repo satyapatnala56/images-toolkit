@@ -207,8 +207,8 @@ const handleFile = (file) => {
       if (e.target.result) {
         let image = new Image()
         image.onload = () => {
-          maxheight.value = imgHeight === '' ? Number(imgHeight) : image.height
-          maxwidth.value = imgWidth === '' ? Number(imgWidth) : image.width
+          maxheight.value = imgHeight !== '' ? Number(imgHeight) : image.height
+          maxwidth.value = imgWidth !== '' ? Number(imgWidth) : image.width
           image.setAttribute('id', 'pixel-img')
           px = new pixelit({ from: image })
           pixelitimg()
