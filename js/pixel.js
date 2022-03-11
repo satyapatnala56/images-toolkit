@@ -1,5 +1,5 @@
 const getScript = document.currentScript
-const getDetail = document.querySelector('get-detail')
+const getDetail = document.querySelector('#get-detail')
 const pageTool = getScript.dataset.tool
 const lang = getScript.dataset.lang
 const gdrive = document.querySelector('#filepicker')
