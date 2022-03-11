@@ -12,8 +12,8 @@ const maxwidth = document.querySelector('#maxwidth')
 const blocksize = document.querySelector('#blocksize')
 const palette = document.querySelector('#palette')
 const greyscale = document.querySelector('#greyscale')
-let imgHeight = getDetail.dataset.tool.height
-let imgWidth = getDetail.dataset.tool.width
+let imgHeight = getDetail.dataset.height
+let imgWidth = getDetail.dataset.width
 
 let px = null
 downloadButton.addEventListener('click', function (e) {
