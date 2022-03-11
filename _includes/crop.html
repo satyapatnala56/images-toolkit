@@ -1,105 +1,126 @@
-<div class="container2">
-  <div id="upper-loader"></div>
-
-  <span id="inputbox">
-    <div class="row" style="margin-top: 30px">
-      <svg xmlns="http://www.w3.org/2000/svg" id="upload_img" viewBox="0 0 96 60">
-        <path fill="white"
-          d="M61.9655252,3.24869071 L61.9765763,3.41278068 L62.045,5.866 L73.2405238,6.25793424 C74.5651997,6.30419294 75.6130942,7.37295092 75.6521743,8.67919891 L75.6517521,8.84366004 L73.9765763,56.8144197 C73.9303176,58.1390957 72.8615596,59.1869902 71.5553116,59.2260703 L71.3908505,59.2256481 L68.3103384,59.1184351 C68.0464245,59.8400339 67.3786666,60.3670921 66.5807111,60.425963 L66.4314488,60.4314488 L66.4314488,60.4314488 L30.4314488,60.4314488 C29.3268793,60.4314488 28.4314488,59.5360183 28.4314488,58.4314488 L28.431,55.114 L25.262454,55.2256481 C23.9377781,55.2719068 22.8178834,54.2788497 22.6877793,52.9785097 L22.6767282,52.8144197 L21.0015524,4.84366004 C20.9552937,3.51898409 21.9483508,2.39908942 23.2486907,2.2689853 L23.4127807,2.25793424 L59.3908505,1.00155235 C60.7155264,0.955293651 61.8354211,1.94835077 61.9655252,3.24869071 Z M54.2794488,39.4234488 L45.0024366,47.6809882 L40.7104488,42.4274488 L29.431,51.895 L29.4314488,58.4314488 C29.4314488,58.9442846 29.817489,59.3669559 30.3148276,59.424721 L30.4314488,59.4314488 L66.4314488,59.4314488 C66.9442846,59.4314488 67.3669559,59.0454086 67.424721,58.5480699 L67.4314488,58.4314488 L67.4304488,52.8324488 L54.2794488,39.4234488 Z M37.2275545,6.00094318 C36.4483334,5.97373218 35.7872098,6.54589593 35.688023,7.30354781 L35.676119,7.44768018 L35.676,8.431 L60.4314488,8.43144877 L68.4314488,16.4314488 L68.431,58.121 L71.4257499,58.2262572 C72.2049711,58.2534682 72.8660946,57.6813045 72.9652815,56.9236526 L72.9771854,56.7795202 L74.6523613,8.80876055 C74.6795723,8.0295394 74.1074085,7.36841587 73.3497567,7.26922904 L73.2056243,7.25732506 L37.2275545,6.00094318 Z M59.4257499,2.00094318 L23.4476802,3.25732506 C22.668459,3.28453606 22.0488581,3.9014237 22.002764,4.6641489 L22.0009432,4.80876055 L23.676119,52.7795202 C23.70333,53.5587414 24.3202177,54.1783423 25.0829429,54.2244364 L25.2275545,54.2262572 L28.431,54.114 L28.4314488,10.4314488 C28.4314488,9.32687927 29.3268793,8.43144877 30.4314488,8.43144877 L34.611,8.431 L34.6767282,7.41278068 C34.7229869,6.08810473 35.7917449,5.04021022 37.0979929,5.00113017 L37.262454,5.00155235 L61.045,5.831 L60.9771854,3.44768018 C60.9499744,2.66845903 60.3330868,2.04885809 59.5703616,2.00276399 L59.4257499,2.00094318 Z M59.431,9.431 L30.4314488,9.43144877 C29.9186129,9.43144877 29.4959416,9.81748896 29.4381765,10.3148276 L29.4314488,10.4314488 L29.431,50.591 L40.8439098,41.010846 L45.1168036,46.2404726 L54.3266522,38.0432874 L67.431,51.405 L67.431,17.431 L59.4314488,17.4314488 L59.431,9.431 Z M58.4314488,26.4314488 C60.088303,26.4314488 61.4314488,27.7745945 61.4314488,29.4314488 C61.4314488,31.088303 60.088303,32.4314488 58.4314488,32.4314488 C56.7745945,32.4314488 55.4314488,31.088303 55.4314488,29.4314488 C55.4314488,27.7745945 56.7745945,26.4314488 58.4314488,26.4314488 Z M60.431,9.846 L60.431,16.431 L67.016,16.431 L60.431,9.846 Z">
-        </path>
-      </svg>
-    </div>
-
-    <div class="m-auto">
-      <div class="d-flex justify-content-center align-items-center">
-        <div id="Inputbox" class="boxes">
-          <img height="21px" width="21px" src="/img/add-image.png" />
-          <span class="ml-1">CHOOSE FILE</span>
+<div class="container">
+  {%- assign boxColor = site.data[page.folderName][page.lang][page.fileName].color -%}
+  <div class="custom-box" style="background-color:{{boxColor}};">
+    <div class="inner-box">
+      <div style="display:none;" id="file-loader"><img src="/spinner.gif" alt="">
+        <p>Please Wait ,Loading Your file </p>
+      </div>
+      <div class="saving-file-download-wrap" style="display: none;">
+        <img loading="lazy" class="trust-img" src="/trust.svg" alt="trust">
+        <p class="text-white my-2">Thanks for your patience</p>
+        <button class="btn" id="download-zip">Download</button>
+      </div>
+      <div class="file-input">
+        <div class="mb-4 d-flex justify-content-center">
+          <svg xmlns="http://www.w3.org/2000/svg" id="img-svg" viewBox="0 0 96 60">
+            <path fill="white"
+              d="M61.9655252,3.24869071 L61.9765763,3.41278068 L62.045,5.866 L73.2405238,6.25793424 C74.5651997,6.30419294 75.6130942,7.37295092 75.6521743,8.67919891 L75.6517521,8.84366004 L73.9765763,56.8144197 C73.9303176,58.1390957 72.8615596,59.1869902 71.5553116,59.2260703 L71.3908505,59.2256481 L68.3103384,59.1184351 C68.0464245,59.8400339 67.3786666,60.3670921 66.5807111,60.425963 L66.4314488,60.4314488 L66.4314488,60.4314488 L30.4314488,60.4314488 C29.3268793,60.4314488 28.4314488,59.5360183 28.4314488,58.4314488 L28.431,55.114 L25.262454,55.2256481 C23.9377781,55.2719068 22.8178834,54.2788497 22.6877793,52.9785097 L22.6767282,52.8144197 L21.0015524,4.84366004 C20.9552937,3.51898409 21.9483508,2.39908942 23.2486907,2.2689853 L23.4127807,2.25793424 L59.3908505,1.00155235 C60.7155264,0.955293651 61.8354211,1.94835077 61.9655252,3.24869071 Z M54.2794488,39.4234488 L45.0024366,47.6809882 L40.7104488,42.4274488 L29.431,51.895 L29.4314488,58.4314488 C29.4314488,58.9442846 29.817489,59.3669559 30.3148276,59.424721 L30.4314488,59.4314488 L66.4314488,59.4314488 C66.9442846,59.4314488 67.3669559,59.0454086 67.424721,58.5480699 L67.4314488,58.4314488 L67.4304488,52.8324488 L54.2794488,39.4234488 Z M37.2275545,6.00094318 C36.4483334,5.97373218 35.7872098,6.54589593 35.688023,7.30354781 L35.676119,7.44768018 L35.676,8.431 L60.4314488,8.43144877 L68.4314488,16.4314488 L68.431,58.121 L71.4257499,58.2262572 C72.2049711,58.2534682 72.8660946,57.6813045 72.9652815,56.9236526 L72.9771854,56.7795202 L74.6523613,8.80876055 C74.6795723,8.0295394 74.1074085,7.36841587 73.3497567,7.26922904 L73.2056243,7.25732506 L37.2275545,6.00094318 Z M59.4257499,2.00094318 L23.4476802,3.25732506 C22.668459,3.28453606 22.0488581,3.9014237 22.002764,4.6641489 L22.0009432,4.80876055 L23.676119,52.7795202 C23.70333,53.5587414 24.3202177,54.1783423 25.0829429,54.2244364 L25.2275545,54.2262572 L28.431,54.114 L28.4314488,10.4314488 C28.4314488,9.32687927 29.3268793,8.43144877 30.4314488,8.43144877 L34.611,8.431 L34.6767282,7.41278068 C34.7229869,6.08810473 35.7917449,5.04021022 37.0979929,5.00113017 L37.262454,5.00155235 L61.045,5.831 L60.9771854,3.44768018 C60.9499744,2.66845903 60.3330868,2.04885809 59.5703616,2.00276399 L59.4257499,2.00094318 Z M59.431,9.431 L30.4314488,9.43144877 C29.9186129,9.43144877 29.4959416,9.81748896 29.4381765,10.3148276 L29.4314488,10.4314488 L29.431,50.591 L40.8439098,41.010846 L45.1168036,46.2404726 L54.3266522,38.0432874 L67.431,51.405 L67.431,17.431 L59.4314488,17.4314488 L59.431,9.431 Z M58.4314488,26.4314488 C60.088303,26.4314488 61.4314488,27.7745945 61.4314488,29.4314488 C61.4314488,31.088303 60.088303,32.4314488 58.4314488,32.4314488 C56.7745945,32.4314488 55.4314488,31.088303 55.4314488,29.4314488 C55.4314488,27.7745945 56.7745945,26.4314488 58.4314488,26.4314488 Z M60.431,9.846 L60.431,16.431 L67.016,16.431 L60.431,9.846 Z">
+            </path>
+          </svg>
         </div>
-        <div class="file-pick-dropdown">
-          <i class="fas fa-angle-down arrow-sign"></i>
-          <div class="file-picker-dropdown" style="display: none">
-            <button id="dropbox">
-              <svg viewBox="0 0 24 24" fill="#0061FF" xmlns="http://www.w3.org/2000/svg">
-                <path id="icon"
-                  d="M12.0146 6.57367L6.50732 10.1473L12.0146 13.721L6.50732 17.2947L1 13.6912L6.50732 10.1176L1 6.57367L6.50732 3L12.0146 6.57367ZM6.47803 18.4263L11.9854 14.8527L17.4927 18.4263L11.9854 22L6.47803 18.4263ZM12.0146 13.6912L17.522 10.1176L12.0146 6.57367L17.4927 3L23 6.57367L17.4927 10.1473L23 13.721L17.4927 17.2947L12.0146 13.6912Z">
-                </path>
-              </svg>
-              From Dropbox
-            </button>
-            <button id="filepicker">
-              <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <path id="Path" d="M8.33331 3H15.6666L23 15H15.6666L8.33331 3Z" fill="#FFC107"></path>
-                <path id="Path_2" d="M4.6012 21L8.30086 15H23L19.3333 21H4.6012Z" fill="#1976D2"></path>
-                <path id="Path_3" d="M1 15.0625L4.60119 21L12 9L8.33333 3L1 15.0625Z" fill="#4CAF50"></path>
-              </svg>
-              From Google Drive
-            </button>
+        <div class="d-flex justify-content-center align-items-center ">
+          <div id="Inputbox" class="boxes"> <img height="21px" width="21px" src="/img/add-image.png" /> <span
+              class='ml-1'>CHOOSE FILE</span> </div>
+          <div class="file-pick-dropdown">
+            <i class="fas fa-angle-down arrow-sign "></i>
+            <div class="file-picker-dropdown" style="display: none;">
+              <button id="dropbox"> <svg viewBox="0 0 24 24" fill="#0061FF" xmlns="http://www.w3.org/2000/svg">
+                  <path id="icon"
+                    d="M12.0146 6.57367L6.50732 10.1473L12.0146 13.721L6.50732 17.2947L1 13.6912L6.50732 10.1176L1 6.57367L6.50732 3L12.0146 6.57367ZM6.47803 18.4263L11.9854 14.8527L17.4927 18.4263L11.9854 22L6.47803 18.4263ZM12.0146 13.6912L17.522 10.1176L12.0146 6.57367L17.4927 3L23 6.57367L17.4927 10.1473L23 13.721L17.4927 17.2947L12.0146 13.6912Z">
+                  </path>
+                </svg> From Dropbox</button>
+              <button id='filepicker'> <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path id="Path" d="M8.33331 3H15.6666L23 15H15.6666L8.33331 3Z" fill="#FFC107">
+                  </path>
+                  <path id="Path_2" d="M4.6012 21L8.30086 15H23L19.3333 21H4.6012Z" fill="#1976D2">
+                  </path>
+                  <path id="Path_3" d="M1 15.0625L4.60119 21L12 9L8.33333 3L1 15.0625Z" fill="#4CAF50">
+                  </path>
+                </svg> From Google Drive</button>
+            </div>
           </div>
         </div>
+        <p id="dropfile">or drop your file here</p>
       </div>
-    </div>
-    <p id="dropfile">or drop your file here</p>
-    <p id="error" class="p-3"></p>
-  </span>
-  <div class="row" id="loaderDiv">
-    <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12">
-      <span id="loader"></span>
     </div>
   </div>
-  <span id="content">
-    <div id="heading_container">
-      <div class="heading_content">
-        <div class="cancel_btn">Reset</div>
-        <div class="function_btns_outer">
-          <div id="rotate_right" class="function_btns">
-            <img src="/img/r2.png" style="height: 33px; margin-top: -4px" alt="" />
-            <div>Rotate right</div>
+  <div class="split-img-box" style="display: none;">
+    <div class="row">
+      <div class="col-md-7 mx-auto">
+        <div class="select-img-panel">
+          <div id="saving-data" style="display: none;">
+            <img loading="lazy" src="/img/save.gif" alt="saving"> <span class="ml-2">Saving your
+              images...</span>
           </div>
-
-          
-
-          <div id="rotate_left" class="function_btns">
-            <img src="/img/r.png" style="height: 33px; margin-top: -4px" alt="" />
-            <div>Rotate left</div>
+          <div id="crop-box-panel">
           </div>
         </div>
-        <div id="crop_btn" class="function_btns save_btn">
-          <!-- <img src="/img/Expand.png" id="crop_icon" style="height: 33px; margin-top: -4px" alt="" /> -->
-          <div>Crop</div>
+      </div>
+      <div class="col-md-5">
+        <div class="options-panel">
+          <div class="title">
+            Crop Image
+          </div>
+          <div class="crop-options">
+            <div class="options-title my-2">Crop for:</div>
+            <div class="drop-down-cont">
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                  data-toggle="dropdown" aria-expanded="false">
+                  Freely
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <div class="dropdown-item media-crop" id="freely"> <i class="fab fa-facebook"></i>
+                    Freely
+                  </div>
+                  <div class="dropdown-item media-crop" id="facebook"> <i class="fab fa-facebook"></i>
+                    Facebook
+                  </div>
+                  <div class="dropdown-item media-crop" id="instagram"> <i class="fab fa-instagram"></i>Instagram
+                  </div>
+                  <div class="dropdown-item media-crop" id="linkedin"> <i class="fab fa-linkedin"></i>Linkedin</div>
+                  <div class="dropdown-item media-crop" id="twitter"> <i class="fab fa-twitter"></i>Twitter</div>
+                  <div class="dropdown-item media-crop" id="tumblr"> <i class="fab fa-tumblr"></i>Tumblr</div>
+                  <div class="dropdown-item media-crop" id="youtube"> <i class="fab fa-youtube"></i>Youtube</div>
+                  <div class="dropdown-item media-crop" id="snapchat"> <i class="fab fa-snapchat"></i>Snapchat</div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="options-title mt-2">
+            Cropping Area:
+          </div>
+          <div class="row">
+
+            <div class="col-lg-6">
+              <div class="crop-input-title">Width</div>
+              <div class="crop-input">
+                <input type="number" id="crop-width">
+                <span>px</span>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="crop-input-title">Height</div>
+              <div class="crop-input">
+                <input type="number" id="crop-height">
+                <span>px</span>
+              </div>
+            </div>
+          </div>
+          <div class="row my-3" id="media-dimensions">
+
+          </div>
+          <div class="download-wrapper">
+            <button id="download-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path
+                  d="M396.8 51.2C425.1 22.92 470.9 22.92 499.2 51.2C506.3 58.27 506.3 69.73 499.2 76.8L216.5 359.5C221.3 372.1 224 385.7 224 400C224 461.9 173.9 512 112 512C50.14 512 0 461.9 0 400C0 338.1 50.14 287.1 112 287.1C126.3 287.1 139.9 290.7 152.5 295.5L191.1 255.1L152.5 216.5C139.9 221.3 126.3 224 112 224C50.14 224 0 173.9 0 112C0 50.14 50.14 0 112 0C173.9 0 224 50.14 224 112C224 126.3 221.3 139.9 216.5 152.5L255.1 191.1L396.8 51.2zM160 111.1C160 85.49 138.5 63.1 112 63.1C85.49 63.1 64 85.49 64 111.1C64 138.5 85.49 159.1 112 159.1C138.5 159.1 160 138.5 160 111.1zM112 448C138.5 448 160 426.5 160 400C160 373.5 138.5 352 112 352C85.49 352 64 373.5 64 400C64 426.5 85.49 448 112 448zM278.6 342.6L342.6 278.6L499.2 435.2C506.3 442.3 506.3 453.7 499.2 460.8C470.9 489.1 425.1 489.1 396.8 460.8L278.6 342.6z" />
+              </svg>Crop Image</button>
+          </div>
         </div>
-        <!-- <div class="save_btn">Save</div> -->
+
       </div>
     </div>
-    <div id="output_div">
-      <img src="" alt="" id="input_img" />
-    </div>
-    <!-- <div id="bottom_div" style="margin: auto; margin-top: 30px">
-      <label class="crop_label">0</label>
-      <label class="crop_label">100</label>
-      <label class="crop_label">200</label>
-      <label class="crop_label">300</label>
-      <label class="crop_label">400</label>
-      <label class="crop_label">500</label>
-      <label class="crop_label">600</label>
-      <label class="crop_label">700</label>
-      <label class="crop_label">800</label>
-      <label class="crop_label">900</label>
-      <label class="crop_label">1000</label>
-      <label class="crop_label">1100</label>
-      <label class="crop_label">1200</label>
-      <label class="crop_label">1300</label>
-      <label class="crop_label">1400</label>
-      <label class="crop_label">1500</label>
-      <label class="crop_label">1600</label>
-      <label class="crop_label">1700</label>
-      <label class="crop_label">1800</label>
-      <label class="crop_label">1900</label>
-      <label class="crop_label">2000</label>
-    </div> -->
-    <br />
-  </span>
-  <span class="thankyouBox"> </span>
+  </div>
 </div>
-
-<input onchange=" fileOnChange()" type="file" id="file" accept=".jpg,.jpeg,.png,.webp" class="file" />
+<input class="d-none" onchange="fileOnChange()" type="file" id="file" accept=".webp,.png,.jpg,.jpeg,.gif" />

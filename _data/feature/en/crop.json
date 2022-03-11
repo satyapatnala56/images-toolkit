@@ -143,13 +143,13 @@
     }
   ],
   "csscdns": [
-    "<link rel=\"stylesheet\" href=\"/css/croppr.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/cropper.min.css\" />",
     "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
     "<link rel=\"stylesheet\" href=\"/css/crop.css\" />"
   ],
   "jscdns": [
     "<script src=\"/assets/js/googledrive.js\"></script>",
-    "<script src=\"/js/croppr.js\"></script>",
+    "<script src=\"/js/cropper.min.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/crop.js\"></script>"
   ]
 }
