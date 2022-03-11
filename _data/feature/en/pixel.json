@@ -138,11 +138,14 @@
     }
   ],
   "jscdns": [
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
   ],
   "csscdns": [
     "<script src=\"/assets/js/googledrive.js\"></script>",
     "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
     "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
   ]
 }
