@@ -22,6 +22,7 @@ Array.from(mediaCrop).map((item) => {
     if (e.currentTarget.id === 'freely') {
       cropInputHeight.disabled = false
       cropInputWidth.disabled = false
+      setId = 'freely'
       cropper.setAspectRatio(NaN)
       mediaDimensions.innerHTML = ''
     } else {
