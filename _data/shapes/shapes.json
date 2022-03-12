@@ -1,0 +1,69 @@
+{
+    "shapes": [
+        {
+            "name": "Basic",
+            "data": [
+                {
+                    "name": "1",
+                    "value": "/img/shapes/1.jpg"
+                },
+                {
+                    "name": "2",
+                    "value": "/img/shapes/2.jpg"
+                },
+                {
+                    "name": "3",
+                    "value": "/img/shapes/3.jpg"
+                },
+                {
+                    "name": "4",
+                    "value": "/img/shapes/4.jpg"
+                },
+                {
+                    "name": "5",
+                    "value": "/img/shapes/5.jpg"
+                },
+                {
+                    "name": "6",
+                    "value": "/img/shapes/6.jpg"
+                },
+                {
+                    "name": "7",
+                    "value": "/img/shapes/7.jpg"
+                },
+                {
+                    "name": "8",
+                    "value": "/img/shapes/8.jpg"
+                },
+                {
+                    "name": "9",
+                    "value": "/img/shapes/9.jpg"
+                },
+                {
+                    "name": "10",
+                    "value": "/img/shapes/10.jpg"
+                },
+                {
+                    "name": "11",
+                    "value": "/img/shapes/11.jpg"
+                },
+                {
+                    "name": "12",
+                    "value": "/img/shapes/12.jpg"
+                },
+                {
+                    "name": "13",
+                    "value": "/img/shapes/13.jpg"
+                },
+                {
+                    "name": "14",
+                    "value": "/img/shapes/14.jpg"
+                },
+                {
+                    "name": "15",
+                    "value": "/img/shapes/15.jpg"
+                }
+            ]
+        }
+    ]
+}

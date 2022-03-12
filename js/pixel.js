@@ -1,192 +1,303 @@
-const getScript = document.currentScript;
-const pageTool = getScript.dataset.tool;
-const lang = getScript.dataset.lang;
-var container = document.querySelector(".container2");
-var inputbox = document.querySelector("#inputbox");
-var content = document.querySelector("#content");
-var file = document.querySelector("#file");
-var boxContainer = document.querySelector(".container2");
-const gdrive = document.querySelector("#filepicker");
+const getScript = document.currentScript
+const getDetail = document.querySelector('#get-detail')
+const pageTool = getScript.dataset.tool
+const lang = getScript.dataset.lang
+const gdrive = document.querySelector('#filepicker')
+const inputBox = document.querySelector('#Inputbox')
+const fileDropBox = document.querySelector('.custom-box')
+const cropBoxPanel = document.getElementById('crop-box-panel')
+const downloadButton = document.querySelector('#download-button')
+const maxheight = document.querySelector('#maxheight')
+const maxwidth = document.querySelector('#maxwidth')
+const blocksize = document.querySelector('#blocksize')
+const palette = document.querySelector('#palette')
+const greyscale = document.querySelector('#greyscale')
+let imgHeight = getDetail.dataset.height
+let imgWidth = getDetail.dataset.width
 
-var loader_span = document.querySelector(".loader_span");
-var saving_process = (url) => {
-  document.querySelector("#save").onclick = function () {
-    document.querySelector(".box").style.background = "#cc66ff";
+let px = null
+downloadButton.addEventListener('click', function (e) {
+  px.saveImage()
+})
+let currentPalette = 0
 
-    window.location.href = "#";
-    document.querySelector(".content_span").style.display = "none";
-    document.querySelector(".thankyou_span").innerHTML =
-      '<div class="box-padding"> <div class="d-flex" id="__cond-922051"> <div class="flex-container"> <div class="flex-class"> <div class="d-flex flex-column"> <div class="box" style="background: #ff5975"> <div class="box-border"></div> <div class="content-box"> <div class="container2"> <span class="thankyouBox"> <div class="row"> <div class="col col-md-12 col-sm-12 col-lg-12 col-xl-12"> <img src="/trust.svg" alt="" id="thankyouImage" /> <p id="thankyouText">Thanks for your patience</p> <a class="btn" id="downloadButton">DOWNLOAD</a> </div> </div></span > </div> </div> </div> </div> </div> </div> </div> </div> ';
-    document.querySelector(".container2").style.height = "300px";
-    document.querySelector("#downloadButton").onclick = function () {
-      var a = document.createElement("a");
-      a.href = url;
-      a.download = "Safeimagekit-" + input.name.match(/^.*\./) + "png";
-      document.body.appendChild(a);
-      a.click();
-      if (lang === "en") {
-        window.location.href = `/download?tool=${pageTool}`;
-      } else {
-        window.location.href = `/${lang}/download?tool=${pageTool}`;
-      }
-    };
-  };
-};
+const paletteList = [
+  [
+    [7, 5, 5],
+    [33, 25, 25],
+    [82, 58, 42],
+    [138, 107, 62],
+    [193, 156, 77],
+    [234, 219, 116],
+    [160, 179, 53],
+    [83, 124, 68],
+    [66, 60, 86],
+    [89, 111, 175],
+    [107, 185, 182],
+    [251, 250, 249],
+    [184, 170, 176],
+    [121, 112, 126],
+    [148, 91, 40],
+  ],
+  [
+    [13, 43, 69],
+    [32, 60, 86],
+    [84, 78, 104],
+    [141, 105, 122],
+    [208, 129, 89],
+    [255, 170, 94],
+    [255, 212, 163],
+    [255, 236, 214],
+  ],
+  [
+    [43, 15, 84],
+    [171, 31, 101],
+    [255, 79, 105],
+    [255, 247, 248],
+    [255, 129, 66],
+    [255, 218, 69],
+    [51, 104, 220],
+    [73, 231, 236],
+  ],
+  [
+    [48, 0, 48],
+    [96, 40, 120],
+    [248, 144, 32],
+    [248, 240, 136],
+  ],
+  [
+    [239, 26, 26],
+    [172, 23, 23],
+    [243, 216, 216],
+    [177, 139, 139],
+    [53, 52, 65],
+    [27, 26, 29],
+  ],
+  [
+    [26, 28, 44],
+    [93, 39, 93],
+    [177, 62, 83],
+    [239, 125, 87],
+    [255, 205, 117],
+    [167, 240, 112],
+    [56, 183, 100],
+    [37, 113, 121],
+    [41, 54, 111],
+    [59, 93, 201],
+    [65, 166, 246],
+    [115, 239, 247],
+    [244, 244, 244],
+    [148, 176, 194],
+    [86, 108, 134],
+    [51, 60, 87],
+  ],
+  [
+    [44, 33, 55],
+    [118, 68, 98],
+    [237, 180, 161],
+    [169, 104, 104],
+  ],
 
-var resizing_img = (image_two_url, image_one_url) => {
-  var img1 = document.querySelector(".image_one");
-  var img2 = document.querySelector(".image_two");
-  var bar = document.querySelector(".bar");
-  var width = img1.offsetWidth;
-  var height = img1.offsetHeight;
-  var slider_range = document.querySelector(".slider_range");
-  var slider_circle = document.querySelector(".slider_circle");
-  img2.style.background = "url('" + image_one_url + "') no-repeat";
-  img1.style.background = "url('" + image_two_url + "') no-repeat";
-  img1.style.backgroundSize = width + "px " + height + "px";
-  img2.style.backgroundSize = width + "px " + height + "px";
-  slider_range.oninput = () => {
-    img2.style.width = slider_range.value + "%";
-    bar.style.marginLeft = slider_range.value + "%";
-    slider_circle.style.marginLeft = slider_range.value + "%";
-  };
-};
-var pixel_processing = () => {
-  document.querySelector(".loader_span").style.display = "none";
-  document.querySelector(".content_span").innerHTML =
-    '<div class="content_div"> <div class="image_name"> <div class="original_image">Original Image</div> <div class="pixelized_image">Pixelized Image</div> </div> <div class="slider_container_outer"><div class="slider_container"> <div class="image_one"> <div class="image_two"> <div class="bar"><div class="slider_circle"></div></div> <input type="range" min="0" max="100" class="slider_range" /> </div></div></div></div> <div class="saving_div"> <a class="btn" id="save" >SAVE CHANGES <img src="/img/rightarrow.png" alt="" /></a> </div> </div> ';
+  [
+    [171, 97, 135],
+    [235, 198, 134],
+    [216, 232, 230],
+    [101, 219, 115],
+    [112, 157, 207],
+    [90, 104, 125],
+    [33, 30, 51],
+  ],
+  [
+    [140, 143, 174],
+    [88, 69, 99],
+    [62, 33, 55],
+    [154, 99, 72],
+    [215, 155, 125],
+    [245, 237, 186],
+    [192, 199, 65],
+    [100, 125, 52],
+    [228, 148, 58],
+    [157, 48, 59],
+    [210, 100, 113],
+    [112, 55, 127],
+    [126, 196, 193],
+    [52, 133, 157],
+    [23, 67, 75],
+    [31, 14, 28],
+  ],
+  [
+    [94, 96, 110],
+    [34, 52, 209],
+    [12, 126, 69],
+    [68, 170, 204],
+    [138, 54, 34],
+    [235, 138, 96],
+    [0, 0, 0],
+    [92, 46, 120],
+    [226, 61, 105],
+    [170, 92, 61],
+    [255, 217, 63],
+    [181, 181, 181],
+    [255, 255, 255],
+  ],
+  [
+    [49, 31, 95],
+    [22, 135, 167],
+    [31, 213, 188],
+    [237, 255, 177],
+  ],
+  [
+    [21, 25, 26],
+    [138, 76, 88],
+    [217, 98, 117],
+    [230, 184, 193],
+    [69, 107, 115],
+    [75, 151, 166],
+    [165, 189, 194],
+    [255, 245, 247],
+  ],
+]
 
-  $("#file").remove();
-  ////loader end
-  var reader = new FileReader();
-  reader.onload = function () {
-    var img = new Image();
-    img.crossOrigin = "anonymous";
-    img.onload = function () {
-      var canvas = document.createElement("canvas"),
-        ctx = canvas.getContext("2d");
-      var w,
-        h,
-        sample_size = 7;
-      w = img.width;
-      h = img.height;
-      canvas.height = img.height;
-      canvas.width = img.width;
-      ctx.drawImage(img, 0, 0);
-
-      var pt = ctx.getImageData(0, 0, w, h).data;
-      for (let y = 0; y < h; y += sample_size) {
-        for (let x = 0; x < w; x += sample_size) {
-          let p = (x + y * w) * 4;
-          ctx.fillStyle =
-            "rgba(" +
-            pt[p] +
-            "," +
-            pt[p + 1] +
-            "," +
-            pt[p + 2] +
-            "," +
-            pt[p + 3] +
-            ")";
-          ctx.fillRect(x, y, sample_size, sample_size);
-        }
-      }
-
-      var url = canvas.toDataURL();
-      resizing_img(img.src, url);
-      saving_process(url);
-    };
-    img.src = reader.result;
-  };
-  reader.readAsDataURL(input);
-};
-var show_loader = () => {
-  document.querySelector(".box-padding").style.display = "none";
-  loader_span.innerHTML =
-    '<div class="loading_div"><img src="../../tenor.gif" alt="" /></div>';
-  setTimeout(pixel_processing, 3000);
-};
-
-const getFile = (file) => {
-  onFileDrop(file);
-};
 const showLoader = () => {
-  document.querySelector(".box-padding").style.display = "none";
-  loader_span.innerHTML =
-    '<div class="loading_div"><img src="../../tenor.gif" alt="" /></div>';
-  setTimeout(pixel_processing, 3000);
-};
-const closeLoader = () => {};
-const mimeTypes = "image/png,image/jpg,image/jpeg,image/webp";
-const filemimes = [".png", ".webp", ".jpg", ".jpeg"];
+  showLoading()
+}
+const closeLoader = () => {}
+const mimeTypes = 'image/png,image/jpg,image/jpeg,image/webp'
+const filemimes = ['.png', '.webp', '.jpg', '.jpeg']
 gdrive.addEventListener(
-  "click",
+  'click',
   (getFile, mimeTypes, showLoader, closeLoader) => {
-    const data = loadPicker();
+    const data = loadPicker()
   }
-);
+)
 const getDropBoxFile = (file) => {
-  onFileDrop(file);
-};
-const dropbox = document.getElementById("dropbox");
-dropbox.addEventListener(
-  "click",
-  async (getDropBoxFile, showLoader, closeLoader) => {
-    const getFile = chooseFromDropbox();
-  }
-);
-boxContainer.ondrop = (e) => {
-  e.preventDefault();
-  onFileDrop(e.dataTransfer.files[0]);
-};
-var input;
-container.ondragover = function (e) {
-  e.preventDefault();
-};
-const onFileDrop = (file) => {
-  input = file;
-  var extension = input.name.replace(/^.*\./, "");
-  if (
-    extension == "webp" ||
-    extension == "jpg" ||
-    extension == "jpeg" ||
-    extension == "png" ||
-    extension == "svg"
-  ) {
-    document.querySelector(".container2").style.height = "300px";
-
-    inputbox.style.display = "none";
-    show_loader();
-  } else {
-    console.log("error");
-    document.querySelector("#error").style.visibility = "visible";
-
-    document.querySelector(".container2").style.height = "350px";
-    document.querySelector("#error").innerHTML = "File format not supported";
-  }
-};
+  handleFile(file)
+}
+const getFile = (file) => {
+  handleFile(file)
+}
 const fileOnChange = () => {
-  input = file.files[0];
-  show_loader();
-};
-
-////drag and drop ended
-
-document.querySelector("#Inputbox").onclick = function () {
-  document.querySelector("#file").click();
-};
-const showDropDown = document.querySelector(".file-pick-dropdown");
-const icon = document.querySelector(".arrow-sign");
-const dropDown = document.querySelector(".file-picker-dropdown");
-showDropDown.addEventListener("click", () => {
-  addScripts();
-  if (dropDown.style.display !== "none") {
-    dropDown.style.display = "none";
-    icon.classList.remove("fa-angle-up");
-    icon.classList.add("fa-angle-down");
-  } else {
-    dropDown.style.display = "block";
-    icon.classList.remove("fa-angle-down");
-    icon.classList.add("fa-angle-up");
+  handleFile(file.files[0])
+}
+const dropbox = document.getElementById('dropbox')
+dropbox.addEventListener(
+  'click',
+  async (getDropBoxFile, showLoader, closeLoader) => {
+    const getFile = chooseFromDropbox()
   }
-});
+)
+inputBox.onclick = function () {
+  document.querySelector('#file').click()
+}
+fileDropBox.addEventListener('dragover', (e) => {
+  e.preventDefault()
+})
+fileDropBox.addEventListener('drop', (e) => {
+  e.preventDefault()
+  handleFile(e.dataTransfer.files[0])
+})
+let inputFile = ''
+const handleFile = (file) => {
+  document.querySelector('#file-loader').style.display = 'flex'
+  document.querySelector('.file-input').style.display = 'none'
+  inputFile = file
+  if (file) {
+    const reader = new FileReader()
+    reader.onload = (e) => {
+      if (e.target.result) {
+        let image = new Image()
+        image.onload = () => {
+          maxheight.value = imgHeight !== '0' ? Number(imgHeight) : image.height
+          maxwidth.value = imgWidth !== '0' ? Number(imgWidth) : image.width
+          image.setAttribute('id', 'pixel-img')
+          px = new pixelit({ from: image })
+          pixelitimg()
+        }
+        image.src = e.target.result
+      }
+    }
+    reader.readAsDataURL(file)
+  }
+  stopLoading()
+  document.querySelector('.split-img-box').style.display = 'block'
+}
+const showLoading = () => {
+  document.querySelector('#file-loader').style.display = 'flex'
+  document.querySelector('.file-input').style.display = 'none'
+}
+const stopLoading = () => {
+  fileDropBox.style.display = 'none'
+}
+const pixelitimg = () => {
+  px.setScale(blocksize.value)
+    .setPalette(paletteList[currentPalette])
+    .draw()
+    .pixelate()
+
+  greyscale.checked ? px.convertGrayscale() : null
+  palette.checked ? px.convertPalette() : null
+  maxheight.value ? px.setMaxHeight(maxheight.value).resizeImage() : null
+  maxwidth.value ? px.setMaxWidth(maxwidth.value).resizeImage() : null
+}
+const makePaletteGradient = () => {
+  let pdivs = ''
+  document.querySelector('#palettecolor').innerHTML = ''
+  paletteList.forEach((palette, i) => {
+    const option = document.createElement('option')
+    option.value = i
+    palette.forEach((elem) => {
+      let div = document.createElement('div')
+      div.classList = 'colorblock'
+      div.style.backgroundColor = `rgba(${elem[0]},${elem[1]},${elem[2]},1)`
+      option.appendChild(div)
+    })
+    document.getElementById('paletteselector').appendChild(option)
+  })
+}
+
+makePaletteGradient()
+new SlimSelect({
+  hideSelectedOption: true,
+  showSearch: false,
+  select: '#paletteselector',
+  onChange: (info) => {
+    currentPalette = info.value
+    palette.checked = true
+    pixelitimg()
+  },
+})
+
+const showDropDown = document.querySelector('.file-pick-dropdown')
+const icon = document.querySelector('.arrow-sign')
+const dropDown = document.querySelector('.file-picker-dropdown')
+showDropDown.addEventListener('click', () => {
+  addScripts()
+  if (dropDown.style.display !== 'none') {
+    dropDown.style.display = 'none'
+    icon.classList.remove('fa-angle-up')
+    icon.classList.add('fa-angle-down')
+  } else {
+    dropDown.style.display = 'block'
+    icon.classList.remove('fa-angle-down')
+    icon.classList.add('fa-angle-up')
+  }
+})
+const handleDownload = () => {
+  px.saveImage()
+  if (lang === 'en') {
+    window.location.href = `/download?tool=${pageTool}`
+  } else {
+    window.location.href = `/${lang}/download?tool=${pageTool}`
+  }
+}
+maxheight.addEventListener('change', pixelitimg)
+maxwidth.addEventListener('change', pixelitimg)
+
+blocksize.addEventListener('change', function (e) {
+  document.querySelector('#blockvalue').innerText = this.value
+  pixelitimg()
+})
+
+greyscale.addEventListener('change', pixelitimg)
+//palette
+palette.addEventListener('change', pixelitimg)
