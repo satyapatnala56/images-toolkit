@@ -213,6 +213,11 @@ const handleDownload = () => {
       a.href = canvas.toDataURL()
       a.download = 'Safeimagekit.png'
       a.click()
+      if (lang === 'en') {
+        window.location.href = `/download?tool=${pageTool}`
+      } else {
+        window.location.href = `/${lang}/download?tool=${tool}`
+      }
     }
     img2.src = imgCanvas.toDataURL()
   }
