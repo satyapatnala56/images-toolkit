@@ -378,7 +378,7 @@ const handleDownload = () => {
     .toDataURL()
   let a = document.createElement('a')
   a.href = cropperImg
-  a.download = 'Safeimagekit.png'
+  a.download = `Safeimagekit-cropped-img.${fileType}`
   document.body.appendChild(a)
   a.click()
   if (lang === 'en') {
