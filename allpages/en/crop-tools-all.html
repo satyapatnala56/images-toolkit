@@ -11,15 +11,16 @@ permalink: /all-crop-tools
         text-decoration: underline;
     }
 </style>
-
-<div class="row m-0 mb-5">
-    <ul class="sup-ul row col-md-12">
-        {% for object in data.data %}
-        <li class="col-md-3 conver-list">
-            <a href="{{object.url}}" style="color:#0d6efd!important;">
-                {{ object.name }}
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
+<div class="container mt-5">
+    <div class="row m-0">
+        <ul class="sup-ul row col-md-12">
+            {% for object in data.data %}
+            <li class="col-md-3 conver-list">
+                <a href="{{object.url}}" style="color:#0d6efd!important;">
+                    {{ object.name }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>

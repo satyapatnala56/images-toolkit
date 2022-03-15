@@ -1,66 +1,64 @@
 {
     "data": [
-        [
-            {
-                "name": "image cropper",
-                "url": "/crop-image"
-            },
-            {
-                "name": "crop image to circle",
-                "url": "/circle-cropper"
-            },
-            {
-                "name": "crop image to specific size",
-                "url": "/crop-image-to-specific-size"
-            },
-            {
-                "name": "square image cropper",
-                "url": "/square-image-cropper"
-            },
-            {
-                "name": "crop an image on mac",
-                "url": "/crop-an-image-on-mac"
-            },
-            {
-                "name": "profile picture cropper",
-                "url": "/profile-picture-crop"
-            },
-            {
-                "name": "crop picture into shape",
-                "url": "/crop-picture-into-shape"
-            },
-            {
-                "name": "image crop by pixels",
-                "url": "/image-crop-by-pixels"
-            },
-            {
-                "name": "png cropper",
-                "url": "/png-cropper"
-            },
-            {
-                "name": "crop meme",
-                "url": "/crop-meme"
-            },
-            {
-                "name": "jpg cropper",
-                "url": "/jpg-cropper"
-            },
-            {
-                "name": "crop image to 100x100",
-                "url": "/crop-image-to-100x100"
-            },
-            {
-                "name": "crop image to 200x200",
-                "url": "/crop-image-to-200x200"
-            },
-            {
-                "name": "crop image to 250x250",
-                "url": "/crop-image-to-250x250"
-            },
-            {
-                "name": "crop image to 256x256",
-                "url": "/crop-image-to-256x256"
-            }
-        ]
+        {
+            "name": "image cropper",
+            "url": "/crop-image"
+        },
+        {
+            "name": "crop image to circle",
+            "url": "/circle-cropper"
+        },
+        {
+            "name": "crop image to specific size",
+            "url": "/crop-image-to-specific-size"
+        },
+        {
+            "name": "square image cropper",
+            "url": "/square-image-cropper"
+        },
+        {
+            "name": "crop an image on mac",
+            "url": "/crop-an-image-on-mac"
+        },
+        {
+            "name": "profile picture cropper",
+            "url": "/profile-picture-crop"
+        },
+        {
+            "name": "crop picture into shape",
+            "url": "/crop-picture-into-shape"
+        },
+        {
+            "name": "image crop by pixels",
+            "url": "/image-crop-by-pixels"
+        },
+        {
+            "name": "png cropper",
+            "url": "/png-cropper"
+        },
+        {
+            "name": "crop meme",
+            "url": "/crop-meme"
+        },
+        {
+            "name": "jpg cropper",
+            "url": "/jpg-cropper"
+        },
+        {
+            "name": "crop image to 100x100",
+            "url": "/crop-image-to-100x100"
+        },
+        {
+            "name": "crop image to 200x200",
+            "url": "/crop-image-to-200x200"
+        },
+        {
+            "name": "crop image to 250x250",
+            "url": "/crop-image-to-250x250"
+        },
+        {
+            "name": "crop image to 256x256",
+            "url": "/crop-image-to-256x256"
+        }
     ]
 }
