@@ -14,7 +14,7 @@ let croppedImageWidth = ''
 let croppedImageHeight = ''
 const cropInputHeight = document.querySelector('#crop-height')
 const cropInputWidth = document.querySelector('#crop-width')
-
+let fileType = ''
 Array.from(mediaCrop).map((item) => {
   item.addEventListener('click', (e) => {
     document.querySelector('.alert').style.display = 'none'
@@ -308,6 +308,7 @@ fileDropBox.addEventListener('drop', (e) => {
 })
 let inputFile = ''
 const handleFile = (file) => {
+  fileType = file.type.split('/')[1]
   document.querySelector('#file-loader').style.display = 'flex'
   document.querySelector('.file-input').style.display = 'none'
   inputFile = file
