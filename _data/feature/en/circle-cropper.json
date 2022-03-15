@@ -1,0 +1,71 @@
+{
+                "Language": "English",
+                "htmlLangAtt": "en",
+                "H1": "Best circle image cropper online",
+                "img": "/img/crop.png",
+                "keywords":"circle cropper,crop image to circle,crop picture into circle online,crop picture online circle,crop image online circle,crop image circle online,crop image in circle online,how to crop image in circle shape online,circle image cropper,circle cropper,circle crop online,crop circle image online,crop circle images online,crop a circle online,how to crop photo into circle",
+                "imgwidth": "40px",
+                "imgheight": "40px",
+                "imgalt": "crop-image",
+                "nofileupload": true,
+                "variant": "primary",
+                "H2": "Use a free tool image circle cropper that will help you crop circle images online.",
+                "LABEL": "crop image to circle",
+                "TITLE": "Circle cropper- Best tool to crop image with just one click",
+                "META": "You can easily crop your images, pictures, and photos using our best online tool for free image circle cropper.",              
+                "BREADCRUMB_LABEL": "",
+                "color": "#ff704d",
+                "TEXTUAL_CONTENT": [
+                  {
+                    "priority": 1,
+                    "logoUrl": "/img/featureproperty/highquality.png",
+                    "header":"",
+                    "content":""
+                  },
+                  {
+                    "priority": 1,
+                    "logoUrl": "/img/featureproperty/security.png",
+                    "header":"",
+                    "content":""
+                  },
+                  {
+                    "priority": 1,
+                    "logoUrl": "/img/featureproperty/flexible.png",
+                    "header":"",
+                    "content":""
+                  },
+                  {
+                    "priority": 1,
+                    "logoUrl": "/img/featureproperty/userfriendly.png",
+                    "header":"",
+                    "content":""
+                  },
+                  {
+                    "priority": 1,
+                    "logoUrl": "/img/featureproperty/free.png",
+                    "header":"",
+                    "content":""
+                  },
+                  {
+                    "priority": 1,
+                    "logoUrl": "/img/featureproperty/nodownload.png",
+                    "header":"",
+                    "content":""
+                  }
+                ],
+                "HOW_TO_CONTENT": {
+                  "logoImageUrl": "/idea.svg",
+                  "heading": "",
+                  "steps": [
+                  ]
+                },
+                "FAQ": [
+                  {
+                    "question": "",
+                    "answer": ""
+                  }
+                ],
+                "cssfilepaths": ["/css/cropper.min.css","/css/utils.css","/css/circle-crop.css"
+                ],
+                "jsfilepaths": ["/assets/js/googledrive.js","/js/cropper.min.js","/js/circle-crop.js"]
+        }
