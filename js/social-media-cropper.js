@@ -11,70 +11,12 @@ let mediaDimensions = document.querySelector('#media-dimensions')
 let cropper = ''
 let setId = 'freely'
 let croppedImageWidth = ''
+let fileType = ''
 let croppedImageHeight = ''
 const cropInputHeight = document.querySelector('#crop-height')
 const cropInputWidth = document.querySelector('#crop-width')
-let fileType = ''
-Array.from(mediaCrop).map((item) => {
-  item.addEventListener('click', (e) => {
-    document.querySelector('.alert').style.display = 'none'
-    document.querySelector('#dropdownMenuButton').innerHTML = e.currentTarget.id
-    if (e.currentTarget.id === 'freely') {
-      cropInputHeight.disabled = false
-      cropInputWidth.disabled = false
-      setId = 'freely'
-      cropper.setAspectRatio(NaN)
-      mediaDimensions.innerHTML = ''
-    } else {
-      cropInputHeight.disabled = true
-      cropInputWidth.disabled = true
-      let find = data.find((i) => i.name.toLowerCase() === e.currentTarget.id)
-      setId = e.currentTarget.id
-      let html = ''
-      for (const key in find) {
-        const element = find[key]
-        mediaDimensions.innerHTML = ''
-        if (key !== 'name') {
-          let a_ratio = ratio(Number(element[0]) / Number(element[1]), 50)
-          let aspectRadio = Number(element[0]) / Number(element[1])
-          let height = 84 / aspectRadio
-          let width = 84 * aspectRadio
+let socialplatform = document.querySelector('#file').dataset.platform
 
-          let data = ` <div class="col-sm-4 mx-auto mb-3"> <button class='media-choose' data-width='${
-            element[0]
-          }' data-height='${element[1]}' > <div style="height:${
-            height > 84 ? 84 : height
-          }px;width:${width > 84 ? 84 : width}px;" class='show-aspect'>${
-            a_ratio[0] + ' : ' + a_ratio[1]
-          }</div> </button>  <div class="type">${key}</div> <div class='value'>${
-            element[0]
-          }x ${element[1]}</div> 
-        </div>
-        `
-          html += data
-          mediaDimensions.innerHTML = ` <div class="col-12"> <div class='options-title mb-2'> ${find.name}:</div> </div> <div class="list-crop-options row"> ${html} </div>`
-        }
-      }
-      Array.from(document.querySelectorAll('.media-choose')).map((i) => {
-        i.addEventListener('click', (e) => {
-          croppedImageWidth = e.currentTarget.dataset.width
-          croppedImageHeight = e.currentTarget.dataset.height
-          cropInputHeight.value = Number(e.currentTarget.dataset.height)
-          cropInputWidth.value = Number(e.currentTarget.dataset.width)
-          Array.from(document.querySelectorAll('.media-choose')).map((i) => {
-            i.style.border = 'none'
-          })
-          e.currentTarget.style.border = '2px solid #444'
-
-          cropper.setAspectRatio(
-            Number(e.currentTarget.dataset.width) /
-              Number(e.currentTarget.dataset.height)
-          )
-        })
-      })
-    }
-  })
-})
 let data = [
   {
     name: 'Facebook',
@@ -267,6 +209,64 @@ let data = [
     '12000x18000': [12000, 18000],
   },
 ]
+Array.from(mediaCrop).map((item) => {
+  item.addEventListener('click', (e) => {
+    document.querySelector('#dropdownMenuButton').innerHTML = e.currentTarget.id
+    if (e.currentTarget.id === 'freely') {
+      cropInputHeight.disabled = false
+      cropInputWidth.disabled = false
+      cropper.setAspectRatio(NaN)
+      mediaDimensions.innerHTML = ''
+    } else {
+      cropInputHeight.disabled = true
+      cropInputWidth.disabled = true
+      let find = data.find((i) => i.name.toLowerCase() === e.currentTarget.id)
+      setId = e.currentTarget.id
+      let html = ''
+      for (const key in find) {
+        const element = find[key]
+        mediaDimensions.innerHTML = ''
+        if (key !== 'name') {
+          let a_ratio = ratio(Number(element[0]) / Number(element[1]), 50)
+          let aspectRadio = Number(element[0]) / Number(element[1])
+          let height = 84 / aspectRadio
+          let width = 84 * aspectRadio
+
+          let data = ` <div class="col-sm-4 mx-auto mb-3"> <button class='media-choose' data-width='${
+            element[0]
+          }' data-height='${element[1]}' > <div style="height:${
+            height > 84 ? 84 : height
+          }px;width:${width > 84 ? 84 : width}px;" class='show-aspect'>${
+            a_ratio[0] + ' : ' + a_ratio[1]
+          }</div> </button>  <div class="type">${key}</div> <div class='value'>${
+            element[0]
+          }x ${element[1]}</div> 
+        </div>
+        `
+          html += data
+          mediaDimensions.innerHTML = ` <div class="col-12"> <div class='options-title mb-2'> ${find.name}:</div> </div> <div class="list-crop-options row"> ${html} </div>`
+        }
+      }
+      Array.from(document.querySelectorAll('.media-choose')).map((i) => {
+        i.addEventListener('click', (e) => {
+          croppedImageWidth = e.currentTarget.dataset.width
+          croppedImageHeight = e.currentTarget.dataset.height
+          cropInputHeight.value = Number(e.currentTarget.dataset.height)
+          cropInputWidth.value = Number(e.currentTarget.dataset.width)
+          Array.from(document.querySelectorAll('.media-choose')).map((i) => {
+            i.style.border = 'none'
+          })
+          e.currentTarget.style.border = '2px solid #444'
+
+          cropper.setAspectRatio(
+            Number(e.currentTarget.dataset.width) /
+              Number(e.currentTarget.dataset.height)
+          )
+        })
+      })
+    }
+  })
+})
 
 const showLoader = () => {
   showLoading()
@@ -326,6 +326,8 @@ const handleFile = (file) => {
           cropBoxPanel.appendChild(img)
           cropper = new Cropper(img, {
             ready() {
+              document.querySelector(`#${socialplatform}`).click()
+
               downloadButton.addEventListener('click', handleDownload)
               this.cropper.crop()
             },
@@ -382,11 +384,6 @@ const handleDownload = () => {
   a.download = `Safeimagekit-cropped-img.${fileType}`
   document.body.appendChild(a)
   a.click()
-  if (lang === 'en') {
-    window.location.href = `/download?tool=${pageTool}`
-  } else {
-    window.location.href = `/${lang}/download?tool=${pageTool}`
-  }
 }
 
 function ratio(val, lim) {
