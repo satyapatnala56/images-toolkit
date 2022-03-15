@@ -1,0 +1,77 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Best online tool to crop an image on mac",
+  "img": "/img/crop.png",
+  "keywords": "crop an image on mac,crop  image on mac,how to crop an image on macbook,how to crop an image on mac,how to crop image on mac,image cropper mac,crop image mac,image crop mac,crop image in mac,crop photo on mac,crop photo mac,crop photo in mac,photo cropper mac",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "crop-image",
+  "nofileupload": true,
+  "variant": "primary",
+  "H2": "Easily crop an image on macbook Online With the free tool",
+  "LABEL": "crop an image on mac",
+  "TITLE": "How to crop an image and photo on mac online",
+  "META": "On a Mac, there are three simple ways to crop an image, one of which is to use the crop an image on mac tool.",
+  "BREADCRUMB_LABEL": "",
+  "color": "#ff704d",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/userfriendly.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/free.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "",
+      "content": ""
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
+  },
+  "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "cssfilepaths": [
+    "/css/cropper.min.css",
+    "/css/utils.css",
+    "/css/crop.css"
+  ],
+  "jsfilepaths": [
+    "/assets/js/googledrive.js",
+    "/js/cropper.min.js",
+    "/js/crop.js"
+  ]
+}
