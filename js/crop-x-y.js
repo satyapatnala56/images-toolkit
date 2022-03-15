@@ -8,7 +8,7 @@ const cropBoxPanel = document.getElementById('crop-box-panel')
 const downloadButton = document.querySelector('#download-button')
 let mediaCrop = document.querySelectorAll('.media-crop')
 let mediaDimensions = document.querySelector('#media-dimensions')
-let cropType = document.querySelector('#file').dataset.type
+let cropDimensions = document.querySelector('#file').dataset
 let cropper = ''
 let croppedImageWidth = ''
 let fileType = ''
@@ -16,7 +16,7 @@ let croppedImageHeight = ''
 const cropInputHeight = document.querySelector('#crop-height')
 const cropInputWidth = document.querySelector('#crop-width')
 let shapes = document.querySelectorAll('.shape')
-let imgData = ''
+let canChange = false
 const showLoader = () => {
   showLoading()
 }
@@ -65,6 +65,13 @@ const handleFile = (file) => {
     const reader = new FileReader()
     reader.onload = (e) => {
       if (e.target.result) {
+        if (cropDimensions.x !== '0' || cropDimensions.y !== '0') {
+          cropInputWidth.value = cropDimensions.x
+          cropInputHeight.value = cropDimensions.y
+        } else {
+          canChange = true
+        }
+
         let image = new Image()
         image.onload = () => {
           croppedImageWidth = image.width
@@ -74,20 +81,22 @@ const handleFile = (file) => {
           img.src = e.target.result
           cropBoxPanel.appendChild(img)
           cropper = new Cropper(img, {
-            aspectRadio: 1 / 1,
             ready() {
-              cropper.setAspectRatio(1)
-              if (cropType === 'circle') {
-                let appendData = `<img src="/img/shapes-transparent/6.png">`
-                document.querySelector('.cropper-center').innerHTML = appendData
-                imgData = '/img/shapes-transparent/6.png'
+              if (cropDimensions.x !== '0' || cropDimensions.y !== '0') {
+                cropper.setAspectRatio(
+                  Number(cropInputWidth.value) / Number(cropInputHeight.value)
+                )
               }
+
               downloadButton.addEventListener('click', handleDownload)
               this.cropper.crop()
             },
             crop(event) {
-              cropInputWidth.value = Math.round(event.detail.width)
-              cropInputHeight.value = Math.round(event.detail.height)
+              if (canChange) {
+                cropInputWidth.value = Math.round(event.detail.width)
+                cropInputHeight.value = Math.round(event.detail.height)
+                canChange = false
+              }
             },
           })
         }
@@ -129,35 +138,10 @@ const handleDownload = () => {
     width: cropInputWidth.value,
     height: cropInputHeight.value,
   })
-  if (imgData === '') {
-    let a = document.createElement('a')
-    a.href = imgCanvas.toDataURL()
-    a.download = 'Safeimagekit.png'
-    a.click()
-  } else {
-    let img = new Image()
-    img.onload = () => {
-      let img2 = new Image()
-      img2.onload = () => {
-        let canvas = document.createElement('canvas')
-        canvas.width = cropInputWidth.value
-        canvas.height = cropInputHeight.value
-        let ctx = canvas.getContext('2d')
-        img.height = cropInputHeight.value
-        img.width = cropInputWidth.value
-        ctx.drawImage(img, 0, 0, cropInputWidth.value, cropInputHeight.value)
-        ctx.globalCompositeOperation = 'xor'
-        ctx.drawImage(img2, 0, 0, cropInputWidth.value, cropInputHeight.value)
-        document.body.appendChild(canvas)
-        let a = document.createElement('a')
-        a.href = canvas.toDataURL()
-        a.download = 'Safeimagekit.png'
-        a.click()
-      }
-      img2.src = imgCanvas.toDataURL()
-    }
-    img.src = imgData
-  }
+  let a = document.createElement('a')
+  a.href = imgCanvas.toDataURL()
+  a.download = 'Safeimagekit.png'
+  a.click()
   if (lang === 'en') {
     window.location.href = `/download?tool=${pageTool}`
   } else {
@@ -165,8 +149,12 @@ const handleDownload = () => {
   }
 }
 cropInputWidth.addEventListener('change', (e) => {
-  cropInputHeight.value = e.target.value
+  cropper.setAspectRatio(
+    Number(cropInputWidth.value) / Number(cropInputHeight.value)
+  )
 })
 cropInputHeight.addEventListener('change', (e) => {
-  cropInputWidth.value = e.target.value
+  cropper.setAspectRatio(
+    Number(cropInputWidth.value) / Number(cropInputHeight.value)
+  )
 })

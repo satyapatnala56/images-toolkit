@@ -292,6 +292,11 @@ const handleDownload = () => {
     }
     img.src = imgData
   }
+  if (lang === 'en') {
+    window.location.href = `/download?tool=${pageTool}`
+  } else {
+    window.location.href = `/${lang}/download?tool=${pageTool}`
+  }
 }
 
 function ratio(val, lim) {

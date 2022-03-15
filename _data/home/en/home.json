@@ -258,6 +258,13 @@
       "color": "#ad81ee",
       "icon": "/img/home/compressimg.png",
       "url": "/compress-image-all"
+    },
+    {
+      "name": "crop image tools",
+      "description": "List of image croptools",
+      "color": "#ff704d",
+      "icon": "/img/home/crop.png",
+      "url": "/all-crop-tools"
     }
   ]
 }
