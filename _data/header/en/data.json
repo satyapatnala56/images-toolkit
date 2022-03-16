@@ -56,6 +56,11 @@
             "iconSrc": "/img/rotate.png",
             "name": "Image Rotater",
             "url": "/flip-image"
+          },
+          {
+            "iconSrc": "/img/crop.svg",
+            "name": "Crop tools",
+            "url": "/all-crop-tools"
           }
         ]
       },
