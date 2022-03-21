@@ -1,67 +1,67 @@
 {
   "Language": "Deutsch",
   "htmlLangAtt": "de",
-  "h1": "Kostenloser webbasierter Pixelkunst-Konverter",
+  "h1": "Bild-zu-Pixel-Art-Konverter",
   "img": "/img/pixel.png",
   "imgwidth": "40px",
   "imgheight": "40px",
   "imgalt": "altvalue",
   "nofileupload": true,
   "variant": "primär",
-  "h2": "Die Konvertierung von Bild zu Pixelkunst wurde von uns erleichtert. Laden Sie zunächst Ihre Datei unten hoch",
-  "TITLE": "Bild-zu-Pixel-Kunst-Hersteller- safeimagekit",
-  "META": "Suchen Sie einen hochwertigen Bild-zu-Pixel-Kunst-Konverter? Dann bist du an der richtigen Stelle. Unser Online-Pixelkunst-Hersteller ist extrem sicher, benutzerfreundlich und superschnell.",
+  "h2": "Die Konvertierung von Bild zu Pixel Art wurde mit uns vereinfacht. Laden Sie zunächst Ihre Datei unten hoch",
+  "TITLE": "Bild zu Pixelkunst - Pixel Art Maker - safeimagekit",
+  "META": "Suchen Sie einen hochwertigen Bild-zu-Pixel-Kunst-Konverter? Nun, dann bist du hier richtig. Unser Online-Pixelkunst-Hersteller ist extrem sicher, benutzerfreundlich und superschnell.",
   "LABEL": "",
   "BREADCRUMB_LABEL": "",
   "color": "#ff5975",
   "TEXTUAL_CONTENT": [
-    {
-      "priority": 1,
-      "logoUrl": "/img/featureproperty/highquality.png",
-      "header": "hohe Qualität",
-      "content": "Unser Tool zur Konvertierung von Bild zu Pixelkunst wandelt die Bilder unter Beibehaltung ihrer Qualität in Pixelkunst um."
-    },
-    {
-      "priority": 1,
-      "logoUrl": "/img/featureproperty/security.png",
-      "header": "Sicherheit der Daten",
-      "content": "Keine Ihrer Daten wird auf unseren Servern gesendet, alle Vorgänge werden im Browser selbst ausgeführt. Auf diese Weise sind wir für unsere Benutzer zu 100% sicher"
-    },
-    {
-      "priority": 1,
-      "logoUrl": "/img/featureproperty/flexible.png",
-      "header": "Flexibilität",
-      "content": " Unser Tool zur Konvertierung von Bild zu Pixelkunst funktioniert auf fast allen Arten von Browsern und Geräten."
-    },
-    {
-      "priority": 1,
-      "logoUrl": "/img/featureproperty/userfriendly.png",
-      "header": "Benutzerfreundlich",
-      "content": "Unser Tool zur Konvertierung von Bild zu Pixelkunst ist sehr einfach zu verstehen, für die Arbeit an unserem Tool ist kein Fachmann erforderlich."
-    },
-    {
-      "priority": 1,
-      "logoUrl": "/img/featureproperty/free.png",
-      "header": "Frei von Kosten",
-      "content": "Unser Tool zur Konvertierung von Bild zu Pixelkunst ist völlig kostenlos. Sie können alle unsere Tools verwenden, ohne einen einzigen Cent zu bezahlen"
-    },
-    {
-      "priority": 1,
-      "logoUrl": "/img/featureproperty/nodownload.png",
-      "header": "Kein zusätzlicher Download",
-      "content": "Unser Tool zur Konvertierung von Bild zu Pixelkunst ist vollständig browserbasiert und es muss keine zusätzliche Software auf Ihr Gerät heruntergeladen werden."
-    }
+      {
+          "priority": 1,
+          "logoUrl": "/img/featureproperty/highquality.png",
+          "header": "Qualitativ hochwertige",
+          "content": "Unser Konvertierungstool für Bild-zu-Pixel-Kunst wandelt die Bilder in Pixelkunst um, indem es ihre Qualität beibehält."
+      },
+      {
+          "priority": 1,
+          "logoUrl": "/img/featureproperty/security.png",
+          "header": "Datensicherheit",
+          "content": "Keine Ihrer Daten wird auf unseren Servern gesendet, alle Vorgänge werden im Browser selbst ausgeführt. Dies ermöglicht es uns, für unsere Benutzer zu 100% sicher zu sein"
+      },
+      {
+          "priority": 1,
+          "logoUrl": "/img/featureproperty/flexible.png",
+          "header": "Flexibilität",
+          "content": " Unser Konvertierungstool für Bild-zu-Pixel-Kunst funktioniert auf fast allen Arten von Browsern und Geräten."
+      },
+      {
+          "priority": 1,
+          "logoUrl": "/img/featureproperty/userfriendly.png",
+          "header": "Benutzerfreundlich",
+          "content": "Unser Konvertierungstool für Bild-zu-Pixel-Kunst ist sehr leicht zu verstehen, es ist kein Fachmann erforderlich, um an unserem Tool zu arbeiten."
+      },
+      {
+          "priority": 1,
+          "logoUrl": "/img/featureproperty/free.png",
+          "header": "Frei von Kosten",
+          "content": "Unser Tool zur Konvertierung von Bildern zu Pixelkunst ist völlig kostenlos. Sie können alle unsere Tools verwenden, ohne einen einzigen Cent zu zahlen"
+      },
+      {
+          "priority": 1,
+          "logoUrl": "/img/featureproperty/nodownload.png",
+          "header": "Kein zusätzlicher Download",
+          "content": "Unser Bild-zu-Pixel-Art-Konvertierungstool ist vollständig browserbasiert und es muss keine zusätzliche Software auf Ihr Gerät heruntergeladen werden."
+      }
   ],
   "HOW_TO_CONTENT": {
-    "logoImageUrl": "/idea.svg",
-    "heading": "So konvertieren Sie unser Bild in Pixelkunst.",
-    "steps": [
-      "Laden Sie das Bild hoch oder klicken Sie auf den Dropdown-Pfeil und wählen Sie Dropbox/Google Drive",
-      "Verschaffen Sie sich einen Blick auf die Pixelkunst, indem Sie nach unten scrollen.",
-      "Klicken Sie auf die Option „Speichern“, um die vorgenommenen Änderungen zu speichern. ",
-      "Laden Sie die Pixelgrafiken mithilfe der Download-Option herunter.",
-      "Hurra!! Die Pixelkunst ist einsatzbereit."
-    ]
+      "logoImageUrl": "/idea.svg",
+      "heading": "So konvertieren Sie unser Bild in Pixelkunst.",
+      "steps": [
+          "Laden Sie das Bild hoch oder klicken Sie auf den Dropdown-Pfeil und wählen Sie Dropbox/Google Drive",
+          "Werfen Sie einen Blick auf die Pixelkunst, indem Sie nach unten scrollen.",
+          "Klicken Sie auf die Option „Speichern“, um die vorgenommenen Änderungen zu speichern. ",
+          "Laden Sie das Pixelbild mit der Download-Option herunter.",
+          "Hurra!! Die Pixelkunst ist einsatzbereit."
+      ]
   },
   "FAQ": [
     {
@@ -138,11 +138,14 @@
     }
   ],
   "jscdns": [
-    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+      "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+      "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+      "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
   ],
   "csscdns": [
-    "<script src=\"/assets/js/googledrive.js\"></script>",
-    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
-    "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+      "<script src=\"/assets/js/googledrive.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+      "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+      "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
   ]
 }
