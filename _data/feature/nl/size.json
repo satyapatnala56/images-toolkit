@@ -1,30 +1,30 @@
 {
     "Language": "Nederlands",
     "htmlLangAtt": "nl",
-    "H1": "Formaat van afbeelding gratis online wijzigen ",
+    "H1": "Afbeeldingen wijzigen",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "waarschuwing",
-    "H2": "Het formaat van foto's is door ons gemakkelijk gemaakt, begin met het uploaden van uw bestand hieronder",
-    "TITLE": "Afbeelding wijzigen - online afbeelding wijzigen - safeimagekit",
-    "META": "Bent u op zoek naar een hoogwaardige tool voor het formaat van foto's? Nou, dan ben je hier aan het juiste adres. Onze online tool voor het wijzigen van afbeeldingen is uiterst veilig, gebruiksvriendelijk en supersnel.",
+    "H2": "Het formaat van foto's is gemakkelijk bij ons gemaakt, begin met het uploaden van uw bestand hieronder",
+    "TITLE": "Afbeelding wijzigen- online afbeelding formaat wijzigen- safeimagekit",
+    "META": "Bent u op zoek naar een hoogwaardige tool voor het wijzigen van het formaat van foto's Nou, dan ben je hier aan het juiste adres. Onze online tool voor het wijzigen van afbeeldingen is uiterst veilig, gebruiksvriendelijk en supersnel.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "#0566D1",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "Hoge kwaliteit",
-            "content": "Onze beeldresizer tool maakt het formaat van de afbeeldingen door de kwaliteit ervan te behouden."
+            "content": "Onze tool voor beeldformaat verkleint de afbeeldingen door de kwaliteit te behouden."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Gegevensbeveiliging",
+            "header": "Beveiliging van gegevens",
             "content": "Geen van uw gegevens wordt op onze servers verzonden, alle bewerkingen worden uitgevoerd in de browser zelf. Dit stelt ons in staat om 100% veilig te zijn voor onze gebruikers"
         },
         {
@@ -37,7 +37,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Gebruiksvriendelijk",
-            "content": "Onze beeldresizertool is heel gemakkelijk te begrijpen, er is geen professional nodig om aan onze tool te werken."
+            "content": "Onze tool voor beeldresizer is heel gemakkelijk te begrijpen, er is geen professional nodig om aan onze tool te werken."
         },
         {
             "priority": 1,
@@ -49,17 +49,17 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Geen extra download",
-            "content": "Onze tool voor het wijzigen van afbeeldingen is volledig browsergebaseerd en er hoeft geen extra software op uw apparaat te worden gedownload."
+            "content": "Onze tool voor beeldresizer is volledig browsergebaseerd en er is geen extra software nodig om op uw apparaat te worden gedownload."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "Het formaat van een afbeelding wijzigen",
         "steps": [
-            "Upload de afbeelding of klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive om uw bestand in de daarvoor bestemde ruimte te selecteren.",
+            "Upload de afbeelding of klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive om uw bestand te selecteren in de daarvoor bestemde ruimte.",
             "Pas de parameters aan voor een betere beeldkwaliteit.\n",
-            "Druk op de „Preview” om een blik te werpen op de aangebrachte wijzigingen.",
-            "Sla de aangebrachte wijzigingen op.",
+            "Klik op de „Preview” om een blik te werpen op de gemaakte wijzigingen.",
+            "Bewaar de aangebrachte wijzigingen.",
             "Hoera!! de afbeelding is klaar voor gebruik."
         ]
     },
@@ -133,9 +133,9 @@
         "<script defer src=\"/assets/js/googledrive.js\"></script>",
         "<script defer data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
         "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
- ],
+    ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
     ]
 }

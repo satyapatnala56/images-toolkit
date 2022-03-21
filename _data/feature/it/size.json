@@ -1,48 +1,48 @@
 {
     "Language": "Italiano",
     "htmlLangAtt": "it",
-    "H1": "Ridimensiona l'immagine online gratuitamente ",
+    "H1": "Ridimensiona immagini",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "avviso",
-    "H2": "Il ridimensionamento delle foto è stato semplificato da noi, inizia caricando il tuo file qui sotto",
-    "TITLE": "Ridimensiona immagine - ridimensiona immagine online - safeimagekit",
-    "META": "Cerchi uno strumento di alta qualità per ridimensionare le foto? Bene, allora sei nel posto giusto. Il nostro strumento di ridimensionamento delle immagini online è estremamente sicuro, facile da usare e super veloce.",
+    "H2": "Ridimensionare le foto è stato semplificato con noi, inizia caricando il tuo file qui sotto",
+    "TITLE": "Ridimensiona immagine - ridimensionamento dell'immagine online - safeimagekit",
+    "META": "Stai cercando uno strumento di alta qualità per ridimensionare le foto? Bene, allora sei nel posto giusto. Il nostro strumento di ridimensionamento delle immagini online è estremamente sicuro, intuitivo e super veloce.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "#0566D1",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "Alta qualità",
-            "content": "Il nostro strumento di ridimensionamento delle immagini ridimensiona le immagini mantenendo la sua qualità."
+            "content": "Il nostro strumento di ridimensionamento delle immagini ridimensiona le immagini conservandone la qualità."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Sicurezza dei dati",
-            "content": "Nessuno dei tuoi dati viene inviato sui nostri server, tutte le operazioni vengono effettuate sul browser stesso. Questo ci consente di essere sicuri al 100% per i nostri utenti"
+            "content": "Nessuno dei tuoi dati viene inviato sui nostri server tutte le operazioni vengono eseguite sul browser stesso. Questo ci consente di essere sicuri al 100% per i nostri utenti"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "flessibilità",
+            "header": "Flessibilità",
             "content": " Il nostro strumento di ridimensionamento delle immagini funziona su quasi tutti i tipi di browser e dispositivi."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Facile da usare",
-            "content": "Il nostro strumento di ridimensionamento delle immagini è molto facile da capire, nessun professionista è necessario per lavorare sul nostro strumento."
+            "header": "facile da usare",
+            "content": "Il nostro strumento di ridimensionamento delle immagini è molto facile da capire, non è necessario alcun professionista per lavorare sul nostro strumento."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Senza costi",
+            "header": "Gratuito",
             "content": "Il nostro strumento di ridimensionamento delle immagini è completamente gratuito, puoi utilizzare tutti i nostri strumenti senza pagare un solo centesimo"
         },
         {
@@ -56,11 +56,11 @@
         "logoImageUrl": "/idea.svg",
         "heading": "Come ridimensionare un'immagine",
         "steps": [
-            "Carica l'immagine o fai clic sulla freccia a discesa e seleziona Dropbox/Google Drive per selezionare il file nell'apposito spazio.",
+            "Carica l'immagine o fai clic sulla freccia a discesa e seleziona Dropbox/Google Drive per selezionare il file nello spazio fornito.",
             "Regola i parametri per una migliore qualità dell'immagine.\n",
             "Premi «Anteprima» per dare un'occhiata alle modifiche apportate.",
             "Salva le modifiche apportate.",
-            "Evviva!! l'immagine è pronta per l'uso."
+            "Evviva!! l'immagine è pronta all'uso."
         ]
     },
     "FAQ": [
@@ -133,9 +133,9 @@
         "<script defer src=\"/assets/js/googledrive.js\"></script>",
         "<script defer data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
         "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
-  ],
+    ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
     ]
 }

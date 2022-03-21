@@ -1,141 +1,141 @@
 {
-    "Language": "العربية",
-    "htmlLangAtt": "ar",
-    "H1": "تغيير حجم الصورة عبر الإنترنت مجانًا ",
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "H1": "Redimensionar imágenes",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "تحذير",
-    "H2": "لقد أصبح تغيير حجم الصور سهلاً من قبلنا، ابدأ بتحميل ملفك أدناه",
-    "TITLE": "تغيير حجم الصورة - تغيير حجم الصورة عبر الإنترنت - مجموعة صور آمنة",
-    "META": "هل تبحث عن أداة عالية الجودة لتغيير حجم الصور؟ حسنا، فأنت في المكان الصحيح. أداة تغيير حجم الصور عبر الإنترنت الخاصة بنا آمنة للغاية وسهلة الاستخدام وسريعة للغاية.",
+    "variant": "advertencia",
+    "H2": "Cambiar el tamaño de las fotos se ha hecho fácil con nosotros, comience por subir su archivo a continuación",
+    "TITLE": "Cambiar el tamaño de la imagen - redimensionar imagen en línea - safeimagekit",
+    "META": "¿Buscas una herramienta de alta calidad para cambiar el tamaño de las fotos? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de cambio de tamaño de imágenes en línea es extremadamente segura, fácil de usar y muy rápida.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "#0566D1",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "جودة عالية",
-            "content": "تعمل أداة تغيير حجم الصور الخاصة بنا على تغيير حجم الصور من خلال الاحتفاظ بجودتها."
+            "header": "De alta calidad",
+            "content": "Nuestra herramienta de redimensionamiento de imágenes cambia el tamaño de las imágenes conservando su calidad."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "أمان البيانات",
-            "content": "لا يتم إرسال أي من بياناتك على خوادمنا، تتم جميع العمليات على المتصفح نفسه. يتيح لنا ذلك أن نكون آمنين بنسبة 100٪ لمستخدمينا"
+            "header": "Seguridad de los datos",
+            "content": "Ninguno de sus datos se envía a nuestros servidores, todas las operaciones se realizan en el propio navegador. Esto nos permite estar 100% seguros para nuestros usuarios"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "المرونة",
-            "content": " تعمل أداة تغيير حجم الصور الخاصة بنا على جميع أنواع المتصفحات والأجهزة تقريبًا."
+            "header": "Flexibilidad",
+            "content": " Nuestra herramienta de cambio de tamaño de imagen funciona en casi todos los tipos de navegadores y dispositivos."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "سهل الاستخدام",
-            "content": "من السهل جدًا فهم أداة تغيير حجم الصور الخاصة بنا، ولا حاجة إلى محترف للعمل على أداتنا."
+            "header": "Fácil de usar",
+            "content": "Nuestra herramienta de cambio de tamaño de imagen es muy fácil de entender, no se necesita un profesional para trabajar en nuestra herramienta."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "خالية من التكلفة",
-            "content": "أداة تغيير حجم الصور الخاصة بنا مجانية تمامًا، يمكنك استخدام جميع أدواتنا دون دفع فلس واحد"
+            "header": "Gratuito",
+            "content": "Nuestra herramienta de cambio de tamaño de imagen es completamente gratuita, puedes usar todas nuestras herramientas sin pagar un solo centavo"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "لا يوجد تنزيل إضافي",
-            "content": "تعتمد أداة تغيير حجم الصور الخاصة بنا على المتصفح تمامًا ولا يلزم تنزيل برامج إضافية على جهازك."
+            "header": "Sin descarga adicional",
+            "content": "Nuestra herramienta de cambio de tamaño de imagen está completamente basada en el navegador y no se requiere ningún software adicional para descargarse en su dispositivo."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "كيفية تغيير حجم الصورة",
+        "heading": "Cómo cambiar el tamaño de una imagen",
         "steps": [
-            "قم بتحميل الصورة أو انقر فوق السهم المنسدل وحدد Dropbox/Google Drive لتحديد ملفك في المساحة المتوفرة.",
-            "اضبط المعلمات للحصول على جودة صورة أفضل.\n",
-            "اضغط على «معاينة» لإلقاء نظرة على التغييرات التي تم إجراؤها.",
-            "احفظ التغييرات التي تم إجراؤها.",
-            "مرحى!! الصورة جاهزة للاستخدام."
+            "Sube la imagen o haz clic en la flecha desplegable y selecciona Dropbox/Google Drive para seleccionar tu archivo en el espacio proporcionado.",
+            "Ajuste los parámetros para obtener una mejor calidad de imagen.\n",
+            "Pulsa en «Vista previa» para ver los cambios realizados.",
+            "Guarde los cambios realizados.",
+            "¡¡Hurra! la imagen está lista para usarse."
         ]
     },
     "FAQ": [
         {
-            "question": "هل من الآمن السماح بالوصول إلى محرك الأقراص الخاص بي؟",
-            "answer": "نعم، من الآمن تمامًا السماح لنا بالوصول إلى محرك الأقراص الخاص بك. لن نقوم بإجراء أي تغييرات على موقعك وستكون ملفاتك آمنة معك."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "كيف يمكنني تحميل الملفات من محرك الأقراص الخاص بي/dropbox؟",
-            "answer": "انقر فوق السهم المنسدل وحدد Dropbox/Google Drive. حدد حساب Google من حيث تريد ربط محرك الأقراص الخاص بك. الآن يمكنك تحديد الملفات التي تريد تحميلها."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "ما هي الميزات التي تقدمها ميزة تغيير حجم الصورة من safeimagekit.com أثناء ضبط حجم الصور؟",
-            "answer": "يوفر تغيير حجم الصورة ميزات متعددة الاستخدامات من safeimagekit.com أثناء تحديد حجم الصورة التي تم تحميلها للتحرير. تشمل الميزات الرئيسية-\n- ضبط حجم الصورة فيما يتعلق بالعرض.\n- ضبط حجم الصورة فيما يتعلق بالارتفاع.\n- تغيير حجم الصورة وتنزيلها."
+            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
         },
         {
-            "question": "كيف يمكنني ضبط عرض الصورة باستخدام ميزة تغيير حجم الصورة من safeimagekit.com؟",
-            "answer": "الخطوة الأولى على الإطلاق، قم بتحميل الصورة التي تتطلب تحريرًا. تتضمن الخطوة التالية ضبط المعلمات المهمة للصورة، وهذا يشمل ضبط العرض والارتفاع. يمكن الوصول إلى عرض الصورة عن طريق إدخال قيمة على المساحة تسمى «أدخل العرض». يمكن زيادة قيمة العرض عن طريق إدخال القيم الموجبة (+) في الطبيعة. يمكن تقليل قيمة العرض عن طريق إدخال القيم السلبية (-) في الطبيعة."
+            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
         },
         {
-            "question": "كيف يمكنني ضبط ارتفاع الصورة باستخدام ميزة تغيير حجم الصورة من safeimagekit.com؟",
-            "answer": "الخطوة الأولى على الإطلاق، قم بتحميل الصورة التي تتطلب تحريرًا. تتضمن الخطوة التالية ضبط المعلمات المهمة للصورة، وهذا يشمل ضبط العرض والارتفاع. يمكن الوصول إلى ارتفاع الصورة عن طريق إدخال قيمة على المساحة تسمى «أدخل الارتفاع». يمكن زيادة قيمة الارتفاع عن طريق إدخال القيم الموجبة (+) في الطبيعة. يمكن تقليل قيمة العرض عن طريق إدخال القيم السلبية (-) في الطبيعة."
+            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
         },
         {
-            "question": "كيف يمكنني تغيير حجم الصورة باستخدام ميزة تغيير حجم الصورة من safeimagekit.com؟",
-            "answer": "هناك 6 خطوات يمكن للمستخدم الرجوع إليها أثناء تغيير حجم ملف الصورة،\nوتشمل هذه\n- قم بتحميل ملف الصورة الذي يتطلب تغييرًا.\n- اضبط ارتفاع الصورة عن طريق إدخال قيمة.\n- اضبط عرض الصورة عن طريق إدخال قيمة.\n- اضغط على زر تغيير الحجم لتنشيط تغيير الحجم.\n- اضغط على زر الحفظ لحفظ التغييرات التي تم إجراؤها.\n- استخدم خيار التنزيل لتنزيل الصورة المعدلة."
+            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
         },
         {
-            "question": "هل يوفر خيار تغيير حجم ميزة تغيير حجم الصورة من safeimagekit.com أي نوع من المعاينة بعد تغيير حجم ملف الصورة الذي تم تحميله؟",
-            "answer": "لا، حاليًا لا توفر ميزة تغيير حجم مقسم الصور من safeimagekit.com أي نوع من المعاينة لأقسام الصورة التي تم تحميلها، لأنه في بعض الأحيان تكون أقسام الصورة التي تم تحميلها في البحر ويصبح من الصعب جدًا على المتصفح التعامل مع معاينة كل قسم من الصورة. ومع ذلك، فإن التحديثات على موقع الويب في المستقبل ستضيف جميع الميزات المثيرة."
+            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
         },
         {
-            "question": "هل يمكنني استخدام ميزة تغيير حجم الصورة من safeimagekit.com على نظام التشغيل Windows 8 الخاص بي؟",
-            "answer": "ميزة تغيير حجم الصورة هي ميزة متعددة الاستخدامات تقدمها safeimagekit.com والتي تدعمها جميع أنظمة التشغيل الموجودة مثل Windows 8 و Linux وحتى Ubuntu. كل ما يتطلبه الأمر هو جهاز لفتح ملف التمديد باستخدام موقع www.safeimagekit.com واتصال إنترنت عادي للوقوف عليه. الحقيقة الممتعة هي أنه يمكن تشغيلها حتى على اتصال إنترنت أبطأ."
+            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
+            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "هل يمكنني استخدام ميزة تغيير حجم الصورة من safeimagekit.com على جهاز Android الخاص بي؟ ",
-            "answer": "نعم، ميزة تغيير حجم الصورة من safeimagekit.com هي ميزة قائمة على الأنظمة الأساسية حيث يمكن للمستخدم استخدام أداة المحول هذه من أنظمة التشغيل مثل Android و iOS و Windows و Mac OS. إنه مستقل عن أنظمة التشغيل المستخدمة ولكنه يعتمد فقط على اتصال الإنترنت."
+            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "هل يتعين علينا استخدام أي برنامج إضافي لتنزيل الصور المعدلة بعد التحويل باستخدام ميزة تغيير حجم الصورة من safeimagekit.com؟",
-            "answer": "لا، يمكن للمستخدمين بعد تغيير حجم صورتهم عن طريق إدخال ارتفاعهم وعرضها، الضغط على خيار التنزيل الموضح أدناه ويمكنهم تنزيل الصورة المعدلة. إنها أداة تحويل قائمة على المتصفح لا تدعم أو لا يلزم وجود برامج إضافية لتنزيل الصورة المعدلة."
+            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
         },
         {
-            "question": "ماذا سيحدث لتقدمنا إذا قمنا بتحديث متصفحنا أثناء استخدامنا لأداة تغيير حجم الصورة من safeimagekit.com؟",
-            "answer": "أداة تغيير حجم الصورة من safeimagekit.com غير متصلة بأي خادم هناك، لذلك لن يتم تخزين البيانات التي يعمل عليها المستخدم في أي مكان ونتيجة لذلك، سيتم محوها على الفور عندما يقوم المستخدم بتحديث المتصفح الذي يعمل عليه. ستتم أيضًا إزالة ملف الصورة الذي يتم تحويله بعد خروج المستخدم أو إغلاقه علامة التبويب التي تفتح عليها صفحة الامتداد الخاصة بموقع الويب."
+            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
+            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "هل يمكننا تغيير حجم ملفات الصور المقفلة، باستخدام ميزة تغيير حجم الصورة من safeimagekit.com؟",
-            "answer": "لا، لا يمكننا تحميل ملف الصورة الذي تم قفله حيث يتم حظر الوصول إلى ملف الصورة هذا. لذلك، لاستخدام ميزة تغيير حجم الصورة من safeimagekit.com، نحتاج إلى تحميل ملفات الصور غير المقفلة. ولكن يمكن للمستخدم التحقق من امتداد مكتشف كلمة المرور من safeimagekit.com الذي تم تصميمه حصريًا لفتح الصورة بالإضافة إلى ملفات الصور في حالة فقد المستخدم كلمة المرور الخاصة به لملف الصورة المقفل."
+            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "هل ستتلف ملفات الصور التي تم تحميلها بعد تغيير حجم ملفات الصور باستخدام ميزة ملف تغيير حجم الصورة من safeimagekit.com؟",
-            "answer": "لا، تم إنشاء safeimagekit.com مع أحدث البرامج وميزات الأمان التي لا تسمح لملفات الصور التي تم تحميلها بالتلف. لذا، فإن ملفات الصور التي تم تحميلها آمنة تمامًا ومضمونة."
+            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "هل سيتم حفظ ملفي بعد الانتهاء من العمل على أداة تغيير حجم الصورة؟ ",
-            "answer": "لا، نحن لا نرسل أيًا من ملفاتك إلى خوادمنا، تتم جميع العمليات على المتصفح نفسه وبالتالي فإن جميع ملفاتك آمنة تمامًا. "
+            "question": "Will my file be saved after I complete working on the image resizer tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "هل يتعين علي القيام بأي تسجيل إضافي أو دفع مبلغ إضافي لاستخدام أداة تغيير حجم الصورة؟ ",
-            "answer": "بالتأكيد لا، لدينا أداة على الانترنت تماما ولا تتطلب منك مشاركة أي من المعلومات الشخصية الخاصة بك معنا، مثل معرف البريد الإلكتروني وكلمات المرور الخ لدينا أداة خالية تماما من التكلفة."
+            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "كيف يمكنني التواصل إذا واجهت أي مشاكل أو إذا كنت أرغب في تقديم أي اقتراحات؟",
-            "answer": "نحن بكل سرور نأخذ في أي مشكلة أو اقتراحات يقدمها جميع المستخدمين، يرجى الاتصال بنا من خلال مقابض وسائل التواصل الاجتماعي الخاصة بنا للحصول على مزيد من المعلومات. Safeimagekit.com متاح على جميع مواقع التواصل الاجتماعي الرائدة مثل Facebook و Instagram و YouTube و LinkedIn وما إلى ذلك."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [
-        "<script src=\"/assets/js/googledrive.js\"></script>",
-        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+        "<script defer src=\"/assets/js/googledrive.js\"></script>",
+        "<script defer data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
+        "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
     ]
 }

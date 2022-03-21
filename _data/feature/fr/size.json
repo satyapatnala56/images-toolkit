@@ -1,19 +1,19 @@
 {
     "Language": "Français",
     "htmlLangAtt": "fr",
-    "H1": "Redimensionner l'image en ligne gratuitement ",
+    "H1": "Redimensionner les images",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "avertissement",
-    "H2": "Le redimensionnement des photos a été facilité par nos soins, commencez par télécharger votre fichier ci-dessous",
-    "TITLE": "Redimensionner l'image - redimensionner l'image en ligne - kit d'image sécurisé",
-    "META": "Vous recherchez un outil de haute qualité pour redimensionner des photos ? Eh bien, alors vous êtes au bon endroit. Notre outil de redimensionnement d'image en ligne est extrêmement sûr, convivial et super rapide.",
+    "H2": "Le redimensionnement des photos a été facilité avec nous, commencez par télécharger votre fichier ci-dessous",
+    "TITLE": "Redimensionner l'image - Redimensionner l'image en ligne - safeimagekit",
+    "META": "Vous recherchez un outil de haute qualité pour redimensionner des photos ? Eh bien, vous êtes au bon endroit. Notre outil de redimensionnement d'image en ligne est extrêmement sûr, convivial et très rapide.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "#0566D1",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
@@ -25,7 +25,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Sécurité des données",
-            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs."
+            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs"
         },
         {
             "priority": 1,
@@ -49,7 +49,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Aucun téléchargement supplémentaire",
-            "content": "Notre outil de redimensionnement d'image est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est requis pour être téléchargé sur votre appareil."
+            "content": "Notre outil de redimensionnement d'image est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est nécessaire pour être téléchargé sur votre appareil."
         }
     ],
     "HOW_TO_CONTENT": {
@@ -60,7 +60,7 @@
             "Ajustez les paramètres pour une meilleure qualité d'image.\n",
             "Cliquez sur « Aperçu » pour voir les modifications apportées.",
             "Enregistrez les modifications apportées.",
-            "Hourra ! ! l'image est prête à être utilisée."
+            "Vive ! l'image est prête à être utilisée."
         ]
     },
     "FAQ": [
@@ -133,9 +133,9 @@
         "<script defer src=\"/assets/js/googledrive.js\"></script>",
         "<script defer data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
         "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
- ],
+    ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
     ]
 }

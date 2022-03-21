@@ -1,19 +1,19 @@
 {
     "Language": "Bahasa Indonesia",
     "htmlLangAtt": "id",
-    "H1": "Ubah ukuran gambar online secara gratis ",
+    "H1": "Ubah Ukuran Gambar",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "memperingati",
-    "H2": "Mengubah ukuran foto telah dibuat mudah oleh kami, mulai dengan meng-upload file Anda di bawah ini",
+    "H2": "Mengubah ukuran foto telah dibuat mudah dengan kami, mulai dengan meng-upload file Anda di bawah ini",
     "TITLE": "Ubah ukuran gambar- online image resize- safeimagekit",
     "META": "Apakah Anda mencari alat berkualitas tinggi untuk mengubah ukuran foto? Nah, maka Anda berada di tempat yang tepat. Alat resize gambar online kami sangat aman, ramah pengguna, dan super cepat.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "#0566D1",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
@@ -133,9 +133,9 @@
         "<script defer src=\"/assets/js/googledrive.js\"></script>",
         "<script defer data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
         "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
- ],
+    ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
     ]
 }
