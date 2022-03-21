@@ -1,25 +1,25 @@
 {
     "Language": "Español",
     "htmlLangAtt": "es",
-    "H1": "Cambiar el tamaño de la imagen en línea gratis ",
+    "H1": "Redimensionar imágenes",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "advertencia",
-    "H2": "Hemos facilitado el cambio de tamaño de las fotos, comienza cargando tu archivo a continuación",
-    "TITLE": "Cambiar el tamaño de la imagen- cambio de tamaño de imagen en línea- safeimagekit",
-    "META": "¿Buscas una herramienta de alta calidad para cambiar el tamaño de las fotos? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de cambio de tamaño de imágenes en línea es extremadamente segura, fácil de usar y súper rápida.",
+    "H2": "Cambiar el tamaño de las fotos se ha hecho fácil con nosotros, comience por subir su archivo a continuación",
+    "TITLE": "Cambiar el tamaño de la imagen - redimensionar imagen en línea - safeimagekit",
+    "META": "¿Buscas una herramienta de alta calidad para cambiar el tamaño de las fotos? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de cambio de tamaño de imágenes en línea es extremadamente segura, fácil de usar y muy rápida.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ffbb33",
+    "color": "#0566D1",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "De alta calidad",
-            "content": "Nuestra herramienta de cambio de tamaño de imagen cambia el tamaño de las imágenes conservando su calidad."
+            "content": "Nuestra herramienta de redimensionamiento de imágenes cambia el tamaño de las imágenes conservando su calidad."
         },
         {
             "priority": 1,
@@ -43,24 +43,24 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Gratuito",
-            "content": "Nuestra herramienta de cambio de tamaño de imagen es completamente gratuita, puede usar todas nuestras herramientas sin pagar un solo centavo"
+            "content": "Nuestra herramienta de cambio de tamaño de imagen es completamente gratuita, puedes usar todas nuestras herramientas sin pagar un solo centavo"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Sin descarga adicional",
-            "content": "Nuestra herramienta de cambio de tamaño de imagen está completamente basada en el navegador y no se requiere descargar ningún software adicional en su dispositivo."
+            "content": "Nuestra herramienta de cambio de tamaño de imagen está completamente basada en el navegador y no se requiere ningún software adicional para descargarse en su dispositivo."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "Cómo cambiar el tamaño de una imagen",
         "steps": [
-            "Sube la imagen o haz clic en la flecha desplegable y selecciona Dropbox/Google Drive para seleccionar tu archivo en el espacio provisto.",
+            "Sube la imagen o haz clic en la flecha desplegable y selecciona Dropbox/Google Drive para seleccionar tu archivo en el espacio proporcionado.",
             "Ajuste los parámetros para obtener una mejor calidad de imagen.\n",
-            "Haz clic en «Vista previa» para echar un vistazo a los cambios realizados.",
+            "Pulsa en «Vista previa» para ver los cambios realizados.",
             "Guarde los cambios realizados.",
-            "¡Hurra! la imagen está lista para usarse."
+            "¡¡Hurra! la imagen está lista para usarse."
         ]
     },
     "FAQ": [
@@ -133,9 +133,9 @@
         "<script defer src=\"/assets/js/googledrive.js\"></script>",
         "<script defer data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
         "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
-  ],
+    ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
     ]
 }
