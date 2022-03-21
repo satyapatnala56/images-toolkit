@@ -1,16 +1,16 @@
 {
     "Language": "Deutsch",
     "htmlLangAtt": "de",
-    "H1": "Wasserzeichengenerator",
+    "H1": "Kostenloser Wasserzeichengenerator für PC, MAC, IOS und ANDROID",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "Gefahr",
-    "H2": "Das Erstellen von Wasserzeichen für Fotos wurde mit uns einfach gemacht. Laden Sie zunächst Ihre Datei unten hoch",
-    "TITLE": "Wasserzeichen-Fotos - kostenloser Wasserzeichenhersteller - safeimagekit",
-    "META": "Suchen Sie ein qualitativ hochwertiges Bildwasserzeichen für Bilder? Nun, dann bist du hier richtig. Unser Online-Tool zur Generierung von Wasserzeichen ist extrem sicher, benutzerfreundlich und superschnell.",
+    "H2": "Das Erstellen von Wasserzeichen für Fotos wurde von uns erleichtert. Laden Sie zunächst Ihre Datei unten hoch",
+    "TITLE": "Wasserzeichen-Fotos - kostenloser Wasserzeichen-Hersteller - sicheres Imagekit",
+    "META": "Suchen Sie ein hochwertiges Bildwasserzeichen für Bilder? Dann bist du an der richtigen Stelle. Unser Online-Tool zur Generierung von Wasserzeichen ist extrem sicher, benutzerfreundlich und superschnell.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "red",
@@ -18,111 +18,115 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "Qualitativ hochwertige",
+            "header": "hohe Qualität",
             "content": "Unser Wasserzeichengenerator-Tool erstellt hochwertige Wasserzeichen für Ihre Bilder."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Datensicherheit",
-            "content": "Keine Ihrer Daten wird auf unseren Servern gesendet, alle Vorgänge werden im Browser selbst ausgeführt. Dies ermöglicht es uns, für unsere Benutzer zu 100% sicher zu sein"
+            "header": "Sicherheit der Daten",
+            "content": "Keine Ihrer Daten wird auf unseren Servern gesendet, alle Vorgänge werden im Browser selbst ausgeführt. Auf diese Weise sind wir für unsere Benutzer zu 100% sicher"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Flexibilität",
-            "content": " Unser Wasserzeichengenerator-Tool funktioniert auf fast allen Arten von Browsern und Geräten."
+            "content": " Unser Tool zur Generierung von Wasserzeichen funktioniert auf fast allen Arten von Browsern und Geräten."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Benutzerfreundlich",
-            "content": "Unser Wasserzeichengenerator-Tool ist sehr einfach zu verstehen, es ist kein Fachmann erforderlich, um an unserem Tool zu arbeiten."
+            "content": "Unser Wasserzeichengenerator-Tool ist sehr einfach zu verstehen, für die Arbeit an unserem Tool ist kein Fachmann erforderlich."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Frei von Kosten",
-            "content": "Unser Wasserzeichengenerator-Tool ist völlig kostenlos. Sie können alle unsere Tools verwenden, ohne einen einzigen Cent zu zahlen"
+            "content": "Unser Tool zur Generierung von Wasserzeichen ist völlig kostenlos. Sie können alle unsere Tools verwenden, ohne einen einzigen Cent zu bezahlen"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Kein zusätzlicher Download",
-            "content": "Unser Wasserzeichengenerator-Tool ist vollständig browserbasiert und es muss keine zusätzliche Software auf Ihr Gerät heruntergeladen werden."
+            "content": "Unser Tool zur Generierung von Wasserzeichen ist vollständig browserbasiert und es muss keine zusätzliche Software auf Ihr Gerät heruntergeladen werden."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "WIE FÜGE ICH MEINER PDF-DATEI EIN WASSERZEICHEN HINZU",
+        "heading": "WIE FÜGE ICH WASSERZEICHEN ZU MEINER PDF-DATEI HINZU",
         "steps": [
             "Laden Sie Ihre Bilddatei hoch oder klicken Sie auf den Dropdown-Pfeil und wählen Sie Dropbox/Google Drive",
             "Passen Sie die erforderlichen Parameter an ",
             "Fügen Sie einen Text oder ein Bild als Wasserzeichen hinzu",
-            "drücke den Speichern-Schalter, um die vorgenommenen Änderungen zu speichern",
+            "klicken Sie auf Speichern, um die vorgenommenen Änderungen zu speichern",
             "Hurra!! das Bild ist bereit zu rocken."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "",
+            "answer": ""
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Ist es sicher, Zugriff auf mein Laufwerk zu gewähren?",
+            "answer": "Ja, es ist absolut sicher, uns Zugriff auf Ihr Laufwerk zu gewähren und uns zu gewähren. Wir werden keine Änderungen an Ihrer Website vornehmen und Ihre Dateien sind bei Ihnen sicher."
         },
         {
-            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
-            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
+            "question": "Wie kann ich Dateien von meinem Laufwerk/meiner Dropbox hochladen?",
+            "answer": "Klicken Sie auf den Dropdown-Pfeil und wählen Sie Dropbox/Google Drive aus. Wählen Sie das Google-Konto aus, mit dem Sie Ihr Laufwerk verknüpfen möchten. Jetzt können Sie die Dateien auswählen, die Sie hochladen möchten."
         },
         {
-            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
-            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
+            "question": "Welche Funktionen bietet die Wasserzeichenfunktion von safeimagekit.com beim Hinzufügen eines Wasserzeichens zu einem Bild?",
+            "answer": "Die Wasserzeichenfunktion von safeimagekit.com bietet vielseitige Funktionen beim Erstellen eines Bildes. Zu den Hauptmerkmalen gehören\n- Einfügen von Text als Wasserzeichen in die hochgeladene Bilddatei.\n- Anpassen der Transparenz des Textes des hochgeladenen Wasserzeichens.\n- Anpassen der Schriftgröße des Textes des einzufügenden Wasserzeichens.\n- Änderung des Strichwerts\n- Einfügen eines Bilds als Wasserzeichen in das Originalbild\n- Anpassung des Schattenwerts in der hochgeladenen Bilddatei.\n- Änderung des mit Wasserzeichen versehenen Textes durch Kursivschrift.\n- Anpassen der Kühnheit des einzufügenden Textes mit Wasserzeichen.\n- Unterstreichungsmerkmal des mit Wasserzeichen versehenen Textes.\n- Aktualisieren des Wasserzeichens mit Farboptionen.\n\n"
         },
         {
-            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
-            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
+            "question": "Wie funktioniert die Funktion zum Einfügen von Text für Wasserzeichen-Fotos von safeimagekit.com?",
+            "answer": "Mit der Option zum Einfügen von Text der Funktion „Wasserzeichenfotos“ von safeimagekit.com können Benutzer dem Bild Text als Wasserzeichen hinzufügen. Der hinzugefügte Text kann mithilfe verschiedener Funktionen wie Farbanpassung, Textdicke usw. angepasst und geändert werden. Mit den Farbanpassungsoptionen kann der Benutzer dem Text Farbe hinzufügen. Andererseits kann der Benutzer durch die Dicke des Textes die Größe des Textes anpassen. Um auf diese Funktion zuzugreifen, geben Sie einfach den Text in das Feld „Text eingeben“ ein und klicken Sie auf „Text hinzufügen“, um das Wasserzeichen zu generieren."
         },
         {
-            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+            "question": "Wie funktioniert die Option zur Anpassung der Transparenz der Wasserzeichen-Fotos von safeimagekit.com?",
+            "answer": "Mit der Option zur Transparenzanpassung der Wasserzeichen-Fotofunktion von safeimagekit.com können Benutzer die Transparenz und Deckkraft des mit Wasserzeichen versehenen Textes oder des hochgeladenen Bilds anpassen. Diese Option ist im mittleren Teil der Seite verfügbar. Die Transparenzoption wird auf einer Skala von 0,1 bis 1 angegeben. Diese Anpassung wird vorgenommen und kann gespeichert werden, indem Sie auf die Speicheroption klicken. Auf diese Option können Sie zugreifen, indem Sie auf die Option „Transparenz auswählen“ klicken und die Skala anpassen und auf „Text hinzufügen“ klicken, um das Wasserzeichen zu generieren."
         },
         {
-            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
-            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
+            "question": "Wie passen wir die Schriftgröße des Textes an, während wir ein Bild mithilfe der Wasserzeichen-Fotofunktion von safeimagekit.com ändern?",
+            "answer": "Die Schriftgröße des Textes beim Ändern eines Bilds mithilfe der Wasserzeichen-Fotofunktion von safeimagekit.com kann durch Eingabe des Größenfaktors angepasst werden. Auf diese Option kann zugegriffen werden, indem Sie die gültige Größe in den Bereich „Geben Sie die Schriftgröße ein“ eingeben. Die Größe kann angepasst werden, indem Sie einen Wert in diesen Bereich eingeben. Die Schriftgröße des Textes kann erhöht werden, indem die Werte mit positivem (+) Wert eingegeben werden. Die Schriftgröße des Textes kann verringert werden, indem die Werte eingegeben werden, die einen negativen (-) Wert haben."
         },
         {
-            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
+            "question": "Wie funktioniert der Strichwert bei der Bildkonvertierung in der Wasserzeichen-Fotofunktion von safeimagekit.com?",
+            "answer": "Der Strichwert der Wasserzeichen-Fotofunktion von safeimagekit.com passt die Farbe des Textes oder eines Bilds an, das zur Bearbeitung in das Bild eingefügt wird. Auf diesen Wert kann zugegriffen werden, indem Sie einen Wert in das dafür vorgesehene Feld „Strichwert eingeben“ eingeben. Der Strichwert des Bildes beim Konvertieren in ein Meme kann angepasst werden, indem ein positiver Wert (+) eingegeben wird, um den Strich zu erhöhen. Der Hubwert kann verringert werden, indem ein negativer Wert (-) eingegeben wird, um den Hub zu verringern.\n\n"
         },
         {
-            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
+            "question": "Können wir ein Bild als Wasserzeichen in ein anderes Bild einfügen, während wir ein Bild mithilfe der Funktion „Wasserzeichenfotos“ von safeimagekit.com ändern?",
+            "answer": "Ja, die Wasserzeichen-Fotofunktion von safeimagekit.com bietet die Möglichkeit, beim Ändern eines Bilds ein Bild in ein anderes Bild einzufügen. Auf diese Funktion kann unten auf der Seite mit dem Namen „Bild hochladen“ zugegriffen werden. Mit dieser Funktion können wir ein Bild in ein anderes Bild einfügen. Dies ist eine nominelle Funktion, mit der wir jede Art von Bild in jeden Bildtyp einfügen können. Das Bild nach dem Bearbeiten und Einfügen kann gespeichert werden, indem Sie auf die Option „Speichern“ klicken. Dadurch wird der Fortschritt des Bilds gespeichert."
         },
         {
-            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "Können wir unseren Text in Kursivschrift umwandeln, die in das zu bearbeitende Bild eingegeben wird, während wir ein Bild mithilfe der Wasserzeichen-Fotofunktion von safeimagekit.com ändern?",
+            "answer": "Ja, mit der Funktion für Wasserzeichen-Fotos von safeimagekit.com kann der Benutzer den im Bild eingegebenen Text in das Kursivformat konvertieren. Auf diese Funktion kann zugegriffen werden, indem Sie auf die Schaltfläche „I“ klicken, die für Kursivschrift steht. Dadurch wird der auf dem Bild vorhandene Text in Kursivschrift umgewandelt. Nach der Konvertierung klicken Sie auf die Schaltfläche „Speichern“. Dadurch wird der Fortschritt gespeichert, der mit dem Bild erzielt wurde."
         },
         {
-            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "Können wir unseren Text von schlicht in fett umwandeln, was in dem zu bearbeitenden Bild eingegeben wird, während wir ein Bild mithilfe der Wasserzeichen-Fotofunktion von safeimagekit.com ändern?",
+            "answer": "Ja, mit der Funktion für Wasserzeichen-Fotos von safeimagekit.com kann der Benutzer den einfachen Text in fetten Text konvertieren, der auf dem Bild eingegeben wird. Auf diese Funktion kann zugegriffen werden, indem Sie auf die Schaltfläche „B“ klicken, die für fett steht. Dadurch wird der auf dem Bild vorhandene Klartext in fetten Text umgewandelt. Nach der Konvertierung klicken Sie auf die Schaltfläche „Speichern“. Dadurch wird der Fortschritt gespeichert, der mit dem Bild erzielt wurde."
         },
         {
-            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
+            "question": "Können wir den Text unterstreichen, der auf dem zu bearbeitenden Bild geschrieben ist, während wir ein Bild mithilfe der Funktion für Wasserzeichenfotos von safeimagekit.com ändern?",
+            "answer": "Ja, mit der Funktion für Wasserzeichen-Fotos von safeimagekit.com kann der Benutzer den Text unterstreichen, der in das Bild eingefügt wird. Auf diese Funktion kann zugegriffen werden, indem Sie auf die Schaltfläche „U“ klicken, die für Unterstrichen steht. Dadurch wird der Text (normal) in unterstrichenen Text auf dem Bild umgewandelt. Nach der Konvertierung klicken Sie auf die Schaltfläche „Speichern“. Dadurch wird der Fortschritt gespeichert, der mit dem Bild erzielt wurde."
         },
         {
-            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Wie können wir den Text, der in das zu bearbeitende Bild eingegeben wird, einfärben, während wir ein Bild mithilfe der Funktion „Wasserzeichenfotos“ von safeimagekit.com ändern?",
+            "answer": "Mit der Funktion für Wasserzeichenfotos von safeimagekit.com kann der Benutzer den Text auf dem Bild einfärben. Auf diese Option kann zugegriffen werden, indem Sie auf das schwarze Feld neben allen Hauptfunktionen klicken. Nachdem Sie auf das schwarze Feld gedrückt haben, wird das Farbfeld angezeigt und der Benutzer kann auf jede Farbe zugreifen, um auf den Text zu malen."
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Wird meine Datei gespeichert, nachdem ich die Arbeit am Tool zur Generierung von Wasserzeichen abgeschlossen habe? ",
+            "answer": "Nein, wir senden keine Ihrer Dateien an unsere Server. Alle Vorgänge werden im Browser selbst ausgeführt, daher sind alle Ihre Dateien absolut sicher. "
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Muss ich mich zusätzlich anmelden oder extra bezahlen, um das Wasserzeichengenerator-Tool nutzen zu können? ",
+            "answer": "Absolut nicht, unser Tool ist vollständig online und erfordert nicht, dass Sie Ihre persönlichen Daten wie E-Mail-ID, Passwörter usw. an uns weitergeben. Unser Tool ist völlig kostenlos."
+        },
+        {
+            "question": "Wie kommuniziere ich, wenn ich Probleme habe oder Vorschläge machen möchte?",
+            "answer": "Wir nehmen gerne alle Probleme oder Vorschläge aller Benutzer auf. Bitte kontaktieren Sie uns über unsere Social-Media-Handles für weitere Informationen. SafeimageKit.com ist auf allen führenden Social-Media-Websites wie Facebook, Instagram, YouTube und LinkedIn usw. verfügbar."
         }
     ],
     "jscdns": [

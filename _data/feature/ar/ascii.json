@@ -64,76 +64,76 @@
     ],
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "هل من الآمن السماح بالوصول إلى محرك الأقراص الخاص بي؟",
+            "answer": "نعم، من الآمن تمامًا السماح لنا بالوصول إلى محرك الأقراص الخاص بك. لن نقوم بإجراء أي تغييرات على موقعك وستكون ملفاتك آمنة معك."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "كيف يمكنني تحميل الملفات من محرك الأقراص الخاص بي/dropbox؟",
+            "answer": "انقر فوق السهم المنسدل وحدد Dropbox/Google Drive. حدد حساب Google من حيث تريد ربط محرك الأقراص الخاص بك. الآن يمكنك تحديد الملفات التي تريد تحميلها."
         },
         {
-            "question": "What is ASCII art and how is it used?",
-            "answer": "ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters). The basic ASCII art is made up of simple based characters which include commas, full stops, and colons, etc."
+            "question": "ما هو فن ASCII وكيف يتم استخدامه؟",
+            "answer": "فن ASCII هو أسلوب تصميم جرافيك يستخدم أجهزة الكمبيوتر للعرض ويتكون من صور مجمعة معًا من 95 حرفًا قابلة للطباعة (من إجمالي 128) تم تحديدها بواسطة ASCII Standard من 1963 ومجموعات أحرف متوافقة مع ASCII مع أحرف ممتدة ملكية (تتجاوز 128 حرفًا). يتكون فن ASCII الأساسي من أحرف بسيطة تتضمن الفواصل، والتوقفات الكاملة، والنقطتين، إلخ."
         },
         {
-            "question": "What are the features offered by the image to ASCII art generator from safeimagekit.com while, converting an image to ASCII art?",
-            "answer": "The image to ASCII art generator tool from safeimagekit.com offers versatile features while converting an image to ASCII art. The main features include- conversion of the image to an ASCII art form, downloading the ASCII art, etc. Many more features are yet to join the website."
+            "question": "ما هي الميزات التي تقدمها الصورة لمولد الفن ASCII من safeimagekit.com أثناء تحويل صورة إلى فن ASCII؟",
+            "answer": "توفر الصورة إلى أداة مولد الفن ASCII من safeimagekit.com ميزات متعددة الاستخدامات أثناء تحويل صورة إلى فن ASCII. وتشمل الميزات الرئيسية- تحويل الصورة إلى شكل فني ASCII، وتنزيل فن ASCII، وما إلى ذلك العديد من الميزات الأخرى لم تنضم بعد إلى الموقع."
         },
         {
-            "question": "How do we convert an image to ASCII art using the image to ASCII art generator from safeimagekit.com?",
-            "answer": "There are 3 basic steps using which the user can easily convert the image to ASCII art-\n-\tUpload the image file which needs a conversion in the space given.\n-\tWait until the uploaded image file converts into an ASCII art format.\n-\tDownload the ASCII art form using the option called “download”."
+            "question": "كيف نقوم بتحويل صورة إلى فن ASCII باستخدام الصورة إلى مولد الفن ASCII من safeimagekit.com؟",
+            "answer": "هناك 3 خطوات أساسية يمكن للمستخدم من خلالها تحويل الصورة بسهولة إلى ASCII art-\n- قم بتحميل ملف الصورة الذي يحتاج إلى تحويل في المساحة المحددة.\n- انتظر حتى يتحول ملف الصورة الذي تم تحميله إلى تنسيق فني ASCII.\n- قم بتنزيل نموذج ASCII الفني باستخدام الخيار المسمى «تنزيل»."
         },
         {
-            "question": "Which are the image formats supported by the image to ASCII art generator while converting an image to ASCII art?",
-            "answer": "The image to ASCII art generator from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
+            "question": "ما هي تنسيقات الصور التي تدعمها الصورة إلى مولد ASCII الفني أثناء تحويل صورة إلى فن ASCII؟",
+            "answer": "تدعم الصورة إلى مولد الفن ASCII من safeimagekit.com جميع تنسيقات الصور الرائدة والشائعة الموجودة هناك. وتشمل هذه\n- تنسيق Png\n- تنسيق Jpeg\n- تنسيق jpg\n- تنسيق خام، إلخ."
         },
         {
-            "question": "How many image files can we convert at a single stretch using the image to ASCII art converter tool from safeimagekit.com?",
-            "answer": "Currently, the image to ASCII art converter tool from safeimagekit.com can convert the image files one by one. The converter tool from safeimagekit.com do have to go through a staple of codes which makes multiple conversions a bit difficult. But, updates to the website will bring all the exciting features in the future."
+            "question": "كم عدد ملفات الصور التي يمكننا تحويلها على امتداد واحد باستخدام الصورة إلى أداة تحويل الفن ASCII من safeimagekit.com؟",
+            "answer": "حاليا، يمكن للصورة إلى أداة تحويل الفن ASCII من safeimagekit.com تحويل ملفات الصور واحدة تلو الأخرى. يجب أن تمر أداة المحول من safeimagekit.com من خلال عنصر أساسي من الرموز مما يجعل التحويلات المتعددة صعبة بعض الشيء. ولكن التحديثات على الموقع ستجلب جميع الميزات المثيرة في المستقبل."
         },
         {
-            "question": "Can I upload and convert my jpeg image file to an ASCII art format using the image to ASCII art converter?",
-            "answer": "Yes, the user can upload and convert the jpeg image file to an ASCII art format using the image to ASCII art converter. However, after conversion, the ASCII art which is generated will be available in png format only. So, the user can upload any format of an image and can convert his image to ASCII art."
+            "question": "هل يمكنني تحميل وتحويل ملف صورة jpeg الخاص بي إلى تنسيق فني ASCII باستخدام الصورة إلى محول الفن ASCII؟",
+            "answer": "نعم، يمكن للمستخدم تحميل وتحويل ملف صورة jpeg إلى تنسيق art ASCII باستخدام الصورة إلى محول الفن ASCII. ومع ذلك، بعد التحويل، سيكون فن ASCII الذي يتم إنشاؤه متاحًا بتنسيق png فقط. لذلك، يمكن للمستخدم تحميل أي تنسيق للصورة ويمكنه تحويل صورته إلى فن ASCII."
         },
         {
-            "question": "Do we have to use any additional software to download our images after conversion using the image to ASCII art converter from safeimagekit.com?",
-            "answer": "No, the users after converting their images to ASCII art can hit the download the option which is given below and can download the ASCII art. It is a browser-based converter tool that does not support or no additional software is required to download the ASCII art forms."
+            "question": "هل يتعين علينا استخدام أي برنامج إضافي لتنزيل صورنا بعد التحويل باستخدام الصورة إلى محول الفن ASCII من safeimagekit.com؟",
+            "answer": "لا، يمكن للمستخدمين بعد تحويل صورهم إلى فن ASCII الوصول إلى خيار التنزيل الموضح أدناه ويمكنهم تنزيل فن ASCII. إنها أداة تحويل قائمة على المتصفح لا تدعم أو لا يلزم وجود برامج إضافية لتنزيل نماذج ASCII الفنية."
         },
         {
-            "question": "Can I use the image to ASCII art converter tool from safeimagekit.com without having any knowledge about basic C-programming?",
-            "answer": "Yes, our image to ASCII art converter tool from safeimagekit.com can be used by everybody. Our image to ASCII art generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
+            "question": "هل يمكنني استخدام الصورة لأداة تحويل الفن ASCII من safeimagekit.com دون معرفة حول البرمجة C الأساسية؟",
+            "answer": "نعم، يمكن للجميع استخدام صورتنا إلى أداة تحويل الفن ASCII من safeimagekit.com. من السهل جدًا فهم صورتنا لمولد الفن ASCII ولا حاجة إلى معرفة مهنية حول البرمجة C للعمل على أداتنا."
         },
         {
-            "question": "Will my uploaded image file corrupt after converting them using the conversion options present in the image to ASCII art conversion tool from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "هل سيتلف ملف الصورة الذي تم تحميله بعد تحويلها باستخدام خيارات التحويل الموجودة في الصورة إلى أداة تحويل الفن ASCII من safeimagekit.com؟",
+            "answer": "لا، تم إنشاء safeimagekit.com مع أحدث البرامج وميزات الأمان التي لا تسمح لملفات الصور التي تم تحميلها بالتلف. لذا، فإن ملفات الصور التي تم تحميلها آمنة تمامًا ومضمونة."
         },
         {
-            "question": "Can I use the image to ASCII art converter tool from safeimagekit.com on my Apple iPhone 12? ",
-            "answer": "Yes, the image to ASCII art converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the image file which is uploaded to be converted into ASCII art."
+            "question": "هل يمكنني استخدام الصورة لأداة تحويل الفن ASCII من safeimagekit.com على جهاز Apple iPhone 12 الخاص بي؟ ",
+            "answer": "نعم، الصورة إلى أداة تحويل الفن ASCII من safeimagekit.com هو موقع ويب قائم على الأنظمة الأساسية حيث يمكن للمستخدم استخدام أداة المحول هذه من أنظمة التشغيل مثل Android و iOS و Windows و Mac OS. إنه مستقل عن أنظمة التشغيل المستخدمة ولكنه يعتمد فقط على اتصال الإنترنت وحجم ملف الصورة الذي يتم تحميله ليتم تحويله إلى فن ASCII."
         },
         {
-            "question": "Can I use the image to ASCII art converter tool from safeimagekit.com on my Windows 8?",
-            "answer": "The image to ASCII art converter tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "هل يمكنني استخدام الصورة إلى أداة تحويل الفن ASCII من safeimagekit.com على نظام التشغيل Windows 8 الخاص بي؟",
+            "answer": "الصورة إلى أداة تحويل الفن ASCII هي ميزة متعددة الاستخدامات تقدمها safeimagekit.com والتي تدعمها جميع أنظمة التشغيل الموجودة مثل Windows 8 و Linux وحتى Ubuntu. كل ما يتطلبه الأمر هو جهاز لفتح ملف التمديد باستخدام موقع www.safeimagekit.com واتصال إنترنت عادي للوقوف عليه. الحقيقة الممتعة هي أنه يمكن تشغيلها حتى على اتصال إنترنت أبطأ."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image to ASCII art converter tool from safeimagekit.com?",
-            "answer": "The image to ASCII art converter tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "ماذا سيحدث لتقدمنا إذا قمنا بتحديث متصفحنا أثناء استخدامنا للصورة إلى أداة تحويل الفن ASCII من safeimagekit.com؟",
+            "answer": "لا يتم توصيل الصورة إلى أداة تحويل الفن ASCII من safeimagekit.com بأي خادم هناك، لذلك لن يتم تخزين البيانات التي يعمل عليها المستخدم في أي مكان ونتيجة لذلك، سيتم محوها على الفور عندما يقوم المستخدم بتحديث المتصفح الذي يعمل عليه. ستتم أيضًا إزالة ملف الصورة الذي يتم تحويله بعد خروج المستخدم أو إغلاقه علامة التبويب التي تفتح عليها صفحة الامتداد الخاصة بموقع الويب."
         },
         {
-            "question": "Can we edit the text present in the image file using the image to ASCII art converter tool from safeimagekit.com?",
-            "answer": "No, currently safeimagekit.com only supports the option to convert the image file uploaded to ASCII art, and we cannot edit the text present on the image file. But updates to the website will bring all the exciting features soon."
+            "question": "هل يمكننا تحرير النص الموجود في ملف الصورة باستخدام الصورة إلى أداة تحويل الفن ASCII من safeimagekit.com؟",
+            "answer": "لا، يدعم safeimagekit.com حاليًا خيار تحويل ملف الصورة الذي تم تحميله إلى ASCII art، ولا يمكننا تحرير النص الموجود في ملف الصورة. لكن التحديثات على الموقع ستجلب جميع الميزات المثيرة قريبًا."
         },
         {
-            "question": "Will my file be saved after I complete working on the picture to ascii conversion tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "هل سيتم حفظ ملفي بعد الانتهاء من العمل على الصورة إلى أداة تحويل ascii؟ ",
+            "answer": "لا، نحن لا نرسل أيًا من ملفاتك إلى خوادمنا، تتم جميع العمليات على المتصفح نفسه وبالتالي فإن جميع ملفاتك آمنة تمامًا. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the picture to ascii conversion tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "هل يتعين علي القيام بأي تسجيل إضافي أو دفع مبلغ إضافي لاستخدام الصورة لأداة تحويل ascii؟ ",
+            "answer": "بالتأكيد لا، لدينا أداة على الانترنت تماما ولا تتطلب منك مشاركة أي من المعلومات الشخصية الخاصة بك معنا، مثل معرف البريد الإلكتروني وكلمات المرور الخ لدينا أداة خالية تماما من التكلفة."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "كيف يمكنني التواصل إذا واجهت أي مشاكل أو إذا كنت أرغب في تقديم أي اقتراحات؟",
+            "answer": "نحن بكل سرور نأخذ في أي مشكلة أو اقتراحات يقدمها جميع المستخدمين، يرجى الاتصال بنا من خلال مقابض وسائل التواصل الاجتماعي الخاصة بنا للحصول على مزيد من المعلومات. Safeimagekit.com متاح على جميع مواقع التواصل الاجتماعي الرائدة مثل Facebook و Instagram و YouTube و LinkedIn وما إلى ذلك."
         }
     ],
     "jscdns": [

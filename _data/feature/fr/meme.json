@@ -1,16 +1,16 @@
 {
     "Language": "Français",
     "htmlLangAtt": "fr",
-    "H1": "Générateur de mèmes",
+    "H1": "Générateur de mèmes avancé en ligne",
     "img": "/img/meme.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "succès",
-    "H2": "Le créateur de mèmes en ligne a été simplifié avec nous, commencez par télécharger votre fichier ci-dessous",
+    "H2": "La création de mèmes est maintenant facile par nous, commencez par télécharger votre fichier ci-dessous",
     "TITLE": "Générateur de mèmes - créateur de mèmes en ligne - safeimagekit",
-    "META": "Vous recherchez un générateur de mèmes de haute qualité ? Eh bien, vous êtes au bon endroit. Notre outil de création de mèmes en ligne est extrêmement sûr, convivial et super rapide.",
+    "META": "Êtes-vous à la recherche d'un générateur de mèmes de haute qualité ? Eh bien, alors vous êtes au bon endroit. Notre outil de création de mèmes en ligne est extrêmement sûr, convivial et super rapide.",
     "width": "",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
@@ -20,13 +20,13 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "De haute qualité",
-            "content": "Notre outil de génération de mèmes génère des mèmes de très haute qualité."
+            "content": "Notre outil générateur de mèmes génère des mèmes de très haute qualité."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Sécurité des données",
-            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs"
+            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs."
         },
         {
             "priority": 1,
@@ -50,7 +50,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Aucun téléchargement supplémentaire",
-            "content": "Notre outil de génération de mèmes est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est nécessaire pour être téléchargé sur votre appareil."
+            "content": "Notre outil de génération de mèmes est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est requis pour être téléchargé sur votre appareil."
         }
     ],
     "HOW_TO_CONTENT": {
@@ -59,72 +59,72 @@
         "steps": [
             "Téléchargez le fichier image ou cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive et sélectionnez l'image à convertir en MEME.",
             "Ajustez les paramètres pour obtenir un meilleur mème.",
-            "Téléchargez une image ou ajoutez du texte pour améliorer un mème.",
+            "Téléchargez une image ou ajoutez du texte qui améliore un mème.",
             "Cliquez sur l'option Enregistrer pour enregistrer les modifications apportées.",
             "Téléchargez le MEME à l'aide de l'option de téléchargement.",
-            "Vive ! le MEME est prêt à basculer."
+            "Hourra ! ! le MEME est prêt à basculer."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Est-ce que je peux autoriser l'accès à mon disque dur en toute sécurité ?",
+            "answer": "Oui, il est absolument sûr de nous autoriser et de nous donner accès à votre lecteur. Nous n'apporterons aucune modification à votre site et vos fichiers seront en sécurité avec vous."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Comment puis-je télécharger des fichiers depuis mon lecteur/ma boîte de dépôt ?",
+            "answer": "Cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive. Sélectionnez le compte Google auquel vous souhaitez associer votre lecteur. Vous pouvez maintenant sélectionner les fichiers que vous souhaitez télécharger."
         },
         {
-            "question": "What are the features offered by the meme generator from safeimagekit.com while crafting a meme from an image?",
-            "answer": "The meme generator tool from safeimagekit.com offers versatile features while crafting a meme from the uploaded image. The main features include\n-\tInsertion of text on the uploaded image file.\n-\tAdjusting the transparency of the text uploaded.\n-\tAdjusting the font size of the text to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image on an image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the text by Italics.\n-\tAdjusting the boldness of the text to be inserted.\n-\tUnderlining features of the text.\n-\tUpgrading the meme with color options."
+            "question": "Quelles sont les fonctionnalités offertes par le générateur de mèmes de safeimagekit.com lors de la création d'un mème à partir d'une image ?",
+            "answer": "L'outil générateur de mèmes de safeimagekit.com offre des fonctionnalités polyvalentes tout en créant un mème à partir de l'image téléchargée. Les principales caractéristiques sont les suivantes :\n- Insertion de texte dans le fichier image téléchargé.\n- Réglage de la transparence du texte téléchargé.\n- Réglage de la taille de la police du texte à insérer.\n- Modification de la valeur du trait\n- Insertion d'une image sur une image\n- Réglage de la valeur de l'ombre sur le fichier image téléchargé.\n- Modification du texte en italique.\n- Réglage de la mise en gras du texte à insérer.\n- Caractéristiques de soulignement du texte.\n- Mise à niveau du mème avec des options de couleur."
         },
         {
-            "question": "How does the text insertion option of meme generator from safeimagekit.com work?",
-            "answer": "The text insertion option of meme generator from safeimagekit.com, lets the user add text on the image file which is to be generated as a meme. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text."
+            "question": "Comment fonctionne l'option d'insertion de texte du générateur de mèmes de safeimagekit.com ?",
+            "answer": "L'option d'insertion de texte du générateur de mèmes de safeimagekit.com permet à l'utilisateur d'ajouter du texte sur le fichier image qui doit être généré en tant que mème. Le texte ajouté peut être ajusté et modifié à l'aide de plusieurs fonctionnalités telles que le réglage des couleurs, l'épaisseur du texte, etc. Les options de réglage des couleurs permettent à l'utilisateur d'ajouter de la couleur au texte, d'autre part, l'épaisseur du texte permet à l'utilisateur d'ajuster la taille du texte."
         },
         {
-            "question": "How does the transparency adjustment option of the meme generator from safeimagekit.com work?",
-            "answer": "The transparency adjustment option of the meme generator from safeimagekit.com lets the user adjust the transparency and opacity of the text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. "
+            "question": "Comment fonctionne l'option de réglage de la transparence du générateur de mèmes de safeimagekit.com ?",
+            "answer": "L'option de réglage de la transparence du générateur de mèmes de safeimagekit.com permet à l'utilisateur de régler la transparence et l'opacité du texte ou de l'image téléchargée. Cette option est disponible dans la partie centrale de la page, l'option de transparence est donnée sur une échelle allant de 0,1 à 1. Cet ajustement est effectué et peut être enregistré en cliquant sur l'option Enregistrer. "
         },
         {
-            "question": "How do we adjust the font size of the text while generating a meme using the meme generator from safeimagekit.com?",
-            "answer": "The font size of the text while generating a meme using the meme generator from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+            "question": "Comment ajuster la taille de la police du texte lors de la génération d'un mème à l'aide du générateur de mèmes de safeimagekit.com ?",
+            "answer": "La taille de la police du texte lors de la génération d'un mème à l'aide du générateur de mèmes de safeimagekit.com peut être ajustée en saisissant le facteur de taille. Cette option est accessible en saisissant la taille valide dans l'espace nommé « Entrez la taille de la police ». La taille peut être ajustée en saisissant une valeur dans cet espace. La taille de la police du texte peut être augmentée en saisissant les valeurs qui sont en valeur positive (+). La taille de la police du texte peut être réduite en saisissant les valeurs qui sont en valeur négative (-)."
         },
         {
-            "question": "How does the stroke value work in the image conversion in meme generator from safeimagekit.com?",
-            "answer": "The stroke value of the meme generator from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
+            "question": "Comment fonctionne la valeur du trait dans la conversion d'image dans le générateur de mèmes de safeimagekit.com ?",
+            "answer": "La valeur du trait du générateur de mèmes de safeimagekit.com fonctionne en ajustant la couleur du texte ou d'une image insérée dans l'image pour édition. Cette valeur est accessible en saisissant une valeur dans l'espace prévu à cet effet appelée « Entrez la valeur du trait ». La valeur du trait de l'image lors de sa conversion en mème peut être ajustée en saisissant une valeur positive (+) pour augmenter le trait. La valeur de course peut être diminuée en saisissant une valeur négative (-) pour diminuer la course."
         },
         {
-            "question": "Can we insert an image on another image while creating a meme using the meme generator from safeimagekit.com?",
-            "answer": "Yes, the meme generator from safeimagekit.com does provide the option to insert an image on another image while creating a meme. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
+            "question": "Pouvons-nous insérer une image sur une autre image lors de la création d'un mème à l'aide du générateur de mèmes de safeimagekit.com ?",
+            "answer": "Oui, le générateur de mèmes de safeimagekit.com offre la possibilité d'insérer une image sur une autre image lors de la création d'un mème. Cette fonctionnalité est accessible en bas de la page intitulée « télécharger une image ». Cette fonctionnalité nous permet de coller une image sur une autre image, c'est une fonction nominale où nous pouvons insérer n'importe quel type d'image sur n'importe quel type d'image. L'image après édition et insertion peut être enregistrée en appuyant sur l'option appelée « enregistrer », ce qui enregistre la progression de l'image."
         },
         {
-            "question": "Can we convert our text to Italics which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
-            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
+            "question": "Pouvons-nous convertir notre texte en italique qui est saisi sur l'image en cours d'édition, tout en créant un mème à l'aide du générateur de mèmes de safeimagekit.com ?",
+            "answer": "Oui, le générateur de mèmes de safeimagekit.com permet à l'utilisateur de convertir le texte saisi sur l'image au format italique. Cette fonction est accessible en appuyant sur le bouton « I » qui signifie italique, ce qui convertit le texte présent sur l'image en italique. Après la conversion, cliquez sur le bouton « Enregistrer ». Cela permet d'enregistrer la progression de l'image."
         },
         {
-            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
-            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "Pouvons-nous convertir notre texte du brut au gras, qui est saisi sur l'image en cours d'édition, tout en créant un mème à l'aide du générateur de mèmes de safeimagekit.com ?",
+            "answer": "Oui, le générateur de mèmes de safeimagekit.com permet à l'utilisateur de convertir le texte brut en texte gras saisi sur l'image. Cette fonctionnalité est accessible en appuyant sur le bouton « B » qui signifie gras, ce qui convertit le texte brut présent sur l'image en texte gras. Après la conversion, cliquez sur le bouton « Enregistrer ». Cela permet d'enregistrer la progression de l'image."
         },
         {
-            "question": "Can we underline the text, which is written on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
-            "answer": "Yes, the meme generator from safeimagekit.com lets the user to underline the text which is inserted into the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "Pouvons-nous souligner le texte, qui est écrit sur l'image en cours d'édition, lors de la création d'un mème à l'aide du générateur de mèmes de safeimagekit.com ?",
+            "answer": "Oui, le générateur de mèmes de safeimagekit.com permet à l'utilisateur de souligner le texte inséré dans l'image. Cette fonction est accessible en appuyant sur le bouton « U » qui signifie Souligné, ce qui convertit le texte (normal) en texte souligné sur l'image. Après la conversion, cliquez sur le bouton « Enregistrer ». Cela permet d'enregistrer la progression de l'image."
         },
         {
-            "question": "How can we color the text which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
-            "answer": "The meme generator from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
+            "question": "Comment pouvons-nous colorer le texte saisi sur l'image en cours d'édition, tout en créant un mème à l'aide du générateur de mèmes de safeimagekit.com ?",
+            "answer": "Le générateur de mèmes de safeimagekit.com permet à l'utilisateur de colorer le texte sur l'image, cette option est accessible en cliquant sur la case noire à côté de chaque fonctionnalité majeure, après avoir cliqué sur la boîte noire, la boîte de couleur apparaît et l'utilisateur peut accéder à n'importe quelle couleur à peindre sur le texte."
         },
         {
-            "question": "Will my file be saved after I complete working on the meme generator tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Mon fichier sera-t-il enregistré une fois que j'aurai fini de travailler sur l'outil générateur de mèmes ? ",
+            "answer": "Non, nous n'envoyons aucun de vos fichiers à nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même, donc tous vos fichiers sont totalement sécurisés. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the meme generator tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Dois-je faire une inscription supplémentaire ou payer un supplément pour utiliser l'outil générateur de mèmes ? ",
+            "answer": "Absolument pas, notre outil est entièrement en ligne et ne vous oblige pas à partager vos informations personnelles avec nous, telles que votre adresse e-mail, vos mots de passe, etc."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Comment communiquer si je rencontre des problèmes ou si je souhaite faire des suggestions ?",
+            "answer": "Nous sommes heureux de prendre en compte tous les problèmes ou suggestions proposés par tous les utilisateurs, veuillez nous contacter via nos identifiants de réseaux sociaux pour plus d'informations. SafeImageKit.com est disponible sur tous les principaux sites de médias sociaux tels que Facebook, Instagram, YouTube et LinkedIn, etc."
         }
     ],
     "jscdns": [

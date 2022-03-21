@@ -65,72 +65,72 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "क्या मेरे ड्राइव तक पहुँच की अनुमति देना सुरक्षित है?",
+            "answer": "हां, हमें आपके ड्राइव तक पहुंच प्रदान करना और उसे एक्सेस देना बिल्कुल सुरक्षित है। हम आपकी साइट में कोई बदलाव नहीं करेंगे और आपकी फाइलें आपके पास सुरक्षित रहेंगी।"
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "मैं अपने ड्राइव/ड्रॉपबॉक्स से फाइल कैसे अपलोड कर सकता हूं?",
+            "answer": "ड्रॉप डाउन एरो पर क्लिक करें और ड्रॉपबॉक्स/Google ड्राइव चुनें। उस Google खाते का चयन करें जहाँ से आप अपना ड्राइव लिंक करना चाहते हैं। अब आप उन फ़ाइलों का चयन कर सकते हैं जिन्हें आप अपलोड करना चाहते हैं।"
         },
         {
-            "question": "What are the features offered by the image flipper feature from safeimagekit.com while, flipping an image?",
-            "answer": "Image flipper from safeimagekit.com offers versatile features while flipping an image, where we upload the image file in the space provided and edit that image by rotating it to its left or to is its right or rotate the image with a marginal angle."
+            "question": "एक छवि को फ़्लिप करते समय safeimagekit.com से इमेज फ्लिपर फीचर द्वारा दी जाने वाली विशेषताएं क्या हैं?",
+            "answer": "Safeimagekit.com से छवि फ्लिपर एक छवि को फ़्लिप करते समय बहुमुखी विशेषताएं प्रदान करता है, जहां हम प्रदान की गई जगह में छवि फ़ाइल अपलोड करते हैं और उस छवि को उसके बाईं ओर घुमाकर संपादित करते हैं या इसके दाईं ओर या छवि को सीमांत कोण के साथ घुमाते हैं।"
         },
         {
-            "question": "How can we rotate the image file to the right, using the image flipper feature from safeimagekit.com?",
-            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the right side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
+            "question": "Safeimagekit.com से छवि फ्लिपर सुविधा का उपयोग करके हम छवि फ़ाइल को दाईं ओर कैसे घुमा सकते हैं?",
+            "answer": "पहले चरण के रूप में, हम प्रदान की गई जगह में छवि फ़ाइल अपलोड करते हैं। अगला कदम वेबसाइट safeimagekit.com द्वारा किया जाएगा जहां यह छवि को स्थिर करता है। आवश्यकता के आधार पर उपयोगकर्ता प्रदान की गई जगह पर कोण डालने से छवि को दाईं ओर घुमाएगा। उपयुक्त कोण में प्रवेश करने के बाद, “रोटेट” बटन दबाएं जो कोण के अनुसार छवि को घुमाता है। किए गए परिवर्तनों को सहेजने के लिए “सहेजें” बटन दबाएं।"
         },
         {
-            "question": "How can we rotate the image file to the left, using the image flipper feature from safeimagekit.com?",
-            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the left side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
+            "question": "Safeimagekit.com से छवि फ्लिपर सुविधा का उपयोग करके, हम छवि फ़ाइल को बाईं ओर कैसे घुमा सकते हैं?",
+            "answer": "पहले चरण के रूप में, हम प्रदान की गई जगह में छवि फ़ाइल अपलोड करते हैं। अगला कदम वेबसाइट safeimagekit.com द्वारा किया जाएगा जहां यह छवि को स्थिर करता है। आवश्यकता के आधार पर उपयोगकर्ता प्रदान की गई जगह पर कोण डालने से छवि को बाईं ओर घुमाएगा। उपयुक्त कोण में प्रवेश करने के बाद, “रोटेट” बटन दबाएं जो कोण के अनुसार छवि को घुमाता है। किए गए परिवर्तनों को सहेजने के लिए “सहेजें” बटन दबाएं।"
         },
         {
-            "question": "Will my uploaded image files corrupt after rotating the image files using the image flipper file feature from safeimagefkit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "क्या safeimagefkit.com से छवि फ़्लिपर फ़ाइल सुविधा का उपयोग करके छवि फ़ाइलों को घुमाने के बाद मेरी अपलोड की गई छवि फ़ाइलें दूषित हो जाएंगी?",
+            "answer": "नहीं, safeimagekit.com सभी नवीनतम कार्यक्रमों और सुरक्षा सुविधाओं के साथ बनाया गया है जो अपलोड की गई छवि फ़ाइलों को भ्रष्ट करने की अनुमति नहीं देता है। इसलिए, अपलोड की गई छवि फाइलें पूरी तरह से सुरक्षित और सुरक्षित हैं।"
         },
         {
-            "question": "Can we rotate the image files which are locked, using the image flipper feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the image flipper feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking pdfs as well as image files in case the user loses his password for his locked image file."
+            "question": "क्या हम safeimagekit.com से छवि फ्लिपर सुविधा का उपयोग करके लॉक की गई छवि फ़ाइलों को घुमा सकते हैं?",
+            "answer": "नहीं, हम उस छवि फ़ाइल को अपलोड नहीं कर सकते हैं जो लॉक है क्योंकि उस विशेष छवि फ़ाइल तक पहुंच अवरुद्ध है। इसलिए, safeimagekit.com से छवि फ़्लिपर सुविधा का उपयोग करने के लिए हमें उन छवि फ़ाइलों को अपलोड करने की आवश्यकता है जो लॉक नहीं हैं। लेकिन उपयोगकर्ता safeimagekit.com से पासवर्ड खोजक एक्सटेंशन की जांच कर सकता है जो विशेष रूप से पीडीएफ के साथ-साथ छवि फ़ाइलों को अनलॉक करने के लिए बनाया जाता है यदि उपयोगकर्ता अपनी लॉक की गई छवि फ़ाइल के लिए अपना पासवर्ड खो देता है।"
         },
         {
-            "question": "Can I use the image flipper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image flipper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image flipper extension on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The main trick is that it even works on a slower internet connection."
+            "question": "क्या मैं अपने LINUX ऑपरेटिंग सिस्टम पर safeimagekit.com से छवि फ्लिपर सुविधा का उपयोग कर सकता हूं?",
+            "answer": "हां, safeimagekit.com से छवि फ़्लिपर सुविधा का उपयोग किसी भी ऑपरेटिंग सिस्टम, यहां तक कि LINUX पर भी किया जा सकता है। यह नवीनतम कोड और सुविधाओं के साथ बनाया गया है जो उपयोगकर्ता को मैक ओएस, विंडोज और उबंटू जैसे किसी भी ऑपरेटिंग सिस्टम पर छवि फ्लिपर एक्सटेंशन का उपयोग करने में सक्षम बनाता है, बशर्ते एक स्थिर इंटरनेट कनेक्शन वाला डिवाइस हो। मुख्य चाल यह है कि यह धीमे इंटरनेट कनेक्शन पर भी काम करता है।"
         },
         {
-            "question": "Can I use the image flipper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image flipper extension from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "क्या मैं iOS डिवाइस पर safeimagekit.com से छवि फ्लिपर सुविधा का उपयोग कर सकता हूं?",
+            "answer": "हां, safeimagekit.com से इमेज फ्लिपर एक्सटेंशन का उपयोग iOS डिवाइस और यहां तक कि एंड्रॉइड डिवाइस पर भी किया जा सकता है। यह नवीनतम सुविधाओं के साथ बनाया गया है जो उपयोगकर्ता को किसी भी ऑपरेटिंग सिस्टम पर इस एक्सटेंशन फ़ाइल का उपयोग करने के लिए प्रदान करते हैं, सभी को इंटरनेट कनेक्शन और एक अच्छे वेब ब्राउज़र की आवश्यकता होती है।"
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image flipper from safeimagekit.com?",
-            "answer": "The image flipper feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the rotate image page website is open."
+            "question": "अगर हम safeimagekit.com से इमेज फ्लिपर का उपयोग कर रहे हैं, तो हम अपने ब्राउज़र को रीफ्रेश करते हैं तो हमारी प्रगति का क्या होगा?",
+            "answer": "Safeimagekit.com से छवि फ़्लिपर सुविधा किसी भी सर्वर से कनेक्ट नहीं है, इसलिए उपयोगकर्ता जिस डेटा पर काम कर रहा है वह कहीं भी संग्रहीत नहीं किया जाएगा और परिणामस्वरूप, जब उपयोगकर्ता ब्राउज़र को रीफ्रेश करेगा तो इसे तुरंत मिटा दिया जाएगा जिस पर वह काम कर रहा है। जिन छवि फ़ाइलों पर काम किया जाता है, उन्हें उपयोगकर्ता के बाहर निकलने के बाद भी हटा दिया जाएगा या उस टैब को बंद कर दिया जाएगा जिस पर रोटेट इमेज पेज वेबसाइट खुली है।"
         },
         {
-            "question": "How can I save the changes made to the image file using the image flipper feature from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the “enter the rotation angle” option to change the orientation of the image. Then, use the rotate option to start the rotation, the rotation will be instantaneous and will be finished within a second. Then, use the save option which is given on the right of the website, this saves the changes made to the pages of the image file and then downloads the image file which is modified by using the option called “download”."
+            "question": "मैं safeimagekit.com से छवि फ़्लिपर सुविधा का उपयोग करके छवि फ़ाइल में किए गए परिवर्तनों को कैसे सहेज सकता हूं?",
+            "answer": "सबसे पहले, एक छवि फ़ाइल अपलोड करें जिसमें परिवर्तन की आवश्यकता है, फिर छवि के अभिविन्यास को बदलने के लिए “रोटेशन कोण दर्ज करें” विकल्प का उपयोग करें। फिर, रोटेशन शुरू करने के लिए रोटेट विकल्प का उपयोग करें, रोटेशन तात्कालिक होगा और एक सेकंड के भीतर समाप्त हो जाएगा। फिर, वेबसाइट के दाईं ओर दिए गए सेव विकल्प का उपयोग करें, यह छवि फ़ाइल के पृष्ठों में किए गए परिवर्तनों को सहेजता है और फिर छवि फ़ाइल को डाउनलोड करता है जिसे “डाउनलोड” नामक विकल्प का उपयोग करके संशोधित किया जाता है।"
         },
         {
-            "question": "Which are the image formats supported by the image flipper from safeimagekit.com while, rotating an image?",
-            "answer": "The image flipper from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
+            "question": "एक छवि को घुमाने के दौरान safeimagekit.com से छवि फ्लिपर द्वारा समर्थित छवि प्रारूप कौन से हैं?",
+            "answer": "Safeimagekit.com से इमेज फ्लिपर सभी प्रमुख और लोकप्रिय छवि प्रारूपों का समर्थन करता है। इनमें शामिल हैं-\n- पीएनजी फॉर्मेट\n- जेपीईजी प्रारूप\n- जेपीजी फॉर्मेट\n- रॉ प्रारूप, आदि।"
         },
         {
-            "question": "Do the safeimagekit.com support pdfs and. word format files?",
-            "answer": "Currently, safeimagekit.com does not support any format save the image type formats. The image flipper feature only works for image files and updates to the website will bring support to all the formats including pdf and. word formats."
+            "question": "क्या safeimagekit.com पीडीएफ और. शब्द प्रारूप फ़ाइलों का समर्थन करता है?",
+            "answer": "वर्तमान में, safeimagekit.com छवि प्रकार स्वरूपों को सहेजने के लिए किसी भी प्रारूप का समर्थन नहीं करता है। छवि फ़्लिपर सुविधा केवल छवि फ़ाइलों के लिए काम करती है और वेबसाइट के अपडेट पीडीएफ और शब्द प्रारूपों सहित सभी प्रारूपों के लिए समर्थन लाएंगे।"
         },
         {
-            "question": "Can we use reflex angle rotations to rotate our image using the image flipper from safeimagekit.com?",
-            "answer": "Reflex angles are the types of angles whose degree measurement is more than 180° but less than 360°. Common examples of reflex angles are; 200°, 220°, 250°, 300°, 350°, etc. yes, the image flipper feature from safeimagekit.com do support the rotation of images with reflex angles. Just enter the reflex angle in “enter the rotation angle space” and hit the rotate option to flip the image. Hit the save button after that to save the changes made to the image. Finally, hit the download button to download the image."
+            "question": "क्या हम safeimagekit.com से छवि फ्लिपर का उपयोग करके अपनी छवि को घुमाने के लिए रिफ्लेक्स कोण घुमाव का उपयोग कर सकते हैं?",
+            "answer": "रिफ्लेक्स कोण कोण के प्रकार होते हैं जिनकी डिग्री माप 180° से अधिक लेकिन 360° से कम होती है। रिफ्लेक्स कोण के सामान्य उदाहरण हैं; 200°, 220°, 250°, 300°, 350°, आदि। हाँ, safeimagekit.com से छवि फ्लिपर सुविधा रिफ्लेक्स कोणों के साथ छवियों के रोटेशन का समर्थन करती है। बस “एंटर द रोटेशन एंगल स्पेस” में रिफ्लेक्स एंगल डालें और इमेज को फ्लिप करने के लिए रोटेट ऑप्शन को हिट करें। छवि में किए गए परिवर्तनों को सहेजने के लिए उसके बाद सेव बटन दबाएं। अंत में, छवि डाउनलोड करने के लिए डाउनलोड बटन दबाएं।"
         },
         {
-            "question": "Will my file be saved after I complete working on the image flipper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "छवि फ़्लिपर टूल पर काम पूरा करने के बाद क्या मेरी फ़ाइल सहेजी जाएगी? ",
+            "answer": "नहीं, हम आपकी किसी भी फाइल को हमारे सर्वर पर नहीं भेजते हैं, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं इसलिए आपकी सभी फाइलें पूरी तरह से सुरक्षित हैं। "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image flipper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "क्या मुझे इमेज फ्लिपर टूल का उपयोग करने के लिए कोई अतिरिक्त साइनअप करना होगा या अतिरिक्त भुगतान करना होगा? ",
+            "answer": "बिल्कुल नहीं, हमारा टूल पूरी तरह से ऑनलाइन है और आपको अपनी किसी भी व्यक्तिगत जानकारी को हमारे साथ साझा करने की आवश्यकता नहीं है, जैसे ईमेल आईडी, पासवर्ड आदि।"
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "यदि मैं किसी समस्या का सामना करता हूं या यदि मैं कोई सुझाव देना चाहता हूं तो मैं कैसे संवाद कर सकता हूं?",
+            "answer": "हम ख़ुशी से सभी उपयोगकर्ताओं द्वारा दिए गए किसी भी मुद्दे या सुझावों को लेते हैं, कृपया अधिक जानकारी के लिए हमारे सोशल मीडिया हैंडल के माध्यम से हमसे संपर्क करें। SafeimageKit.com सभी प्रमुख सोशल मीडिया वेबसाइटों जैसे फेसबुक, इंस्टाग्राम, यूट्यूब और लिंक्डइन आदि पर उपलब्ध है।"
         }
     ],
     "jscdns": [

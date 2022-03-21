@@ -1,16 +1,16 @@
 {
     "Language": "العربية",
     "htmlLangAtt": "ar",
-    "H1": "صورة كروبر",
+    "H1": "بيليدي كروبر",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "تحذير",
-    "H2": "أصبح اقتصاص الصور سهلاً معنا، ابدأ بتحميل ملفك أدناه",
-    "TITLE": "صورة المحاصيل - صورة المحاصيل عبر الإنترنت - مجموعة صور آمنة",
-    "META": "هل تبحث عن آلة قص صور عالية الجودة؟ حسنا، إذن أنت في المكان الصحيح. أداة اقتصاص الصور عبر الإنترنت آمنة للغاية وسهلة الاستخدام وسريعة للغاية.",
+    "variant": "advarsel",
+    "H2": "Beskæring billleder لها belvet gigort nemt ميد كوس، ابدأ ميد في تحميل الدين ملف nedenfor",
+    "TITLE": "أفضل billede - Billede afgrøde على الانترنت - مجموعة صور آمنة",
+    "META": "ليدر دو بعد أون هوج kvalitet billede المحاصيل? سا إيه دو با ديت ريجتيج ستيد. الأصوات على الانترنت billedafgrødeværktøj إيه ekstremt sikkert, brugervenligt أوج سوبر hurtight.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "جودة عالية",
-            "content": "تقوم أداة اقتصاص الصور الخاصة بنا بمحاصيل الصور من خلال الحفاظ على جودتها."
+            "header": "هوج كفاليت",
+            "content": "فوريس billede المحاصيل værktøj afgrøder billederne سري في بيفار سين kvalitet."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "أمان البيانات",
-            "content": "لا يتم إرسال أي من بياناتك على خوادمنا، ويتم تنفيذ جميع العمليات على المتصفح نفسه. هذا يمكننا من أن نكون آمنين بنسبة 100٪ لمستخدمينا"
+            "header": "داتاسيكيرهيد",
+            "content": "يرسل Ingen Af dine البيانات på vores خادم alle عامل التشغيل لكل udført هو متصفح ذاتي. Dette gør det mullit لذلك في være 100٪ المتفوق للفوات brugere"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "المرونة",
-            "content": " تعمل أداة قص الصور الخاصة بنا على جميع أنواع المتصفحات والأجهزة تقريبًا."
+            "header": "فليكسيبيليت",
+            "content": " فوريس billede المحاصيل værktøj viktøj vå næsten جميع السابق لمتصفح enheder."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "سهل الاستخدام",
-            "content": "من السهل جدًا فهم أداة قص الصور الخاصة بنا، ولا حاجة لأي محترف للعمل على أداتنا."
+            "header": "بروجيرفينليج",
+            "content": "فوريس billede المحاصيل værktøj إيه ميجيت السماح في forstå ingen المهنية إيه nødvendig ل في arbejde på فوريس værktøj."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "مجانًا",
-            "content": "أداة قص الصور الخاصة بنا خالية تمامًا من التكلفة، يمكنك استخدام جميع أدواتنا دون دفع فلس واحد"
+            "header": "مجانا لomkostninger",
+            "content": "فوريس billede cropper værktøj لها حزام الجمعة لomkostninger, كان دو بروج أليه فوريس værktøjer uden في betale en enkelt krone"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "لا يوجد تنزيل إضافي",
-            "content": "تعتمد أداة قص الصور الخاصة بنا تمامًا على المتصفح ولا يلزم تنزيل برامج إضافية على جهازك."
+            "header": "إنجين تحميل",
+            "content": "فوريس billede cropper værktøj إيه helt متصفح balleret من ingen yderligere البرمجيات إيه påkrævet لدن دون تحميل på din enhed."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "كيفية اقتصاص صورتنا.",
+        "heading": "Sådan beskære فوريس billede.",
         "steps": [
-            "قم بتحميل الصورة المراد اقتصاصها أو انقر فوق السهم المنسدل وحدد Dropbox/Google Drive",
-            "قم بقص الصورة وفقًا لذلك.",
-            "نظرة خاطفة على التغييرات التي تم إجراؤها على ملف الصورة عن طريق التمرير لأسفل.",
-            "احفظ التغييرات التي تم إجراؤها.",
-            "قم بتنزيل ملف الصورة بالضغط على خيار التنزيل.",
-            "(هراي)!! الصورة جاهزة للاستخدام."
+            "تحميل billedet, دير سسال beskæres, ايلك على سبيل الإعجابات, أوغ دروببوكس/جوجل ديف",
+            "Beskær billedet أنا overensstemelse هيرميد.",
+            "الملك på de ændringer, دير لها foretaget هو billledfillen ved في حاجة قاطرة.",
+            "جوهرة دي foretagne ændringer.",
+            "تحميل billedfilen فيد في trykke على تحميل indstillingen.",
+            "هورا!! billedet لها klar til brug."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "هل من الآمن السماح بالوصول إلى محرك الأقراص الخاص بي؟",
+            "answer": "نعم، من الآمن تمامًا السماح لنا بالوصول إلى محرك الأقراص الخاص بك. لن نقوم بإجراء أي تغييرات على موقعك وستكون ملفاتك آمنة معك."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "كيف يمكنني تحميل الملفات من محرك الأقراص الخاص بي/dropbox؟",
+            "answer": "انقر فوق السهم المنسدل وحدد Dropbox/Google Drive. حدد حساب Google من حيث تريد ربط محرك الأقراص الخاص بك. الآن يمكنك تحديد الملفات التي تريد تحميلها."
         },
         {
-            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
-            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+            "question": "ما هي الميزات التي تقدمها صورة المحاصيل من safeimagekit.com أثناء اقتصاص صورة؟",
+            "answer": "توفر ميزة صورة الاقتصاص من safeimagekit.com ميزات متعددة الاستخدامات أثناء اقتصاص صورة، ويمكن للمستخدم تحميل أي تنسيق للصورة وسيتم اقتصاصها بمساعدة ميزة الاقتصاص لدينا. تتيح ميزة الاقتصاص هذه للمستخدم قطع الجزء غير المرغوب فيه من الصورة التي تم تحميلها. يمكن للمستخدم ضبط أقسام القطع على الصورة عن طريق تحويل صندوق المحاصيل الذي يعمل من 8 اتجاهات."
         },
         {
-            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+            "question": "كيف يمكننا اقتصاص صورة باستخدام ميزة الاقتصاص من safeimagekit.com؟",
+            "answer": "هناك 4 خطوات أساسية يمكن للمستخدم من خلالها اقتصاص صورة يتضمنها-\n- قم بتحميل الصورة في المساحة المتوفرة واضغط على التحميل لبدء الاقتصاص.\n- حدد مربع الاقتصاص ونقله باستخدام المسامير الموجودة على الصورة، وهذا يضبط المربع الموجود على الصورة. هذا يعني أنه يتم حفظ الصورة أو اقتصاصها فقط حيث يتم وضع المربع عليها.\n- بعد ذلك، اضغط على زر الملف أدناه، وهذا يحفظ التغييرات التي تم إجراؤها على الصورة.\n- أخيرًا، اضغط على زر التنزيل لتنزيل الصورة المحدثة."
         },
         {
-            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
-            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+            "question": "ما هي التنسيقات المدعومة لاقتصاص الصور التي يقدمها safeimageit.com؟",
+            "answer": "حاليًا، يقدم safeimagekit.com ميزات اقتصاص الصور لجميع التنسيقات الموجودة هناك، ولكن يمكن للمستخدم الاستفادة من هذه الميزة من التنسيقات التالية للصور:\n- بابوا نيو غينيا \n- JPEG \n- JPG\n- ميمي\n- Xmap، إلخ."
         },
         {
-            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
-            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+            "question": "هل يمكننا اقتصاص صور 4K وصور 8k باستخدام ميزة اقتصاص الصور من safeimagekit.com؟",
+            "answer": "نعم، توفر ميزة اقتصاص الصور من safeimagekit.com تحويل صورة بدقة 4k و 8k. تعمل ميزة اقتصاص الصور بدقة 4k بشكل جيد، ومع ذلك، فإن اقتصاص الصور 8k سيؤخر قليلاً مقارنة بصور 1080p و 4k لأن معالجة الصور 8k بواسطة safeimagekit.com تستغرق بعض الوقت."
         },
         {
-            "question": "What is the time taken by the converter to crop an image file?",
-            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+            "question": "ما هو الوقت الذي يستغرقه المحول لاقتصاص ملف صورة؟",
+            "answer": "الوقت هو العامل المثير الموجود هنا، حيث نقوم بتحميل الملف ونرى السحر يحدث، يحدث تحويل الاقتصاص في لحظة حيث يمكننا اقتصاص أنواع مختلفة من ملفات الصور. العامل الوحيد الذي يستغرق وقتًا وكل ما يتطلبه الأمر هو اتصال إنترنت عادي."
         },
         {
-            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
-            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+            "question": "هل يمكنني استخدام اقتصاص الصور من safeimagekit.com لتحويل ملفات الصوت أو الفيديو الخاصة بي؟",
+            "answer": "يقدم اقتصاص الصور من safeimagekit.com ميزات اقتصاص الصور فقط. في الوقت الحالي، لا يقدم اقتصاص الصور تحويل ملفات الفيديو أو الصوت ولكن الترقيات المستقبلية لموقع الويب ستجلب لك جميع الميزات المثيرة."
         },
         {
-            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
-            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+            "question": "هل يمكننا تعديل أو إنشاء ملفات GIF باستخدام خيار الاقتصاص من safeimagekit.com؟ ",
+            "answer": "تقوم ملفات GIF بنقل الصور باستخدام ميزة إدخال النص؛ صور GIF عبارة عن مقاطع قصيرة جدًا أو أجزاء من الصور تتطلب خيارات تحرير أخرى. يمكن اقتصاص صور GIF التي يتم تحميلها باستخدام safeimagekit.com. ومع ذلك، فإن بعض التحديثات الطفيفة في المستقبل ستجلب متعة تحرير صور GIF إلى موقع safeimagekit.com."
         },
         {
-            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
-            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+            "question": "هل يمكننا اقتصاص صور 1080p و 720p باستخدام اقتصاص الصور من safeimagekit.com؟",
+            "answer": "نعم، يوفر اقتصاص الصور من safeimagekit.com ميزات تحرير دقة 1080 بكسل و 720 بكسل من الخارج تسمح لنا بتعديل اقتصاص الصورة وبالتالي تقليل حجمها."
         },
         {
-            "question": "Which image format is preferable among webp and jpg formats?",
-            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+            "question": "ما هو تنسيق الصورة المفضل بين تنسيقات webp و jpg؟",
+            "answer": "يشبه jpg المحسن جيدًا أو أفضل منه webp. ومع ذلك، webp هو تنسيق صورة جديد ولا تدعمه جميع المتصفحات. الفرق النموذجي بين كلاهما هو الجودة التي هي فرق 15٪ -25٪ في الحجم."
         },
         {
-            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
-            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+            "question": "هل ستنخفض جودة صورتي بعد تنزيلها من اقتصاص الصور من safeimagekit.com؟",
+            "answer": "لا، لن تنخفض جودة الصورة بعد تنزيلها من اقتصاص الصور من safeimagekit.com. لن تفقد الصور جودتها وسيتم تحويلها بنفس الجودة بعد اقتصاص الصورة."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
-            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "ماذا سيحدث لتقدمنا إذا قمنا بتحديث متصفحنا أثناء استخدام اقتصاص الصور من safeimagekit.com؟",
+            "answer": "لا يتم توصيل اقتصاص الصورة من safeimagekit.com بأي خادم هناك، لذلك لن يتم تخزين البيانات التي يعمل عليها المستخدم في أي مكان ونتيجة لذلك، سيتم محوها على الفور عندما يقوم المستخدم بتحديث المتصفح الذي يعمل عليه. ستتم أيضًا إزالة ملفات الصور التي يتم العمل عليها بعد خروج المستخدم أو إغلاقه علامة التبويب التي تفتح عليها صفحة الامتداد الخاصة بموقع الويب."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "هل يمكنني استخدام ميزة اقتصاص الصور من safeimagekit.com على نظام التشغيل LINUX الخاص بي؟",
+            "answer": "نعم، يمكن استخدام ميزة اقتصاص الصور من safeimagekit.com على أي نظام تشغيل، حتى LINUX. تم تصميمه بأحدث التعليمات البرمجية والميزات التي تمكن المستخدم من استخدام اقتصاص الصور على أي نظام تشغيل مثل MAC OS و Windows و Ubuntu، بشرط وجود جهاز مزود باتصال إنترنت ثابت. الحيلة السحرية هي أنها تعمل حتى على اتصال إنترنت أبطأ."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "هل يمكنني استخدام ميزة اقتصاص الصور من safeimagekit.com على جهاز iOS؟",
+            "answer": "نعم، يمكن استخدام ميزة اقتصاص الصور من safeimagekit.com على أجهزة iOS وحتى على أجهزة Android. تم تصميمه بأحدث الميزات التي توفر للمستخدم استخدام ملف التمديد هذا على أي نظام تشغيل، كل ما يحتاج إلى اتصال بالإنترنت ومتصفح ويب جيد."
         },
         {
-            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+            "question": "كيف يمكنني حفظ التغييرات التي تم إجراؤها على ملف الصورة باستخدام اقتصاص الصورة من safeimagekit.com؟",
+            "answer": "أولاً، قم بتحميل ملف صورة يتطلب تغييرًا، ثم استخدم خيار اقتصاص الصورة لاقتصاص ملف الصورة واحدًا تلو الآخر. ثم استخدم خيار الحفظ الذي يتم تقديمه في الجزء السفلي من موقع الويب، وهذا يحفظ التغييرات التي تم إجراؤها على ملفات الصور ثم يقوم بتنزيل ملف الصورة الذي تم تعديله."
         },
         {
-            "question": "Will my file be saved after I complete working on the image cropper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "هل سيتم حفظ ملفي بعد الانتهاء من العمل على أداة اقتصاص الصور؟ ",
+            "answer": "لا، نحن لا نرسل أيًا من ملفاتك إلى خوادمنا، تتم جميع العمليات على المتصفح نفسه وبالتالي فإن جميع ملفاتك آمنة تمامًا. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "هل يتعين علي القيام بأي تسجيل إضافي أو دفع مبلغ إضافي لاستخدام أداة اقتصاص الصور؟ ",
+            "answer": "بالتأكيد لا، لدينا أداة على الانترنت تماما ولا تتطلب منك مشاركة أي من المعلومات الشخصية الخاصة بك معنا، مثل معرف البريد الإلكتروني وكلمات المرور الخ لدينا أداة خالية تماما من التكلفة."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "كيف يمكنني التواصل إذا واجهت أي مشاكل أو إذا كنت أرغب في اقتراح أي تغييرات؟",
+            "answer": "نحن بكل سرور نأخذ في أي مشكلة أو اقتراحات يقدمها جميع المستخدمين، يرجى الاتصال بنا من خلال مقابض وسائل التواصل الاجتماعي الخاصة بنا للحصول على مزيد من المعلومات. Safeimagekit.com متاح على جميع مواقع التواصل الاجتماعي الرائدة مثل Facebook و Instagram و YouTube و LinkedIn وما إلى ذلك."
         }
     ],
     "csscdns": [

@@ -1,16 +1,16 @@
 {
     "Language": "Nederlands",
     "htmlLangAtt": "nl",
-    "h1": "Afbeelding naar pixel art converter",
+    "h1": "Gratis webgebaseerde pixel art converter",
     "img": "/img/pixel.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "primair",
-    "h2": "De conversie van afbeelding naar pixel art is bij ons gemakkelijk gemaakt, begin met het uploaden van uw bestand hieronder",
-    "TITLE": "Afbeelding naar pixel art- pixelartmaker- safeimagekit",
-    "META": "Bent u op zoek naar een hoogwaardige beeld naar pixel art converter? Nou, dan ben je hier aan het juiste adres. Onze online pixelartmaker is uiterst veilig, gebruiksvriendelijk en supersnel.",
+    "h2": "Conversie van afbeelding naar pixel kunst is door ons gemakkelijk gemaakt, begin met het uploaden van uw bestand hieronder",
+    "TITLE": "Afbeelding naar pixel art- pixel art maker- safeimagekit",
+    "META": "Bent u op zoek naar een hoogwaardige beeld-naar-pixelart converter? Nou, dan ben je hier aan het juiste adres. Onze online pixel art maker is uiterst veilig, gebruiksvriendelijk en supersnel.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff5975",
@@ -19,122 +19,122 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "Hoge kwaliteit",
-            "content": "Onze conversietool voor beeld naar pixelkunst converteert de afbeeldingen in pixelart door de kwaliteit te behouden."
+            "content": "Onze conversietool voor beeld naar pixelkunst zet de afbeeldingen om in pixelkunst door de kwaliteit ervan te behouden."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Beveiliging van gegevens",
+            "header": "Gegevensbeveiliging",
             "content": "Geen van uw gegevens wordt op onze servers verzonden, alle bewerkingen worden uitgevoerd in de browser zelf. Dit stelt ons in staat om 100% veilig te zijn voor onze gebruikers"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Flexibiliteit",
-            "content": " Onze conversietool voor beeld naar pixel werkt op bijna alle soorten browsers en apparaten."
+            "content": " Onze conversietool voor beeld naar pixelkunst werkt op bijna alle soorten browsers en apparaten."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Gebruiksvriendelijk",
-            "content": "Onze conversietool voor beeld naar pixel art is heel gemakkelijk te begrijpen, er is geen professional nodig om aan onze tool te werken."
+            "content": "Onze conversietool voor beeld naar pixelkunst is heel gemakkelijk te begrijpen, er is geen professional nodig om aan onze tool te werken."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Gratis",
-            "content": "Onze conversietool voor beeld naar pixel art is volledig gratis, u kunt al onze tools gebruiken zonder een cent te betalen"
+            "content": "Onze conversietool voor beeld naar pixelkunst is volledig gratis, u kunt al onze tools gebruiken zonder een cent te betalen"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Geen extra download",
-            "content": "Onze conversietool voor beeld naar pixel art is volledig browsergebaseerd en er is geen extra software nodig om op uw apparaat te worden gedownload."
+            "content": "Onze conversietool voor beeld naar pixelkunst is volledig browsergebaseerd en er hoeft geen extra software op uw apparaat te worden gedownload."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Hoe onze afbeelding naar pixel art te converteren.",
+        "heading": "Hoe converteert u onze afbeelding naar pixelart.",
         "steps": [
             "Upload de afbeelding of klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive",
-            "Bekijk een blik op de pixelkunst door naar beneden te scrollen.",
-            "Klik op de optie „opslaan” om de gemaakte wijzigingen op te slaan. ",
+            "Bekijk de pixelkunst door naar beneden te scrollen.",
+            "Druk op de optie „opslaan” om de aangebrachte wijzigingen op te slaan. ",
             "Download de pixelart met behulp van de downloadoptie.",
             "Hoera!! de pixelart is klaar voor gebruik."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Is het veilig om toegang tot mijn schijf toe te staan?",
+            "answer": "Ja, het is absoluut veilig om ons toegang te geven tot uw schijf. We zullen geen wijzigingen aanbrengen in uw site en uw bestanden zijn veilig bij u."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Hoe kan ik bestanden uploaden vanaf mijn station/dropbox?",
+            "answer": "Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive. Selecteer het Google-account van waar u uw schijf wilt koppelen. Nu kunt u de bestanden selecteren die u wilt uploaden."
         },
         {
-            "question": "What is a PIXEL art and how is it used?",
-            "answer": "Pixel art is a form of digital art, created through the use of software, where images are edited on the pixel level. The aesthetic for this kind of graphics comes from 8-bit and 16-bit computers and video game consoles, in addition to other limited systems such as graphing calculators. In most pixel art, the color palette used is extremely limited in size, with some pixel art using only two colors. Creating or modifying pixel art characters or objects for video games is sometimes called “spriting”."
+            "question": "Wat is een PIXEL-kunst en hoe wordt deze gebruikt?",
+            "answer": "Pixelkunst is een vorm van digitale kunst, gecreëerd door het gebruik van software, waarbij afbeeldingen op pixelniveau worden bewerkt. De esthetiek voor dit soort graphics komt van 8-bits en 16-bits computers en videogameconsoles, naast andere beperkte systemen zoals grafische rekenmachines. In de meeste pixelkunst is het gebruikte kleurenpalet extreem beperkt in grootte, waarbij sommige pixelkunst slechts twee kleuren gebruikt. Het maken of wijzigen van pixelkunstkarakters of objecten voor videogames wordt soms „spriting” genoemd."
         },
         {
-            "question": "What are the features offered by the image to pixel art generator from safeimagekit.com while, converting an image to pixel art?",
-            "answer": "The image to pixel art generator tool from safeimagekit.com offers versatile features while converting an image to pixel art. The main features include- conversion of the image to a pixel art form, downloading the pixel art, etc. Many more features are yet to join the website."
+            "question": "Wat zijn de functies die de afbeelding biedt aan pixel art generator van safeimagekit.com terwijl het omzetten van een afbeelding naar pixelkunst?",
+            "answer": "De tool voor het genereren van afbeeldingen naar pixelkunst van safeimagekit.com biedt veelzijdige functies bij het converteren van een afbeelding naar pixelkunst. De belangrijkste kenmerken zijn: conversie van de afbeelding naar een pixelartvorm, het downloaden van de pixelkunst, enz. Veel meer functies moeten nog lid worden van de website."
         },
         {
-            "question": "How do we convert an image to pixel art using the image to pixel art generator from safeimagekit.com?",
-            "answer": "There are 3 basic steps using which the user can easily convert the image to pixel art-\n-\tUpload the image file which needs a conversion in the space given.\n-\tWait until the uploaded image file is converted into a pixel art format.\n-\tDownload the pixel art form using the option called “download”."
+            "question": "Hoe converteren we een afbeelding naar pixelart met behulp van de afbeelding naar pixel art generator van safeimagekit.com?",
+            "answer": "Er zijn 3 basisstappen waarmee de gebruiker de afbeelding eenvoudig kan converteren naar pixelart-\n- Upload het afbeeldingsbestand dat een conversie nodig heeft in de opgegeven ruimte.\n- Wacht tot het geüploade afbeeldingsbestand is geconverteerd naar een pixelartformaat.\n- Download het pixelartformulier met de optie „download”."
         },
         {
-            "question": "Which are the image formats supported by the image to pixel art generator while converting an image to pixel art?",
-            "answer": "The image to pixel art generator from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc.\n"
+            "question": "Wat zijn de afbeeldingsindelingen die door de generator voor beeld naar pixelkunst worden ondersteund tijdens het converteren van een afbeelding naar pixelkunst?",
+            "answer": "De beeld-tot-pixelart generator van safeimagekit.com ondersteunt alle toonaangevende en populaire beeldformaten die er zijn. Deze omvatten-\n- Png-indeling\n- JPEG-indeling\n- Jpg-formaat\n- Raw-formaat, enz.\n"
         },
         {
-            "question": "How many image files can we convert at a single stretch using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "Currently, the image to pixel art converter tool from safeimagekit.com can convert the image files one by one. The converter tool from safeimagekit.com does have to go through a staple of codes which makes multiple conversions a bit difficult. But, updates to the website will bring all the exciting features in the future."
+            "question": "Hoeveel afbeeldingsbestanden kunnen we in één stuk converteren met behulp van de convertertool afbeelding naar pixel art van safeimagekit.com?",
+            "answer": "Momenteel kan de convertertool afbeelding naar pixel art van safeimagekit.com de afbeeldingsbestanden één voor één converteren. De convertertool van safeimagekit.com moet wel een hoofdbestanddeel van codes doorlopen, waardoor meerdere conversies een beetje moeilijk zijn. Maar updates van de website zullen in de toekomst alle opwindende functies opleveren."
         },
         {
-            "question": "Can I upload and convert my jpeg image file to a pixel art format using the image to pixel art converter?",
-            "answer": "Yes, the user can upload and convert the jpeg image file to a pixel art format using the image to pixel art converter. However, after conversion, the pixel art which is generated will be available in png format only. So, the user can upload any format of an image and can convert his image to pixel art."
+            "question": "Kan ik mijn jpeg-afbeeldingsbestand uploaden en converteren naar een pixelartformaat met behulp van de converter afbeelding naar pixel art?",
+            "answer": "Ja, de gebruiker kan het jpeg-afbeeldingsbestand uploaden en converteren naar een pixelartformaat met behulp van de converter afbeelding naar pixel art. Na conversie is de gegenereerde pixelkunst echter alleen beschikbaar in png-indeling. De gebruiker kan dus elk formaat van een afbeelding uploaden en zijn afbeelding converteren naar pixelart."
         },
         {
-            "question": "Do we have to use any additional software to download our images after conversion using the image to pixel art converter from safeimagekit.com?",
-            "answer": "No, the users after converting their images to pixel art can hit the download the option which is given below and can download the pixel art. It is a browser-based converter tool that does not support or no additional software is required to download the pixel art forms.\n\n"
+            "question": "Moeten we aanvullende software gebruiken om onze afbeeldingen te downloaden na conversie met behulp van de image naar pixel art converter van safeimagekit.com?",
+            "answer": "Nee, de gebruikers kunnen na het converteren van hun afbeeldingen naar pixelart de onderstaande optie downloaden en de pixelart downloaden. Het is een browsergebaseerde convertertool die geen ondersteuning biedt of er geen extra software nodig is om de pixelartformulieren te downloaden.\n\n"
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com without having any knowledge about basic C-programming?",
-            "answer": "Yes, our image to pixel art converter tool from safeimagekit.com can be used by everybody. Our image to pixel art generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
+            "question": "Kan ik de convertertool image to pixel art van safeimagekit.com gebruiken zonder enige kennis te hebben van basisC-programmering?",
+            "answer": "Ja, onze image to pixel art converter tool van safeimagekit.com kan door iedereen worden gebruikt. Onze beeld-tot-pixelart generator is zeer gemakkelijk te begrijpen en er is geen professionele kennis over C-programmering nodig om aan onze tool te werken."
         },
         {
-            "question": "Will my uploaded image file corrupt after converting them using the conversion options present in the image to pixel art conversion tool from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Zal mijn geüploade afbeeldingsbestand beschadigd raken na het converteren ervan met behulp van de conversieopties die aanwezig zijn in de conversietool afbeelding naar pixel art van safeimagekit.com?",
+            "answer": "Nee, safeimagekit.com is gebouwd met de nieuwste programma's en beveiligingsfuncties waardoor de geüploade afbeeldingsbestanden niet kunnen beschadigen. De geüploade afbeeldingsbestanden zijn dus volledig veilig en beveiligd."
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com on my Apple iPhone 12? ",
-            "answer": "Yes, the image to pixel art converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the image file which is uploaded to be converted into pixel art."
+            "question": "Kan ik de convertertool Image to pixel art van safeimagekit.com op mijn Apple iPhone 12 gebruiken? ",
+            "answer": "Ja, de image to pixel art converter tool van safeimagekit.com is een platformonafhankelijke website waar de gebruiker deze convertertool kan gebruiken vanaf besturingssystemen zoals Android, iOS, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar hangt alleen af van de internetverbinding en de grootte van het afbeeldingsbestand dat wordt geüpload om te worden omgezet in pixelkunst."
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com on my Windows 8?",
-            "answer": "The image to pixel art converter tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Kan ik de convertertool Image to pixel art van safeimagekit.com op mijn Windows 8 gebruiken?",
+            "answer": "De image to pixel art converter tool is een veelzijdige functie die wordt aangeboden door safeimagekit.com die wordt ondersteund door alle besturingssystemen die er zijn, zoals Windows 8, Linux en zelfs Ubuntu. Het enige dat nodig is, is een apparaat om het extensiebestand te openen via de website www.safeimagekit.com en een normale internetverbinding om op te staan. Het leuke feit is dat het zelfs kan draaien op een langzamere internetverbinding."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "The image to pixel art converter tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Wat gebeurt er met onze voortgang als we onze browser vernieuwen terwijl we de image to pixel art converter tool van safeimagekit.com gebruiken?",
+            "answer": "De image to pixel art converter tool van safeimagekit.com is niet verbonden met een server die er is, dus de gegevens waaraan de gebruiker werkt, worden nergens opgeslagen en als gevolg daarvan worden deze onmiddellijk gewist wanneer de gebruiker de browser vernieuwt waaraan hij werkt. Het afbeeldingsbestand dat wordt geconverteerd, wordt ook verwijderd nadat de gebruiker het tabblad waarop de extensiepagina van de website is geopend heeft of sluit."
         },
         {
-            "question": "Can we edit the text present in the image file using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "No, currently safeimagekit.com only supports the option to convert the image file uploaded to pixel art, and we cannot edit the text present on the image file. But updates to the website will bring all the exciting features soon."
+            "question": "Kunnen we de tekst in het afbeeldingsbestand bewerken met behulp van de convertertool Afbeelding naar pixel art van safeimagekit.com?",
+            "answer": "Nee, momenteel ondersteunt safeimagekit.com alleen de optie om het afbeeldingsbestand te converteren dat is geüpload naar pixelart, en we kunnen de tekst die aanwezig is in het afbeeldingsbestand niet bewerken. Maar updates van de website zullen binnenkort alle opwindende functies opleveren."
         },
         {
-            "question": "Will my file be saved after I complete working on the image to pixel art conversion tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met het conversietool voor afbeeldingen naar pixelkunst? ",
+            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image to pixel art conversion tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Moet ik een extra aanmelding doen of extra betalen om de conversietool afbeelding naar pixel kunst te gebruiken? ",
+            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Hoe communiceer ik als ik problemen heb of als ik suggesties wil geven?",
+            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
         }
     ],
     "jscdns": [

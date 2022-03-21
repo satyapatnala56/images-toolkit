@@ -1,16 +1,16 @@
 {
     "Language": "Svenska",
     "htmlLangAtt": "sv",
-    "H1": "Bild Cropper",
+    "H1": "Billede Cropper",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "varning",
-    "H2": "Beskära bilder har gjorts enkelt med oss, börja med att ladda upp din fil nedan",
-    "TITLE": "Beskär bild- Bild beskära online- safeimagekit",
-    "META": "Letar du efter en högkvalitativ bildcropper? Då är du på rätt ställe. Vårt online bildbeskärningsverktyg är extremt säkert, användarvänligt och supersnabbt.",
+    "variant": "advarsel",
+    "H2": "Beskæring billeder er blevet gjort nemt Med os, starta Med vid uppladdning din fil nedenfor",
+    "TITLE": "Beskær billede- Billede afgrøde nätet- safeimagekit",
+    "META": "Leder du efter en høj kvalitet billede cropper? Så er du på det rigtige sted. Vorer nätet billedafgrødeværktøj er ekstremt sikkert, brugervenligt og super hurtigt.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "Hög kvalitet",
-            "content": "Vårt bildbearbetningsverktyg beskär bilderna genom att behålla dess kvalitet."
+            "header": "Høj Kvalitet",
+            "content": "Vorer billede cropper værktøj afgrøder billederne ved vid bevare sin Kvalitet."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Datasäkerhet",
-            "content": "Ingen av dina data skickas på våra servrar alla operationer görs i webbläsaren själv. Detta gör att vi kan vara 100% säkra för våra användare"
+            "header": "Datasikkerhed",
+            "content": "Ingen af dine data sendes på vores servere alle operativa er udført jag selve browseren. Dette gør det muligt för os på være 100% sikre för vores brugere"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "Flexibilty",
-            "content": " Vårt bildcropper verktyg fungerar på nästan alla typer av webbläsare och enheter."
+            "header": "Fleksibilitet",
+            "content": " Vorer billede cropper værktøj virker på næsten alle tidigare för browsere og enheder."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Användarvänlig",
-            "content": "Vårt bildcropper verktyg är mycket lätt att förstå att ingen professionell behövs för att arbeta med vårt verktyg."
+            "header": "Brugervenlig",
+            "content": "Vorer billede cropper værktøj er meget låt på forstå ingen professionel er nødvendig för på arbejde på vores værktøj."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Kostnadsfritt",
-            "content": "Vår image cropper verktyg är helt gratis, du kan använda alla våra verktyg utan att betala ett enda öre"
+            "header": "Kostnadsfri för omkostninger",
+            "content": "Vores billede cropper værktøj er Helt fri för omkostninger, kan du bruge alle vores værktøjer uden på betale sv Enkelt krone"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "Ingen ytterligare nedladdning",
-            "content": "Vårt image cropper verktyg är helt webbläsarbaserat och ingen ytterligare programvara krävs för att laddas ner på din enhet."
+            "header": "Ingen yderligere ladda ner",
+            "content": "Vorer billede cropper værktøj er Helt webbläsare baseret og ingen yderligere programvara er påkrævet för på Blive downloadet på din enhed."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Hur man beskär vår bild.",
+        "heading": "Sjuan beskære vores billede.",
         "steps": [
-            "Ladda upp bilden som ska beskäras eller Klicka på rullgardinspilen och välj Dropbox/Google Drive",
-            "Beskär bilden i enlighet med detta.",
-            "Titta på de ändringar som gjorts i bildfilen genom att rulla nedåt.",
-            "Spara de ändringar som gjorts.",
-            "Ladda ner bildfilen genom att trycka på nedladdningsalternativet.",
-            "Hurra! bilden är klar att använda."
+            "Ladda upp billedet, der skal beskæres, Eller Klik på rullemenuen, og vælg Dropbox/Google Drev",
+            "Beskær billedet jag overensstemmelse hermed.",
+            "Kig på de ændringer, der er foretaget i billedfilen ved på rulle ned.",
+            "Gem de foretagne ændringer.",
+            "Hämta billedfilen ved på trykke på download-indstillingen.",
+            "Hurra! billedet er klar til brug."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Är det säkert att tillåta åtkomst till min enhet?",
+            "answer": "Ja, det är helt säkert att tillåta och ge oss tillgång till din enhet. Vi kommer inte att göra några ändringar på din webbplats och dina dfiles kommer att vara säkra hos dig."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Hur laddar jag upp filer från min enhet/Dropbox?",
+            "answer": "Klicka på rullgardinspilen och välj Dropbox/Google Drive. Välj det Google-konto där du vill länka enheten. Nu kan du välja de filer som du vill ladda upp."
         },
         {
-            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
-            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+            "question": "Vilka är de funktioner som erbjuds av beskärningsbilden från safeimagekit.com medan beskära en bild?",
+            "answer": "Beskärningsbildfunktionen från safeimagekit.com erbjuder mångsidiga funktioner medan du beskär en bild, användaren kan ladda upp alla format av bilder och som kommer att beskäras med hjälp av vår beskärningsfunktion. Med den här beskärningsfunktionen kan användaren avbryta den oönskade delen från den uppladdade bilden. Användaren kan justera skärsektionerna på bilden genom att flytta cropper box som fungerar från 8 riktningar."
         },
         {
-            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+            "question": "Hur beskär vi en bild med beskärningsfunktionen från safeimagekit.com?",
+            "answer": "Det finns 4 grundläggande steg med vilka användaren kan beskära en bild de innehåller-\n- Ladda upp bilden i utrymmet och tryck på uppladdning för att påbörja beskärningen.\n- Välj beskärningsrutan och flytta den med hjälp av stiften på bilden, detta justerar rutan på bilden. Detta innebär att bilden bara sparas eller beskärs där rutan placeras.\n- Tryck sedan på filknappen nedan, vilket sparar ändringarna som gjorts i bilden.\n- Slutligen, tryck på nedladdningsknappen för att ladda ner den uppdaterade bilden."
         },
         {
-            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
-            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+            "question": "Vilka är de format som stöds för bildbeskärning som erbjuds av safeimageit.com?",
+            "answer": "För närvarande erbjuder safeimagekit.com bildbeskärningsfunktioner för alla format där ute, men användaren kan dra nytta av denna funktion från följande format av bilderna:\n- Png \n- Jpeg \n- Jpg\n- Meme\n- Xmap, etc."
         },
         {
-            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
-            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+            "question": "Kan vi beskära 4k-bilder och 8k-bilder med hjälp av bildbeskärningsfunktionen från safeimagekit.com?",
+            "answer": "Ja, bildbeskärningsfunktionen från safeimagekit.com erbjuder 4k och 8k bildkonvertering. 4k-bildbeskärningsfunktionen fungerar perfekt, men 8k bildbeskärning kommer något att fördröja jämfört med 1080p och 4k bilder eftersom 8k bildbehandling av safeimagekit.com tar lite tid."
         },
         {
-            "question": "What is the time taken by the converter to crop an image file?",
-            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+            "question": "Hur lång tid tar konverteraren för att beskära en bildfil?",
+            "answer": "Tiden är den spännande faktorn närvarande här, där vi laddar upp filen och ser magin händer, beskärning omvandling sker på ett ögonblick där vi kan beskära olika typer av bildfiler. Den enda tidsfaktorn och allt som krävs är en vanlig internetanslutning."
         },
         {
-            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
-            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+            "question": "Kan jag använda bildcropper från safeimagekit.com för att konvertera mina ljud- eller videofiler?",
+            "answer": "Image cropper från safeimagekit.com erbjuder endast bildbeskärningsfunktioner. För närvarande erbjuder image cropper inte video- eller ljudfilkonvertering men framtida uppgraderingar till webbplatsen kommer att ge dig alla spännande funktioner."
         },
         {
-            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
-            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+            "question": "Kan vi redigera eller skapa GIF med beskärningsalternativet från safeimagekit.com? ",
+            "answer": "GIF är rörliga bilder med textinfogningsfunktion; GIF-bilder är mycket korta klipp eller bitar av bilder som kräver andra redigeringsalternativ. GIF som laddas upp kan beskäras med safeimagekit.com. Vissa mindre uppdateringar i framtiden kommer dock att föra det roliga med att redigera GIF-bilder till webbplatsen safeimagekit.com."
         },
         {
-            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
-            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+            "question": "Kan vi beskära 1080p och 720p bilder med bildcropper från safeimagekit.com?",
+            "answer": "Ja, bildcropper från safeimagekit.com erbjuder 1080p och 720p upplösning redigeringsfunktioner från utsidan de tillåter oss att ändra beskärningen av bilden och därmed minska dess storlek."
         },
         {
-            "question": "Which image format is preferable among webp and jpg formats?",
-            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+            "question": "Vilket bildformat är att föredra bland webp- och jpg-format?",
+            "answer": "En väl optimerad jpg liknar eller bättre än webp. Webp är dock ett nytt bildformat och stöds inte av alla webbläsare. Den typiska skillnaden mellan dem båda är i den kvalitet som är en 15%-25% skillnad i storlek."
         },
         {
-            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
-            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+            "question": "Kommer min bildkvalitet att minska när jag har hämtat dem från bildcropper från safeimagekit.com?",
+            "answer": "Nej, kvaliteten på bilden minskar inte när du har hämtat dem från image cropper från safeimagekit.com. Bilderna förlorar inte kvaliteten och kommer att flyttas med samma kvalitet efter beskärning av bilden."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
-            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Vad händer med våra framsteg om vi uppdaterar vår webbläsare medan vi använder bildcropper från safeimagekit.com?",
+            "answer": "Bilden cropper från safeimagekit.com är inte ansluten till någon server där ute, så data som användaren arbetar med kommer inte att lagras någonstans och som ett resultat kommer den att raderas omedelbart när användaren uppdaterar webbläsaren som han arbetar med. De bildfiler som bearbetas kommer också att tas bort när användaren avslutar eller stänger fliken där filnamnssidan på webbplatsen är öppen."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "Kan jag använda funktionen image cropper från safeimagekit.com på mitt Linux-operativsystem?",
+            "answer": "Ja, image cropper funktionen från safeimagekit.com kan användas på alla operativsystem, även LINUX. Den är byggd med den senaste koden och funktioner som gör det möjligt för användaren att använda image cropper på alla operativsystem som MAC OS, Windows och Ubuntu, förutsatt att det finns en enhet med en stabil internetanslutning. Det magiska tricket är att det även fungerar på en långsammare internetanslutning."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "Kan jag använda funktionen image cropper från safeimagekit.com på en iOS-enhet?",
+            "answer": "Ja, bilden cropper funktionen från safeimagekit.com kan användas på iOS-enheter och även på Android-enheter. Den är byggd med de senaste funktionerna som ger användaren att använda denna tilläggsfil på alla operativsystem, allt det behöver en internetanslutning och en bra webbläsare."
         },
         {
-            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+            "question": "Hur kan jag spara ändringarna i bildfilen med hjälp av bildcropper från safeimagekit.com?",
+            "answer": "Först överför du en bildfil som kräver en ändring och använd sedan bildbeskärningsalternativet för att beskära bildfilen en efter en. Använd sedan alternativet Spara som anges längst ner på webbplatsen, vilket sparar ändringarna i bildfilerna och hämtar sedan bildfilen som ändras."
         },
         {
-            "question": "Will my file be saved after I complete working on the image cropper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Kommer min fil att sparas när jag är klar med bildbearbetningsverktyget? ",
+            "answer": "Nej, vi skickar inte några av dina filer till våra servrar alla operationer görs i webbläsaren själv därför alla dina filer är helt säkra. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Måste jag göra någon ytterligare registrering eller betala extra för att använda bildbearbetningsverktyget? ",
+            "answer": "Absolut inte, vårt verktyg är helt online och kräver inte att du delar någon av dina personuppgifter med oss, som e-post-id, lösenord etc. Vårt verktyg är helt gratis."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Hur kommunicerar jag om jag står inför några problem eller om jag vill föreslå några ändringar?",
+            "answer": "Vi tar gärna in några problem eller förslag som erbjuds av alla användare, vänligen kontakta oss via våra sociala medier handtag för mer information. SafeImageKit.com är tillgängligt på alla ledande sociala medier som Facebook, Instagram, YouTube och LinkedIn, etc."
         }
     ],
     "csscdns": [

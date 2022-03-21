@@ -1,14 +1,14 @@
 {
     "Language": "Svenska",
     "htmlLangAtt": "sv",
-    "H1": "Ändra storlek på bilder",
+    "H1": "Ändra storlek på bilden gratis online ",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "varning",
-    "H2": "Att ändra storlek på bilder har gjorts enkelt med oss, börja med att ladda upp din fil nedan",
+    "H2": "Att ändra storlek på bilder har gjorts enkelt av oss, börja med att ladda upp din fil nedan",
     "TITLE": "Ändra storlek på bild - online bildstorleksändring - safeimagekit",
     "META": "Letar du efter ett högkvalitativt verktyg för att ändra storlek på foton? Då är du på rätt ställe. Vårt online bildstorleksverktyg är extremt säkert, användarvänligt och supersnabbt.",
     "LABEL": "",
@@ -30,7 +30,7 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "Flexibilty",
+            "header": "flexibilitet",
             "content": " Vårt bildresizer verktyg fungerar på nästan alla typer av webbläsare och enheter."
         },
         {
@@ -65,77 +65,77 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Är det säkert att tillåta åtkomst till min enhet?",
+            "answer": "Ja, det är helt säkert att tillåta och ge oss tillgång till din enhet. Vi kommer inte att göra några ändringar på din webbplats och dina dfiles kommer att vara säkra hos dig."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Hur laddar jag upp filer från min enhet/Dropbox?",
+            "answer": "Klicka på rullgardinspilen och välj Dropbox/Google Drive. Välj det Google-konto där du vill länka enheten. Nu kan du välja de filer som du vill ladda upp."
         },
         {
-            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
-            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
+            "question": "Vilka är de funktioner som erbjuds av ändra storlek på bildfunktionen från safeimagekit.com medan, justera storleken på bilderna?",
+            "answer": "Ändra storlek på bilden erbjuder mångsidiga funktioner från safeimagekit.com medan storleken på en bild som laddats upp för redigering. Huvuddragen är-\n- Justera storleken på en bild med hänsyn till bredden.\n- Justera storleken på en bild med hänsyn till höjden.\n- Komplett storleksändring av bilden och ladda ner dem."
         },
         {
-            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "Hur kan jag justera bildens bredd med hjälp av funktionen Ändra storlek på bild från safeimagekit.com?",
+            "answer": "Det första steget av alla, ladda upp bilden som kräver en redigering. Nästa steg inkluderar justering av de viktiga parametrarna i bilden, detta inkluderar justering av bredden och höjden. Bredden på bilden kan nås genom att ange ett värde på utrymmet som heter ”ange bredden”. Breddens värde kan ökas genom att ange de värden som är positiva (+) i naturen. Värdet på bredden kan minskas genom att ange de värden som är negativa (-) i naturen."
         },
         {
-            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "Hur kan jag justera höjden på bilden med hjälp av funktionen Ändra storlek på bild från safeimagekit.com?",
+            "answer": "Det första steget av alla, ladda upp bilden som kräver en redigering. Nästa steg inkluderar justering av de viktiga parametrarna i bilden, detta inkluderar justering av bredden och höjden. Höjden på bilden kan nås genom att ange ett värde på utrymmet som kallas ”ange höjden”. Höjdens värde kan ökas genom att ange de värden som är positiva (+) i naturen. Värdet på bredden kan minskas genom att ange de värden som är negativa (-) i naturen."
         },
         {
-            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
-            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
+            "question": "Hur kan jag ändra storlek på en bild med hjälp av funktionen för att ändra storlek på bilden från safeimagekit.com?",
+            "answer": "Det finns 6 steg som användaren kan hänvisa till när du ändrar storlek på en bildfil,\nDessa inkluderar-\n- Ladda upp bildfilen som kräver en ändring.\n- Justera höjden på bilden genom att ange ett värde.\n- Justera bildens bredd genom att ange ett värde.\n- Tryck på storleksknappen för att aktivera storleksändring.\n- Tryck på spara-knappen för att spara ändringarna.\n- Använd nedladdningsalternativet för att ladda ner den ändrade bilden."
         },
         {
-            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
-            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
+            "question": "Ger alternativet Ändra storlek på bildfunktionen från safeimagekit.com någon typ av förhandsgranskning efter storleksändring av den uppladdade bildfilen?",
+            "answer": "Nej, för närvarande ger storleksändring funktionen av fotosplitter från safeimagekit.com inte någon form av förhandsgranskning av avsnitten av den uppladdade bilden, eftersom ibland delar av den uppladdade bilden går överbord och det blir mycket svårt för webbläsaren att hantera förhandsgranskningen av varje avsnitt av bilden. Uppdateringar av webbplatsen i framtiden kommer dock att lägga till alla spännande funktioner."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
-            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Kan jag använda funktionen för att ändra storlek på bilden från safeimagekit.com på min Windows 8?",
+            "answer": "Ändra storlek på bildfunktionen är en mångsidig funktion som erbjuds av safeimagekit.com som stöds av alla operativsystem där ute som Windows 8, Linux, och även Ubuntu. Allt som krävs är en enhet för att öppna tilläggsfilen med hjälp av webbplatsen www.safeimagekit.com och en vanlig internetanslutning att stå på. Det roliga faktum är att det även kan köras på en långsammare internetanslutning."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "Kan jag använda funktionen för att ändra storlek på bild från safeimagekit.com på min Android-enhet? ",
+            "answer": "Ja, ändra storlek på bildfunktionen från safeimagekit.com är en plattformsoberoende funktion där användaren kan använda detta konverteringsverktyg från operativsystem som Android, iOS, Windows och Mac OS. Det är oberoende av vilka operativsystem som används men beror bara på internetanslutningen."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
-            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "Måste vi använda någon ytterligare programvara för att ladda ned de modifierade bilderna efter konvertering med hjälp av funktionen Ändra storlek på bild från safeimagekit.com?",
+            "answer": "Nej, användarna efter storleksändring sin bild genom att ange deras respektive höjd och bredd, kan slå nedladdningen alternativet som anges nedan och kan ladda ner den modifierade bilden. Det är ett webbläsarbaserat konverteringsverktyg som inte stöder eller ingen ytterligare programvara krävs för att ladda ner den modifierade bilden."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
-            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Vad händer med våra framsteg om vi uppdaterar vår webbläsare medan vi använder verktyget Ändra storlek på bild från safeimagekit.com?",
+            "answer": "Ändra storlek bildverktyget från safeimagekit.com är inte anslutet till någon server där ute, så data som användaren arbetar med kommer inte att lagras någonstans och som ett resultat kommer det att raderas omedelbart när användaren uppdaterar webbläsaren som han arbetar med. Bildfilen som konverteras tas också bort när användaren avslutar eller stänger fliken där filnamnssidan för webbplatsen är öppen."
         },
         {
-            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "Kan vi ändra storlek på de bildfiler som är låsta med hjälp av funktionen för att ändra storlek på bilden från safeimagekit.com?",
+            "answer": "Nej, vi kan inte ladda upp bildfilen som är låst eftersom åtkomsten till just den bildfilen är blockerad. Så, för att använda storleksändring av bildfunktionen från safeimagekit.com måste vi ladda upp bildfilerna som inte är låsta. Men användaren kan kontrollera lösenordstillägget från safeimagekit.com som uteslutande är gjord för att låsa upp bild samt bildfiler om användaren förlorar sitt lösenord för sin låsta bildfil."
         },
         {
-            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Kommer mina uppladdade bildfiler att korrupta efter storleksändring av bildfilerna med hjälp av bildresizer-filfunktionen från safeimagekit.com?",
+            "answer": "Nej, safeimagekit.com är byggd med alla de senaste programmen och säkerhetsfunktionerna som inte tillåter att de uppladdade bildfilerna skadas. Så de uppladdade bildfilerna är helt säkra och säkrade."
         },
         {
-            "question": "Will my file be saved after I complete working on the image resizer tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Kommer min fil att sparas när jag har slutfört arbetet med verktyget för bildresizer? ",
+            "answer": "Nej, vi skickar inte några av dina filer till våra servrar alla operationer görs i webbläsaren själv därför alla dina filer är helt säkra. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Måste jag göra ytterligare registrering eller betala extra för att använda verktyget för bildresizer? ",
+            "answer": "Absolut inte, vårt verktyg är helt online och kräver inte att du delar någon av dina personuppgifter med oss, som e-post-id, lösenord etc. Vårt verktyg är helt gratis."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Hur kommunicerar jag om jag står inför några problem eller om jag vill ge några förslag?",
+            "answer": "Vi tar gärna in några problem eller förslag som erbjuds av alla användare, vänligen kontakta oss via våra sociala medier handtag för mer information. SafeImageKit.com är tillgängligt på alla ledande sociala medier som Facebook, Instagram, YouTube och LinkedIn, etc."
         }
     ],
     "jscdns": [
         "<script src=\"/assets/js/googledrive.js\"></script>",
-        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/size.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/size.js\"></script>",
         "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
     ]
 }

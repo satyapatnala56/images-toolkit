@@ -9,8 +9,8 @@
     "nofileupload": true,
     "variant": "खतरा",
     "H2": "तस्वीरों के लिए वॉटरमार्क बनाना हमारे साथ आसान बना दिया गया है, नीचे अपनी फ़ाइल अपलोड करके शुरू करें",
-    "TITLE": "वॉटरमार्क तस्वीरें - मुफ्त वॉटरमार्क निर्माता - सुरक्षित छवि किट",
-    "META": "क्या आप छवियों के लिए उच्च-गुणवत्ता वाली छवि वॉटरमार्क की तलाश कर रहे हैं? ठीक है, तो आप सही जगह पर हैं। हमारा ऑनलाइन वॉटरमार्क जनरेटर टूल बेहद सुरक्षित, उपयोगकर्ता के अनुकूल और सुपर क्विक है।",
+    "TITLE": "आफ्टर के रूप में - मुफ्त आफ्टर - एफ़सी के साथ",
+    "META": " ओट,,, टीयू एन एन डी एन. पी। आहार-चाय-चाँद होर्डी, एफ़सी, ए सी, ई, एन, सी, टी।",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "red",
@@ -19,31 +19,31 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "हाई क्वालिटी",
-            "content": "हमारा वॉटरमार्क जनरेटर टूल आपकी छवियों के लिए उच्च गुणवत्ता वाले वॉटरमार्क बनाता है।"
+            "content": "हरितज के लिए एक साथ एक दिन का दिन, फिर,,,,"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "डेटा सुरक्षा",
-            "content": "आपका कोई भी डेटा हमारे सर्वर पर नहीं भेजा जाता है, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं। यह हमें अपने उपयोगकर्ताओं के लिए 100% सुरक्षित रहने में सक्षम बनाता है"
+            "content": "ई. ए। एस. ई।"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "Flexibilty",
-            "content": " हमारा वॉटरमार्क जनरेटर टूल लगभग सभी प्रकार के ब्राउज़रों और उपकरणों पर काम करता है।"
+            "header": "फ्लेक्सिबिलिटी",
+            "content": " आहरित"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "यूजर फ्रेंडली",
-            "content": "हमारे वॉटरमार्क जनरेटर टूल को समझना बहुत आसान है कि हमारे टूल पर काम करने के लिए किसी पेशेवर की आवश्यकता नहीं है।"
+            "content": "आगरा आरईईईईईईईईईईईईईईईईईईईईईईईईईईईईईईईईईईके"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "नि:शुल्क",
-            "content": "हमारा वॉटरमार्क जनरेटर टूल पूरी तरह से नि: शुल्क है, आप एक पैसा चुकाए बिना हमारे सभी उपकरणों का उपयोग कर सकते हैं"
+            "header": "इनी:बीईटी",
+            "content": "वारे"
         },
         {
             "priority": 1,
@@ -57,72 +57,72 @@
         "heading": "मेरी पीडीएफ फाइल में वॉटरमार्क कैसे जोड़ें",
         "steps": [
             "अपनी छवि फ़ाइल अपलोड करें या ड्रॉप डाउन तीर पर क्लिक करें और ड्रॉपबॉक्स/Google ड्राइव का चयन करें",
-            "आवश्यक पैरामीटर समायोजित करें ",
+            " ",
             "वॉटरमार्क के रूप में कोई टेक्स्ट या छवि जोड़ें",
             "किए गए परिवर्तनों को सहेजने के लिए सेव बटन दबाएं",
-            "हुर्रे!! छवि रॉक करने के लिए तैयार है।"
+            "हुररर्!! के. जी।"
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "क्या मेरे ड्राइव तक पहुँच की अनुमति देना सुरक्षित है?",
+            "answer": "हां, हमें आपके ड्राइव तक पहुंच प्रदान करना और उसे एक्सेस देना बिल्कुल सुरक्षित है। हम आपकी साइट में कोई बदलाव नहीं करेंगे और आपकी फाइलें आपके पास सुरक्षित रहेंगी।"
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "मैं अपने ड्राइव/ड्रॉपबॉक्स से फाइल कैसे अपलोड कर सकता हूं?",
+            "answer": "ड्रॉप डाउन एरो पर क्लिक करें और ड्रॉपबॉक्स/Google ड्राइव चुनें। उस Google खाते का चयन करें जहाँ से आप अपना ड्राइव लिंक करना चाहते हैं। अब आप उन फ़ाइलों का चयन कर सकते हैं जिन्हें आप अपलोड करना चाहते हैं।"
         },
         {
-            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
-            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
+            "question": "एक छवि में वॉटरमार्क जोड़ते समय safeimagekit.com से वॉटरमार्किंग सुविधा द्वारा दी जाने वाली विशेषताएं क्या हैं?",
+            "answer": "safeimagekit.com की वॉटरमार्किंग सुविधा एक छवि को क्राफ्ट करते समय बहुमुखी सुविधाएँ प्रदान करती है। मुख्य विशेषताओं में शामिल हैं\n- अपलोड की गई छवि फ़ाइल पर वॉटरमार्क के रूप में पाठ का सम्मिलन।\n- अपलोड किए गए वॉटरमार्क के पाठ की पारदर्शिता को समायोजित करना।\n- सम्मिलित किए जाने वाले वॉटरमार्क के पाठ के फ़ॉन्ट आकार को समायोजित करना।\n- स्ट्रोक वैल्यू को संशोधित करना\n- मूल छवि पर वॉटरमार्क के रूप में एक छवि का सम्मिलन\n- अपलोड की गई छवि फ़ाइल पर छाया मान समायोजित करना।\n- इटैलिक द्वारा वॉटरमार्क किए गए पाठ को संशोधित करना।\n- सम्मिलित किए जाने वाले वॉटरमार्क वाले पाठ की बोल्डनेस को समायोजित करना।\n- वॉटरमार्क किए गए टेक्स्ट की अंडरलाइनिंग फीचर।\n- रंग विकल्पों के साथ वॉटरमार्क को अपग्रेड करना।\n\n"
         },
         {
-            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
-            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
+            "question": "safeimagekit.com से वॉटरमार्क फ़ोटो का टेक्स्ट इंसर्शन विकल्प कैसे काम करता है?",
+            "answer": "safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का पाठ सम्मिलन विकल्प, उपयोगकर्ता को वॉटरमार्क के रूप में छवि पर पाठ जोड़ने देता है। जोड़े गए पाठ को कई विशेषताओं जैसे कि रंग समायोजन, पाठ की मोटाई आदि का उपयोग करके समायोजित और संशोधित किया जा सकता है, रंग समायोजन विकल्प उपयोगकर्ता को पाठ में रंग जोड़ने देते हैं, दूसरी ओर, पाठ की मोटाई उपयोगकर्ता को पाठ के आकार को समायोजित करने देती है। इस सुविधा को एक्सेस करने के लिए बस “टेक्स्ट एंटर” स्पेस में टेक्स्ट टाइप करें और वॉटरमार्क जेनरेट करने के लिए “टेक्स्ट जोड़ें” पर हिट करें।"
         },
         {
-            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
-            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
+            "question": "safeimagekit.com से वॉटरमार्क फ़ोटो की पारदर्शिता समायोजन विकल्प कैसे काम करता है?",
+            "answer": "Safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का पारदर्शिता समायोजन विकल्प उपयोगकर्ता को वॉटरमार्क किए गए पाठ या अपलोड की गई छवि की पारदर्शिता और अस्पष्टता को समायोजित करने देता है। यह विकल्प पृष्ठ के मध्य भाग पर उपलब्ध है, पारदर्शिता विकल्प 0.1 से 1 तक के पैमाने पर दिया गया है। यह समायोजन किया जाता है और सेव ऑप्शन को मारकर बचाया जा सकता है। इस विकल्प को “पारदर्शिता चुनें” विकल्प को दबाकर एक्सेस किया जा सकता है और स्केल को समायोजित कर सकते हैं और वॉटरमार्क उत्पन्न करने के लिए “टेक्स्ट जोड़ें” को हिट कर सकते हैं।"
         },
         {
-            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+            "question": "safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का उपयोग करके छवि को संशोधित करते समय हम पाठ के फ़ॉन्ट आकार को कैसे समायोजित करते हैं?",
+            "answer": "safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का उपयोग करके छवि को संशोधित करते समय पाठ का फ़ॉन्ट आकार आकार के कारक को दर्ज करके समायोजित किया जा सकता है। इस विकल्प को “फ़ॉन्ट आकार दर्ज करें” नामक स्थान पर मान्य आकार दर्ज करके एक्सेस किया जा सकता है। उस स्थान में मान दर्ज करके आकार को समायोजित किया जा सकता है। पाठ के फ़ॉन्ट आकार को उन मानों को दर्ज करके बढ़ाया जा सकता है जो सकारात्मक (+) मान में हैं। पाठ के फ़ॉन्ट आकार को उन मानों को दर्ज करके घटाया जा सकता है जो ऋणात्मक (-) मान में हैं।"
         },
         {
-            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
-            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
+            "question": "safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा में छवि रूपांतरण में स्ट्रोक मान कैसे काम करता है?",
+            "answer": "safeimagekit.com से वॉटरमार्क फोटो फीचर का स्ट्रोक वैल्यू टेक्स्ट के रंग या संपादन के लिए इमेज में डाली गई इमेज को एडजस्ट करके काम करता है। इस मान को “स्ट्रोक मान दर्ज करें” नामक स्थान में एक मान दर्ज करके पहुँचा जा सकता है। छवि के स्ट्रोक मूल्य को एक मेम में परिवर्तित करते समय स्ट्रोक को बढ़ाने के लिए एक सकारात्मक मूल्य (+) दर्ज करके समायोजित किया जा सकता है। स्ट्रोक को कम करने के लिए नकारात्मक मान (-) दर्ज करके स्ट्रोक मूल्य को कम किया जा सकता है।\n\n"
         },
         {
-            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
+            "question": "क्या हम safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का उपयोग करके छवि को संशोधित करते हुए वॉटरमार्क के रूप में किसी अन्य छवि पर एक छवि डाल सकते हैं?",
+            "answer": "हां, safeimagekit.com से वॉटरमार्क फोटो फीचर एक छवि को संशोधित करते समय किसी अन्य छवि पर एक छवि डालने का विकल्प प्रदान करता है। इस सुविधा को “अपलोड छवि” नाम के पृष्ठ के निचले भाग में एक्सेस किया जा सकता है। यह सुविधा हमें किसी अन्य छवि पर एक छवि पेस्ट करने देती है, यह एक मामूली विशेषता है जहां हम किसी भी प्रकार की छवि पर किसी भी प्रकार की छवि डाल सकते हैं। संपादन और डालने के बाद की छवि को “सेव” नामक विकल्प को मारकर सहेजा जा सकता है, यह छवि में की गई प्रगति को बचाता है।"
         },
         {
-            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
+            "question": "क्या हम अपने पाठ को इटैलिक में बदल सकते हैं जो संपादन के तहत छवि पर दर्ज किया गया है, जबकि safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का उपयोग करके एक छवि को संशोधित करते हुए?",
+            "answer": "हां, safeimagekit.com से वॉटरमार्क फोटो फीचर उपयोगकर्ता को छवि पर दर्ज किए गए पाठ को इटैलिक प्रारूप में परिवर्तित करने देता है। इस सुविधा को “I” बटन दबाकर एक्सेस किया जा सकता है जो इटैलिक के लिए खड़ा है, यह छवि पर मौजूद पाठ को इटैलिक रूप में परिवर्तित करता है। रूपांतरण के बाद “सेव” नामक बटन को हिट करें। यह इमेज में की गई प्रगति को बचाता है।"
         },
         {
-            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "क्या हम अपने पाठ को सादे से बोल्ड में बदल सकते हैं, जो संपादन के तहत छवि पर दर्ज किया गया है, जबकि safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का उपयोग करके एक छवि को संशोधित करते हुए?",
+            "answer": "हां, safeimagekit.com से वॉटरमार्क फोटो फीचर उपयोगकर्ता को सादे पाठ को बोल्ड टेक्स्ट में बदलने देता है जो छवि पर दर्ज किया गया है। इस सुविधा को बटन “बी” दबाकर एक्सेस किया जा सकता है जो बोल्ड के लिए खड़ा है, यह छवि पर मौजूद सादे पाठ को बोल्ड टेक्स्ट में परिवर्तित करता है। रूपांतरण के बाद “सेव” नामक बटन को हिट करें। यह इमेज में की गई प्रगति को बचाता है।"
         },
         {
-            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "क्या हम पाठ को रेखांकित कर सकते हैं, जो संपादन के तहत छवि पर लिखा गया है, जबकि safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का उपयोग करके एक छवि को संशोधित करते हुए?",
+            "answer": "हां, safeimagekit.com से वॉटरमार्क फोटो फीचर उपयोगकर्ता को उस पाठ को रेखांकित करने देता है जो छवि पर डाला गया है। इस सुविधा को बटन “U” पर क्लिक करके एक्सेस किया जा सकता है जो अंडरलाइन के लिए खड़ा है, यह पाठ (सामान्य) को छवि पर रेखांकित पाठ में परिवर्तित करता है। रूपांतरण के बाद “सेव” नामक बटन को हिट करें। यह इमेज में की गई प्रगति को बचाता है।"
         },
         {
-            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
+            "question": "हम संपादन के तहत छवि पर दर्ज किए गए पाठ को कैसे रंग सकते हैं, जबकि safeimagekit.com से वॉटरमार्क फ़ोटो सुविधा का उपयोग करके एक छवि को संशोधित करते हुए?",
+            "answer": "Safeimagekit.com से वॉटरमार्क फोटो फीचर उपयोगकर्ता को छवि पर पाठ को रंग देने देता है, इस विकल्प को हर प्रमुख विशेषता के बगल में ब्लैक बॉक्स को मारकर एक्सेस किया जा सकता है, ब्लैक बॉक्स को मारने के बाद रंग बॉक्स पॉप अप हो जाता है और उपयोगकर्ता किसी भी रंग को एक्सेस कर सकता है पाठ पर पेंट करने के लिए।"
         },
         {
-            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "वॉटरमार्क जनरेटर टूल पर काम पूरा करने के बाद क्या मेरी फ़ाइल सहेजी जाएगी? ",
+            "answer": "नहीं, हम आपकी किसी भी फाइल को हमारे सर्वर पर नहीं भेजते हैं, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं इसलिए आपकी सभी फाइलें पूरी तरह से सुरक्षित हैं। "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "क्या मुझे वॉटरमार्क जनरेटर टूल का उपयोग करने के लिए कोई अतिरिक्त साइनअप करना होगा या अतिरिक्त भुगतान करना होगा? ",
+            "answer": "बिल्कुल नहीं, हमारा टूल पूरी तरह से ऑनलाइन है और आपको अपनी किसी भी व्यक्तिगत जानकारी को हमारे साथ साझा करने की आवश्यकता नहीं है, जैसे ईमेल आईडी, पासवर्ड आदि।"
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "यदि मैं किसी समस्या का सामना करता हूं या यदि मैं कोई सुझाव देना चाहता हूं तो मैं कैसे संवाद कर सकता हूं?",
+            "answer": "हम ख़ुशी से सभी उपयोगकर्ताओं द्वारा दिए गए किसी भी मुद्दे या सुझावों को लेते हैं, कृपया अधिक जानकारी के लिए हमारे सोशल मीडिया हैंडल के माध्यम से हमसे संपर्क करें। SafeimageKit.com सभी प्रमुख सोशल मीडिया वेबसाइटों जैसे फेसबुक, इंस्टाग्राम, यूट्यूब और लिंक्डइन आदि पर उपलब्ध है।"
         }
     ],
     "jscdns": [

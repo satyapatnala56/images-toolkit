@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "هل من الآمن السماح بالوصول إلى محرك الأقراص الخاص بي؟",
+            "answer": "نعم، من الآمن تمامًا السماح لنا بالوصول إلى محرك الأقراص الخاص بك. لن نقوم بإجراء أي تغييرات على موقعك وستكون ملفاتك آمنة معك."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "كيف يمكنني تحميل الملفات من محرك الأقراص الخاص بي/dropbox؟",
+            "answer": "انقر فوق السهم المنسدل وحدد Dropbox/Google Drive. حدد حساب Google من حيث تريد ربط محرك الأقراص الخاص بك. الآن يمكنك تحديد الملفات التي تريد تحميلها."
         },
         {
-            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
-            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
+            "question": "ما هي الميزات التي تقدمها ميزة مقارنة الصور من safeimagekit.com أثناء مقارنة صورتين؟",
+            "answer": "توفر ميزة مقارنة الصور من safeimagekit.com ميزات متعددة الاستخدامات مع مقارنة ميزتين. تشمل الميزات الرئيسية \n- مقارنة بين صورتين على أساس المنزلق\n- مقارنة بين صورتين على أساس وحدات البكسل.\n- مقارنة بين صورتين بناءً على المعلومات.\n- مقارنة بين صورتين بناءً على تأثير التلاشي.\nتعتبر طرق المقارنة المذكورة أساسية بطبيعتها حيث تتم مقارنتها وتظهر نتيجة المقارنة مباشرة على الشاشة."
         },
         {
-            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
+            "question": "كيف يمكننا مقارنة صورتين بناءً على مقارنة شريط التمرير لميزة مقارنة الصور من safeimagekit.com؟",
+            "answer": "تتضمن الخطوة الأولى تحميل الصور التي تحتاج إلى مقارنة. الخطوة التالية هي النقر على الدبوس المسمى «المنزلق» وهذا ينشط المقارنة القائمة على شريط التمرير. تظهر نتيجة المقارنة مباشرة على الشاشة."
         },
         {
-            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
+            "question": "كيف يمكننا مقارنة صورتين بناءً على طريقة مقارنة البكسل لميزة مقارنة الصور من safeimagekit.com؟",
+            "answer": "تتضمن الخطوة الأولى تحميل الصور التي تحتاج إلى مقارنة. الخطوة التالية هي النقر على الدبوس المسمى «pixel» وهذا ينشط المقارنة المستندة إلى البكسل. يتم عرض بكسل الصورة الأولى على الصورة الثانية، تظهر نتيجة المقارنة مباشرة على الشاشة، حيث نقارن بكسل الصورة الأولى على الثانية"
         },
         {
-            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
+            "question": "كيف يمكننا مقارنة صورتين بناءً على طريقة تأثير التلاشي لميزة مقارنة الصور من safeimagekit.com؟",
+            "answer": "تتضمن الخطوة الأولى تحميل الصور التي تحتاج إلى مقارنة. الخطوة التالية هي النقر على الدبوس المسمى «fade» وهذا ينشط المقارنة القائمة على تأثير التلاشي. يظهر الهيكل الباهت للصورة الأولى على الصورة الثانية، تظهر نتيجة المقارنة مباشرة على الشاشة، حيث نقارن طبيعة الصورة الأولى على الصورة الثانية."
         },
         {
-            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
+            "question": "كيف يمكننا مقارنة صورتين بناءً على إحصائيات المعلومات الخاصة بالصور التي تم تحميلها باستخدام ميزة مقارنة الصور من safeimagekit.com؟",
+            "answer": "تتضمن الخطوة الأولى تحميل الصور التي تحتاج إلى مقارنة. الخطوة التالية هي النقر على رقم التعريف الشخصي المسمى «info» وهذا ينشط المقارنة المستندة إلى المعلومات. يتم عرض معلومات الصورة الأولى بجانب الصورة الثانية، تظهر نتيجة المقارنة مباشرة على الشاشة، حيث نقارن طبيعة الصورة الأولى على الصورة الثانية بمقارنة إحصائيات الصورة."
         },
         {
-            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
-            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
+            "question": "كيف تعمل المقارنة القائمة على المعلومات لميزة مقارنة الصور من safeimagekit.com؟",
+            "answer": "تعمل المقارنة القائمة على المعلومات لميزة مقارنة الصورة من safeimagekit.com من خلال مقارنة خصائص الصور التي تم تحميلها. تتضمن هذه الخصائص اسم الصورة وحجم الصورة ونوع الصورة وارتفاع الصورة وعرض الصورة. يمكن للمستخدم مقارنة الصور باتباع هذه الخصائص."
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
-            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "هل يمكنني استخدام ميزة مقارنة الصورة من safeimagekit.com على نظام التشغيل Windows 8 النهائي؟",
+            "answer": "ميزة مقارنة الصورة هي ميزة متعددة الاستخدامات تقدمها safeimagekit.com والتي تدعمها جميع أنظمة التشغيل الموجودة مثل Windows 8 و Linux وحتى Ubuntu. كل ما يتطلبه الأمر هو جهاز لفتح ملف التمديد باستخدام موقع www.safeimagekit.com واتصال إنترنت عادي للوقوف عليه. الحقيقة الممتعة هي أنه يمكن تشغيلها حتى على اتصال إنترنت أبطأ."
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "هل يمكنني استخدام ميزة مقارنة الصور من safeimagekit.com على جهاز Android الخاص بي؟ ",
+            "answer": "نعم، مقارنة ميزة الصورة من safeimagekit.com هي ميزة قائمة على الأنظمة الأساسية حيث يمكن للمستخدم استخدام أداة المحول هذه من أنظمة التشغيل مثل Android و iOS و Windows و Mac OS. إنه مستقل عن أنظمة التشغيل المستخدمة ولكنه يعتمد فقط على اتصال الإنترنت."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
-            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "هل يتعين علينا استخدام أي برنامج إضافي لتنزيل الصور المعدلة بعد التحويل باستخدام ميزة مقارنة الصور من safeimagekit.com؟",
+            "answer": "لا، المستخدمين بعد مقارنة صورهم عن طريق إدخال الصور الخاصة بهم، بعد كل شيء، لا توفر هذه الميزة خيارًا للتنزيل. تظهر نتيجة المقارنة مباشرة على الشاشة بحيث تتم مقارنة الصور مباشرة. إنها أداة تحويل قائمة على المتصفح لا تدعم أو لا يلزم وجود برامج إضافية لتنزيل الصورة المعدلة."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
-            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "ماذا سيحدث لتقدمنا إذا قمنا بتحديث متصفحنا أثناء استخدامنا لأداة مقارنة الصور من safeimagekit.com؟",
+            "answer": "أداة مقارنة الصورة من safeimagekit.com غير متصلة بأي خادم هناك، لذلك لن يتم تخزين البيانات التي يعمل عليها المستخدم في أي مكان ونتيجة لذلك، سيتم محوها على الفور عندما يقوم المستخدم بتحديث المتصفح الذي يعمل عليه. ستتم أيضًا إزالة ملفات الصور التي تتم مقارنتها بعد خروج المستخدم أو إغلاقه علامة التبويب التي تكون صفحة الامتداد الخاصة بالموقع مفتوحة عليها."
         },
         {
-            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "هل يمكننا مقارنة ملفات الصور المقفلة، باستخدام ميزة مقارنة الصورة من safeimagekit.com؟",
+            "answer": "لا، لا يمكننا تحميل ملف الصورة الذي تم قفله حيث يتم حظر الوصول إلى ملف الصورة هذا. لذلك، لاستخدام ميزة مقارنة الصورة من safeimagekit.com، نحتاج إلى تحميل ملفات الصور غير المقفلة. ولكن يمكن للمستخدم التحقق من امتداد مكتشف كلمة المرور من safeimagekit.com الذي تم تصميمه حصريًا لفتح الصورة بالإضافة إلى ملفات الصور في حالة فقد المستخدم كلمة المرور الخاصة به لملف الصورة المقفل."
         },
         {
-            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "هل ستتلف ملفات الصور التي تم تحميلها بعد مقارنة ملفات الصور باستخدام ميزة مقارنة ملف الصور من safeimagekit.com؟",
+            "answer": "لا، تم إنشاء safeimagekit.com مع أحدث البرامج وميزات الأمان التي لا تسمح لملفات الصور التي تم تحميلها بالتلف. لذا، فإن ملفات الصور التي تم تحميلها آمنة تمامًا ومضمونة."
         },
         {
-            "question": "Will my file be saved after I complete working on the image comparison tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "هل سيتم حفظ ملفي بعد الانتهاء من العمل على أداة مقارنة الصور؟ ",
+            "answer": "لا، نحن لا نرسل أيًا من ملفاتك إلى خوادمنا، تتم جميع العمليات على المتصفح نفسه وبالتالي فإن جميع ملفاتك آمنة تمامًا. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "هل يتعين علي القيام بأي تسجيل إضافي أو دفع مبلغ إضافي لاستخدام أداة مقارنة الصور؟ ",
+            "answer": "بالتأكيد لا، لدينا أداة على الانترنت تماما ولا تتطلب منك مشاركة أي من المعلومات الشخصية الخاصة بك معنا، مثل معرف البريد الإلكتروني وكلمات المرور الخ لدينا أداة خالية تماما من التكلفة."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "كيف يمكنني التواصل إذا واجهت أي مشاكل أو إذا كنت أرغب في تقديم أي اقتراحات؟",
+            "answer": "نحن بكل سرور نأخذ في أي مشكلة أو اقتراحات يقدمها جميع المستخدمين، يرجى الاتصال بنا من خلال مقابض وسائل التواصل الاجتماعي الخاصة بنا للحصول على مزيد من المعلومات. Safeimagekit.com متاح على جميع مواقع التواصل الاجتماعي الرائدة مثل Facebook و Instagram و YouTube و LinkedIn وما إلى ذلك."
         }
     ],
     "jscdns": [

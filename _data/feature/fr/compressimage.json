@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Est-ce que je peux autoriser l'accès à mon disque dur en toute sécurité ?",
+            "answer": "Oui, il est absolument sûr de nous autoriser et de nous donner accès à votre lecteur. Nous n'apporterons aucune modification à votre site et vos fichiers seront en sécurité avec vous."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Comment puis-je télécharger des fichiers depuis mon lecteur/ma boîte de dépôt ?",
+            "answer": "Cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive. Sélectionnez le compte Google auquel vous souhaitez associer votre lecteur. Vous pouvez maintenant sélectionner les fichiers que vous souhaitez télécharger."
         },
         {
-            "question": "What are the features offered by the “Image compressor” feature from safeimagekit.com while compressing an image?",
-            "answer": "The Image compressor feature from safeimagekit.com offers versatile features while compressing an image file. The main features include\nModifying the uploaded image by adjusting the dimensions of the image such as height, width, etc. This image compression feature also presents the compression by entering size which can be extended to max or min depending on the image uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The image compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage."
+            "question": "Quelles sont les fonctionnalités offertes par la fonction « Compresseur d'images » de safeimagekit.com lors de la compression d'une image ?",
+            "answer": "La fonction Compresseur d'images de safeimagekit.com offre des fonctionnalités polyvalentes lors de la compression d'un fichier image. Les principales caractéristiques sont les suivantes :\nModification de l'image téléchargée en ajustant les dimensions de l'image telles que la hauteur, la largeur, etc. Cette fonction de compression d'image présente également la compression en saisissant une taille qui peut être étendue au maximum ou au minimum en fonction de l'image téléchargée. Cette fonction fournit également un mode et un mode d'orientation stricts pour un réglage précis et de la rotation. Le compresseur d'image offre également la possibilité d'ajuster la qualité de l'image et permet également à l'utilisateur de convertir le format de l'image à son avantage."
         },
         {
-            "question": "What are the parameters provided by the compressor feature from safeimagekit.com, after we upload an image?",
-            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, where it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
+            "question": "Quels sont les paramètres fournis par la fonction de compression de safeimagekit.com, après avoir téléchargé une image ?",
+            "answer": "La fonction de compression de safeimagekit.com fournit divers paramètres après le téléchargement d'une image. Ces paramètres incluent le nom de l'image, la taille de l'image, le type de l'image, etc. Le paramètre est la dernière modification, où il nous donne l'heure, la date et le fuseau horaire où elle a été modifiée pour la dernière fois. Cela nous fournit également une barre de progression après le téléchargement et avant de commencer l'édition du fichier image téléchargé."
         },
         {
-            "question": "What are the image adjusting features provided by safeimagekit.com while compressing an image?",
-            "answer": "The image compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the image by adjusting the measurements such as width and height. The max-height and the max-width provide the user with a maximum limit of photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
+            "question": "Quelles sont les fonctionnalités de réglage d'image fournies par safeimagekit.com lors de la compression d'une image ?",
+            "answer": "La fonction de compression d'image de safeimagekit.com fournit de nombreuses fonctionnalités lors de la compression d'une image. Il permet à l'utilisateur d'ajuster les dimensions de l'image en ajustant les mesures telles que la largeur et la hauteur. La hauteur maximale et la largeur maximale fournissent à l'utilisateur une limite maximale de compression des photos. Alors que la largeur minimale et la hauteur minimale fournissent à l'utilisateur une limite minimale de compression de la photo. L'option de conversion de la taille permet à l'utilisateur de compresser dans son ensemble."
         },
         {
-            "question": "How does the quality adjustment option of the compressor feature from safeimagekit.com work?",
-            "answer": "The quality adjustment option of compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the image. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
+            "question": "Comment fonctionne l'option de réglage de la qualité de la fonction de compresseur de safeimagekit.com ?",
+            "answer": "L'option de réglage de la qualité de la fonction compresseur de safeimagekit.com est une fonctionnalité importante qui permet à l'utilisateur de décider de la qualité globale de l'image. Cette fonctionnalité est accessible à partir de l'espace « Entrez la qualité » après le téléchargement de l'image. Cela ajuste la netteté, le contraste, le flou (sur de petites quantités) et de nombreux autres paramètres d'image dans l'ensemble. L'utilisateur peut décider de la mesure de 0,1 à 1 échelle. S'il ne souhaite aucun changement dans la qualité de l'image téléchargée, cette option peut être ignorée."
         },
         {
-            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
-            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently, 5 types of image formats are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
+            "question": "Comment fonctionne l'option « Type Mime » de la fonction de compresseur de safeimagekit.com ?",
+            "answer": "L'option « Type MIME » de la fonction de compression de safeimagekit.com permet à l'utilisateur de choisir le format de l'image après la compression à l'aide de l'outil de compression de safeimagekit.com. Actuellement, 5 types de formats d'image sont disponibles pour l'utilisateur. L'utilisateur peut modifier le format de l'image en fonction de ses besoins. Ces formats incluent les formats webp, png, jpg, jpeg et gif. Si l'utilisateur souhaite conserver le format inchangé, il peut opter pour l'option intitulée « Entrez le type MIME ». L'option « Type MIME » est accessible en bas de la page après avoir téléchargé l'image, et enregistrer les modifications apportées."
         },
         {
-            "question": "Can I use the compress image feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the compress image feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "Puis-je utiliser la fonction de compression d'image de safeimagekit.com sur mon système d'exploitation LINUX ?",
+            "answer": "Oui, la fonction de compression d'image de safeimagekit.com peut être utilisée sur n'importe quel système d'exploitation, même LINUX. Il est construit avec le code et les fonctionnalités les plus récents qui permettent à l'utilisateur de compresser n'importe quelle image téléchargée par l'utilisateur sur n'importe quel système d'exploitation tel que MAC OS, Windows et Ubuntu, à condition qu'il existe un appareil avec une connexion Internet stable. Le tour de magie est qu'il fonctionne même sur une connexion Internet plus lente."
         },
         {
-            "question": "Can we edit the text present in the image file using the compress image feature from safeimagekit.com?",
-            "answer": "No, currently the compress image feature from safeimagekit.com only offers the features, which enables the user to compress the image, converting the format of the image from one format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
+            "question": "Pouvons-nous modifier le texte présent dans le fichier image à l'aide de la fonction de compression d'image de safeimagekit.com ?",
+            "answer": "Non, actuellement, la fonction de compression d'image de safeimagekit.com n'offre que les fonctionnalités qui permettent à l'utilisateur de compresser l'image, de convertir le format de l'image d'un format à un autre, etc. Les fonctionnalités d'édition de texte ne sont pas disponibles dans safeimagekit.com. Mais les mises à jour du site Web apporteront bientôt toutes les fonctionnalités intéressantes."
         },
         {
-            "question": "Can we edit or compress 4k and 8k images using the image compressor from safeimagekit.com?",
-            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
+            "question": "Pouvons-nous éditer ou compresser des images 4k et 8k à l'aide du compresseur d'images de safeimagekit.com ?",
+            "answer": "Non, actuellement, la fonction de compression de safeimagekit.com n'offre que des fonctionnalités d'édition d'images jusqu'à 1080p au mieux. Cependant, des options de compression et d'édition d'images 4k existent dans safeimagekit.com, mais le traitement d'image 8k n'est pas disponible et sera inclus dans un avenir proche en tant que mise à jour du site Web."
         },
         {
-            "question": "How many image files can we edit at a single stretch using the image compressor feature from safeimagekit.com?",
-            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single image, as this tool demands decent parameters while editing, multiple image editing features are not included, but updates to the website will make this possible. "
+            "question": "Combien de fichiers image pouvons-nous éditer en une seule fois à l'aide de la fonction de compression d'image de safeimagekit.com ?",
+            "answer": "Actuellement, la fonction de compression de safeimagekit.com peut éditer et compresser une seule image, car cet outil nécessite des paramètres décents lors de l'édition, plusieurs fonctionnalités d'édition d'images ne sont pas incluses, mais les mises à jour du site Web le rendront possible. "
         },
         {
-            "question": "Can I use the image compressor feature from safeimagekit.com on my Apple iPhone 11?",
-            "answer": "Yes, the image compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the image files which are uploaded to be compressed into others."
+            "question": "Puis-je utiliser la fonction de compression d'image de safeimagekit.com sur mon Apple iPhone 11 ?",
+            "answer": "Oui, la fonction de compression d'image de safeimagekit.com est une fonctionnalité multiplateforme, dans laquelle l'utilisateur peut utiliser cet outil de conversion à partir de systèmes d'exploitation tels que Android, iOS, Windows et Mac OS. Il est indépendant des systèmes d'exploitation utilisés mais dépend uniquement de la connexion Internet et de la taille des fichiers image qui sont téléchargés pour être compressés dans d'autres."
         },
         {
-            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress image feature from safeimagekit.com?",
-            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no image files are stored here, and are wiped from the memory as soon as the webpage is closed."
+            "question": "Mes fichiers image téléchargés seront-ils corrompus après les avoir compressés à l'aide des options exquises présentes dans la fonction de compression d'image de safeimagekit.com ?",
+            "answer": "Non, la fonction de compression de safeimagekit.com est construite avec tous les derniers programmes et fonctionnalités de sécurité qui ne permettent pas aux fichiers image téléchargés de se corrompre. Ainsi, les fichiers image téléchargés sont totalement sûrs et sécurisés. En outre, safeimagekit.com est un site Web sans serveur en raison duquel aucun fichier image n'est stocké ici et est effacé de la mémoire dès que la page Web est fermée."
         },
         {
-            "question": "Will my file be saved after I complete working on the image compressor tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Mon fichier sera-t-il enregistré une fois que j'aurai fini de travailler sur l'outil de compression d'images ? ",
+            "answer": "Non, nous n'envoyons aucun de vos fichiers à nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même, donc tous vos fichiers sont totalement sécurisés. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image compressor tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Dois-je m'inscrire ou payer un supplément pour utiliser l'outil de compression d'images ? ",
+            "answer": "Absolument pas, notre outil est entièrement en ligne et ne vous oblige pas à partager vos informations personnelles avec nous, telles que votre adresse e-mail, vos mots de passe, etc."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Comment communiquer si je rencontre des problèmes ou si je souhaite faire des suggestions ?",
+            "answer": "Nous sommes heureux de prendre en compte tous les problèmes ou suggestions proposés par tous les utilisateurs, veuillez nous contacter via nos identifiants de réseaux sociaux pour plus d'informations. SafeImageKit.com est disponible sur tous les principaux sites de médias sociaux tels que Facebook, Instagram, YouTube et LinkedIn, etc."
         }
     ],
     "jscdns": [

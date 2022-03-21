@@ -1,16 +1,16 @@
 {
     "Language": "Nederlands",
     "htmlLangAtt": "nl",
-    "H1": "Tekst-naar-beeldconverter",
+    "H1": "Tekst-naar-beeldconverter met slechts één klik",
     "img": "/img/texttoimage.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "succes",
-    "H2": "De conversie van tekst naar afbeelding is bij ons gemakkelijk gemaakt, begin met het uploaden van uw bestand hieronder",
-    "TITLE": "Tekst naar afbeelding- tekst-naar-beeldconverter- safeimagekit",
-    "META": "Bent u op zoek naar een hoogwaardige tekst-naar-beeldconverter? Nou, dan ben je hier aan het juiste adres. Onze online tool voor tekst naar afbeelding is uiterst veilig, gebruiksvriendelijk en supersnel.",
+    "H2": "Conversie van tekst naar afbeelding is door ons gemakkelijk gemaakt, begin met het uploaden van uw bestand hieronder",
+    "TITLE": "Tekst-naar-afbeelding- tekst naar beeldconverter- safeimagekit",
+    "META": "Bent u op zoek naar een hoogwaardige tekst-naar-beeldconvertor? Nou, dan ben je hier aan het juiste adres. Onze online tool voor tekst naar afbeelding is uiterst veilig, gebruiksvriendelijk en supersnel.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "",
@@ -19,12 +19,12 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "Hoge kwaliteit",
-            "content": "Onze tool voor het converteren van tekst naar afbeelding converteert elke tekst in een afbeelding door de kwaliteit ervan te behouden."
+            "content": "Onze tool voor het omzetten van tekst naar afbeelding zet elke tekst om in een afbeelding door de kwaliteit ervan te behouden."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Beveiliging van gegevens",
+            "header": "Gegevensbeveiliging",
             "content": "Geen van uw gegevens wordt op onze servers verzonden, alle bewerkingen worden uitgevoerd in de browser zelf. Dit stelt ons in staat om 100% veilig te zijn voor onze gebruikers"
         },
         {
@@ -43,78 +43,78 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Gratis",
-            "content": "Onze conversietool voor tekst naar afbeelding is volledig gratis, u kunt al onze tools gebruiken zonder een cent te betalen."
+            "content": "Onze tool voor het converteren van tekst naar afbeelding is volledig gratis, u kunt al onze tools gebruiken zonder een cent te betalen"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Geen extra download",
-            "content": "Onze tool voor het converteren van tekst naar afbeelding is volledig browsergebaseerd en er is geen extra software nodig om op uw apparaat te worden gedownload."
+            "content": "Onze tool voor het converteren van tekst naar afbeelding is volledig browsergebaseerd en er hoeft geen extra software op uw apparaat te worden gedownload."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "HOE JE ONZE TEKST NAAR EEN AFBEELDING CONVERTEERT",
         "steps": [
-            "Voer de tekst in die u wilt omzetten in een afbeelding in de daarvoor bestemde ruimte.",
+            "Voer de tekst in die moet worden omgezet in een afbeelding in de daarvoor bestemde ruimte.",
             "Pas de parameters aan voor een betere beelduitvoer",
-            "Druk op de knop Genereren om de tekst naar afbeelding te converteren",
+            "Druk op de generatieknop om de tekst naar afbeelding te converteren",
             "Sla de wijzigingen op die in de afbeelding zijn aangebracht.",
             "Hoera!!! de afbeelding is klaar voor gebruik."
         ]
     },
     "FAQ": [
         {
-            "question": "What are the features offered by the text to image converter from safeimagekit.com while, converting a given text to an image?",
-            "answer": "The text to image feature from safeimagekit.com offers versatile features while converting a piece of text to an image. They include-\n-\tInsertion of text which is to be converted into an image.\n-\tAdjusting the font size of the text which is entered.\n-\tModifying the text by italics\n-\tAdjusting the boldness of the text to be inserted.\n-\tModifying the stroke value \n-\tAdjusting the line-height\n-\tAdjusting the background color of the text\n-\tUpgrading the text inserted with colors."
+            "question": "Wat zijn de functies die de tekst naar beeldconverter van safeimagekit.com biedt terwijl een bepaalde tekst naar een afbeelding wordt geconverteerd?",
+            "answer": "De functie Tekst naar afbeelding van safeimagekit.com biedt veelzijdige functies bij het converteren van een stuk tekst naar een afbeelding. Ze omvatten-\n- Invoegen van tekst die moet worden omgezet in een afbeelding.\n- Aanpassen van de lettergrootte van de ingevoerde tekst.\n- Cursief de tekst wijzigen\n- Aanpassen van de vrijmoedigheid van de tekst die moet worden ingevoegd.\n- De lijnwaarde wijzigen \n- De lijnhoogte aanpassen\n- De achtergrondkleur van de tekst aanpassen\n- Upgraden van de tekst die is ingevoegd met kleuren."
         },
         {
-            "question": "How does the text insertion option of text to image converter from safeimagekit.com work?",
-            "answer": "The text insertion option of text to image converter from safeimagekit.com, lets the user add text on the space which is to be generated as an image. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. After these edits, the user can convert the text to an image."
+            "question": "Hoe werkt de optie voor het invoegen van tekst naar afbeelding van safeimagekit.com?",
+            "answer": "Met de tekstinvoeging optie van tekst naar beeldconverter van safeimagekit.com, kan de gebruiker tekst toevoegen op de ruimte die als afbeelding moet worden gegenereerd. De toegevoegde tekst kan worden aangepast en aangepast met behulp van verschillende functies, zoals kleuraanpassing, de dikte van de tekst, enz. Met de opties voor kleuraanpassing kan de gebruiker kleur aan de tekst toevoegen, aan de andere kant kan de dikte van de tekst de gebruiker de grootte van de tekst aanpassen. Na deze bewerkingen kan de gebruiker de tekst omzetten in een afbeelding."
         },
         {
-            "question": "How do we adjust the font size of the text while generating an image using the meme generator from safeimagekit.com?",
-            "answer": "The font size of the text while generating an image using the text to image converter from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+            "question": "Hoe passen we de lettergrootte van de tekst aan terwijl we een afbeelding genereren met behulp van de meme-generator van safeimagekit.com?",
+            "answer": "De lettergrootte van de tekst tijdens het genereren van een afbeelding met behulp van de text to image converter van safeimagekit.com kan worden aangepast door de factor van grootte in te voeren. Deze optie is toegankelijk door de geldige grootte in te voeren in de ruimte met de naam „Voer de lettergrootte in”. De grootte kan worden aangepast door een waarde in die ruimte in te voeren. De lettergrootte van de tekst kan worden vergroot door de waarden in te voeren die een positieve (+) waarde hebben. De lettergrootte van de tekst kan worden verkleind door de waarden in te voeren die een negatieve (-) waarde hebben."
         },
         {
-            "question": "Can we convert our text to Italics which is entered in the space for editing, while creating an image from text using the text to image converter from safeimagekit.com?",
-            "answer": "Yes, the text to image converter from safeimagekit.com lets the user convert the text which is entered in the space for editing to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present in the space to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the process."
+            "question": "Kunnen we onze tekst omzetten naar cursief dat is ingevoerd in de ruimte voor bewerking, terwijl we een afbeelding van tekst maken met behulp van de tekst naar beeldconverter van safeimagekit.com?",
+            "answer": "Ja, met de tekst naar beeldconverter van safeimagekit.com kan de gebruiker de tekst die is ingevoerd in de ruimte voor bewerking omzetten naar cursief formaat. Deze functie is toegankelijk door op de knop „I” te drukken, wat staat voor cursief, dit converteert de tekst in de ruimte naar cursieve vorm. Druk na de conversie op de knop „opslaan”. Dit bespaart de voortgang die in het proces wordt geboekt."
         },
         {
-            "question": "Can we convert our text from plain to bold, which is entered in the space under editing, while creating an image using the text to image converter from safeimagekit.com?",
-            "answer": "Yes, the text to image converter feature from safeimagekit.com lets the user convert the plain text to bold text which is entered in the space for editing. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present in the space to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the process."
+            "question": "Kunnen we onze tekst converteren van gewoon naar vet, die wordt ingevoerd in de ruimte die wordt bewerkt, terwijl we een afbeelding maken met behulp van de tekst naar beeldconverter van safeimagekit.com?",
+            "answer": "Ja, met de functie voor het converteren van tekst naar afbeelding van safeimagekit.com kan de gebruiker de platte tekst converteren naar vetgedrukte tekst die is ingevoerd in de ruimte voor bewerking. Deze functie is toegankelijk door op de knop „B” te drukken, wat staat voor vet gedrukt, dit converteert de platte tekst die in de ruimte aanwezig is in vetgedrukte tekst. Druk na de conversie op de knop „opslaan”. Dit bespaart de voortgang die in het proces wordt geboekt."
         },
         {
-            "question": "How does the stroke value work in the image conversion in the text to image converter tool from safeimagekit.com?",
-            "answer": "The stroke value of text to image converter tool from safeimagekit.com works by adjusting the color of the text which is inserted in the space for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
+            "question": "Hoe werkt de lijnwaarde in de beeldconversie in de tool voor het converteren van tekst naar afbeelding van safeimagekit.com?",
+            "answer": "De lijnwaarde van het hulpprogramma voor het omzetten van tekst naar afbeelding van safeimagekit.com werkt door de kleur aan te passen van de tekst die wordt ingevoegd in de ruimte voor bewerking. Deze waarde is toegankelijk door een waarde in te voeren in de opgegeven ruimte met de naam „Voer de lijnwaarde in”. De lijnwaarde van de afbeelding tijdens het converteren naar een meme kan worden aangepast door een positieve waarde (+) in te voeren om de lijn te verhogen. De slagwaarde kan worden verlaagd door een negatieve waarde (-) in te voeren om de slag te verlagen."
         },
         {
-            "question": "How can we color the text which is entered in the image conversion space, while creating an image using the text to image converter tool from safeimagekit.com?",
-            "answer": "The text to image converter tool from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
+            "question": "Hoe kunnen we de tekst kleuren die is ingevoerd in de afbeeldingsconversieruimte, terwijl we een afbeelding maken met behulp van de tool voor het converteren van tekst naar afbeelding van safeimagekit.com?",
+            "answer": "De tool voor het omzetten van tekst naar afbeelding van safeimagekit.com laat de gebruiker de tekst op de afbeelding kleuren, deze optie is toegankelijk door op het zwarte vak naast elke belangrijke functie te drukken, nadat het zwarte vak is geraakt, verschijnt het kleurvak en heeft de gebruiker toegang tot elke kleur om op de tekst te schilderen."
         },
         {
-            "question": "How does the background colour option of text to image converter tool from safeimagekit.com work?",
-            "answer": "The background colour option of text to image converter tool from safeimagekit.com is a unique feature, which lets the user add colour to the background space of the image generated. This option can be accessed at the bottom of the page named “Background colour”. There are a variety of colours available for the user to choose, the colour when chosen can be saved by hitting the “save” option below."
+            "question": "Hoe werkt de achtergrondkleuroptie van tekst naar beeldconvertertool van safeimagekit.com?",
+            "answer": "De achtergrondkleuroptie van het hulpprogramma voor het omzetten van tekst naar afbeelding van safeimagekit.com is een unieke functie, waarmee de gebruiker kleur kan toevoegen aan de achtergrondruimte van de gegenereerde afbeelding. Deze optie is toegankelijk onderaan de pagina met de naam „Achtergrondkleur”. Er zijn verschillende kleuren beschikbaar die de gebruiker kan kiezen, de kleur wanneer gekozen kan worden opgeslagen door op de optie „opslaan” hieronder te klikken."
         },
         {
-            "question": "Can I use the text to image converter tool from safeimagekit.com on my Apple iPhone 11 pro? ",
-            "answer": "Yes, the text to image converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the amount of text pasted on the space for conversion which is uploaded to be converted into an image."
+            "question": "Kan ik de tool voor het converteren van tekst naar afbeelding van safeimagekit.com gebruiken op mijn Apple iPhone 11 pro? ",
+            "answer": "Ja, de tool voor het converteren van tekst naar afbeelding van safeimagekit.com is een platformonafhankelijke website waar de gebruiker deze convertertool kan gebruiken vanaf besturingssystemen zoals Android, iOS, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar hangt alleen af van de internetverbinding en de hoeveelheid tekst die is geplakt op de ruimte voor conversie die wordt geüpload om te worden omgezet in een afbeelding."
         },
         {
-            "question": "Can I use the text to image converter tool from safeimagekit.com on my Windows 8?",
-            "answer": "The text to image converter feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Kan ik de tool voor het converteren van tekst naar afbeelding van safeimagekit.com op mijn Windows 8 gebruiken?",
+            "answer": "De tekst-naar-beeldconverter-functie is een veelzijdige functie die wordt aangeboden door safeimagekit.com die wordt ondersteund door alle besturingssystemen die er zijn, zoals Windows 8, Linux en zelfs Ubuntu. Het enige dat nodig is, is een apparaat om het extensiebestand te openen via de website www.safeimagekit.com en een normale internetverbinding om op te staan. Het leuke feit is dat het zelfs kan draaien op een langzamere internetverbinding."
         },
         {
-            "question": "Will my file be saved after I complete working on the text to image conversion tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met het conversietool van tekst naar afbeelding? ",
+            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the text to image conversion tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Moet ik een extra aanmelding doen of extra betalen om de tool voor het converteren van tekst naar afbeelding te gebruiken? ",
+            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Hoe communiceer ik als ik problemen heb of als ik suggesties wil geven?",
+            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
         }
     ],
     "jscdns": [

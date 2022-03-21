@@ -406,68 +406,68 @@
     },
     "FAQ": [
         {
-            "question": "How does resizer image to 3x5 dimensions tool work?",
-            "answer": "If you need to resize an image, you can use the resizer image to X dimensions feature to make it fit a particular sized frame or document. You can resize an image by changing its height and width. Then, just click the Dimensions in Inches option and select the new size you wish to apply to the image.The resizer image to 3x5 dimensions tool will allow you to resize an image to a specific size in inches. You can choose the dimensions and format of the file. The resizer image to 3x5 dimensions tool will then allow you to download the resized image. The resizing process is relatively quick and painless. To put it another way, resizing an image without resampling just alters the size of the image, not the data content. This image has had no information added or removed.You can also use a resizer image to X dimensions tool to reduce the size of a file. Using the resizer image to X dimensions tool means that you can save space on your computer and reduce the file size. This will make the image smaller without compromising its quality. Then, you can upload it in a new file format. However, this method will not reduce the image quality."
+            "question": "Hvordan virker resizer billede til 3x5 dimensioner værktøj arbejde?",
+            "answer": "Hvis du har brug for at ændre størrelsen på et billede, kan du bruge funktionen Resizer image til X-dimensioner for at få det til at passe til en bestemt størrelse ramme eller dokument. Du kan ændre størrelsen på et billede ved at ændre dets højde og bredde. Derefter skal du blot klikke på Dimensioner i Inches mulighed og vælge den nye størrelse, du ønsker at anvende på billedet.The resizer billede til 3x5 dimensioner værktøj vil give dig mulighed for at ændre størrelsen på et billede til en bestemt størrelse i inches. Du kan vælge filens dimensioner og format. Værktøjet Resizer billede til 3x5 dimensioner vil derefter give dig mulighed for at downloade det skalerede billede. Resizing processen er relativt hurtig og smertefri. For at sige det på en anden måde ændrer størrelsen på et billede uden at resample bare størrelsen på billedet, ikke dataindholdet. Dette billede har ikke fået tilføjet eller fjernet.Du kan også bruge en resizer billede til X dimensioner værktøj til at reducere størrelsen af en fil. Brug af værktøjet Resizer billede til X-målsætninger betyder, at du kan spare plads på din computer og reducere filstørrelsen. Dette vil gøre billedet mindre uden at gå på kompromis med dets kvalitet. Derefter kan du uploade det i et nyt filformat. Denne metode reducerer dog ikke billedkvaliteten."
         },
         {
-            "question": "Is it safe to use resizer image to 3x5 dimensions tool?",
-            "answer": "As the name implies, this software functions by decreasing the size of the original image. It does not, however, degrade the clarity of the original image in any way. The programme can only resize images inches or pixels of their original size. It is unable to resize images or convert them to other formats.The resizer image to 3x5 dimensions tool may be used to resize any image to any desired size with ease. It is completely free and may be accessed on any platform. To change the size of an image, simply drag and drop it into the resize box. After resizing the image, you can save it to your computer. The original file size, as well as the updated dimension, will be saved by this utility."
+            "question": "Er det sikkert at bruge resizer billede til 3x5 dimensioner værktøj?",
+            "answer": "Som navnet antyder, fungerer denne software ved at reducere størrelsen af det originale billede. Det forringer dog ikke det originale billedes klarhed på nogen måde. Programmet kan kun ændre størrelsen på billeder tommer eller pixels af deres oprindelige størrelse. Det er i stand til at ændre størrelsen på billeder eller konvertere dem til andre formats.The resizer billede til 3x5 dimensioner værktøj kan bruges til at ændre størrelsen på et billede til enhver ønsket størrelse med lethed. Det er helt gratis og kan tilgås på enhver platform. Hvis du vil ændre størrelsen på et billede, skal du blot trække og slippe det ind i feltet Resize. Når du har ændret størrelsen på billedet, kan du gemme det på din computer. Den oprindelige filstørrelse, såvel som den opdaterede dimension, gemmes af dette værktøj."
         },
         {
-            "question": "What image formats does resizer image to 3x5 dimensions tool support?",
-            "answer": "It is possible to resize images in file formats such as JPG, JPEG, PNG, and WEBP by using the resizer image to 3x5 dimensions tool. It is compatible with the most widely used picture file formats on the internet. Simply drag and drop your JPG, JPGE, PNG, or WEBP image onto the tool and select the size that you would like to have your image scaled or resized. After resizing the image, you can save it to your computer."
+            "question": "Hvilke billedformater understøtter resizer billede til 3x5 dimensioner værktøj?",
+            "answer": "Det er muligt at ændre størrelsen på billeder i filformater som JPG, JPEG, PNG og WEBP ved hjælp af resizer image til 3x5 dimensions-værktøjet. Den er kompatibel med de mest udbredte billede filformater på internettet. Du skal blot trække og slippe dit JPG-, JPGE-, PNG- eller WEBP-billede på værktøjet og vælge den størrelse, som du gerne vil have dit billede skaleret eller skaleret. Når du har ændret størrelsen på billedet, kan du gemme det på din computer."
         },
         {
-            "question": "Is it possible to resize (convert, optimize) many images at the same time by using resizer image to 3x5 dimensions tool?",
-            "answer": "When utilising the resizer image to 3x5 dimensions tool, several images cannot be resized at the same time. In such situations, a few methods can be used. For example, in Photoshop, you can use the Image Processor dialogue box to resize several images at once. Select Tools > Adjust Size, and choose the size you want for all images. You can also change the percentage by entering a lower or higher value. For example, you can reduce an image by choosing a percentage of less than 100 and enlarge it by choosing a higher value.Resizing an image can also be done on a multi-threaded computer. This method allows you to resize multiple images at once, but it is not recommended for a web page. If you need to resize multiple images, use the resize command. It will take much less time than using the resize command individually. And once you've set it up, you can even batch resize your files at once."
+            "question": "Er det muligt at ændre størrelsen (konvertere, optimere) mange billeder på samme tid ved at bruge resizer billede til 3x5 dimensioner værktøj?",
+            "answer": "Når du bruger værktøjet Resizer image til 3x5 dimensioner, kan flere billeder ikke ændres på samme tid. I sådanne situationer kan nogle få metoder anvendes. I Photoshop kan du f.eks. bruge dialogboksen Billedprocessor til at ændre størrelsen på flere billeder på én gang. Vælg Værktøjer > Juster størrelse, og vælg den ønskede størrelse for alle billeder. Du kan også ændre procentdelen ved at indtaste en lavere eller højere værdi. For eksempel kan du reducere et billede ved at vælge en procentdel på mindre end 100 og forstørre det ved at vælge en højere værdi.Ændre størrelsen på et billede kan også gøres på en multi-threaded computer. Denne metode giver dig mulighed for at ændre størrelsen på flere billeder på én gang, men det anbefales ikke til en webside. Hvis du har brug for at ændre størrelsen på flere billeder, skal du bruge kommandoen Resize. Det vil tage meget mindre tid end at bruge kommandoen resize individuelt. Og når du har konfigureret det, kan du endda batch ændre størrelsen på dine filer på én gang."
         },
         {
-            "question": "Is it true that because the tool for resizing images to 3x5 dimensions is free, my data is sold to third parties?",
-            "answer": "Our resizer image to 3x5 dimensions tool reduces images to a specific size in terms of inches Don't store, distribute, or commercialize your personal information. You are not charged for using the service."
+            "question": "Er det sandt, at fordi værktøjet til at ændre størrelsen på billeder til 3x5 dimensioner er gratis, sælges mine data til tredjepart?",
+            "answer": "Vores værktøj til størrelse billede til 3x5 dimensioner reducerer billeder til en bestemt størrelse i form af inches Må ikke gemme, distribuere eller kommercialisere dine personlige oplysninger. Du opkræves ikke for at bruge tjenesten."
         },
         {
-            "question": "Any software or registration is required for me to use this resizer image to 3x5 dimensions tool.",
-            "answer": "There is no need for you to download any software or sign up for a service because our resizer image to 3x5 dimensions tool is stored locally in your web browser. The ability to resize the image means that you won't have to be bothered about the size of your images."
+            "question": "Enhver software eller registrering er nødvendig for mig at bruge denne resizer billede til 3x5 dimensioner værktøj.",
+            "answer": "Der er ikke behov for dig at downloade software eller tilmelde dig en tjeneste, fordi vores resizer billede til 3x5 dimensioner værktøj gemmes lokalt i din webbrowser. Evnen til at ændre størrelsen på billedet betyder, at du ikke behøver at blive generet om størrelsen på dine billeder."
         },
         {
-            "question": "Does resizing an image change the file size?",
-            "answer": "When you resize an image without resampling it, you modify its size without changing its data content. Only the physical dimensions (Width and Height in Document Size) and the resolution (inches) can be changed."
+            "question": "Ændrer størrelsen på et billede filstørrelsen?",
+            "answer": "Når du ændrer størrelsen på et billede uden at ændre det igen, ændrer du dets størrelse uden at ændre dets dataindhold. Kun de fysiske dimensioner (bredde og højde i dokumentstørrelse) og opløsningen (tommer) kan ændres."
         },
         {
-            "question": "Can i resize a black and white image by using the resizer image to 3x5 dimensions tool?",
-            "answer": "Our resizer image to 3x5 dimensions tool does support resizing of black and white images, therefore you can use it to do so."
+            "question": "Kan jeg ændre størrelsen på et sort/hvidt billede ved at bruge resizer image til 3x5 dimensions-værktøjet?",
+            "answer": "Vores resizer billede til 3x5 dimensioner værktøj understøtter resizing af sort/hvide billeder, derfor kan du bruge det til at gøre det."
         },
         {
-            "question": "Does resizer image to 3x5 dimensions tool loose image information?",
-            "answer": "No, throughout the conversion process, our resizer image to 3x5 dimensions tool will not discard the image data."
+            "question": "Er resizer billede til 3x5 dimensioner værktøj løs billedoplysninger?",
+            "answer": "Nej, i hele konverteringsprocessen, vores resizer billede til 3x5 dimensioner værktøj vil ikke kassere billeddata."
         },
         {
-            "question": "Does the resizer image to 3x5 dimensions tool support both Android and iOS platforms?",
-            "answer": "It is important to note that our resizer image to 3x5 dimensions tool is a mobile-compatible tool, which means that it is compatible with both the Android and iOS platforms."
+            "question": "Understøtter resizer billede til 3x5 dimensioner værktøj både Android og iOS platforme?",
+            "answer": "Det er vigtigt at bemærke, at vores resizer billede til 3x5 dimensioner værktøj er et mobil-kompatibelt værktøj, hvilket betyder, at det er kompatibelt med både Android og iOS platforme."
         },
         {
-            "question": "What are the common uses for the resizer image to 3x5 dimensions tool?",
-            "answer": "Resizer images to 3x5 dimensions tool is used to fit an image to a given dimensions in inches. This might be for a profile picture, a banner image, or images of products in your online store. Each format has an appropriate picture size. Your internet images and images come in unlimited sizes. Resize the image and you can fit it properly without the need to crop. High-quality images improve the user experience and increase trust. If your website or online business doesn’t seem quite right, your clients are going to bounce."
+            "question": "Hvad er de almindelige anvendelser for resizer billede til 3x5 dimensioner værktøj?",
+            "answer": "Resizer billeder til 3x5 dimensioner værktøj bruges til at passe et billede til en given dimensioner i inches. Dette kan være for et profilbillede, et bannerbillede eller billeder af produkter i din webshop. Hvert format har en passende billedstørrelse. Dine internetbilleder og billeder kommer i ubegrænsede størrelser. Ændre størrelsen på billedet, og du kan passe det ordentligt uden at skulle beskære. Billeder af høj kvalitet forbedrer brugeroplevelsen og øger tilliden. Hvis din hjemmeside eller online-forretning ikke synes helt rigtigt, dine kunder kommer til at hoppe."
         },
         {
-            "question": "What are the benefits of using the resizer image to 3x5 dimensions tool?",
-            "answer": "Our resizer images to 3x5 dimensions tool is completely free, and it just takes a few seconds to do its task. That's a significant reduction in potential stress. There is no need to become familiar with any difficult software programmes. In order to resize your images to X dimensions in inches, you can choose the size that you wish to use in the process. All you need to do is determine what size you want, enter the desired width and height in the Resize Image pop-up, and then sit back and let the tool do the rest for you.Using the Resizer image to 3x5 dimensions tool can be extremely useful when you need to resize your images to fit into a specific format or size in inches. They have the ability to reduce the size of images of any size, so you won't have to be concerned about the size."
+            "question": "Hvad er fordelene ved at bruge resizer billede til 3x5 dimensioner værktøj?",
+            "answer": "Vores resizer billeder til 3x5 dimensioner værktøj er helt gratis, og det tager bare et par sekunder at gøre sin opgave. Det er en betydelig reduktion i potentiel stress. Der er ingen grund til at blive fortrolig med vanskelige softwareprogrammer. For at ændre størrelsen på dine billeder til X dimensioner i inches, kan du vælge den størrelse, du ønsker at bruge i processen. Alt du skal gøre er at bestemme hvilken størrelse du ønsker, indtaste den ønskede bredde og højde i Resize billede pop-up, og derefter læne sig tilbage og lad værktøjet gøre resten for dig.Brug af Resizer billede til 3x5 dimensioner værktøj kan være yderst nyttigt, når du har brug for at ændre størrelsen på dine billeder til at passe ind i et bestemt format eller størrelse i inches. De har evnen til at reducere størrelsen af billeder af enhver størrelse, så du behøver ikke at være bekymret for størrelsen."
         },
         {
-            "question": "Can I resize an image to 3x5 dimensions without losing quality?",
-            "answer": "With the help of the resizer image to 3x5 dimensions tool, you may resize images without sacrificing their quality. The expanded image will have the same aspect ratio as the original image."
+            "question": "Kan jeg ændre størrelsen på et billede til 3x5 dimensioner uden at miste kvalitet?",
+            "answer": "Ved hjælp af resizer billede til 3x5 dimensioner værktøj, kan du ændre størrelsen på billeder uden at ofre deres kvalitet. Det udvidede billede har samme billedformat som det originale billede."
         },
         {
-            "question": "Do I have to log in to use this resizer image to 3x5 dimensions tool?",
-            "answer": "Due to the fact that our resizer image to 3x5 dimensions tool is stored locally in your web browser, there is no need for you to download any software or sign up for the service."
+            "question": "Skal jeg logge ind for at bruge dette resizer billede til 3x5 dimensions-værktøj?",
+            "answer": "På grund af det faktum, at vores resizer billede til 3x5 dimensioner værktøj er gemt lokalt i din webbrowser, er der ikke behov for dig at downloade nogen software eller tilmelde dig tjenesten."
         },
         {
-            "question": "When it comes to zooming and resizing, what's the difference? Zooming is done with the resizer image to 3x5 dimensions tool?",
-            "answer": "Resizing an image alters its proportions, resulting in a larger file size (and, thereby, image quality). The user can adjust the view of a document or image by zooming in or out. It just expands the image on the paper without changing or modifying the original size. We can only resize images in inches with the resizer image to 3x5 dimensions tool; it is not useful for zooming."
+            "question": "Når det kommer til at zoome og ændre størrelse, hvad er forskellen? Zoomning sker med resizer billede til 3x5 dimensioner værktøj?",
+            "answer": "Ændre størrelsen på et billede ændrer dets proportioner, hvilket resulterer i en større filstørrelse (og dermed billedkvalitet). Brugeren kan justere visningen af et dokument eller billede ved at zoome ind eller ud. Det udvider bare billedet på papiret uden at ændre eller ændre den oprindelige størrelse. Vi kan kun ændre størrelsen på billeder i inches med resizer billede til 3x5 dimensioner værktøj; det er ikke nyttigt for zoom."
         },
         {
-            "question": "What's the difference between scaling and resizing? The resizer image to 3x5 dimensions tool is used to perform the scaling?",
-            "answer": "The biggest difference between scaling and resizing lies in the way that the resolution of the image is altered. While resizing involves a more exact pixel size, scaling is a less exact process. In this case, the original image must be multiples of the final size, which can result in a pixelated effect. This is a key feature to consider when resizing an image. Using the resizer image to 3x5 dimensions tool, we can only resize images in inches; it is not useful for scaling."
+            "question": "Hvad er forskellen mellem skalering og ændring af størrelse? Værktøjet resizer billede til 3x5 dimensioner bruges til at udføre skaleringen?",
+            "answer": "Den største forskel mellem skalering og størrelse ligger i den måde, hvorpå opløsningen af billedet ændres. Mens resizing indebærer en mere præcis pixelstørrelse, skalering er en mindre nøjagtig proces. I dette tilfælde skal det originale billede være multipla af den endelige størrelse, hvilket kan resultere i en pixeleret effekt. Dette er en vigtig funktion til at overveje, når størrelsen på et billede ændres. Ved hjælp af resizer billede til 3x5 dimensioner værktøj, kan vi kun ændre størrelsen på billeder i inches; det er ikke nyttigt til skalering."
         }
     ],
     "jscdns": [

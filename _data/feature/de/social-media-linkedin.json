@@ -1,24 +1,24 @@
 {
     "Language": "Deutsch",
     "htmlLangAtt": "de",
-    "h1": "Bildgröße für LinkedIn ändern ",
+    "h1": "Kostenloses Bild-Resizer-Tool für LinkedIn ",
     "img": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "Warnung",
-    "h2": "Laden Sie hier Ihr Bild hoch und ändern Sie die Größe jetzt",
-    "TITLE": "Bildgröße für LinkedIn ändern | Online-Tool zur Größenanpassung von Bildern ",
-    "META": "Auf der Suche nach einem kostenlosen und Online-Bild-Resizer für LinkedIn? Besuchen Sie unsere Website und ändern Sie die Größe des Bilds für LinkedIn in wenigen Sekunden.",
+    "h2": "Laden Sie Ihr Bild für LinkedIn hoch und ändern Sie es mit einem Klick",
+    "TITLE": "Bildgröße für LinkedIn ändern | Online-Bild-Resizer-Tool ",
+    "META": "Auf der Suche nach einem kostenlosen und Online-Bild-Resizer für LinkedIn? Besuchen Sie unsere Website und ändern Sie die Bildgröße für LinkedIn in wenigen Sekunden.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
-     "megaMenu": {
+    "megaMenu": {
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "Resizers für soziale Medien",
+                "categoryName": "Größenanpassungen für soziale Netzwerke",
                 "links": [
                     {
                         "name": "Facebook-Bild-Resizer",
@@ -31,7 +31,7 @@
                         "url": "/de/image-resize-instagram"
                     },
                     {
-                        "name": " Linkedin-Bildgrößenänderung",
+                        "name": " Linkedin Bild-Resizer",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
                         "url": "/de/image-resize-linkedin"
                     },
@@ -41,12 +41,12 @@
                         "url": "/de/image-resize-email"
                     },
                     {
-                        "name": " Tiktok Bildgrößenänderung",
+                        "name": " Tiktok Bild-Resizer",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
                         "url": "/de/image-resize-tiktok"
                     },
                     {
-                        "name": " Twitter-Bild-Resizer",
+                        "name": " Bild-Resizer auf Twitter",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
                         "url": "/de/image-resize-twitter"
                     },
@@ -56,27 +56,27 @@
                         "url": "/de/image-resize-pinterest"
                     },
                     {
-                        "name": "Snapchat-Bildgrößenänderung",
+                        "name": "Snapchat Bild-Resizer",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
                         "url": "/de/image-resize-snapchat"
                     },
                     {
-                        "name": " Bildgrößenänderung von Google Banner Ads",
+                        "name": " Bildgröße für Google-Bannerwerbung",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
                         "url": "/de/image-resize-google-banner-ads"
                     },
                     {
-                        "name": " Discord-Bild-Größenanpassung",
+                        "name": " Discord Bild-Resizer",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
                         "url": "/de/image-resize-discord"
                     },
                     {
-                        "name": " SoundCloud-Bildgrößenänderung",
+                        "name": " SoundCloud-Bild-Resizer",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
                         "url": "/de/image-resize-soundcloud"
                     },
                     {
-                        "name": " WhatsApp-Bildgrößenänderung",
+                        "name": " WhatsApp-Bild-Resizer",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
                         "url": "/de/image-resize-whatsapp"
                     },
@@ -86,7 +86,7 @@
                         "url": "/de/image-resize-squarespace"
                     },
                     {
-                        "name": " Twitch-Bild-Resizer",
+                        "name": " Bild-Resizer zucken",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
                         "url": "/de/image-resize-twitch"
                     },
@@ -103,8 +103,8 @@
         {
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",
-            "header": "Einfach zu bedienen",
-            "content": "Prozess zur Bildanpassung in sozialen Medien: elegant und unkompliziert"
+            "header": "Einfach zu benutzen",
+            "content": "Social Media Image Resizer-Prozess elegant und unkompliziert"
         },
         {
             "priority": 1,
@@ -122,18 +122,18 @@
             "priority": 1,
             "logoUrl": "/assets/shield.svg",
             "header": "Sicher und vertrauenswürdig",
-            "content": "Es ist kein Server beteiligt und daher sind Ihre Daten und Dateien sicher"
+            "content": "Es ist kein Server beteiligt und daher sind Ihre Daten und Dateien sicher."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/fast.svg",
             "header": "Schnell und effizient",
-            "content": "Die Website verarbeitet Ihre Datei sehr schnell und effizient. Sie können Ihre Arbeit in kürzester Zeit erledigen"
+            "content": "Die Site verarbeitet Ihre Datei sehr schnell und effizient.Sie können Ihre Arbeit in kürzester Zeit erledigen"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud_new.svg",
-            "header": "Es werden keine Dateien hochgeladen",
+            "header": "Es wurden keine Dateien hochgeladen",
             "content": "Die Anwendung funktioniert vollständig in Ihrem Browser, ohne dass ein Server erforderlich ist. Daher sind Ihre Dateien sicher"
         }
     ],
@@ -141,64 +141,64 @@
         "logoImageUrl": "/idea.svg",
         "heading": "So ändern Sie die Größe Ihrer Bilder",
         "steps": [
-            "Laden Sie das Bild hoch, für das Sie die Größe ändern möchten.",
+            "Laden Sie das Bild hoch, dessen Größe Sie ändern möchten.",
             "Wählen Sie die passende Größe oder mehrere Größen",
-            "Klicken Sie auf „Alle herunterladen“, um alle verfügbaren Größen herunterzuladen.",
-            "Drücke den ausgewählten Download-Button, um die ausgewählten Bildgrößen herunterzuladen."
+            "Klicken Sie auf den Download, um alle verfügbaren Größen herunterzuladen.",
+            "Klicken Sie auf die ausgewählte Download-Schaltfläche, um die ausgewählten Bildgrößen herunterzuladen."
         ]
     },
     "FAQ": [
         {
-            "question": "What are the features offered by the Linkedin image resizer tool from safeimagekit.com while, adjusting the size of the images?",
-            "answer": "LinkedIn image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories.\n"
+            "question": "Welche Funktionen bietet das Linkedin Image Resizer-Tool von safeimagekit.com beim Anpassen der Größe der Bilder?",
+            "answer": "Der LinkedIn Image Resizer von safeimagekit.com bietet vielseitige Funktionen beim Ändern der Größe eines zur Bearbeitung hochgeladenen Bildes. Zu den Hauptmerkmalen gehören\n- Erstellen mehrerer Versionen des Bildes in verschiedenen Kategorien.\n- Bearbeiten Sie jede Bildqualität separat.\n- Anpassen der Bildgröße in Bezug auf die Breite.\n- Anpassen der Bildgröße in Bezug auf die Höhe.\n- Vollständige Größenänderung des Bildes und Herunterladen.\n- Bearbeiten Sie die Bilder und laden Sie die ausgewählten oder alle Bildkategorien herunter.\n"
         },
         {
-            "question": "What are the different image categories available in the Linkedin image resizer offered by Safeimagekit.com?",
-            "answer": "The Linkedin image resizer offers image editing options in multiple sections where a user can upload his/her image in the Linkedin app/website, these categories include-\n-\tLinkedin logo size\n-\tLinkedin tab image\n-\tLinkedin dynamic ad\n-\tLinkedin background photo\n-\tLinkedin profile picture\n-\tLinkedin sponsored content\n-\tLinkedin link post\n-\tLinkedin cover photo\n-\tLinkedin stories\n-\tLinkedin blog post link\n-\tLinkedin business banner\n-\tLinkedin square post\n-\tLinkedin portrait post."
+            "question": "Welche verschiedenen Bildkategorien stehen im Linkedin-Bild-Resizer von SafeimageKit.com zur Verfügung?",
+            "answer": "Der Linkedin Image Resizer bietet Bildbearbeitungsoptionen in mehreren Abschnitten, in denen ein Benutzer sein Bild in die Linkedin-App/Website hochladen kann. Zu diesen Kategorien gehören:\n- Linkedin-Logo Größe\n- Linkedin-Registerbild\n- Linkedin dynamische Anzeige\n- Linkedin-Hintergrundfoto\n- Linkedin-Profilbild\n- Linkedin gesponser\n- Linkeintrag LinkedIn\n- Linkedin-Titelbild\n- Linkedin-Geschichten\n- Linkedin-Blogbeitrag\n- Linkedin-Geschäftsbanner\n- Linkedin quadratischer Posten\n- Linkedin-Porträt-Beitrag"
         },
         {
-            "question": "How can I adjust the width of the image using the Linkedin image resizer feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+            "question": "Wie kann ich die Breite des Bildes mithilfe der Linkedin-Bild-Resizer-Funktion von safeimagekit.com anpassen?",
+            "answer": "Laden Sie im ersten Schritt das Bild hoch, für das eine Bearbeitung erforderlich ist. Der nächste Schritt umfasst das Anpassen der wichtigen Parameter des Bildes, einschließlich der Anpassung der Breite. Um auf diese Option zuzugreifen, müssen Sie eine Kategorie aus allen Versionen auswählen und auf die Bearbeitungsoption klicken, um mit der Bearbeitung zu beginnen. Anschließend wird ein Popup angezeigt, in dem Sie die Breite des Bildes ziehen und anpassen können. Die Bonusoption besteht darin, dass wir vergrößern und verkleinern können, um den erforderlichen Inhalt des Bildes durch einfaches Ein- und Ausscrollen zu steuern."
         },
         {
-            "question": "How can I adjust the height of the image using the Linkedin image resizer feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+            "question": "Wie kann ich die Höhe des Bilds mithilfe der Linkedin-Bild-Resizer-Funktion von safeimagekit.com anpassen?",
+            "answer": "Laden Sie im ersten Schritt das Bild hoch, für das eine Bearbeitung erforderlich ist. Im nächsten Schritt werden die wichtigen Parameter des Bildes angepasst, dazu gehört auch das Anpassen der Höhe. Um auf diese Option zuzugreifen, müssen Sie eine Kategorie aus allen Versionen auswählen und auf die Bearbeitungsoption klicken, um mit der Bearbeitung zu beginnen. Anschließend wird ein Popup angezeigt, in das Sie die Bildhöhe ziehen und anpassen können. Die Bonusoption besteht darin, dass wir vergrößern und verkleinern können, um den erforderlichen Inhalt des Bildes durch einfaches Ein- und Ausscrollen zu steuern."
         },
         {
-            "question": "How can I resize an image using the Linkedin image resizer feature from safeimagekit.com?",
-            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there."
+            "question": "Wie kann ich die Größe eines Bilds mithilfe der Linkedin-Bild-Resizer-Funktion von safeimagekit.com ändern?",
+            "answer": "Es gibt 6 Schritte, auf die sich der Benutzer beim Ändern der Größe einer Bilddatei beziehen kann:\nDiese beinhalten-\n- Laden Sie die Bilddatei hoch, für die eine Änderung erforderlich ist.\n- Wählen Sie aus den verfügbaren Optionen die gewünschte Bildkategorie aus.\n- Klicken Sie auf Bearbeiten, um das Bild an Höhe und Breite anzupassen.\n- Wenn Sie mehrere Bildkategorien mögen, wählen Sie sie einfach aus, indem Sie auf ein Feld in der oberen rechten Ecke jeder Bildversion klicken.\n- Klicken Sie auf „Ausgewählte herunterladen“, um eine bestimmte/mehrere Versionen herunterzuladen.\n- Klicken Sie auf „Alle herunterladen“, um alle Image-Versionen herunterzuladen."
         },
         {
-            "question": "Does the resize option of the Linkedin image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
-            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
+            "question": "Bietet die Größenänderungsoption der Linkedin-Bild-Resizer-Funktion von safeimagekit.com eine Vorschau, nachdem die Größe der hochgeladenen Bilddatei geändert wurde?",
+            "answer": "Nein, derzeit bietet die Größenänderungsfunktion des Foto-Splitters von safeimagekit.com keine Vorschau der Abschnitte des hochgeladenen Bildes, da manchmal die Abschnitte des hochgeladenen Bildes über Bord gehen und es für den Browser sehr schwierig wird, die Vorschau jedes Bildausschnitts zu verarbeiten Das Bild kann jedoch nach Abschluss der Bearbeitung angezeigt werden und kann heruntergeladen werden. Aktualisierungen der Website in Zukunft werden jedoch alle aufregenden Funktionen hinzufügen."
         },
         {
-            "question": "Can I use the Linkedin image resizer feature from safeimagekit.com on my Windows 8?",
-            "answer": "The Linkedin image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Kann ich die Linkedin Image Resizer-Funktion von safeimagekit.com auf meinem Windows 8 verwenden?",
+            "answer": "Die Linkedin Image Resizer-Funktion ist eine vielseitige Funktion von safeimagekit.com, die von allen Betriebssystemen wie Windows 8, Linux und sogar Ubuntu unterstützt wird. Sie benötigen lediglich ein Gerät zum Öffnen der Erweiterungsdatei über die Website www.safeimagekit.com und eine normale Internetverbindung, auf der Sie stehen können. Die lustige Tatsache ist, dass es sogar über eine langsamere Internetverbindung laufen kann."
         },
         {
-            "question": "Can I use the Linkedin image resizer feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, the Linkedin image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "Kann ich die Linkedin-Bild-Resizer-Funktion von safeimagekit.com auf meinem Android-Gerät verwenden? ",
+            "answer": "Ja, die Linkedin Image Resizer-Funktion von safeimagekit.com ist eine plattformübergreifende Funktion, mit der der Benutzer dieses Konverter-Tool von Betriebssystemen wie Android, iOS, Windows und Mac OS verwenden kann. Es ist unabhängig von den verwendeten Betriebssystemen, hängt aber nur von der Internetverbindung ab."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the Linkedin image resizer feature from safeimagekit.com?",
-            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image."
+            "question": "Müssen wir zusätzliche Software verwenden, um die modifizierten Bilder nach der Konvertierung mithilfe der Linkedin-Bild-Resizer-Funktion von safeimagekit.com herunterzuladen?",
+            "answer": "Nein, die Benutzer, nachdem sie die Größe ihres Bildes durch Ändern ihrer jeweiligen Bildparameter geändert haben, können die unten angegebene Option herunterladen und das geänderte Bild herunterladen. Es ist ein browserbasiertes Konverter-Tool, das nicht unterstützt wird, oder es ist keine zusätzliche Software erforderlich, um das geänderte Image herunterzuladen."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the Linkedin image resizer tool from safeimagekit.com?",
-            "answer": "The Linkedin image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Was passiert mit unserem Fortschritt, wenn wir unseren Browser aktualisieren, während wir das Linkedin-Bild-Resizer-Tool von safeimagekit.com verwenden?",
+            "answer": "Das Linkedin Image Resizer-Tool von safeimagekit.com ist mit keinem Server da draußen verbunden, sodass die Daten, an denen der Benutzer arbeitet, nirgendwo gespeichert werden und daher sofort gelöscht werden, wenn der Benutzer den Browser aktualisiert, an dem er gerade arbeitet. Die Bilddatei, die umgewandelt wird, wird ebenfalls entfernt, nachdem der Benutzer die Registerkarte, auf der die Erweiterungsseite der Website geöffnet ist, beendet oder geschlossen hat."
         },
         {
-            "question": "Can we resize the image files which are locked, using the Linkedin image resizer feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the Linkedin image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "Können wir die Größe der gesperrten Bilddateien mithilfe der Linkedin-Bild-Resizer-Funktion von safeimagekit.com ändern?",
+            "answer": "Nein, wir können die Bilddatei, die gesperrt ist, nicht hochladen, da der Zugriff auf diese Bilddatei gesperrt ist. Um die Linkedin-Bild-Resizer-Funktion von safeimagekit.com nutzen zu können, müssen wir die Bilddateien hochladen, die nicht gesperrt sind. Der Benutzer kann jedoch die Passwortfinder-Erweiterung von safeimagekit.com überprüfen, die ausschließlich zum Entsperren von Bild- und Bilddateien vorgesehen ist, falls der Benutzer sein Passwort für seine gesperrte Bilddatei verliert."
         },
         {
-            "question": "Will my uploaded image files corrupt after resizing the image files using The Linkedin image resizer file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Werden meine hochgeladenen Bilddateien beschädigt, nachdem ich die Größe der Bilddateien mithilfe der Linkedin-Bild-Resizer-Dateifunktion von safeimagekit.com geändert habe?",
+            "answer": "Nein, safeimagekit.com ist mit den neuesten Programmen und Sicherheitsfunktionen ausgestattet, die es nicht ermöglichen, dass die hochgeladenen Bilddateien beschädigt werden. Die hochgeladenen Bilddateien sind also absolut sicher und geschützt."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Wie kommuniziere ich, wenn ich Probleme habe oder Vorschläge machen möchte?",
+            "answer": "Wir nehmen gerne alle Probleme oder Vorschläge aller Benutzer auf. Bitte kontaktieren Sie uns über unsere Social-Media-Handles für weitere Informationen. SafeimageKit.com ist auf allen führenden Social-Media-Websites wie Facebook, Instagram, YouTube und LinkedIn usw. verfügbar."
         }
     ],
     "jscdns": [

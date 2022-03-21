@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Чи безпечно дозволити доступ до мого диска?",
+            "answer": "Так, це абсолютно безпечно, щоб дозволити і надати нам доступ до вашого диска. Ми не будемо вносити будь-які зміни на ваш сайт, і ваші dfiles будуть в безпеці з вами."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Як я можу завантажити файли з мого диска/dropbox?",
+            "answer": "Натисніть на стрілку, що випадає і виберіть Dropbox/Google Drive. Виберіть обліковий запис Google, звідки ви хочете зв'язати свій накопичувач. Тепер ви можете вибрати файли, які ви хочете завантажити."
         },
         {
-            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
-            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
+            "question": "Які функції пропонують фотофільтри з safeimagekit.com, додаючи фільтр до зображення?",
+            "answer": "Функція фільтра фотографій від safeimagekit.com забезпечує найкращі фільтри там. Ці фільтри змінюють загальний вигляд завантаженого зображення. Доступні фільтри - Prewitt Горизонтально- Червоний, Зелений, Відтінки сірого, Інвертувати, Високий прохід, Лапласіан, Prewitt Вертикальний, Роберт, Насиченість, Сепія, Різкість, Sobel Горизонтальний, Sobel Вертикальний, Thresholding, Дзеркало. Функція apply, яка знаходиться внизу, зберігає внесені зміни та дозволяє користувачеві завантажувати файл зображення."
         },
         {
-            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
+            "question": "Який процес додавання фільтрів до файлу зображення під функцією фотофільтра від safeimagekit.com?",
+            "answer": "Існує 4 основні кроки, щоб додати фільтри до файлу зображення під функцією фотофайлів від safeimagekit.com. Ці функції включають-\n- Завантажити необхідний файл зображення в наданому просторі.\n- Виберіть відповідний фільтр з різноманіття наведених варіантів.\n- Виберіть фільтр і натисніть застосувати, щоб застосувати цей фільтр до цього зображення.\n- Натисніть зберегти, щоб зберегти внесені зміни та завантажити модифіковане зображення."
         },
         {
-            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
-            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
+            "question": "Які формати зображень підтримуються функцією фільтра фотографій від safeimagekit.com?",
+            "answer": "В даний час функція фільтра фотографій від safeimagekit.com підтримує всі формати зображень там. Однак користувач може отримати найкращу перевагу, якщо зображення мають наступний формат-\n- Png\n- JPEG\n- Jpg\n- Сирий \n- Eps і т.д.\n"
         },
         {
-            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Як ми застосовуємо фільтр Лапласіан за допомогою фотофільтра з safeimagekit.com до завантаженої фотографії?",
+            "answer": "По-перше, завантажте зображення, яке вимагає зміни у наданому просторі завантаження. Потім виберіть фільтр зображення Лапласіана з різних параметрів, наданих у панелі інструментів фільтрів. Потім натисніть кнопку застосувати, щоб отримати попередній перегляд фотографії після додавання фільтра. Натисніть «зберегти», щоб зберегти зміни, внесені до завантаженого зображення. Нарешті, натисніть опцію завантаження, щоб завантажити нове та вдосконалене зображення."
         },
         {
-            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
-            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
+            "question": "Чи отримуємо ми попередній перегляд, щоб перевірити зображення після додавання фільтра під час використання функції фільтра фотографій від safeimagekit.com?",
+            "answer": "Так, функція фільтра фотографій від safeimagekit.com надає можливість попереднього перегляду, щоб перевірити прогноз зображення, яке редагується. Щоб отримати доступ до функції попереднього перегляду, користувачеві потрібно завантажити зображення та додати фільтр до цього зображення з різних наданих фільтрів. Потім натисніть кнопку застосувати, щоб застосувати цей фільтр до цього зображення. Потім ми отримуємо попередній перегляд зображення, яке було змінено новим фільтром."
         },
         {
-            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Як ми застосовуємо фільтр «Дзеркало» за допомогою фотофільтра з safeimagekit.com до завантаженої фотографії?",
+            "answer": "Фільтр «Дзеркало» — це унікальний фільтр, який надає користувачеві точну дзеркальну копію зображення. По-перше, завантажте зображення, яке вимагає зміни у наданому просторі завантаження. Потім виберіть фільтр «Дзеркальне відображення» з різних параметрів, наданих на панелі інструментів фільтрів. Потім натисніть кнопку застосувати, щоб отримати попередній перегляд фотографії після додавання фільтра. Натисніть «зберегти», щоб зберегти зміни, внесені до завантаженого зображення. Нарешті, натисніть опцію завантаження, щоб завантажити нове та вдосконалене зображення."
         },
         {
-            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
-            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
+            "question": "Чи можемо ми додати або видалити текст під час додавання фільтра до файлу зображення за допомогою функції додавання фільтра з safeimagekit.com?",
+            "answer": "Ні, ми не можемо додати або видалити текст під час додавання фільтра до завантаженого файлу зображення за допомогою функції додавання фільтра з safeimagekit.com, функції редагування тексту, такі як вставка тексту та функції видалення тексту, не включені в даний час. Функція фільтра фотографій підтримує лише перетворення, але не редагування. Однак оновлення веб-сайту принесуть всі захоплюючі функції навіть функції редагування тексту на веб-сайт."
         },
         {
-            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
-            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
+            "question": "Який час займає функція фільтра фотографій від safeimagekit.com, щоб додати фільтр до файлу зображення?",
+            "answer": "Час є захоплюючим фактором, присутнім тут; час, проведений функцією фільтра фотографій від safeimagekit.com повністю залежить від завантаженого файлу зображення. Якщо розмір завантаженого зображення більше, то час, витрачений на обробку файлу зображення, трохи більше, ніж час, витрачений на перетворення звичайного файла зображення і навпаки. Підключення до Інтернету також грає роль в швидкості конвертації (навіть працює на більш повільному з'єднанні)."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
-            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Що станеться з нашим прогресом, якщо ми оновимо наш браузер, поки ми використовуємо функцію фільтра фотографій від safeimagekit.com?",
+            "answer": "Функція фільтра фотографій від safeimagekit.com не підключена до будь-якого сервера там, тому дані, над якими працює користувач, ніде не будуть зберігатися і, як наслідок, він буде стертий миттєво, коли користувач оновить браузер, над яким він працює. Файли зображень, над якими працюють, також будуть видалені після виходу користувача або закриття вкладки, на якій відкрита сторінка розширення веб-сайту."
         },
         {
-            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
-            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Чи можу я використовувати функцію фільтра фотографій з safeimagekit.com на моїй ОС Ubuntu?",
+            "answer": "Фото фільтри - це універсальна функція, яку пропонує safeimagekit.com, яка підтримується всіма операційними системами, такими як Windows 8, Linux і навіть Ubuntu. Все, що потрібно, - це пристрій для відкриття файлу розширення за допомогою веб-сайту www.safeimagekit.com та звичайного підключення до Інтернету, щоб стояти. Цікавий факт полягає в тому, що він може працювати навіть на повільному підключенні до Інтернету."
         },
         {
-            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Як ми застосовуємо фільтр сепії за допомогою фотофільтра з safeimagekit.com до завантаженої фотографії?",
+            "answer": "По-перше, завантажте зображення, яке вимагає зміни у наданому просторі завантаження. Потім виберіть фільтр зображення сепії з різних параметрів, наданих на панелі інструментів фільтрів. Потім натисніть кнопку застосувати, щоб отримати попередній перегляд фотографії після додавання фільтра. Натисніть «зберегти», щоб зберегти зміни, внесені до завантаженого зображення. Нарешті, натисніть опцію завантаження, щоб завантажити нове та вдосконалене зображення."
         },
         {
-            "question": "Will my file be saved after I complete working on the photo filter tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Чи збережеться мій файл після завершення роботи над інструментом фотофільтра? ",
+            "answer": "Ні, ми не надсилаємо жодного з ваших файлів на наші сервери, всі операції виконуються на самому браузері, тому всі ваші файли повністю безпечні. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Чи потрібно мені робити додаткову реєстрацію або доплачувати, щоб використовувати інструмент фотофільтра? ",
+            "answer": "Абсолютно ні, наш інструмент повністю онлайн і не вимагає від вас ділитися будь-якою вашою особистою інформацією з нами, як ідентифікатор електронної пошти, паролі тощо Наш інструмент абсолютно безкоштовний."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Як мені спілкуватися, якщо я стикаюся з будь-якими проблемами або якщо я хочу дати якісь пропозиції?",
+            "answer": "Ми з радістю приймаємо будь-які питання або пропозиції, пропоновані всіма користувачами, будь ласка, зв'яжіться з нами через наші ручки соціальних медіа для отримання додаткової інформації. Safeimagekit.com доступний на всіх провідних веб-сайтах соціальних медіа, таких як Facebook, Instagram, YouTube та LinkedIn тощо."
         }
     ],
     "jscdns": [

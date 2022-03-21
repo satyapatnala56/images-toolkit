@@ -1,16 +1,16 @@
 {
     "Language": "Français",
     "htmlLangAtt": "fr",
-    "H1": "Recadrage d'image",
+    "H1": "Cropper",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "avertissement",
-    "H2": "Le recadrage des photos a été facilité avec nous, commencez par télécharger votre fichier ci-dessous",
-    "TITLE": "Rogner l'image - Recadrage d'image en ligne - safeimagekit",
-    "META": "Vous recherchez un recadrage d'image de haute qualité ? Eh bien, vous êtes au bon endroit. Notre outil de recadrage d'images en ligne est extrêmement sûr, convivial et très rapide.",
+    "variant": "avarsel",
+    "H2": "Beskæring billeder er blevet gjort nemt med os, start med at uploade din fil nedenfor",
+    "TITLE": "Beskær billede - Billede afgrøde online - safeimagekit",
+    "META": "Leder du efter en høj kvalitet billede cropper ? Så er du på det rigtige sted. Notre billedafgrødeværktøj en ligne est ekstremt sikkert, brugervenligt og super hurtigt.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "De haute qualité",
-            "content": "Notre outil de recadrage d'image recadrée les images en conservant leur qualité."
+            "header": "Høj kvalitet",
+            "content": "Vores billede cropper værktøj afgrøder billederne ved at bevare sin kvalitet."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Sécurité des données",
-            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs"
+            "header": "Datasikkerhed",
+            "content": "Ingen af dine data sendes på vores servere alle operationer er udført i selve browseren. Dette gør det muligt for os at være 100% sikre for vores brugere"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Flexibilité",
-            "content": " Notre outil de recadrage d'images fonctionne sur presque tous les types de navigateurs et d'appareils."
+            "content": " Vores billede cropper værktøj virker på næsten alle former for browsere og enheder."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Convivial",
-            "content": "Notre outil de recadrage d'images est très facile à comprendre, aucun professionnel n'est nécessaire pour travailler sur notre outil."
+            "header": "District de Brugervenlig",
+            "content": "Vores billede cropper værktøj er meget let at forstå ingen professionel er nødvendig for at arbejde på vores værktøj."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Sans frais",
-            "content": "Notre outil de recadrage d'images est totalement gratuit, vous pouvez utiliser tous nos outils sans payer un seul centime"
+            "header": "Gratis pour omkostninger",
+            "content": "Vores billede cropper værktøj er helt fri for omkostninger, kan du bruge alle vores værktøjer uden at betale en enkelt krone"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "Aucun téléchargement supplémentaire",
-            "content": "Notre outil de recadrage d'images est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est nécessaire pour être téléchargé sur votre appareil."
+            "header": "Ingen yderligere télécharger",
+            "content": "Vores billede cropper værktøj er helt browser baseret og ingen yderligere software er påkrævet for at blive downloadet på din enhed."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Comment recadrer notre image.",
+        "heading": "Sådan beskære vores billede.",
         "steps": [
-            "Téléchargez l'image à recadrer ou cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive",
-            "Recadrez l'image en conséquence.",
-            "Regardez les modifications apportées au fichier image en faisant défiler vers le bas.",
-            "Enregistrez les modifications apportées.",
-            "Téléchargez le fichier image en cliquant sur l'option de téléchargement.",
-            "Vive ! l'image est prête à être utilisée."
+            "Téléchargez des billets, les photos, ou cliquez sur les menus des règles, et cliquez sur Dropbox/Google Drev",
+            "Beskær billedet i overensstemmelse hermed.",
+            "Kig på de ændringer, der er foretaget i billedfilen ved at rulle ned.",
+            "Gem de Foretagne Aendringer.",
+            "Téléchargez les fichiers de billets ved at trykke på download-installingen.",
+            "Hourra ! billedet er klar til brug."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Est-ce que je peux autoriser l'accès à mon disque dur en toute sécurité ?",
+            "answer": "Oui, il est absolument sûr de nous autoriser et de nous donner accès à votre lecteur. Nous n'apporterons aucune modification à votre site et vos fichiers seront en sécurité avec vous."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Comment puis-je télécharger des fichiers depuis mon lecteur/ma boîte de dépôt ?",
+            "answer": "Cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive. Sélectionnez le compte Google auquel vous souhaitez associer votre lecteur. Vous pouvez maintenant sélectionner les fichiers que vous souhaitez télécharger."
         },
         {
-            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
-            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+            "question": "Quelles sont les fonctionnalités offertes par le recadrage de l'image de safeimagekit.com lors du recadrage d'une image ?",
+            "answer": "La fonction de recadrage d'image de safeimagekit.com offre des fonctionnalités polyvalentes lors du recadrage d'une image, l'utilisateur peut télécharger n'importe quel format d'image et qui sera recadrée à l'aide de notre fonction de recadrage. Cette fonction de recadrage permet à l'utilisateur de couper la partie non désirée de l'image téléchargée. L'utilisateur peut ajuster les sections de coupe sur l'image en décalant la boîte de coupe qui fonctionne dans 8 directions."
         },
         {
-            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+            "question": "Comment recadrer une image à l'aide de la fonction de recadrage de safeimagekit.com ?",
+            "answer": "Il existe 4 étapes de base à l'aide desquelles l'utilisateur peut recadrer une image qu'il inclut :\n- Téléchargez l'image dans l'espace prévu à cet effet et cliquez sur Télécharger pour commencer le recadrage.\n- Sélectionnez la zone de recadrage et déplacez-la à l'aide des épingles de l'image, cela ajuste la zone sur l'image. Cela signifie que l'image est uniquement enregistrée ou recadrée sur laquelle la boîte est placée.\n- Ensuite, cliquez sur le bouton de fichier ci-dessous, cela enregistre les modifications apportées à l'image.\n- Enfin, cliquez sur le bouton de téléchargement pour télécharger l'image mise à jour."
         },
         {
-            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
-            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+            "question": "Quels sont les formats pris en charge pour le recadrage d'images proposés par safeimageit.com ?",
+            "answer": "Actuellement, safeimagekit.com propose des fonctionnalités de recadrage d'images pour tous les formats disponibles, mais l'utilisateur peut profiter de cette fonctionnalité à partir des formats d'images suivants :\n- Format Png \n- Le format JPEG \n- Jpg\n- Meme\n- Xmap, etc."
         },
         {
-            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
-            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+            "question": "Pouvons-nous recadrer des images 4k et des images 8k à l'aide de la fonction de recadrage d'images de safeimagekit.com ?",
+            "answer": "Oui, la fonction de recadrage d'image de safeimagekit.com offre une conversion d'image 4k et 8k. La fonction de recadrage d'image 4k fonctionne parfaitement bien, cependant, le recadrage d'image 8k retardera légèrement par rapport aux images 1080p et 4k car le traitement d'image 8k par safeimagekit.com prend un peu de temps."
         },
         {
-            "question": "What is the time taken by the converter to crop an image file?",
-            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+            "question": "Quel est le temps que prend le convertisseur pour recadrer un fichier image ?",
+            "answer": "Le temps est le facteur passionnant présent ici, où nous téléchargeons le fichier et voyons la magie opérer, la conversion du recadrage se produit en un instant où nous pouvons recadrer différents types de fichiers image. Le seul facteur qui prend du temps et tout ce qu'il faut, c'est une connexion Internet normale."
         },
         {
-            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
-            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+            "question": "Puis-je utiliser le recadrage d'images de safeimagekit.com pour convertir mes fichiers audio ou vidéo ?",
+            "answer": "Le recadrage d'images de safeimagekit.com n'offre que des fonctionnalités de recadrage d'images. Actuellement, le recadrage d'images n'offre pas de conversion de fichiers vidéo ou audio, mais les futures mises à niveau du site Web vous apporteront toutes les fonctionnalités intéressantes."
         },
         {
-            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
-            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+            "question": "Pouvons-nous modifier ou créer des GIF à l'aide de l'option de recadrage de safeimagekit.com ? ",
+            "answer": "Les GIF sont des images animées avec une fonction d'insertion de texte ; les GIF sont des clips très courts ou des morceaux d'images qui nécessitent d'autres options d'édition. Les GIF téléchargés peuvent être recadrés à l'aide de safeimagekit.com. Cependant, quelques mises à jour mineures à venir apporteront le plaisir d'éditer des GIF sur le site Web safeimagekit.com."
         },
         {
-            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
-            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+            "question": "Pouvons-nous recadrer des images 1080p et 720p à l'aide du recadrage d'images de safeimagekit.com ?",
+            "answer": "Oui, le recadrage d'image de safeimagekit.com offre des fonctionnalités d'édition de résolution 1080p et 720p de l'extérieur, elles nous permettent de modifier le recadrage de l'image, réduisant ainsi sa taille."
         },
         {
-            "question": "Which image format is preferable among webp and jpg formats?",
-            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+            "question": "Quel format d'image est préférable parmi les formats webp et jpg ?",
+            "answer": "Un jpg bien optimisé est similaire ou meilleur que webp. Cependant, webp est un nouveau format d'image et il n'est pas pris en charge par tous les navigateurs. La différence typique entre les deux réside dans la qualité, qui est une différence de 15 à 25 % dans la taille."
         },
         {
-            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
-            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+            "question": "La qualité de mes images diminuera-t-elle après les avoir téléchargées à partir du recadrage d'images de safeimagekit.com ?",
+            "answer": "Non, la qualité de l'image ne diminuera pas après les avoir téléchargées depuis le recadrage d'image de safeimagekit.com. Les images ne perdront pas leur qualité et seront modifiées avec la même qualité après le recadrage de l'image."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
-            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Qu'adviendra-t-il de notre progression si nous actualisons notre navigateur alors que nous utilisons le recadrage d'images de safeimagekit.com ?",
+            "answer": "Le recadrage d'images de safeimagekit.com n'est connecté à aucun serveur, de sorte que les données sur lesquelles l'utilisateur travaille ne seront stockées nulle part et, par conséquent, elles seront effacées instantanément lorsque l'utilisateur actualisera le navigateur sur lequel il travaille. Les fichiers image sur lesquels on travaille seront également supprimés une fois que l'utilisateur aura quitté ou fermé l'onglet sur lequel la page d'extension du site Web est ouverte."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "Puis-je utiliser la fonction de recadrage d'images de safeimagekit.com sur mon système d'exploitation LINUX ?",
+            "answer": "Oui, la fonction de recadrage d'images de safeimagekit.com peut être utilisée sur n'importe quel système d'exploitation, même LINUX. Il est construit avec le code et les fonctionnalités les plus récents qui permettent à l'utilisateur d'utiliser le recadrage d'images sur n'importe quel système d'exploitation tel que MAC OS, Windows et Ubuntu, à condition qu'il existe un appareil avec une connexion Internet stable. Le tour de magie est qu'il fonctionne même sur une connexion Internet plus lente."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "Puis-je utiliser la fonction de recadrage d'images de safeimagekit.com sur un appareil iOS ?",
+            "answer": "Oui, la fonction de recadrage d'images de safeimagekit.com peut être utilisée sur les appareils iOS et même sur les appareils Android. Il est construit avec les dernières fonctionnalités qui permettent à l'utilisateur d'utiliser ce fichier d'extension sur n'importe quel système d'exploitation, tout ce dont il a besoin d'une connexion Internet et d'un bon navigateur Web."
         },
         {
-            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+            "question": "Comment puis-je enregistrer les modifications apportées au fichier image à l'aide du recadrage d'image de safeimagekit.com ?",
+            "answer": "Tout d'abord, téléchargez un fichier image qui nécessite une modification, puis utilisez l'option de recadrage d'image pour recadrer le fichier image un par un. Ensuite, utilisez l'option d'enregistrement qui est donnée en bas du site Web, cela enregistre les modifications apportées aux fichiers image, puis télécharge le fichier image qui est modifié."
         },
         {
-            "question": "Will my file be saved after I complete working on the image cropper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Mon fichier sera-t-il enregistré une fois que j'aurai fini de travailler sur l'outil de recadrage d'images ? ",
+            "answer": "Non, nous n'envoyons aucun de vos fichiers à nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même, donc tous vos fichiers sont totalement sécurisés. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Dois-je m'inscrire ou payer un supplément pour utiliser l'outil de recadrage d'images ? ",
+            "answer": "Absolument pas, notre outil est entièrement en ligne et ne vous oblige pas à partager vos informations personnelles avec nous, telles que votre adresse e-mail, vos mots de passe, etc."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Comment communiquer si je rencontre des problèmes ou si je souhaite suggérer des modifications ?",
+            "answer": "Nous sommes heureux de prendre en compte tous les problèmes ou suggestions proposés par tous les utilisateurs, veuillez nous contacter via nos identifiants de réseaux sociaux pour plus d'informations. SafeImageKit.com est disponible sur tous les principaux sites de médias sociaux tels que Facebook, Instagram, YouTube et LinkedIn, etc."
         }
     ],
     "csscdns": [

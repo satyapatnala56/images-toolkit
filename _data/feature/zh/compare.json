@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "允许访问我的云端硬盘安全吗？",
+            "answer": "是的，允许我们访问您的硬盘是绝对安全的。我们不会对您的网站进行任何更改，并且您的dfiles将是安全的。"
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "如何从我的云端硬盘/保管箱上传文件？",
+            "answer": "单击下拉箭头，然后选择 Dropbox/Google 云端硬盘。选择要从中关联云端硬盘的Google帐户。现在，您可以选择要上传的文件。"
         },
         {
-            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
-            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
+            "question": "在比较两张图片时，safeimagekit.com的图像比较功能提供了哪些功能？",
+            "answer": "safeimagekit.com的图像比较功能在比较两个功能的同时提供了多种功能。主要功能包括 \n-在滑块基础上比较两个图像\n-基于像素比较两张图像。\n-根据信息比较两张图像。\n-根据淡入淡出效果比较两张图像。\n这些提到的比较方法本质上是基本的，它们被比较并且比较的结果直接显示在屏幕上。"
         },
         {
-            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
+            "question": "我们如何根据safeimagekit.com的图像比较功能的滑块比较来比较两张图像？",
+            "answer": "第一步包括上传需要比较的图像。下一步是单击名为 “slider” 的引脚，这将激活基于滑块的比较。它们的比较结果直接显示在屏幕上。"
         },
         {
-            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
+            "question": "我们如何根据safeimagekit.com的图像比较功能的像素比较方法比较两张图像？",
+            "answer": "第一步包括上传需要比较的图像。下一步是单击名为 “pixel” 的引脚，这将激活基于像素的比较。第一张图像的像素显示在第二张图像上，它们的比较结果直接显示在屏幕上，其中我们将第一张图像的像素与第二张图像的像素进行比较"
         },
         {
-            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
+            "question": "我们如何根据safeimagekit.com的图像比较功能的淡入淡出效果方法比较两张图像？",
+            "answer": "第一步包括上传需要比较的图像。下一步是点击名为 “fade” 的引脚，这将激活基于淡入淡出效果的比较。第一张图像的褪色结构显示在第二张图像上，它们的比较结果直接显示在屏幕上，其中我们将第一张图像的性质与第二张图像的性质进行比较。"
         },
         {
-            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
+            "question": "我们如何根据使用safeimagekit.com的图像比较功能上传的图片的信息统计信息来比较两张图片？",
+            "answer": "第一步包括上传需要比较的图像。下一步是点击名为 “info” 的图钉，这将激活基于信息的比较。第一张图像的信息显示在第二张图像的旁边，它们的比较结果直接显示在屏幕上，其中我们通过比较图像的统计数据来比较第一张图像的性质和第二张图像的性质。"
         },
         {
-            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
-            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
+            "question": "safeimagekit.com 提供的基于信息的图像比较功能如何运作？",
+            "answer": "来自 safeimagekit.com 的比较图像功能的基于信息的比较是通过比较上传的图像的属性来进行的。这些属性包括图像的名称、图像的大小、图像的类型、图像的高度和图像的宽度。用户可以通过遵循这些属性来比较图像。"
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
-            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "我可以在我的 Windows 8 终极版上使用 safeimagekit.com 的比较图像功能吗？",
+            "answer": "比较图像功能是 safeimagekit.com 提供的一项多功能功能，所有操作系统都支持该功能，例如 Windows 8、Linux 甚至 Ubuntu。只需要一台设备即可使用www.safeimagekit.com网站打开扩展文件，并建立正常的互联网连接。有趣的事实是，它甚至可以在较慢的Internet连接上运行。"
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "我可以在安卓设备上使用 safeimagekit.com 的比较图片功能吗？ ",
+            "answer": "是的，safeimagekit.com 的比较图像功能是一项基于跨平台的功能，用户可以在安卓、iOS、Windows 和 Mac OS 等操作系统中使用此转换器工具。它独立于所使用的操作系统，但仅取决于互联网连接。"
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
-            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "使用safeimagekit.com的比较图像功能转换后，我们是否必须使用任何其他软件来下载修改后的图像？",
+            "answer": "不，用户在通过输入各自的图像来比较图像之后，毕竟，此功能不提供下载选项。它们的比较结果直接显示在屏幕上，以便直接比较图像。它是基于浏览器的转换器工具，不支持或不需要其他软件即可下载修改后的映像。"
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
-            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "如果我们在使用 safeimagekit.com 的比较图像工具时刷新浏览器，我们的进度会怎样？",
+            "answer": "safeimagekit.com的比较图像工具没有连接到任何服务器，因此用户正在处理的数据不会存储在任何地方，因此，当用户刷新正在使用的浏览器时，这些数据将立即被删除。用户退出或关闭打开网站扩展页的选项卡后，正在比较的图像文件也将被删除。"
         },
         {
-            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "我们可以使用 safeimagekit.com 的比较图像功能比较锁定的图像文件吗？",
+            "answer": "不可以，我们无法上传已锁定的图片文件，因为该特定图片文件的访问被阻止。因此，要使用safeimagekit.com的比较图像功能，我们需要上传未锁定的图像文件。但是用户可以从safeimagekit.com中查看密码查找器扩展程序，该扩展名专门用于解锁图像和图像文件，以防用户丢失锁定图像文件的密码。"
         },
         {
-            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "使用 safeimagekit.com 的比较图片文件功能比较图片文件后，我上传的图片文件是否会损坏？",
+            "answer": "不会，safeimagekit.com内置了所有最新的程序和安全功能，不允许上传的图像文件损坏。因此，上传的图像文件是完全安全的。"
         },
         {
-            "question": "Will my file be saved after I complete working on the image comparison tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "使用完图像对比工具后，我的文件会被保存吗？ ",
+            "answer": "不，我们不会将您的任何文件发送到我们的服务器，所有操作都是在浏览器上完成的，因此您的所有文件都是完全安全的。 "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "我需要额外注册或支付额外费用才能使用图片比较工具吗？ ",
+            "answer": "绝对不是，我们的工具是完全在线的，不需要您与我们分享您的任何个人信息，例如电子邮件ID，密码等。我们的工具是完全免费的。"
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "如果我遇到任何问题或想提出任何建议，我该如何沟通？",
+            "answer": "我们很乐意接受所有用户提出的任何问题或建议，请通过我们的社交媒体句柄与我们联系以获取更多信息。SafeImageKit.com 可在所有领先的社交媒体网站上使用，例如 Facebook、Instagram、YouTube 和领英等。"
         }
     ],
     "jscdns": [
