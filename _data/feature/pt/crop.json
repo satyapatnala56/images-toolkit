@@ -1,16 +1,16 @@
 {
     "Language": "Português",
     "htmlLangAtt": "pt",
-    "H1": "Cortador de imagem",
+    "H1": "Imagem Cropper",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "advertência",
-    "H2": "O corte de fotos ficou mais fácil conosco, comece enviando seu arquivo abaixo",
-    "TITLE": "Cortar imagem - Corte de imagem online - safeimagekit",
-    "META": "Você está procurando um cortador de imagens de alta qualidade? Bem, então você está no lugar certo. Nossa ferramenta de recorte de imagens on-line é extremamente segura, fácil de usar e super rápida.",
+    "variant": "advarsel",
+    "H2": "Descrição billeder er blevet gjort nemt med os, start med at uploade din fil nedenfor",
+    "TITLE": "Descartar billede - Billede Afgrøde online - safeimagkit",
+    "META": "Leder du efter en høj kvalitet billede cropper? Så er du på det rigtige sted. Nosso billedafgrødeværktøj on-line er ekstremt sikkert, brugervenligt og super hurtigt.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "Alta qualidade",
-            "content": "Nossa ferramenta de corte de imagens corta as imagens mantendo sua qualidade."
+            "header": "Høj kvalitet",
+            "content": "Vores billede cropper værktøj afgrøder billederne ved at bevare sin kvalitet."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Segurança de dados",
-            "content": "Nenhum dos seus dados é enviado em nossos servidores, todas as operações são feitas no próprio navegador. Isso nos permite ser 100% seguros para nossos usuários"
+            "header": "Dados ikkerhed",
+            "content": "Ingen af dine data sendes på vores servere alle operationer er udført i selve browseren. Dette gør det muligt for os at være 100% sikre para vores brugere"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "Flexibilidade",
-            "content": " Nossa ferramenta de corte de imagens funciona em quase todos os tipos de navegadores e dispositivos."
+            "header": "Flexibilitet",
+            "content": " Vores billede cropper værktøj virker på næsten alle former for browsere og enheder."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Fável ao usuário",
-            "content": "Nossa ferramenta de corte de imagens é muito fácil de entender, nenhum profissional é necessário para trabalhar em nossa ferramenta."
+            "header": "Brugervenlig",
+            "content": "Vores billede cropper værktøj er meget let at forstå ingen professionel er nødvendig for at arbejde på vores værktøj."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Livre de custos",
-            "content": "Nossa ferramenta de corte de imagens é totalmente gratuita, você pode usar todas as nossas ferramentas sem pagar um único centavo"
+            "header": "Gratis para omkostninger",
+            "content": "Vores billede cropper værktøj er helt fri para omkostninger, kan du bruge alle vores værktøjer uden at betale en enkelt krone"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "Sem download adicional",
-            "content": "Nossa ferramenta de corte de imagens é totalmente baseada no navegador e nenhum software adicional é necessário para ser baixado no seu dispositivo."
+            "header": "Baixar Ingen yderligere",
+            "content": "Vores billede cropper værktøj er helt browser baseret og ingen yderligere software er påkrævet for at blive downloadet på din enhed."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Como cortar nossa imagem.",
+        "heading": "Sådan beskære vores billede.",
         "steps": [
-            "Faça upload da imagem a ser cortada ou clique na seta suspensa e selecione Dropbox/Google Drive",
-            "Corte a imagem de acordo.",
-            "Dar uma olhada nas alterações feitas no arquivo de imagem rolando para baixo.",
-            "Salve as alterações feitas.",
-            "Baixe o arquivo de imagem pressionando a opção de download.",
-            "Hurra!! a imagem está pronta para uso."
+            "Carregar fotos, enviar mensagens, ou clicar em menus de regras e usar o Dropbox/Google Drev",
+            "Beskær billedet i overensstemmelse hermed.",
+            "King på de ændringer, der er foretaget i billedfilen ved at rulle ned.",
+            "Gem de foretagne ændringer.",
+            "Download billedfilen ved at trykke på downloads.",
+            "Hurra!! billedet er klar til brug."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "É seguro permitir o acesso à minha unidade?",
+            "answer": "Sim, é absolutamente seguro permitir e nos dar acesso à sua unidade. Não faremos nenhuma alteração em seu site e seus arquivos estarão seguros com você."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Como posso fazer upload de arquivos do meu drive/caixa de depósito?",
+            "answer": "Clique na seta suspensa e selecione Dropbox/Google Drive. Selecione a conta do Google de onde você deseja vincular sua unidade. Agora você pode selecionar os arquivos que deseja carregar."
         },
         {
-            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
-            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+            "question": "Quais são os recursos oferecidos pela imagem de corte de safeimagekit.com ao cortar uma imagem?",
+            "answer": "O recurso de recorte de imagem do safeimagekit.com oferece recursos versáteis ao cortar uma imagem, o usuário pode fazer upload de qualquer formato de imagem e isso será cortado com a ajuda do nosso recurso de recorte. Esse recurso de corte permite que o usuário corte a parte indesejada da imagem carregada. O usuário pode ajustar as seções de corte na imagem deslocando a caixa de corte que opera em 8 direções."
         },
         {
-            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+            "question": "Como cortamos uma imagem usando o recurso de recorte do safeimagekit.com?",
+            "answer": "Existem 4 etapas básicas usando as quais o usuário pode cortar uma imagem que eles incluem -\n- Carregue a imagem no espaço fornecido e clique em upload para começar o corte.\n- Selecione a caixa de corte e mova-a usando os pinos na imagem, isso ajusta a caixa na imagem. Isso significa que a imagem só é salva ou cortada na qual a caixa é colocada.\n- Em seguida, aperte o botão de arquivo abaixo, isso salva as alterações feitas na imagem.\n- Finalmente, aperte o botão de download para baixar a imagem atualizada."
         },
         {
-            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
-            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+            "question": "Quais são os formatos suportados para corte de imagens oferecidos pelo safeimageit.com?",
+            "answer": "Atualmente, safeimagekit.com oferece recursos de recorte de imagens para todos os formatos existentes, mas o usuário pode tirar proveito desse recurso nos seguintes formatos das imagens:\n- Png \n- Jpeg \n- Jpg\n- Meme\n- Xmap, etc."
         },
         {
-            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
-            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+            "question": "Podemos cortar imagens 4k e 8k usando o recurso de recorte de imagens do safeimagekit.com?",
+            "answer": "Sim, o recurso de corte de imagens do safeimagekit.com oferece conversão de imagens de 4k e 8k. O recurso de corte de imagem 4k funciona perfeitamente bem, no entanto, o corte de imagens de 8k atrasará um pouco em comparação com imagens de 1080p e 4k porque o processamento de imagem de 8k pelo safeimagekit.com leva um pouco de tempo."
         },
         {
-            "question": "What is the time taken by the converter to crop an image file?",
-            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+            "question": "Qual é o tempo que o conversor leva para cortar um arquivo de imagem?",
+            "answer": "O tempo é o fator excitante presente aqui, onde carregamos o arquivo e vemos a mágica acontecer, a conversão de recorte acontece em um instante em que podemos cortar vários tipos de arquivos de imagem. O único fator demorado e tudo o que é preciso é uma conexão normal com a Internet."
         },
         {
-            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
-            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+            "question": "Posso usar o cortador de imagens do safeimagekit.com para converter meus arquivos de áudio ou vídeo?",
+            "answer": "O cortador de imagens do safeimagekit.com oferece apenas recursos de recorte de imagens. Atualmente, o cortador de imagens não oferece conversão de arquivos de vídeo ou áudio, mas futuras atualizações para o site trarão a você todos os recursos interessantes."
         },
         {
-            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
-            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+            "question": "Podemos editar ou criar GIFs usando a opção de recorte do safeimagekit.com? ",
+            "answer": "GIFs são imagens em movimento com recurso de inserção de texto; GIFs são clipes muito curtos ou pedaços de imagens que requerem outras opções de edição. GIFs carregados podem ser cortados usando safeimagekit.com. No entanto, algumas pequenas atualizações no futuro trarão a diversão de editar GIFs para o site safeimagekit.com."
         },
         {
-            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
-            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+            "question": "Podemos cortar imagens de 1080p e 720p usando o cortador de imagens do safeimagekit.com?",
+            "answer": "Sim, o cortador de imagens da safeimagekit.com oferece recursos de edição de resolução de 1080p e 720p do lado de fora, eles nos permitem modificar o corte da imagem, diminuindo assim seu tamanho."
         },
         {
-            "question": "Which image format is preferable among webp and jpg formats?",
-            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+            "question": "Qual formato de imagem é preferível entre os formatos webp e jpg?",
+            "answer": "Um jpg bem otimizado é semelhante ou melhor que o webp. No entanto, webp é um novo formato de imagem e não é suportado por todos os navegadores. A diferença típica entre os dois está na qualidade, que é uma diferença de 15% a 25% no tamanho."
         },
         {
-            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
-            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+            "question": "A qualidade da minha imagem diminuirá depois de baixá-las do cortador de imagens do safeimagekit.com?",
+            "answer": "Não, a qualidade da imagem não diminuirá depois de baixá-la do cortador de imagens do safeimagekit.com. As imagens não perderão sua qualidade e serão alteradas com a mesma qualidade após o corte da imagem."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
-            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "O que acontecerá com nosso progresso se atualizarmos nosso navegador enquanto estivermos usando o cortador de imagens do safeimagekit.com?",
+            "answer": "O cortador de imagens do safeimagekit.com não está conectado a nenhum servidor lá fora, portanto, os dados nos quais o usuário está trabalhando não serão armazenados em nenhum lugar e, como resultado, serão apagados instantaneamente quando o usuário atualizar o navegador em que está trabalhando. Os arquivos de imagem trabalhados também serão removidos depois que o usuário sair ou fechar a guia na qual a página de extensão do site está aberta."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "Posso usar o recurso de recorte de imagens do safeimagekit.com no meu sistema operacional LINUX?",
+            "answer": "Sim, o recurso de recorte de imagens do safeimagekit.com pode ser usado em qualquer sistema operacional, até mesmo LINUX. Ele é construído com o código e recursos mais recentes que permitem ao usuário usar o cortador de imagens em qualquer sistema operacional, como MAC OS, Windows e Ubuntu, desde que haja um dispositivo com uma conexão estável à Internet. O truque de mágica é que ele funciona até mesmo em uma conexão de internet mais lenta."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "Posso usar o recurso de recorte de imagens do safeimagekit.com em um dispositivo iOS?",
+            "answer": "Sim, o recurso de recorte de imagens do safeimagekit.com pode ser usado em dispositivos iOS e até mesmo em dispositivos Android. Ele é construído com os recursos mais recentes que permitem ao usuário usar esse arquivo de extensão em qualquer sistema operacional, tudo o que precisa de uma conexão com a Internet e um bom navegador da web."
         },
         {
-            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+            "question": "Como posso salvar as alterações feitas no arquivo de imagem usando o cortador de imagens do safeimagekit.com?",
+            "answer": "Primeiro, carregue um arquivo de imagem que exija uma alteração e, em seguida, use a opção cortador de imagens para cortar o arquivo de imagem um por um. Em seguida, use a opção salvar que é fornecida na parte inferior do site, isso salva as alterações feitas nos arquivos de imagem e, em seguida, baixa o arquivo de imagem que é modificado."
         },
         {
-            "question": "Will my file be saved after I complete working on the image cropper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Meu arquivo será salvo depois que eu concluir o trabalho na ferramenta de corte de imagens? ",
+            "answer": "Não, não enviamos nenhum dos seus arquivos para nossos servidores, todas as operações são feitas no próprio navegador, portanto, todos os seus arquivos estão completamente seguros. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Preciso fazer alguma inscrição adicional ou pagar mais para usar a ferramenta de corte de imagens? ",
+            "answer": "Absolutamente não, nossa ferramenta é totalmente online e não exige que você compartilhe nenhuma de suas informações pessoais conosco, como id de e-mail, senhas, etc Nossa ferramenta é totalmente gratuita."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Como posso me comunicar se estou enfrentando algum problema ou se quero sugerir alguma mudança?",
+            "answer": "Temos o prazer de aceitar qualquer problema ou sugestão oferecida por todos os usuários, entre em contato conosco através de nossos identificadores de mídia social para obter mais informações. O SafeImageKit.com está disponível em todos os principais sites de mídia social, como Facebook, Instagram, YouTube e LinkedIn, etc."
         }
     ],
     "csscdns": [

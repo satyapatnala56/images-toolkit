@@ -1,14 +1,14 @@
 {
     "Language": "Türkçe",
     "htmlLangAtt": "tr",
-    "h1": "Görüntüden piksele resim dönüştürücüsü",
+    "h1": "Ücretsiz web tabanlı piksel sanat dönüştürücü",
     "img": "/img/pixel.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "birincil",
-    "h2": "Resim piksele resim dönüştürme bizimle kolay hale getirildi, aşağıdaki dosyanızı yükleyerek başlayın",
+    "h2": "Resim piksele resim dönüştürme bizim tarafımızdan kolaylaştırıldı, aşağıdaki dosyanızı yükleyerek başlayın",
     "TITLE": "Resim piksel sanat- piksel sanat yapımcısı-safeimagekit",
     "META": "Eğer piksel sanat dönüştürücü için yüksek kaliteli bir görüntü mi arıyorsunuz? O zaman doğru yerdesiniz. Çevrimiçi piksel sanat yapımcımız son derece güvenli, kullanıcı dostu ve süper hızlıdır.",
     "LABEL": "",
@@ -65,76 +65,76 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Sürücüme erişime izin vermek güvenli midir?",
+            "answer": "Evet, sürücünüze erişim sağlamak ve bize izin vermek kesinlikle güvenlidir. Sitenizde herhangi bir değişiklik yapmayacağız ve dfiles sizinle güvende olacaktır."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Sürücü/dropbox dosyalarımdan nasıl yükleyebilirim?",
+            "answer": "Açılır oku tıklayın ve Dropbox/Google Drive'ı seçin. Sürücünüzü bağlamak istediğiniz yerden Google hesabını seçin. Artık yüklemek istediğiniz dosyaları seçebilirsiniz."
         },
         {
-            "question": "What is a PIXEL art and how is it used?",
-            "answer": "Pixel art is a form of digital art, created through the use of software, where images are edited on the pixel level. The aesthetic for this kind of graphics comes from 8-bit and 16-bit computers and video game consoles, in addition to other limited systems such as graphing calculators. In most pixel art, the color palette used is extremely limited in size, with some pixel art using only two colors. Creating or modifying pixel art characters or objects for video games is sometimes called “spriting”."
+            "question": "PIXEL sanat nedir ve nasıl kullanılır?",
+            "answer": "Piksel sanatı, görüntülerin piksel düzeyinde düzenlendiği yazılım kullanılarak oluşturulan dijital sanat biçimidir. Bu tür grafikler için estetik, grafik hesap makineleri gibi diğer sınırlı sistemlere ek olarak 8-bit ve 16 bit bilgisayarlar ve video oyun konsollarından geliyor. Çoğu piksel sanatında, kullanılan renk paleti, yalnızca iki renk kullanan bazı piksel resimleri ile son derece sınırlıdır. Video oyunları için piksel resim karakterleri veya nesneleri oluşturmak veya değiştirmek bazen “spriting” olarak adlandırılır."
         },
         {
-            "question": "What are the features offered by the image to pixel art generator from safeimagekit.com while, converting an image to pixel art?",
-            "answer": "The image to pixel art generator tool from safeimagekit.com offers versatile features while converting an image to pixel art. The main features include- conversion of the image to a pixel art form, downloading the pixel art, etc. Many more features are yet to join the website."
+            "question": "Ne zaman safeimagekit.com gelen piksel sanat jeneratör için görüntü tarafından sunulan özellikler nelerdir, piksel sanata bir görüntü dönüştürme?",
+            "answer": "Görüntü piksel sanat üreteci aracı safeimagekit.com gelen piksel sanat üreteci aracı bir görüntü piksel sanat dönüştürürken çok yönlü özellikler sunar. Ana özellikleri dahil- piksel sanat formuna görüntünün dönüştürme, piksel sanat indirilmesi, vb Birçok özellik web sitesine katılmak için henüz."
         },
         {
-            "question": "How do we convert an image to pixel art using the image to pixel art generator from safeimagekit.com?",
-            "answer": "There are 3 basic steps using which the user can easily convert the image to pixel art-\n-\tUpload the image file which needs a conversion in the space given.\n-\tWait until the uploaded image file is converted into a pixel art format.\n-\tDownload the pixel art form using the option called “download”."
+            "question": "Biz safeimagekit.com gelen piksel sanat üreteci görüntü kullanarak bir görüntüyü piksel sanat dönüştürmek nasıl?",
+            "answer": "Kullanıcının kolayca piksel resme görüntüyü dönüştürebildiği kullanarak 3 temel adım vardır-\n- Verilen alanda bir dönüşüm ihtiyacı olan görüntü dosyasını yükleyin.\n- Yüklenen görüntü dosyası bir piksel resim biçimine dönüştürülene kadar bekleyin.\n- “İndir” adlı seçeneği kullanarak piksel resim formunu indirin."
         },
         {
-            "question": "Which are the image formats supported by the image to pixel art generator while converting an image to pixel art?",
-            "answer": "The image to pixel art generator from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc.\n"
+            "question": "Bir görüntüyü piksel resme dönüştürürken görüntü tarafından piksel sanat jeneratörüne desteklenen görüntü formatları hangileridir?",
+            "answer": "safeimagekit.com gelen piksel sanat jeneratörü görüntü orada tüm önde gelen ve popüler görüntü formatlarını destekler. Bunlara da dahil...\n- Png formatı\n- Jpeg formatı\n- Jpg formatı\n- Him biçim, vb.\n"
         },
         {
-            "question": "How many image files can we convert at a single stretch using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "Currently, the image to pixel art converter tool from safeimagekit.com can convert the image files one by one. The converter tool from safeimagekit.com does have to go through a staple of codes which makes multiple conversions a bit difficult. But, updates to the website will bring all the exciting features in the future."
+            "question": "Biz safeimagekit.com gelen piksel sanat dönüştürücü aracı görüntüyü kullanarak tek bir streç kaç görüntü dosyalarını dönüştürebilirsiniz?",
+            "answer": "Şu anda, safeimagekit.com gelen piksel sanat dönüştürücü aracı görüntü dosyalarını tek tek dönüştürebilirsiniz. safeimagekit.com gelen dönüştürücü aracı, birden çok dönüşümü biraz zorlaştıran bir kod elyaf üzerinden gitmek zorunda değil. Ancak, web sitesindeki güncellemeler gelecekte tüm heyecan verici özellikleri getirecektir."
         },
         {
-            "question": "Can I upload and convert my jpeg image file to a pixel art format using the image to pixel art converter?",
-            "answer": "Yes, the user can upload and convert the jpeg image file to a pixel art format using the image to pixel art converter. However, after conversion, the pixel art which is generated will be available in png format only. So, the user can upload any format of an image and can convert his image to pixel art."
+            "question": "Görüntüyü piksel resim dönüştürücüsüne kullanarak jpeg görüntü dosyamı bir piksel resim formatına yükleyebilir ve dönüştürebilir miyim?",
+            "answer": "Evet, kullanıcı görüntüyü piksel resim dönüştürücüsüne kullanarak jpeg görüntü dosyasını bir piksel resim formatına yükleyebilir ve dönüştürebilir. Ancak, dönüşümden sonra, oluşturulan piksel resmi yalnızca png formatında kullanılabilir olacaktır. Böylece, kullanıcı bir görüntünün herhangi bir formatını yükleyebilir ve resmini piksel resmine dönüştürebilir."
         },
         {
-            "question": "Do we have to use any additional software to download our images after conversion using the image to pixel art converter from safeimagekit.com?",
-            "answer": "No, the users after converting their images to pixel art can hit the download the option which is given below and can download the pixel art. It is a browser-based converter tool that does not support or no additional software is required to download the pixel art forms.\n\n"
+            "question": "Biz safeimagekit.com gelen pixel art converter görüntü kullanarak dönüştürme sonra resimlerimizi indirmek için herhangi bir ek yazılım kullanmak zorunda mı?",
+            "answer": "Hayır, kullanıcıların resimlerini piksel sanatına dönüştürdükten sonra indirmek için aşağıda verilen seçeneği vurabilir ve piksel sanat indirebilirsiniz. Bu desteklemiyor veya piksel resim formları indirmek için hiçbir ek yazılım gerekli olmayan bir tarayıcı tabanlı dönüştürücü aracıdır.\n\n"
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com without having any knowledge about basic C-programming?",
-            "answer": "Yes, our image to pixel art converter tool from safeimagekit.com can be used by everybody. Our image to pixel art generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
+            "question": "Temel C-programlama hakkında herhangi bir bilgi sahibi olmadan safeimagekit.com gelen resim dönüştürücü aracı piksel için görüntü kullanabilir miyim?",
+            "answer": "Evet, bizim görüntü safeimagekit.com gelen piksel sanat dönüştürücü aracı herkes tarafından kullanılabilir. Bizim görüntü piksel sanat jeneratör anlamak çok kolaydır ve C- programlama hakkında hiçbir profesyonel bilgi gerekmez bizim aracımız üzerinde çalışmak için."
         },
         {
-            "question": "Will my uploaded image file corrupt after converting them using the conversion options present in the image to pixel art conversion tool from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Yüklenen görüntü dosyalarım, görüntüde bulunan dönüştürme seçeneklerini kullanarak safeimagekit.com gelen piksel resim dönüştürme aracına dönüştürdükten sonra bozulacak mı?",
+            "answer": "Hayır, safeimagekit.com yüklenen görüntü dosyalarının bozulmasına izin vermeyen en son programlar ve güvenlik özellikleri ile inşa edilmiştir. Bu nedenle, yüklenen görüntü dosyaları tamamen güvenli ve güvenlidir."
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com on my Apple iPhone 12? ",
-            "answer": "Yes, the image to pixel art converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the image file which is uploaded to be converted into pixel art."
+            "question": "Benim Apple iPhone üzerinde safeimagekit.com gelen piksel sanat dönüştürücü aracı için görüntüyü kullanabilir miyim 12? ",
+            "answer": "Evet, safeimagekit.com gelen piksel resim dönüştürücü aracı, kullanıcının Android, iOS, Windows ve Mac OS gibi işletim sistemlerinden bu dönüştürücü aracını kullanabileceği çapraz platform tabanlı bir web sitesidir. Kullanılan işletim sistemlerinden bağımsızdır, ancak yalnızca internet bağlantısına ve piksel resmine dönüştürülecek şekilde yüklenen görüntü dosyasının boyutuna bağlıdır."
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com on my Windows 8?",
-            "answer": "The image to pixel art converter tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Benim Windows 8 safeimagekit.com gelen resim dönüştürücü aracı piksel için görüntü kullanabilir miyim?",
+            "answer": "Piksel sanat dönüştürücü aracı görüntü, Windows 8, Linux ve hatta Ubuntu gibi orada tüm işletim sistemleri tarafından desteklenen safeimagekit.com tarafından sunulan çok yönlü bir özelliktir. Tek gereken, www.safeimagekit.com web sitesini ve üzerinde durmak için normal bir internet bağlantısını kullanarak uzantı dosyasını açmak için bir cihazdır. Eğlenceli gerçek şu ki, daha yavaş bir internet bağlantısında bile çalışabilir."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "The image to pixel art converter tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Biz safeimagekit.com gelen piksel sanat dönüştürücü aracını kullanırken tarayıcımızı yenilemek bizim ilerleme ne olacak?",
+            "answer": "Safeimagekit.com gelen görüntü piksel sanat dönüştürücü aracı orada herhangi bir sunucuya bağlı değildir, bu nedenle kullanıcının üzerinde çalıştığı veriler hiçbir yerde saklanmayacaktır ve sonuç olarak, kullanıcı üzerinde çalıştığı tarayıcıyı yenilediğinde anında silinir. Dönüştürülmekte olan görüntü dosyası, kullanıcı web sitesinin uzantı sayfasının açık olduğu sekmeden çıktıktan veya kapattıktan sonra da kaldırılacaktır."
         },
         {
-            "question": "Can we edit the text present in the image file using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "No, currently safeimagekit.com only supports the option to convert the image file uploaded to pixel art, and we cannot edit the text present on the image file. But updates to the website will bring all the exciting features soon."
+            "question": "Biz safeimagekit.com gelen piksel resim dönüştürücü aracını kullanarak görüntü dosyasında mevcut metni düzenleyebilir miyim?",
+            "answer": "Hayır, şu anda safeimagekit.com yalnızca piksel resmine yüklenen görüntü dosyasını dönüştürme seçeneğini destekler ve resim dosyasında mevcut metni düzenleyemeyiz. Ancak web sitesindeki güncellemeler yakında tüm heyecan verici özellikleri getirecek."
         },
         {
-            "question": "Will my file be saved after I complete working on the image to pixel art conversion tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Resmin piksel resim dönüştürme aracı üzerinde çalışmayı tamamladıktan sonra dosyalarım kaydedilecek mi? ",
+            "answer": "Hayır, dosyalarınızdan herhangi birini sunucularımıza göndermiyoruz, tüm işlemler tarayıcının kendisinde yapılır, bu nedenle tüm dosyalarınız tamamen güvenlidir. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image to pixel art conversion tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Görüntüyü piksel resim dönüştürme aracını kullanmak için herhangi bir ek kayıt yapmak veya ekstra ödeme yapmak zorunda mıyım? ",
+            "answer": "Kesinlikle değil, aracımız tamamen çevrimiçi ve e-posta kimliği, şifreler vb gibi kişisel bilgilerinizi bizimle paylaşmanızı gerektirmez. Aracımız tamamen ücretsizdir."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Herhangi bir sorunla karşılaşırsam veya herhangi bir öneride bulunmak istersem nasıl iletişim kurabilirim?",
+            "answer": "Tüm kullanıcılar tarafından sunulan herhangi bir sorun veya öneriyi memnuniyetle alıyoruz, lütfen daha fazla bilgi için sosyal medya kollarımız aracılığıyla bizimle iletişime geçin. Safeimagekit.com Facebook, Instagram, YouTube ve LinkedIn gibi tüm önde gelen sosyal medya web sitelerinde kullanılabilir."
         }
     ],
     "jscdns": [

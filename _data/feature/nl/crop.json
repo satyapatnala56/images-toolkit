@@ -1,16 +1,16 @@
 {
     "Language": "Nederlands",
     "htmlLangAtt": "nl",
-    "H1": "Afbeelding Cropper",
+    "H1": "Billede Cropper",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "waarschuwing",
-    "H2": "Het bijsnijden van foto's is gemakkelijk bij ons gemaakt, begin met het uploaden van uw bestand hieronder",
-    "TITLE": "Afbeelding bijsnijden - Afbeelding online bijsnijden - safeimagekit",
-    "META": "Bent u op zoek naar een hoogwaardige beeldsnijder? Nou, dan ben je hier aan het juiste adres. Onze online tool voor het bijsnijden van afbeeldingen is uiterst veilig, gebruiksvriendelijk en supersnel.",
+    "variant": "advarsel",
+    "H2": "Beskæring billeder er blevet gjort nemt med os, start med at uploade din fil nedenfor",
+    "TITLE": "Beste billede - Bille de afgrøde online - safeimagekit",
+    "META": "Leder du efter en høj kvalitet billede cropper? Så er du på det rigtige sted. Onze online billedafgrødeværktøj er ekstremt sikkert, brugervenligt og super hurtigt.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "Hoge kwaliteit",
-            "content": "Onze tool voor het bijsnijden van afbeeldingen snijdt de afbeeldingen bij door de kwaliteit te behouden."
+            "header": "Høj kvalitet",
+            "content": "Vores billede cropper værktøj afgrøder billederne ved at bevare sin kvalitet."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Beveiliging van gegevens",
-            "content": "Geen van uw gegevens wordt op onze servers verzonden, alle bewerkingen worden uitgevoerd in de browser zelf. Dit stelt ons in staat om 100% veilig te zijn voor onze gebruikers"
+            "header": "Geensakkerhed",
+            "content": "Ingen af dine data sendes på vores servere alle operator er udført i selve browseren. Dette gør det mulig for os at fære 100% vind ik leuk voor onze brugere"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "Flexibiliteit",
-            "content": " Onze tool voor het bijsnijden van afbeeldingen werkt op bijna alle soorten browsers en apparaten."
+            "header": "Fleksibilitet",
+            "content": " Vores billede cropper værktøj virker på næsten alle voormalige voor browere og enheder."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Gebruiksvriendelijk",
-            "content": "Onze tool voor het bijsnijden van afbeeldingen is heel gemakkelijk te begrijpen, er is geen professional nodig om aan onze tool te werken."
+            "header": "Brugervenlig",
+            "content": "Vores billede cropper værktøj er meget let op forstå ingen professionel er nødvendig voor at arbejde på vores værktøj."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Gratis",
-            "content": "Onze tool voor het bijsnijden van afbeeldingen is volledig gratis, u kunt al onze tools gebruiken zonder een cent te betalen"
+            "header": "Gratis voor omkostninger",
+            "content": "Vores billede cropper værktøj er helt fri voor omkostninger, kan du bruge alle vores værktøjer uden bij betale en enkelt krone"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "Geen extra download",
-            "content": "Onze tool voor het bijsnijden van afbeeldingen is volledig browsergebaseerd en er is geen extra software nodig om op uw apparaat te worden gedownload."
+            "header": "Ingen yderligere downloaden",
+            "content": "Vores billede cropper værktøj er helt browser baseret og ingen yderligere software er påkrævet for at blive downloadet på din enhed."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Hoe onze afbeelding bij te snijden.",
+        "heading": "Sådan beskære vores billede.",
         "steps": [
-            "Upload de afbeelding die u wilt bijsnijden of Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive",
-            "Snijd de afbeelding dienovereenkomstig bij.",
-            "Bekijk de wijzigingen die in het afbeeldingsbestand zijn aangebracht door naar beneden te scrollen.",
-            "Bewaar de aangebrachte wijzigingen.",
-            "Download het afbeeldingsbestand door op de downloadoptie te klikken.",
-            "Hoera!! de afbeelding is klaar voor gebruik."
+            "Upload billedet, der skal beskæres, of Klik op regelmenu en Dropbox/Google Drev",
+            "Beskær billedet i overensstemmelse hermed.",
+            "Kig på de ændringer, der er foretaget i billedfilen ved at rulle ned.",
+            "Gem de foretagne ændringer.",
+            "Download billedfilen ved op trykke på download-indstillingen.",
+            "Hoera!! billedet er klar til brug."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Is het veilig om toegang tot mijn schijf toe te staan?",
+            "answer": "Ja, het is absoluut veilig om ons toegang te geven tot uw schijf. We zullen geen wijzigingen aanbrengen in uw site en uw bestanden zijn veilig bij u."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Hoe kan ik bestanden uploaden vanaf mijn station/dropbox?",
+            "answer": "Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive. Selecteer het Google-account van waar u uw schijf wilt koppelen. Nu kunt u de bestanden selecteren die u wilt uploaden."
         },
         {
-            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
-            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+            "question": "Wat zijn de functies die de bijsnijdafbeelding van safeimagekit.com biedt terwijl het bijsnijden van een afbeelding?",
+            "answer": "De functie voor bijsnijden van safeimagekit.com biedt veelzijdige functies bij het bijsnijden van een afbeelding, de gebruiker kan elk formaat van de afbeelding uploaden en dat wordt bijgesneden met behulp van onze bijsnijdfunctie. Met deze bijsnijdfunctie kan de gebruiker het ongewenste gedeelte van de geüploade afbeelding afsnijden. De gebruiker kan de snijsecties op de afbeelding aanpassen door de cropperbox te verschuiven die vanuit 8 richtingen werkt."
         },
         {
-            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+            "question": "Hoe snijden we een afbeelding bij met behulp van de bijsnijdfunctie van safeimagekit.com?",
+            "answer": "Er zijn 4 basisstappen waarmee de gebruiker een afbeelding kan bijsnijden die ze bevatten-\n- Upload de afbeelding in de daarvoor bestemde ruimte en druk op uploaden om het bijsnijden te starten.\n- Selecteer het bijsnijdvak en verplaats het met behulp van de pinnen op de afbeelding, dit past het vak op de afbeelding aan. Dit betekent dat de afbeelding alleen wordt opgeslagen of bijgesneden waarop de doos is geplaatst.\n- Druk vervolgens op de onderstaande bestandsknop, dit slaat de wijzigingen op die in de afbeelding zijn aangebracht.\n- Druk ten slotte op de downloadknop om de bijgewerkte afbeelding te downloaden."
         },
         {
-            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
-            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+            "question": "Wat zijn de ondersteunde formaten voor het bijsnijden van afbeeldingen die worden aangeboden door safeimageit.com?",
+            "answer": "Momenteel biedt safeimagekit.com functies voor het bijsnijden van afbeeldingen voor alle formaten die er zijn, maar de gebruiker kan profiteren van deze functie uit de volgende formaten van de afbeeldingen:\n- Png \n- Jpeg \n- Jpg\n- Meme\n- Xmap, enz."
         },
         {
-            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
-            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+            "question": "Kunnen we 4K-afbeeldingen en 8k-afbeeldingen bijsnijden met behulp van de functie voor het bijsnijden van afbeeldingen van safeimagekit.com?",
+            "answer": "Ja, de functie voor het bijsnijden van afbeeldingen van safeimagekit.com biedt 4k- en 8k-beeldconversie. De 4K-functie voor het bijsnijden van afbeeldingen werkt prima, maar het bijsnijden van 8k afbeeldingen zal enigszins vertragen in vergelijking met 1080p- en 4K-afbeeldingen omdat de 8k-beeldverwerking door de safeimagekit.com wat tijd kost."
         },
         {
-            "question": "What is the time taken by the converter to crop an image file?",
-            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+            "question": "Wat is de tijd die de converter nodig heeft om een afbeeldingsbestand bij te snijden?",
+            "answer": "Tijd is de opwindende factor die hier aanwezig is, waar we het bestand uploaden en de magie zien gebeuren, de bijsnijdconversie vindt in een oogwenk plaats waar we verschillende soorten afbeeldingsbestanden kunnen bijsnijden. De enige tijdrovende factor en alles wat nodig is, is een normale internetverbinding."
         },
         {
-            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
-            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+            "question": "Kan ik image cropper van safeimagekit.com gebruiken om mijn audio- of videobestanden te converteren?",
+            "answer": "Beeldbijsnijder van safeimagekit.com biedt alleen functies voor het bijsnijden van afbeeldingen. Momenteel biedt beeldcropper geen conversie van video- of audiobestanden, maar toekomstige upgrades naar de website zullen u alle opwindende functies bieden."
         },
         {
-            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
-            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+            "question": "Kunnen we GIF's bewerken of maken met behulp van de bijsnijdoptie van safeimagekit.com? ",
+            "answer": "GIF's zijn bewegende afbeeldingen met tekstinvoegingsfunctie; GIF's zijn zeer korte clips of stukjes afbeeldingen waarvoor andere bewerkingsopties nodig zijn. GIF's die worden geüpload, kunnen worden bijgesneden met safeimagekit.com. Enkele kleine updates in de toekomst zullen echter het plezier van het bewerken van GIF's naar de safeimagekit.com-website brengen."
         },
         {
-            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
-            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+            "question": "Kunnen we 1080p- en 720p-foto's bijsnijden met behulp van afbeeldingscropper van safeimagekit.com?",
+            "answer": "Ja, beeldbijsnijder van safeimagekit.com biedt bewerkingsfuncties van 1080p en 720p resolutie van buitenaf, ze stellen ons in staat om het bijsnijden van de afbeelding te wijzigen, waardoor de grootte ervan wordt verkleind."
         },
         {
-            "question": "Which image format is preferable among webp and jpg formats?",
-            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+            "question": "Welk afbeeldingsformaat verdient de voorkeur bij webp- en jpg-indelingen?",
+            "answer": "Een goed geoptimaliseerde jpg is vergelijkbaar met of beter dan webp. Webp is echter een nieuw afbeeldingsformaat en wordt niet door alle browsers ondersteund. Het typische verschil tussen beide ligt in de kwaliteit die een verschil van 15% -25% in de maat is."
         },
         {
-            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
-            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+            "question": "Zal mijn beeldkwaliteit afnemen na het downloaden van de afbeeldingscropper van safeimagekit.com?",
+            "answer": "Nee, de kwaliteit van de afbeelding neemt niet af na het downloaden van de afbeeldingscropper van safeimagekit.com. De afbeeldingen verliezen hun kwaliteit niet en worden met dezelfde kwaliteit verschoven na het bijsnijden van de afbeelding."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
-            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Wat gebeurt er met onze voortgang als we onze browser vernieuwen terwijl we de afbeeldingscropper van safeimagekit.com gebruiken?",
+            "answer": "De afbeeldingscropper van safeimagekit.com is niet verbonden met een server die er is, dus de gegevens waaraan de gebruiker werkt, worden nergens opgeslagen en als gevolg daarvan worden deze onmiddellijk gewist wanneer de gebruiker de browser vernieuwt waaraan hij werkt. De afbeeldingsbestanden waaraan wordt gewerkt, worden ook verwijderd nadat de gebruiker het tabblad waarop de extensiepagina van de website is geopend heeft of sluit."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "Kan ik de functie voor het bijsnijden van afbeeldingen van safeimagekit.com gebruiken op mijn LINUX-besturingssysteem?",
+            "answer": "Ja, de functie voor het bijsnijden van afbeeldingen van safeimagekit.com kan op elk besturingssysteem worden gebruikt, zelfs LINUX. Het is gebouwd met de nieuwste code en functies waarmee de gebruiker de afbeeldingscropper kan gebruiken op elk besturingssysteem zoals MAC OS, Windows en Ubuntu, op voorwaarde dat er een apparaat is met een stabiele internetverbinding. De goocheltruc is dat het zelfs werkt op een langzamere internetverbinding."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "Kan ik de functie voor het bijsnijden van afbeeldingen van safeimagekit.com op een iOS-apparaat gebruiken?",
+            "answer": "Ja, de functie voor het bijsnijden van afbeeldingen van safeimagekit.com kan worden gebruikt op iOS-apparaten en zelfs op Android-apparaten. Het is gebouwd met de nieuwste functies die de gebruiker bieden om dit extensiebestand op elk besturingssysteem te gebruiken, alles wat het nodig heeft een internetverbinding en een goede webbrowser."
         },
         {
-            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+            "question": "Hoe kan ik de wijzigingen in het afbeeldingsbestand opslaan met behulp van de afbeeldingscropper van safeimagekit.com?",
+            "answer": "Upload eerst een afbeeldingsbestand dat een wijziging vereist en gebruik vervolgens de optie voor het bijsnijden van afbeeldingen om het afbeeldingsbestand één voor één bij te snijden. Gebruik vervolgens de opslagoptie die onderaan de website wordt gegeven, dit slaat de wijzigingen op die zijn aangebracht in de afbeeldingsbestanden en downloadt vervolgens het gewijzigde afbeeldingsbestand."
         },
         {
-            "question": "Will my file be saved after I complete working on the image cropper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met het gereedschap voor het bijsnijden van afbeeldingen? ",
+            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Moet ik een extra aanmelding doen of extra betalen om de tool voor het bijsnijden van afbeeldingen te gebruiken? ",
+            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Hoe communiceer ik als ik problemen heb of als ik wijzigingen wil voorstellen?",
+            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
         }
     ],
     "csscdns": [

@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "จะปลอดภัยหรือไม่ที่จะอนุญาตให้เข้าถึงไดรฟ์ของฉัน?",
+            "answer": "ใช่ มันปลอดภัยอย่างยิ่งที่จะอนุญาตให้เราเข้าถึงไดรฟ์ของคุณเราจะไม่ทำการเปลี่ยนแปลงใด ๆ กับเว็บไซต์ของคุณ และ dfiles ของคุณจะปลอดภัยกับคุณ"
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "ฉันจะอัปโหลดไฟล์จากไดรฟ์/Dropbox ของฉันได้อย่างไร",
+            "answer": "คลิกที่ลูกศรแบบเลื่อนลงและเลือก Dropbox/Google ไดรฟ์เลือกบัญชี Google จากตำแหน่งที่คุณต้องการเชื่อมโยงไดรฟ์ตอนนี้คุณสามารถเลือกไฟล์ที่คุณต้องการอัปโหลดได้"
         },
         {
-            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
-            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
+            "question": "อะไรคือคุณสมบัติที่นำเสนอโดยฟิลเตอร์ภาพถ่ายจาก safeimagekit.com ในขณะที่เพิ่มฟิลเตอร์ไปยังภาพ?",
+            "answer": "ฟีเจอร์ฟิลเตอร์ภาพถ่ายจาก safeimagekit.com ให้ฟิลเตอร์ที่ดีที่สุดออกมีตัวกรองเหล่านี้เปลี่ยนรูปลักษณ์โดยรวมของภาพที่อัปโหลดตัวกรองที่มีอยู่- Prewitt แนวนอน- สีแดง, สีเขียว, สีเทา, คว่ำ, ผ่านสูง, Laplacian, Prewitt แนวตั้ง, โรเบิร์ต, อิ่มตัว, ซีเปีย, คมชัด, โซเบลแนวนอน, โซเบลแนวตั้ง, เกณฑ์, กระจกคุณลักษณะนำไปใช้ซึ่งอยู่ด้านล่างบันทึกการเปลี่ยนแปลงที่ทำและช่วยให้ผู้ใช้ดาวน์โหลดไฟล์ภาพ"
         },
         {
-            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
+            "question": "ขั้นตอนการเพิ่มฟิลเตอร์ไปยังไฟล์รูปภาพภายใต้คุณลักษณะตัวกรองรูปภาพจาก safeimagekit.com คืออะไร?",
+            "answer": "มี 4 ขั้นตอนพื้นฐานในการเพิ่มตัวกรองไปยังไฟล์ภาพภายใต้คุณลักษณะฟิลเลอร์ภาพจาก safeimagekit.comคุณสมบัติเหล่านี้รวมถึง-\n- อัปโหลดไฟล์ภาพที่ต้องการในพื้นที่ที่ให้ไว้\n- เลือกตัวกรองที่เหมาะสมจากความหลากหลายของตัวเลือกที่กำหนด\n- เลือกตัวกรองและคลิก นำไปใช้เพื่อใช้ตัวกรองนั้นกับภาพนั้น\n- กดบันทึกเพื่อบันทึกการเปลี่ยนแปลงที่ทำและดาวน์โหลดภาพที่มีการแก้ไข"
         },
         {
-            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
-            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
+            "question": "รูปแบบภาพใดบ้างที่สนับสนุนโดยฟีเจอร์ฟิลเตอร์ภาพจาก safeimagekit.com?",
+            "answer": "ปัจจุบันฟีเจอร์ฟิลเตอร์ภาพจาก safeimagekit.com สนับสนุนทุกรูปแบบของภาพออกมีอย่างไรก็ตามผู้ใช้จะได้รับประโยชน์ที่ดีที่สุดหากภาพอยู่ในรูปแบบต่อไปนี้-\n- ปง\n- Jpeg\n- JPG\n- ดิบ \n- กำไรต่อหุ้น ฯลฯ\n"
         },
         {
-            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "เราจะใช้ฟิลเตอร์ Laplacian โดยใช้ตัวกรองภาพจาก safeimagekit.com กับรูปภาพที่อัปโหลดได้อย่างไร?",
+            "answer": "ขั้นแรกให้อัปโหลดภาพที่ต้องมีการเปลี่ยนแปลงในพื้นที่อัปโหลดที่มีให้จากนั้นเลือกตัวกรองภาพ Laplacian จากความหลากหลายของตัวเลือกที่ให้ไว้ในกล่องเครื่องมือของตัวกรองจากนั้นกดปุ่มใช้เพื่อดูตัวอย่างภาพหลังจากเพิ่มตัวกรองกด “บันทึก” เพื่อบันทึกการเปลี่ยนแปลงที่เกิดขึ้นกับภาพที่อัปโหลดสุดท้ายให้กดปุ่มดาวน์โหลดเพื่อดาวน์โหลดภาพใหม่และปรับปรุงใหม่"
         },
         {
-            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
-            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
+            "question": "เราได้รับตัวอย่างเพื่อตรวจสอบภาพหลังจากเพิ่มฟิลเตอร์ในขณะที่ใช้ฟีเจอร์ฟิลเตอร์ภาพจาก safeimagekit.com?",
+            "answer": "ใช่ ฟีเจอร์ฟิลเตอร์รูปภาพจาก safeimagekit.com มีตัวเลือกแสดงตัวอย่างเพื่อตรวจสอบมุมมองของรูปภาพที่กำลังแก้ไขอยู่ในการเข้าถึงคุณลักษณะการแสดงตัวอย่างผู้ใช้จำเป็นต้องอัปโหลดภาพและเพิ่มตัวกรองไปยังภาพนั้นจากความหลากหลายของตัวกรองที่มีให้จากนั้นกดปุ่ม Apply เพื่อใช้ตัวกรองนั้นบนภาพนั้นจากนั้นเราจะได้รับตัวอย่างของภาพที่ได้รับการแก้ไขด้วยตัวกรองใหม่"
         },
         {
-            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "เราจะนำฟิลเตอร์กระจกมาใช้ฟิลเตอร์ภาพจาก safeimagekit.com ไปยังรูปภาพที่อัพโหลดได้อย่างไร",
+            "answer": "ตัวกรองกระจกเป็นตัวกรองที่ไม่ซ้ำกันที่ให้ผู้ใช้มีสำเนากระจกที่แน่นอนของภาพขั้นแรกให้อัปโหลดภาพที่ต้องมีการเปลี่ยนแปลงในพื้นที่อัปโหลดที่มีให้จากนั้นเลือกตัวกรองภาพมิเรอร์จากความหลากหลายของตัวเลือกที่ให้ไว้ในกล่องเครื่องมือของตัวกรองจากนั้นกดปุ่มใช้เพื่อดูตัวอย่างภาพหลังจากเพิ่มตัวกรองกด “บันทึก” เพื่อบันทึกการเปลี่ยนแปลงที่เกิดขึ้นกับภาพที่อัปโหลดสุดท้ายให้กดปุ่มดาวน์โหลดเพื่อดาวน์โหลดภาพใหม่และปรับปรุงใหม่"
         },
         {
-            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
-            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
+            "question": "เราสามารถเพิ่มหรือลบข้อความในขณะที่การเพิ่มตัวกรองไปยังไฟล์ภาพโดยใช้คุณลักษณะเพิ่มตัวกรองจาก safeimagekit.com?",
+            "answer": "ไม่มีเราไม่สามารถเพิ่มหรือลบข้อความในขณะที่เพิ่มตัวกรองไปยังไฟล์ภาพที่อัปโหลดโดยใช้คุณลักษณะเพิ่มตัวกรองจาก safeimagekit.com คุณลักษณะการแก้ไขข้อความเช่นการแทรกข้อความและคุณลักษณะการกำจัดข้อความจะไม่รวมอยู่ในขณะนี้ฟีเจอร์ฟิลเตอร์ภาพถ่ายรองรับการแปลงเท่านั้น แต่ไม่สามารถแก้ไขได้อย่างไรก็ตามการปรับปรุงเว็บไซต์จะนำคุณสมบัติที่น่าตื่นเต้นทั้งหมดแม้การแก้ไขข้อความไปยังเว็บไซต์."
         },
         {
-            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
-            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
+            "question": "เวลาถ่ายโดยฟีเจอร์ฟิลเตอร์รูปภาพจาก safeimagekit.com เพื่อเพิ่มตัวกรองลงในไฟล์รูปภาพคืออะไร?",
+            "answer": "เวลาเป็นปัจจัยที่น่าตื่นเต้นที่นี่; เวลาที่ถ่ายโดยฟีเจอร์ฟิลเตอร์ภาพจาก safeimagekit.com ทั้งหมดขึ้นอยู่กับไฟล์รูปภาพที่อัพโหลดถ้าขนาดของภาพที่อัปโหลดมากขึ้นแล้วเวลาที่ใช้ในการประมวลผลการแปลงไฟล์ภาพเป็นบิตมากกว่าเวลาที่ใช้ในการแปลงไฟล์ภาพปกติและในทางกลับกันการเชื่อมต่ออินเทอร์เน็ตยังมีบทบาทในความเร็วของการแปลง (มันทำงานได้กับการเชื่อมต่อที่ช้าลง)."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
-            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "จะเกิดอะไรขึ้นกับความคืบหน้าของเราหากเรารีเฟรชเบราว์เซอร์ของเราในขณะที่เรากำลังใช้ฟีเจอร์ฟิลเตอร์ภาพจาก safeimagekit.com?",
+            "answer": "ฟีเจอร์ฟิลเตอร์ภาพจาก safeimagekit.com ไม่ได้เชื่อมต่อกับเซิร์ฟเวอร์ใด ๆ ออกมี ดังนั้นข้อมูลที่ผู้ใช้กำลังทำงานอยู่จะไม่ถูกเก็บไว้ที่ใดก็ได้และเป็นผลให้มันถูกลบทันทีเมื่อผู้ใช้รีเฟรชเบราว์เซอร์ที่เขาทำงานอยู่ไฟล์รูปภาพที่ทำงานอยู่จะถูกลบออกหลังจากที่ผู้ใช้ออกหรือปิดแท็บที่หน้าส่วนขยายของเว็บไซต์เปิดอยู่"
         },
         {
-            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
-            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "ฉันสามารถใช้ฟีเจอร์ฟิลเตอร์ภาพจาก safeimagekit.com บน Ubuntu OS ของฉันได้หรือไม่",
+            "answer": "ฟิลเตอร์ภาพเป็นคุณลักษณะที่หลากหลายที่นำเสนอโดย safeimagekit.com ซึ่งได้รับการสนับสนุนโดยทุกระบบปฏิบัติการออกมีเช่น Windows 8, Linux, และแม้กระทั่งอูบุนตูทั้งหมดที่ใช้เป็นอุปกรณ์ที่จะเปิดไฟล์นามสกุลโดยใช้เว็บไซต์ www.safeimagekit.com และการเชื่อมต่ออินเทอร์เน็ตปกติที่จะยืนบนความจริงที่สนุกก็คือว่ามันยังสามารถทำงานบนการเชื่อมต่ออินเทอร์เน็ตช้าลง."
         },
         {
-            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "เราจะใช้ฟิลเตอร์ซีเปียโดยใช้ตัวกรองภาพจาก safeimagekit.com ไปยังรูปภาพที่อัพโหลดได้อย่างไร",
+            "answer": "ขั้นแรกให้อัปโหลดภาพที่ต้องมีการเปลี่ยนแปลงในพื้นที่อัปโหลดที่มีให้จากนั้นเลือกตัวกรองภาพซีเปียจากความหลากหลายของตัวเลือกที่ให้ไว้ในกล่องเครื่องมือของตัวกรองจากนั้นกดปุ่มใช้เพื่อดูตัวอย่างภาพหลังจากเพิ่มตัวกรองกด “บันทึก” เพื่อบันทึกการเปลี่ยนแปลงที่เกิดขึ้นกับภาพที่อัปโหลดสุดท้ายให้กดปุ่มดาวน์โหลดเพื่อดาวน์โหลดภาพใหม่และปรับปรุงใหม่"
         },
         {
-            "question": "Will my file be saved after I complete working on the photo filter tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "ไฟล์ของฉันจะได้รับการบันทึกหลังจากที่ฉันทำงานบนเครื่องมือฟิลเตอร์ภาพเสร็จแล้วหรือไม่ ",
+            "answer": "ไม่เราไม่ได้ส่งไฟล์ใด ๆ ของคุณไปยังเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์ตัวเองดังนั้นไฟล์ทั้งหมดของคุณมีความปลอดภัยอย่างสมบูรณ์ "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "ฉันจำเป็นต้องลงทะเบียนเพิ่มเติมหรือจ่ายเงินเพิ่มเพื่อใช้เครื่องมือกรองภาพหรือไม่? ",
+            "answer": "ไม่แน่นอนเครื่องมือของเราออนไลน์อย่างสมบูรณ์และไม่จำเป็นต้องให้คุณแบ่งปันข้อมูลส่วนบุคคลใด ๆ ของคุณกับเรา เช่น ID อีเมล รหัสผ่าน ฯลฯ เครื่องมือของเราไม่มีค่าใช้จ่าย"
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "ฉันจะติดต่อสื่อสารได้อย่างไรหากฉันประสบปัญหาใด ๆ หรือฉันต้องการให้คำแนะนำใด ๆ",
+            "answer": "เรายินดีที่จะใช้ในปัญหาใด ๆ หรือข้อเสนอแนะที่นำเสนอโดยผู้ใช้ทั้งหมด, โปรดติดต่อเราผ่านการจัดการสื่อสังคมของเราสำหรับข้อมูลเพิ่มเติม.SafeImageKit.com สามารถใช้ได้ในทุกเว็บไซต์สื่อสังคมชั้นนำเช่น Facebook, Instagram, YouTube, และ LinkedIn ฯลฯ"
         }
     ],
     "jscdns": [

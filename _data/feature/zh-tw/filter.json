@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "允許訪問我的驅動器是否安全？",
+            "answer": "是的，允許我們訪問您的驅動器是絕對安全的。我們不會對您的網站進行任何更改，您的 dfiles 將是安全的。"
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "如何從我的驅動器/Dropbox 上傳文件？",
+            "answer": "點擊下拉箭頭，然後選擇 Dropbox/谷歌驅動器。選擇您想要鏈接驅動器的 Google 帳户。現在，您可以選擇要上傳的文件。"
         },
         {
-            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
-            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
+            "question": "在向圖像添加濾鏡的同時，Safeimagekit.com 的照片濾鏡提供了哪些功能？",
+            "answer": "來自安全的照片濾鏡功能提供了最好的濾鏡在那裏。這些過濾器會改變上傳圖像的整體外觀。可用的濾波器有-普雷威特水平-紅色, 綠色, 灰度, 反轉, 高通, 拉普拉斯, 普雷威特垂直, 羅伯特, 飽和度, 棕褐色, 鋭化, 索貝爾水平, 索貝爾垂直, 閾值, 鏡像.底部的應用功能會保存所做的更改，並允許用户下載圖像文件。"
         },
         {
-            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
+            "question": "在 Safeimagekit.com 的照片濾鏡功能下向圖像文件添加濾鏡的過程是什麼？",
+            "answer": "在 Safeimagekit.com 的照片文件管理器功能下，有 4 個基本步驟可以將濾鏡添加到圖像文件。這些特點包括\n-在提供的空間中上傳所需的圖片文件。\n-從給定的各種選項中選擇合適的過濾器。\n-選擇過濾器，然後單擊應用以將該濾鏡應用到該圖像。\n-點擊保存以保存所做的更改並下載修改後的圖像。"
         },
         {
-            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
-            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
+            "question": "安全圖像庫中的照片濾鏡功能支持哪些圖像格式？",
+            "answer": "目前，來自 Safeimagekit.com 的照片濾鏡功能支持所有格式的圖像。然而, 如果圖像採用以下格式, 則用户可以獲得最大的優勢-\n-巴布亞新幾內亞\n-傑佩格\n-JPG\n-原始 \n-Eps 等\n"
         },
         {
-            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "我們如何將拉普拉斯濾鏡應用於上傳的照片上傳的照片？",
+            "answer": "首先，上傳需要更改所提供的上傳空間的圖片。然後，從濾鏡工具箱中提供的各種選項中選擇拉普拉斯圖像過濾器。然後，點擊應用按鈕，在添加過濾器後獲取照片的預覽。點擊「保存」以保存對上傳圖像所做的更改。最後，點擊下載選項下載新的和改進的圖像。"
         },
         {
-            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
-            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
+            "question": "在使用 Safeimagekit.com 上的照片濾鏡功能時，我們是否會得到預覽，以便在添加濾鏡後檢查圖像？",
+            "answer": "是的，來自 Safeimagekit.com 的照片濾鏡功能確實提供了一個預覽選項來檢查正在編輯的圖像的外觀。要訪問預覽功能，用户需要上傳圖像，並根據提供的各種濾鏡向該圖像添加過濾器。然後，點擊應用按鈕以在該圖像上應用該過濾器。然後，我們將獲得已使用新濾鏡修改的圖像的預覽。"
         },
         {
-            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "我們如何將鏡像濾鏡應用到上傳的照片上傳的照片？",
+            "answer": "鏡像過濾器是一種唯一的過濾器，可為用户提供映像的精確鏡像副本。首先，上傳需要更改所提供的上傳空間的圖片。然後，從濾鏡工具箱中提供的各種選項中選擇鏡像過濾器。然後，點擊應用按鈕，在添加過濾器後獲取照片的預覽。點擊「保存」以保存對上傳圖像所做的更改。最後，點擊下載選項下載新的和改進的圖像。"
         },
         {
-            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
-            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
+            "question": "我們是否可以使用 Safeimagekit.com 中的添加過濾器功能添加或刪除文本，同時向圖像文件添加或刪除文本？",
+            "answer": "不，我們無法添加或刪除文本時，使用安全影像吉特 .com 的添加過濾器功能向上傳的圖像文件添加或刪除文本，目前不包括文本插入和文本刪除功能等文本編輯功能。照片濾鏡功能僅支持轉換，但不支持編輯。然而，網站的更新將帶來所有令人興奮的功能，甚至文本編輯功能的網站。"
         },
         {
-            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
-            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
+            "question": "Safeimagekit.com 的照片過濾器功能將濾鏡添加到圖像文件所花費的時間是多少？",
+            "answer": "時間是這裏令人興奮的因素；來自 Safeimagekit.com 的照片濾鏡功能所花費的時間完全取決於上傳的圖片文件。如果上傳圖像的大小大於處理圖像文件轉換所花費的時間比轉換普通圖像文件所花費的時間多一點，反之亦然。互聯網連接也起到轉換速度的作用 (它甚至工作在一個較慢的連接)."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
-            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "如果我們在使用 Safeimagekit.com 的照片過濾功能時刷新瀏覽器，我們的進度會發生什麼？",
+            "answer": "Safeimagekit.com 的照片過濾功能沒有連接到任何服務器，因此用户正在處理的數據不會存儲在任何地方，因此，當用户刷新他正在使用的瀏覽器時，它將立即被刪除。在用户退出或關閉打開網站擴展頁面的選項卡後，處理的圖像文件也將被刪除。"
         },
         {
-            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
-            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "我可以在我的 Ubuntu 操作系統上使用安全圖像濾鏡功能嗎？",
+            "answer": "照片過濾器是由安全影像提供的一個多功能，它受到所有操作系統的支持，如 Windows 8，Linux，甚至 Ubuntu。只需要一個設備來使用 www.safe imagekit.com 網站和正常的互聯網連接來打開擴展文件。有趣的事實是，它甚至可以在較慢的互聯網連接上運行。"
         },
         {
-            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "我們如何將使用 Safeimagekit.com 上的照片過濾器應用棕褐色濾鏡到上傳的照片？",
+            "answer": "首先，上傳需要更改所提供的上傳空間的圖片。然後，從濾鏡工具箱中提供的各種選項中選擇棕褐色圖像濾鏡。然後，點擊應用按鈕，在添加過濾器後獲取照片的預覽。點擊「保存」以保存對上傳圖像所做的更改。最後，點擊下載選項下載新的和改進的圖像。"
         },
         {
-            "question": "Will my file be saved after I complete working on the photo filter tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "在我完成照片濾鏡工具的工作後，我的文件會被保存嗎？ ",
+            "answer": "不，我們不會將您的任何文件發送到我們的服務器，所有操作都是在瀏覽器本身上完成的，因此您的所有文件都是完全安全的。 "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "我是否需要額外註冊或支付額外費用才能使用照片過濾工具？ ",
+            "answer": "絕對不是，我們的工具完全在線，不要求您與我們分享您的任何個人信息，例如電子郵件 ID，密碼等我們的工具是完全免費的。"
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "如果我遇到任何問題或想提出任何建議，我該如何溝通？",
+            "answer": "我們很樂意接受所有用户提供的任何問題或建議，請通過我們的社交媒體句柄與我們聯繫以獲取更多信息。在所有領先的社交媒體網站上，如臉書、英語網站、YouTube 和領英等。"
         }
     ],
     "jscdns": [

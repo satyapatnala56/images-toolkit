@@ -65,72 +65,72 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "내 드라이브에 대한 액세스를 허용해도 안전한가요?",
+            "answer": "예, 드라이브에 대한 액세스를 허용하고 허용하는 것은 절대적으로 안전합니다.우리는 귀하의 사이트를 변경하지 않을 것이며 귀하의 파일은 안전하게 보호될 것입니다."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "드라이브/드롭박스에서 파일을 업로드하려면 어떻게 해야 하나요?",
+            "answer": "드롭다운 화살표를 클릭하고 드롭박스/Google 드라이브를 선택합니다.드라이브를 연결할 Google 계정을 선택합니다.이제 업로드할 파일을 선택할 수 있습니다."
         },
         {
-            "question": "What are the features offered by the image flipper feature from safeimagekit.com while, flipping an image?",
-            "answer": "Image flipper from safeimagekit.com offers versatile features while flipping an image, where we upload the image file in the space provided and edit that image by rotating it to its left or to is its right or rotate the image with a marginal angle."
+            "question": "이미지를 뒤집는 동안 safeimagekit.com의 이미지 플리퍼 기능이 제공하는 기능은 무엇입니까?",
+            "answer": "safeimagekit.com의 이미지 플리퍼는 이미지를 뒤집는 동안 다양한 기능을 제공합니다. 여기서 제공된 공간에 이미지 파일을 업로드하고 이미지를 왼쪽 또는 오른쪽으로 회전하거나 이미지를 가장자리 각도로 회전하여 해당 이미지를 편집합니다."
         },
         {
-            "question": "How can we rotate the image file to the right, using the image flipper feature from safeimagekit.com?",
-            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the right side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
+            "question": "safeimagekit.com의 이미지 플리퍼 기능을 사용하여 이미지 파일을 오른쪽으로 회전하려면 어떻게해야합니까?",
+            "answer": "첫 번째 단계로 제공된 공간에 이미지 파일을 업로드합니다.다음 단계는 이미지를 안정시키는 웹 사이트 safeimagekit.com에서 수행합니다.요구 사항에 따라 사용자는 제공된 공간에 각도를 삽입하여 이미지를 오른쪽으로 회전합니다.적절한 각도를 입력 한 후 각도에 따라 이미지를 회전하는 “회전”버튼을 누르십시오.“저장” 버튼을 눌러 변경 사항을 저장합니다."
         },
         {
-            "question": "How can we rotate the image file to the left, using the image flipper feature from safeimagekit.com?",
-            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the left side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
+            "question": "safeimagekit.com의 이미지 플리퍼 기능을 사용하여 이미지 파일을 왼쪽으로 회전하려면 어떻게해야합니까?",
+            "answer": "첫 번째 단계로 제공된 공간에 이미지 파일을 업로드합니다.다음 단계는 이미지를 안정시키는 웹 사이트 safeimagekit.com에서 수행합니다.요구 사항에 따라 사용자는 제공된 공간에 각도를 삽입하여 이미지를 왼쪽으로 회전합니다.적절한 각도를 입력 한 후 각도에 따라 이미지를 회전하는 “회전”버튼을 누르십시오.“저장” 버튼을 눌러 변경 사항을 저장합니다."
         },
         {
-            "question": "Will my uploaded image files corrupt after rotating the image files using the image flipper file feature from safeimagefkit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "safeimagefkit.com의 이미지 플리퍼 파일 기능을 사용하여 이미지 파일을 회전하면 업로드된 이미지 파일이 손상됩니까?",
+            "answer": "아니요, safeimagekit.com은 업로드된 이미지 파일이 손상되지 않도록 하는 모든 최신 프로그램과 보안 기능으로 구축되었습니다.따라서 업로드된 이미지 파일은 완전히 안전하고 안전합니다."
         },
         {
-            "question": "Can we rotate the image files which are locked, using the image flipper feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the image flipper feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking pdfs as well as image files in case the user loses his password for his locked image file."
+            "question": "safeimagekit.com의 이미지 플리퍼 기능을 사용하여 잠긴 이미지 파일을 회전할 수 있습니까?",
+            "answer": "아니요. 특정 이미지 파일에 대한 액세스가 차단되어 잠긴 이미지 파일은 업로드할 수 없습니다.따라서 safeimagekit.com의 이미지 플리퍼 기능을 사용하려면 잠겨 있지 않은 이미지 파일을 업로드해야 합니다.그러나 사용자는 잠긴 이미지 파일에 대한 암호를 잊어 버린 경우 이미지 파일뿐만 아니라 pdf를 잠금 해제하기 위해 독점적으로 만들어진 safeimagekit.com에서 암호 찾기 확장명을 확인할 수 있습니다."
         },
         {
-            "question": "Can I use the image flipper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image flipper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image flipper extension on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The main trick is that it even works on a slower internet connection."
+            "question": "리눅스 운영 체제에서 safeimagekit.com의 이미지 플리퍼 기능을 사용할 수 있습니까?",
+            "answer": "예, safeimagekit.com의 이미지 플리퍼 기능은 리눅스를 포함한 모든 운영 체제에서 사용할 수 있습니다.안정적인 인터넷 연결이 가능한 장치가있는 경우 MAC OS, Windows 및 Ubuntu와 같은 모든 운영 체제에서 이미지 플리퍼 확장을 사용할 수있는 최신 코드와 기능으로 구축되었습니다.주요 트릭은 느린 인터넷 연결에서도 작동한다는 것입니다."
         },
         {
-            "question": "Can I use the image flipper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image flipper extension from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "iOS 기기에서 safeimagekit.com의 이미지 플리퍼 기능을 사용할 수 있나요?",
+            "answer": "예, safeimagekit.com의 이미지 플리퍼 확장 프로그램은 iOS 기기 및 안드로이드 기기에서도 사용할 수 있습니다.사용자가 모든 운영 체제에서이 확장 파일을 사용할 수있는 최신 기능으로 구축되었으며 인터넷 연결과 좋은 웹 브라우저가 필요합니다."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image flipper from safeimagekit.com?",
-            "answer": "The image flipper feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the rotate image page website is open."
+            "question": "safeimagekit.com의 이미지 플리퍼를 사용하는 동안 브라우저를 새로 고치면 진행 상황은 어떻게 되나요?",
+            "answer": "safeimagekit.com의 이미지 플리퍼 기능은 서버에 연결되어 있지 않으므로 사용자가 작업중인 데이터는 어디에도 저장되지 않으므로 사용자가 작업 중인 브라우저를 새로 고치면 즉시 지워집니다.작업한 이미지 파일은 사용자가 이미지 회전 페이지 웹 사이트가 열려 있는 탭을 종료하거나 닫은 후에도 제거됩니다."
         },
         {
-            "question": "How can I save the changes made to the image file using the image flipper feature from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the “enter the rotation angle” option to change the orientation of the image. Then, use the rotate option to start the rotation, the rotation will be instantaneous and will be finished within a second. Then, use the save option which is given on the right of the website, this saves the changes made to the pages of the image file and then downloads the image file which is modified by using the option called “download”."
+            "question": "safeimagekit.com의 이미지 플리퍼 기능을 사용하여 이미지 파일의 변경 사항을 저장하려면 어떻게 해야 합니까?",
+            "answer": "먼저 변경이 필요한 이미지 파일을 업로드한 다음 “회전 각도 입력” 옵션을 사용하여 이미지의 방향을 변경합니다.그런 다음 회전 옵션을 사용하여 회전을 시작하면 회전이 순간적으로 수행되고 1초 내에 완료됩니다.그런 다음 웹 사이트 오른쪽에있는 저장 옵션을 사용하면 이미지 파일의 페이지에 대한 변경 사항을 저장 한 다음 “다운로드”라는 옵션을 사용하여 수정 된 이미지 파일을 다운로드합니다."
         },
         {
-            "question": "Which are the image formats supported by the image flipper from safeimagekit.com while, rotating an image?",
-            "answer": "The image flipper from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
+            "question": "이미지를 회전하는 동안 safeimagekit.com의 이미지 플리퍼가 지원하는 이미지 형식은 무엇입니까?",
+            "answer": "safeimagekit.com의 이미지 플리퍼는 모든 주요 인기 이미지 형식을 지원합니다.여기에는 다음이 포함됩니다.\n- Png 형식\n- Jpeg 형식\n- JPG 형식\n- 원시 형식 등"
         },
         {
-            "question": "Do the safeimagekit.com support pdfs and. word format files?",
-            "answer": "Currently, safeimagekit.com does not support any format save the image type formats. The image flipper feature only works for image files and updates to the website will bring support to all the formats including pdf and. word formats."
+            "question": "safeimagekit.com은 pdf 및. 단어 형식 파일을 지원합니까?",
+            "answer": "현재 safeimagekit.com은 이미지 유형 형식을 저장하는 형식을 지원하지 않습니다.이미지 플리퍼 기능은 이미지 파일에만 작동하며 웹 사이트를 업데이트하면 pdf 및. word 형식을 포함한 모든 형식이 지원됩니다."
         },
         {
-            "question": "Can we use reflex angle rotations to rotate our image using the image flipper from safeimagekit.com?",
-            "answer": "Reflex angles are the types of angles whose degree measurement is more than 180° but less than 360°. Common examples of reflex angles are; 200°, 220°, 250°, 300°, 350°, etc. yes, the image flipper feature from safeimagekit.com do support the rotation of images with reflex angles. Just enter the reflex angle in “enter the rotation angle space” and hit the rotate option to flip the image. Hit the save button after that to save the changes made to the image. Finally, hit the download button to download the image."
+            "question": "safeimagekit.com의 이미지 플리퍼를 사용하여 반사 각도 회전을 사용하여 이미지를 회전할 수 있습니까?",
+            "answer": "반사 각도는 각도 측정이 180° 이상이지만 360° 미만인 각도 유형입니다.반사 각도의 일반적인 예는 200°, 220°, 250°, 300°, 350° 등입니다. 예, safeimagekit.com의 이미지 플리퍼 기능은 반사 각도가 있는 이미지의 회전을 지원합니다.“회전 각도 공간 입력”에 반사 각도를 입력하고 회전 옵션을 눌러 이미지를 뒤집기 만하면됩니다.그런 다음 저장 버튼을 눌러 이미지 변경 사항을 저장합니다.마지막으로 다운로드 버튼을 눌러 이미지를 다운로드합니다."
         },
         {
-            "question": "Will my file be saved after I complete working on the image flipper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "이미지 플리퍼 도구 작업을 완료한 후 파일이 저장되나요? ",
+            "answer": "아니요, 귀하의 파일을 저희 서버로 보내지 않습니다. 모든 작업은 브라우저 자체에서 수행되므로 모든 파일은 완전히 안전합니다. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image flipper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "이미지 플리퍼 도구를 사용하려면 추가 가입이나 추가 비용을 지불해야 하나요? ",
+            "answer": "우리의 도구는 완전히 온라인 상태이며 이메일 ID, 암호 등과 같은 개인 정보를 우리와 공유 할 필요가 없습니다."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "문제가 발생하거나 제안을 하고 싶은 경우 어떻게 소통해야 합니까?",
+            "answer": "모든 사용자가 제공하는 문제 나 제안을 기꺼이 받아들입니다. 자세한 내용은 소셜 미디어 핸들을 통해 문의하십시오.SafeImagekit.com은 페이스북, 인스타그램, 유튜브, 링크드인 등과 같은 모든 주요 소셜 미디어 웹사이트에서 사용할 수 있습니다."
         }
     ],
     "jscdns": [

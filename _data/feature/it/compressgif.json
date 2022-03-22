@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "È sicuro consentire l'accesso alla mia unità?",
+            "answer": "Sì, è assolutamente sicuro consentirci e darci l'accesso alla tua unità. Non apporteremo alcuna modifica al tuo sito e i tuoi file saranno al sicuro con te."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Come posso caricare file dal mio drive/dropbox?",
+            "answer": "Fai clic sulla freccia a discesa e seleziona Dropbox/Google Drive. Seleziona l'account Google da cui desideri collegare l'unità. Ora puoi selezionare i file che desideri caricare."
         },
         {
-            "question": "What are the features offered by the “GIF compressor” feature from safeimagekit.com while compressing an image with a GIF image?",
-            "answer": "GIF compressor feature from safeimagekit.com offers versatile features while compressing a GIF file. The main features include\nModifying the uploaded GIF file by adjusting the dimensions of the image such as height, width, etc. This GIF compression feature also presents the compression by entering size which can be extended to max or min depending on the GIF file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The GIF compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage."
+            "question": "Quali sono le funzionalità offerte dalla funzione «Compressore GIF» di safeimagekit.com durante la compressione di un'immagine con un'immagine GIF?",
+            "answer": "La funzione di compressione GIF di safeimagekit.com offre funzionalità versatili durante la compressione di un file GIF. Le caratteristiche principali includono\nModifica del file GIF caricato regolando le dimensioni dell'immagine come altezza, larghezza, ecc. Questa funzione di compressione GIF presenta anche la compressione inserendo la dimensione che può essere estesa al massimo o al minimo a seconda del file GIF caricato. Questa funzione fornisce anche una modalità rigorosa e una modalità di orientamento per una regolazione accurata e della rotazione. Il compressore GIF offre anche la possibilità di regolare la qualità dell'immagine e consente inoltre all'utente di convertire il formato dell'immagine a vantaggio dell'utente."
         },
         {
-            "question": "What are the parameters provided by the GIF compressor feature from safeimagekit.com, after we upload a GIF file?",
-            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with GIF format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, where it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
+            "question": "Quali sono i parametri forniti dalla funzione di compressione GIF di safeimagekit.com, dopo aver caricato un file GIF?",
+            "answer": "La funzione di compressione di safeimagekit.com fornisce vari parametri dopo aver caricato un'immagine in formato GIF, questi parametri includono il nome dell'immagine, la dimensione dell'immagine, il tipo di immagine, ecc Il parametro è l'ultima modifica, dove ci dà l'ora, la data e il fuso orario in cui è stata l'ultima modificato. Questo ci fornisce anche una barra di avanzamento dopo il caricamento e prima di iniziare la modifica del file immagine caricato."
         },
         {
-            "question": "What are the adjusting features provided by safeimagekit.com to the GIF files, while compressing a GIF file?",
-            "answer": "The GIF file compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the GIF file by adjusting the measurements such as width and height. The max height and the max-width provide the user with the maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
+            "question": "Quali sono le funzioni di regolazione fornite da safeimagekit.com ai file GIF, durante la compressione di un file GIF?",
+            "answer": "La funzione di compressione dei file GIF di safeimagekit.com offre molte funzionalità durante la compressione di un'immagine. Consente all'utente di regolare le dimensioni del file GIF regolando le misure come larghezza e altezza. L'altezza massima e la larghezza massima forniscono all'utente il limite massimo della compressione fotografica. Mentre la min-width e min-height forniscono all'utente un limite minimo di compressione delle foto. L'opzione di conversione della dimensione consente all'utente di comprimere il tutto."
         },
         {
-            "question": "How does the quality adjustment option of the GIF compressor feature from safeimagekit.com work?",
-            "answer": "The quality adjustment option of the GIF compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the GIF file uploaded. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
+            "question": "Come funziona l'opzione di regolazione della qualità della funzione di compressione GIF di safeimagekit.com?",
+            "answer": "L'opzione di regolazione della qualità della funzione di compressione GIF di safeimagekit.com è una caratteristica importante che consente all'utente di decidere la qualità generale del file GIF caricato. È possibile accedere a questa funzione dallo spazio «Inserisci la qualità» dopo aver caricato l'immagine. Questo regola la nitidezza, il contrasto, la sfocatura (su piccole quantità) e molti altri parametri dell'immagine nel complesso. L'utente può decidere la misurazione da 0,1 a 1 scala. Se non vuole cambiare la qualità dell'immagine caricata, questa opzione può essere saltata."
         },
         {
-            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
-            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently, 5 types of image formats are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, GIF, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
+            "question": "Come funziona l'opzione «tipo Mime» della funzione compressore di safeimagekit.com?",
+            "answer": "L'opzione «Tipo Mime» della funzione di compressione di safeimagekit.com consente all'utente di scegliere il formato dell'immagine dopo averla compressa utilizzando lo strumento di compressione di safeimagekit.com. Attualmente sono disponibili 5 tipi di formati di immagine per l'utente. L'utente può modificare il formato dell'immagine in base alle proprie esigenze. Questi formati includono webp, png, GIF, jpg, jpeg e gif. Se l'utente desidera mantenere invariato il formato, l'utente può optare per l'opzione chiamata «Inserisci il tipo mime». È possibile accedere all'opzione «Tipo Mime» nella parte inferiore della pagina dopo aver caricato l'immagine e salvare le modifiche apportate."
         },
         {
-            "question": "Can we edit the text present in the GIF file using the compress GIF feature from safeimagekit.com?",
-            "answer": "No, currently the compress GIF feature from safeimagekit.com only offers the features, which enables the user to compress the GIF file, converting the format of the image from GIF format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
+            "question": "Possiamo modificare il testo presente nel file GIF utilizzando la funzione Comprimi GIF di safeimagekit.com?",
+            "answer": "No, attualmente la funzione comprimi GIF di safeimagekit.com offre solo le funzionalità, che consentono all'utente di comprimere il file GIF, convertendo il formato dell'immagine dal formato GIF ad altri, ecc. Le funzionalità di modifica del testo non sono disponibili in safeimagekit.com. Ma gli aggiornamenti al sito Web porteranno presto tutte le interessanti funzionalità."
         },
         {
-            "question": "Can we edit or compress 4k and 8k images using the GIF compressor from safeimagekit.com?",
-            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
+            "question": "Possiamo modificare o comprimere immagini 4k e 8k usando il compressore GIF di safeimagekit.com?",
+            "answer": "No, attualmente la funzione di compressione di safeimagekit.com offre solo funzionalità di modifica delle immagini fino a 1080p al suo meglio. Tuttavia, le opzioni di compressione e modifica delle immagini 4k esistono in safeimagekit.com, ma l'elaborazione delle immagini 8k non è disponibile e sarà inclusa nel prossimo futuro come aggiornamento del sito Web."
         },
         {
-            "question": "How many GIF files can we edit at a single stretch using the GIF compressor feature from safeimagekit.com?",
-            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single GIF file, as this tool demands decent parameters while editing, multiple GIF files editing feature is not included currently, but updates to the website will make this possible in the future. "
+            "question": "Quanti file GIF possiamo modificare in una sola volta usando la funzione di compressione GIF di safeimagekit.com?",
+            "answer": "Attualmente, la funzione di compressione di safeimagekit.com può modificare e comprimere un singolo file GIF, poiché questo strumento richiede parametri decenti durante la modifica, la funzione di modifica di più file GIF non è attualmente inclusa, ma gli aggiornamenti al sito Web lo renderanno possibile in futuro. "
         },
         {
-            "question": "Can I use the GIF compressor feature from safeimagekit.com on my Apple iPhone 11? ",
-            "answer": "Yes, the GIF compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the GIF files which are uploaded to be compressed into others."
+            "question": "Posso usare la funzione di compressione GIF di safeimagekit.com sul mio Apple iPhone 11? ",
+            "answer": "Sì, la funzione di compressione GIF di safeimagekit.com è una funzionalità basata su più piattaforme, in cui l'utente può utilizzare questo strumento di conversione da sistemi operativi come Android, iOS, Windows e Mac OS. È indipendente dai sistemi operativi utilizzati, ma dipende solo dalla connessione Internet e dalla dimensione dei file GIF che vengono caricati per essere compressi in altri."
         },
         {
-            "question": "Can I use the GIF compressor feature from safeimagekit.com on my LINUX OS? ",
-            "answer": "Yes, the GIF compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as LINUX, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the GIF files which are uploaded to be compressed into others."
+            "question": "Posso usare la funzione di compressione GIF di safeimagekit.com sul mio sistema operativo LINUX? ",
+            "answer": "Sì, la funzione di compressione GIF di safeimagekit.com è una funzionalità basata su più piattaforme, in cui l'utente può utilizzare questo strumento di conversione da sistemi operativi come LINUX, Windows e Mac OS. È indipendente dai sistemi operativi utilizzati, ma dipende solo dalla connessione Internet e dalla dimensione dei file GIF che vengono caricati per essere compressi in altri."
         },
         {
-            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress GIF feature from safeimagekit.com?",
-            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded GIF files to corrupt. So, the uploaded GIF files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no GIF files are stored here, and are wiped from the memory as soon as the webpage is closed."
+            "question": "I miei file di immagine caricati si corromperanno dopo averli compressi utilizzando le squisite opzioni presenti nella funzione GIF di compressione di safeimagekit.com?",
+            "answer": "No, la funzione di compressione di safeimagekit.com è costruita con tutti i programmi e le funzionalità di sicurezza più recenti che non consentono la corruzione dei file GIF caricati. Quindi, i file GIF caricati sono completamente sicuri e protetti. Inoltre, safeimagekit.com è un sito Web senza server, grazie al quale non vengono memorizzati file GIF e vengono cancellati dalla memoria non appena la pagina Web viene chiusa."
         },
         {
-            "question": "Will my file be saved after I complete working on the  GIF compresssion tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Il mio file verrà salvato dopo aver completato il lavoro sullo strumento di compressione GIF? ",
+            "answer": "No, non inviamo nessuno dei tuoi file ai nostri server, tutte le operazioni vengono eseguite sul browser stesso, quindi tutti i tuoi file sono completamente al sicuro. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the GIF compresssion tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Devo fare qualche iscrizione aggiuntiva o pagare un extra per utilizzare lo strumento di compressione GIF? ",
+            "answer": "Assolutamente no, il nostro strumento è completamente online e non richiede di condividere nessuna delle tue informazioni personali con noi, come ID e-mail, password ecc. Il nostro strumento è completamente gratuito."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Come posso comunicare se ho problemi o se voglio dare suggerimenti?",
+            "answer": "Accogliamo volentieri qualsiasi problema o suggerimento offerto da tutti gli utenti, ti preghiamo di contattarci tramite i nostri social media per ulteriori informazioni. Safeimagekit.com è disponibile su tutti i principali siti di social media come Facebook, Instagram, YouTube e LinkedIn, ecc."
         }
     ],
     "jscdns": [

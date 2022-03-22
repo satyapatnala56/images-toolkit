@@ -1,217 +1,146 @@
 {
     "Language": "ภาษาไทย",
     "htmlLangAtt": "th",
-    "h1": "ปรับขนาดภาพเพื่อความไม่ลงรอยกัน",
-    "img": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+    "H1": "พลิกภาพออนไลน์ฟรีด้วยเครื่องมือขั้นสูงนี้",
+    "img": "/img/rotate.png",
     "imgwidth": "35px",
     "imgheight": "35px",
-    "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "เตือน",
-    "h2": "อัปโหลดรูปภาพของคุณที่นี่และปรับขนาดเดี๋ยวนี้",
-    "TITLE": "ปรับขนาดภาพสำหรับ Discord | เครื่องมือปรับขนาดภาพออนไลน์ ",
-    "META": "กำลังมองหาตัวปรับขนาดภาพฟรีและออนไลน์สำหรับ Discord?เยี่ยมชมเว็บไซต์ของเราและปรับขนาดภาพสำหรับ Discord ในไม่กี่วินาที",
+    "variant": "ข้อมูล",
+    "imgalt": "altvalue",
+    "H2": "การหมุนภาพทำได้ง่ายโดยเราเริ่มต้นด้วยการอัปโหลดไฟล์ของคุณด้านล่าง",
+    "TITLE": "พลิกภาพ- ภาพพลิก ออนไลน์- safeimagekit",
+    "META": "คุณกำลังมองหาฟลิปเปอร์ภาพที่มีคุณภาพสูงหรือไม่?งั้นคุณก็มาถูกที่แล้วเครื่องมือภาพพลิกออนไลน์ของเราปลอดภัยมาก ใช้งานง่าย และรวดเร็ว",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
-    "color": "#ff884d",
-    "megaMenu": {
-        "nav-link-name": "Tools",
-        "dropdown": [
-             {
-                "categoryName": "โซเชียลมีเดีย",
-                "links": [
-                    {
-                        "name": "ตัวปรับขนาดรูปภาพ Facebook",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
-                        "url": "/th/image-resize-facebook"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพ Instagram",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
-                        "url": "/th/image-resize-instagram"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพ Linkedin",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
-                        "url": "/th/image-resize-linkedin"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดรูปภาพอีเมล",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
-                        "url": "/th/image-resize-email"
-                    },
-                    {
-                        "name": " ทิกต็อก อิมเมจ",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
-                        "url": "/th/image-resize-tiktok"
-                    },
-                    {
-                        "name": " ปรับขนาดภาพทวิตเตอร์",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
-                        "url": "/th/image-resize-twitter"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพ Pinterest",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
-                        "url": "/th/image-resize-pinterest"
-                    },
-                    {
-                        "name": "ตัวปรับขนาดภาพ Snapchat",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
-                        "url": "/th/image-resize-snapchat"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดรูปภาพโฆษณาแบนเนอร์ของ Google",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
-                        "url": "/th/image-resize-google-banner-ads"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพไม่ลงรอยกัน",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
-                        "url": "/th/image-resize-discord"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพ SoundCloud",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
-                        "url": "/th/image-resize-soundcloud"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพ Whatsapp",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
-                        "url": "/th/image-resize-whatsapp"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพสแควร์สเปซ",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
-                        "url": "/th/image-resize-squarespace"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพ Twitch",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
-                        "url": "/th/image-resize-twitch"
-                    },
-                    {
-                        "name": " ตัวปรับขนาดภาพพิมพ์",
-                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
-                        "url": "/th/image-resize-printing"
-                    }
-                ]
-            }
-        ]
-    },
+    "color": "#a29bfe",
     "TEXTUAL_CONTENT": [
         {
             "priority": 1,
-            "logoUrl": "/assets/lightbulb.svg",
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "คุณภาพสูง",
+            "content": "เครื่องมือฟลิปเปอร์ภาพของเราพลิกภาพโดยการรักษาคุณภาพ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "ความปลอดภัยของข้อมูล",
+            "content": "ไม่มีข้อมูลของคุณถูกส่งไปยังเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์เองซึ่งช่วยให้เราปลอดภัย 100% สำหรับผู้ใช้ของเรา"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilty",
+            "content": " เครื่องมือฟลิปเปอร์ภาพของเราทำงานบนเบราว์เซอร์และอุปกรณ์เกือบทุกชนิด"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "ใช้งานง่าย",
-            "content": "กระบวนการปรับขนาดภาพโซเชียลมีเดียสง่างามและตรงไปตรงมา"
+            "content": "เครื่องมือฟลิปเปอร์ภาพของเราเข้าใจง่ายมาก ไม่จำเป็นต้องมีมืออาชีพในการทำงานกับเครื่องมือของเรา"
         },
         {
             "priority": 1,
-            "logoUrl": "/assets/target.svg",
-            "header": "ผลลัพธ์ที่แม่นยำ",
-            "content": "ผลลัพธ์ที่ถูกต้องและด้วยเหตุนี้จึงสมบูรณ์ตอบสนองความต้องการของผู้ใช้"
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "ไม่เสียค่าใช้จ่าย",
+            "content": "เครื่องมือฟลิปเปอร์ภาพของเราไม่มีค่าใช้จ่ายคุณสามารถใช้เครื่องมือทั้งหมดของเราโดยไม่ต้องจ่ายเงินเพียงครั้งเดียว"
         },
         {
             "priority": 1,
-            "logoUrl": "/assets/cross.svg",
-            "header": "ข้ามแพลตฟอร์ม",
-            "content": "คุณสามารถใช้โปรแกรมนี้จากนี้บนระบบปฏิบัติการใด ๆ เช่น Windows/Mac/Linux/Android/iPhone"
-        },
-        {
-            "priority": 1,
-            "logoUrl": "/assets/shield.svg",
-            "header": "ปลอดภัยและเชื่อถือได้",
-            "content": "ไม่มีเซิร์ฟเวอร์ที่เกี่ยวข้องและด้วยเหตุนี้ข้อมูลและไฟล์ของคุณมีความปลอดภัย"
-        },
-        {
-            "priority": 1,
-            "logoUrl": "/assets/fast.svg",
-            "header": "รวดเร็วและมีประสิทธิภาพ",
-            "content": "เว็บไซต์ประมวลผลไฟล์ของคุณได้อย่างรวดเร็วและมีประสิทธิภาพคุณสามารถทำงานของคุณเสร็จในเวลาไม่นาน"
-        },
-        {
-            "priority": 1,
-            "logoUrl": "/assets/cloud_new.svg",
-            "header": "ไม่มีไฟล์ถูกอัปโหลด",
-            "content": "แอพลิเคชันทำงานอย่างสมบูรณ์บนเบราว์เซอร์ของคุณโดยไม่ต้อง invlolving เซิร์ฟเวอร์ใด ๆดังนั้นไฟล์ของคุณมีความปลอดภัย"
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "ไม่มีการดาวน์โหลดเพิ่มเติม",
+            "content": "เครื่องมือฟลิปเปอร์ภาพของเราเป็นเบราว์เซอร์ที่สมบูรณ์และไม่จำเป็นต้องดาวน์โหลดซอฟต์แวร์เพิ่มเติมบนอุปกรณ์ของคุณ"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "วิธีปรับขนาดภาพของคุณ",
+        "heading": "วิธีพลิกภาพ",
         "steps": [
-            "อัปโหลดรูปภาพที่คุณต้องการปรับขนาด",
-            "เลือกขนาดที่เหมาะสมหรือหลายขนาด",
-            "กดดาวน์โหลดทั้งหมดเพื่อดาวน์โหลดทุกขนาดที่มีอยู่",
-            "กดปุ่มดาวน์โหลดที่เลือกเพื่อดาวน์โหลดขนาดภาพที่เลือก"
+            "อัปโหลดไฟล์ภาพหรือคลิกที่ลูกศรเลื่อนลง และเลือก Dropbox/Google Drive เพื่อเลือกไฟล์ของคุณเพื่อพลิก",
+            "ปรับพารามิเตอร์ที่จำเป็นเพื่อให้ได้คุณภาพของภาพที่ดีขึ้น",
+            "กดตัวเลือก “ดูตัวอย่าง” เพื่อดูการเปลี่ยนแปลงที่ทำ",
+            "บันทึกการเปลี่ยนแปลงที่เกิดขึ้นกับไฟล์ภาพ",
+            "ไชโย!!ภาพพร้อมใช้งาน"
         ]
     },
     "FAQ": [
         {
-            "question": "What are the features offered by the discord image resizer tool from safeimagekit.com while, adjusting the size of the images?",
-            "answer": "Discord image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories."
+            "question": "จะปลอดภัยหรือไม่ที่จะอนุญาตให้เข้าถึงไดรฟ์ของฉัน?",
+            "answer": "ใช่ มันปลอดภัยอย่างยิ่งที่จะอนุญาตให้เราเข้าถึงไดรฟ์ของคุณเราจะไม่ทำการเปลี่ยนแปลงใด ๆ กับเว็บไซต์ของคุณ และ dfiles ของคุณจะปลอดภัยกับคุณ"
         },
         {
-            "question": "What are the different image categories available in the discord image resizer offered by Safeimagekit.com?",
-            "answer": "Discord image resizer offers the image editing options in multiple sections where a user can upload his/her image in the Discord app/website, these categories include-\n-\tDiscord profile photo sizer.\n-\tDiscord server icon sizer.\n-\tDiscord emoji sizer.\n-\tDiscord server banner background sizer.\n-\tDiscord servers invite splash image sizer."
+            "question": "ฉันจะอัปโหลดไฟล์จากไดรฟ์/Dropbox ของฉันได้อย่างไร",
+            "answer": "คลิกที่ลูกศรแบบเลื่อนลงและเลือก Dropbox/Google ไดรฟ์เลือกบัญชี Google จากตำแหน่งที่คุณต้องการเชื่อมโยงไดรฟ์ตอนนี้คุณสามารถเลือกไฟล์ที่คุณต้องการอัปโหลดได้"
         },
         {
-            "question": "How can I adjust the width of the image using the discord image resizer feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+            "question": "อะไรคือคุณสมบัติที่นำเสนอโดยคุณลักษณะฟลิปเปอร์ภาพจาก safeimagekit.com ในขณะที่, พลิกภาพ?",
+            "answer": "ฟลิปเปอร์ภาพจาก safeimagekit.com มีคุณสมบัติที่หลากหลายในขณะที่พลิกภาพที่เราอัปโหลดไฟล์ภาพในพื้นที่ที่ให้ไว้และแก้ไขภาพนั้นโดยการหมุนไปทางซ้ายหรือไปทางขวาหรือหมุนภาพที่มีมุมร่อแร่"
         },
         {
-            "question": "How can I adjust the height of the image using the discord image resizer feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+            "question": "วิธีที่เราสามารถหมุนไฟล์ภาพไปทางขวาโดยใช้คุณลักษณะฟลิปเปอร์ภาพจาก safeimagekit.com?",
+            "answer": "เป็นขั้นตอนแรกเราอัปโหลดไฟล์ภาพในพื้นที่ที่มีให้ขั้นตอนต่อไปจะทำโดยเว็บไซต์ safeimagekit.com ที่มัน steadies ภาพ.ผู้ใช้ตามความต้องการจะหมุนภาพไปทางด้านขวาโดยการใส่มุมในพื้นที่ที่มีให้หลังจากเข้าสู่มุมที่เหมาะสมแล้วให้กดปุ่ม “หมุน” ซึ่งจะหมุนภาพตามมุมกดปุ่ม “บันทึก” เพื่อบันทึกการเปลี่ยนแปลงที่ทำ"
         },
         {
-            "question": "How can I resize an image using the discord image resizer feature from safeimagekit.com?",
-            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there."
+            "question": "วิธีที่เราสามารถหมุนไฟล์ภาพไปทางซ้ายโดยใช้คุณลักษณะฟลิปเปอร์ภาพจาก safeimagekit.com?",
+            "answer": "เป็นขั้นตอนแรกเราอัปโหลดไฟล์ภาพในพื้นที่ที่มีให้ขั้นตอนต่อไปจะทำโดยเว็บไซต์ safeimagekit.com ที่มัน steadies ภาพ.ผู้ใช้ตามความต้องการจะหมุนภาพไปทางด้านซ้ายโดยการใส่มุมในพื้นที่ที่มีให้หลังจากเข้าสู่มุมที่เหมาะสมแล้วให้กดปุ่ม “หมุน” ซึ่งจะหมุนภาพตามมุมกดปุ่ม “บันทึก” เพื่อบันทึกการเปลี่ยนแปลงที่ทำ"
         },
         {
-            "question": "Does the resize option of discord image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
-            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
+            "question": "ไฟล์รูปภาพที่อัพโหลดของฉันจะเสียหายหลังจากหมุนไฟล์รูปภาพโดยใช้ฟีเจอร์ไฟล์ฟลิปเปอร์ภาพจาก safeimagefkit.com หรือไม่?",
+            "answer": "ไม่มี safeimagekit.com ถูกสร้างขึ้นด้วยโปรแกรมล่าสุดและคุณลักษณะความปลอดภัยซึ่งไม่อนุญาตให้ไฟล์ภาพที่อัปโหลดเสียหายดังนั้นไฟล์ภาพที่อัปโหลดมีความปลอดภัยและปลอดภัยอย่างสมบูรณ์"
         },
         {
-            "question": "Can I use the discord image resizer feature from safeimagekit.com on my Windows 8?",
-            "answer": "Discord image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "เราสามารถหมุนไฟล์ภาพที่มีการล็อคโดยใช้คุณลักษณะฟลิปเปอร์ภาพจาก safeimagekit.com?",
+            "answer": "ไม่ได้ เราไม่สามารถอัพโหลดไฟล์รูปภาพที่ถูกล็อคได้ เนื่องจากการเข้าถึงไฟล์รูปภาพนั้นถูกบล็อกดังนั้นการใช้คุณลักษณะฟลิปเปอร์ภาพจาก safeimagekit.com เราจำเป็นต้องอัปโหลดไฟล์ภาพที่ไม่ได้ล็อคแต่ผู้ใช้สามารถตรวจสอบส่วนขยายค้นหารหัสผ่านจาก safeimagekit.com ซึ่งจะทำเฉพาะสำหรับการปลดล็อค PDF เช่นเดียวกับไฟล์ภาพในกรณีที่ผู้ใช้สูญเสียรหัสผ่านของเขาสำหรับไฟล์ภาพล็อคของเขา"
         },
         {
-            "question": "Can I use the discord image resizer feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, the discord image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "ฉันสามารถใช้ฟีเจอร์ฟลิปเปอร์ภาพจาก safeimagekit.com บนระบบปฏิบัติการ LINUX ของฉันได้หรือไม่",
+            "answer": "ใช่ ฟีเจอร์ฟลิปเปอร์ภาพจาก safeimagekit.com สามารถใช้กับระบบปฏิบัติการใดก็ได้แม้แต่ LINUXมันถูกสร้างขึ้นด้วยรหัสล่าสุดและคุณสมบัติที่ช่วยให้ผู้ใช้สามารถใช้ส่วนขยายภาพฟลิปเปอร์บนระบบปฏิบัติการใด ๆ เช่น MAC OS, Windows, และ Ubuntu ให้มีอุปกรณ์ที่มีการเชื่อมต่ออินเทอร์เน็ตที่มีเสถียรภาพเคล็ดลับหลักคือว่ามันทำงานได้กับการเชื่อมต่ออินเทอร์เน็ตที่ช้าลง"
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the discord image resizer feature from safeimagekit.com?",
-            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "ฉันสามารถใช้ฟีเจอร์ฟลิปเปอร์ภาพจาก safeimagekit.com บนอุปกรณ์ iOS ได้หรือไม่",
+            "answer": "ใช่ส่วนขยายฟลิปเปอร์ภาพจาก safeimagekit.com สามารถใช้กับอุปกรณ์ iOS และแม้กระทั่งบนอุปกรณ์ Androidมันถูกสร้างขึ้นด้วยคุณสมบัติล่าสุดที่ให้ผู้ใช้ที่จะใช้ไฟล์นามสกุลนี้ในระบบปฏิบัติการใด ๆ ทั้งหมดจะต้องมีการเชื่อมต่ออินเทอร์เน็ตและเว็บเบราเซอร์ที่ดี"
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the discord image resizer tool from safeimagekit.com?",
-            "answer": "The discord image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "จะเกิดอะไรขึ้นกับความคืบหน้าของเราหากเรารีเฟรชเบราว์เซอร์ของเราในขณะที่เรากำลังใช้ฟลิปเปอร์ภาพจาก safeimagekit.com?",
+            "answer": "ฟีเจอร์ฟลิปเปอร์ภาพจาก safeimagekit.com ไม่ได้เชื่อมต่อกับเซิร์ฟเวอร์ใด ๆ ออกมีดังนั้นข้อมูลที่ผู้ใช้กำลังทำงานอยู่จะไม่ถูกเก็บไว้ที่ใดก็ได้และเป็นผลให้มันถูกลบทันทีเมื่อผู้ใช้รีเฟรชเบราว์เซอร์ที่เขาทำงานอยู่ไฟล์ภาพที่ทำงานอยู่จะถูกลบออกหลังจากที่ผู้ใช้ออกหรือปิดแท็บที่เว็บไซต์หน้าภาพหมุนเปิดอยู่"
         },
         {
-            "question": "Can we resize the image files which are locked, using the discord image resizer feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the discord image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "ฉันจะบันทึกการเปลี่ยนแปลงที่เกิดขึ้นกับไฟล์ภาพโดยใช้ฟีเจอร์ฟลิปเปอร์ภาพจาก safeimagekit.com ได้อย่างไร?",
+            "answer": "ขั้นแรกให้อัปโหลดไฟล์ภาพที่ต้องการการเปลี่ยนแปลงจากนั้นใช้ตัวเลือก “Enter the rotation angle” เพื่อเปลี่ยนการวางแนวของภาพจากนั้นใช้ตัวเลือกการหมุนเพื่อเริ่มต้นการหมุนการหมุนจะทันทีและจะเสร็จสิ้นภายในวินาทีจากนั้นใช้ตัวเลือกบันทึกที่จะได้รับทางด้านขวาของเว็บไซต์นี้จะช่วยประหยัดการเปลี่ยนแปลงที่เกิดขึ้นกับหน้าเว็บของไฟล์ภาพแล้วดาวน์โหลดไฟล์ภาพที่มีการแก้ไขโดยใช้ตัวเลือกที่เรียกว่า “ดาวน์โหลด”"
         },
         {
-            "question": "Will my uploaded image files corrupt after resizing the image files using the discord image resizer file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "ซึ่งเป็นรูปแบบภาพที่สนับสนุนโดยฟลิปเปอร์ภาพจาก safeimagekit.com ในขณะที่หมุนภาพ?",
+            "answer": "ฟลิปเปอร์ภาพจาก safeimagekit.com สนับสนุนทุกรูปแบบภาพชั้นนำและเป็นที่นิยมออกมีพวกนี้รวมถึง\n- รูปแบบ Png\n- รูปแบบ Jpeg\n- รูปแบบ JPG\n- รูปแบบ Raw ฯลฯ"
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "ทำ safeimagekit.com สนับสนุนไฟล์ PDF และ. ไฟล์รูปแบบคำ?",
+            "answer": "ปัจจุบัน safeimagekit.com ไม่สนับสนุนรูปแบบใด ๆ บันทึกรูปแบบประเภทภาพฟีเจอร์ฟลิปเปอร์ภาพทำงานเฉพาะสำหรับไฟล์ภาพและการปรับปรุงเว็บไซต์จะนำการสนับสนุนทุกรูปแบบรวมถึง PDF และ. รูปแบบคำ."
+        },
+        {
+            "question": "เราสามารถใช้การหมุนมุมสะท้อนเพื่อหมุนภาพของเราโดยใช้ฟลิปเปอร์ภาพจาก safeimagekit.com ได้หรือไม่?",
+            "answer": "มุมสะท้อนเป็นประเภทของมุมที่มีการวัดระดับมากกว่า 180° แต่น้อยกว่า 360°ตัวอย่างทั่วไปของมุมสะท้อนคือ 200°, 220°, 250°, 300°, 350° ฯลฯ ใช่ ฟีเจอร์ฟลิปเปอร์ภาพจาก safeimagekit.com สนับสนุนการหมุนของภาพที่มีมุมสะท้อนเพียงใส่มุมสะท้อนใน “ป้อนพื้นที่มุมการหมุน” และกดปุ่มตัวเลือกการหมุนเพื่อพลิกภาพกดปุ่มบันทึกหลังจากนั้นเพื่อบันทึกการเปลี่ยนแปลงที่ทำกับภาพสุดท้ายกดปุ่มดาวน์โหลดเพื่อดาวน์โหลดภาพ"
+        },
+        {
+            "question": "ไฟล์ของฉันจะถูกบันทึกหลังจากที่ฉันทำงานบนเครื่องมือฟลิปเปอร์ภาพเสร็จแล้วหรือไม่ ",
+            "answer": "ไม่เราไม่ได้ส่งไฟล์ใด ๆ ของคุณไปยังเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์ตัวเองดังนั้นไฟล์ทั้งหมดของคุณมีความปลอดภัยอย่างสมบูรณ์ "
+        },
+        {
+            "question": "ฉันจำเป็นต้องลงทะเบียนเพิ่มเติมหรือจ่ายเงินเพิ่มเพื่อใช้เครื่องมือฟลิปเปอร์ภาพหรือไม่ ",
+            "answer": "ไม่แน่นอนเครื่องมือของเราออนไลน์อย่างสมบูรณ์และไม่จำเป็นต้องให้คุณแบ่งปันข้อมูลส่วนบุคคลใด ๆ ของคุณกับเรา เช่น ID อีเมล รหัสผ่าน ฯลฯ เครื่องมือของเราไม่มีค่าใช้จ่าย"
+        },
+        {
+            "question": "ฉันจะติดต่อสื่อสารได้อย่างไรหากฉันประสบปัญหาใด ๆ หรือฉันต้องการให้คำแนะนำใด ๆ",
+            "answer": "เรายินดีที่จะใช้ในปัญหาใด ๆ หรือข้อเสนอแนะที่นำเสนอโดยผู้ใช้ทั้งหมด, โปรดติดต่อเราผ่านการจัดการสื่อสังคมของเราสำหรับข้อมูลเพิ่มเติม.SafeImageKit.com สามารถใช้ได้ในทุกเว็บไซต์สื่อสังคมชั้นนำเช่น Facebook, Instagram, YouTube, และ LinkedIn ฯลฯ"
         }
     ],
     "jscdns": [
-        "<script src=\"/assets/js/googledrive.js\"></script>"
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.min.js\" integrity=\"sha512-WiGQZv8WpmQVRUFXZywo7pHIO0G/o3RyiAJZj8YXNN4AV7ReR1RYWVmZJ6y3H06blPcjJmG/sBpOVZjTSFFlzQ==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/flip.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/rotate.js\"></script>"
     ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />"
-    ],
-    "filelang": "en",
-    "display_formats": [
-        "jpg",
-        "jpeg",
-        "png",
-        "webp"
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/rotate.css\" />"
     ]
 }

@@ -1,16 +1,16 @@
 {
     "Language": "Türkçe",
     "htmlLangAtt": "tr",
-    "H1": "Görüntü Kırpıcı",
+    "H1": "Billede Kırpıcı",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "uyarı",
-    "H2": "Resimleri kırpmak bizimle kolaylaştı, dosyanızı aşağıya yükleyerek başlayın",
-    "TITLE": "Kırpma Resim- Resim kırpma online- safeimagekit",
-    "META": "Yüksek kaliteli bir görüntü kırpıcı mı arıyorsunuz? O zaman doğru yerdesiniz. Online görüntü kırpma aracımız son derece güvenli, kullanıcı dostu ve süper hızlıdır.",
+    "variant": "advarsel",
+    "H2": "Beskæring billeder er blevet gjort nemt med os, uploade din fil nedenfor de med başlamak",
+    "TITLE": "Beskær billede- Billede afgrøde online- safeimagekit",
+    "META": "Leder du efter tr høj kvalitet billede kırpıcı? Så er du på det rigtige sted. Vores çevrimiçi billedafgrødeværktøj er ekstremt sikkert, brugervenligt og süper hurtigt.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "Yüksek Kaliteli",
-            "content": "Görüntü kırpıcı aracımız, kalitesini koruyarak görüntüleri kırpıyor."
+            "header": "Hoj kvalitet",
+            "content": "Vores billede kırpıcı værktøj afgrøder billederne bevare sin kvalitet de ved."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Veri Güvenliği",
-            "content": "Verilerinizin hiçbiri sunucularımıza gönderilmez tüm işlemler tarayıcının kendisinde yapılır. Bu, kullanıcılarımız için%100 güvenli olmamızı sağlar"
+            "header": "Datasikkerhed",
+            "content": "Ingen af dine veri sendes på vores servere alle operationer er udført i browseren selve. Være at os için Dette gør det muligt 100% vores brugere için sikre"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "Esneklik",
-            "content": " Görüntü kırpma aracımız neredeyse her türlü tarayıcı ve cihazda çalışır."
+            "header": "Fleksibilitet",
+            "content": " Vores billede kırpıcı værktøj virker på næsten alle browsere og enheder için eski."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Kullanıcı dostu",
-            "content": "Bizim görüntü kırpma aracı anlamak çok kolaydır bizim aracımız üzerinde çalışmak için hiçbir profesyonel gerekli değildir."
+            "header": "Brugervenlig",
+            "content": "Vores billede kırpıcı værktøj er meget arbejde på vores værktøj de forstå ingen professionel er nødvendig de izin."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Ücretsiz",
-            "content": "Görüntü kırpma aracımız tamamen ücretsizdir, tek bir kuruş ödemeden tüm araçlarımızı kullanabilirsiniz"
+            "header": "omkostninger için Gratis",
+            "content": "Vores omkostninger için kırpıcı værktøj er helt fri billede, kan du bruge alle vores værktøjer uden betale tr enkelt krone at værktøjer uden"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "Ek indirme yok",
-            "content": "Görüntü kırpıcı aracımız tamamen tarayıcı tabanlıdır ve cihazınıza indirilmesi için ek bir yazılım gerekmez."
+            "header": "Ingen yderligere indir",
+            "content": "Vores billede kırpıcı værktøj er helt tarayıcı baseret og ingen yderligere yazılım er påkrævet blive downloadet på din enhed."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Nasıl imajımızı kırpmak için.",
+        "heading": "Sådan beskære vores billede.",
         "steps": [
-            "Kırpılacak resmi yükleyin veya açılır oka tıklayın ve Dropbox/Google Drive'ı seçin",
-            "Görüntüyü buna göre kırpın.",
-            "Aşağı kaydırarak görüntü dosyasında yapılan değişikliklere göz at.",
-            "Yapılan değişiklikleri kaydedin.",
-            "İndirme seçeneğine basarak görüntü dosyasını indirin.",
-            "Yaşasın!! görüntü kullanıma hazırdır."
+            "Yükle billedet, der skal beskæres, eller Klik på rullemenuen, og vælg Dropbox/Google Drev",
+            "Beskær billedet i overensstemmelse hermed.",
+            "Kig på de ændringer, der er foretaget i rulle ned de ved billedfilen.",
+            "Gem de foretagne ændringer.",
+            "trykke på download-indstillingen de billedfilen ved indirin.",
+            "Hurra! brug til er klar billedet."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Sürücüme erişime izin vermek güvenli midir?",
+            "answer": "Evet, sürücünüze erişim sağlamak ve bize izin vermek kesinlikle güvenlidir. Sitenizde herhangi bir değişiklik yapmayacağız ve dfiles sizinle güvende olacaktır."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Sürücü/dropbox dosyalarımdan nasıl yükleyebilirim?",
+            "answer": "Açılır oku tıklayın ve Dropbox/Google Drive'ı seçin. Sürücünüzü bağlamak istediğiniz yerden Google hesabını seçin. Artık yüklemek istediğiniz dosyaları seçebilirsiniz."
         },
         {
-            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
-            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+            "question": "Bir görüntü kırpma sırasında safeimagekit.com gelen kırpma görüntüsü tarafından sunulan özellikler nelerdir?",
+            "answer": "Safeimagekit.com gelen kırpma görüntü özelliği, bir görüntüyü kırpırken çok yönlü özellikler sunar, kullanıcı herhangi bir görüntü formatını yükleyebilir ve kırpma özelliğimizin yardımıyla kırpılır. Bu kırpma özelliği, kullanıcının yüklenen görüntüden istenmeyen kısmı kesmesine olanak tanır. Kullanıcı, 8 yönden çalışan kırpıcı kutusunu kaydırarak görüntü üzerindeki kesme bölümlerini ayarlayabilirsiniz."
         },
         {
-            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+            "question": "Bir görüntüyü safeimagekit.com'dan kırpma özelliğini kullanarak nasıl kırpırız?",
+            "answer": "Kullanıcının içerdikleri bir görüntüyü kırpabildiği 4 temel adım vardır-\n- Görüntüyü sağlanan alana yükleyin ve kırpmaya başlamak için upload tuşuna basın.\n- Kırpma kutusunu seçin ve görüntüdeki pimleri kullanarak hareket ettirin, bu görüntü üzerindeki kutuyu ayarlar. Bu, görüntünün yalnızca kutunun yerleştirildiği kaydedildiği veya kırpıldığı anlamına gelir.\n- Ardından, aşağıdaki dosya düğmesine basın, bu görüntüde yapılan değişiklikleri kaydeder.\n- Son olarak, güncellenen görüntüyü indirmek için indirme düğmesine basın."
         },
         {
-            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
-            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+            "question": "safeimageit.com tarafından sunulan görüntü kırpma için desteklenen formatlar hangileridir?",
+            "answer": "Şu anda, safeimagekit.com oradaki tüm formatlar için görüntü kırpma özellikleri sunuyor, ancak kullanıcı bu özelliğin avantajından yararlanarak görüntülerin aşağıdaki biçimlerinden yararlanabilir:\n- Png \n- Jpeg \n- Jpg\n- Meme.\n- Xmap, vs."
         },
         {
-            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
-            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+            "question": "safeimagekit.com gelen görüntü kırpma özelliğini kullanarak 4k görüntüleri ve 8k görüntüleri kırpabilir miyiz?",
+            "answer": "Evet, safeimagekit.com görüntü kırpma özelliği 4k ve 8k görüntü dönüştürme sunuyor. 4k görüntü kırpma özelliği mükemmel çalışıyor, ancak, 8k görüntü kırpma, 1080p ve 4k görüntülere kıyasla biraz geciktirir, çünkü safeimagekit.com tarafından 8k görüntü işleme biraz zaman alır."
         },
         {
-            "question": "What is the time taken by the converter to crop an image file?",
-            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+            "question": "Dönüştürücünün bir görüntü dosyasını kırpmak için aldığı süre nedir?",
+            "answer": "Zaman burada mevcut olan heyecan verici faktördür, burada dosyayı yükleyip sihrin gerçekleştiğini görüyoruz, kırpma dönüşümü, çeşitli görüntü dosyalarını kırpabileceğimiz bir anda gerçekleşiyor. Tek zaman alıcı faktör ve gereken tek şey normal bir internet bağlantısıdır."
         },
         {
-            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
-            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+            "question": "Ses veya video dosyalarımı dönüştürmek için safeimagekit.com'daki görüntü kırpıcını kullanabilir miyim?",
+            "answer": "safeimagekit.com gelen görüntü kırpıcı sadece görüntü kırpma özellikleri sunar. Şu anda, görüntü kırpıcı video veya ses dosyası dönüştürme sunmuyor ancak web sitesine gelecekteki yükseltmeleri size tüm heyecan verici özellikleri getirecektir."
         },
         {
-            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
-            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+            "question": "Safeimagekit.com adresinden kırpma seçeneğini kullanarak GIF'leri düzenleyebilir veya oluşturabilir miyiz? ",
+            "answer": "GIF'ler, metin ekleme özelliğine sahip resimleri hareket ettirir; GIF'ler, diğer düzenleme seçenekleri gerektiren çok kısa klipler veya görüntü bitleridir. Yüklenen GIF'ler safeimagekit.com kullanılarak kırpılabilir. Ancak, gelecekte bazı küçük güncellemeler, GIF düzenleme eğlencesini safeimagekit.com web sitesine getirecektir."
         },
         {
-            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
-            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+            "question": "Biz safeimagekit.com gelen görüntü kırpıcı kullanarak 1080p ve 720p resimleri kırpabilir?",
+            "answer": "Evet, safeimagekit.com'dan görüntü kırpıcı, 1080p ve 720p çözünürlüklü düzenleme özellikleri dışarıdan sunuyor, resmin kırpılmasını değiştirmemize izin veriyor ve böylece boyutunu azaltıyor."
         },
         {
-            "question": "Which image format is preferable among webp and jpg formats?",
-            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+            "question": "Webp ve jpg formatları arasında hangi görüntü formatı tercih edilir?",
+            "answer": "İyi optimize edilmiş bir jpg webp'e benzer veya daha iyidir. Ancak webp yeni bir görüntü formatıdır ve tüm tarayıcılar tarafından desteklenmez. Her ikisi arasındaki tipik fark, boyutun%15-%25 farkı olan kalitededir."
         },
         {
-            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
-            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+            "question": "Görüntü kalitem, onları safeimagekit.com'dan görüntü kırpıcısından indirdikten sonra düşecek mi?",
+            "answer": "Hayır, görüntünün kalitesi, onları safeimagekit.com'dan görüntü kırpıcısından indirdikten sonra düşmez. Görüntüler kalitelerini kaybetmez ve görüntüyü kırptıktan sonra aynı kalitede kaydırılır."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
-            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Eğer safeimagekit.com'dan görüntü kırpıcıyı kullanırken tarayıcımızı yenilersek ilerlememize ne olacak?",
+            "answer": "Safeimagekit.com'daki görüntü kırpıcı orada herhangi bir sunucuya bağlı değildir, bu nedenle kullanıcının üzerinde çalıştığı veriler hiçbir yerde saklanmayacak ve sonuç olarak, kullanıcı üzerinde çalıştığı tarayıcıyı yenilediğinde anında silinecektir. Üzerinde çalışılan görüntü dosyaları, kullanıcı web sitesinin uzantı sayfasının açık olduğu sekmeden çıktıktan veya kapattıktan sonra da kaldırılacaktır."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "LINUX işletim sistemimde safeimagekit.com'daki görüntü kırpıcı özelliğini kullanabilir miyim?",
+            "answer": "Evet, safeimagekit.com'daki görüntü kırpıcı özelliği, LINUX bile herhangi bir işletim sisteminde kullanılabilir. Kullanıcının MAC OS, Windows ve Ubuntu gibi herhangi bir işletim sisteminde görüntü kırpıcıyı kullanmasını sağlayan en son kod ve özelliklerle inşa edilmiştir, istikrarlı bir internet bağlantısı olan bir cihaz olması şartıyla. Sihirli numara, daha yavaş bir internet bağlantısında bile çalışmasıdır."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "Bir iOS cihazında safeimagekit.com görüntü kırpıcı özelliğini kullanabilir miyim?",
+            "answer": "Evet, safeimagekit.com'un görüntü kırpıcı özelliği iOS cihazlarda ve hatta android cihazlarda kullanılabilir. Herhangi bir işletim sisteminde bu uzantı dosyasını kullanmak için kullanıcıya sağlayan en son özelliklerle inşa edilmiştir, tüm bir internet bağlantısı ve iyi bir web tarayıcısı ihtiyacı vardır."
         },
         {
-            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+            "question": "Görüntü dosyasında yapılan değişiklikleri safeimagekit.com adresindeki görüntü kırpıcısını kullanarak nasıl kaydedebilirim?",
+            "answer": "Önce değişiklik gerektiren bir görüntü dosyasını yükleyin, ardından görüntü dosyasını teker teker kırpmak için görüntü kırpıcı seçeneğini kullanın. Daha sonra web sitesinin alt kısmında verilen kaydetme seçeneğini kullanın, bu görüntü dosyalarında yapılan değişiklikleri kaydeder ve daha sonra değiştirilen görüntü dosyasını indirir."
         },
         {
-            "question": "Will my file be saved after I complete working on the image cropper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Görüntü kırpma aracı üzerinde çalışmayı tamamladıktan sonra dosyalarım kaydedilecek mi? ",
+            "answer": "Hayır, dosyalarınızdan herhangi birini sunucularımıza göndermiyoruz, tüm işlemler tarayıcının kendisinde yapılır, bu nedenle tüm dosyalarınız tamamen güvenlidir. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Görüntü kırpma aracını kullanmak için ek kayıt yaptırmam veya ekstra ödeme yapmam gerekiyor mu? ",
+            "answer": "Kesinlikle değil, aracımız tamamen çevrimiçi ve e-posta kimliği, şifreler vb gibi kişisel bilgilerinizi bizimle paylaşmanızı gerektirmez. Aracımız tamamen ücretsizdir."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Herhangi bir sorunla karşılaşırsam veya herhangi bir değişiklik önermek istersem nasıl iletişim kurabilirim?",
+            "answer": "Tüm kullanıcılar tarafından sunulan herhangi bir sorun veya öneriyi memnuniyetle alıyoruz, lütfen daha fazla bilgi için sosyal medya kollarımız aracılığıyla bizimle iletişime geçin. Safeimagekit.com Facebook, Instagram, YouTube ve LinkedIn gibi tüm önde gelen sosyal medya web sitelerinde kullanılabilir."
         }
     ],
     "csscdns": [

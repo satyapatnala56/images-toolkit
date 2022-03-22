@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Is het veilig om toegang tot mijn schijf toe te staan?",
+            "answer": "Ja, het is absoluut veilig om ons toegang te geven tot uw schijf. We zullen geen wijzigingen aanbrengen in uw site en uw bestanden zijn veilig bij u."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Hoe kan ik bestanden uploaden vanaf mijn station/dropbox?",
+            "answer": "Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive. Selecteer het Google-account van waar u uw schijf wilt koppelen. Nu kunt u de bestanden selecteren die u wilt uploaden."
         },
         {
-            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
-            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
+            "question": "Wat zijn de functies die de beeldvergelijkingsfunctie van safeimagekit.com biedt bij het vergelijken van twee afbeeldingen?",
+            "answer": "De beeldvergelijkingsfunctie van safeimagekit.com biedt veelzijdige functies terwijl twee functies worden vergeleken. De belangrijkste kenmerken zijn onder meer \n- Vergelijking van twee afbeeldingen op basis van de schuifregelaar\n- Vergelijking van twee afbeeldingen op basis van de pixels.\n- Vergelijking van twee afbeeldingen op basis van de informatie.\n- Vergelijking van twee afbeeldingen op basis van het vervagingseffect.\nDeze genoemde vergelijkingsmethoden zijn fundamenteel van aard waarin ze worden vergeleken en het resultaat van hun vergelijking direct op het scherm wordt getoond."
         },
         {
-            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
+            "question": "Hoe kunnen we twee afbeeldingen vergelijken op basis van de schuifregelaarvergelijking van de beeldvergelijkingsfunctie van safeimagekit.com?",
+            "answer": "De eerste stap omvat het uploaden van afbeeldingen die een vergelijking nodig hebben. De volgende stap is klikken op de pin met de naam „slider”, dit activeert de slidergebaseerde vergelijking. Het resultaat van hun vergelijking wordt direct op het scherm weergegeven."
         },
         {
-            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
+            "question": "Hoe kunnen we twee afbeeldingen vergelijken op basis van de pixelvergelijkingsmethode van de beeldvergelijkingsfunctie van safeimagekit.com?",
+            "answer": "De eerste stap omvat het uploaden van afbeeldingen die een vergelijking nodig hebben. De volgende stap is klikken op de pin met de naam „pixel”, dit activeert de pixelgebaseerde vergelijking. De pixels van de eerste afbeelding worden getoond op de tweede afbeelding, Het resultaat van hun vergelijking wordt direct op het scherm weergegeven, waarin we de pixels van de eerste afbeelding vergelijken met de tweede afbeelding"
         },
         {
-            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
+            "question": "Hoe kunnen we twee afbeeldingen vergelijken op basis van de fade-effectmethode van de beeldvergelijkingsfunctie van safeimagekit.com?",
+            "answer": "De eerste stap omvat het uploaden van afbeeldingen die een vergelijking nodig hebben. De volgende stap is klikken op de pin met de naam „fade”, dit activeert de vergelijking op basis van vervaging effect. De vervaagde structuur van de eerste afbeelding wordt getoond op de tweede afbeelding, Het resultaat van hun vergelijking wordt direct op het scherm weergegeven, waarin we de aard van de eerste afbeelding vergelijken met de tweede afbeelding."
         },
         {
-            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
+            "question": "Hoe kunnen we twee afbeeldingen vergelijken op basis van de informatiestatistieken van de geüploade afbeeldingen met behulp van de beeldvergelijkingsfunctie van safeimagekit.com?",
+            "answer": "De eerste stap omvat het uploaden van de afbeeldingen die een vergelijking nodig hebben. De volgende stap is klikken op de pin met de naam „info”, dit activeert de op info gebaseerde vergelijking. De informatie van de eerste afbeelding wordt naast de tweede afbeelding getoond, Het resultaat van hun vergelijking wordt direct op het scherm weergegeven, waarin we de aard van de eerste afbeelding vergelijken met de tweede afbeelding door de statistieken van de afbeelding te vergelijken."
         },
         {
-            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
-            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
+            "question": "Hoe werkt de op info gebaseerde vergelijking van de beeldvergelijkingsfunctie van safeimagekit.com?",
+            "answer": "De op info gebaseerde vergelijking van de functie voor het vergelijken van afbeeldingen van safeimagekit.com werkt door de eigenschappen van de geüploade afbeeldingen te vergelijken. Deze eigenschappen omvatten de naam van de afbeelding, de grootte van de afbeelding, het type afbeelding, de hoogte van de afbeelding, de breedte van de afbeelding. De gebruiker kan de afbeeldingen vergelijken door deze eigenschappen te volgen."
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
-            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Kan ik de functie voor het vergelijken van afbeeldingen van safeimagekit.com gebruiken op mijn Windows 8 ultimate?",
+            "answer": "De functie Afbeelding vergelijken is een veelzijdige functie die wordt aangeboden door safeimagekit.com die wordt ondersteund door alle besturingssystemen die er zijn, zoals Windows 8, Linux en zelfs Ubuntu. Het enige dat nodig is, is een apparaat om het extensiebestand te openen via de website www.safeimagekit.com en een normale internetverbinding om op te staan. Het leuke feit is dat het zelfs kan draaien op een langzamere internetverbinding."
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "Kan ik de functie voor het vergelijken van afbeeldingen van safeimagekit.com op mijn Android-apparaat gebruiken? ",
+            "answer": "Ja, vergelijk de afbeeldingsfunctie van safeimagekit.com is een platformonafhankelijke functie waarbij de gebruiker deze converter-tool kan gebruiken vanaf besturingssystemen zoals Android, iOS, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar is alleen afhankelijk van de internetverbinding."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
-            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "Moeten we aanvullende software gebruiken om de gewijzigde afbeeldingen na conversie te downloaden met behulp van de functie voor het vergelijken van afbeeldingen van safeimagekit.com?",
+            "answer": "Nee, de gebruikers na het vergelijken van hun afbeeldingen door hun respectievelijke afbeeldingen in te voeren, biedt deze functie immers geen optie om te downloaden. Het resultaat van hun vergelijking wordt direct op het scherm weergegeven, zodat de afbeeldingen rechtstreeks worden vergeleken. Het is een browsergebaseerde convertertool die geen ondersteuning biedt voor of er geen extra software nodig is om de gewijzigde afbeelding te downloaden."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
-            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Wat gebeurt er met onze voortgang als we onze browser vernieuwen terwijl we de tool voor het vergelijken van afbeeldingen van safeimagekit.com gebruiken?",
+            "answer": "De tool voor het vergelijken van afbeeldingen van safeimagekit.com is niet verbonden met een server die er is, dus de gegevens waaraan de gebruiker werkt, worden nergens opgeslagen en als gevolg daarvan worden deze onmiddellijk gewist wanneer de gebruiker de browser vernieuwt waaraan hij werkt. De afbeeldingsbestanden die worden vergeleken, worden ook verwijderd nadat de gebruiker het tabblad waarop de extensiepagina van de website is geopend heeft of sluit."
         },
         {
-            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "Kunnen we de vergrendelde afbeeldingsbestanden vergelijken met behulp van de functie voor het vergelijken van afbeeldingen van safeimagekit.com?",
+            "answer": "Nee, we kunnen het afbeeldingsbestand niet uploaden dat is vergrendeld omdat de toegang tot dat specifieke afbeeldingsbestand wordt geblokkeerd. Dus, om de functie voor het vergelijken van afbeeldingen van safeimagekit.com te gebruiken, moeten we de afbeeldingsbestanden uploaden die niet zijn vergrendeld. Maar de gebruiker kan de wachtwoordzoekerextensie van safeimagekit.com controleren, die exclusief is gemaakt voor het ontgrendelen van zowel afbeeldingen als afbeeldingsbestanden voor het geval de gebruiker zijn wachtwoord voor zijn vergrendelde afbeeldingsbestand verliest."
         },
         {
-            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Zijn mijn geüploade afbeeldingsbestanden beschadigd na het vergelijken van de afbeeldingsbestanden met behulp van de functie voor het vergelijken van afbeeldingsbestanden van safeimagekit.com?",
+            "answer": "Nee, safeimagekit.com is gebouwd met de nieuwste programma's en beveiligingsfuncties waardoor de geüploade afbeeldingsbestanden niet kunnen beschadigen. De geüploade afbeeldingsbestanden zijn dus volledig veilig en beveiligd."
         },
         {
-            "question": "Will my file be saved after I complete working on the image comparison tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met de tool voor het vergelijken van afbeeldingen? ",
+            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Moet ik een extra aanmelding doen of extra betalen om de tool voor het vergelijken van afbeeldingen te gebruiken? ",
+            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Hoe communiceer ik als ik problemen heb of als ik suggesties wil geven?",
+            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
         }
     ],
     "jscdns": [

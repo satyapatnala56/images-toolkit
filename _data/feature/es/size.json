@@ -65,68 +65,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "¿Es seguro permitir el acceso a mi unidad?",
+            "answer": "Sí, es absolutamente seguro permitirnos y darnos acceso a su unidad. No realizaremos ningún cambio en su sitio y sus archivos estarán seguros con usted."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "¿Cómo puedo cargar archivos desde mi unidad/dropbox?",
+            "answer": "Haz clic en la flecha desplegable y selecciona Dropbox/Google Drive. Selecciona la cuenta de Google desde la que quieres vincular tu unidad. Ahora puede seleccionar los archivos que desea cargar."
         },
         {
-            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
-            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
+            "question": "¿Cuáles son las características que ofrece la función de cambio de tamaño de imagen de safeimagekit.com mientras se ajusta el tamaño de las imágenes?",
+            "answer": "Cambiar el tamaño de la imagen ofrece funciones versátiles de safeimagekit.com mientras se cambia el tamaño de una imagen cargada para su edición. Las características principales incluyen-\n- Ajustar el tamaño de una imagen con respecto al ancho.\n- Ajustar el tamaño de una imagen con respecto a la altura.\n- Cambiar el tamaño completo de la imagen y descargarla."
         },
         {
-            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "¿Cómo puedo ajustar el ancho de la imagen con la función de cambio de tamaño de imagen de safeimagekit.com?",
+            "answer": "El primer paso de todo, subir la imagen que requiere una edición. El siguiente paso incluye ajustar los parámetros importantes de la imagen, esto incluye ajustar el ancho y la altura. Se puede acceder al ancho de la imagen ingresando un valor en el espacio llamado «ingrese el ancho». El valor del ancho se puede aumentar ingresando los valores que son de naturaleza positiva (+). El valor del ancho se puede disminuir introduciendo los valores que son negativos (-) en su naturaleza."
         },
         {
-            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "¿Cómo puedo ajustar la altura de la imagen con la función de cambio de tamaño de imagen de safeimagekit.com?",
+            "answer": "El primer paso de todo, subir la imagen que requiere una edición. El siguiente paso incluye ajustar los parámetros importantes de la imagen, esto incluye ajustar el ancho y la altura. Se puede acceder a la altura de la imagen ingresando un valor en el espacio llamado «ingrese la altura». El valor de la altura se puede aumentar ingresando los valores que son positivos (+) en la naturaleza. El valor del ancho se puede disminuir introduciendo los valores que son negativos (-) en su naturaleza."
         },
         {
-            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
-            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
+            "question": "¿Cómo puedo cambiar el tamaño de una imagen con la función de cambio de tamaño de imagen de safeimagekit.com?",
+            "answer": "Hay 6 pasos a los que el usuario puede hacer referencia al cambiar el tamaño de un archivo de imagen,\nEstos incluyen-\n- Cargue el archivo de imagen que requiere un cambio.\n- Ajuste la altura de la imagen introduciendo un valor.\n- Ajuste el ancho de la imagen introduciendo un valor.\n- Pulsa el botón de cambio de tamaño para activar el cambio de tamaño.\n- Pulsa el botón guardar para guardar los cambios realizados.\n- Use la opción de descarga para descargar la imagen modificada."
         },
         {
-            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
-            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
+            "question": "¿La opción de cambio de tamaño de la función de cambio de tamaño de imagen de safeimagekit.com proporciona algún tipo de vista previa después de cambiar el tamaño del archivo de imagen cargado?",
+            "answer": "No, actualmente la función de cambio de tamaño del divisor de fotos de safeimagekit.com no proporciona ningún tipo de vista previa de las secciones de la imagen cargada, porque a veces las secciones de la imagen cargada se exceden y se hace muy difícil para el navegador gestionar la vista previa de todas y cada una de las secciones de la imagen. Sin embargo, las actualizaciones del sitio web en el futuro agregarán todas las funciones interesantes."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
-            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "¿Puedo usar la función de cambio de tamaño de imagen de safeimagekit.com en mi Windows 8?",
+            "answer": "La función de cambio de tamaño de imagen es una función versátil ofrecida por safeimagekit.com que es compatible con todos los sistemas operativos, como Windows 8, Linux e incluso Ubuntu. Todo lo que se necesita es un dispositivo para abrir el archivo de extensión utilizando el sitio web www.safeimagekit.com y una conexión a Internet normal para mantenerse en pie. El hecho curioso es que incluso puede funcionar con una conexión a Internet más lenta."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "¿Puedo usar la función de cambio de tamaño de imagen de safeimagekit.com en mi dispositivo Android? ",
+            "answer": "Sí, la función de cambio de tamaño de imagen de safeimagekit.com es una función multiplataforma en la que el usuario puede usar esta herramienta de conversión desde sistemas operativos como Android, iOS, Windows y Mac OS. Es independiente de los sistemas operativos utilizados, pero solo depende de la conexión a Internet."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
-            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "¿Tenemos que utilizar algún software adicional para descargar las imágenes modificadas después de la conversión mediante la función de cambio de tamaño de imagen de safeimagekit.com?",
+            "answer": "No, los usuarios después de cambiar el tamaño de su imagen ingresando su altura y ancho respectivos, pueden presionar la opción de descarga que se proporciona a continuación y pueden descargar la imagen modificada. Es una herramienta de conversión basada en navegador que no admite o no se requiere software adicional para descargar la imagen modificada."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
-            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "¿Qué pasará con nuestro progreso si actualizamos nuestro navegador mientras utilizamos la herramienta de cambio de tamaño de imagen de safeimagekit.com?",
+            "answer": "La herramienta de cambio de tamaño de imagen de safeimagekit.com no está conectada a ningún servidor, por lo que los datos en los que está trabajando el usuario no se almacenarán en ningún lugar y, como resultado, se borrarán instantáneamente cuando el usuario actualice el navegador en el que está trabajando. El archivo de imagen que se está convirtiendo también se eliminará después de que el usuario salga o cierre la pestaña en la que se abre la página de extensión del sitio web."
         },
         {
-            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "¿Podemos cambiar el tamaño de los archivos de imagen que están bloqueados con la función de cambio de tamaño de imagen de safeimagekit.com?",
+            "answer": "No, no podemos cargar el archivo de imagen que está bloqueado porque el acceso a ese archivo de imagen en particular está bloqueado. Por lo tanto, para usar la función de cambio de tamaño de imagen de safeimagekit.com, debemos cargar los archivos de imagen que no están bloqueados. Pero el usuario puede verificar la extensión del buscador de contraseñas de safeimagekit.com, que está hecha exclusivamente para desbloquear archivos de imagen y de imagen en caso de que el usuario pierda su contraseña para su archivo de imagen bloqueado."
         },
         {
-            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "¿Se corromperán los archivos de imagen cargados después de cambiar el tamaño de los archivos de imagen con la función de cambio de tamaño de imagen de safeimagekit.com?",
+            "answer": "No, safeimagekit.com está creado con todos los programas y funciones de seguridad más recientes que no permiten que los archivos de imagen cargados se corrompan. Por lo tanto, los archivos de imagen cargados están completamente seguros y protegidos."
         },
         {
-            "question": "Will my file be saved after I complete working on the image resizer tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "¿Se guardará mi archivo cuando termine de trabajar en la herramienta de cambio de tamaño de imagen? ",
+            "answer": "No, no enviamos ninguno de sus archivos a nuestros servidores, todas las operaciones se realizan en el propio navegador, por lo que todos sus archivos están completamente seguros. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "¿Tengo que registrarme o pagar más para usar la herramienta de cambio de tamaño de imagen? ",
+            "answer": "Por supuesto que no, nuestra herramienta está completamente en línea y no requiere que compartas tu información personal con nosotros, como identificación de correo electrónico, contraseñas, etc. Nuestra herramienta es completamente gratuita."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "¿Cómo me comunico si tengo algún problema o si quiero hacer alguna sugerencia?",
+            "answer": "Con gusto atendemos cualquier problema o sugerencia ofrecida por todos los usuarios, póngase en contacto con nosotros a través de nuestras redes sociales para obtener más información. Safeimagekit.com está disponible en todos los principales sitios web de redes sociales, como Facebook, Instagram, YouTube y LinkedIn, etc."
         }
     ],
     "jscdns": [

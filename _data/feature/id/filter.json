@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Apakah aman untuk mengizinkan akses ke drive saya?",
+            "answer": "Ya, itu benar-benar aman untuk memungkinkan dan memberi kami akses ke drive Anda. Kami tidak akan membuat perubahan pada situs Anda dan dfiles Anda akan aman dengan Anda."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Bagaimana cara mengunggah file dari drive/dropbox saya?",
+            "answer": "Klik pada panah drop down dan pilih Dropbox/Google Drive. Pilih akun Google dari tempat Anda ingin menautkan drive Anda. Sekarang Anda dapat memilih file yang ingin Anda unggah."
         },
         {
-            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
-            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
+            "question": "Apa saja fitur yang ditawarkan oleh filter foto dari safeimagekit.com, sambil menambahkan filter ke gambar?",
+            "answer": "Fitur filter foto dari safeimagekit.com menyediakan filter terbaik di luar sana. Filter ini mengubah tampilan keseluruhan gambar yang diunggah. Filter yang tersedia adalah - Prewitt Horizontal- Merah, Hijau, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertikal, Thresholding, Cermin. Fitur terapkan yang ada di bagian bawah menyimpan perubahan yang dibuat dan memungkinkan pengguna mengunduh file gambar."
         },
         {
-            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
+            "question": "Apa proses menambahkan filter ke file gambar di bawah fitur filter foto dari safeimagekit.com?",
+            "answer": "Ada 4 langkah dasar untuk menambahkan filter ke file gambar di bawah fitur filer foto dari safeimagekit.com. Fitur-fitur ini termasuk-\n- Upload file gambar yang diperlukan di ruang yang disediakan.\n- Pilih filter yang sesuai dari berbagai pilihan yang diberikan.\n- Pilih filter dan klik berlaku untuk menerapkan filter itu ke gambar itu.\n- Tekan save untuk menyimpan perubahan yang dibuat dan men-download gambar dimodifikasi."
         },
         {
-            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
-            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
+            "question": "Format gambar mana yang didukung oleh fitur filter foto dari safeimagekit.com?",
+            "answer": "Saat ini, fitur filter foto dari safeimagekit.com mendukung semua format gambar di luar sana. Namun, pengguna dapat memperoleh keuntungan terbaik jika gambar dalam format berikut-\n- Png\n- Jpeg\n- Jpg\n- Mentah \n- Eps, dll.\n"
         },
         {
-            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Bagaimana cara menerapkan filter Laplacian menggunakan filter foto dari safeimagekit.com ke foto yang diunggah?",
+            "answer": "Pertama, upload gambar yang membutuhkan perubahan dalam ruang upload yang disediakan. Kemudian, pilih filter gambar Laplacian dari berbagai opsi yang disediakan di toolbox filter. Kemudian, tekan tombol apply untuk mendapatkan pratinjau foto setelah penambahan filter. Tekan “save” untuk menyimpan perubahan yang dibuat pada gambar yang diunggah. Akhirnya, tekan opsi download untuk mengunduh gambar baru dan lebih baik."
         },
         {
-            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
-            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
+            "question": "Apakah kita mendapatkan pratinjau, untuk memeriksa gambar setelah menambahkan filter saat menggunakan fitur filter foto dari safeimagekit.com?",
+            "answer": "Ya, fitur filter foto dari safeimagekit.com memang menyediakan opsi pratinjau untuk memeriksa prospek gambar yang sedang diedit. Untuk mengakses fitur pratinjau, pengguna perlu mengunggah gambar dan menambahkan filter ke gambar itu dari berbagai filter yang disediakan. Kemudian, tekan tombol apply untuk menerapkan filter pada gambar itu. Kemudian, kita mendapatkan pratinjau gambar yang telah dimodifikasi dengan filter baru."
         },
         {
-            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Bagaimana cara menerapkan filter Mirror menggunakan filter foto dari safeimagekit.com ke foto yang diunggah?",
+            "answer": "Filter Mirror adalah filter unik yang memberi pengguna salinan cermin gambar yang tepat. Pertama, upload gambar yang membutuhkan perubahan dalam ruang upload yang disediakan. Kemudian, pilih Mirror image filter dari berbagai opsi yang disediakan di toolbox filter. Kemudian, tekan tombol apply untuk mendapatkan pratinjau foto setelah penambahan filter. Tekan “save” untuk menyimpan perubahan yang dibuat pada gambar yang diunggah. Akhirnya, tekan opsi download untuk mengunduh gambar baru dan lebih baik."
         },
         {
-            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
-            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
+            "question": "Bisakah kita menambahkan atau menghapus teks sambil menambahkan filter ke file gambar menggunakan fitur filter add dari safeimagekit.com?",
+            "answer": "Tidak, kita tidak dapat menambahkan atau menghapus teks sambil menambahkan filter ke file gambar yang diunggah menggunakan fitur filter add dari safeimagekit.com, fitur pengeditan teks seperti penyisipan teks dan fitur penghapusan teks tidak disertakan saat ini. Fitur filter foto hanya mendukung konversi tetapi tidak mengedit. Namun, pembaruan ke situs web akan membawa semua fitur menarik bahkan fitur pengeditan teks ke situs web."
         },
         {
-            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
-            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
+            "question": "Berapa waktu yang dibutuhkan oleh fitur filter foto dari safeimagekit.com untuk menambahkan filter ke file gambar?",
+            "answer": "Waktu adalah faktor menarik yang ada di sini; waktu yang diambil oleh fitur filter foto dari safeimagekit.com sepenuhnya tergantung pada file gambar yang diunggah. Jika ukuran gambar yang diunggah lebih maka waktu yang dibutuhkan untuk memproses konversi file gambar sedikit lebih dari waktu yang dibutuhkan untuk mengonversi file gambar normal dan sebaliknya. Koneksi internet juga berperan dalam kecepatan konversi (Bahkan bekerja pada koneksi yang lebih lambat)."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
-            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Apa yang akan terjadi pada kemajuan kita jika kita menyegarkan browser kita saat kita menggunakan fitur filter foto dari safeimagekit.com?",
+            "answer": "Fitur filter foto dari safeimagekit.com tidak terhubung ke server mana pun di luar sana, sehingga data yang pengguna kerjakan tidak akan disimpan di mana saja dan sebagai hasilnya, itu akan dihapus langsung ketika pengguna menyegarkan browser yang sedang dia kerjakan. File gambar yang dikerjakan juga akan dihapus setelah pengguna keluar atau menutup tab tempat halaman ekstensi situs web terbuka."
         },
         {
-            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
-            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Dapatkah saya menggunakan fitur filter foto dari safeimagekit.com di OS Ubuntu saya?",
+            "answer": "Filter foto adalah fitur serbaguna yang ditawarkan oleh safeimagekit.com yang didukung oleh semua sistem operasi di luar sana seperti Windows 8, Linux, dan bahkan Ubuntu. Yang dibutuhkan adalah perangkat untuk membuka file ekstensi menggunakan situs web www.safeimagekit.com dan koneksi internet normal untuk berdiri di atas. Fakta yang menyenangkan adalah bahwa hal itu bahkan dapat berjalan pada koneksi internet yang lebih lambat."
         },
         {
-            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Bagaimana cara menerapkan filter sepia menggunakan filter foto dari safeimagekit.com ke foto yang diunggah?",
+            "answer": "Pertama, upload gambar yang membutuhkan perubahan dalam ruang upload yang disediakan. Kemudian, pilih filter gambar sepia dari berbagai opsi yang disediakan di toolbox filter. Kemudian, tekan tombol apply untuk mendapatkan pratinjau foto setelah penambahan filter. Tekan “save” untuk menyimpan perubahan yang dibuat pada gambar yang diunggah. Akhirnya, tekan opsi download untuk mengunduh gambar baru dan lebih baik."
         },
         {
-            "question": "Will my file be saved after I complete working on the photo filter tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Apakah file saya akan disimpan setelah saya selesai mengerjakan alat filter foto? ",
+            "answer": "Tidak, kami tidak mengirim file Anda ke server kami semua operasi dilakukan pada browser itu sendiri oleh karena itu semua file Anda benar-benar aman. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Apakah saya harus melakukan pendaftaran tambahan atau membayar ekstra untuk menggunakan alat filter foto? ",
+            "answer": "Benar-benar tidak, alat kami benar-benar online dan tidak mengharuskan Anda untuk berbagi informasi pribadi Anda dengan kami, seperti id email, password dll Alat kami benar-benar bebas biaya."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Bagaimana cara berkomunikasi jika saya menghadapi masalah atau jika saya ingin memberikan saran?",
+            "answer": "Kami dengan senang hati mengambil dalam setiap masalah atau saran yang ditawarkan oleh semua pengguna, silakan hubungi kami melalui menangani media sosial kami untuk informasi lebih lanjut. SafeImageKit.com tersedia di semua situs media sosial terkemuka seperti Facebook, Instagram, YouTube, dan LinkedIn, dll."
         }
     ],
     "jscdns": [

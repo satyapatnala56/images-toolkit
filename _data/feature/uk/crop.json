@@ -1,16 +1,16 @@
 {
     "Language": "Українська",
     "htmlLangAtt": "uk",
-    "H1": "Зображення Кропер",
+    "H1": "Знімач Cropper",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "попередження",
-    "H2": "Обрізка фотографій була зроблена легко з нами, почніть з завантаження файлу нижче",
-    "TITLE": "Обрізати зображення- Обрізати зображення онлайн- safeimagekit",
-    "META": "Шукаєте якісний кропер зображення? Ну, тоді ви в потрібному місці. Наш онлайн-інструмент обрізання зображень надзвичайно безпечний, зручний та надзвичайно швидкий.",
+    "variant": "advarsel",
+    "H2": "Замовлення зображення ER Blevet gjort НЕМТ з ОС, почати з і завантажити дін філ nedenfor",
+    "TITLE": "Скачати зображення зображення онлайн- безпечний Imagekit",
+    "META": "Leder du efter і висока якість зображення Cropper? Так це du på det rigtige sted. Онлайн-Безкоштовний набір фотографій er екстремт книги, супер і супер удар.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "Висока якість",
-            "content": "Наш інструмент обрізки зображень обрізає зображення, зберігаючи його якість."
+            "header": "Høj квалітет",
+            "content": "Vores зображення Cropper портативний зображення зображення і без гріх якість."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Безпека даних",
-            "content": "Жодна ваша інформація не надсилається на наші сервери, всі операції виконуються на самому браузері. Це дозволяє нам бути на 100% безпечними для наших користувачів"
+            "header": "Dataskerhed",
+            "content": "Не є Dine дані відправляє на всі всі операційний сервер підчас роботи я selve browseren. Dette GOR DET MULIGT для ОС і Være 100% сік для воєводства"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "флексібільти",
-            "content": " Наш інструмент обрізки зображень працює майже на всіх видах браузерів і пристроїв."
+            "header": "Флексібілітет",
+            "content": " Vores фотографії Cropper virker на всіх колишніх браузерах і enheder."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Зручний для користувача",
-            "content": "Наш інструмент для обрізки зображень дуже легко зрозуміти, жоден професіонал не потрібен для роботи над нашим інструментом."
+            "header": "Бругервенліг",
+            "content": "Vores фотографії Cropper ver kelle нехай нехай і не професіонала nodvendig для і arbejde på vores værktøj."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Безкоштовно",
-            "content": "Наш інструмент для обрізки зображень абсолютно безкоштовний, ви можете використовувати всі наші інструменти, не заплативши ні копійки"
+            "header": "Безкоштовно для омкостнінгер",
+            "content": "Vores зображення Cropper voorktøj er helt fri для омкостнінгера, Кан дю bruge all vores vores værktøjer уден і бетале і enkelt крона"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "Немає додаткового завантаження",
-            "content": "Наш інструмент для обрізки зображень повністю базується на браузері, і на вашому пристрої не потрібно завантажувати додаткове програмне забезпечення."
+            "header": "Без завантаження",
+            "content": "Vores фотографії Cropper ремонт ER helt браузер Baseret і не є програмне забезпечення і програмне забезпечення для розробки для blive downloadet на din enhed."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Як обрізати наш образ.",
+        "heading": "Sådan скачати vores зображення.",
         "steps": [
-            "Завантажте зображення, яке потрібно обрізати або Натисніть на стрілку, що випадає та виберіть Dropbox/Google Drive",
-            "Обрізати зображення відповідно.",
-            "Погляньте на зміни, внесені в файл зображення, прокручуючи вниз.",
-            "Збережіть внесені зміни.",
-            "Завантажте файл зображення, натиснувши опцію завантаження.",
-            "Ура!! зображення готове до використання."
+            "Завантажити зображення, дер skal постачальник, або Klik на правила, і Dropbox/Google Drev",
+            "Скачати зображення i Ovensstemmelse hermed.",
+            "Kig на de ændringer, дер er foretaget i фотографії ved і rulle ned.",
+            "Дорогоцінний камінь передвістя.",
+            "Завантажити фотографії фотографії і trykke на завантаження інстиллінг.",
+            "Ура!! зображення є клар для використання."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Чи безпечно дозволити доступ до мого диска?",
+            "answer": "Так, це абсолютно безпечно, щоб дозволити і надати нам доступ до вашого диска. Ми не будемо вносити будь-які зміни на ваш сайт, і ваші dfiles будуть в безпеці з вами."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Як я можу завантажити файли з мого диска/dropbox?",
+            "answer": "Натисніть на стрілку, що випадає і виберіть Dropbox/Google Drive. Виберіть обліковий запис Google, звідки ви хочете зв'язати свій накопичувач. Тепер ви можете вибрати файли, які ви хочете завантажити."
         },
         {
-            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
-            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
+            "question": "Які функції пропонуються кадрування зображення з safeimagekit.com під час обрізання зображення?",
+            "answer": "Функція кадрування зображення від safeimagekit.com пропонує універсальні функції під час обрізання зображення, користувач може завантажити будь-який формат зображення, і це буде обрізано за допомогою нашої функції обрізки. Ця функція кадрування дозволяє користувачеві відрізати небажану частину від завантаженого зображення. Користувач може регулювати ріжучі секції на зображенні, змістивши коробку обрізки, яка працює з 8 напрямків."
         },
         {
-            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
+            "question": "Як ми обрізати зображення за допомогою функції обрізки з safeimagekit.com?",
+            "answer": "Є 4 основні кроки, за допомогою яких користувач може обрізати зображення, яке вони включають-\n- Завантажте зображення у відведеному просторі та натисніть завантаження, щоб розпочати обрізку.\n- Виберіть поле кадрування і перемістіть його за допомогою штифтів на зображенні, це налаштовує поле на зображенні. Це означає, що зображення зберігається або обрізається лише, на якому розміщено поле.\n- Далі натисніть кнопку файлу нижче, це зберігає зміни, внесені до зображення.\n- Нарешті, натисніть кнопку завантаження, щоб завантажити оновлене зображення."
         },
         {
-            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
-            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
+            "question": "Які підтримуються формати для обрізки зображень, пропонованих safeimageit.com?",
+            "answer": "В даний час safeimagekit.com пропонує функції обрізки зображень для всіх форматів там, але користувач може скористатися цією функцією з наступних форматів зображень:\n- Png \n- JPEG \n- Jpg\n- Мем\n- Xmap і т.д."
         },
         {
-            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
-            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
+            "question": "Чи можемо ми обрізати 4k зображення та 8k зображень, використовуючи функцію обрізки зображень від safeimagekit.com?",
+            "answer": "Так, функція обрізки зображень від safeimagekit.com пропонує 4k і 8k перетворення зображень. Функція обрізки зображень 4k працює чудово, однак, 8k обрізка зображень трохи затримає порівняно з 1080p та 4k зображеннями, оскільки обробка зображень 8k safeimagekit.com займає трохи часу."
         },
         {
-            "question": "What is the time taken by the converter to crop an image file?",
-            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
+            "question": "Який час витрачається перетворювачем для обрізання файлу зображення?",
+            "answer": "Час є захоплюючим фактором, присутнім тут, куди ми завантажуємо файл і бачимо, як відбувається магія, перетворення обрізки відбувається в одну мить, коли ми можемо обрізати різні типи файлів зображень. Єдиний фактор, що вимагає часу, і все, що потрібно, - це нормальне підключення до Інтернету."
         },
         {
-            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
-            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
+            "question": "Чи можу я використовувати обрізку зображень з safeimagekit.com для перетворення моїх аудіо або відео файлів?",
+            "answer": "Зображення кропер від safeimagekit.com пропонує лише функції обрізки зображень. В даний час обрізка зображень не пропонує перетворення відео або аудіофайлів, але майбутні оновлення веб-сайту принесуть вам всі захоплюючі функції."
         },
         {
-            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
-            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
+            "question": "Чи можемо ми редагувати або створювати GIF-файли, використовуючи опцію обрізки з safeimagekit.com? ",
+            "answer": "GIF-файли - це рухомі зображення з функцією вставки тексту; GIF-файли - це дуже короткі кліпи або біти зображень, які потребують інших параметрів редагування. Завантажені GIF-зображення можна обрізати за допомогою safeimagekit.com. Однак деякі незначні оновлення в майбутньому принесуть задоволення від редагування GIF-файлів на веб-сайт safeimagekit.com."
         },
         {
-            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
-            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
+            "question": "Чи можемо ми обрізати зображення 1080p та 720p за допомогою обрізки зображень з safeimagekit.com?",
+            "answer": "Так, обрізка зображень від safeimagekit.com пропонує функції редагування роздільної здатності 1080p та 720p зовні вони дозволяють нам змінювати обрізку зображення, тим самим зменшуючи її розмір."
         },
         {
-            "question": "Which image format is preferable among webp and jpg formats?",
-            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
+            "question": "Який формат зображення кращий серед форматів webp і jpg?",
+            "answer": "Добре оптимізований jpg схожий на або краще, ніж webp. Однак webp - це новий формат зображення, і він підтримується не всіма браузерами. Типова різниця між ними полягає в якості, яка становить різницю в розмірі 15% -25%."
         },
         {
-            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
-            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
+            "question": "Чи знизиться якість мого зображення після завантаження їх із обрізки зображень з safeimagekit.com?",
+            "answer": "Ні, якість зображення не зменшиться після завантаження їх із обрізки зображень з safeimagekit.com. Зображення не втратять свою якість і будуть зміщені з однаковою якістю після обрізання зображення."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
-            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Що станеться з нашим прогресом, якщо ми оновимо наш браузер, поки ми використовуємо обрізку зображень від safeimagekit.com?",
+            "answer": "Кропер зображень від safeimagekit.com не підключений до будь-якого сервера там, тому дані, над якими працює користувач, ніде не зберігатимуться, і в результаті він буде стертий миттєво, коли користувач оновить браузер, над яким він працює. Файли зображень, над якими працюють, також будуть видалені після виходу користувача або закриття вкладки, на якій відкрита сторінка розширення веб-сайту."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+            "question": "Чи можу я використовувати функцію обрізки зображень з safeimagekit.com в моїй операційній системі LINUX?",
+            "answer": "Так, функція обрізки зображень від safeimagekit.com може бути використана в будь-якій операційній системі, навіть LINUX. Він побудований з останнім кодом та функціями, які дозволяють користувачеві використовувати обрізку зображень на будь-якій операційній системі, таких як MAC OS, Windows та Ubuntu, за умови наявності пристрою зі стабільним підключенням до Інтернету. Магічний трюк полягає в тому, що він навіть працює на повільніше підключення до Інтернету."
         },
         {
-            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "Чи можу я використовувати функцію обрізки зображень з safeimagekit.com на пристрої iOS?",
+            "answer": "Так, функція обрізки зображень від safeimagekit.com може використовуватися на пристроях iOS і навіть на пристроях Android. Він побудований з останніми функціями, які надають користувачеві використовувати цей файл розширення на будь-якій операційній системі, все це потребує підключення до Інтернету та хороший веб-браузер."
         },
         {
-            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
+            "question": "Як я можу зберегти зміни, внесені у файл зображення, використовуючи кропер зображення з safeimagekit.com?",
+            "answer": "Спочатку завантажте файл зображення, який потребує зміни, а потім використовуйте параметр Cropper зображення, щоб обрізати файл зображення по одному. Потім використовуйте параметр збереження, який надається в нижній частині веб-сайту, це зберігає зміни, внесені до файлів зображень, а потім завантажує файл зображення, який змінюється."
         },
         {
-            "question": "Will my file be saved after I complete working on the image cropper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Чи збережеться мій файл після завершення роботи над інструментом обрізки зображень? ",
+            "answer": "Ні, ми не надсилаємо жодного з ваших файлів на наші сервери, всі операції виконуються на самому браузері, тому всі ваші файли повністю безпечні. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Чи потрібно мені робити додаткову реєстрацію або доплачувати, щоб використовувати інструмент обрізки зображень? ",
+            "answer": "Абсолютно ні, наш інструмент повністю онлайн і не вимагає від вас ділитися будь-якою вашою особистою інформацією з нами, як ідентифікатор електронної пошти, паролі тощо Наш інструмент абсолютно безкоштовний."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Як мені спілкуватися, якщо я стикаюся з будь-якими проблемами або якщо я хочу запропонувати будь-які зміни?",
+            "answer": "Ми з радістю приймаємо будь-які питання або пропозиції, пропоновані всіма користувачами, будь ласка, зв'яжіться з нами через наші ручки соціальних медіа для отримання додаткової інформації. Safeimagekit.com доступний на всіх провідних веб-сайтах соціальних медіа, таких як Facebook, Instagram, YouTube та LinkedIn тощо."
         }
     ],
     "csscdns": [

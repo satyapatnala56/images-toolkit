@@ -1,16 +1,16 @@
 {
     "Language": "Français",
     "htmlLangAtt": "fr",
-    "H1": "Générateur de filigrane",
+    "H1": "Générateur de filigranes gratuit pour PC, MAC, IOS et ANDROID",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "danger",
-    "H2": "La création d'un filigrane pour les photos a été simplifiée avec nous, commencez par télécharger votre fichier ci-dessous",
-    "TITLE": "Photos en filigrane - Créateur de filigrane gratuit - SafeImageKit",
-    "META": "Vous recherchez un filigrane d'image de haute qualité pour les images ? Eh bien, vous êtes au bon endroit. Notre outil de génération de filigrane en ligne est extrêmement sûr, convivial et super rapide.",
+    "H2": "La création d'un filigrane pour les photos a été facilitée par nous, commencez par télécharger votre fichier ci-dessous",
+    "TITLE": "Photos en filigrane - créateur de filigrane gratuit - safeimagekit",
+    "META": "Vous recherchez un filigrane d'image de haute qualité pour les images ? Eh bien, alors vous êtes au bon endroit. Notre outil de génération de filigrane en ligne est extrêmement sûr, convivial et super rapide.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "red",
@@ -25,19 +25,19 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Sécurité des données",
-            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs"
+            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Flexibilité",
-            "content": " Notre outil de génération de filigrane fonctionne sur presque tous les types de navigateurs et d'appareils."
+            "content": " Notre outil de génération de filigranes fonctionne sur presque tous les types de navigateurs et d'appareils."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Convivial",
-            "content": "Notre outil générateur de filigrane est très facile à comprendre, aucun professionnel n'est nécessaire pour travailler sur notre outil."
+            "content": "Notre outil de génération de filigranes est très facile à comprendre, aucun professionnel n'est nécessaire pour travailler sur notre outil."
         },
         {
             "priority": 1,
@@ -49,7 +49,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Aucun téléchargement supplémentaire",
-            "content": "Notre outil de génération de filigrane est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est nécessaire pour être téléchargé sur votre appareil."
+            "content": "Notre outil de génération de filigranes est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est requis pour être téléchargé sur votre appareil."
         }
     ],
     "HOW_TO_CONTENT": {
@@ -58,71 +58,75 @@
         "steps": [
             "Téléchargez votre fichier image ou cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive",
             "Ajustez les paramètres requis ",
-            "Ajouter un texte ou une image en filigrane",
+            "Ajouter un texte ou une image en tant que filigrane",
             "cliquez sur le bouton Enregistrer pour enregistrer les modifications apportées",
-            "Vive ! l'image est prête à basculer."
+            "Hourra ! ! l'image est prête à basculer."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "",
+            "answer": ""
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Est-ce que je peux autoriser l'accès à mon disque dur en toute sécurité ?",
+            "answer": "Oui, il est absolument sûr de nous autoriser et de nous donner accès à votre lecteur. Nous n'apporterons aucune modification à votre site et vos fichiers seront en sécurité avec vous."
         },
         {
-            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
-            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
+            "question": "Comment puis-je télécharger des fichiers depuis mon lecteur/ma boîte de dépôt ?",
+            "answer": "Cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive. Sélectionnez le compte Google auquel vous souhaitez associer votre lecteur. Vous pouvez maintenant sélectionner les fichiers que vous souhaitez télécharger."
         },
         {
-            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
-            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
+            "question": "Quelles sont les fonctionnalités offertes par la fonction de filigrane de safeimagekit.com lors de l'ajout d'un filigrane à une image ?",
+            "answer": "La fonction de filigrane de safeimagekit.com offre des fonctionnalités polyvalentes lors de la création d'une image. Les principales caractéristiques sont les suivantes :\n- Insertion de texte en filigrane sur le fichier image téléchargé.\n- Réglage de la transparence du texte du filigrane téléchargé.\n- Réglage de la taille de la police du texte du filigrane à insérer.\n- Modification de la valeur du trait\n- Insertion d'une image sous forme de filigrane sur l'image d'origine\n- Réglage de la valeur de l'ombre sur le fichier image téléchargé.\n- Modification du texte en filigrane en italique.\n- Réglage de l'audace du texte filigrané à insérer.\n- Fonction de soulignement du texte en filigrane.\n- Mise à niveau du filigrane avec des options de couleur.\n\n"
         },
         {
-            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
-            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
+            "question": "Comment fonctionne l'option d'insertion de texte des photos en filigrane de safeimagekit.com ?",
+            "answer": "L'option d'insertion de texte de la fonction de photos en filigrane de safeimagekit.com permet à l'utilisateur d'ajouter du texte sur l'image en tant que filigrane. Le texte ajouté peut être ajusté et modifié à l'aide de plusieurs fonctionnalités telles que le réglage des couleurs, l'épaisseur du texte, etc. Les options de réglage des couleurs permettent à l'utilisateur d'ajouter de la couleur au texte, d'autre part, l'épaisseur du texte permet à l'utilisateur d'ajuster la taille du texte. Pour accéder à cette fonctionnalité, il suffit de taper le texte dans l'espace « entrer le texte » et de cliquer sur « ajouter du texte » pour générer le filigrane."
         },
         {
-            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+            "question": "Comment fonctionne l'option de réglage de la transparence des photos en filigrane de safeimagekit.com ?",
+            "answer": "L'option de réglage de la transparence de la fonction de photos en filigrane de safeimagekit.com permet à l'utilisateur de régler la transparence et l'opacité du texte filigrané ou de l'image téléchargée. Cette option est disponible dans la partie centrale de la page, l'option de transparence est donnée sur une échelle allant de 0,1 à 1. Cet ajustement est effectué et peut être enregistré en cliquant sur l'option Enregistrer. Cette option est accessible en cliquant sur l'option « choisir la transparence », en ajustant l'échelle et en cliquant sur « ajouter du texte » pour générer le filigrane."
         },
         {
-            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
-            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
+            "question": "Comment ajuster la taille de la police du texte lors de la modification d'une image à l'aide de la fonction de photos en filigrane de safeimagekit.com ?",
+            "answer": "La taille de la police du texte lors de la modification d'une image à l'aide de la fonction de photos en filigrane de safeimagekit.com peut être ajustée en saisissant le facteur de taille. Cette option est accessible en saisissant la taille valide dans l'espace nommé « Entrez la taille de la police ». La taille peut être ajustée en saisissant une valeur dans cet espace. La taille de la police du texte peut être augmentée en saisissant les valeurs qui sont en valeur positive (+). La taille de la police du texte peut être réduite en saisissant les valeurs qui sont en valeur négative (-)."
         },
         {
-            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
+            "question": "Comment fonctionne la valeur du trait dans la conversion d'image dans la fonction de photos en filigrane de safeimagekit.com ?",
+            "answer": "La valeur du trait de la fonction de photos en filigrane de safeimagekit.com fonctionne en ajustant la couleur du texte ou d'une image insérée dans l'image pour édition. Cette valeur est accessible en saisissant une valeur dans l'espace prévu à cet effet appelée « Entrez la valeur du trait ». La valeur du trait de l'image lors de sa conversion en mème peut être ajustée en saisissant une valeur positive (+) pour augmenter le trait. La valeur de course peut être diminuée en saisissant une valeur négative (-) pour diminuer la course.\n\n"
         },
         {
-            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
+            "question": "Pouvons-nous insérer une image sur une autre image en tant que filigrane lors de la modification d'une image à l'aide de la fonction de filigrane de safeimagekit.com ?",
+            "answer": "Oui, la fonctionnalité de photos en filigrane de safeimagekit.com offre la possibilité d'insérer une image sur une autre image tout en modifiant une image. Cette fonctionnalité est accessible en bas de la page intitulée « télécharger une image ». Cette fonctionnalité nous permet de coller une image sur une autre image, c'est une fonction nominale où nous pouvons insérer n'importe quel type d'image sur n'importe quel type d'image. L'image après édition et insertion peut être enregistrée en appuyant sur l'option appelée « enregistrer », ce qui enregistre la progression de l'image."
         },
         {
-            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "Pouvons-nous convertir notre texte en italique qui est saisi sur l'image en cours d'édition, tout en modifiant une image à l'aide de la fonction de photos en filigrane de safeimagekit.com ?",
+            "answer": "Oui, la fonction de photos en filigrane de safeimagekit.com permet à l'utilisateur de convertir le texte saisi sur l'image au format italique. Cette fonction est accessible en appuyant sur le bouton « I » qui signifie italique, ce qui convertit le texte présent sur l'image en italique. Après la conversion, cliquez sur le bouton « Enregistrer ». Cela permet d'enregistrer la progression de l'image."
         },
         {
-            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
+            "question": "Pouvons-nous convertir notre texte du brut au gras, qui est saisi sur l'image en cours d'édition, tout en modifiant une image à l'aide de la fonction de photos en filigrane de safeimagekit.com ?",
+            "answer": "Oui, la fonction de photos en filigrane de safeimagekit.com permet à l'utilisateur de convertir le texte brut en texte gras saisi sur l'image. Cette fonctionnalité est accessible en appuyant sur le bouton « B » qui signifie gras, ce qui convertit le texte brut présent sur l'image en texte gras. Après la conversion, cliquez sur le bouton « Enregistrer ». Cela permet d'enregistrer la progression de l'image."
         },
         {
-            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
-            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
+            "question": "Pouvons-nous souligner le texte, qui est écrit sur l'image en cours d'édition, tout en modifiant une image à l'aide de la fonctionnalité de photos en filigrane de safeimagekit.com ?",
+            "answer": "Oui, la fonction de photos en filigrane de safeimagekit.com permet à l'utilisateur de souligner le texte inséré sur l'image. Cette fonction est accessible en appuyant sur le bouton « U » qui signifie Souligné, ce qui convertit le texte (normal) en texte souligné sur l'image. Après la conversion, cliquez sur le bouton « Enregistrer ». Cela permet d'enregistrer la progression de l'image."
         },
         {
-            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Comment pouvons-nous colorer le texte saisi sur l'image en cours d'édition, tout en modifiant une image à l'aide de la fonction de photos en filigrane de safeimagekit.com ?",
+            "answer": "La fonction de photos en filigrane de safeimagekit.com permet à l'utilisateur de colorer le texte sur l'image, cette option est accessible en cliquant sur la case noire à côté de chaque fonctionnalité principale, après avoir cliqué sur la boîte noire, la boîte de couleur apparaît et l'utilisateur peut accéder à n'importe quelle couleur à peindre sur le texte."
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Mon fichier sera-t-il enregistré une fois que j'aurai fini de travailler sur l'outil générateur de filigranes ? ",
+            "answer": "Non, nous n'envoyons aucun de vos fichiers à nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même, donc tous vos fichiers sont totalement sécurisés. "
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Dois-je m'inscrire ou payer un supplément pour utiliser l'outil générateur de filigrane ? ",
+            "answer": "Absolument pas, notre outil est entièrement en ligne et ne vous oblige pas à partager vos informations personnelles avec nous, telles que votre adresse e-mail, vos mots de passe, etc."
+        },
+        {
+            "question": "Comment communiquer si je rencontre des problèmes ou si je souhaite faire des suggestions ?",
+            "answer": "Nous sommes heureux de prendre en compte tous les problèmes ou suggestions proposés par tous les utilisateurs, veuillez nous contacter via nos identifiants de réseaux sociaux pour plus d'informations. SafeImageKit.com est disponible sur tous les principaux sites de médias sociaux tels que Facebook, Instagram, YouTube et LinkedIn, etc."
         }
     ],
     "jscdns": [

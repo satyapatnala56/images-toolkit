@@ -1,16 +1,16 @@
 {
     "Language": "Español",
     "htmlLangAtt": "es",
-    "H1": "Convertidor de texto a imagen",
+    "H1": "Conversor de texto a imagen en un solo clic",
     "img": "/img/texttoimage.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "éxito",
-    "H2": "La conversión de texto a imagen se ha hecho fácil con nosotros, comience por subir su archivo a continuación",
-    "TITLE": "Texto a imagen- conversor de texto a imagen- safeimagekit",
-    "META": "¿Buscas un conversor de texto a imagen de alta calidad? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de texto a imagen en línea es extremadamente segura, fácil de usar y muy rápida.",
+    "H2": "La conversión de texto a imagen se ha hecho fácil por nosotros, comience cargando su archivo a continuación",
+    "TITLE": "Conversor de texto a imagen- texto a imagen- safeimagekit",
+    "META": "¿Buscas un conversor de texto a imagen de alta calidad? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de conversión de texto a imagen en línea es extremadamente segura, fácil de usar y súper rápida.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "",
@@ -43,78 +43,78 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Gratuito",
-            "content": "Nuestra herramienta de conversión de texto a imagen es completamente gratuita, puedes usar todas nuestras herramientas sin pagar ni un centavo"
+            "content": "Nuestra herramienta de conversión de texto a imagen es completamente gratuita, puede utilizar todas nuestras herramientas sin pagar un solo centavo"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Sin descarga adicional",
-            "content": "Nuestra herramienta de conversión de texto a imagen se basa completamente en el navegador y no es necesario descargar ningún software adicional en su dispositivo."
+            "content": "Nuestra herramienta de conversión de texto a imagen está completamente basada en el navegador y no se requiere descargar ningún software adicional en su dispositivo."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "CÓMO CONVERTIR NUESTRO TEXTO EN UNA IMAGEN",
         "steps": [
-            "Ingrese el texto para convertirlo en una imagen en el espacio provisto.",
-            "Ajuste los parámetros para una mejor salida de imagen",
+            "Ingrese el texto que desea convertir en imagen en el espacio provisto.",
+            "Ajuste los parámetros para obtener una mejor salida de imagen",
             "Pulsa el botón generar para convertir el texto en imagen",
             "Guarda los cambios realizados en la imagen.",
-            "¡¡Hurra!!! la imagen está lista para usarse."
+            "¡¡¡Hurra!!! la imagen está lista para usarse."
         ]
     },
     "FAQ": [
         {
-            "question": "What are the features offered by the text to image converter from safeimagekit.com while, converting a given text to an image?",
-            "answer": "The text to image feature from safeimagekit.com offers versatile features while converting a piece of text to an image. They include-\n-\tInsertion of text which is to be converted into an image.\n-\tAdjusting the font size of the text which is entered.\n-\tModifying the text by italics\n-\tAdjusting the boldness of the text to be inserted.\n-\tModifying the stroke value \n-\tAdjusting the line-height\n-\tAdjusting the background color of the text\n-\tUpgrading the text inserted with colors."
+            "question": "¿Cuáles son las características que ofrece el conversor de texto a imagen de safeimagekit.com al convertir un texto determinado en una imagen?",
+            "answer": "La función de texto a imagen de safeimagekit.com ofrece funciones versátiles al convertir un fragmento de texto en una imagen. Incluyen-\n- Inserción de texto que se va a convertir en imagen.\n- Ajuste del tamaño de fuente del texto que se introduce.\n- Modificar el texto en cursiva\n- Ajuste de la negrita del texto que se va a insertar.\n- Modificar el valor del trazo \n- Ajuste de la altura de la línea\n- Ajuste del color de fondo del texto\n- Actualización del texto insertado con colores."
         },
         {
-            "question": "How does the text insertion option of text to image converter from safeimagekit.com work?",
-            "answer": "The text insertion option of text to image converter from safeimagekit.com, lets the user add text on the space which is to be generated as an image. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. After these edits, the user can convert the text to an image."
+            "question": "¿Cómo funciona la opción de inserción de texto del convertidor de texto a imagen de safeimagekit.com?",
+            "answer": "La opción de inserción de texto del convertidor de texto a imagen de safeimagekit.com permite al usuario agregar texto en el espacio que se va a generar como imagen. El texto agregado se puede ajustar y modificar utilizando varias funciones, como el ajuste de color, el grosor del texto, etc. Las opciones de ajuste de color permiten al usuario agregar color al texto, por otro lado, el grosor del texto permite al usuario ajustar el tamaño del texto. Después de estas ediciones, el usuario puede convertir el texto en una imagen."
         },
         {
-            "question": "How do we adjust the font size of the text while generating an image using the meme generator from safeimagekit.com?",
-            "answer": "The font size of the text while generating an image using the text to image converter from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
+            "question": "¿Cómo ajustamos el tamaño de fuente del texto al generar una imagen con el generador de memes de safeimagekit.com?",
+            "answer": "El tamaño de fuente del texto al generar una imagen con el convertidor de texto a imagen de safeimagekit.com se puede ajustar ingresando el factor de tamaño. Se puede acceder a esta opción ingresando el tamaño válido en el espacio denominado «Ingrese el tamaño de fuente». El tamaño se puede ajustar ingresando un valor en ese espacio. El tamaño de fuente del texto se puede aumentar ingresando los valores que están en valor positivo (+). El tamaño de fuente del texto se puede reducir ingresando los valores que están en valor negativo (-)."
         },
         {
-            "question": "Can we convert our text to Italics which is entered in the space for editing, while creating an image from text using the text to image converter from safeimagekit.com?",
-            "answer": "Yes, the text to image converter from safeimagekit.com lets the user convert the text which is entered in the space for editing to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present in the space to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the process."
+            "question": "¿Podemos convertir nuestro texto a cursiva que se ingresa en el espacio para la edición, mientras creamos una imagen a partir de texto con el convertidor de texto a imagen de safeimagekit.com?",
+            "answer": "Sí, el conversor de texto a imagen de safeimagekit.com permite al usuario convertir el texto introducido en el espacio para su edición a formato cursiva. Se puede acceder a esta función pulsando el botón «I» que significa cursiva, esto convierte el texto presente en el espacio en cursiva. Después de la conversión, presione el botón llamado «guardar». Esto ahorra el progreso que se hace en el proceso."
         },
         {
-            "question": "Can we convert our text from plain to bold, which is entered in the space under editing, while creating an image using the text to image converter from safeimagekit.com?",
-            "answer": "Yes, the text to image converter feature from safeimagekit.com lets the user convert the plain text to bold text which is entered in the space for editing. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present in the space to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the process."
+            "question": "¿Podemos convertir nuestro texto de plano a negrita, que se ingresa en el espacio que se está editando, mientras creamos una imagen con el convertidor de texto a imagen de safeimagekit.com?",
+            "answer": "Sí, la función de conversión de texto a imagen de safeimagekit.com permite al usuario convertir el texto sin formato en texto en negrita que se ingresa en el espacio para su edición. Se puede acceder a esta función pulsando el botón «B» que significa negrita, esto convierte el texto sin formato presente en el espacio en texto en negrita. Después de la conversión, presione el botón llamado «guardar». Esto ahorra el progreso que se hace en el proceso."
         },
         {
-            "question": "How does the stroke value work in the image conversion in the text to image converter tool from safeimagekit.com?",
-            "answer": "The stroke value of text to image converter tool from safeimagekit.com works by adjusting the color of the text which is inserted in the space for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
+            "question": "¿Cómo funciona el valor del trazo en la conversión de imágenes en la herramienta de conversión de texto a imagen de safeimagekit.com?",
+            "answer": "El valor de trazo de la herramienta de conversión de texto a imagen de safeimagekit.com funciona ajustando el color del texto que se inserta en el espacio para su edición. Se puede acceder a este valor ingresando un valor en el espacio proporcionado llamado «Ingrese el valor del trazo». El valor del trazo de la imagen al convertirla en un meme se puede ajustar ingresando un valor positivo (+) para aumentar el trazo. El valor del trazo se puede disminuir introduciendo un valor negativo (-) para disminuir el trazo."
         },
         {
-            "question": "How can we color the text which is entered in the image conversion space, while creating an image using the text to image converter tool from safeimagekit.com?",
-            "answer": "The text to image converter tool from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
+            "question": "¿Cómo podemos colorear el texto que se ingresa en el espacio de conversión de imágenes, mientras creamos una imagen con la herramienta de conversión de texto a imagen de safeimagekit.com?",
+            "answer": "La herramienta de conversión de texto a imagen de safeimagekit.com permite al usuario colorear el texto de la imagen, se puede acceder a esta opción presionando el cuadro negro junto a cada característica principal, después de presionar el cuadro negro, el cuadro de color aparece y el usuario puede acceder a cualquier color para pintar en el texto."
         },
         {
-            "question": "How does the background colour option of text to image converter tool from safeimagekit.com work?",
-            "answer": "The background colour option of text to image converter tool from safeimagekit.com is a unique feature, which lets the user add colour to the background space of the image generated. This option can be accessed at the bottom of the page named “Background colour”. There are a variety of colours available for the user to choose, the colour when chosen can be saved by hitting the “save” option below."
+            "question": "¿Cómo funciona la opción de color de fondo de la herramienta de conversión de texto a imagen de safeimagekit.com?",
+            "answer": "La opción de color de fondo de la herramienta de conversión de texto a imagen de safeimagekit.com es una función única, que permite al usuario agregar color al espacio de fondo de la imagen generada. Se puede acceder a esta opción en la parte inferior de la página denominada «Color de fondo». Hay una variedad de colores disponibles para que el usuario elija, el color elegido se puede guardar presionando la opción «guardar» a continuación."
         },
         {
-            "question": "Can I use the text to image converter tool from safeimagekit.com on my Apple iPhone 11 pro? ",
-            "answer": "Yes, the text to image converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the amount of text pasted on the space for conversion which is uploaded to be converted into an image."
+            "question": "¿Puedo usar la herramienta de conversión de texto a imagen de safeimagekit.com en mi Apple iPhone 11 pro? ",
+            "answer": "Sí, la herramienta de conversión de texto a imagen de safeimagekit.com es un sitio web multiplataforma en el que el usuario puede utilizar esta herramienta de conversión desde sistemas operativos como Android, iOS, Windows y Mac OS. Es independiente de los sistemas operativos utilizados, pero solo depende de la conexión a Internet y de la cantidad de texto pegado en el espacio para la conversión que se carga para convertirse en una imagen."
         },
         {
-            "question": "Can I use the text to image converter tool from safeimagekit.com on my Windows 8?",
-            "answer": "The text to image converter feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "¿Puedo usar la herramienta de conversión de texto a imagen de safeimagekit.com en mi Windows 8?",
+            "answer": "La función de conversión de texto a imagen es una función versátil ofrecida por safeimagekit.com que es compatible con todos los sistemas operativos disponibles, como Windows 8, Linux e incluso Ubuntu. Todo lo que se necesita es un dispositivo para abrir el archivo de extensión utilizando el sitio web www.safeimagekit.com y una conexión a Internet normal para mantenerse en pie. El hecho curioso es que incluso puede funcionar con una conexión a Internet más lenta."
         },
         {
-            "question": "Will my file be saved after I complete working on the text to image conversion tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "¿Se guardará mi archivo cuando termine de trabajar en la herramienta de conversión de texto a imagen? ",
+            "answer": "No, no enviamos ninguno de sus archivos a nuestros servidores, todas las operaciones se realizan en el propio navegador, por lo que todos sus archivos están completamente seguros. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the text to image conversion tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "¿Tengo que registrarme o pagar más para usar la herramienta de conversión de texto a imagen? ",
+            "answer": "Por supuesto que no, nuestra herramienta está completamente en línea y no requiere que compartas tu información personal con nosotros, como identificación de correo electrónico, contraseñas, etc. Nuestra herramienta es completamente gratuita."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "¿Cómo me comunico si tengo algún problema o si quiero hacer alguna sugerencia?",
+            "answer": "Con gusto atendemos cualquier problema o sugerencia ofrecida por todos los usuarios, póngase en contacto con nosotros a través de nuestras redes sociales para obtener más información. Safeimagekit.com está disponible en todos los principales sitios web de redes sociales, como Facebook, Instagram, YouTube y LinkedIn, etc."
         }
     ],
     "jscdns": [

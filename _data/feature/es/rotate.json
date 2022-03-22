@@ -1,16 +1,16 @@
 {
     "Language": "Español",
     "htmlLangAtt": "es",
-    "H1": "Flipper de imagen",
+    "H1": "Voltea imágenes en línea gratis con esta herramienta avanzada",
     "img": "/img/rotate.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "nofileupload": true,
     "variant": "información",
     "imgalt": "altvalue",
-    "H2": "La rotación de fotos se ha hecho fácil con nosotros, comience por subir su archivo a continuación",
-    "TITLE": "Voltear imagen - voltear imagen en línea - safeimagekit",
-    "META": "¿Buscas un flipper de imágenes de alta calidad? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de imagen voltear en línea es extremadamente segura, fácil de usar y súper rápida.",
+    "H2": "La rotación de fotos se ha hecho fácil por nosotros, comience cargando su archivo a continuación",
+    "TITLE": "Voltear imagen- voltear imagen en línea- safeimagekit",
+    "META": "¿Estás buscando un flipper de imagen de alta calidad? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de cambio de imagen en línea es extremadamente segura, fácil de usar y súper rápida.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#a29bfe",
@@ -37,100 +37,100 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Fácil de usar",
-            "content": "Nuestra herramienta para voltear imágenes es muy fácil de entender, no se necesita un profesional para trabajar en nuestra herramienta."
+            "content": "Nuestra herramienta de cambio de imagen es muy fácil de entender, no se necesita un profesional para trabajar en nuestra herramienta."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Gratuito",
-            "content": "Nuestra herramienta para voltear imágenes es completamente gratuita, puedes usar todas nuestras herramientas sin pagar un solo centavo"
+            "content": "Nuestra herramienta de cambio de imagen es completamente gratuita, puede utilizar todas nuestras herramientas sin pagar un solo centavo"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Sin descarga adicional",
-            "content": "Nuestra herramienta de volteo de imágenes está completamente basada en el navegador y no se requiere ningún software adicional para descargarse en su dispositivo."
+            "content": "Nuestra herramienta de volteo de imágenes está completamente basada en el navegador y no se requiere descargar ningún software adicional en su dispositivo."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "Cómo voltear una imagen",
         "steps": [
-            "Sube el archivo de imagen o haz clic en la flecha desplegable y selecciona Dropbox/Google Drive para seleccionar el archivo y voltearlo.",
-            "Ajuste los parámetros necesarios para una mejor calidad de imagen.",
-            "Pulsa la opción «Vista previa» para ver los cambios realizados.",
-            "Guarde los cambios realizados en el archivo de imagen.",
-            "¡¡Hurra! la imagen está lista para usarse."
+            "Sube el archivo de imagen o haz clic en la flecha desplegable y selecciona Dropbox/Google Drive para seleccionar tu archivo y voltearlo.",
+            "Ajuste los parámetros requeridos para obtener una mejor calidad de imagen.",
+            "Pulsa la opción «Vista previa» para echar un vistazo a los cambios realizados.",
+            "Guarda los cambios realizados en el archivo de imagen.",
+            "¡Hurra! la imagen está lista para usarse."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "¿Es seguro permitir el acceso a mi unidad?",
+            "answer": "Sí, es absolutamente seguro permitirnos y darnos acceso a su unidad. No realizaremos ningún cambio en su sitio y sus archivos estarán seguros con usted."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "¿Cómo puedo cargar archivos desde mi unidad/dropbox?",
+            "answer": "Haz clic en la flecha desplegable y selecciona Dropbox/Google Drive. Selecciona la cuenta de Google desde la que quieres vincular tu unidad. Ahora puede seleccionar los archivos que desea cargar."
         },
         {
-            "question": "What are the features offered by the image flipper feature from safeimagekit.com while, flipping an image?",
-            "answer": "Image flipper from safeimagekit.com offers versatile features while flipping an image, where we upload the image file in the space provided and edit that image by rotating it to its left or to is its right or rotate the image with a marginal angle."
+            "question": "¿Cuáles son las características que ofrece la función flipper de imagen de safeimagekit.com al voltear una imagen?",
+            "answer": "Image flipper de safeimagekit.com ofrece funciones versátiles al voltear una imagen, donde cargamos el archivo de imagen en el espacio provisto y editamos esa imagen girándola hacia la izquierda o hacia la derecha o giramos la imagen con un ángulo marginal."
         },
         {
-            "question": "How can we rotate the image file to the right, using the image flipper feature from safeimagekit.com?",
-            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the right side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
+            "question": "¿Cómo podemos girar el archivo de imagen hacia la derecha, utilizando la función de cambio de imagen de safeimagekit.com?",
+            "answer": "Como primer paso, cargamos el archivo de imagen en el espacio provisto. El siguiente paso lo realizará el sitio web safeimagekit.com, donde estabiliza la imagen. El usuario, según el requisito, rotará la imagen hacia el lado derecho insertando el ángulo en el espacio provisto. Después de introducir el ángulo adecuado, pulse el botón «girar» que gira la imagen de acuerdo con el ángulo. Pulsa el botón «guardar» para guardar los cambios realizados."
         },
         {
-            "question": "How can we rotate the image file to the left, using the image flipper feature from safeimagekit.com?",
-            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the left side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
+            "question": "¿Cómo podemos girar el archivo de imagen hacia la izquierda, utilizando la función de cambio de imagen de safeimagekit.com?",
+            "answer": "Como primer paso, cargamos el archivo de imagen en el espacio provisto. El siguiente paso lo realizará el sitio web safeimagekit.com, donde estabiliza la imagen. El usuario, según el requisito, rotará la imagen hacia el lado izquierdo insertando el ángulo en el espacio provisto. Después de introducir el ángulo adecuado, pulse el botón «girar» que gira la imagen de acuerdo con el ángulo. Pulsa el botón «guardar» para guardar los cambios realizados."
         },
         {
-            "question": "Will my uploaded image files corrupt after rotating the image files using the image flipper file feature from safeimagefkit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "¿Se corromperán los archivos de imagen cargados después de rotar los archivos de imagen con la función de cambio de imagen de safeimagefkit.com?",
+            "answer": "No, safeimagekit.com está creado con todos los programas y funciones de seguridad más recientes que no permiten que los archivos de imagen cargados se corrompan. Por lo tanto, los archivos de imagen cargados están completamente seguros y protegidos."
         },
         {
-            "question": "Can we rotate the image files which are locked, using the image flipper feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the image flipper feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking pdfs as well as image files in case the user loses his password for his locked image file."
+            "question": "¿Podemos rotar los archivos de imagen que están bloqueados con la función de volteo de imágenes de safeimagekit.com?",
+            "answer": "No, no podemos cargar el archivo de imagen que está bloqueado porque el acceso a ese archivo de imagen en particular está bloqueado. Por lo tanto, para utilizar la función de volteo de imágenes de safeimagekit.com necesitamos cargar los archivos de imagen que no están bloqueados. Pero el usuario puede verificar la extensión del buscador de contraseñas de safeimagekit.com, que está hecha exclusivamente para desbloquear archivos PDF y archivos de imagen en caso de que el usuario pierda su contraseña para su archivo de imagen bloqueado."
         },
         {
-            "question": "Can I use the image flipper feature from safeimagekit.com on my LINUX operating system?",
-            "answer": "Yes, the image flipper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image flipper extension on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The main trick is that it even works on a slower internet connection."
+            "question": "¿Puedo usar la función de volteo de imágenes de safeimagekit.com en mi sistema operativo LINUX?",
+            "answer": "Sí, la función de volteo de imágenes de safeimagekit.com se puede utilizar en cualquier sistema operativo, incluso en LINUX. Está construido con el código y las características más recientes que permiten al usuario utilizar la extensión del volteador de imágenes en cualquier sistema operativo como MAC OS, Windows y Ubuntu, siempre que haya un dispositivo con una conexión a Internet estable. El truco principal es que incluso funciona con una conexión a Internet más lenta."
         },
         {
-            "question": "Can I use the image flipper feature from safeimagekit.com on an iOS device?",
-            "answer": "Yes, the image flipper extension from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
+            "question": "¿Puedo usar la función de volteo de imágenes de safeimagekit.com en un dispositivo iOS?",
+            "answer": "Sí, la extensión de cambio de imagen de safeimagekit.com se puede utilizar en dispositivos iOS e incluso en dispositivos Android. Está construido con las últimas características que permiten al usuario utilizar este archivo de extensión en cualquier sistema operativo, todo lo que necesita una conexión a Internet y un buen navegador web."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image flipper from safeimagekit.com?",
-            "answer": "The image flipper feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the rotate image page website is open."
+            "question": "¿Qué pasará con nuestro progreso si actualizamos nuestro navegador mientras utilizamos el volteador de imágenes de safeimagekit.com?",
+            "answer": "La función de cambio de imagen de safeimagekit.com no está conectada a ningún servidor, por lo que los datos en los que está trabajando el usuario no se almacenarán en ningún lugar y, como resultado, se borrarán instantáneamente cuando el usuario actualice el navegador en el que está trabajando. Los archivos de imagen en los que se trabaja también se eliminarán después de que el usuario salga o cierre la pestaña en la que está abierto el sitio web de la página de rotación de imágenes."
         },
         {
-            "question": "How can I save the changes made to the image file using the image flipper feature from safeimagekit.com?",
-            "answer": "First, upload an image file that requires a change, then use the “enter the rotation angle” option to change the orientation of the image. Then, use the rotate option to start the rotation, the rotation will be instantaneous and will be finished within a second. Then, use the save option which is given on the right of the website, this saves the changes made to the pages of the image file and then downloads the image file which is modified by using the option called “download”."
+            "question": "¿Cómo puedo guardar los cambios realizados en el archivo de imagen con la función de cambio de imagen de safeimagekit.com?",
+            "answer": "En primer lugar, cargue un archivo de imagen que requiera un cambio y, a continuación, utilice la opción «introducir el ángulo de rotación» para cambiar la orientación de la imagen. Luego, use la opción de girar para iniciar la rotación, la rotación será instantánea y finalizará en un segundo. Luego, use la opción de guardar que se encuentra a la derecha del sitio web, esto guarda los cambios realizados en las páginas del archivo de imagen y luego descarga el archivo de imagen que se modifica mediante la opción llamada «descargar»."
         },
         {
-            "question": "Which are the image formats supported by the image flipper from safeimagekit.com while, rotating an image?",
-            "answer": "The image flipper from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
+            "question": "¿Cuáles son los formatos de imagen admitidos por el volteador de imagen de safeimagekit.com al girar una imagen?",
+            "answer": "El volteador de imágenes de safeimagekit.com admite todos los formatos de imagen líderes y populares que existen. Estos incluyen-\n- Formato png\n- Formato jpeg\n- Formato jpg\n- Formato crudo, etc."
         },
         {
-            "question": "Do the safeimagekit.com support pdfs and. word format files?",
-            "answer": "Currently, safeimagekit.com does not support any format save the image type formats. The image flipper feature only works for image files and updates to the website will bring support to all the formats including pdf and. word formats."
+            "question": "¿Safeimagekit.com admite archivos en formato PDF y Word?",
+            "answer": "Actualmente, safeimagekit.com no admite ningún formato que guarde los formatos de tipo de imagen. La función de cambio de imagen solo funciona para archivos de imagen y las actualizaciones del sitio web brindarán soporte a todos los formatos, incluidos los formatos pdf y. word."
         },
         {
-            "question": "Can we use reflex angle rotations to rotate our image using the image flipper from safeimagekit.com?",
-            "answer": "Reflex angles are the types of angles whose degree measurement is more than 180° but less than 360°. Common examples of reflex angles are; 200°, 220°, 250°, 300°, 350°, etc. yes, the image flipper feature from safeimagekit.com do support the rotation of images with reflex angles. Just enter the reflex angle in “enter the rotation angle space” and hit the rotate option to flip the image. Hit the save button after that to save the changes made to the image. Finally, hit the download button to download the image."
+            "question": "¿Podemos usar rotaciones de ángulos reflejos para girar nuestra imagen con el volteador de imagen de safeimagekit.com?",
+            "answer": "Los ángulos reflejos son los tipos de ángulos cuya medición de grados es de más de 180° pero menos de 360°. Ejemplos comunes de ángulos reflejos son: 200°, 220°, 250°, 300°, 350°, etc. sí, la función de volteo de imagen de safeimagekit.com admite la rotación de imágenes con ángulos reflejos. Simplemente ingrese el ángulo reflejo en «ingrese el espacio del ángulo de rotación» y presione la opción de rotación para voltear la imagen. Presiona el botón guardar después de eso para guardar los cambios realizados en la imagen. Por último, pulsa el botón de descarga para descargar la imagen."
         },
         {
-            "question": "Will my file be saved after I complete working on the image flipper tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "¿Se guardará mi archivo cuando termine de trabajar en la herramienta volteador de imágenes? ",
+            "answer": "No, no enviamos ninguno de sus archivos a nuestros servidores, todas las operaciones se realizan en el propio navegador, por lo que todos sus archivos están completamente seguros. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image flipper tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "¿Tengo que hacer algún registro adicional o pagar más para usar la herramienta volteador de imágenes? ",
+            "answer": "Por supuesto que no, nuestra herramienta está completamente en línea y no requiere que compartas tu información personal con nosotros, como identificación de correo electrónico, contraseñas, etc. Nuestra herramienta es completamente gratuita."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "¿Cómo me comunico si tengo algún problema o si quiero hacer alguna sugerencia?",
+            "answer": "Con gusto atendemos cualquier problema o sugerencia ofrecida por todos los usuarios, póngase en contacto con nosotros a través de nuestras redes sociales para obtener más información. Safeimagekit.com está disponible en todos los principales sitios web de redes sociales, como Facebook, Instagram, YouTube y LinkedIn, etc."
         }
     ],
     "jscdns": [

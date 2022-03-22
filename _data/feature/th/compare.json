@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "จะปลอดภัยหรือไม่ที่จะอนุญาตให้เข้าถึงไดรฟ์ของฉัน?",
+            "answer": "ใช่ มันปลอดภัยอย่างยิ่งที่จะอนุญาตให้เราเข้าถึงไดรฟ์ของคุณเราจะไม่ทำการเปลี่ยนแปลงใด ๆ กับเว็บไซต์ของคุณ และ dfiles ของคุณจะปลอดภัยกับคุณ"
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "ฉันจะอัปโหลดไฟล์จากไดรฟ์/Dropbox ของฉันได้อย่างไร",
+            "answer": "คลิกที่ลูกศรแบบเลื่อนลงและเลือก Dropbox/Google ไดรฟ์เลือกบัญชี Google จากตำแหน่งที่คุณต้องการเชื่อมโยงไดรฟ์ตอนนี้คุณสามารถเลือกไฟล์ที่คุณต้องการอัปโหลดได้"
         },
         {
-            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
-            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
+            "question": "อะไรคือคุณสมบัติที่นำเสนอโดยคุณสมบัติการเปรียบเทียบภาพจาก safeimagekit.com ในขณะที่เปรียบเทียบสองภาพ?",
+            "answer": "คุณสมบัติการเปรียบเทียบภาพจาก safeimagekit.com มีคุณสมบัติที่หลากหลายในขณะที่เปรียบเทียบสองคุณสมบัติคุณสมบัติหลัก ได้แก่ \n- เปรียบเทียบภาพสองภาพบนพื้นฐานแถบเลื่อน\n- เปรียบเทียบภาพสองภาพขึ้นอยู่กับพิกเซล\n- เปรียบเทียบภาพสองภาพตามข้อมูล\n- เปรียบเทียบภาพสองภาพขึ้นอยู่กับผลจาง\nเหล่านี้กล่าวถึงวิธีการเปรียบเทียบเป็นพื้นฐานในธรรมชาตินั้นพวกเขาจะถูกเปรียบเทียบและผลของการเปรียบเทียบของพวกเขาจะแสดงโดยตรงบนหน้าจอ."
         },
         {
-            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
+            "question": "วิธีที่เราสามารถเปรียบเทียบสองภาพขึ้นอยู่กับการเปรียบเทียบแถบเลื่อนของคุณลักษณะการเปรียบเทียบภาพจาก safeimagekit.com?",
+            "answer": "ขั้นตอนแรกรวมถึงการอัปโหลดภาพที่ต้องการการเปรียบเทียบขั้นตอนต่อไปคือการคลิกที่ขาชื่อ “เลื่อน” นี้จะเปิดใช้งานการเปรียบเทียบแถบเลื่อนตามผลของการเปรียบเทียบของพวกเขาจะแสดงโดยตรงบนหน้าจอ"
         },
         {
-            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
+            "question": "วิธีที่เราสามารถเปรียบเทียบสองภาพตามวิธีการเปรียบเทียบพิกเซลของคุณสมบัติการเปรียบเทียบภาพจาก safeimagekit.com?",
+            "answer": "ขั้นตอนแรกรวมถึงการอัปโหลดภาพที่ต้องการการเปรียบเทียบขั้นตอนต่อไปคือการคลิกที่ขาชื่อ “พิกเซล” นี้จะเปิดใช้งานการเปรียบเทียบพิกเซลตามพิกเซลของภาพแรกจะแสดงในภาพที่สองผลของการเปรียบเทียบของพวกเขาจะแสดงโดยตรงบนหน้าจอนั้นเราเปรียบเทียบพิกเซลของภาพแรกในช่วงที่สอง"
         },
         {
-            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
+            "question": "วิธีที่เราสามารถเปรียบเทียบสองภาพขึ้นอยู่กับวิธีการผลจางหายของคุณสมบัติการเปรียบเทียบภาพจาก safeimagekit.com?",
+            "answer": "ขั้นตอนแรกรวมถึงการอัปโหลดภาพที่ต้องการการเปรียบเทียบขั้นตอนต่อไปคือการคลิกที่ขาชื่อ “จางหาย” นี้จะเปิดใช้งานการเปรียบเทียบผลจางหายไป.โครงสร้างจางหายไปของภาพแรกจะแสดงในภาพที่สอง, ผลของการเปรียบเทียบของพวกเขาจะแสดงโดยตรงบนหน้าจอ, นั้นเราเปรียบเทียบลักษณะของภาพแรกมากกว่าภาพที่สอง."
         },
         {
-            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
+            "question": "เราจะเปรียบเทียบภาพสองภาพตามสถิติข้อมูลของภาพที่อัปโหลดโดยใช้คุณสมบัติการเปรียบเทียบภาพจาก safeimagekit.com ได้อย่างไร?",
+            "answer": "ขั้นตอนแรกรวมถึงการอัปโหลดภาพที่ต้องการเปรียบเทียบขั้นตอนต่อไปคือการคลิกที่ขาชื่อ “ข้อมูล” นี้จะเปิดใช้งานการเปรียบเทียบข้อมูลตาม.ข้อมูลของภาพแรกจะแสดงข้างภาพที่สอง, ผลของการเปรียบเทียบของพวกเขาจะแสดงโดยตรงบนหน้าจอ, นั้นเราเปรียบเทียบลักษณะของภาพแรกมากกว่าภาพที่สองโดยการเปรียบเทียบสถิติของภาพ."
         },
         {
-            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
-            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
+            "question": "การเปรียบเทียบข้อมูลของคุณสมบัติการเปรียบเทียบภาพจาก safeimagekit.com ทำงานอย่างไร?",
+            "answer": "การเปรียบเทียบข้อมูลของคุณสมบัติภาพเปรียบเทียบจาก safeimagekit.com ทำงานโดยการเปรียบเทียบคุณสมบัติของภาพที่อัปโหลดคุณสมบัติเหล่านี้รวมถึงชื่อของภาพ, ขนาดของภาพ, ชนิดของภาพ, ความสูงของภาพ, ความกว้างของภาพผู้ใช้สามารถเปรียบเทียบภาพโดยทำตามคุณสมบัติเหล่านี้"
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
-            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "ฉันสามารถใช้คุณลักษณะเปรียบเทียบรูปภาพจาก safeimagekit.com บน Windows 8 Ultimate ของฉันได้หรือไม่",
+            "answer": "เปรียบเทียบคุณลักษณะภาพเป็นคุณลักษณะที่หลากหลายที่นำเสนอโดย safeimagekit.com ซึ่งได้รับการสนับสนุนโดยทุกระบบปฏิบัติการออกมีเช่น Windows 8, Linux, และแม้กระทั่งอูบุนตูทั้งหมดที่ใช้เป็นอุปกรณ์ที่จะเปิดไฟล์นามสกุลโดยใช้เว็บไซต์ www.safeimagekit.com และการเชื่อมต่ออินเทอร์เน็ตปกติที่จะยืนบนความจริงที่สนุกก็คือว่ามันยังสามารถทำงานบนการเชื่อมต่ออินเทอร์เน็ตช้าลง."
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "ฉันสามารถใช้คุณสมบัติเปรียบเทียบรูปภาพจาก safeimagekit.com บนอุปกรณ์แอนดรอยด์ของฉันได้หรือไม่ ",
+            "answer": "ใช่เปรียบเทียบคุณลักษณะภาพจาก safeimagekit.com เป็นคุณลักษณะข้ามแพลตฟอร์มตามที่ผู้ใช้สามารถใช้เครื่องมือแปลงนี้จากระบบปฏิบัติการเช่น Android, iOS, Windows และ Mac OSมันเป็นอิสระจากระบบปฏิบัติการที่ใช้ แต่ขึ้นอยู่กับการเชื่อมต่ออินเทอร์เน็ต"
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
-            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "เราจำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติมใด ๆ ในการดาวน์โหลดภาพที่ถูกแก้ไขภายหลังการแปลงโดยใช้ฟีเจอร์ compare image จาก safeimagekit.com หรือไม่?",
+            "answer": "ไม่มีผู้ใช้หลังจากเปรียบเทียบภาพของพวกเขาโดยการป้อนภาพที่เกี่ยวข้องหลังจากทั้งหมดคุณลักษณะนี้ไม่ได้มีตัวเลือกในการดาวน์โหลดผลของการเปรียบเทียบของพวกเขาจะแสดงโดยตรงบนหน้าจอเพื่อให้ภาพจะถูกเปรียบเทียบโดยตรงมันเป็นเครื่องมือแปลงเบราว์เซอร์ที่ไม่สนับสนุนหรือไม่จำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติมในการดาวน์โหลดภาพที่มีการแก้ไข"
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
-            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "จะเกิดอะไรขึ้นกับความคืบหน้าของเราหากเรารีเฟรชเบราว์เซอร์ของเราในขณะที่เรากำลังใช้เครื่องมือเปรียบเทียบภาพจาก safeimagekit.com?",
+            "answer": "เครื่องมือเปรียบเทียบภาพจาก safeimagekit.com ไม่ได้เชื่อมต่อกับเซิร์ฟเวอร์ใด ๆ ออกมีดังนั้นข้อมูลที่ผู้ใช้กำลังทำงานอยู่จะไม่ถูกเก็บไว้ที่ใดก็ได้และเป็นผลให้มันถูกลบทันทีเมื่อผู้ใช้รีเฟรชเบราว์เซอร์ที่เขาทำงานอยู่ไฟล์รูปภาพที่กำลังถูกเปรียบเทียบจะถูกลบออกหลังจากที่ผู้ใช้ออกหรือปิดแท็บที่เปิดหน้าส่วนขยายของเว็บไซต์"
         },
         {
-            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "เราสามารถเปรียบเทียบไฟล์ภาพที่มีการล็อคโดยใช้คุณสมบัติเปรียบเทียบภาพจาก safeimagekit.com?",
+            "answer": "ไม่ได้ เราไม่สามารถอัพโหลดไฟล์รูปภาพที่ถูกล็อคได้ เนื่องจากการเข้าถึงไฟล์รูปภาพนั้นถูกบล็อกดังนั้นการใช้คุณลักษณะภาพเปรียบเทียบจาก safeimagekit.com เราจำเป็นต้องอัปโหลดไฟล์ภาพที่ไม่ได้ล็อคแต่ผู้ใช้สามารถตรวจสอบส่วนขยายค้นหารหัสผ่านจาก safeimagekit.com ซึ่งจะทำเฉพาะสำหรับการปลดล็อคภาพเช่นเดียวกับไฟล์ภาพในกรณีที่ผู้ใช้สูญเสียรหัสผ่านของเขาสำหรับไฟล์ภาพล็อคของเขา"
         },
         {
-            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "ไฟล์รูปภาพที่อัพโหลดของฉันจะเสียหายหลังจากเปรียบเทียบไฟล์รูปภาพโดยใช้ฟีเจอร์เปรียบเทียบไฟล์รูปภาพจาก safeimagekit.com หรือไม่?",
+            "answer": "ไม่มี safeimagekit.com ถูกสร้างขึ้นด้วยโปรแกรมล่าสุดและคุณลักษณะความปลอดภัยซึ่งไม่อนุญาตให้ไฟล์ภาพที่อัปโหลดเสียหายดังนั้นไฟล์ภาพที่อัปโหลดมีความปลอดภัยและปลอดภัยอย่างสมบูรณ์"
         },
         {
-            "question": "Will my file be saved after I complete working on the image comparison tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "ไฟล์ของฉันจะได้รับการบันทึกหลังจากที่ฉันทำงานกับเครื่องมือเปรียบเทียบภาพเสร็จแล้วหรือไม่ ",
+            "answer": "ไม่เราไม่ได้ส่งไฟล์ใด ๆ ของคุณไปยังเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์ตัวเองดังนั้นไฟล์ทั้งหมดของคุณมีความปลอดภัยอย่างสมบูรณ์ "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "ฉันจำเป็นต้องลงทะเบียนเพิ่มเติมหรือจ่ายเงินเพิ่มเพื่อใช้เครื่องมือเปรียบเทียบภาพหรือไม่ ",
+            "answer": "ไม่แน่นอนเครื่องมือของเราออนไลน์อย่างสมบูรณ์และไม่จำเป็นต้องให้คุณแบ่งปันข้อมูลส่วนบุคคลใด ๆ ของคุณกับเรา เช่น ID อีเมล รหัสผ่าน ฯลฯ เครื่องมือของเราไม่มีค่าใช้จ่าย"
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "ฉันจะติดต่อสื่อสารได้อย่างไรหากฉันประสบปัญหาใด ๆ หรือฉันต้องการให้คำแนะนำใด ๆ",
+            "answer": "เรายินดีที่จะใช้ในปัญหาใด ๆ หรือข้อเสนอแนะที่นำเสนอโดยผู้ใช้ทั้งหมด, โปรดติดต่อเราผ่านการจัดการสื่อสังคมของเราสำหรับข้อมูลเพิ่มเติม.SafeImageKit.com สามารถใช้ได้ในทุกเว็บไซต์สื่อสังคมชั้นนำเช่น Facebook, Instagram, YouTube, และ LinkedIn ฯลฯ"
         }
     ],
     "jscdns": [

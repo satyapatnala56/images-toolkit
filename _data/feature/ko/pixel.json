@@ -1,16 +1,16 @@
 {
     "Language": "한국어",
     "htmlLangAtt": "ko",
-    "h1": "이미지를 픽셀 아트로 변환",
+    "h1": "무료 웹 기반 픽셀 아트 변환기",
     "img": "/img/pixel.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "기본",
-    "h2": "이미지를 픽셀 아트로 쉽게 변환할 수 있습니다. 아래에 파일을 업로드하여 시작하세요.",
-    "TITLE": "이미지 대 픽셀 아트 - 픽셀 아트 메이커 - 안전한 이미지 키트",
-    "META": "고품질 이미지 - 픽셀 아트 변환기를 찾고 계십니까?그럼 당신은 바로 이곳에 있습니다.우리의 온라인 픽셀 아트 메이커는 매우 안전하고 사용자 친화적이며 매우 빠릅니다.",
+    "h2": "이미지를 픽셀 아트로 쉽게 변환 할 수 있습니다. 아래에 파일을 업로드하여 시작하십시오.",
+    "TITLE": "이미지 투 픽셀 아트 - 픽셀 아트 메이커 - 안전 이미지 키트",
+    "META": "고품질 이미지-픽셀 아트 변환기를 찾고 계십니까?그럼 당신은 바로 이곳에 있습니다.우리의 온라인 픽셀 아트 메이커는 매우 안전하고 사용자 친화적이며 매우 빠릅니다.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff5975",
@@ -25,116 +25,116 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "데이터 보안",
-            "content": "귀하의 데이터는 당사 서버로 전송되지 않으며 모든 작업은 브라우저 자체에서 수행됩니다.이를 통해 사용자에게 100% 안전할 수 있습니다."
+            "content": "귀하의 데이터는 당사 서버에서 전송되지 않으며 모든 작업은 브라우저 자체에서 수행됩니다.이를 통해 사용자에게 100% 안전할 수 있습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "유연성",
-            "content": " 이미지 대 픽셀 아트 변환 도구는 거의 모든 종류의 브라우저 및 장치에서 작동합니다."
+            "content": " 이미지에서 픽셀 아트로 변환 도구는 거의 모든 종류의 브라우저와 장치에서 작동합니다."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "사용자 친화성",
-            "content": "우리의 이미지를 픽셀 아트로 변환 도구는 이해하기 매우 쉽습니다. 도구를 사용하는 데 전문가가 필요하지 않습니다."
+            "header": "사용자 친화적",
+            "content": "이미지에서 픽셀 아트로 변환 도구는 이해하기 매우 쉽습니다. 도구를 사용하는 데 전문가가 필요하지 않습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "비용 무료",
-            "content": "이미지를 픽셀 아트로 변환하는 도구는 완전히 무료입니다. 한 푼도 지불하지 않고도 모든 도구를 사용할 수 있습니다."
+            "content": "이미지에서 픽셀 아트로 변환 도구는 완전히 무료이며 한 푼도 지불하지 않고도 모든 도구를 사용할 수 있습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "추가 다운로드 없음",
-            "content": "이미지 대 픽셀 아트 변환 도구는 완전히 브라우저 기반이므로 장치에 추가 소프트웨어를 다운로드 할 필요가 없습니다."
+            "content": "이미지를 픽셀 아트로 변환하는 도구는 완전히 브라우저 기반이며 장치에 추가 소프트웨어를 다운로드 할 필요가 없습니다."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "이미지를 픽셀 아트로 변환하는 방법.",
+        "heading": "이미지를 픽셀 아트로 변환하는 방법",
         "steps": [
-            "이미지를 업로드하거나 드롭다운 화살표를 클릭하고 Dropbox/Google 드라이브를 선택합니다.",
+            "이미지를 업로드하거나 드롭다운 화살표를 클릭하고 드롭박스/Google 드라이브를 선택합니다.",
             "아래로 스크롤하여 픽셀 아트를 한 눈에 볼 수 있습니다.",
-            "변경 사항을 저장하려면 “저장”옵션을 누르십시오. ",
+            "“save” 옵션을 눌러 변경 사항을 저장합니다. ",
             "다운로드 옵션을 사용하여 픽셀 아트를 다운로드합니다.",
             "만세!!픽셀 아트를 사용할 준비가 되었습니다."
         ]
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "내 드라이브에 대한 액세스를 허용해도 안전한가요?",
+            "answer": "예, 드라이브에 대한 액세스를 허용하고 허용하는 것은 절대적으로 안전합니다.우리는 귀하의 사이트를 변경하지 않을 것이며 귀하의 파일은 안전하게 보호될 것입니다."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "드라이브/드롭박스에서 파일을 업로드하려면 어떻게 해야 하나요?",
+            "answer": "드롭다운 화살표를 클릭하고 드롭박스/Google 드라이브를 선택합니다.드라이브를 연결할 Google 계정을 선택합니다.이제 업로드할 파일을 선택할 수 있습니다."
         },
         {
-            "question": "What is a PIXEL art and how is it used?",
-            "answer": "Pixel art is a form of digital art, created through the use of software, where images are edited on the pixel level. The aesthetic for this kind of graphics comes from 8-bit and 16-bit computers and video game consoles, in addition to other limited systems such as graphing calculators. In most pixel art, the color palette used is extremely limited in size, with some pixel art using only two colors. Creating or modifying pixel art characters or objects for video games is sometimes called “spriting”."
+            "question": "PIXEL 아트란 무엇이며 어떻게 사용됩니까?",
+            "answer": "픽셀 아트는 소프트웨어를 사용하여 만든 디지털 아트의 한 형태이며 이미지는 픽셀 수준에서 편집됩니다.이러한 종류의 그래픽의 미학은 그래프 계산기와 같은 다른 제한된 시스템 외에도 8 비트 및 16 비트 컴퓨터와 비디오 게임 콘솔에서 비롯됩니다.대부분의 픽셀 아트에서 사용되는 색상 팔레트는 크기가 매우 제한적이며 일부 픽셀 아트는 두 가지 색상만 사용합니다.비디오 게임용 픽셀 아트 캐릭터 또는 오브젝트를 만들거나 수정하는 것을 “스프라이트”라고도 합니다."
         },
         {
-            "question": "What are the features offered by the image to pixel art generator from safeimagekit.com while, converting an image to pixel art?",
-            "answer": "The image to pixel art generator tool from safeimagekit.com offers versatile features while converting an image to pixel art. The main features include- conversion of the image to a pixel art form, downloading the pixel art, etc. Many more features are yet to join the website."
+            "question": "이미지를 픽셀 아트로 변환하는 동안 safeimagekit.com에서 이미지 대 픽셀 아트 생성기에서 제공하는 기능은 무엇입니까?",
+            "answer": "safeimagekit.com의 이미지를 픽셀 아트로 생성 도구는 이미지를 픽셀 아트로 변환하는 동안 다양한 기능을 제공합니다.주요 기능은 다음과 같습니다.- 이미지를 픽셀 아트 형식으로 변환, 픽셀 아트 다운로드 등 더 많은 기능이 아직 웹 사이트에 가입하지 않았습니다."
         },
         {
-            "question": "How do we convert an image to pixel art using the image to pixel art generator from safeimagekit.com?",
-            "answer": "There are 3 basic steps using which the user can easily convert the image to pixel art-\n-\tUpload the image file which needs a conversion in the space given.\n-\tWait until the uploaded image file is converted into a pixel art format.\n-\tDownload the pixel art form using the option called “download”."
+            "question": "safeimagekit.com에서 이미지를 픽셀 아트로 생성기를 사용하여 이미지를 픽셀 아트로 변환하는 방법은 무엇입니까?",
+            "answer": "사용자가 이미지를 픽셀 아트로 쉽게 변환 할 수있는 3 가지 기본 단계가 있습니다.\n- 주어진 공간에 변환이 필요한 이미지 파일을 업로드합니다.\n- 업로드된 이미지 파일이 픽셀 아트 형식으로 변환될 때까지 기다립니다.\n- “다운로드”라는 옵션을 사용하여 픽셀 아트 양식을 다운로드합니다."
         },
         {
-            "question": "Which are the image formats supported by the image to pixel art generator while converting an image to pixel art?",
-            "answer": "The image to pixel art generator from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc.\n"
+            "question": "이미지를 픽셀 아트로 변환하는 동안 이미지를 픽셀 아트로 생성기에서 지원하는 이미지 형식은 무엇입니까?",
+            "answer": "safeimagekit.com의 이미지 대 픽셀 아트 생성기는 모든 주요 인기 이미지 형식을 지원합니다.여기에는 다음이 포함됩니다.\n- Png 형식\n- Jpeg 형식\n- JPG 형식\n- 원시 형식 등\n"
         },
         {
-            "question": "How many image files can we convert at a single stretch using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "Currently, the image to pixel art converter tool from safeimagekit.com can convert the image files one by one. The converter tool from safeimagekit.com does have to go through a staple of codes which makes multiple conversions a bit difficult. But, updates to the website will bring all the exciting features in the future."
+            "question": "safeimagekit.com의 이미지를 픽셀 아트로 변환 도구를 사용하여 한 번에 몇 개의 이미지 파일을 변환 할 수 있습니까?",
+            "answer": "현재 safeimagekit.com의 이미지를 픽셀 아트로 변환 도구는 이미지 파일을 하나씩 변환 할 수 있습니다.safeimagekit.com의 변환기 도구는 여러 변환을 약간 어렵게 만드는 주요 코드를 거쳐야합니다.그러나 웹 사이트 업데이트는 향후 모든 흥미로운 기능을 제공 할 것입니다."
         },
         {
-            "question": "Can I upload and convert my jpeg image file to a pixel art format using the image to pixel art converter?",
-            "answer": "Yes, the user can upload and convert the jpeg image file to a pixel art format using the image to pixel art converter. However, after conversion, the pixel art which is generated will be available in png format only. So, the user can upload any format of an image and can convert his image to pixel art."
+            "question": "이미지-픽셀 아트 변환기를 사용하여 jpeg 이미지 파일을 픽셀 아트 형식으로 업로드하고 변환 할 수 있습니까?",
+            "answer": "예, 사용자는 이미지-픽셀 아트 변환기를 사용하여 jpeg 이미지 파일을 픽셀 아트 형식으로 업로드하고 변환 할 수 있습니다.그러나 변환 후 생성된 픽셀 아트는 png 형식으로만 사용할 수 있습니다.따라서 사용자는 모든 형식의 이미지를 업로드하고 이미지를 픽셀 아트로 변환 할 수 있습니다."
         },
         {
-            "question": "Do we have to use any additional software to download our images after conversion using the image to pixel art converter from safeimagekit.com?",
-            "answer": "No, the users after converting their images to pixel art can hit the download the option which is given below and can download the pixel art. It is a browser-based converter tool that does not support or no additional software is required to download the pixel art forms.\n\n"
+            "question": "safeimagekit.com에서 이미지를 픽셀 아트로 변환기를 사용하여 변환 후 이미지를 다운로드하려면 추가 소프트웨어를 사용해야합니까?",
+            "answer": "아니요, 이미지를 픽셀 아트로 변환 한 후 사용자는 아래에 제공된 옵션을 다운로드하여 픽셀 아트를 다운로드 할 수 있습니다.픽셀 아트 형식을 다운로드하는 데 지원하지 않거나 추가 소프트웨어가 필요하지 않은 브라우저 기반 변환기 도구입니다.\n\n"
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com without having any knowledge about basic C-programming?",
-            "answer": "Yes, our image to pixel art converter tool from safeimagekit.com can be used by everybody. Our image to pixel art generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
+            "question": "기본적인 C 프로그래밍에 대한 지식 없이도 safeimagekit.com의 이미지를 픽셀 아트로 변환 도구를 사용할 수 있습니까?",
+            "answer": "예, safeimagekit.com의 이미지를 픽셀 아트로 변환하는 도구는 누구나 사용할 수 있습니다.우리의 이미지 대 픽셀 아트 생성기는 이해하기 매우 쉽고 도구 작업에 C- 프로그래밍에 대한 전문 지식이 필요하지 않습니다."
         },
         {
-            "question": "Will my uploaded image file corrupt after converting them using the conversion options present in the image to pixel art conversion tool from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "safeimagekit.com의 이미지를 픽셀 아트로 변환 도구에 있는 변환 옵션을 사용하여 업로드한 이미지 파일을 변환한 후 손상됩니까?",
+            "answer": "아니요, safeimagekit.com은 업로드된 이미지 파일이 손상되지 않도록 하는 모든 최신 프로그램과 보안 기능으로 구축되었습니다.따라서 업로드된 이미지 파일은 완전히 안전하고 안전합니다."
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com on my Apple iPhone 12? ",
-            "answer": "Yes, the image to pixel art converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the image file which is uploaded to be converted into pixel art."
+            "question": "애플 아이폰 12에서 safeimagekit.com의 이미지를 픽셀 아트로 변환 도구를 사용할 수 있나요? ",
+            "answer": "예, safeimagekit.com의 이미지를 픽셀 아트로 변환하는 도구는 사용자가 Android, iOS, Windows 및 Mac OS와 같은 운영 체제에서이 변환기 도구를 사용할 수있는 크로스 플랫폼 기반 웹 사이트입니다.사용되는 운영 체제와 독립적이지만 인터넷 연결 및 픽셀 아트로 변환하기 위해 업로드되는 이미지 파일의 크기에만 의존합니다."
         },
         {
-            "question": "Can I use the image to pixel art converter tool from safeimagekit.com on my Windows 8?",
-            "answer": "The image to pixel art converter tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Windows 8에서 safeimagekit.com의 이미지를 픽셀 아트로 변환 도구를 사용할 수 있습니까?",
+            "answer": "이미지 대 픽셀 아트 변환기 도구는 safeimagekit.com에서 제공하는 다양한 기능으로 Windows 8, Linux 및 우분투와 같은 모든 운영 체제에서 지원됩니다.www.safeimagekit.com 웹 사이트를 사용하여 확장 파일을 여는 장치와 정상적인 인터넷 연결 만 있으면됩니다.재미있는 사실은 느린 인터넷 연결에서도 실행될 수 있다는 것입니다."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "The image to pixel art converter tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "safeimagekit.com의 이미지 대 픽셀 아트 변환기 도구를 사용하는 동안 브라우저를 새로 고치면 어떻게 진행됩니까?",
+            "answer": "safeimagekit.com의 이미지 대 픽셀 아트 변환기 도구는 서버에 연결되어 있지 않으므로 사용자가 작업중인 데이터는 어디에도 저장되지 않으므로 사용자가 작업중인 브라우저를 새로 고치면 즉시 지워집니다.변환되는 이미지 파일은 사용자가 웹 사이트의 확장 페이지가 열려 있는 탭을 종료하거나 닫은 후에도 제거됩니다."
         },
         {
-            "question": "Can we edit the text present in the image file using the image to pixel art converter tool from safeimagekit.com?",
-            "answer": "No, currently safeimagekit.com only supports the option to convert the image file uploaded to pixel art, and we cannot edit the text present on the image file. But updates to the website will bring all the exciting features soon."
+            "question": "safeimagekit.com의 이미지를 픽셀 아트로 변환 도구를 사용하여 이미지 파일에있는 텍스트를 편집 할 수 있습니까?",
+            "answer": "아니요. 현재 safeimagekit.com은 업로드된 이미지 파일을 픽셀 아트로 변환하는 옵션만 지원하며 이미지 파일에 있는 텍스트는 편집할 수 없습니다.그러나 웹 사이트를 업데이트하면 곧 모든 흥미로운 기능이 제공 될 것입니다."
         },
         {
-            "question": "Will my file be saved after I complete working on the image to pixel art conversion tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "이미지를 픽셀 아트로 변환 도구 작업을 마친 후에 파일이 저장됩니까? ",
+            "answer": "아니요, 귀하의 파일을 저희 서버로 보내지 않습니다. 모든 작업은 브라우저 자체에서 수행되므로 모든 파일은 완전히 안전합니다. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image to pixel art conversion tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "이미지를 픽셀 아트로 변환 도구를 사용하려면 추가 가입을하거나 추가 비용을 지불해야합니까? ",
+            "answer": "우리의 도구는 완전히 온라인 상태이며 이메일 ID, 암호 등과 같은 개인 정보를 우리와 공유 할 필요가 없습니다."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "문제가 발생하거나 제안을 하고 싶은 경우 어떻게 소통해야 합니까?",
+            "answer": "모든 사용자가 제공하는 문제 나 제안을 기꺼이 받아들입니다. 자세한 내용은 소셜 미디어 핸들을 통해 문의하십시오.SafeImagekit.com은 페이스북, 인스타그램, 유튜브, 링크드인 등과 같은 모든 주요 소셜 미디어 웹사이트에서 사용할 수 있습니다."
         }
     ],
     "jscdns": [

@@ -65,68 +65,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Is het veilig om toegang tot mijn schijf toe te staan?",
+            "answer": "Ja, het is absoluut veilig om ons toegang te geven tot uw schijf. We zullen geen wijzigingen aanbrengen in uw site en uw bestanden zijn veilig bij u."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Hoe kan ik bestanden uploaden vanaf mijn station/dropbox?",
+            "answer": "Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive. Selecteer het Google-account van waar u uw schijf wilt koppelen. Nu kunt u de bestanden selecteren die u wilt uploaden."
         },
         {
-            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
-            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
+            "question": "Wat zijn de functies die worden geboden door de afbeeldingsfunctie van safeimagekit.com wijzigen terwijl de grootte van de afbeeldingen wordt aangepast?",
+            "answer": "Afbeelding wijzigen biedt veelzijdige functies van safeimagekit.com tijdens het formaat van een afbeelding die is geüpload om te bewerken. De belangrijkste kenmerken zijn:\n- De grootte van een afbeelding aanpassen ten opzichte van de breedte.\n- De grootte van een afbeelding aanpassen ten opzichte van de hoogte.\n- Volledige grootte van het formaat van de afbeelding en download deze."
         },
         {
-            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "Hoe kan ik de breedte van de afbeelding aanpassen met de functie Afbeelding wijzigen van safeimagekit.com?",
+            "answer": "De eerste stap van alles is het uploaden van de afbeelding waarvoor een bewerking vereist is. De volgende stap omvat het aanpassen van de belangrijke parameters van de afbeelding, dit omvat het aanpassen van de breedte en de hoogte. De breedte van de afbeelding is toegankelijk door een waarde in te voeren in de ruimte genaamd „enter the width”. De waarde van de breedte kan worden verhoogd door de waarden in te voeren die positief (+) van aard zijn. De waarde van de breedte kan worden verlaagd door de waarden in te voeren die negatief (-) van aard zijn."
         },
         {
-            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "Hoe kan ik de hoogte van de afbeelding aanpassen met de functie Afbeelding wijzigen van safeimagekit.com?",
+            "answer": "De eerste stap van alles is het uploaden van de afbeelding waarvoor een bewerking vereist is. De volgende stap omvat het aanpassen van de belangrijke parameters van de afbeelding, dit omvat het aanpassen van de breedte en de hoogte. De hoogte van de afbeelding is toegankelijk door een waarde in te voeren in de ruimte met de naam „enter the height”. De waarde van de hoogte kan worden verhoogd door de waarden in te voeren die positief (+) van aard zijn. De waarde van de breedte kan worden verlaagd door de waarden in te voeren die negatief (-) van aard zijn."
         },
         {
-            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
-            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
+            "question": "Hoe kan ik het formaat van een afbeelding wijzigen met de functie afbeelding wijzigen van safeimagekit.com?",
+            "answer": "Er zijn 6 stappen waarnaar de gebruiker kan verwijzen bij het wijzigen van het formaat van een afbeeldingsbestand,\nDeze omvatten-\n- Upload het afbeeldingsbestand waarvoor een wijziging nodig is.\n- Pas de hoogte van de afbeelding aan door een waarde in te voeren.\n- Pas de breedte van de afbeelding aan door een waarde in te voeren.\n- Druk op de knop Formaat wijzigen om het formaat wijzigen te activeren.\n- Druk op de knop Opslaan om de aangebrachte wijzigingen op te slaan.\n- Gebruik de downloadoptie om de gewijzigde afbeelding te downloaden."
         },
         {
-            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
-            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
+            "question": "Biedt de optie voor het wijzigen van het formaat van de afbeeldingsfunctie van safeimagekit.com elk type voorbeeld na het wijzigen van het formaat van het geüploade afbeeldingsbestand?",
+            "answer": "Nee, momenteel biedt de functie voor het wijzigen van het formaat van fotosplitter van safeimagekit.com geen enkele vorm van voorbeeld van de secties van de geüploade afbeelding, omdat soms de secties van de geüploade afbeelding overboord gaan en het erg moeilijk wordt voor de browser om de preview van elke sectie van het beeld. Updates van de website in de toekomst zullen echter alle opwindende functies toevoegen."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
-            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Kan ik de functie afbeelding wijzigen van safeimagekit.com gebruiken op mijn Windows 8?",
+            "answer": "De functie Afbeelding wijzigen is een veelzijdige functie die wordt aangeboden door safeimagekit.com die wordt ondersteund door alle besturingssystemen die er zijn, zoals Windows 8, Linux en zelfs Ubuntu. Het enige dat nodig is, is een apparaat om het extensiebestand te openen via de website www.safeimagekit.com en een normale internetverbinding om op te staan. Het leuke feit is dat het zelfs kan draaien op een langzamere internetverbinding."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "Kan ik de functie afbeelding wijzigen van safeimagekit.com op mijn Android-apparaat gebruiken? ",
+            "answer": "Ja, de afbeeldingsfunctie wijzigen van safeimagekit.com is een platformonafhankelijke functie waarmee de gebruiker deze convertertool kan gebruiken vanaf besturingssystemen zoals Android, iOS, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar is alleen afhankelijk van de internetverbinding."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
-            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "Moeten we aanvullende software gebruiken om de gewijzigde afbeeldingen na conversie te downloaden met behulp van de functie Afbeelding wijzigen van safeimagekit.com?",
+            "answer": "Nee, de gebruikers na het wijzigen van hun afbeelding door hun respectieve hoogte en breedte in te voeren, kunnen de onderstaande optie downloaden en kunnen de gewijzigde afbeelding downloaden. Het is een browsergebaseerde convertertool die geen ondersteuning biedt voor of er geen extra software nodig is om de gewijzigde afbeelding te downloaden."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
-            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Wat gebeurt er met onze voortgang als we onze browser vernieuwen terwijl we de afbeeldingstool wijzigen van safeimagekit.com gebruiken?",
+            "answer": "De afbeeldingstool voor het wijzigen van formaat van safeimagekit.com is niet verbonden met een server die er is, dus de gegevens waaraan de gebruiker werkt, worden nergens opgeslagen en als gevolg daarvan worden deze onmiddellijk gewist wanneer de gebruiker de browser vernieuwt waaraan hij werkt. Het afbeeldingsbestand dat wordt geconverteerd, wordt ook verwijderd nadat de gebruiker het tabblad waarop de extensiepagina van de website is geopend heeft of sluit."
         },
         {
-            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "Kunnen we het formaat van de vergrendelde afbeeldingsbestanden wijzigen met behulp van de functie Afbeelding wijzigen van safeimagekit.com?",
+            "answer": "Nee, we kunnen het afbeeldingsbestand niet uploaden dat is vergrendeld omdat de toegang tot dat specifieke afbeeldingsbestand wordt geblokkeerd. Dus om de functie afbeelding wijzigen van safeimagekit.com te gebruiken, moeten we de afbeeldingsbestanden uploaden die niet zijn vergrendeld. Maar de gebruiker kan de wachtwoordzoekerextensie van safeimagekit.com controleren, die exclusief is gemaakt voor het ontgrendelen van zowel afbeeldingen als afbeeldingsbestanden voor het geval de gebruiker zijn wachtwoord voor zijn vergrendelde afbeeldingsbestand verliest."
         },
         {
-            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Worden mijn geüploade afbeeldingsbestanden beschadigd na het formaat van de afbeeldingsbestanden met behulp van de image resizer file functie van safeimagekit.com?",
+            "answer": "Nee, safeimagekit.com is gebouwd met de nieuwste programma's en beveiligingsfuncties waardoor de geüploade afbeeldingsbestanden niet kunnen beschadigen. De geüploade afbeeldingsbestanden zijn dus volledig veilig en beveiligd."
         },
         {
-            "question": "Will my file be saved after I complete working on the image resizer tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met het gereedschap voor het wijzigen van de afbeelding? ",
+            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Moet ik een extra aanmelding doen of extra betalen om de tool voor het wijzigen van afbeeldingen te gebruiken? ",
+            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Hoe communiceer ik als ik problemen heb of als ik suggesties wil geven?",
+            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
         }
     ],
     "jscdns": [

@@ -1,14 +1,14 @@
 {
     "Language": "Tiếng Việt",
     "htmlLangAtt": "vi",
-    "H1": "Thay đổi kích thước hình ảnh",
+    "H1": "Thay đổi kích thước hình ảnh trực tuyến miễn phí ",
     "img": "/img/resize.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "cảnh báo",
-    "H2": "Thay đổi kích thước ảnh đã được thực hiện dễ dàng với chúng tôi, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
+    "H2": "Thay đổi kích thước ảnh đã được chúng tôi thực hiện dễ dàng, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
     "TITLE": "Thay đổi kích thước hình ảnh- online image resize- safeimagekit",
     "META": "Bạn đang tìm kiếm một công cụ chất lượng cao để thay đổi kích thước ảnh? Vâng, sau đó bạn đang ở đúng nơi. Công cụ thay đổi kích thước hình ảnh trực tuyến của chúng tôi cực kỳ an toàn, thân thiện với người dùng và siêu nhanh.",
     "LABEL": "",
@@ -65,68 +65,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Có an toàn để cho phép truy cập vào ổ đĩa của tôi?",
+            "answer": "Có, nó là hoàn toàn an toàn để cho phép và cung cấp cho chúng tôi quyền truy cập vào ổ đĩa của bạn. Chúng tôi sẽ không thực hiện bất kỳ thay đổi nào đối với trang web của bạn và dfiles của bạn sẽ được an toàn với bạn."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Làm cách nào tôi có thể tải lên tệp từ ổ đĩa/dropbox của tôi?",
+            "answer": "Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive. Chọn tài khoản Google từ nơi bạn muốn liên kết ổ đĩa của mình. Bây giờ bạn có thể chọn các tệp mà bạn muốn tải lên."
         },
         {
-            "question": "What are the features offered by resize image feature from safeimagekit.com while, adjusting the size of the images?",
-            "answer": "Resize image offers versatile features from safeimagekit.com while sizing an image uploaded for editing. The main features include-\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them."
+            "question": "Các tính năng được cung cấp bởi thay đổi kích thước tính năng hình ảnh từ safeimagekit.com trong khi, điều chỉnh kích thước của hình ảnh?",
+            "answer": "Thay đổi kích thước hình ảnh cung cấp các tính năng linh hoạt từ safeimagekit.com trong khi định cỡ một hình ảnh được tải lên để chỉnh sửa. Các tính năng chính bao gồm-\n- Điều chỉnh kích thước của một hình ảnh đối với chiều rộng.\n- Điều chỉnh kích thước của một hình ảnh đối với chiều cao.\n- Hoàn thành thay đổi kích thước của hình ảnh và tải chúng."
         },
         {
-            "question": "How can I adjust the width of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The width of the image can be accessed by entering a value on the space called “enter the width”. The value of the width can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "Làm cách nào để điều chỉnh độ rộng của hình ảnh bằng cách sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com?",
+            "answer": "Bước đầu tiên của tất cả, tải lên hình ảnh yêu cầu chỉnh sửa. Bước tiếp theo bao gồm điều chỉnh các thông số quan trọng của hình ảnh, điều này bao gồm điều chỉnh chiều rộng và chiều cao. Chiều rộng của hình ảnh có thể được truy cập bằng cách nhập một giá trị trên không gian gọi là “nhập chiều rộng”. Giá trị của chiều rộng có thể được tăng lên bằng cách nhập các giá trị dương (+) trong tự nhiên. Giá trị của chiều rộng có thể được giảm bằng cách nhập các giá trị âm (-) trong tự nhiên."
         },
         {
-            "question": "How can I adjust the height of the image using the resize image feature from safeimagekit.com?",
-            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width and the height. The height of the image can be accessed by entering a value on the space called “enter the height”. The value of the height can be increased by entering the values which are positive (+) in nature. The value of the width can be decreased by entering the values which are negative (-) in nature."
+            "question": "Làm cách nào để điều chỉnh chiều cao của hình ảnh bằng cách sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com?",
+            "answer": "Bước đầu tiên của tất cả, tải lên hình ảnh yêu cầu chỉnh sửa. Bước tiếp theo bao gồm điều chỉnh các thông số quan trọng của hình ảnh, điều này bao gồm điều chỉnh chiều rộng và chiều cao. Chiều cao của hình ảnh có thể được truy cập bằng cách nhập một giá trị trên không gian gọi là “nhập chiều cao”. Giá trị của chiều cao có thể được tăng lên bằng cách nhập các giá trị dương (+) trong tự nhiên. Giá trị của chiều rộng có thể được giảm bằng cách nhập các giá trị âm (-) trong tự nhiên."
         },
         {
-            "question": "How can I resize an image using the resize image feature from safeimagekit.com?",
-            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tAdjust the height of the image by entering a value.\n-\tAdjust the width of the image by entering a value.\n-\tHit the resize button to activate the resize.\n-\tHit the save button to save the changes made.\n-\tUse the download option to download the modified image."
+            "question": "Làm cách nào tôi có thể thay đổi kích thước hình ảnh bằng cách sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com?",
+            "answer": "Có 6 bước mà người dùng có thể tham khảo trong khi thay đổi kích thước tệp hình ảnh,\nChúng bao gồm-\n- Tải lên các tập tin hình ảnh mà đòi hỏi một sự thay đổi.\n- Điều chỉnh chiều cao của hình ảnh bằng cách nhập một giá trị.\n- Điều chỉnh chiều rộng của hình ảnh bằng cách nhập một giá trị.\n- Nhấn nút thay đổi kích thước để kích hoạt thay đổi kích thước.\n- Nhấn nút lưu để lưu các thay đổi được thực hiện.\n- Sử dụng tùy chọn tải xuống để tải xuống hình ảnh đã sửa đổi."
         },
         {
-            "question": "Does the resize option of resize image feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
-            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image. However, updates to the website in the future will add all the exciting features."
+            "question": "Tùy chọn thay đổi kích thước của tính năng thay đổi kích thước hình ảnh từ safeimagekit.com cung cấp bất kỳ loại xem trước nào sau khi thay đổi kích thước tệp hình ảnh được tải lên không?",
+            "answer": "Không, hiện tại tính năng thay đổi kích thước của bộ chia ảnh từ safeimagekit.com không cung cấp bất kỳ loại xem trước nào của các phần của hình ảnh được tải lên, bởi vì đôi khi các phần của hình ảnh được tải lên quá mức và nó trở nên rất khó khăn cho trình duyệt để xử lý bản xem trước của từng phần của the image hình ảnh. Tuy nhiên, các bản cập nhật cho trang web trong tương lai sẽ thêm tất cả các tính năng thú vị."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Windows 8?",
-            "answer": "Resize image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Tôi có thể sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com trên Windows 8 của tôi không?",
+            "answer": "Thay đổi kích thước tính năng hình ảnh là một tính năng linh hoạt được cung cấp bởi safeimagekit.com được hỗ trợ bởi tất cả các hệ điều hành ngoài kia như Windows 8, Linux, và thậm chí Ubuntu. Tất cả những gì cần là một thiết bị để mở tệp mở rộng bằng cách sử dụng trang web www.safeimagekit.com và kết nối internet bình thường để đứng trên. Thực tế thú vị là nó thậm chí có thể chạy trên kết nối internet chậm hơn."
         },
         {
-            "question": "Can I use the resize image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, resize image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "Tôi có thể sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com trên thiết bị Android của mình không? ",
+            "answer": "Có, thay đổi kích thước tính năng hình ảnh từ safeimagekit.com là một tính năng dựa trên nền tảng, nơi người dùng có thể sử dụng công cụ chuyển đổi này từ các hệ điều hành như Android, iOS, Windows và Mac OS. Nó độc lập với các hệ điều hành được sử dụng nhưng chỉ phụ thuộc vào kết nối internet."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the resize image feature from safeimagekit.com?",
-            "answer": "No, the users after resizing their image by entering their respective height and width, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "Chúng ta có phải sử dụng bất kỳ phần mềm bổ sung nào để tải xuống các hình ảnh đã sửa đổi sau khi chuyển đổi bằng cách sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com không?",
+            "answer": "Không, người dùng sau khi thay đổi kích thước hình ảnh của họ bằng cách nhập chiều cao và chiều rộng tương ứng của họ, có thể nhấn tải xuống tùy chọn được đưa ra dưới đây và có thể tải xuống hình ảnh đã sửa đổi. Nó là một công cụ chuyển đổi dựa trên trình duyệt không hỗ trợ hoặc không cần phần mềm bổ sung để tải xuống hình ảnh đã sửa đổi."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the resize image tool from safeimagekit.com?",
-            "answer": "The resize image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Điều gì sẽ xảy ra với tiến trình của chúng tôi nếu chúng tôi làm mới trình duyệt của mình trong khi chúng tôi đang sử dụng công cụ thay đổi kích thước hình ảnh từ safeimagekit.com?",
+            "answer": "Công cụ thay đổi kích thước hình ảnh từ safeimagekit.com không được kết nối với bất kỳ máy chủ nào ngoài kia, vì vậy dữ liệu mà người dùng đang làm việc sẽ không được lưu trữ ở bất cứ đâu và kết quả là, nó sẽ bị xóa ngay lập tức khi người dùng làm mới trình duyệt mà anh ta đang làm việc. Tệp hình ảnh đang được chuyển đổi cũng sẽ bị xóa sau khi người dùng thoát hoặc đóng tab mà trang mở rộng của trang web đang mở."
         },
         {
-            "question": "Can we resize the image files which are locked, using the resize image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the resize image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "Chúng ta có thể thay đổi kích thước các tệp hình ảnh bị khóa, sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com không?",
+            "answer": "Không, chúng tôi không thể tải lên tệp hình ảnh bị khóa vì quyền truy cập vào tệp hình ảnh cụ thể đó bị chặn. Vì vậy, để sử dụng tính năng thay đổi kích thước hình ảnh từ safeimagekit.com, chúng ta cần tải lên các tệp hình ảnh không bị khóa. Nhưng người dùng có thể kiểm tra phần mở rộng tìm kiếm mật khẩu từ safeimagekit.com được tạo riêng để mở khóa hình ảnh cũng như các tệp hình ảnh trong trường hợp người dùng mất mật khẩu cho tệp hình ảnh bị khóa của mình."
         },
         {
-            "question": "Will my uploaded image files corrupt after resizing the image files using the image resizer file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Các tập tin hình ảnh tải lên của tôi sẽ bị hỏng sau khi thay đổi kích thước các tập tin hình ảnh bằng cách sử dụng tính năng tập tin resizer hình ảnh từ safeimagekit.com?",
+            "answer": "Không, safeimagekit.com được xây dựng với tất cả các chương trình mới nhất và tính năng bảo mật mà không cho phép các tập tin hình ảnh tải lên bị hỏng. Vì vậy, các tệp hình ảnh được tải lên hoàn toàn an toàn và được bảo mật."
         },
         {
-            "question": "Will my file be saved after I complete working on the image resizer tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Tập tin của tôi sẽ được lưu sau khi tôi hoàn tất làm việc trên công cụ thay đổi hình ảnh? ",
+            "answer": "Không, chúng tôi không gửi bất kỳ tệp nào của bạn đến máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt do đó tất cả các tệp của bạn hoàn toàn an toàn. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image resizer tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Tôi có phải đăng ký bổ sung hoặc trả thêm tiền để sử dụng công cụ thay đổi hình ảnh không? ",
+            "answer": "Hoàn toàn không, công cụ của chúng tôi là hoàn toàn trực tuyến và không yêu cầu bạn chia sẻ bất kỳ thông tin cá nhân của bạn với chúng tôi, như id email, mật khẩu vv Công cụ của chúng tôi là hoàn toàn miễn phí."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Làm cách nào để giao tiếp nếu tôi gặp bất kỳ vấn đề nào hoặc nếu tôi muốn đưa ra bất kỳ đề xuất nào?",
+            "answer": "Chúng tôi sẵn sàng đưa vào bất kỳ vấn đề hoặc đề xuất được cung cấp bởi tất cả người dùng, vui lòng liên hệ với chúng tôi thông qua xử lý phương tiện truyền thông xã hội của chúng tôi để biết thêm thông tin Safeimagekit.com có sẵn trên tất cả các trang web truyền thông xã hội hàng đầu như Facebook, Instagram, YouTube và LinkedIn, v.v."
         }
     ],
     "jscdns": [
@@ -135,7 +135,7 @@
         "<script defer src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
     ],
     "csscdns": [
-        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"/css/resize.css\" />"
+        "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"css/resize.css\" />"
     ]
 }

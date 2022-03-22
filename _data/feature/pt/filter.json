@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "É seguro permitir o acesso à minha unidade?",
+            "answer": "Sim, é absolutamente seguro permitir e nos dar acesso à sua unidade. Não faremos nenhuma alteração em seu site e seus arquivos estarão seguros com você."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Como posso fazer upload de arquivos do meu drive/caixa de depósito?",
+            "answer": "Clique na seta suspensa e selecione Dropbox/Google Drive. Selecione a conta do Google de onde você deseja vincular sua unidade. Agora você pode selecionar os arquivos que deseja carregar."
         },
         {
-            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
-            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
+            "question": "Quais são os recursos oferecidos pelos filtros de fotos do safeimagekit.com, ao adicionar um filtro a uma imagem?",
+            "answer": "O recurso de filtro de fotos do safeimagekit.com fornece o melhor dos filtros disponíveis. Esses filtros alteram a aparência geral da imagem carregada. Os filtros disponíveis são- Prewitt Horizontal- Vermelho, Verde, Tons de Cinza, Inverter, Passa-alto, Laplaciano, Prewitt Vertical, Robert, Saturação, Sépia, Nitidez, Sobel Horizontal, Sobel Vertical, Limiar, Espelho. O recurso de aplicação que está na parte inferior salva as alterações feitas e permite que o usuário baixe o arquivo de imagem."
         },
         {
-            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
-            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
+            "question": "Qual é o processo de adicionar filtros a um arquivo de imagem no recurso de filtro de fotos do safeimagekit.com?",
+            "answer": "Existem 4 etapas básicas para adicionar filtros a um arquivo de imagem no recurso de arquivadores de fotos do safeimagekit.com. Esses recursos incluem\n- Carregue o arquivo de imagem necessário no espaço fornecido.\n- Escolha o filtro apropriado entre a variedade de opções fornecidas.\n- Selecione o filtro e clique em aplicar para aplicar esse filtro a essa imagem.\n- Clique em salvar para salvar as alterações feitas e baixar a imagem modificada."
         },
         {
-            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
-            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
+            "question": "Quais são os formatos de imagem suportados pelo recurso de filtro de fotos do safeimagekit.com?",
+            "answer": "Atualmente, o recurso de filtro de fotos do safeimagekit.com suporta todos os formatos de imagens disponíveis. No entanto, o usuário pode obter a melhor vantagem se as imagens estiverem no seguinte formato-\n- Png\n- Jpeg\n- Jpg\n- Cru \n- Eps, etc.\n"
         },
         {
-            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Como aplicamos o filtro laplaciano usando o filtro de fotos de safeimagekit.com à foto enviada?",
+            "answer": "Primeiro, carregue a imagem que requer uma alteração no espaço de upload fornecido. Em seguida, selecione o filtro de imagem laplaciano a partir da variedade de opções fornecidas na caixa de ferramentas de filtros. Em seguida, clique no botão Aplicar para obter uma visualização da foto após a adição do filtro. Clique em “salvar” para salvar as alterações feitas na imagem carregada. Por fim, clique na opção de download para baixar a imagem nova e aprimorada."
         },
         {
-            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
-            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
+            "question": "Obtemos uma visualização para verificar a imagem depois de adicionar um filtro enquanto usamos o recurso de filtro de fotos do safeimagekit.com?",
+            "answer": "Sim, o recurso de filtro de fotos do safeimagekit.com fornece uma opção de visualização para verificar a perspectiva da imagem que está sendo editada. Para acessar o recurso de visualização, o usuário precisa fazer upload de uma imagem e adicionar um filtro a essa imagem a partir da variedade de filtros fornecidos. Em seguida, aperte o botão Aplicar para aplicar esse filtro nessa imagem. Em seguida, obtemos uma visualização da imagem que foi modificada com um novo filtro."
         },
         {
-            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Como aplicamos o filtro Mirror usando o filtro de foto de safeimagekit.com à foto enviada?",
+            "answer": "Um filtro de espelho é um filtro exclusivo que fornece ao usuário uma cópia espelhada exata da imagem. Primeiro, carregue a imagem que requer uma alteração no espaço de upload fornecido. Em seguida, selecione o filtro de imagem espelhada entre as várias opções fornecidas na caixa de ferramentas de filtros. Em seguida, clique no botão Aplicar para obter uma visualização da foto após a adição do filtro. Clique em “salvar” para salvar as alterações feitas na imagem carregada. Por fim, clique na opção de download para baixar a imagem nova e aprimorada."
         },
         {
-            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
-            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
+            "question": "Podemos adicionar ou remover texto ao adicionar um filtro ao arquivo de imagem usando o recurso de adicionar filtro do safeimagekit.com?",
+            "answer": "Não, não podemos adicionar ou remover texto ao adicionar um filtro ao arquivo de imagem carregado usando o recurso de adicionar filtro de safeimagekit.com, os recursos de edição de texto, como a inserção de texto e os recursos de remoção de texto, não estão incluídos no momento. O recurso de filtro de fotos suporta apenas conversão, mas não edição. No entanto, as atualizações do site trarão todos os recursos interessantes, até mesmo os recursos de edição de texto, para o site."
         },
         {
-            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
-            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
+            "question": "Qual é o tempo gasto pelo recurso de filtro de fotos do safeimagekit.com para adicionar um filtro a um arquivo de imagem?",
+            "answer": "O tempo é o fator excitante presente aqui; o tempo gasto pelo recurso de filtro de fotos do safeimagekit.com depende inteiramente do arquivo de imagem carregado. Se o tamanho da imagem carregada for maior, o tempo necessário para processar a conversão do arquivo de imagem é um pouco maior do que o tempo necessário para converter um arquivo de imagem normal e vice-versa. A conexão com a Internet também desempenha um papel na velocidade de conversão (funciona até mesmo em uma conexão mais lenta)."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
-            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "O que acontecerá com nosso progresso se atualizarmos nosso navegador enquanto estivermos usando o recurso de filtro de fotos do safeimagekit.com?",
+            "answer": "O recurso de filtro de fotos do safeimagekit.com não está conectado a nenhum servidor lá fora, portanto, os dados nos quais o usuário está trabalhando não serão armazenados em nenhum lugar e, como resultado, serão apagados instantaneamente quando o usuário atualizar o navegador em que está trabalhando. Os arquivos de imagem trabalhados também serão removidos depois que o usuário sair ou fechar a guia na qual a página de extensão do site está aberta."
         },
         {
-            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
-            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Posso usar o recurso de filtro de fotos do safeimagekit.com no meu sistema operacional Ubuntu?",
+            "answer": "Os filtros de fotos são um recurso versátil oferecido pelo safeimagekit.com que é suportado por todos os sistemas operacionais existentes, como Windows 8, Linux e até Ubuntu. Basta um dispositivo para abrir o arquivo de extensão usando o site www.safeimagekit.com e uma conexão normal à Internet para ficar em pé. O fato engraçado é que ele pode até ser executado em uma conexão de internet mais lenta."
         },
         {
-            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
-            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
+            "question": "Como aplicamos o filtro sépia usando o filtro de foto de safeimagekit.com à foto enviada?",
+            "answer": "Primeiro, carregue a imagem que requer uma alteração no espaço de upload fornecido. Em seguida, selecione o filtro de imagem sépia entre as várias opções fornecidas na caixa de ferramentas de filtros. Em seguida, clique no botão Aplicar para obter uma visualização da foto após a adição do filtro. Clique em “salvar” para salvar as alterações feitas na imagem carregada. Por fim, clique na opção de download para baixar a imagem nova e aprimorada."
         },
         {
-            "question": "Will my file be saved after I complete working on the photo filter tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Meu arquivo será salvo depois que eu concluir o trabalho na ferramenta de filtro de fotos? ",
+            "answer": "Não, não enviamos nenhum dos seus arquivos para nossos servidores, todas as operações são feitas no próprio navegador, portanto, todos os seus arquivos estão completamente seguros. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Preciso fazer alguma inscrição adicional ou pagar mais para usar a ferramenta de filtro de fotos? ",
+            "answer": "Absolutamente não, nossa ferramenta é totalmente online e não exige que você compartilhe nenhuma de suas informações pessoais conosco, como id de e-mail, senhas, etc Nossa ferramenta é totalmente gratuita."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Como posso me comunicar se estou enfrentando algum problema ou se quero dar alguma sugestão?",
+            "answer": "Temos o prazer de aceitar qualquer problema ou sugestão oferecida por todos os usuários, entre em contato conosco através de nossos identificadores de mídia social para obter mais informações. O SafeImageKit.com está disponível em todos os principais sites de mídia social, como Facebook, Instagram, YouTube e LinkedIn, etc."
         }
     ],
     "jscdns": [

@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Is it safe to allow access to my drive?",
-            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+            "question": "Sürücüme erişime izin vermek güvenli midir?",
+            "answer": "Evet, sürücünüze erişim sağlamak ve bize izin vermek kesinlikle güvenlidir. Sitenizde herhangi bir değişiklik yapmayacağız ve dfiles sizinle güvende olacaktır."
         },
         {
-            "question": "How can I upload files from my drive/dropbox?",
-            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+            "question": "Sürücü/dropbox dosyalarımdan nasıl yükleyebilirim?",
+            "answer": "Açılır oku tıklayın ve Dropbox/Google Drive'ı seçin. Sürücünüzü bağlamak istediğiniz yerden Google hesabını seçin. Artık yüklemek istediğiniz dosyaları seçebilirsiniz."
         },
         {
-            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
-            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
+            "question": "İki görüntüyü karşılaştırırken safeimagekit.com'dan görüntü karşılaştırma özelliği tarafından sunulan özellikler nelerdir?",
+            "answer": "Safeimagekit.com'un görüntü karşılaştırma özelliği, iki özelliği karşılaştırırken çok yönlü özellikler sunar. Ana özellikleri şunlardır \n- Kaydırıcı temelinde iki görüntünün karşılaştırılması\n- Piksellere dayalı iki görüntünün karşılaştırılması.\n- Bilgiye dayalı iki resim karşılaştırılması.\n- Solma etkisine dayanan iki görüntünün karşılaştırılması.\nBahsedilen bu karşılaştırma yöntemleri doğada temel niteliktedir ve karşılaştırmalarının sonucu doğrudan ekranda gösterilir."
         },
         {
-            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
+            "question": "İki görüntüyü safeimagekit.com'dan görüntü karşılaştırma özelliğinin kaydırıcı karşılaştırmasına dayanarak nasıl karşılaştırabiliriz?",
+            "answer": "İlk adım, karşılaştırma ihtiyacı olan görüntülerin yüklenmesini içerir. Bir sonraki adım “kaydırıcı” adlı pime tıklamaktır, bu kaydırıcı tabanlı karşılaştırmayı etkinleştirir. Karşılaştırmalarının sonucu doğrudan ekranda gösterilir."
         },
         {
-            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
+            "question": "İki görüntüyü safeimagekit.com adresindeki görüntü karşılaştırma özelliğinin piksel karşılaştırma yöntemine göre nasıl karşılaştırabiliriz?",
+            "answer": "İlk adım, karşılaştırma ihtiyacı olan görüntülerin yüklenmesini içerir. Bir sonraki adım “piksel” adlı pime tıklamaktır, bu piksel tabanlı karşılaştırmayı etkinleştirir. İlk görüntünün pikselleri ikinci resimde gösterilir, Karşılaştırmalarının sonucu doğrudan ekranda gösterilir, burada ilk görüntünün piksellerini ikincisinin üzerinde karşılaştırırız"
         },
         {
-            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
+            "question": "Safeimagekit.com adresindeki görüntü karşılaştırma özelliğinin solma efekti yöntemine dayanarak iki görüntüyü nasıl karşılaştırabiliriz?",
+            "answer": "İlk adım, karşılaştırma ihtiyacı olan görüntülerin yüklenmesini içerir. Bir sonraki adım “fade” adlı pime tıklayarak bu solma efekti tabanlı karşılaştırmayı etkinleştirir. İlk görüntünün soluk yapısı ikinci görüntüde gösterilir, Karşılaştırmalarının sonucu doğrudan ekranda gösterilir, burada ikinci resmin üzerinde ilk görüntünün doğasını karşılaştırıyoruz."
         },
         {
-            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
-            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
+            "question": "Safeimagekit.com'daki görüntü karşılaştırma özelliğini kullanarak yüklenen görüntülerin bilgi istatistiklerine göre iki görüntüyü nasıl karşılaştırabiliriz?",
+            "answer": "İlk adım, karşılaştırma ihtiyacı olan görüntülerin yüklenmesini içerir. Bir sonraki adım “info” adlı pime tıklayarak bu bilgi tabanlı karşılaştırmayı etkinleştirir. İlk görüntünün bilgileri ikinci resmin yanında gösterilir, Onların karşılaştırma sonucu doğrudan ekranda gösterilir, burada biz görüntünün istatistiklerini karşılaştırarak ikinci görüntü üzerinde ilk görüntünün doğasını karşılaştırarak karşılaştırmak."
         },
         {
-            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
-            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
+            "question": "Görüntü karşılaştırma özelliğinin bilgi tabanlı karşılaştırması safeimagekit.com'dan nasıl çalışır?",
+            "answer": "Safeimagekit.com'dan görüntü karşılaştırma özelliğinin bilgi tabanlı karşılaştırması, yüklenen görüntülerin özelliklerini karşılaştırarak çalışır. Bu özellikler, görüntünün adını, görüntünün boyutunu, görüntünün türünü, görüntünün yüksekliğini, görüntünün genişliğini içerir. Kullanıcı bu özellikleri izleyerek görüntüleri karşılaştırabilir."
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
-            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+            "question": "Benim Windows 8 nihai üzerinde safeimagekit.com gelen karşılaştırma görüntü özelliğini kullanabilir miyim?",
+            "answer": "Karşılaştır görüntü özelliği, Windows 8, Linux ve hatta Ubuntu gibi tüm işletim sistemleri tarafından desteklenen safeimagekit.com tarafından sunulan çok yönlü bir özelliktir. Tek gereken, www.safeimagekit.com web sitesini ve üzerinde durmak için normal bir internet bağlantısını kullanarak uzantı dosyasını açmak için bir cihazdır. Eğlenceli gerçek şu ki, daha yavaş bir internet bağlantısında bile çalışabilir."
         },
         {
-            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
-            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+            "question": "Android cihazımda safeimagekit.com'daki görüntü karşılaştırma özelliğini kullanabilir miyim? ",
+            "answer": "Evet, safeimagekit.com gelen görüntü özelliği karşılaştırmak kullanıcı Android, iOS, Windows ve Mac OS gibi işletim sistemlerinden bu dönüştürücü aracı kullanabilirsiniz çapraz platform tabanlı bir özelliktir. Kullanılan işletim sistemlerinden bağımsızdır ancak sadece internet bağlantısına bağlıdır."
         },
         {
-            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
-            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
+            "question": "Biz safeimagekit.com gelen görüntü karşılaştırma özelliğini kullanarak dönüştürme sonrası değiştirilmiş görüntüleri indirmek için herhangi bir ek yazılım kullanmak zorunda mı?",
+            "answer": "Hayır, kullanıcılar kendi görüntülerini girerek görüntülerini karşılaştırdıktan sonra, sonuçta, bu özellik indirmek için bir seçenek sunmaz. Karşılaştırmalarının sonucu doğrudan ekranda gösterilir, böylece görüntüler doğrudan karşılaştırılır. Desteklemeyen tarayıcı tabanlı bir dönüştürücü aracıdır veya değiştirilen görüntüyü indirmek için ek bir yazılım gerekmez."
         },
         {
-            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
-            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+            "question": "Safeimagekit.com adresindeki karşılaştırma görüntüsü aracını kullanırken tarayıcımızı yenilersek ilerlememize ne olacak?",
+            "answer": "Safeimagekit.com'daki karşılaştırma görüntüsü aracı orada herhangi bir sunucuya bağlı değildir, bu nedenle kullanıcının üzerinde çalıştığı veriler hiçbir yerde saklanmayacaktır ve sonuç olarak, kullanıcı üzerinde çalıştığı tarayıcıyı yenilediğinde anında silinir. Kullanıcı, web sitesinin uzantı sayfasının açık olduğu sekmeden çıktıktan veya kapattıktan sonra karşılaştırılan görüntü dosyaları da kaldırılacaktır."
         },
         {
-            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
-            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+            "question": "Biz safeimagekit.com gelen görüntü karşılaştırma özelliğini kullanarak, kilitli görüntü dosyalarını karşılaştırabilir miyim?",
+            "answer": "Hayır, belirli bir görüntü dosyasına erişim engellendiği için kilitli olan görüntü dosyasını yükleyemeyiz. Bu nedenle, safeimagekit.com gelen görüntü karşılaştırma özelliğini kullanmak için kilitli olmayan görüntü dosyalarını yüklememiz gerekir. Ancak kullanıcı, kullanıcının kilitli görüntü dosyası için şifresini kaybetmesi durumunda görüntü dosyalarının yanı sıra görüntü dosyalarının kilidini açmak için özel olarak yapılan safeimagekit.com adresinden şifre bulucu uzantısını kontrol edebilir."
         },
         {
-            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
-            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+            "question": "Yüklenen görüntü dosyalarım, görüntü dosyalarını safeimagekit.com'dan karşılaştırma görüntü dosyası özelliğini kullanarak karşılaştırdıktan sonra bozulur mu?",
+            "answer": "Hayır, safeimagekit.com yüklenen görüntü dosyalarının bozulmasına izin vermeyen en son programlar ve güvenlik özellikleri ile inşa edilmiştir. Bu nedenle, yüklenen görüntü dosyaları tamamen güvenli ve güvenlidir."
         },
         {
-            "question": "Will my file be saved after I complete working on the image comparison tool? ",
-            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+            "question": "Görüntü karşılaştırma aracı üzerinde çalışmayı tamamladıktan sonra dosyalarım kaydedilecek mi? ",
+            "answer": "Hayır, dosyalarınızdan herhangi birini sunucularımıza göndermiyoruz, tüm işlemler tarayıcının kendisinde yapılır, bu nedenle tüm dosyalarınız tamamen güvenlidir. "
         },
         {
-            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
-            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+            "question": "Görüntü karşılaştırma aracını kullanmak için ek kayıt yaptırmam veya ekstra ödeme yapmam gerekiyor mu? ",
+            "answer": "Kesinlikle değil, aracımız tamamen çevrimiçi ve e-posta kimliği, şifreler vb gibi kişisel bilgilerinizi bizimle paylaşmanızı gerektirmez. Aracımız tamamen ücretsizdir."
         },
         {
-            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
-            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+            "question": "Herhangi bir sorunla karşılaşırsam veya herhangi bir öneride bulunmak istersem nasıl iletişim kurabilirim?",
+            "answer": "Tüm kullanıcılar tarafından sunulan herhangi bir sorun veya öneriyi memnuniyetle alıyoruz, lütfen daha fazla bilgi için sosyal medya kollarımız aracılığıyla bizimle iletişime geçin. Safeimagekit.com Facebook, Instagram, YouTube ve LinkedIn gibi tüm önde gelen sosyal medya web sitelerinde kullanılabilir."
         }
     ],
     "jscdns": [
