@@ -94,7 +94,7 @@
         {
             "name": "イメージリサイザー",
             "description": "イメージのサイズを変更",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/ja/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "イメージリサイザー",
             "description": "イメージのサイズを X ～ Y インチ/ピクセルに変更",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/ja/image-resizers-all"
         },

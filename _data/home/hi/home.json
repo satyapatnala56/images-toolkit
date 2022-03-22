@@ -94,7 +94,7 @@
         {
             "name": "इमेज रिसाइज़र",
             "description": "आकार की छवि बदलता है",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/hi/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "छवि रीसाइज़र",
             "description": "छवि का आकार X से Y इंच/पिक्सेल में बदल जाता है",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/hi/image-resizers-all"
         },

@@ -138,13 +138,16 @@
             "answer": "모든 사용자가 제공하는 문제 나 제안을 기꺼이 받아들입니다. 자세한 내용은 소셜 미디어 핸들을 통해 문의하십시오.SafeImagekit.com은 페이스북, 인스타그램, 유튜브, 링크드인 등과 같은 모든 주요 소셜 미디어 웹사이트에서 사용할 수 있습니다."
         }
     ],
-    "jscdns": [
-        "<script src=\"/assets/js/googledrive.js\"></script>",
-        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js\" integrity=\"sha512-XSIn6Z+o82v4Aumv+iHmw9/oEotMU4LRi7lSd4AESpfdekKVO4zt0hUZ+2iB8cRlvpQRWqeLXdCHQxTOL00zNw==\" crossorigin=\"anonymous\"></script>",
-        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/split.js\"></script>"
+    "jsfilepaths": [
+        "/assets/js/googledrive.js",
+        "/js/jszip.min.js",
+        "/js/FileSaver.min.js",
+        "/js/cropper.min.js",
+        "/js/split.js"
     ],
     "csscdns": [
         "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"/css/split.css\" />"
+        "<link rel=\"stylesheet\" href=\"/css/split.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/cropper.min.css\" />"
     ]
 }

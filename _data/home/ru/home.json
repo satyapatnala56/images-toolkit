@@ -94,7 +94,7 @@
         {
             "name": "Изменение размера изображения",
             "description": "Изменяет размер изображения",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/ru/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Ресайзеры изображений",
             "description": "Изменение размера изображения в X до Y дюймов/пикселей",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/ru/image-resizers-all"
         },

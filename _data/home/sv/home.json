@@ -94,7 +94,7 @@
         {
             "name": "Bildstorlek",
             "description": "Ändrar storlek bild",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/sv/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Bildstorlek",
             "description": "Bildens storlek till X till Y tum/pixlar",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/sv/image-resizers-all"
         },

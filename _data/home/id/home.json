@@ -94,7 +94,7 @@
         {
             "name": "Resizer gambar",
             "description": "Perubahan ukuran gambar",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/id/image-resize"
         },
@@ -234,7 +234,7 @@
         {
             "name": "Resizer gambar",
             "description": "Ubah ukuran gambar menjadi X ke Y inci/piksel",
-            "color": "#ffbb33",
+            "color": "#0566D1",
             "icon": "/img/home/resize.png",
             "url": "/id/image-resizers-all"
         },
