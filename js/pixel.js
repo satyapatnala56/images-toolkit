@@ -1,7 +1,4 @@
-const getScript = document.currentScript
 const getDetail = document.querySelector('#get-detail')
-const pageTool = getScript.dataset.tool
-const lang = getScript.dataset.lang
 const gdrive = document.querySelector('#filepicker')
 const inputBox = document.querySelector('#Inputbox')
 const fileDropBox = document.querySelector('.custom-box')
@@ -284,11 +281,6 @@ showDropDown.addEventListener('click', () => {
 })
 const handleDownload = () => {
   px.saveImage()
-  if (lang === 'en') {
-    window.location.href = `/download?tool=${pageTool}`
-  } else {
-    window.location.href = `/${lang}/download?tool=${pageTool}`
-  }
 }
 maxheight.addEventListener('change', pixelitimg)
 maxwidth.addEventListener('change', pixelitimg)
