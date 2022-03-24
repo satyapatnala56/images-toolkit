@@ -1,7 +1,7 @@
 {
     "Language": "Nederlands",
     "htmlLangAtt": "nl",
-    "H1": "Gratis foto online splitsen met geavanceerde tool",
+    "H1": "Fotosplitter",
     "img": "/img/split.png",
     "imgwidth": "35px",
     "imgheight": "35px",
@@ -11,15 +11,15 @@
     "data": {
         "total": 0,
         "_id": "608fd832b3e10a0009083f84",
-        "website": "veilige imagekit",
+        "website": "safeimagekit",
         "feature": "spleet",
         "ratings": [],
-        "created": "2021-05-03 T 11:02:10 .680Z",
+        "created": "2021-05-03T 11:02:10 .680Z",
         "__v": 0
     },
-    "H2": "Het online splitsen van afbeeldingen is door ons gemakkelijk gemaakt, begin met het uploaden van uw bestand hieronder",
-    "TITLE": "Fotosplitter- gesplitste foto- safeimagekit",
-    "META": "Bent u op zoek naar een hoogwaardige fotosplitter? Nou, dan ben je hier aan het juiste adres. Onze online tool voor gesplitste foto's is uiterst veilig, gebruiksvriendelijk en supersnel.",
+    "H2": "Het online splitsen van afbeeldingen is bij ons gemakkelijk gemaakt, begin met het uploaden van uw bestand hieronder",
+    "TITLE": "Fotosplitter- split foto- safeimagekit",
+    "META": "Bent u op zoek naar een fotosplitter van hoge kwaliteit? Nou, dan ben je hier aan het juiste adres. Onze online tool voor splitfoto's is uiterst veilig, gebruiksvriendelijk en supersnel.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff6666",
@@ -28,25 +28,25 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "Hoge kwaliteit",
-            "content": "Onze fotosplitter tool splitst de afbeeldingen door de kwaliteit te behouden."
+            "content": "Onze tool voor het splitsen van foto's splitst de afbeeldingen door de kwaliteit te behouden."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Gegevensbeveiliging",
+            "header": "Beveiliging van gegevens",
             "content": "Geen van uw gegevens wordt op onze servers verzonden, alle bewerkingen worden uitgevoerd in de browser zelf. Dit stelt ons in staat om 100% veilig te zijn voor onze gebruikers"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Flexibiliteit",
-            "content": " Onze fotosplittertool werkt op bijna alle soorten browsers en apparaten."
+            "content": " Onze tool voor het splitsen van foto's werkt op bijna alle soorten browsers en apparaten."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Gebruiksvriendelijk",
-            "content": "Onze fotosplittertool is heel gemakkelijk te begrijpen dat er geen professional nodig is om aan onze tool te werken."
+            "content": "Onze fotosplittertool is heel gemakkelijk te begrijpen, er is geen professional nodig om aan onze tool te werken."
         },
         {
             "priority": 1,
@@ -58,84 +58,84 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Geen extra download",
-            "content": "Onze fotosplittertool is volledig browsergebaseerd en er hoeft geen extra software op uw apparaat te worden gedownload."
+            "content": "Onze tool voor het splitsen van foto's is volledig browsergebaseerd en er is geen extra software nodig om op uw apparaat te worden gedownload."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Hoe ons beeld te splitsen.",
+        "heading": "Hoe onze afbeelding te splitsen.",
         "steps": [
-            "Upload de afbeelding of klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive om het bestand te selecteren dat moet worden gesplitst.",
+            "Upload de afbeelding of klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive om uw bestand te selecteren dat een splitsing nodig heeft.",
             "Pas de vereiste parameters aan voor het splitsen van afbeeldingen.",
             "Druk op de knop „Splitsen” om een splitsing te starten.",
-            "Druk op „alles opslaan” om de aangebrachte wijzigingen op te slaan",
+            "Klik op „alles opslaan” om de aangebrachte wijzigingen op te slaan",
             "Hoera!! de afbeelding is klaar voor gebruik."
         ]
     },
     "FAQ": [
         {
-            "question": "Is het veilig om toegang tot mijn schijf toe te staan?",
-            "answer": "Ja, het is absoluut veilig om ons toegang te geven tot uw schijf. We zullen geen wijzigingen aanbrengen in uw site en uw bestanden zijn veilig bij u."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Hoe kan ik bestanden uploaden vanaf mijn station/dropbox?",
-            "answer": "Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive. Selecteer het Google-account van waar u uw schijf wilt koppelen. Nu kunt u de bestanden selecteren die u wilt uploaden."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Wat zijn de functies die de fotosplitter van safeimagekit.com biedt bij het splitsen van een foto of een afbeelding?",
-            "answer": "De fotosplitter van safeimagekit.com biedt veelzijdige functies bij het splitsen van een foto of een afbeelding. De belangrijkste kenmerken zijn onder meer\n- de scheidingsopties van de geüploade afbeelding in de mate van rijen en kolommen.\n- De delen van de verdeelde afbeeldingsbestanden kunnen afzonderlijk worden gedownload na het splitsen van de afbeelding op basis van de behoefte van de gebruiker. Deze bestanden worden aangeboden in png-indeling.\n- De delen van de verdeelde afbeeldingsbestanden kunnen ook worden gedownload in het .zip-formaat dat minder ruimte in beslag neemt dan de andere afbeeldingsbestandsindelingen."
+            "question": "What are the features offered by the photo splitter from safeimagekit.com while splitting a photo or an image?",
+            "answer": "The photo splitter from safeimagekit.com offers versatile features while splitting a photo or an image. The main features include\n- the separation options of the uploaded image in the degree of rows and columns.\n- The divided image file parts can be downloaded separately after splitting the image based on the need of the user. These files are offered in png format.\n- The divided image file parts can also be downloaded in the .zip format which consumes less space than the other image file formats."
         },
         {
-            "question": "Hoeveel delen kunnen we het geüploade afbeeldingsbestand in rijen verdelen, terwijl we het afbeeldingsbestand splitsen met behulp van de afbeeldingssplitter van safeimagekit.com?",
-            "answer": "Het maximale aantal divisies dat de gebruiker kan maken in termen van rijen tijdens het splitsen van het afbeeldingsbestand met behulp van de afbeeldingssplitter van safeimagekit.com is 1000 met nauwkeurige verdelingen. Momenteel ondergaat de fotosplitter een update die de huidige limiet naar voren kan duwen. Rijverdelingen zijn horizontale verdelingen, die tijdens het splitsen over de afbeelding worden gemaakt."
+            "question": "How many parts can we divide the uploaded image file in terms of rows, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of rows while splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Row divisions are horizontal divisions, which are made across the image while splitting."
         },
         {
-            "question": "Hoeveel delen kunnen we het geüploade afbeeldingsbestand verdelen in termen van kolommen, terwijl we het afbeeldingsbestand splitsen met behulp van de afbeeldingssplitter van safeimagekit.com?",
-            "answer": "Het maximale aantal divisies dat de gebruiker kan maken in termen van kolommen terwijl het splitsen van het afbeeldingsbestand met behulp van de afbeeldingssplitter van safeimagekit.com 1000 is met nauwkeurige divisies. Momenteel ondergaat de fotosplitter een update die de huidige limiet naar voren kan duwen. Kolomverdelingen zijn verticale verdelingen, die tijdens het splitsen over de afbeelding worden gemaakt."
+            "question": "How many parts can we divide the uploaded image file in terms of columns, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of columns while, splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Columns divisions are vertical divisions, which are made across the image while splitting."
         },
         {
-            "question": "Hoeveel afbeeldingsonderdelen krijg ik als ik 20 in de ruimte van rijen en 50 in de ruimte van kolommen voer terwijl ik een afbeelding splits met behulp van de afbeeldingsplitser van safeimagekit.com?",
-            "answer": "De beeldsplitserfunctie van safeimagekit.com is uitgerust met basiswiskundige codes die de mogelijkheid hebben om eenvoudige berekeningen uit te voeren. Dus wanneer we 20 invoeren in de ruimte van rijen en 50 in de ruimte van kolommen, voert de pagina basiswiskunde uit en wordt het aantal rijen vermenigvuldigd met het aantal kolommen, zodat we hun product krijgen als divisies van de afbeelding. Dus 50* 20 = 1000 beelddivisies (delen) van de geüploade afbeelding. Deze afbeeldingsdelen kunnen afzonderlijk per stuk worden gedownload in de vorm van een png-bestand of kunnen worden gedownload als een zip-bestand."
+            "question": "How many image parts do I get if I enter 20 in the space of rows and 50 in the space of columns while splitting an image using the image splitter from safeimagekit.com?",
+            "answer": "The image splitter feature from safeimagekit.com is fitted with basic math codes which have the ability to perform simple calculations. So, when we enter 20 in the space of rows and 50 in the space of columns the page performs basic math and the number of rows is multiplied by the number of columns such that we get their product as divisions of the image. So, 50*20=1000 image divisions(parts) of the uploaded image. These image parts can be downloaded in the form of png file separately by part or can be downloaded as a zip file."
         },
         {
-            "question": "Kunnen we het gesplitste deel van de afbeelding downloaden in de vorm van een jpeg, na het splitsen van de geüploade afbeelding met behulp van de fotosplitter van safeimagekit.com?",
-            "answer": "Nee, de splitsingsoptie van fotosplitter van safeimagekit.com biedt het downloaden van de afbeeldingssectie alleen in de vorm van png. Momenteel splitst de beeldsplitter de afbeelding dienovereenkomstig en produceert de delen van de afbeelding in png-formaat en een zip-bestand. Jpeg, jpg en andere beeldformaten zijn bestemd om in de komende toekomst te worden opgenomen."
+            "question": "Can we download the split part of the image in the form of a jpeg, after splitting the uploaded image using the photo splitter from safeimagekit.com?",
+            "answer": "No, the splitting option of photo splitter from safeimagekit.com offers the download of the image section in the form of png only. Currently, the image splitter splits the image accordingly and produces the parts of the image in png format as well as a zip file. Jpeg, jpg, and other image formats are destined to be included in the coming future."
         },
         {
-            "question": "Kunnen we de secties van het afbeeldingsbestand in het algemeen downloaden in plaats van één voor één met behulp van de split-functie van fotosplitter van safeimagekit.com?",
-            "answer": "Ja, met de split-functie van fotosplitter van safeimagekit.com kan de gebruiker alle secties van de afbeelding in één stuk downloaden in plaats van ze één voor één te downloaden. Er is een optie genaamd „opslaan als zip-bestand” onderaan de pagina nadat ze zijn opgesplitst. Nadat u die optie hebt geraakt, worden alle secties van de afbeelding gedownload in een enkel zip-bestand en kan de gebruiker het vereiste gedeelte uit het zip-bestand scheiden en extraheren wanneer dat nodig is."
+            "question": "Can we download the sections of the image file overall, instead of one by one using the split feature of photo splitter from safeimagekit.com?",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com lets the user download all the sections of the image in a single stretch instead of downloading them one by one. There is an option called “save as zip file” at the bottom of the page after splitting them. After hitting that option, all the sections of the image downloads into a single zip file and the user can separate and extract the required section from the zip file whenever it is needed."
         },
         {
-            "question": "Biedt de split-functie van de fotosplitter van safeimagekit.com de mogelijkheid om een enkel gedeelte van het geüploade afbeeldingsbestand te downloaden? ",
-            "answer": "Ja, de split-functie van fotosplitter van safeimagekit.com biedt de mogelijkheid om een enkel gedeelte van het geüploade afbeeldingsbestand te downloaden. Druk gewoon op het gedeelte van de afbeelding dat nodig is en het downloadt die specifieke sectie alleen in het png-afbeeldingsformaat."
+            "question": "Does the split feature of the photo splitter from safeimagekit.com provide the option to download a single section of the image file uploaded? ",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com does provide the option to download a single section of the image file uploaded. Just hit the section of the image which is required and it downloads that particular section only in the png image format."
         },
         {
-            "question": "Biedt de split-functie van fotosplitter van safeimagekit.com elk type voorbeeld na het splitsen van het geüploade afbeeldingsbestand?",
-            "answer": "Nee, momenteel biedt de split-functie van fotosplitter van safeimagekit.com geen enkele vorm van voorbeeld van de secties van de geüploade afbeelding, omdat soms de secties van de geüploade afbeelding overboord gaan en het erg moeilijk wordt voor de browser om de preview van elke sectie van de beeld."
+            "question": "Does the split feature of photo splitter from safeimagekit.com provide any type of preview after splitting the uploaded image file?",
+            "answer": "No, currently the split feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image."
         },
         {
-            "question": "Hoe splitsen we het afbeeldingsbestand met behulp van de split-functie van safeimagekit.com?",
-            "answer": "Er zijn 6 basisstappen waarnaar de gebruiker kan verwijzen tijdens het splitsen van een afbeeldingsbestand-\n- Upload het te splitsen afbeeldingsbestand\n- Voer het aantal rijen en kolommen in dat nodig is \n- Hit split\n- GIEK!! De secties van het geüploade afbeeldingsbestand worden hieronder weergegeven\n- Download het vereiste gedeelte door er apart op te klikken, of download ze allemaal samen met de optie „ALLES DOWNLOADEN”.\n- Als de te downloaden ruimte meer is, kunt u de optie „opslaan als zip-bestand” gebruiken die alle secties in één zipbestand downloadt."
+            "question": "How do we split the image file using the split feature from safeimagekit.com?",
+            "answer": "There are 6 basic steps that the user can refer to while splitting an image file-\n-\tUpload the image file to be split\n-\tEnter the number of rows and columns required \n-\tHit split\n-\tBOOM!! The sections of the uploaded image file are presented below\n-\tDownload the required section by clicking it separately, or download them all together using the “DOWNLOAD ALL” option.\n-\tIf the space to be downloaded is more, feel free to use the “save as zip file” option which downloads all the sections in a single zip file."
         },
         {
-            "question": "Kan ik de fotosplitserfunctie van safeimagekit.com gebruiken op mijn Windows 8?",
-            "answer": "Fotosplitter is een veelzijdige functie die wordt aangeboden door safeimagekit.com die wordt ondersteund door alle besturingssystemen die er zijn, zoals Windows 8, Linux en zelfs Ubuntu. Het enige dat nodig is, is een apparaat om het extensiebestand te openen via de website www.safeimagekit.com en een normale internetverbinding om op te staan. Het leuke feit is dat het zelfs kan draaien op een langzamere internetverbinding."
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Windows 8?",
+            "answer": "Photo splitter is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Kan ik de fotosplitserfunctie van safeimagekit.com op mijn Android-apparaat gebruiken? ",
-            "answer": "Ja, de fotosplitserfunctie van safeimagekit.com is een platformonafhankelijke functie waarbij de gebruiker deze convertertool kan gebruiken vanaf besturingssystemen zoals Android, iOS, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar is alleen afhankelijk van de internetverbinding."
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the photo splitter feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met het gereedschap voor fotosplitter? ",
-            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
+            "question": "Will my file be saved after I complete working on the photo splitter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Moet ik een extra aanmelding doen of extra betalen om de fotosplitsertool te gebruiken? ",
-            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
+            "question": "Do I have to do any additional signup or pay extra to use the photo splitter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Hoe communiceer ik als ik problemen heb of als ik suggesties wil geven?",
-            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jsfilepaths": [

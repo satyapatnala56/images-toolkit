@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Är det säkert att tillåta åtkomst till min enhet?",
-            "answer": "Ja, det är helt säkert att tillåta och ge oss tillgång till din enhet. Vi kommer inte att göra några ändringar på din webbplats och dina dfiles kommer att vara säkra hos dig."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Hur laddar jag upp filer från min enhet/Dropbox?",
-            "answer": "Klicka på rullgardinspilen och välj Dropbox/Google Drive. Välj det Google-konto där du vill länka enheten. Nu kan du välja de filer som du vill ladda upp."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Vilka funktioner erbjuds av funktionen ”JPEG-kompressor” från safeimagekit.com medan du komprimerar en bild med jpeg-format?",
-            "answer": "JPEG-kompressorfunktionen från safeimagekit.com erbjuder mångsidiga funktioner samtidigt som du komprimerar en jpeg-fil. Huvuddragen är\nÄndra uppladdad jpeg genom att justera bildens dimensioner som höjd, bredd, etc. Den här jpeg-komprimeringsfunktionen visar också komprimeringen genom att skriva in storlek som kan utökas till max eller min beroende på jpeg-filen som laddas upp. Den här funktionen ger också ett strikt läge och orienteringsläge för korrekt justering och rotationsjustering. Jpeg-kompressorn ger också möjlighet att justera bildkvaliteten och låter användaren konvertera bildformatet till användarens fördel.\n"
+            "question": "What are the features offered by the “JPEG compressor” feature from safeimagekit.com while compressing an image with jpeg format?",
+            "answer": "JPEG compressor feature from safeimagekit.com offers versatile features while compressing a jpeg file. The main features include\nModifying the uploaded jpeg by adjusting the dimensions of the image such as height, width, etc. This jpeg compression feature also presents the compression by entering size which can be extended to max or min depending on the jpeg file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The jpeg compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
         },
         {
-            "question": "Vilka parametrar tillhandahålls av jpeg-kompressorfunktionen från safeimagekit.com, efter att vi laddat upp en jpeg-fil?",
-            "answer": "Komprimeringsfunktionen från safeimagekit.com ger olika parametrar efter att vi laddar upp en bild med jpeg-format, dessa parametrar inkluderar namnet på bilden, bildens storlek, typ av bild etc. parametern är den senast ändrade, varvid den ger oss tid, datum och tidszon där den var senast ändrad. Detta ger oss också en förloppsindikator efter uppladdning och innan du börjar redigera den uppladdade bildfilen."
+            "question": "What are the parameters provided by the jpeg compressor feature from safeimagekit.com, after we upload a jpeg file?",
+            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with jpeg format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, wherein it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
         },
         {
-            "question": "Vilka är de jpeg-justeringsfunktioner som tillhandahålls av safeimagekit.com när du komprimerar en jpeg?",
-            "answer": "JPEG-komprimeringsfunktionen från safeimagekit.com innehåller många funktioner när du komprimerar en bild. Det låter användaren justera dimensionerna för jpeg genom att justera måtten som bredd och höjd. Maxhöjden och maxbredden ger användaren den maximala gränsen för fotokomprimering. Medan min-bredd och min-höjd ger användaren en minsta gräns för fotokomprimering. Alternativet konvertera storlek låter användaren komprimera på det hela taget."
+            "question": "What are the jpeg adjusting features provided by safeimagekit.com while compressing a jpeg?",
+            "answer": "The jpeg compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the jpeg by adjusting the measurements such as width and height. The max-height and the max-width provide the user with the maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
         },
         {
-            "question": "Hur fungerar kvalitetsjusteringsalternativet för jpeg-kompressorfunktionen från safeimagekit.com?",
-            "answer": "Kvalitetsjusteringsalternativet för jpeg-kompressorfunktionen från safeimagekit.com är en viktig funktion som låter användaren bestämma den övergripande kvaliteten på jpeg. Den här funktionen kan nås från ”Ange kvaliteten” -utrymmet efter uppladdning av bilden. Detta justerar skärpa, kontrast, oskärpa (på små mängder) och många andra bildparametrar på det hela taget. Användaren kan bestämma mätningen från 0,1 till 1 skala. Om han inte vill ha någon ändring av bildens kvalitet kan det här alternativet hoppas över."
+            "question": "How does the quality adjustment option of the jpeg compressor feature from safeimagekit.com work?",
+            "answer": "The quality adjustment option of the jpeg compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the jpeg. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
         },
         {
-            "question": "Hur fungerar alternativet ”Mime-typ” för kompressorfunktionen från safeimagekit.com?",
-            "answer": "Med alternativet ”Mime type” för kompressorfunktionen från safeimagekit.com kan användaren välja bildformat efter att ha komprimerat den med hjälp av kompressorverktyget från safeimagekit.com. För närvarande finns det 5 typer av bildformat som är tillgängliga för användaren. Användaren kan ändra bildens format baserat på hans/hennes krav. Dessa format inkluderar webp, png, jpg, jpeg och gif format. Om användaren vill behålla formatet oförändrat kan användaren välja alternativet ”Ange MIME-typen”. Alternativet ”Mime type” kan nås längst ner på sidan efter att du laddat upp bilden och spara ändringarna."
+            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
+            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently, there are 5 types of image formats that are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
         },
         {
-            "question": "Kan jag använda funktionen komprimera jpeg från safeimagekit.com på mitt Linux-operativsystem?",
-            "answer": "Ja, komprimering jpeg-funktionen från safeimagekit.com kan användas på vilket operativsystem som helst, även LINUX. Den är byggd med den senaste koden och funktioner som gör det möjligt för användaren att komprimera vilken bild som helst uppladdad av användaren på alla operativsystem som MAC OS, Windows och Ubuntu, förutsatt att det finns en enhet med en stabil internetanslutning. Det magiska tricket är att det även fungerar på en långsammare internetanslutning."
+            "question": "Can I use the compress jpeg feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the compress jpeg feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
         },
         {
-            "question": "Kan vi redigera texten som finns i jpeg-filen med hjälp av komprimering jpeg-funktionen från safeimagekit.com?",
-            "answer": "Nej, för närvarande erbjuder komprimerings-jpeg-funktionen från safeimagekit.com bara funktionerna, vilket gör det möjligt för användaren att komprimera jpeg, konvertera bildformatet från jpeg-format till andra etc. textredigeringsfunktioner är inte tillgängligt på safeimagekit.com. Men uppdateringar av webbplatsen kommer snart att ge alla spännande funktioner."
+            "question": "Can we edit the text present in the jpeg file using the compress jpeg feature from safeimagekit.com?",
+            "answer": "No, currently the compress jpeg feature from safeimagekit.com only offers the features, which enables the user to compress the jpeg, converting the format of the image from jpeg format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
         },
         {
-            "question": "Kan vi redigera eller komprimera 4k- och 8k-bilder med jpeg-kompressorn från safeimagekit.com?",
-            "answer": "Nej, för närvarande erbjuder kompressorfunktionen från safeimagekit.com endast bildredigeringsfunktioner upp till 1080p som bäst. Däremot finns alternativ för komprimering och redigering av bilder i safeimagekit.com, men 8k bildbehandling är inte tillgänglig och kommer att inkluderas i den kommande framtiden som en uppdatering av webbplatsen."
+            "question": "Can we edit or compress 4k and 8k images using the jpeg compressor from safeimagekit.com?",
+            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
         },
         {
-            "question": "Hur många jpeg-filer kan vi redigera i en enda sträcka med hjälp av jpeg-kompressorfunktionen från safeimagekit.com?",
-            "answer": "För närvarande kan kompressorfunktionen från safeimagekit.com redigera och komprimera en enda jpeg-fil, eftersom detta verktyg kräver anständiga parametrar under redigering, flera jpeg-filer redigering funktion ingår inte för närvarande, men uppdateringar av webbplatsen kommer att göra detta möjligt i framtiden. "
+            "question": "How many jpeg files can we edit at a single stretch using the jpeg compressor feature from safeimagekit.com?",
+            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single jpeg file, as this tool demands decent parameters while editing, multiple jpeg files editing feature is not included currently, but updates to the website will make this possible in the future. "
         },
         {
-            "question": "Kan jag använda jpeg-kompressorfunktionen från safeimagekit.com på min Apple iPhone 11? ",
-            "answer": "Ja, jpeg-kompressorfunktionen från safeimagekit.com är en plattformsoberoende funktion där användaren kan använda detta konverteringsverktyg från operativsystem som Android, iOS, Windows och Mac OS. Det är oberoende av vilka operativsystem som används men beror bara på internetanslutningen och storleken på jpeg-filerna som laddas upp för att komprimeras till andra."
+            "question": "Can I use the jpeg compressor feature from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, the jpeg compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the jpeg files which are uploaded to be compressed into others."
         },
         {
-            "question": "Kommer mina uppladdade bildfiler att korrupta efter att ha komprimerat dem med de utsökta alternativen som finns i komprimerings-jpeg-funktionen från safeimagekit.com?",
-            "answer": "Nej, komprimeringsfunktionen från safeimagekit.com är byggd med alla de senaste programmen och säkerhetsfunktionerna som inte tillåter att de uppladdade jpeg-filerna korrumperas. Så, de uppladdade jpeg-filerna är helt säkra och säkrade. Safeimagekit.com är också en serverfri webbplats på grund av vilken inga jpeg-filer lagras här och raderas från minnet så snart webbsidan är stängd."
+            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress jpeg feature from safeimagekit.com?",
+            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded jpeg files to corrupt. So, the uploaded jpeg files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no jpeg files are stored here, and are wiped from the memory as soon as the webpage is closed."
         },
         {
-            "question": "Kommer min fil att sparas när jag har arbetat färdigt med JPEG-komprimeringsverktyget? ",
-            "answer": "Nej, vi skickar inte några av dina filer till våra servrar alla operationer görs i webbläsaren själv därför alla dina filer är helt säkra. "
+            "question": "Will my file be saved after I complete working on the  JPEG compresssion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Måste jag göra ytterligare registrering eller betala extra för att använda JPEG-kompresssionsverktyget? ",
-            "answer": "Absolut inte, vårt verktyg är helt online och kräver inte att du delar någon av dina personuppgifter med oss, som e-post-id, lösenord etc. Vårt verktyg är helt gratis."
+            "question": "Do I have to do any additional signup or pay extra to use the JPEG compresssion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Hur kommunicerar jag om jag står inför några problem eller om jag vill ge några förslag?",
-            "answer": "Vi tar gärna in några problem eller förslag som erbjuds av alla användare, vänligen kontakta oss via våra sociala medier handtag för mer information. SafeImageKit.com är tillgängligt på alla ledande sociala medier som Facebook, Instagram, YouTube och LinkedIn, etc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

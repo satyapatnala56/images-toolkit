@@ -1,23 +1,23 @@
 {
     "Language": "ภาษาไทย",
     "htmlLangAtt": "th",
-    "h1": "ปรับขนาดภาพสำหรับเครื่องมือปรับขนาดภาพที่ดีที่สุดที่ไม่ลงรอยกัน",
-    "img": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+    "h1": "ปรับขนาดภาพสำหรับ instagram",
+    "img": "/img/imageResizer-assets/iconsForLanding/email.svg",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "เตือน",
-    "h2": "อัปโหลดและปรับขนาดรูปภาพของคุณเพื่อความไม่ลงรอยกันได้ในคลิกเดียว",
-    "TITLE": "ปรับขนาดภาพสำหรับ Discord | เครื่องมือปรับขนาดภาพออนไลน์ ",
-    "META": "กำลังมองหาตัวปรับขนาดภาพฟรีและออนไลน์สำหรับ Discord?เยี่ยมชมเว็บไซต์ของเราและปรับขนาดภาพสำหรับ Discord ในไม่กี่วินาที",
+    "h2": "อัปโหลดรูปภาพของคุณที่นี่และปรับขนาดเดี๋ยวนี้",
+    "TITLE": "ปรับขนาดรูปภาพสำหรับอีเมล | เครื่องมือปรับขนาดรูปภาพออนไลน์ ",
+    "META": "กำลังมองหาตัวปรับขนาดภาพฟรีและออนไลน์สำหรับ Email?เยี่ยมชมเว็บไซต์ของเราและปรับขนาดรูปภาพสำหรับอีเมลในไม่กี่วินาที",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
     "megaMenu": {
         "nav-link-name": "Tools",
         "dropdown": [
-            {
+             {
                 "categoryName": "โซเชียลมีเดีย",
                 "links": [
                     {
@@ -149,56 +149,56 @@
     },
     "FAQ": [
         {
-            "question": "อะไรคือคุณสมบัติที่นำเสนอโดยเครื่องมือ resizer ภาพที่ไม่ลงรอยกันจาก safeimagekit.com ในขณะที่ปรับขนาดของภาพ?",
-            "answer": "Discord resizer ภาพจาก safeimagekit.com มีคุณสมบัติที่หลากหลายในขณะที่ปรับขนาดภาพที่อัปโหลดสำหรับการแก้ไขคุณสมบัติหลัก ได้แก่\n- การสร้างหลายรุ่นของภาพในประเภทที่แตกต่างกัน\n- แก้ไขแต่ละคุณภาพของภาพแยกกัน\n- การปรับขนาดของภาพที่เกี่ยวกับความกว้าง\n- การปรับขนาดของภาพด้วยความสูง\n- ปรับขนาดภาพให้สมบูรณ์และดาวน์โหลดได้\n- แก้ไขภาพและดาวน์โหลดภาพที่เลือกหรือทุกหมวดหมู่ภาพ"
+            "question": "What are the features offered by the E-mail image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "E-mail image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories.\n"
         },
         {
-            "question": "อะไรคือหมวดหมู่ภาพที่แตกต่างกันที่มีอยู่ในตัวปรับขนาดภาพที่ไม่ลงรอยกันที่นำเสนอโดย SafeImageKit.com?",
-            "answer": "Discord resizer ภาพมีตัวเลือกการแก้ไขภาพในหลายส่วนที่ผู้ใช้สามารถอัปโหลด/ภาพของเขาในแอป/เว็บไซต์ Discord, หมวดหมู่เหล่านี้รวมถึง-\n- ความขัดแย้ง Sizer ภาพรายละเอียด.\n- Sizer ไอคอนเซิร์ฟเวอร์ไม่ลงรอยกัน.\n- อีโมจิไม่ลงรอยกัน\n- ความขัดแย้ง Sizer พื้นหลังแบนเนอร์เซิร์ฟเวอร์\n- เซิร์ฟเวอร์ไม่ลงรอยกันเชิญ Sizer ภาพสาด."
+            "question": "What are the different image categories available in the E-mail image resizer offered by Safeimagekit.com?",
+            "answer": "The E-mail image resizer offers image editing options in multiple sections where a user can upload his/her image in the Facebook app/website, these categories include-\n-\tE-mail blog image\n-\tE-mail blog featured\n-\tE-mail header image."
         },
         {
-            "question": "ฉันจะปรับความกว้างของภาพโดยใช้ฟีเจอร์ discord image resizer จาก safeimagekit.com ได้อย่างไร?",
-            "answer": "ขั้นตอนแรกของทั้งหมด, อัปโหลดภาพที่ต้องแก้ไข.ขั้นตอนต่อไปรวมถึงการปรับพารามิเตอร์ที่สำคัญของภาพซึ่งรวมถึงการปรับความกว้างตอนนี้ในการเข้าถึงตัวเลือกนี้คุณจะต้องเลือกหมวดหมู่จากทุกรุ่นและกดปุ่มแก้ไขตัวเลือกที่จะเริ่มต้นการแก้ไขแล้วจะมีป๊อปอัพนั้นคุณสามารถลากและปรับความกว้างของภาพตัวเลือกโบนัสคือการที่เราสามารถซูมเข้าและออก, เพื่อควบคุมเนื้อหาที่จำเป็นของภาพเพียงแค่เลื่อนเข้าและออก."
+            "question": "How can I adjust the width of the image using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "ฉันจะปรับความสูงของภาพโดยใช้ฟีเจอร์ Discord Image resizer จาก safeimagekit.com ได้อย่างไร?",
-            "answer": "ขั้นตอนแรกของทั้งหมด, อัปโหลดภาพที่ต้องแก้ไข.ขั้นตอนต่อไปรวมถึงการปรับพารามิเตอร์ที่สำคัญของภาพซึ่งรวมถึงการปรับความสูงตอนนี้ในการเข้าถึงตัวเลือกนี้คุณจะต้องเลือกหมวดหมู่จากทุกรุ่นและกดปุ่มแก้ไขตัวเลือกที่จะเริ่มต้นการแก้ไขแล้วจะมีป๊อปอัพนั้นคุณสามารถลากและปรับความสูงของภาพตัวเลือกโบนัสคือการที่เราสามารถซูมเข้าและออก, เพื่อควบคุมเนื้อหาที่จำเป็นของภาพเพียงแค่เลื่อนเข้าและออก."
+            "question": "How can I adjust the height of the image using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "ฉันจะปรับขนาดรูปภาพโดยใช้ฟีเจอร์ discord Image resizer จาก safeimagekit.com ได้อย่างไร",
-            "answer": "มี 6 ขั้นตอนที่ผู้ใช้สามารถอ้างถึงในขณะที่การปรับขนาดไฟล์ภาพเป็น\nพวกนี้รวมถึง\n- อัพโหลดไฟล์ภาพที่ต้องมีการเปลี่ยนแปลง\n- เลือกหมวดหมู่ที่ต้องการของภาพจากตัวเลือกที่มีให้\n- กดแก้ไขเพื่อเริ่มต้นการปรับภาพโดยความสูงและความกว้างของมัน\n- หากคุณชอบหมวดหมู่ภาพหลายประเภท เพียงแค่เลือกภาพโดยคลิกที่ช่องที่มุมขวาบนของภาพแต่ละรุ่น\n- กดปุ่ม “ดาวน์โหลดที่เลือก” เพื่อดาวน์โหลดเฉพาะ/หลายเวอร์ชัน\n- กด “ดาวน์โหลดทั้งหมด” เพื่อดาวน์โหลดทุกรุ่นภาพออกมี"
+            "question": "How can I resize an image using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there."
         },
         {
-            "question": "ไม่ตัวเลือกการปรับขนาดของคุณลักษณะ resizer ภาพที่ไม่ลงรอยกันจาก safeimagekit.com ให้ประเภทของการแสดงตัวอย่างใด ๆ หลังจากปรับขนาดไฟล์ภาพที่อัปโหลดหรือไม่",
-            "answer": "ไม่มีในขณะนี้คุณลักษณะการปรับขนาดของตัวแยกภาพจาก safeimagekit.com ไม่ได้ให้ชนิดของการแสดงตัวอย่างของส่วนของภาพที่อัปโหลดใด ๆ เพราะบางครั้งส่วนของภาพที่อัปโหลดไปลงน้ำและจะกลายเป็นเรื่องยากมากสำหรับเบราว์เซอร์ที่จะจัดการการแสดงตัวอย่างของแต่ละและทุกส่วนของภาพ แต่ภาพสามารถดูได้หลังจากการแก้ไขเสร็จสิ้นและสามารถดาวน์โหลดได้แม้ว่าการปรับปรุงเว็บไซต์ในอนาคตจะเพิ่มคุณสมบัติที่น่าตื่นเต้นทั้งหมด"
+            "question": "Does the resize option of the E-mail image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
         },
         {
-            "question": "ฉันสามารถใช้ฟีเจอร์ตัวปรับขนาดภาพที่ไม่ลงรอยกันจาก safeimagekit.com บน Windows 8 ของฉันได้หรือไม่",
-            "answer": "คุณสมบัติ resizer ภาพไม่ลงรอยกันเป็นคุณลักษณะที่หลากหลายที่นำเสนอโดย safeimagekit.com ซึ่งได้รับการสนับสนุนจากทุกระบบปฏิบัติการออกมีเช่น Windows 8, Linux และแม้กระทั่งอูบุนตูทั้งหมดที่ใช้เป็นอุปกรณ์ที่จะเปิดไฟล์นามสกุลโดยใช้เว็บไซต์ www.safeimagekit.com และการเชื่อมต่ออินเทอร์เน็ตปกติที่จะยืนบนความจริงที่สนุกก็คือว่ามันยังสามารถทำงานบนการเชื่อมต่ออินเทอร์เน็ตช้าลง."
+            "question": "Can I use the E-mail image resizer feature from safeimagekit.com on my Windows 8?",
+            "answer": "The E-mail image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "ฉันสามารถใช้ฟีเจอร์ Discord Image resizer จาก safeimagekit.com บนอุปกรณ์ Android ของฉันได้หรือไม่ ",
-            "answer": "ใช่ ฟีเจอร์ discord Image resizer จาก safeimagekit.com เป็นคุณลักษณะที่ใช้ข้ามแพลตฟอร์มที่ผู้ใช้สามารถใช้เครื่องมือแปลงนี้จากระบบปฏิบัติการเช่น Android, iOS, Windows และ Mac OSมันเป็นอิสระจากระบบปฏิบัติการที่ใช้ แต่ขึ้นอยู่กับการเชื่อมต่ออินเทอร์เน็ต"
+            "question": "Can I use the E-mail image resizer feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the E-mail image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "เราจำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติมใด ๆ ในการดาวน์โหลดภาพที่ถูกแก้ไขภายหลังการแปลงโดยใช้ฟีเจอร์ discord image resizer จาก safeimagekit.com หรือไม่?",
-            "answer": "ไม่มีผู้ใช้หลังจากปรับขนาดภาพของพวกเขาโดยการปรับเปลี่ยนพารามิเตอร์ภาพของตนสามารถกดดาวน์โหลดตัวเลือกที่จะได้รับด้านล่างและสามารถดาวน์โหลดภาพที่มีการแก้ไขมันเป็นเครื่องมือแปลงเบราว์เซอร์ที่ไม่สนับสนุนหรือไม่จำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติมในการดาวน์โหลดภาพที่มีการแก้ไข"
+            "question": "Do we have to use any additional software to download the modified images after conversion using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image."
         },
         {
-            "question": "จะเกิดอะไรขึ้นกับความคืบหน้าของเราหากเรารีเฟรชเบราว์เซอร์ของเราในขณะที่เรากำลังใช้เครื่องมือ resizer ภาพที่ไม่ลงรอยกันจาก safeimagekit.com?",
-            "answer": "เครื่องมือ resizer ภาพที่ไม่ลงรอยกันจาก safeimagekit.com ไม่ได้เชื่อมต่อกับเซิร์ฟเวอร์ใด ๆ ออกมีดังนั้นข้อมูลที่ผู้ใช้กำลังทำงานอยู่จะไม่ถูกเก็บไว้ที่ใดก็ได้และเป็นผลให้มันจะถูกลบทันทีเมื่อผู้ใช้รีเฟรชเบราว์เซอร์ที่เขากำลังทำงานอยู่ไฟล์รูปภาพที่กำลังถูกแปลงจะถูกลบออกหลังจากที่ผู้ใช้ออกหรือปิดแท็บที่หน้าส่วนขยายของเว็บไซต์เปิดอยู่"
+            "question": "What will happen to our progress if we refresh our browser while we are using the E-mail image resizer tool from safeimagekit.com?",
+            "answer": "The E-mail image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "เราสามารถปรับขนาดไฟล์รูปภาพที่ถูกล็อคโดยใช้คุณสมบัติ resizer ภาพที่ไม่ลงรอยกันจาก safeimagekit.com?",
-            "answer": "ไม่ได้ เราไม่สามารถอัพโหลดไฟล์รูปภาพที่ถูกล็อคได้ เนื่องจากการเข้าถึงไฟล์รูปภาพนั้นถูกบล็อกดังนั้นการใช้คุณลักษณะการปรับขนาดภาพไม่ลงรอยกันจาก safeimagekit.com เราจำเป็นต้องอัปโหลดไฟล์ภาพที่ไม่ได้ล็อคแต่ผู้ใช้สามารถตรวจสอบส่วนขยายค้นหารหัสผ่านจาก safeimagekit.com ซึ่งจะทำเฉพาะสำหรับการปลดล็อคภาพเช่นเดียวกับไฟล์ภาพในกรณีที่ผู้ใช้สูญเสียรหัสผ่านของเขาสำหรับไฟล์ภาพล็อคของเขา"
+            "question": "Can we resize the image files which are locked, using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the E-mail image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "ไฟล์รูปภาพที่อัพโหลดของฉันจะเสียหายหลังจากปรับขนาดไฟล์รูปภาพโดยใช้ฟีเจอร์ discord image resizer จาก safeimagekit.com หรือไม่?",
-            "answer": "ไม่มี safeimagekit.com ถูกสร้างขึ้นด้วยโปรแกรมล่าสุดและคุณลักษณะความปลอดภัยซึ่งไม่อนุญาตให้ไฟล์ภาพที่อัปโหลดเสียหายดังนั้นไฟล์ภาพที่อัปโหลดมีความปลอดภัยและปลอดภัยอย่างสมบูรณ์"
+            "question": "Will my uploaded image files corrupt after resizing the image files using The E-mail image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "ฉันจะติดต่อสื่อสารได้อย่างไรหากฉันประสบปัญหาใด ๆ หรือฉันต้องการให้คำแนะนำใด ๆ",
-            "answer": "เรายินดีที่จะใช้ในปัญหาใด ๆ หรือข้อเสนอแนะที่นำเสนอโดยผู้ใช้ทั้งหมด, โปรดติดต่อเราผ่านการจัดการสื่อสังคมของเราสำหรับข้อมูลเพิ่มเติม.SafeImageKit.com สามารถใช้ได้ในทุกเว็บไซต์สื่อสังคมชั้นนำเช่น Facebook, Instagram, YouTube, และ LinkedIn ฯลฯ"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

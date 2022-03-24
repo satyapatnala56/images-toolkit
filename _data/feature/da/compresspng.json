@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Er det sikkert at give adgang til mit drev?",
-            "answer": "Ja, det er helt sikkert at tillade og give os adgang til dit drev. Vi vil ikke foretage nogen ændringer på dit websted, og dine dfiles vil være sikre med dig."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Hvordan kan jeg uploade filer fra mit drev/dropbox?",
-            "answer": "Klik på rullemenuen og vælg Dropbox/Google Drev. Vælg den Google-konto, hvorfra du vil linke dit drev. Nu kan du vælge de filer, du vil uploade."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Hvad er de funktioner, der tilbydes af funktionen „PNG compressor“ fra safeimagekit.com, mens du komprimerer et billede med png format?",
-            "answer": "PNG kompressor funktion fra safeimagekit.com tilbyder alsidige funktioner samtidig komprimere en png-fil. De vigtigste funktioner omfatter\nÆndring af uploadede png-fil ved at justere dimensionerne af billedet såsom højde, bredde osv Denne png kompression funktion præsenterer også kompression ved at indtaste størrelse, som kan udvides til max eller min afhængigt af png-fil uploadet. Denne funktion giver også en streng tilstand og orienteringstilstand for nøjagtig og rotation justering. Png-kompressoren giver også mulighed for at justere billedets kvalitet og lader også brugeren konvertere formatet af billedet til brugerens fordel.\n"
+            "question": "What are the features offered by the “PNG compressor” feature from safeimagekit.com while compressing an image with png format?",
+            "answer": "PNG compressor feature from safeimagekit.com offers versatile features while compressing a png file. The main features include\nModifying the uploaded png file by adjusting the dimensions of the image such as height, width, etc. This png compression feature also presents the compression by entering size which can be extended to max or min depending on the png file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The png compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
         },
         {
-            "question": "Hvad er parametrene fra png-kompressorfunktionen fra safeimagekit.com, efter at vi har uploadet en png-fil?",
-            "answer": "Komprimeringsfunktionen fra safeimagekit.com giver forskellige parametre efter at vi uploader et billede med png format, disse parametre omfatter billedets navn, billedets størrelse, billedets type osv Parameteren er den sidste modificerede, hvor det giver os tid, dato og tidszone, hvor det var sidst modificeret. Dette giver os også en statuslinje efter upload og før du starter redigering af den uploadede billedfil."
+            "question": "What are the parameters provided by the png compressor feature from safeimagekit.com, after we upload a png file?",
+            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with png format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, where it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
         },
         {
-            "question": "Hvad er justeringsfunktionerne fra safeimagekit.com til png-filerne, mens du komprimerer en png-fil?",
-            "answer": "Png-filkomprimeringsfunktionen fra safeimagekit.com giver mange funktioner, mens du komprimerer et billede. Det lader brugeren justere dimensionerne af png-filen ved at justere målingerne såsom bredde og højde. Max-højde og max-bredde giver brugeren en maksimal grænse for fotokomprimeringen. Mens min-bredde og min-højde giver brugeren en minimumsgrænse for fotokomprimering. Indstillingen konvertere størrelse giver brugeren mulighed for at komprimere på det hele."
+            "question": "What are the adjusting features provided by the safeimagekit.com to the png files, while compressing a png file?",
+            "answer": "The png file compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the png file by adjusting the measurements such as width and height. The max-height and the max-width provide the user with a maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
         },
         {
-            "question": "Hvordan fungerer kvalitetsjusteringsindstillingen for png-kompressorfunktionen fra safeimagekit.com?",
-            "answer": "Indstillingen kvalitet justering af png kompressor funktion fra safeimagekit.com er en vigtig funktion, der lader brugeren beslutte den overordnede kvalitet af png-fil uploadet. Denne funktion kan tilgås fra rummet „Indtast kvalitet“ efter upload af billedet. Dette justerer skarphed, kontrast, sløring (på små mængder) og mange andre billedparametre i det hele taget. Brugeren kan bestemme målingen fra 0,1 til 1 skala. Hvis han ikke ønsker nogen ændring i kvaliteten af billedet uploadet, kan denne indstilling springes over."
+            "question": "How does the quality adjustment option of the png compressor feature from safeimagekit.com work?",
+            "answer": "The quality adjustment option of the png compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the png file uploaded. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
         },
         {
-            "question": "Hvordan virker „Mime type“ mulighed for kompressor funktion fra safeimagekit.com arbejde?",
-            "answer": "Den „Mime type“ mulighed for kompressor funktion fra safeimagekit.com lader brugeren vælge formatet af billedet efter komprimering det ved hjælp af kompressor værktøj fra safeimagekit.com. I øjeblikket, 5 typer af billedformater er tilgængelige for brugeren. Brugeren kan ændre formatet af billedet baseret på hans/hendes krav. Disse formater omfatter webp, png, jpg, jpeg og gif-format. Hvis brugeren ønsker at holde formatet uændret, kan brugeren vælge indstillingen kaldet „Indtast mime typen“. Muligheden „Mime type“ kan tilgås nederst på siden efter upload af billedet, og gem de foretagne ændringer."
+            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
+            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently,5 types of image formats are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
         },
         {
-            "question": "Kan jeg bruge komprimere png-funktionen fra safeimagekit.com på mit LINUX-operativsystem?",
-            "answer": "Ja, komprimeringsfunktionen png fra safeimagekit.com kan bruges på ethvert operativsystem, selv LINUX. Den er bygget med den nyeste kode og funktioner, som gør det muligt for brugeren at komprimere et billede uploadet af brugeren på ethvert operativsystem som MAC OS, Windows og Ubuntu, forudsat at der er en enhed med en stabil internetforbindelse. Det magiske trick er, at det endda virker på en langsommere internetforbindelse."
+            "question": "Can I use the compress png feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the compress png feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
         },
         {
-            "question": "Kan vi redigere teksten til stede i png-filen ved hjælp af komprimere png-funktionen fra safeimagekit.com?",
-            "answer": "Nej, i øjeblikket komprimere png-funktionen fra safeimagekit.com tilbyder kun de funktioner, som gør det muligt for brugeren at komprimere png-filen, konvertere formatet af billedet fra png format til andre osv. Tekstredigeringsfunktioner er ikke tilgængelig i safeimagekit.com. Men opdateringer til hjemmesiden vil bringe alle de spændende funktioner snart."
+            "question": "Can we edit the text present in the png file using the compress png feature from safeimagekit.com?",
+            "answer": "No, currently the compress png feature from safeimagekit.com only offers the features, which enables the user to compress the png file, converting the format of the image from png format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
         },
         {
-            "question": "Kan vi redigere eller komprimere 4k og 8k billeder ved hjælp af png kompressoren fra safeimagekit.com?",
-            "answer": "Nej, i øjeblikket tilbyder kompressorfunktionen fra safeimagekit.com kun billedredigeringsfunktioner op til 1080p, når det er bedst. Der findes dog 4k billedkomprimering og redigeringsmuligheder i safeimagekit.com, men 8k billedbehandling er ikke tilgængelig og vil blive inkluderet i den kommende fremtid som en opdatering til hjemmesiden."
+            "question": "Can we edit or compress 4k and 8k images using the png compressor from safeimagekit.com?",
+            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
         },
         {
-            "question": "Hvor mange png-filer kan vi redigere på en enkelt strækning ved hjælp af png-kompressorfunktionen fra safeimagekit.com?",
-            "answer": "I øjeblikket kan kompressorfunktionen fra safeimagekit.com redigere og komprimere en enkelt png-fil, da dette værktøj kræver anstændige parametre under redigering, er flere png-filer redigeringsfunktion ikke inkluderet i øjeblikket, men opdateringer til hjemmesiden vil gøre dette muligt i fremtiden. "
+            "question": "How many png files can we edit at a single stretch using the png compressor feature from safeimagekit.com?",
+            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single png file, as this tool demands decent parameters while editing, multiple png files editing feature is not included currently, but updates to the website will make this possible in the future. "
         },
         {
-            "question": "Kan jeg bruge png-kompressorfunktionen fra safeimagekit.com på min Apple iPhone 11? ",
-            "answer": "Ja, png kompressor funktion fra safeimagekit.com er en cross-platform baseret funktion, hvor brugeren kan bruge denne konverter værktøj fra operativsystemer som Android, iOS, Windows, og Mac OS. Det er uafhængigt af de operativsystemer, der anvendes, men afhænger kun af internetforbindelsen og størrelsen af png-filer, der uploades til at blive komprimeret til andre."
+            "question": "Can I use the png compressor feature from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, png compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the png files which are uploaded to be compressed into others."
         },
         {
-            "question": "Vil mine uploadede billedfiler korrupte efter komprimering dem ved hjælp af de udsøgte muligheder til stede i komprimere png funktionen fra safeimagekit.com?",
-            "answer": "Nej, komprimeringsfunktionen fra safeimagekit.com er bygget med alle de nyeste programmer og sikkerhedsfunktioner, som ikke tillader de uploadede png-filer til korrupte. Så de uploadede png-filer er helt sikre og sikrede. Safeimagekit.com er også en serverfri hjemmeside som følge af hvilken ingen png-filer gemmes her, og udslettes fra hukommelsen, så snart websiden er lukket."
+            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress png feature from safeimagekit.com?",
+            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded png files to corrupt. So, the uploaded png files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no png files are stored here, and are wiped from the memory as soon as the webpage is closed."
         },
         {
-            "question": "Vil min fil blive gemt, efter at jeg har fuldført arbejdet på PNG-kompressionsværktøjet? ",
-            "answer": "Nej, vi sender ikke nogen af dine filer til vores servere alle operationer er udført på selve browseren derfor alle dine filer er helt sikkert. "
+            "question": "Will my file be saved after I complete working on the PNG compresssion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Skal jeg foretage yderligere tilmelding eller betale ekstra for at bruge PNG-kompressionsværktøjet? ",
-            "answer": "Absolut ikke, vores værktøj er helt online og kræver ikke, at du deler nogen af dine personlige oplysninger med os, ligesom e-mail-id, adgangskoder osv Vores værktøj er helt fri for omkostninger."
+            "question": "Do I have to do any additional signup or pay extra to use the PNG compresssion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Hvordan kommunikerer jeg, hvis jeg står over for problemer, eller hvis jeg vil give forslag?",
-            "answer": "Vi tager gerne ethvert problem eller forslag, der tilbydes af alle brugere, bedes du kontakte os via vores sociale medier håndtag for mere information. SafeImagekit.com er tilgængelig på alle de førende sociale medier hjemmesider som Facebook, Instagram, YouTube, og LinkedIn, etc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

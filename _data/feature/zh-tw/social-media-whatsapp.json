@@ -1,6 +1,6 @@
 {
     "Language": "繁體中文",
-    "htmlLangAtt": "zh-TW",
+    "htmlLangAtt": "zh-tw",
     "h1": "為 WhatsApp 調整圖像大小",
     "img": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
     "imgwidth": "35px",
@@ -8,9 +8,9 @@
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "警告",
-    "h2": "在此處上傳的並立圖即調整您大小",
-    "TITLE": "調整圖像大小 WhatsApp | 線圖像調整大小工具 ",
-    "META": "正在尋找找一個免費的線圖像調整大小器 Whatsapp？訪問我的網站，並在秒鐘內調整幾片 Whatsapp 的圖大小。",
+    "h2": "在此處上傳您的圖片並立即調整大小",
+    "TITLE": "調整圖像大小 WhatsApp | 在線圖像調整大小工具 ",
+    "META": "正在尋找一個免費的在線圖像調整大小器 Whatsapp？訪問我們的網站，並在幾秒鐘內調整 Whatsapp 的圖片大小。",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
@@ -23,77 +23,77 @@
                     {
                         "name": "臉書圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-facebook"
+                        "url": "/zh-tw/image-resize-facebook"
                     },
                     {
                         "name": " Instagram 圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-instagram"
+                        "url": "/zh-tw/image-resize-instagram"
                     },
                     {
                         "name": " 領英圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-linkedin"
+                        "url": "/zh-tw/image-resize-linkedin"
                     },
                     {
                         "name": " 電子郵件圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-email"
+                        "url": "/zh-tw/image-resize-email"
                     },
                     {
                         "name": " 蒂克託克圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-tiktok"
+                        "url": "/zh-tw/image-resize-tiktok"
                     },
                     {
                         "name": " 推特圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-twitter"
+                        "url": "/zh-tw/image-resize-twitter"
                     },
                     {
-                        "name": " 普利斯圖像調整大小",
+                        "name": " Pinterest 圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-pinterest"
+                        "url": "/zh-tw/image-resize-pinterest"
                     },
                     {
-                        "name": "快照照圖像調整大小",
+                        "name": "快照圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-snapchat"
+                        "url": "/zh-tw/image-resize-snapchat"
                     },
                     {
-                        "name": " 谷歌橫幅廣告片整圖調小",
+                        "name": " 谷歌橫幅廣告圖片調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-google-banner-ads"
+                        "url": "/zh-tw/image-resize-google-banner-ads"
                     },
                     {
                         "name": " 不和諧的圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-discord"
+                        "url": "/zh-tw/image-resize-discord"
                     },
                     {
                         "name": " 聲雲圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-soundcloud"
+                        "url": "/zh-tw/image-resize-soundcloud"
                     },
                     {
-                        "name": " 圖像調整大小",
+                        "name": " Whatsapp 圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-whatsapp"
+                        "url": "/zh-tw/image-resize-whatsapp"
                     },
                     {
-                        "name": " 平方圖更變像調整大小",
+                        "name": " 平方變更圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-squarespace"
+                        "url": "/zh-tw/image-resize-squarespace"
                     },
                     {
-                        "name": " 抽抽，圖像調整大小",
+                        "name": " 抽搐圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-twitch"
+                        "url": "/zh-tw/image-resize-twitch"
                     },
                     {
                         "name": " 打印圖像調整大小",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
-                        "url": "/zh-TW/zh-tw/image-resize-printing"
+                        "url": "/zh-tw/image-resize-printing"
                     }
                 ]
             }
@@ -103,26 +103,26 @@
         {
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",
-            "header": "易使用",
-            "content": "社交媒體圖像調整大過小程優雅直接接"
+            "header": "易於使用",
+            "content": "社交媒體圖像調整大小過程優雅直接"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/target.svg",
-            "header": "確準的結果",
-            "content": "果準，確因完全足滿用户求"
+            "header": "準確的結果",
+            "content": "結果準確，因此完全滿足用户需求"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cross.svg",
             "header": "跨平台",
-            "content": "您可以從現在開始在任何操作系統上使用此應用程序，Windows /MAC/Linux/安德羅德/iPhone。"
+            "content": "您可以從現在開始在任何操作系統上使用此應用程序，如 Windows /MAC/Linux/Android/iPhone。"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/shield.svg",
             "header": "安全且值得信賴",
-            "content": "沒有及服務器，因此您的據和數文件是安全的"
+            "content": "沒有涉及服務器，因此您的數據和文件是安全的"
         },
         {
             "priority": 1,
@@ -134,71 +134,71 @@
             "priority": 1,
             "logoUrl": "/assets/cloud_new.svg",
             "header": "未上傳任何文件",
-            "content": "該應用程序完全可以在覽器上工作，不會任務調任何服務器。因你的文件是安全的"
+            "content": "該應用程序完全可以在瀏覽器上工作，而不會調用任何服務器。因此您的文件是安全的"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "如何調整圖像大小",
         "steps": [
-            "上傳要調整大小的片圖。",
-            "選合適的尺寸或多種尺寸",
+            "上傳要調整大小的圖片。",
+            "選擇合適的尺寸或多種尺寸",
             "點擊下載全部下載所有可用尺寸。",
-            "點擊下載定選按鈕下載選定圖的像寸尺。"
+            "點擊下載選定按鈕下載選定的圖像尺寸。"
         ]
     },
     "FAQ": [
         {
-            "question": "在調整圖像大小的同時，WhatsApp 的圖像大小調整工具提供了哪些功能？",
-            "answer": "來自 Safeimagekit.com 的 WhatsApp 圖像大小調整器提供多功能，同時調整上傳的圖像進行編輯。主要特點包括\n-在不同類別中創建多個版本的圖像。\n-單獨編輯每個圖像質量。\n-相對於寬度調整圖像的大小。\n-根據高度調整圖像的大小。\n-完成圖像大小的調整並下載它們。\n-編輯圖片並下載選定的圖片或所有圖片類別，\n這裏的重要信息是，我們的圖像尺寸非常精確。"
+            "question": "What are the features offered by the WhatsApp image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "WhatsApp image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories,\nThe important info here is that our image dimensions are super precise."
         },
         {
-            "question": "SafeimageKit.com 提供的 WhatsApp 圖像尺寸調整器有哪些不同的圖片類別？",
-            "answer": "WhatsApp 圖像調整大小器在多個部分提供圖像編輯選項，用户可以在 WhatsApp 應用程序/網站上傳他/她的圖片，這些類別包括-\n-WhatsApp 發佈狀態更新。\n-應用程序的個人資料照片\n-應用程序的故事"
+            "question": "What are the different image categories available in the WhatsApp image resizer offered by Safeimagekit.com?",
+            "answer": "The WhatsApp image resizer offers image editing options in multiple sections where a user can upload his/her image in the WhatsApp app/website, these categories include-\n-\tWhatsApp post for status update.\n-\tWhatsApp profile photo.\n-\tWhatsApp stories."
         },
         {
-            "question": "如何使用 WhatsApp 的圖像調整大小功能來調整圖片的寬度？",
-            "answer": "第一步，上傳需要編輯的圖片。下一步包括調整圖像的重要參數，這包括調整寬度。現在，要訪問此選項，您需要從所有版本中選擇一個類別，然後點擊編輯選項開始編輯，然後，將有一個彈出窗口，您可以在其中拖動和調整圖像的寬度。獎勵的選擇是，我們可以放大和縮小，只需滾動進入和縮小來控制圖像的所需內容。"
+            "question": "How can I adjust the width of the image using the WhatsApp image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "如何使用 WhatsApp 的圖像調整大小功能來調整圖像的高度？",
-            "answer": "第一步，上傳需要編輯的圖片。下一步包括調整圖像的重要參數，這包括調整高度。現在，要訪問此選項，您需要從所有版本中選擇一個類別，然後點擊編輯選項開始編輯，然後，將有一個彈出窗口，您可以在其中拖動和調整圖像的高度。獎勵的選擇是，我們可以放大和縮小，只需滾動進入和縮小來控制圖像的所需內容。"
+            "question": "How can I adjust the height of the image using the WhatsApp image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "如何使用 WhatsApp 圖像調整大小功能來調整圖像大小？",
-            "answer": "在調整圖像文件大小時，用户可以參考 6 個步驟，\n這些措施包括\n-上傳需要更改的圖片文件。\n-從提供的選項中選擇所需的圖片類別。\n-點擊編輯，開始調整圖像的高度和寬度。\n-如果您喜歡多個圖片類別，只需點擊每個圖片版本右上角的一個框來選擇它們。\n-點擊「下載選擇」下載一個詳細/多個版本。\n-點擊「下載全部」下載所有圖像版本。"
+            "question": "How can I resize an image using the WhatsApp image resizer feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there."
         },
         {
-            "question": "在調整上傳的圖像文件大小後，Safeimagekit.com 的 WhatsApp 圖像調整大小的選項是否提供任何類型的預覽？",
-            "answer": "不，目前從安全圖像分割器的調整大小功能不提供任何類型的上傳圖像部分的預覽，因為有時上傳圖像的部分會進入海外，瀏覽器很難處理圖像的每個部分的預覽但是，可以在編輯完成後查看圖像，並可以下載。不過，將來對網站的更新將增加所有令人興奮的功能。"
+            "question": "Does the resize option of the WhatsApp image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
         },
         {
-            "question": "我可以在我的視窗 8 上使用 WhatsApp 圖像大小調整功能嗎？",
-            "answer": "WhatsApp 圖像調整大小器功能是安全影像提供的一個通用功能，它支持所有的操作系統，如 Windows 8，Linux，甚至 Ubuntu。只需要一個設備來使用 www.safe imagekit.com 網站和正常的互聯網連接來打開擴展文件。有趣的事實是，它甚至可以在較慢的互聯網連接上運行。"
+            "question": "Can I use the WhatsApp image resizer feature from safeimagekit.com on my Windows 8?",
+            "answer": "The WhatsApp image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "我可以在安卓設備上使用 WhatsApp 圖像調整大小功能嗎？ ",
-            "answer": "是的，來自 Safeimagekit.com 的 WhatsApp 圖像調整大小功能是一個基於跨平台的功能，用户可以使用這個轉換器工具從操作系統，如安卓，iOS，Windows 和 Mac 操作系統。它獨立於所使用的操作系統，但僅取決於互聯網連接。"
+            "question": "Can I use the WhatsApp image resizer feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the WhatsApp image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "我們是否需要使用其他軟件在轉換後使用 Safe imagekit.com 的 WhatsApp 圖像調整大小功能下載修改後的圖像？",
-            "answer": "不，用户通過修改各自的圖像參數調整他們的圖像大小後，可以點擊下面給出的下載選項，並可以下載修改後的圖像。它是一個基於瀏覽器的轉換器工具，不支持，或者不需要額外的軟件來下載修改後的圖像。"
+            "question": "Do we have to use any additional software to download the modified images after conversion using the WhatsApp image resizer feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image."
         },
         {
-            "question": "如果我們在使用 Safeimagekit.com 的 WhatsApp 圖像調整大小工具時刷新瀏覽器，我們的進度會怎樣？",
-            "answer": "來自 Safeimagekit.com 的 WhatsApp 圖像調整大小工具沒有連接到任何服務器，因此用户正在使用的數據不會存儲在任何地方，因此，當用户刷新他正在使用的瀏覽器時，它會立即被刪除。在用户退出或關閉打開網站擴展頁面的選項卡後，正在轉換的圖像文件也將被刪除。"
+            "question": "What will happen to our progress if we refresh our browser while we are using the WhatsApp image resizer tool from safeimagekit.com?",
+            "answer": "The WhatsApp image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "我們是否可以使用安全的 WhatsApp 圖像調整大小功能，調整已鎖定的圖像文件的大小？",
-            "answer": "否，我們無法上傳已鎖定的圖片文件，因為該圖片文件的訪問被阻止。因此，要使用來自 Safeimagekit.com 的 WhatsApp 圖像調整大小功能，我們需要上傳未鎖定的圖片文件。但是，用户可以從 safeimagekit.com 檢查密碼查找器擴展，該擴展專門用於解鎖圖像和圖像文件，以防用户失去鎖定圖像文件的密碼。"
+            "question": "Can we resize the image files which are locked, using the WhatsApp image resizer feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the WhatsApp image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "使用 Safafeimagekit.com 的 WhatsApp 圖像調整大小文件功能後，我上傳的圖像文件會損壞嗎？",
-            "answer": "不可以，Safeimagekit.com 是建立了所有最新的程序和安全功能，不允許上傳的圖像文件損壞。所以，上傳的圖像文件是完全安全和安全的。"
+            "question": "Will my uploaded image files corrupt after resizing the image files using The WhatsApp image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "如果我遇到任何問題或想提出任何建議，我該如何溝通？",
-            "answer": "我們很樂意接受所有用户提供的任何問題或建議，請通過我們的社交媒體句柄與我們聯繫以獲取更多信息。在所有領先的社交媒體網站上，如臉書、英語網站、YouTube 和領英等。"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

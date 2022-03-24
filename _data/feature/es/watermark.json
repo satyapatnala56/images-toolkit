@@ -1,16 +1,16 @@
 {
     "Language": "Español",
     "htmlLangAtt": "es",
-    "H1": "Generador de marcas de agua gratuito para PC, MAC, IOS y ANDROID",
+    "H1": "Generador de marcas de agua",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "peligro",
-    "H2": "La creación de marcas de agua para fotos ha sido fácil para nosotros, comience cargando su archivo a continuación",
-    "TITLE": "Fotos de marca de agua - creador de marcas de agua gratis - safeimagekit",
-    "META": "¿Está buscando una marca de agua de imagen de alta calidad para imágenes? Bueno, entonces estás en el lugar correcto. Nuestra herramienta generadora de marcas de agua en línea es extremadamente segura, fácil de usar y súper rápida.",
+    "H2": "Crear marcas de agua para fotos se ha hecho fácil con nosotros, comience por subir su archivo a continuación",
+    "TITLE": "Fotos de marca de agua - creador de marcas de agua gratuito - safeimagekit",
+    "META": "¿Buscas una marca de agua de alta calidad para imágenes? Bueno, entonces estás en el lugar correcto. Nuestra herramienta de generación de marcas de agua en línea es extremadamente segura, fácil de usar y súper rápida.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "red",
@@ -43,13 +43,13 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "Gratuito",
-            "content": "Nuestra herramienta generadora de marcas de agua es completamente gratuita, puede utilizar todas nuestras herramientas sin pagar un solo centavo"
+            "content": "Nuestra herramienta generadora de marcas de agua es completamente gratuita, puedes usar todas nuestras herramientas sin pagar un solo centavo"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Sin descarga adicional",
-            "content": "Nuestra herramienta generadora de marcas de agua está completamente basada en el navegador y no se requiere descargar ningún software adicional en su dispositivo."
+            "content": "Nuestra herramienta generadora de marcas de agua se basa completamente en el navegador y no se requiere ningún software adicional para descargarse en su dispositivo."
         }
     ],
     "HOW_TO_CONTENT": {
@@ -60,73 +60,69 @@
             "Ajuste los parámetros requeridos ",
             "Añadir un texto o una imagen como marca de agua",
             "pulsa el botón guardar para guardar los cambios realizados",
-            "¡Hurra! la imagen está lista para rockear."
+            "¡¡Hurra! la imagen está lista para rockear."
         ]
     },
     "FAQ": [
         {
-            "question": "",
-            "answer": ""
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "¿Es seguro permitir el acceso a mi unidad?",
-            "answer": "Sí, es absolutamente seguro permitirnos y darnos acceso a su unidad. No realizaremos ningún cambio en su sitio y sus archivos estarán seguros con usted."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "¿Cómo puedo cargar archivos desde mi unidad/dropbox?",
-            "answer": "Haz clic en la flecha desplegable y selecciona Dropbox/Google Drive. Selecciona la cuenta de Google desde la que quieres vincular tu unidad. Ahora puede seleccionar los archivos que desea cargar."
+            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
+            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
         },
         {
-            "question": "¿Cuáles son las funciones que ofrece la función de marca de agua de safeimagekit.com al añadir una marca de agua a una imagen?",
-            "answer": "La función de marca de agua de safeimagekit.com ofrece funciones versátiles al crear una imagen. Las principales características incluyen\n- Inserción de texto como marca de agua en el archivo de imagen cargado.\n- Ajuste de la transparencia del texto de la marca de agua cargada.\n- Ajuste del tamaño de fuente del texto de la marca de agua que se va a insertar.\n- Modificar el valor del trazo\n- Inserción de una imagen como marca de agua en la imagen original\n- Ajuste del valor de sombra en el archivo de imagen cargado.\n- Modificar el texto con marca de agua en cursiva.\n- Ajuste de la negrita del texto con marca de agua que se va a insertar.\n- Función de subrayado del texto con marca de agua.\n- Actualización de la marca de agua con opciones de color.\n\n"
+            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
+            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
         },
         {
-            "question": "¿Cómo funciona la opción de inserción de texto de la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "La opción de inserción de texto de la función de fotos con marca de agua de safeimagekit.com permite al usuario añadir texto en la imagen como marca de agua. El texto agregado se puede ajustar y modificar utilizando varias funciones, como el ajuste de color, el grosor del texto, etc. Las opciones de ajuste de color permiten al usuario agregar color al texto, por otro lado, el grosor del texto permite al usuario ajustar el tamaño del texto. Para acceder a esta función, simplemente escriba el texto en el espacio «ingrese el texto» y presione «agregar texto» para generar la marca de agua."
+            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
         },
         {
-            "question": "¿Cómo funciona la opción de ajuste de transparencia de la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "La opción de ajuste de transparencia de la función de fotos con marca de agua de safeimagekit.com permite al usuario ajustar la transparencia y la opacidad del texto con marca de agua o la imagen cargada. Esta opción está disponible en la parte media de la página, la opción de transparencia se da en una escala que va de 0.1 a 1. Este ajuste se realiza y se puede guardar pulsando la opción guardar. Se puede acceder a esta opción presionando la opción «elegir la transparencia» y ajustar la escala y presionar «agregar texto» para generar la marca de agua."
+            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "¿Cómo ajustamos el tamaño de fuente del texto al modificar una imagen con la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "El tamaño de fuente del texto al modificar una imagen con la función de fotos de marca de agua de safeimagekit.com se puede ajustar ingresando el factor de tamaño. Se puede acceder a esta opción ingresando el tamaño válido en el espacio denominado «Ingrese el tamaño de fuente». El tamaño se puede ajustar ingresando un valor en ese espacio. El tamaño de fuente del texto se puede aumentar ingresando los valores que están en valor positivo (+). El tamaño de fuente del texto se puede reducir ingresando los valores que están en valor negativo (-)."
+            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
+            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
         },
         {
-            "question": "¿Cómo funciona el valor del trazo en la conversión de imágenes en la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "El valor del trazo de la función de fotos con marca de agua de safeimagekit.com funciona ajustando el color del texto o de una imagen que se inserta en la imagen para su edición. Se puede acceder a este valor ingresando un valor en el espacio proporcionado llamado «Ingrese el valor del trazo». El valor del trazo de la imagen al convertirla en un meme se puede ajustar ingresando un valor positivo (+) para aumentar el trazo. El valor del trazo se puede disminuir introduciendo un valor negativo (-) para disminuir el trazo.\n\n"
+            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "¿Podemos insertar una imagen en otra imagen como marca de agua mientras modificamos una imagen con la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "Sí, la función de fotos con marca de agua de safeimagekit.com ofrece la opción de insertar una imagen en otra imagen mientras se modifica una imagen. Se puede acceder a esta función en la parte inferior de la página denominada «subir imagen». Esta función nos permite pegar una imagen en otra imagen, esta es una característica nominal en la que podemos insertar cualquier tipo de imagen en cualquier tipo de imagen. La imagen después de editarla e insertarla se puede guardar pulsando la opción llamada «guardar», esto guarda el progreso realizado en la imagen."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "¿Podemos convertir nuestro texto a cursiva que se ingresa en la imagen que se está editando, mientras modificamos una imagen con la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "Sí, la función de fotos con marca de agua de safeimagekit.com permite al usuario convertir el texto introducido en la imagen a formato cursiva. Se puede acceder a esta función presionando el botón «I» que significa cursiva, esto convierte el texto presente en la imagen en cursiva. Después de la conversión, presione el botón llamado «guardar». Esto guarda el progreso realizado en la imagen."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "¿Podemos convertir nuestro texto de plano a negrita, que se ingresa en la imagen que se está editando, mientras modificamos una imagen con la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "Sí, la función de fotos con marca de agua de safeimagekit.com permite al usuario convertir el texto sin formato en texto en negrita que se introduce en la imagen. Se puede acceder a esta función presionando el botón «B» que significa negrita, esto convierte el texto sin formato presente en la imagen en texto en negrita. Después de la conversión, presione el botón llamado «guardar». Esto guarda el progreso realizado en la imagen."
+            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "¿Podemos subrayar el texto, que está escrito en la imagen que se está editando, mientras modificamos una imagen con la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "Sí, la función de fotos con marca de agua de safeimagekit.com permite al usuario subrayar el texto que se inserta en la imagen. Se puede acceder a esta función pulsando el botón «U» que significa Subrayar, esto convierte el texto (normal) en texto subrayado en la imagen. Después de la conversión, presione el botón llamado «guardar». Esto guarda el progreso realizado en la imagen."
+            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
         },
         {
-            "question": "¿Cómo podemos colorear el texto que se ingresa en la imagen que se está editando, mientras modificamos una imagen con la función de fotos con marca de agua de safeimagekit.com?",
-            "answer": "La función de fotos con marca de agua de safeimagekit.com permite al usuario colorear el texto de la imagen, se puede acceder a esta opción presionando el cuadro negro junto a cada característica principal, después de presionar el cuadro negro, el cuadro de color aparece y el usuario puede acceder a cualquier color para pintar en el texto."
+            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "¿Se guardará mi archivo cuando termine de trabajar en la herramienta generadora de marcas de agua? ",
-            "answer": "No, no enviamos ninguno de sus archivos a nuestros servidores, todas las operaciones se realizan en el propio navegador, por lo que todos sus archivos están completamente seguros. "
+            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "¿Tengo que hacer algún registro adicional o pagar más para usar la herramienta generadora de marcas de agua? ",
-            "answer": "Por supuesto que no, nuestra herramienta está completamente en línea y no requiere que compartas tu información personal con nosotros, como identificación de correo electrónico, contraseñas, etc. Nuestra herramienta es completamente gratuita."
-        },
-        {
-            "question": "¿Cómo me comunico si tengo algún problema o si quiero hacer alguna sugerencia?",
-            "answer": "Con gusto atendemos cualquier problema o sugerencia ofrecida por todos los usuarios, póngase en contacto con nosotros a través de nuestras redes sociales para obtener más información. Safeimagekit.com está disponible en todos los principales sitios web de redes sociales, como Facebook, Instagram, YouTube y LinkedIn, etc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

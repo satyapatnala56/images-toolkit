@@ -1,16 +1,16 @@
 {
     "Language": "العربية",
     "htmlLangAtt": "ar",
-    "H1": "مولد العلامة المائية المجاني للكمبيوتر الشخصي، ماك، IOS و ANDROID",
+    "H1": "مولد العلامة المائية",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "خطر",
-    "H2": "لقد أصبح إنشاء علامة مائية للصور أمرًا سهلاً من قبلنا، ابدأ بتحميل ملفك أدناه",
-    "TITLE": "صور العلامة المائية - صانع العلامة المائية المجاني - مجموعة صور آمنة",
-    "META": "هل تبحث عن علامة مائية عالية الجودة للصور؟ حسنا، فأنت في المكان الصحيح. أداة مولد العلامة المائية عبر الإنترنت الخاصة بنا آمنة للغاية وسهلة الاستخدام وسريعة للغاية.",
+    "H2": "أصبح إنشاء علامة مائية للصور أمرًا سهلاً معنا، ابدأ بتحميل ملفك أدناه",
+    "TITLE": "صور العلامة المائية - صانع العلامات المائية المجاني - مجموعة صور آمنة",
+    "META": "هل تبحث عن علامة مائية عالية الجودة للصور؟ حسنا، إذن أنت في المكان الصحيح. أداة مولد العلامة المائية عبر الإنترنت آمنة للغاية وسهلة الاستخدام وسريعة للغاية.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "red",
@@ -25,7 +25,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "أمان البيانات",
-            "content": "لا يتم إرسال أي من بياناتك على خوادمنا، تتم جميع العمليات على المتصفح نفسه. يتيح لنا ذلك أن نكون آمنين بنسبة 100٪ لمستخدمينا"
+            "content": "لا يتم إرسال أي من بياناتك على خوادمنا، ويتم تنفيذ جميع العمليات على المتصفح نفسه. هذا يمكننا من أن نكون آمنين بنسبة 100٪ لمستخدمينا"
         },
         {
             "priority": 1,
@@ -37,96 +37,92 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "سهل الاستخدام",
-            "content": "من السهل جدًا فهم أداة مولد العلامة المائية الخاصة بنا، ولا حاجة إلى محترف للعمل على أداتنا."
+            "content": "من السهل جدًا فهم أداة مولد العلامة المائية الخاصة بنا، ولا حاجة إلى أي محترف للعمل على أداتنا."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "خالية من التكلفة",
-            "content": "أداة مولد العلامة المائية الخاصة بنا مجانية تمامًا، يمكنك استخدام جميع أدواتنا دون دفع فلس واحد"
+            "header": "مجانًا",
+            "content": "أداة مولد العلامة المائية الخاصة بنا خالية تمامًا من التكلفة، يمكنك استخدام جميع أدواتنا دون دفع فلس واحد"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "لا يوجد تنزيل إضافي",
-            "content": "تعتمد أداة إنشاء العلامة المائية الخاصة بنا على المتصفح بالكامل ولا يلزم تنزيل برامج إضافية على جهازك."
+            "content": "تعتمد أداة إنشاء العلامة المائية الخاصة بنا تمامًا على المتصفح ولا يلزم تنزيل برامج إضافية على جهازك."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "كيفية إضافة علامة مائية إلى ملف PDF الخاص بي",
         "steps": [
-            "قم بتحميل ملف صورتك أو انقر فوق السهم المنسدل وحدد Dropbox/Google Drive",
+            "قم بتحميل ملف الصورة الخاص بك أو انقر فوق السهم المنسدل وحدد Dropbox/Google Drive",
             "اضبط المعلمات المطلوبة ",
             "إضافة نص أو صورة كعلامة مائية",
             "اضغط على زر الحفظ لحفظ التغييرات التي تم إجراؤها",
-            "مرحى!! الصورة جاهزة لموسيقى الروك."
+            "(هراي)!! الصورة جاهزة لموسيقى الروك."
         ]
     },
     "FAQ": [
         {
-            "question": "",
-            "answer": ""
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "هل من الآمن السماح بالوصول إلى محرك الأقراص الخاص بي؟",
-            "answer": "نعم، من الآمن تمامًا السماح لنا بالوصول إلى محرك الأقراص الخاص بك. لن نقوم بإجراء أي تغييرات على موقعك وستكون ملفاتك آمنة معك."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "كيف يمكنني تحميل الملفات من محرك الأقراص الخاص بي/dropbox؟",
-            "answer": "انقر فوق السهم المنسدل وحدد Dropbox/Google Drive. حدد حساب Google من حيث تريد ربط محرك الأقراص الخاص بك. الآن يمكنك تحديد الملفات التي تريد تحميلها."
+            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
+            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
         },
         {
-            "question": "ما هي الميزات التي توفرها ميزة العلامات المائية من safeimagekit.com أثناء إضافة علامة مائية إلى صورة؟",
-            "answer": "توفر ميزة العلامات المائية من safeimagekit.com ميزات متعددة الاستخدامات أثناء صياغة صورة. تشمل الميزات الرئيسية\n- إدراج النص كعلامة مائية على ملف الصورة الذي تم تحميله.\n- ضبط شفافية نص العلامة المائية التي تم تحميلها.\n- ضبط حجم الخط لنص العلامة المائية المراد إدراجها.\n- تعديل قيمة الحد\n- إدراج صورة كعلامة مائية على الصورة الأصلية\n- ضبط قيمة الظل على ملف الصورة الذي تم تحميله.\n- تعديل النص الذي يحمل علامة مائية بخط مائل.\n- ضبط جرأة النص الذي يحمل علامة مائية ليتم إدراجه.\n- ميزة التسطير للنص الذي يحمل علامة مائية.\n- ترقية العلامة المائية بخيارات الألوان.\n\n"
+            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
+            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
         },
         {
-            "question": "كيف يعمل خيار إدخال النص لصور العلامة المائية من safeimagekit.com؟",
-            "answer": "يتيح خيار إدخال النص لميزة صور العلامة المائية من safeimagekit.com للمستخدم إضافة نص على الصورة كعلامة مائية. يمكن تعديل النص المضاف وتعديله باستخدام العديد من الميزات مثل ضبط اللون، وسمك النص، وما إلى ذلك خيارات ضبط اللون تسمح للمستخدم بإضافة لون إلى النص، من ناحية أخرى، فإن سمك النص يتيح للمستخدم ضبط حجم النص. للوصول إلى هذه الميزة، ما عليك سوى كتابة النص في المساحة «أدخل النص» واضغط على «إضافة نص» لإنشاء العلامة المائية."
+            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
         },
         {
-            "question": "كيف يعمل خيار تعديل الشفافية لصور العلامة المائية من safeimagekit.com؟",
-            "answer": "يتيح خيار تعديل الشفافية لميزة صور العلامة المائية من safeimagekit.com للمستخدم ضبط شفافية وتعتيم النص الذي يحمل علامة مائية أو الصورة التي تم تحميلها. يتوفر هذا الخيار في الجزء الأوسط من الصفحة، ويتم إعطاء خيار الشفافية على مقياس يتراوح من 0.1 إلى 1. يتم إجراء هذا التعديل ويمكن حفظه عن طريق الضغط على خيار الحفظ. يمكن الوصول إلى هذا الخيار عن طريق الضغط على خيار «اختيار الشفافية» وضبط المقياس والضغط على «إضافة نص» لإنشاء العلامة المائية."
+            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "كيف نقوم بضبط حجم خط النص أثناء تعديل صورة باستخدام ميزة صور العلامة المائية من safeimagekit.com؟",
-            "answer": "يمكن ضبط حجم خط النص أثناء تعديل صورة باستخدام ميزة صور العلامة المائية من safeimagekit.com عن طريق إدخال عامل الحجم. يمكن الوصول إلى هذا الخيار عن طريق إدخال الحجم الصحيح على المساحة المسماة «أدخل حجم الخط». يمكن ضبط الحجم عن طريق إدخال قيمة في تلك المساحة. يمكن زيادة حجم خط النص عن طريق إدخال القيم التي هي في القيمة الموجبة (+). يمكن تقليل حجم خط النص عن طريق إدخال القيم التي هي في قيمة سالبة (-)."
+            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
+            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
         },
         {
-            "question": "كيف تعمل قيمة الحد في تحويل الصورة في ميزة صور العلامة المائية من safeimagekit.com؟",
-            "answer": "تعمل قيمة الحد لميزة صور العلامة المائية من safeimagekit.com عن طريق ضبط لون النص أو الصورة التي يتم إدراجها في الصورة للتحرير. يمكن الوصول إلى هذه القيمة عن طريق إدخال قيمة في المساحة المتوفرة تسمى «أدخل قيمة الحد». يمكن ضبط قيمة الحد للصورة أثناء تحويلها إلى meme عن طريق إدخال قيمة موجبة (+) لزيادة الحد. يمكن تقليل قيمة الحد عن طريق إدخال قيمة سالبة (-) لتقليل الحد.\n\n"
+            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "هل يمكننا إدراج صورة على صورة أخرى كعلامة مائية أثناء تعديل صورة باستخدام ميزة صور العلامة المائية من safeimagekit.com؟",
-            "answer": "نعم، توفر ميزة صور العلامة المائية من safeimagekit.com خيار إدراج صورة على صورة أخرى أثناء تعديل صورة. يمكن الوصول إلى هذه الميزة في أسفل الصفحة المسماة «تحميل الصورة». تتيح لنا هذه الميزة لصق صورة على صورة أخرى، وهذه ميزة اسمية حيث يمكننا إدراج أي نوع من الصور على أي نوع من الصور. يمكن حفظ الصورة بعد التحرير والإدراج عن طريق الضغط على الخيار المسمى «حفظ»، وهذا يحفظ التقدم الذي يتم إحرازه على الصورة."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "هل يمكننا تحويل نصنا إلى مائل يتم إدخاله على الصورة قيد التحرير، أثناء تعديل صورة باستخدام ميزة صور العلامة المائية من safeimagekit.com؟",
-            "answer": "نعم، تتيح ميزة صور العلامة المائية من safeimagekit.com للمستخدم تحويل النص الذي يتم إدخاله على الصورة إلى تنسيق مائل. يمكن الوصول إلى هذه الميزة عن طريق الضغط على الزر «I» الذي يرمز إلى مائل، وهذا يحول النص الموجود على الصورة إلى شكل مائل. بعد التحويل، اضغط على الزر المسمى «حفظ». هذا يحفظ التقدم الذي يتم إحرازه على الصورة."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "هل يمكننا تحويل نصنا من عادي إلى غامق، والذي يتم إدخاله على الصورة قيد التحرير، أثناء تعديل صورة باستخدام ميزة صور العلامة المائية من safeimagekit.com؟",
-            "answer": "نعم، تتيح ميزة صور العلامة المائية من safeimagekit.com للمستخدم تحويل النص العادي إلى نص غامق يتم إدخاله على الصورة. يمكن الوصول إلى هذه الميزة عن طريق الضغط على الزر «B» الذي يرمز إلى غامق، وهذا يحول النص العادي الموجود على الصورة إلى نص غامق. بعد التحويل، اضغط على الزر المسمى «حفظ». هذا يحفظ التقدم الذي يتم إحرازه على الصورة."
+            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "هل يمكننا تسطير النص المكتوب على الصورة قيد التحرير أثناء تعديل الصورة باستخدام ميزة صور العلامة المائية من safeimagekit.com؟",
-            "answer": "نعم، تتيح ميزة صور العلامة المائية من safeimagekit.com للمستخدم تسطير النص الذي يتم إدراجه على الصورة. يمكن الوصول إلى هذه الميزة عن طريق الضغط على الزر «U» الذي يرمز إلى تسطير، وهذا يحول النص (عادي) إلى نص تحته خط على الصورة. بعد التحويل، اضغط على الزر المسمى «حفظ». هذا يحفظ التقدم الذي يتم إحرازه على الصورة."
+            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
         },
         {
-            "question": "كيف يمكننا تلوين النص الذي يتم إدخاله على الصورة تحت التحرير، أثناء تعديل صورة باستخدام ميزة صور العلامة المائية من safeimagekit.com؟",
-            "answer": "ميزة صور العلامة المائية من safeimagekit.com تسمح للمستخدم تلوين النص على الصورة، ويمكن الوصول إلى هذا الخيار عن طريق ضرب المربع الأسود بجانب كل ميزة رئيسية، بعد ضرب المربع الأسود مربع اللون للملوثات العضوية الثابتة ويمكن للمستخدم الوصول إلى أي لون للطلاء على النص."
+            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "هل سيتم حفظ ملفي بعد الانتهاء من العمل على أداة مولد العلامة المائية؟ ",
-            "answer": "لا، نحن لا نرسل أيًا من ملفاتك إلى خوادمنا، تتم جميع العمليات على المتصفح نفسه وبالتالي فإن جميع ملفاتك آمنة تمامًا. "
+            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "هل يتعين علي القيام بأي تسجيل إضافي أو دفع مبلغ إضافي لاستخدام أداة مولد العلامة المائية؟ ",
-            "answer": "بالتأكيد لا، لدينا أداة على الانترنت تماما ولا تتطلب منك مشاركة أي من المعلومات الشخصية الخاصة بك معنا، مثل معرف البريد الإلكتروني وكلمات المرور الخ لدينا أداة خالية تماما من التكلفة."
-        },
-        {
-            "question": "كيف يمكنني التواصل إذا واجهت أي مشاكل أو إذا كنت أرغب في تقديم أي اقتراحات؟",
-            "answer": "نحن بكل سرور نأخذ في أي مشكلة أو اقتراحات يقدمها جميع المستخدمين، يرجى الاتصال بنا من خلال مقابض وسائل التواصل الاجتماعي الخاصة بنا للحصول على مزيد من المعلومات. Safeimagekit.com متاح على جميع مواقع التواصل الاجتماعي الرائدة مثل Facebook و Instagram و YouTube و LinkedIn وما إلى ذلك."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "ドライブへのアクセスを許可しても安全ですか？",
-            "answer": "はい、ドライブへのアクセスを許可し、許可することは絶対に安全です。私たちはあなたのサイトにいかなる変更も加えず、あなたのファイルはあなたと安全に保管されます。"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "ドライブ/ドロップボックスからファイルをアップロードするにはどうすればいいですか？",
-            "answer": "ドロップダウンの矢印をクリックし、[Dropbox/Google ドライブ] を選択します。ドライブをリンクする Google アカウントを選択します。アップロードするファイルを選択できるようになりました。"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "safeimagekit.com の画像比較機能は、2 つの画像を比較する際にどのような機能を提供していますか？",
-            "answer": "safeimagekit.com の画像比較機能は、2 つの機能を比較しながら多彩な機能を提供します。主な機能は次のとおりです。 \n-スライダベースでの2つの画像の比較\n-ピクセルに基づく 2 つの画像の比較。\n-情報に基づいた 2 つの画像の比較。\n-フェード効果に基づく 2 つの画像の比較。\nこれらの比較方法は、それらが比較され、それらの比較結果が直接画面に表示されるという点で基本的なものです。"
+            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
+            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
         },
         {
-            "question": "safeimagekit.comの画像比較機能のスライダー比較に基づいて、2つの画像をどのように比較できますか？",
-            "answer": "最初のステップは、比較が必要な画像のアップロードです。次のステップは「slider」という名前のピンをクリックすることです。これにより、スライダーベースの比較が有効になります。比較結果は画面に直接表示されます。"
+            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
         },
         {
-            "question": "safeimagekit.comの画像比較機能のピクセル比較方法に基づいて、2つの画像をどのように比較できますか？",
-            "answer": "最初のステップは、比較が必要な画像のアップロードです。次のステップは「pixel」という名前のピンをクリックすることで、ピクセルベースの比較が有効になります。最初の画像のピクセルは2番目の画像に表示され、それらの比較結果は画面に直接表示され、最初の画像のピクセルと2番目の画像のピクセルを比較します"
+            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
         },
         {
-            "question": "safeimagekit.comの画像比較機能のフェード効果法に基づいて、2つの画像をどのように比較できますか？",
-            "answer": "最初のステップは、比較が必要な画像のアップロードです。次のステップは「fade」という名前のピンをクリックすることです。これにより、フェード効果ベースの比較が有効になります。第1の画像の色あせた構造が第2の画像に示され、それらの比較結果は画面上に直接示され、第1の画像の性質を第2の画像と比較する。"
+            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
         },
         {
-            "question": "safeimagekit.com の画像比較機能を使用して、アップロードされた画像の情報統計情報に基づいて 2 つの画像を比較するにはどうすればよいですか？",
-            "answer": "最初のステップは、比較が必要な画像のアップロードです。次のステップは、「info」という名前のピンをクリックすることです。これにより、情報ベースの比較が有効になります。最初の画像の情報は2番目の画像の横に表示され、それらの比較結果は画面に直接表示され、画像の統計を比較することにより、最初の画像と2番目の画像の性質を比較します。"
+            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
         },
         {
-            "question": "safeimagekit.com の画像比較機能の情報ベースの比較はどのように機能しますか？",
-            "answer": "safeimagekit.com の画像比較機能の情報ベースの比較は、アップロードされた画像のプロパティを比較することで機能します。これらのプロパティには、イメージの名前、イメージのサイズ、イメージのタイプ、イメージの高さ、イメージの幅が含まれます。ユーザーは、これらのプロパティに従って画像を比較できます。"
+            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
+            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
         },
         {
-            "question": "Windows 8 アルティメットで safeimagekit.com の画像比較機能を使用できますか？",
-            "answer": "画像の比較機能は、safeimagekit.comが提供する多目的な機能で、Windows 8、Linux、さらにはUbuntuなどのすべてのオペレーティングシステムでサポートされています。必要なのは、www.safeimagekit.com Webサイトを使用して拡張ファイルを開くデバイスと、通常のインターネット接続でスタンドオンするだけです。面白い事実は、低速のインターネット接続でも実行できることです。"
+            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
+            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "safeimagekit.com の画像比較機能を Android デバイスで使用できますか？ ",
-            "answer": "はい、safeimagekit.comの画像比較機能は、ユーザーがAndroid、iOS、Windows、Mac OSなどのオペレーティングシステムからこのコンバーターツールを使用できるクロスプラットフォームベースの機能です。使用するオペレーティングシステムには依存しませんが、インターネット接続にのみ依存します。"
+            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "safeimagekit.com のイメージ比較機能を使用して、変換後に変更されたイメージをダウンロードするために、追加のソフトウェアを使用する必要がありますか？",
-            "answer": "いいえ、ユーザーはそれぞれの画像を入力して画像を比較した後、結局のところ、この機能はダウンロードするオプションを提供しません。比較結果は画面に直接表示され、画像が直接比較されます。これはブラウザベースの変換ツールであり、変更されたイメージのダウンロードをサポートしていないか、追加のソフトウェアを必要としません。"
+            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
+            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
         },
         {
-            "question": "safeimagekit.com の画像比較ツールを使用している間にブラウザを更新すると、進行状況はどうなりますか？",
-            "answer": "safeimagekit.comの画像比較ツールは、そこにあるどのサーバーにも接続されていないため、ユーザーが作業しているデータはどこにも保存されず、その結果、ユーザーが作業中のブラウザを更新すると即座に消去されます。比較中の画像ファイルは、ユーザーがウェブサイトの拡張機能ページが開いているタブを終了または閉じた後にも削除されます。"
+            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
+            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "safeimagekit.com の画像比較機能を使って、ロックされている画像ファイルを比較できますか？",
-            "answer": "いいえ、特定の画像ファイルへのアクセスがブロックされているため、ロックされている画像ファイルはアップロードできません。そのため、safeimagekit.com の画像比較機能を使用するには、ロックされていない画像ファイルをアップロードする必要があります。ただし、ユーザーはsafeimagekit.comからパスワードファインダー拡張機能を確認できます。これは、ロックされた画像ファイルのパスワードを失った場合に備えて、画像と画像ファイルのロックを解除するためだけに作られています。"
+            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "safeimagekit.com の「イメージファイルの比較」機能を使用してイメージファイルを比較すると、アップロードしたイメージファイルは破損しますか？",
-            "answer": "いいえ、safeimagekit.comは、アップロードされた画像ファイルの破損を許さない最新のプログラムとセキュリティ機能をすべて備えて構築されています。そのため、アップロードされた画像ファイルは完全に安全で保護されています。"
+            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "画像比較ツールでの作業が完了すると、ファイルは保存されますか？ ",
-            "answer": "いいえ、お客様のファイルをサーバーに送信することはありません。すべての操作はブラウザ自体で行われるため、すべてのファイルは完全に安全です。 "
+            "question": "Will my file be saved after I complete working on the image comparison tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "画像比較ツールを使用するには、追加の登録や追加料金が必要ですか？ ",
-            "answer": "もちろん、私たちのツールは完全にオンラインであり、電子メールID、パスワードなどの個人情報を私たちと共有する必要はありません。"
+            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "何か問題に直面した場合、または何か提案をしたいのであれば、どのように連絡すればよいですか？",
-            "answer": "すべてのユーザーから提供された問題や提案を喜んで受け入れます。詳細については、ソーシャルメディアのハンドルからお問い合わせください。SafeImageKit.comは、フェイスブック、インスタグラム、ユーチューブ、LinkedInなど、すべての主要なソーシャルメディアWebサイトで利用できます。"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

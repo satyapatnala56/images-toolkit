@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "允许访问我的云端硬盘安全吗？",
-            "answer": "是的，允许我们访问您的硬盘是绝对安全的。我们不会对您的网站进行任何更改，并且您的dfiles将是安全的。"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "如何从我的云端硬盘/保管箱上传文件？",
-            "answer": "单击下拉箭头，然后选择 Dropbox/Google 云端硬盘。选择要从中关联云端硬盘的Google帐户。现在，您可以选择要上传的文件。"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "使用 jpeg 格式压缩图像时，safeimagekit.com 的 “JPEG 压缩器” 功能提供了哪些功能？",
-            "answer": "safeimagekit.com 的 JPEG 压缩器功能在压缩 jpeg 文件时提供了多种功能。主要功能包括\n通过调整图像的尺寸（如高度，宽度等）来修改上传的jpeg。此jpeg压缩功能还通过输入大小来表示压缩，大小可以扩展到max或min，具体取决于上传的jpeg文件。此功能还提供了严格模式和方向模式，以进行精确的旋转调整。jpeg compressor还提供了调整图像质量的选项，还允许用户将图像的格式转换为用户的优势。\n"
+            "question": "What are the features offered by the “JPEG compressor” feature from safeimagekit.com while compressing an image with jpeg format?",
+            "answer": "JPEG compressor feature from safeimagekit.com offers versatile features while compressing a jpeg file. The main features include\nModifying the uploaded jpeg by adjusting the dimensions of the image such as height, width, etc. This jpeg compression feature also presents the compression by entering size which can be extended to max or min depending on the jpeg file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The jpeg compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
         },
         {
-            "question": "在我们上传 jpeg 文件之后，safeimagekit.com 的 jpeg 压缩器功能提供了哪些参数？",
-            "answer": "safeimagekit.com的压缩功能在我们上传了jpeg格式的图像后提供了各种参数，这些参数包括图像的名称，图像的大小，图像的类型等。该参数是最后修改的参数，它为我们提供了时间，日期和它所在的时区上次修改。这也为我们在上传后和开始编辑上传的图像文件之前提供了进度条。"
+            "question": "What are the parameters provided by the jpeg compressor feature from safeimagekit.com, after we upload a jpeg file?",
+            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with jpeg format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, wherein it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
         },
         {
-            "question": "safeimagekit.com 在压缩 jpeg 时提供的 jpeg 调整功能是什么？",
-            "answer": "safeimagekit.com 的 jpeg 压缩功能在压缩图像时提供了许多功能。它允许用户通过调整宽度和高度等测量值来调整jpeg的尺寸。max-height和max-width为用户提供了照片压缩的最大限制。虽然最小宽度和最小高度为用户提供了照片压缩的最小限制。转换大小选项允许用户整体压缩。"
+            "question": "What are the jpeg adjusting features provided by safeimagekit.com while compressing a jpeg?",
+            "answer": "The jpeg compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the jpeg by adjusting the measurements such as width and height. The max-height and the max-width provide the user with the maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
         },
         {
-            "question": "safeimagekit.com 的 jpeg 压缩器功能的质量调整选项如何工作？",
-            "answer": "safeimagekit.com提供的jpeg压缩器功能的质量调整选项是一项重要功能，它使用户可以决定jpeg的整体质量。上传图片后，可以从 “输入质量” 空间访问此功能。这可以整体调整锐度、对比度、模糊（少量）和许多其他图像参数。用户可以决定从0.1到1比例的测量。如果他不希望对上传的图片质量进行任何更改，则可以跳过此选项。"
+            "question": "How does the quality adjustment option of the jpeg compressor feature from safeimagekit.com work?",
+            "answer": "The quality adjustment option of the jpeg compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the jpeg. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
         },
         {
-            "question": "safeimagekit.com 的压缩器功能的 “哑剧类型” 选项如何工作？",
-            "answer": "safeimagekit.com 的压缩器功能的 “哑剧类型” 选项允许用户在使用 safeimagekit.com 的压缩器工具压缩图像后选择图像的格式。目前，有5种类型的图像格式可供用户使用。用户可以根据他/她的要求更改图像的格式。这些格式包括 webp、png、jpg、jpeg 和 gif 格式。如果用户希望保持格式不变，则用户可以选择名为 “输入哑剧类型” 的选项。上传图像后，可以在页面底部访问 “Mime type” 选项，并保存所做的更改。"
+            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
+            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently, there are 5 types of image formats that are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
         },
         {
-            "question": "我可以在我的 LINUX 操作系统上使用 safeimagekit.com 的压缩 jpeg 功能吗？",
-            "answer": "是的，safeimagekit.com 的压缩 jpeg 功能可以在任何操作系统上使用，甚至是 LINUX。它使用最新的代码和功能构建，使用户能够压缩用户在任何操作系统（例如MAC OS，Windows和Ubuntu）上上传的任何图像，前提是设备具有稳定的互联网连接。神奇的诀窍是，它甚至可以在较慢的Internet连接上运行。"
+            "question": "Can I use the compress jpeg feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the compress jpeg feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
         },
         {
-            "question": "我们可以使用 safeimagekit.com 的压缩 jpeg 功能编辑 jpeg 文件中存在的文本吗？",
-            "answer": "不可以，目前 safeimagekit.com 提供的压缩 jpeg 功能仅提供这些功能，这些功能使用户能够压缩 jpeg、将图像格式从 jpeg 格式转换为其他格式等。safeimagekit.com 中不提供文本编辑功能。但是网站的更新将很快带来所有令人兴奋的功能。"
+            "question": "Can we edit the text present in the jpeg file using the compress jpeg feature from safeimagekit.com?",
+            "answer": "No, currently the compress jpeg feature from safeimagekit.com only offers the features, which enables the user to compress the jpeg, converting the format of the image from jpeg format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
         },
         {
-            "question": "我们可以使用 safeimagekit.com 的 jpeg 压缩器编辑或压缩 4k 和 8k 图像吗？",
-            "answer": "不，目前 safeimagekit.com 的压缩器功能只能提供最高达 1080p 的图像编辑功能。但是，safeimagekit.com中确实存在4k图像压缩和编辑选项，但是8k图像处理功能不可用，并且将在不久的将来作为网站的更新包括在内。"
+            "question": "Can we edit or compress 4k and 8k images using the jpeg compressor from safeimagekit.com?",
+            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
         },
         {
-            "question": "使用 safeimagekit.com 的 jpeg 压缩器功能，我们可以一次编辑多少个 jpeg 文件？",
-            "answer": "目前，safeimagekit.com的压缩器功能可以编辑和压缩单个jpeg文件，因为该工具在编辑时需要适当的参数，目前不包括多个jpeg文件编辑功能，但是网站的更新将使将来成为可能。 "
+            "question": "How many jpeg files can we edit at a single stretch using the jpeg compressor feature from safeimagekit.com?",
+            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single jpeg file, as this tool demands decent parameters while editing, multiple jpeg files editing feature is not included currently, but updates to the website will make this possible in the future. "
         },
         {
-            "question": "我可以在苹果 iPhone 11 上使用 safeimagekit.com 的 jpeg 压缩器功能吗？ ",
-            "answer": "是的，safeimagekit.com 的 jpeg 压缩器功能是一项基于跨平台的功能，用户可以在安卓、iOS、Windows 和 Mac OS 等操作系统中使用此转换器工具。它独立于所使用的操作系统，但仅取决于Internet连接以及上传以压缩为其他文件的jpeg文件的大小。"
+            "question": "Can I use the jpeg compressor feature from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, the jpeg compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the jpeg files which are uploaded to be compressed into others."
         },
         {
-            "question": "使用safeimagekit.com的压缩jpeg功能中提供的精美选项压缩我上传的图像文件后，它们会损坏吗？",
-            "answer": "不，safeimagekit.com的压缩功能是使用所有最新的程序和安全功能构建的，不允许上传的jpeg文件损坏。因此，上传的jpeg文件是完全安全的。此外，safeimagekit.com是一个无服务器的网站，因此这里没有存储jpeg文件，一旦网页关闭，就会从内存中擦除。"
+            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress jpeg feature from safeimagekit.com?",
+            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded jpeg files to corrupt. So, the uploaded jpeg files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no jpeg files are stored here, and are wiped from the memory as soon as the webpage is closed."
         },
         {
-            "question": "完成使用 JPEG 压缩工具后，我的文件会被保存吗？ ",
-            "answer": "不，我们不会将您的任何文件发送到我们的服务器，所有操作都是在浏览器上完成的，因此您的所有文件都是完全安全的。 "
+            "question": "Will my file be saved after I complete working on the  JPEG compresssion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "我是否需要额外注册或支付额外费用才能使用JPEG压缩工具？ ",
-            "answer": "绝对不是，我们的工具是完全在线的，不需要您与我们分享您的任何个人信息，例如电子邮件ID，密码等。我们的工具是完全免费的。"
+            "question": "Do I have to do any additional signup or pay extra to use the JPEG compresssion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "如果我遇到任何问题或想提出任何建议，我该如何沟通？",
-            "answer": "我们很乐意接受所有用户提出的任何问题或建议，请通过我们的社交媒体句柄与我们联系以获取更多信息。SafeImageKit.com 可在所有领先的社交媒体网站上使用，例如 Facebook、Instagram、YouTube 和领英等。"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

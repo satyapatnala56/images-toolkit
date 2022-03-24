@@ -1,14 +1,14 @@
 {
     "Language": "Dansk",
     "htmlLangAtt": "da",
-    "H1": "Flip billeder online gratis med dette avancerede værktøj",
+    "H1": "Billede Flipper",
     "img": "/img/rotate.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "nofileupload": true,
     "variant": "info",
     "imgalt": "altvalue",
-    "H2": "Foto rotation er blevet gjort nemt af os, start med at uploade din fil nedenfor",
+    "H2": "Foto rotation er blevet gjort nemt med os, start med at uploade din fil nedenfor",
     "TITLE": "Flip billede- billede flip online- sikker",
     "META": "Leder du efter en høj kvalitet billede flipper? Så er du på det rigtige sted. Vores online flip image værktøj er ekstremt sikker, brugervenlig, og super hurtig.",
     "LABEL": "",
@@ -65,72 +65,72 @@
     },
     "FAQ": [
         {
-            "question": "Er det sikkert at give adgang til mit drev?",
-            "answer": "Ja, det er helt sikkert at tillade og give os adgang til dit drev. Vi vil ikke foretage nogen ændringer på dit websted, og dine dfiles vil være sikre med dig."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Hvordan kan jeg uploade filer fra mit drev/dropbox?",
-            "answer": "Klik på rullemenuen og vælg Dropbox/Google Drev. Vælg den Google-konto, hvorfra du vil linke dit drev. Nu kan du vælge de filer, du vil uploade."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Hvad er de funktioner, der tilbydes af billedet flipper funktionen fra safeimagekit.com mens, spejlvende et billede?",
-            "answer": "Billede flipper fra safeimagekit.com tilbyder alsidige funktioner, mens spejlvende et billede, hvor vi uploader billedfilen i rummet forudsat og redigere dette billede ved at dreje det til venstre eller til er dens højre eller rotere billedet med en marginal vinkel."
+            "question": "What are the features offered by the image flipper feature from safeimagekit.com while, flipping an image?",
+            "answer": "Image flipper from safeimagekit.com offers versatile features while flipping an image, where we upload the image file in the space provided and edit that image by rotating it to its left or to is its right or rotate the image with a marginal angle."
         },
         {
-            "question": "Hvordan kan vi rotere billedfilen til højre ved hjælp af billedet flipper funktionen fra safeimagekit.com?",
-            "answer": "Som et første skridt uploader vi billedfilen i det leverede rum. Det næste skridt vil blive gjort af hjemmesiden safeimagekit.com hvor det steadies billedet. Brugeren baseret på kravet vil rotere billedet til højre side ved at indsætte vinklen på den medfølgende plads. Efter indtastning af passende vinkel, tryk på „rotere“ knappen, som roterer billedet i henhold til vinklen. Tryk på knappen „gem“ for at gemme de foretagne ændringer."
+            "question": "How can we rotate the image file to the right, using the image flipper feature from safeimagekit.com?",
+            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the right side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
         },
         {
-            "question": "Hvordan kan vi rotere billedfilen til venstre ved hjælp af billedet flipper funktionen fra safeimagekit.com?",
-            "answer": "Som et første skridt uploader vi billedfilen i det leverede rum. Det næste skridt vil blive gjort af hjemmesiden safeimagekit.com hvor det steadies billedet. Brugeren baseret på kravet vil rotere billedet til venstre ved at indsætte vinklen på den medfølgende plads. Efter indtastning af passende vinkel, tryk på „rotere“ knappen, som roterer billedet i henhold til vinklen. Tryk på knappen „gem“ for at gemme de foretagne ændringer."
+            "question": "How can we rotate the image file to the left, using the image flipper feature from safeimagekit.com?",
+            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the left side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
         },
         {
-            "question": "Vil mine uploadede billedfiler korrupte efter at have roteret billedfilerne ved hjælp af billedflipper-filfunktionen fra safeimagefkit.com?",
-            "answer": "Nej, safeimagekit.com er bygget med alle de nyeste programmer og sikkerhedsfunktioner, som ikke tillader de uploadede billedfiler til korrupte. Så de uploadede billedfiler er helt sikre og sikrede."
+            "question": "Will my uploaded image files corrupt after rotating the image files using the image flipper file feature from safeimagefkit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Kan vi rotere de billedfiler, der er låst, ved hjælp af billedet flipper funktion fra safeimagekit.com?",
-            "answer": "Nej, vi kan ikke uploade den billedfil, der er låst, da adgangen til den pågældende billedfil er blokeret. Så for at bruge billedet flipper funktion fra safeimagekit.com vi nødt til at uploade billedfiler, som ikke er låst. Men brugeren kan kontrollere password finder udvidelse fra safeimagekit.com som udelukkende er lavet til oplåsning pdfs samt billedfiler, hvis brugeren mister sin adgangskode til sin låste billedfil."
+            "question": "Can we rotate the image files which are locked, using the image flipper feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the image flipper feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking pdfs as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "Kan jeg bruge billedflipper-funktionen fra safeimagekit.com på mit LINUX-operativsystem?",
-            "answer": "Ja, billedet flipper funktion fra safeimagekit.com kan bruges på ethvert operativsystem, selv LINUX. Den er bygget med den nyeste kode og funktioner, som gør det muligt for brugeren at bruge billedet flipper udvidelse på ethvert operativsystem som MAC OS, Windows og Ubuntu, forudsat at der er en enhed med en stabil internetforbindelse. Det vigtigste trick er, at det endda virker på en langsommere internetforbindelse."
+            "question": "Can I use the image flipper feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the image flipper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image flipper extension on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The main trick is that it even works on a slower internet connection."
         },
         {
-            "question": "Kan jeg bruge billedflipper-funktionen fra safeimagekit.com på en iOS-enhed?",
-            "answer": "Ja, billedet flipper udvidelse fra safeimagekit.com kan bruges på iOS-enheder og endda på Android-enheder. Det er bygget med de nyeste funktioner, som giver brugeren mulighed for at bruge denne udvidelse fil på ethvert operativsystem, alt det har brug for en internetforbindelse og en god webbrowser."
+            "question": "Can I use the image flipper feature from safeimagekit.com on an iOS device?",
+            "answer": "Yes, the image flipper extension from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
         },
         {
-            "question": "Hvad sker der med vores fremskridt, hvis vi opdaterer vores browser, mens vi bruger billedet flipper fra safeimagekit.com?",
-            "answer": "Billedet flipper funktion fra safeimagekit.com er ikke forbundet til nogen server derude, så de data, som brugeren arbejder på, vil ikke blive gemt overalt, og som et resultat, vil det blive slettet øjeblikkeligt, når brugeren opdaterer browseren, som han arbejder på. De billedfiler, der arbejdes på, vil også blive fjernet, når brugeren afslutter eller lukker fanen, hvor rotere billede side hjemmeside er åben."
+            "question": "What will happen to our progress if we refresh our browser while we are using the image flipper from safeimagekit.com?",
+            "answer": "The image flipper feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the rotate image page website is open."
         },
         {
-            "question": "Hvordan kan jeg gemme de ændringer, der er foretaget i billedfilen ved hjælp af billedflipper-funktionen fra safeimagekit.com?",
-            "answer": "Først skal du uploade en billedfil, der kræver en ændring, og brug derefter indstillingen „Indtast rotationsvinklen“ til at ændre billedets orientering. Brug derefter rotationsindstillingen til at starte rotationen, rotationen vil være øjeblikkelig og vil blive færdig inden for et sekund. Brug derefter gemmeindstillingen, som er givet til højre for hjemmesiden, dette gemmer de ændringer, der er foretaget på siderne i billedfilen og henter derefter billedfilen, som ændres ved hjælp af indstillingen kaldet „download“."
+            "question": "How can I save the changes made to the image file using the image flipper feature from safeimagekit.com?",
+            "answer": "First, upload an image file that requires a change, then use the “enter the rotation angle” option to change the orientation of the image. Then, use the rotate option to start the rotation, the rotation will be instantaneous and will be finished within a second. Then, use the save option which is given on the right of the website, this saves the changes made to the pages of the image file and then downloads the image file which is modified by using the option called “download”."
         },
         {
-            "question": "Hvilke billedformater understøttes af billedet flipper fra safeimagekit.com, mens du roterer et billede?",
-            "answer": "Billedet flipper fra safeimagekit.com understøtter alle de førende og populære billedformater derude. Disse omfatter-\n- Png format\n- Jpeg-format\n- JPG-format\n- Rå format, etc."
+            "question": "Which are the image formats supported by the image flipper from safeimagekit.com while, rotating an image?",
+            "answer": "The image flipper from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
         },
         {
-            "question": "Understøtter safeimagekit.com pdfs og. word format filer?",
-            "answer": "I øjeblikket understøtter safeimagekit.com ikke noget format gemme billedtypeformaterne. Billedet flipper funktion virker kun for billedfiler og opdateringer til hjemmesiden vil bringe støtte til alle formater, herunder pdf og. ordformater."
+            "question": "Do the safeimagekit.com support pdfs and. word format files?",
+            "answer": "Currently, safeimagekit.com does not support any format save the image type formats. The image flipper feature only works for image files and updates to the website will bring support to all the formats including pdf and. word formats."
         },
         {
-            "question": "Kan vi bruge refleks vinkel rotationer til at rotere vores billede ved hjælp af billedet flipper fra safeimagekit.com?",
-            "answer": "Refleksvinkler er de typer vinkler, hvis grademåling er mere end 180°, men mindre end 360°. Almindelige eksempler på refleksvinkler er; 200°, 220°, 250°, 300°, 350° osv. ja, billedet flipper funktionen fra safeimagekit.com understøtter rotation af billeder med refleks vinkler. Indtast bare refleksvinklen i „Indtast rotationsvinklen plads“ og tryk på rotere mulighed for at vende billedet. Tryk på gem-knappen efter det for at gemme de ændringer, der er foretaget på billedet. Endelig skal du trykke på download-knappen for at downloade billedet."
+            "question": "Can we use reflex angle rotations to rotate our image using the image flipper from safeimagekit.com?",
+            "answer": "Reflex angles are the types of angles whose degree measurement is more than 180° but less than 360°. Common examples of reflex angles are; 200°, 220°, 250°, 300°, 350°, etc. yes, the image flipper feature from safeimagekit.com do support the rotation of images with reflex angles. Just enter the reflex angle in “enter the rotation angle space” and hit the rotate option to flip the image. Hit the save button after that to save the changes made to the image. Finally, hit the download button to download the image."
         },
         {
-            "question": "Vil min fil blive gemt, efter at jeg har fuldført arbejdet på billedet flipper værktøj? ",
-            "answer": "Nej, vi sender ikke nogen af dine filer til vores servere alle operationer er udført på selve browseren derfor alle dine filer er helt sikkert. "
+            "question": "Will my file be saved after I complete working on the image flipper tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Skal jeg foretage yderligere tilmelding eller betale ekstra for at bruge billedet flipper værktøj? ",
-            "answer": "Absolut ikke, vores værktøj er helt online og kræver ikke, at du deler nogen af dine personlige oplysninger med os, ligesom e-mail-id, adgangskoder osv Vores værktøj er helt fri for omkostninger."
+            "question": "Do I have to do any additional signup or pay extra to use the image flipper tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Hvordan kommunikerer jeg, hvis jeg står over for problemer, eller hvis jeg vil give forslag?",
-            "answer": "Vi tager gerne ethvert problem eller forslag, der tilbydes af alle brugere, bedes du kontakte os via vores sociale medier håndtag for mere information. SafeImagekit.com er tilgængelig på alle de førende sociale medier hjemmesider som Facebook, Instagram, YouTube, og LinkedIn, etc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

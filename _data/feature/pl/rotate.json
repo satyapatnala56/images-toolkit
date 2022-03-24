@@ -1,14 +1,14 @@
 {
     "Language": "Polski",
     "htmlLangAtt": "pl",
-    "H1": "Odwróć obrazy online za darmo z tym zaawansowanym narzędziem",
+    "H1": "Flipper obrazu",
     "img": "/img/rotate.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "nofileupload": true,
     "variant": "informacje",
     "imgalt": "altvalue",
-    "H2": "Rotacja zdjęć została przez nas łatwa, zacznij od przesłania pliku poniżej",
+    "H2": "Rotacja zdjęć została z nami łatwa, zacznij od przesłania pliku poniżej",
     "TITLE": "Odwróć obraz- obraz flip online- safeimagekit",
     "META": "Szukasz wysokiej jakości płetwy do obrazu? Więc jesteś we właściwym miejscu. Nasze narzędzie do odwracania obrazu online jest niezwykle bezpieczne, przyjazne dla użytkownika i bardzo szybkie.",
     "LABEL": "",
@@ -65,72 +65,72 @@
     },
     "FAQ": [
         {
-            "question": "Czy zwolenie na dostęp do mojego jest bezpieczeństwo dysku?",
-            "answer": "Tak, jest w tym, że jest w tym, że jest w tym, że jest w tym, że jest w porządku, aby to Nie będzie wprowadzać zmian żadnych zmian w Twojej witrynie, a Twoje dfiles będzie bezpieczeństwo z Tobą."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Jak mogę przesyłać pliki z dysku lub Dropbox?",
-            "answer": "kliknij strzałkę w dół i wyboru Dropbox/Dysk Google. Wykorzystaj konto Google, z którego jest to, że jest to dysk. Teraz możesz wybrać pliki, które mają przesłać."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Jakie są one dostępne przez osobę przez flipper obrazu z safeimagekit.com podczas, odwracanie obrazu?",
-            "answer": "Obraz flipper z safeimagekit.com oferuje wszechstronne narzędzia podczas odwracania obrazu, gdzie przesyłamy w przestrzeni i edytować ten obraz, obracając go w lewo lub w prawo lub obracając obraz z marginalnym."
+            "question": "What are the features offered by the image flipper feature from safeimagekit.com while, flipping an image?",
+            "answer": "Image flipper from safeimagekit.com offers versatile features while flipping an image, where we upload the image file in the space provided and edit that image by rotating it to its left or to is its right or rotate the image with a marginal angle."
         },
         {
-            "question": "Jak możemy obrócić plik obrazu w prawo, a także z funkcji flipper obrazu z safeimagekit.com?",
-            "answer": "W pierwszym kroku przesyłamy plik obrazu w dostarczonej przestrzeni. Next zostanie krok wykonany stronę internetową safeimagekit.com, gdzie ustrowuje obraz. Użytkownik oparty na wymaganiu obróci obraz na prawą stronę poprzez wstawienie kąta na przestrzeni. Po dobrym wprowadzeniu kąta wcisk „obróć”, który obraca obraz zgodnie z kątem. Nasksa przycisk „zapisz”, aby zapisać się zmiany."
+            "question": "How can we rotate the image file to the right, using the image flipper feature from safeimagekit.com?",
+            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the right side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
         },
         {
-            "question": "Jak możemy obrócić plik obrazu w lewo, aby korzystać z funkcji flipper obrazu z safeimagekit.com?",
-            "answer": "W pierwszym kroku przesyłamy plik obrazu w dostarczonej przestrzeni. Next zostanie krok wykonany stronę internetową safeimagekit.com, gdzie ustrowuje obraz. Użytkownik oparty na wymaganiu obróci obraz w lewą stronę poprzez wstawienie kąta na przestrzeni Po dobrym wprowadzeniu kąta wcisk „obróć”, który obraca obraz zgodnie z kątem. Nasksa przycisk „zapisz”, aby zapisać się zmiany."
+            "question": "How can we rotate the image file to the left, using the image flipper feature from safeimagekit.com?",
+            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the left side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
         },
         {
-            "question": "Czy moje przesłane pliki obrazów obrazów uszkodzone po obróceniu plików graficznych przy wykorzystaniu funkcji pliku flipper obrazu z safeimagefkit.com?",
-            "answer": "Nie, safeimagekit.com jest zbudowany ze wszystkich najnowszych programów i funkcji zabezpieczeń, które nie na możliwość urazu przesłanych obrazów. Tak przesłane pliki są zupełnie zabezpieczone i zabezpieczone."
+            "question": "Will my uploaded image files corrupt after rotating the image files using the image flipper file feature from safeimagefkit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Czy możemy obracać pliki obrazów, które są zablokowane, za pomocą funkcji flipper obrazu z safeimagekit.com?",
-            "answer": "Nie, nie możemy przesłać pliku obrazu, który jest zablokowany, ponieważ dostęp do tego pliku obrazu jest zablokowany. Tak, aby z funkcji flipper obrazu z safeimagekit.com trzeba przesłać pliki obrazów, które nie są zablokowane. Jednak Użytkownik może się zdać rozszerzenie wyszukiwarki haseł z safeimagekit.com, które przeznaczone są wyłącznie do odblokowania plików PDF oraz plików graficznych w przypadku utraty hasła do zablokowanego pliku obrazu."
+            "question": "Can we rotate the image files which are locked, using the image flipper feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the image flipper feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking pdfs as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "Czy mogę korzystać z funkcji obrazu flipper z safeimagekit.com w moim systemie operacyjnym LINUX?",
-            "answer": "Tak, funkcja flipper obrazu z safeimagekit.com może być w używana system operacyjny, nawet LINUX. Jest on zainstalowany z najnowszego kodu i funkcji, które umożliwiają które użytkownikowi korzystać z rozszerzenia flipper obrazu w systemie operacyjnym, takim jak MAC OS, Windows i Ubuntu, pod warunkiem, że urządzenie ze stabilnym połączeniem internetowym. Główna sztuczką jest to, że działa nawet na wolniejszym połączeniu z Internetem."
+            "question": "Can I use the image flipper feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the image flipper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image flipper extension on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The main trick is that it even works on a slower internet connection."
         },
         {
-            "question": "Czy mogę korzystać z funkcji flipper obrazu z safeimagekit.com na urządzeniu z systemem iOS?",
-            "answer": "Tak, rozszerzenie flipper obrazu z safeimagekit.com może być na urządzeniach używanych z systemem iOS, a nawet na urządzeniach z systemem Android. Jest budowlany z najnowszych funkcji, zapewnia użytkownikowi swoje produkty z tego pliku w systemie operowym, wszystko to potrzebuje połączenia dobrej internetowego i bezgranicznego internetowego."
+            "question": "Can I use the image flipper feature from safeimagekit.com on an iOS device?",
+            "answer": "Yes, the image flipper extension from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
         },
         {
-            "question": "Co stanie się z Naszym POSTĘPem, jeśli odświeżymy naszej przeglądarce podczas korzystania z flipper obrazu z safeimagekit.com?",
-            "answer": "Funkcja flipper obrazu z safeimagekit.com nie jest podłączona do żadnego serwera, więc dane, nad którymi pracuje użytkownik, nie będą je w każdym miejscu i w pobliżu zostaną usunięte od razu gdy użytkownik odświeży browkę, nad którą pracuje. Pliki obrazów, nad którymi są pracowane, również usunięte po zamknięciu przez użytkownika lub zamknięciu karty, na otwarta jest strona internetowa strony internetowej z obróceniem obrazu."
+            "question": "What will happen to our progress if we refresh our browser while we are using the image flipper from safeimagekit.com?",
+            "answer": "The image flipper feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the rotate image page website is open."
         },
         {
-            "question": "Jak mogę zapisać zmiany włożone w pliku obrazu za pomocą funkcji flipper obrazu z safeimagekit.com?",
-            "answer": "Wstąpiłem prześlij plik obrazu, który wymaga zmiany, a stosuj opcji „wpis kąt obrotu”, aby zmienić orientację obrazu. To być stosowany opcji obracania, aby rozpocząć obrót, obrót będzie natychmiast i zakończy się w ciągu sekundy. Po przejrzeniu opcji zapisu, jest podana która po prawej stronie stronie, to zapisuje zmiany wprowadzone na stronach pliku obrazu, a pobiera plik obrazu, który jest modyfikowany za opcji nazwie pomocą o „pobierz”."
+            "question": "How can I save the changes made to the image file using the image flipper feature from safeimagekit.com?",
+            "answer": "First, upload an image file that requires a change, then use the “enter the rotation angle” option to change the orientation of the image. Then, use the rotate option to start the rotation, the rotation will be instantaneous and will be finished within a second. Then, use the save option which is given on the right of the website, this saves the changes made to the pages of the image file and then downloads the image file which is modified by using the option called “download”."
         },
         {
-            "question": "Jakie formaty obrazu obsługiwał przez flipper obrazu z safeimagekit.com podczas, obracając obraz?",
-            "answer": "Flipper obrazu z obrazu safeimagekit.com obsługiwać wszystkie biorące i formaty popularne obrazu tam. Wasz do nich...\n- format Png\n- format JPEG\n- format Jpg\n- Format surowy itp."
+            "question": "Which are the image formats supported by the image flipper from safeimagekit.com while, rotating an image?",
+            "answer": "The image flipper from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
         },
         {
-            "question": "Czy safeimagekit.com obsługują pliki PDF i pliki w formacie słowo?",
-            "answer": "obecnie safeimagekit.com nie obsługiwa formatów zapisywania typu formatów obrazu. Funkcja flipper obrazu działa tylko dla plików graficznych i aktualizacjach na stronie przynim wsparcie dla wszystkich formatów, w tym pdf i. formatów słów."
+            "question": "Do the safeimagekit.com support pdfs and. word format files?",
+            "answer": "Currently, safeimagekit.com does not support any format save the image type formats. The image flipper feature only works for image files and updates to the website will bring support to all the formats including pdf and. word formats."
         },
         {
-            "question": "Czy możemy użyć obrotów kąta reflex, aby obrócić nasz obraz za pomocą flipper obrazu z safeimagekit.com?",
-            "answer": "Kąty odblaskowe to typy kątów, których pomiar stopnia jest większy niż 180°, ale mniejszy 360°. typowe przykłady kątów odruchowych są; 200°, 220°, 250°, 300°, 350°, itp. tak, funkcja flipper obrazu z safeimagekit.com obsługiwał obrót obrazów z kątami odruchowymi. Wystarczy kąt odruchu w polu „Wprowadzaj przestrzeń kąta obrotu” i wcisnąć opcję obracania, aby odwrócić obraz. Wstąpać przycisk Zapisz, aby zapisać zmiany w obrazie. Na koniec przycisk przycisk Pobierz, aby pobierz obraz."
+            "question": "Can we use reflex angle rotations to rotate our image using the image flipper from safeimagekit.com?",
+            "answer": "Reflex angles are the types of angles whose degree measurement is more than 180° but less than 360°. Common examples of reflex angles are; 200°, 220°, 250°, 300°, 350°, etc. yes, the image flipper feature from safeimagekit.com do support the rotation of images with reflex angles. Just enter the reflex angle in “enter the rotation angle space” and hit the rotate option to flip the image. Hit the save button after that to save the changes made to the image. Finally, hit the download button to download the image."
         },
         {
-            "question": "Czy mój plik zapisany po zakończeniu pracy nad narzędziem flipper obrazu? ",
-            "answer": "Nie, nie wysyłamy żadnych żadnych pliki na nasze serwery wszystkie operacje są samym w przeglądarce, wszystkie dlatego pliki są w nich w porządku. "
+            "question": "Will my file be saved after I complete working on the image flipper tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Czy muszę wykonać dodatkową rejestrację lub płać dodatkowo, aby korzystać z narzędzia Flipper obrazu? ",
-            "answer": "Absolutnie nie, nasze narzędzie jest w całości online i nie wymaga udostępniania nam żadnych danych osobowych, takich jak poczta e-mail, hasła itp Nasze narzędzie jest w całości bezpłatne."
+            "question": "Do I have to do any additional signup or pay extra to use the image flipper tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Jak mogę się komunikować, jeśli napotykam jakiekolwiek problemy lub jeśli chcę chcę sugestie jakieś podać?",
-            "answer": "Chętnie podejmujemy spraw wszelkich lub sugestii oferowanych przez wszystkich użytkowników, prosimy o kontakt pośrednictwem za naszych serwisów społecznościowych, uzyskać aby informacji. SafeImagekit.com jest dostępny na wszystkich głównych portalach społecznościowych, takich jak Facebook, Instagram, YouTube i LinkedIn itp."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

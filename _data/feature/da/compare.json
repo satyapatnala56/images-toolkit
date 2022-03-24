@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Er det sikkert at give adgang til mit drev?",
-            "answer": "Ja, det er helt sikkert at tillade og give os adgang til dit drev. Vi vil ikke foretage nogen ændringer på dit websted, og dine dfiles vil være sikre med dig."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Hvordan kan jeg uploade filer fra mit drev/dropbox?",
-            "answer": "Klik på rullemenuen og vælg Dropbox/Google Drev. Vælg den Google-konto, hvorfra du vil linke dit drev. Nu kan du vælge de filer, du vil uploade."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Hvad er de funktioner, der tilbydes af billedsammenligningsfunktionen fra safeimagekit.com, mens man sammenligner to billeder?",
-            "answer": "Billedsammenligningsfunktionen fra safeimagekit.com tilbyder alsidige funktioner, mens man sammenligner to funktioner. De vigtigste funktioner omfatter \n- Sammenligning af to billeder på skyderen basis\n- Sammenligning af to billeder baseret på pixels.\n- Sammenligning af to billeder baseret på oplysningerne.\n- Sammenligning af to billeder baseret på fade effekt.\nDisse nævnte sammenligningsmetoder er grundlæggende i naturen, hvor de sammenlignes, og resultatet af deres sammenligning er direkte vist på skærmen."
+            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
+            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
         },
         {
-            "question": "Hvordan kan vi sammenligne to billeder baseret på skyderen sammenligning af billedet sammenligning funktion fra safeimagekit.com?",
-            "answer": "Det første trin omfatter upload af de billeder, der har brug for en sammenligning. Det næste skridt er at klikke på stiften med navnet „slider“ dette aktiverer skyderen baseret sammenligning. Resultatet af deres sammenligning vises direkte på skærmen."
+            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
         },
         {
-            "question": "Hvordan kan vi sammenligne to billeder baseret på pixelsammenligningsmetoden for billedsammenligningsfunktionen fra safeimagekit.com?",
-            "answer": "Det første trin omfatter upload af de billeder, der har brug for en sammenligning. Det næste skridt er at klikke på stiften med navnet „pixel“ dette aktiverer den pixelbaserede sammenligning. Pixels af det første billede vises på det andet billede, Resultatet af deres sammenligning vises direkte på skærmen, hvor vi sammenligner pixlerne i det første billede over det andet"
+            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
         },
         {
-            "question": "Hvordan kan vi sammenligne to billeder baseret på fadeeffektmetoden for billedsammenligningsfunktionen fra safeimagekit.com?",
-            "answer": "Det første trin omfatter upload af de billeder, der har brug for en sammenligning. Det næste skridt er at klikke på stiften med navnet „fade“ dette aktiverer fade effekt-baserede sammenligning. Den falmede struktur af det første billede er vist på det andet billede, Resultatet af deres sammenligning vises direkte på skærmen, hvor vi sammenligner karakteren af det første billede over det andet billede."
+            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
         },
         {
-            "question": "Hvordan kan vi sammenligne to billeder baseret på info statistik af de billeder, der uploades ved hjælp af billedet sammenligning funktion fra safeimagekit.com?",
-            "answer": "Det første trin omfatter upload af de billeder, der har brug for en sammenligning. Det næste skridt er at klikke på stiften med navnet „info“ dette aktiverer den infobaserede sammenligning. Oplysningerne om det første billede vises ved siden af det andet billede, Resultatet af deres sammenligning vises direkte på skærmen, hvor vi sammenligner karakteren af det første billede over det andet billede ved at sammenligne billedets statistik."
+            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
         },
         {
-            "question": "Hvordan fungerer den infobaserede sammenligning af billedsammenligningsfunktionen fra safeimagekit.com?",
-            "answer": "Den info-baserede sammenligning af sammenligningsbilledfunktionen fra safeimagekit.com virker ved at sammenligne egenskaberne for de uploadede billeder. Disse egenskaber omfatter billedets navn, billedets størrelse, billedets type, billedets højde, billedets bredde. Brugeren kan sammenligne billederne ved at følge disse egenskaber."
+            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
+            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
         },
         {
-            "question": "Kan jeg bruge sammenligningsbilledfunktionen fra safeimagekit.com på min Windows 8 ultimative?",
-            "answer": "Sammenlign billede funktion er en alsidig funktion, der tilbydes af safeimagekit.com som understøttes af alle operativsystemer derude som Windows 8, Linux, og endda Ubuntu. Alt det kræver er en enhed til at åbne udvidelsesfilen ved hjælp af www.safeimagekit.com hjemmeside og en normal internetforbindelse til at stå på. Det sjove faktum er, at det endda kan køre på en langsommere internetforbindelse."
+            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
+            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Kan jeg bruge funktionen Sammenlign billede fra safeimagekit.com på min Android-enhed? ",
-            "answer": "Ja, sammenlign billede funktion fra safeimagekit.com er en cross-platform baseret funktion, hvor brugeren kan bruge denne konverter værktøj fra operativsystemer som Android, iOS, Windows, og Mac OS. Det er uafhængigt af de anvendte operativsystemer, men afhænger kun af internetforbindelsen."
+            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "Skal vi bruge yderligere software til at downloade de ændrede billeder efter konvertering ved hjælp af sammenligne billedfunktionen fra safeimagekit.com?",
-            "answer": "Nej, brugerne efter at sammenligne deres billeder ved at indtaste deres respektive billeder, trods alt, denne funktion giver ikke en mulighed for at downloade. Resultatet af deres sammenligning vises direkte på skærmen, så billederne sammenlignes direkte. Det er en browser-baseret konverter værktøj, der ikke understøtter eller ingen yderligere software er nødvendig for at downloade det ændrede billede."
+            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
+            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
         },
         {
-            "question": "Hvad sker der med vores fremskridt, hvis vi opdaterer vores browser, mens vi bruger sammenligningsbilledværktøjet fra safeimagekit.com?",
-            "answer": "Den sammenligning billede værktøj fra safeimagekit.com er ikke forbundet til nogen server derude, så de data, som brugeren arbejder på, vil ikke blive gemt overalt, og som et resultat, vil det blive slettet øjeblikkeligt, når brugeren opdaterer den browser, som han arbejder på. De billedfiler, der sammenlignes, vil også blive fjernet efter brugeren afslutter eller lukker fanen, hvor udvidelsen side af hjemmesiden er åben."
+            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
+            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Kan vi sammenligne de billedfiler, der er låst, ved hjælp af sammenligne billede funktion fra safeimagekit.com?",
-            "answer": "Nej, vi kan ikke uploade den billedfil, der er låst, da adgangen til den pågældende billedfil er blokeret. Så, for at bruge sammenligne billede funktion fra safeimagekit.com vi nødt til at uploade de billedfiler, der ikke er låst. Men brugeren kan kontrollere password finder udvidelse fra safeimagekit.com som udelukkende er lavet til oplåsning billede samt billedfiler, hvis brugeren mister sin adgangskode til sin låste billedfil."
+            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "Vil mine uploadede billedfiler korrupte efter sammenligning af billedfilerne ved hjælp af sammenligningsbilledfilfunktionen fra safeimagekit.com?",
-            "answer": "Nej, safeimagekit.com er bygget med alle de nyeste programmer og sikkerhedsfunktioner, som ikke tillader de uploadede billedfiler til korrupte. Så de uploadede billedfiler er helt sikre og sikrede."
+            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Vil min fil blive gemt, efter at jeg har fuldført arbejdet på billedsammenligningsværktøjet? ",
-            "answer": "Nej, vi sender ikke nogen af dine filer til vores servere alle operationer er udført på selve browseren derfor alle dine filer er helt sikkert. "
+            "question": "Will my file be saved after I complete working on the image comparison tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Skal jeg foretage yderligere tilmelding eller betale ekstra for at bruge billedsammenligningsværktøjet? ",
-            "answer": "Absolut ikke, vores værktøj er helt online og kræver ikke, at du deler nogen af dine personlige oplysninger med os, ligesom e-mail-id, adgangskoder osv Vores værktøj er helt fri for omkostninger."
+            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Hvordan kommunikerer jeg, hvis jeg står over for problemer, eller hvis jeg vil give forslag?",
-            "answer": "Vi tager gerne ethvert problem eller forslag, der tilbydes af alle brugere, bedes du kontakte os via vores sociale medier håndtag for mere information. SafeImagekit.com er tilgængelig på alle de førende sociale medier hjemmesider som Facebook, Instagram, YouTube, og LinkedIn, etc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

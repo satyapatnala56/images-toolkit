@@ -1,7 +1,7 @@
 {
     "Language": "日本語",
     "htmlLangAtt": "ja",
-    "H1": "合合行者",
+    "H1": "フォトスプリッタ",
     "img": "/img/split.png",
     "imgwidth": "35px",
     "imgheight": "35px",
@@ -17,9 +17,9 @@
         "created": "2021-05-03T 11:02:10 .680Z",
         "__v": 0
     },
-    "H2": "しなぞくぞくせい。",
-    "TITLE": "「PeLKeP-Prp-SP」-F",
-    "META": "ojpep ApeApeAC？あ、そっちませ。IIWFBFBFWMo、きれい、",
+    "H2": "オンラインでの画像の分割が簡単になりました。まずファイルを以下からアップロードしてください",
+    "TITLE": "フォトスプリッター-スプリット写真-セーフイメージキット",
+    "META": "高品質のフォトスプリッターをお探しですか？さて、あなたは正しい場所にいます。私たちのオンライン分割写真ツールは非常に安全で、ユーザーフレンドリーで、超高速です。",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff6666",
@@ -28,114 +28,114 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "高品質",
-            "content": "うわー、願わいせつぞくした。"
+            "content": "当社のフォトスプリッターツールは、画質を維持して画像を分割します。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "データセキュリティ",
-            "content": "素素人、我我我我らにしろ「」、「和」100%"
+            "content": "お客様のデータは当社のサーバーに送信されず、すべての操作はブラウザ自体で行われます。これにより、ユーザーに対して 100% の安全を確保できます"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "柔軟性",
-            "content": " 素直しなみ、空中和と素素回り。"
+            "content": " 当社のフォトスプリッタツールは、ほとんどすべての種類のブラウザとデバイスで動作します。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "ユーザーフレンドリー",
-            "content": "私たちの行をみせる、食べる、食べる。"
+            "content": "私たちのフォトスプリッターツールは非常に理解しやすく、ツールで作業するのに専門家は必要ありません。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "話すののの",
-            "content": "乗っっ取り早く。1PsiSMADONOBJOM"
+            "header": "費用はかかりません",
+            "content": "当社のフォトスプリッターツールは完全に無料です。1ペニーも払わずにすべてのツールを使用できます"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "追加ダウンロードなし",
-            "content": "素直な OperOUmaSA、OperOUmaSA、OUCHOW。"
+            "content": "当社のフォトスプリッタツールは完全にブラウザベースであり、デバイスに追加のソフトウェアをダウンロードする必要はありません。"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "私たちの大会。",
+        "heading": "私たちのイメージを分割する方法。",
         "steps": [
-            "、fon00dropbox/Google ドライブ、堪能輪。",
-            "あっささかな。",
-            "「分割」",
-            "「いよね」、くれくれ",
-            "万歳！！。"
+            "画像をアップロードするか、ドロップダウン矢印をクリックして Dropbox/Google Drive を選択し、分割が必要なファイルを選択します。",
+            "画像の分割に必要なパラメーターを調整します。",
+            "「分割」ボタンを押して分割を開始します。",
+            "「すべて保存」を押して、行った変更を保存します",
+            "万歳！！イメージは使える状態です。"
         ]
     },
     "FAQ": [
         {
-            "question": "ドライブへのアクセスを許可しても安全ですか？",
-            "answer": "はい、ドライブへのアクセスを許可し、許可することは絶対に安全です。私たちはあなたのサイトにいかなる変更も加えず、あなたのファイルはあなたと安全に保管されます。"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "ドライブ/ドロップボックスからファイルをアップロードするにはどうすればいいですか？",
-            "answer": "ドロップダウンの矢印をクリックし、[Dropbox/Google ドライブ] を選択します。ドライブをリンクする Google アカウントを選択します。アップロードするファイルを選択できるようになりました。"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "safeimagekit.comのフォトスプリッターは、写真や画像を分割する際にどのような機能を提供していますか？",
-            "answer": "safeimagekit.comのフォトスプリッターは、写真や画像を分割する際に多彩な機能を提供します。主な機能は次のとおりです。\n-アップロードされた画像の行と列の次数での分離オプション。\n-分割された画像ファイル部分は、ユーザーのニーズに応じて画像を分割した後、個別にダウンロードできます。これらのファイルは png 形式で提供されています。\n-分割された画像ファイル部分は、他の画像ファイル形式よりも少ない容量で.zip 形式でダウンロードすることもできます。"
+            "question": "What are the features offered by the photo splitter from safeimagekit.com while splitting a photo or an image?",
+            "answer": "The photo splitter from safeimagekit.com offers versatile features while splitting a photo or an image. The main features include\n- the separation options of the uploaded image in the degree of rows and columns.\n- The divided image file parts can be downloaded separately after splitting the image based on the need of the user. These files are offered in png format.\n- The divided image file parts can also be downloaded in the .zip format which consumes less space than the other image file formats."
         },
         {
-            "question": "safeimagekit.com の画像スプリッターを使用して画像ファイルを分割しながら、アップロードした画像ファイルを行単位で分割できる部分はいくつですか？",
-            "answer": "safeimagekit.com のイメージスプリッターを使用してイメージファイルを分割する際に、ユーザーが行単位で分割できる最大分割数は 1000 で、正確な分割数です。現在、フォトスプリッターは、現在の制限を押し上げることができる更新中です。行分割は水平方向の分割で、分割時に画像全体にわたって行われます。"
+            "question": "How many parts can we divide the uploaded image file in terms of rows, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of rows while splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Row divisions are horizontal divisions, which are made across the image while splitting."
         },
         {
-            "question": "safeimagekit.com の画像スプリッターを使用して画像ファイルを分割しながら、アップロードした画像ファイルを列単位で分割できる部分はいくつですか？",
-            "answer": "safeimagekit.comの画像スプリッターを使用して画像ファイルを分割する際に、ユーザーが列単位で分割できる最大分割数は、正確な分割で1000です。現在、フォトスプリッターは、現在の制限を押し上げることができる更新中です。列の分割は垂直方向の分割で、分割時に画像全体にわたって行われます。"
+            "question": "How many parts can we divide the uploaded image file in terms of columns, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of columns while, splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Columns divisions are vertical divisions, which are made across the image while splitting."
         },
         {
-            "question": "safeimagekit.com の画像スプリッターを使用して画像を分割するときに、行のスペースに 20、列のスペースに 50 を入力すると、いくつの画像部分が得られますか？",
-            "answer": "safeimagekit.com の画像分割機能は、簡単な計算を実行できる基本的な数学コードを備えています。したがって、行のスペースに20、列のスペースに50を入力すると、ページは基本的な計算を実行し、行数に列の数を掛けて、その積を画像の分割として取得します。つまり、アップロードされた画像の 50*20=1000 の画像分割 (一部) になります。これらの画像パーツは、パーツごとに個別に png ファイルの形式でダウンロードすることも、zip ファイルとしてダウンロードすることもできます。"
+            "question": "How many image parts do I get if I enter 20 in the space of rows and 50 in the space of columns while splitting an image using the image splitter from safeimagekit.com?",
+            "answer": "The image splitter feature from safeimagekit.com is fitted with basic math codes which have the ability to perform simple calculations. So, when we enter 20 in the space of rows and 50 in the space of columns the page performs basic math and the number of rows is multiplied by the number of columns such that we get their product as divisions of the image. So, 50*20=1000 image divisions(parts) of the uploaded image. These image parts can be downloaded in the form of png file separately by part or can be downloaded as a zip file."
         },
         {
-            "question": "safeimagekit.comのフォトスプリッターを使用してアップロードした画像を分割した後、画像の分割部分をjpeg形式でダウンロードできますか？",
-            "answer": "いいえ、safeimagekit.comのフォトスプリッターの分割オプションは、画像セクションのダウンロードをpng形式でのみ提供します。現在、画像スプリッターは画像を分割し、画像の一部を PNG 形式と zip ファイルで作成します。Jpeg、jpg、およびその他の画像フォーマットは、今後含まれる予定です。"
+            "question": "Can we download the split part of the image in the form of a jpeg, after splitting the uploaded image using the photo splitter from safeimagekit.com?",
+            "answer": "No, the splitting option of photo splitter from safeimagekit.com offers the download of the image section in the form of png only. Currently, the image splitter splits the image accordingly and produces the parts of the image in png format as well as a zip file. Jpeg, jpg, and other image formats are destined to be included in the coming future."
         },
         {
-            "question": "safeimagekit.comのフォトスプリッターの分割機能を使用して、画像ファイルのセクションを1つずつダウンロードするのではなく、全体的にダウンロードできますか？",
-            "answer": "はい、safeimagekit.comのフォトスプリッターの分割機能により、ユーザーは画像のすべてのセクションを1つずつダウンロードするのではなく、1回のストレッチでダウンロードできます。分割後、ページ下部に「zipファイルとして保存」というオプションがあります。このオプションを選択すると、イメージのすべてのセクションが単一のzipファイルにダウンロードされ、ユーザーは必要なときにいつでも必要なセクションをzipファイルから分離して抽出できます。"
+            "question": "Can we download the sections of the image file overall, instead of one by one using the split feature of photo splitter from safeimagekit.com?",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com lets the user download all the sections of the image in a single stretch instead of downloading them one by one. There is an option called “save as zip file” at the bottom of the page after splitting them. After hitting that option, all the sections of the image downloads into a single zip file and the user can separate and extract the required section from the zip file whenever it is needed."
         },
         {
-            "question": "safeimagekit.com のフォトスプリッターの分割機能には、アップロードされた画像ファイルの 1 つのセクションをダウンロードするオプションがありますか？ ",
-            "answer": "はい、safeimagekit.comのフォトスプリッターの分割機能は、アップロードされた画像ファイルの1つのセクションをダウンロードするオプションを提供します。必要な画像のセクションを押すだけで、その特定のセクションがpng画像形式でのみダウンロードされます。"
+            "question": "Does the split feature of the photo splitter from safeimagekit.com provide the option to download a single section of the image file uploaded? ",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com does provide the option to download a single section of the image file uploaded. Just hit the section of the image which is required and it downloads that particular section only in the png image format."
         },
         {
-            "question": "safeimagekit.com のフォトスプリッターの分割機能は、アップロードされた画像ファイルを分割した後に何らかのプレビューを提供しますか？",
-            "answer": "いいえ、現在 safeimagekit.com のフォトスプリッターの分割機能は、アップロードされた画像のセクションのプレビューを提供していません。アップロードされた画像のセクションが行き過ぎて、ブラウザーが各セクションのプレビューを処理するのが非常に難しくなるためです。イメージ。"
+            "question": "Does the split feature of photo splitter from safeimagekit.com provide any type of preview after splitting the uploaded image file?",
+            "answer": "No, currently the split feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image."
         },
         {
-            "question": "safeimagekit.com の分割機能を使ってイメージファイルを分割するにはどうしたらいいですか？",
-            "answer": "イメージファイルを分割する際に参照できる基本的な手順は6つあります。\n-分割する画像ファイルをアップロードする\n-必要な行数と列数を入力します。 \n-ヒットスプリット\n-ブーム！！アップロードされたイメージファイルのセクションを以下に示します。\n-必要なセクションを個別にクリックしてダウンロードするか、[すべてダウンロード] オプションを使用してまとめてダウンロードします。\n-ダウンロードする容量が多い場合は、すべてのセクションを1つのzipファイルにダウンロードする「zipファイルとして保存」オプションを自由に使用してください。"
+            "question": "How do we split the image file using the split feature from safeimagekit.com?",
+            "answer": "There are 6 basic steps that the user can refer to while splitting an image file-\n-\tUpload the image file to be split\n-\tEnter the number of rows and columns required \n-\tHit split\n-\tBOOM!! The sections of the uploaded image file are presented below\n-\tDownload the required section by clicking it separately, or download them all together using the “DOWNLOAD ALL” option.\n-\tIf the space to be downloaded is more, feel free to use the “save as zip file” option which downloads all the sections in a single zip file."
         },
         {
-            "question": "Windows 8 で safeimagekit.com のフォトスプリッター機能を使用できますか？",
-            "answer": "フォトスプリッターはsafeimagekit.comが提供する多目的な機能で、Windows 8、Linux、さらにはUbuntuなどのすべてのオペレーティングシステムでサポートされています。必要なのは、www.safeimagekit.com Webサイトを使用して拡張ファイルを開くデバイスと、通常のインターネット接続でスタンドオンするだけです。面白い事実は、低速のインターネット接続でも実行できることです。"
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Windows 8?",
+            "answer": "Photo splitter is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "safeimagekit.com のフォトスプリッター機能はアンドロイド端末で使えますか？ ",
-            "answer": "はい、safeimagekit.comのフォトスプリッター機能は、ユーザーがAndroid、iOS、Windows、Mac OSなどのオペレーティングシステムからこのコンバーターツールを使用できるクロスプラットフォームベースの機能です。使用するオペレーティングシステムには依存しませんが、インターネット接続にのみ依存します。"
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the photo splitter feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "フォトスプリッターツールでの作業が完了すると、ファイルは保存されますか？ ",
-            "answer": "いいえ、お客様のファイルをサーバーに送信することはありません。すべての操作はブラウザ自体で行われるため、すべてのファイルは完全に安全です。 "
+            "question": "Will my file be saved after I complete working on the photo splitter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "フォトスプリッターツールを使用するには、追加のサインアップや追加料金が必要ですか？ ",
-            "answer": "もちろん、私たちのツールは完全にオンラインであり、電子メールID、パスワードなどの個人情報を私たちと共有する必要はありません。"
+            "question": "Do I have to do any additional signup or pay extra to use the photo splitter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "何か問題に直面した場合、または何か提案をしたいのであれば、どのように連絡すればよいですか？",
-            "answer": "すべてのユーザーから提供された問題や提案を喜んで受け入れます。詳細については、ソーシャルメディアのハンドルからお問い合わせください。SafeImageKit.comは、フェイスブック、インスタグラム、ユーチューブ、LinkedInなど、すべての主要なソーシャルメディアWebサイトで利用できます。"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jsfilepaths": [

@@ -1,16 +1,16 @@
 {
     "Language": "简体中文",
     "htmlLangAtt": "zh",
-    "H1": "Billede Cropper",
+    "H1": "图片裁剪器",
     "img": "/img/crop.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
-    "variant": "advarsel",
-    "H2": "Beskæring billeder 是 blevet gjort nemt med os，从 uploade din fil nedenfor 开始医学",
-    "TITLE": "Beskær billede-在线图片 afgrøde-safeimageKit",
-    "META": "Leder du efter en høj kvalitet billede cropper？所以呃 du på det rigtige sted。我们的在线 billedafgrødeværktøj 是 ekstremt sikkert、brugervenligt 和 super hurtigt。",
+    "variant": "警告",
+    "H2": "我们可以轻松裁剪图片，首先在下面上传文件",
+    "TITLE": "裁剪图像-在线图像裁剪-safeimagekit",
+    "META": "您在寻找高质量的图像裁剪器吗？好吧，那么你来对地方了。我们的在线图像裁剪工具非常安全，用户友好且超级快捷。",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff704d",
@@ -18,128 +18,128 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "Høj kvalitet",
-            "content": "我们的 billede cropper værktøj afgrøder billederne ved 在 bevare sin kvalitet。"
+            "header": "高质量",
+            "content": "我们的图像裁剪器工具通过保持图像质量来裁剪图像。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Datasikkerhed",
-            "content": "没有你的数据发送到我们的服务器所有操作员 er udført 我自己浏览器。Dette gør det muligt for os 在 være 100% sikre 为 vores brugere"
+            "header": "数据安全",
+            "content": "您的任何数据都不会发送到我们的服务器上，所有操作都是在浏览器本身上完成的。这使我们能够为用户提供 100％ 的安全"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "Fleksibilitet",
-            "content": " 我们的 billede cropper værktøj virker 在浏览器和 enheder 的所有前者中都是 næsten。"
+            "header": "灵活性",
+            "content": " 我们的图像裁剪器工具几乎可以在所有类型的浏览器和设备上使用。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Brugervenlig",
-            "content": "我们的 billede cropper værktøj 是 meget 让我们在 forstå ingen Professionel er nødvendig 在 arbejde 上我们的 værktøj。"
+            "header": "用户友好",
+            "content": "我们的图像裁剪器工具非常容易理解，不需要专业人员来使用我们的工具。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "免费为 omkostninger",
-            "content": "我们的 billede cropper værktøj 是 omkostninger 的 helt fri，kan du bruge alle værktøjer uden 在 betale en enkelt krone"
+            "header": "免费",
+            "content": "我们的图像裁剪工具完全免费，您无需支付任何费用即可使用我们所有的工具"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "不用再下载",
-            "content": "我们的 billede cropper værktøj 是 helt 浏览器 baseret 和没有 yderligere 软件是 påkrævet 在你的 enhed 上的 blive downloadet。"
+            "header": "没有额外的下载",
+            "content": "我们的图像裁剪工具完全基于浏览器，无需在设备上下载其他软件。"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "Sådan beskære vores billede。",
+        "heading": "如何裁剪我们的形象。",
         "steps": [
-            "上传 billedet、der skal beskæres、或者点击 rullemenuen，然后选择 Dropbox/Google Drev",
-            "Beskær billedet 我 overensstemmelse hermed。",
-            "Kig på de ændringer，der er foretaget 我在 rulle ned 上了 billedfilen ved。",
-            "Gem de foretagne ændringer。",
-            "在 trykke 下载 billedfilen ved 下载 indstillingen。",
-            "哈拉！！billedet 呃 klar til brug。"
+            "上传要裁剪的图片，或者单击下拉箭头，然后选择 Dropbox/Google 云端硬盘",
+            "相应地裁剪图像。",
+            "向下滚动查看对图像文件所做的更改。",
+            "保存所做的更改。",
+            "点击下载选项下载图像文件。",
+            "欢呼！！图像已准备就绪，可以使用了。"
         ]
     },
     "FAQ": [
         {
-            "question": "允许访问我的云端硬盘安全吗？",
-            "answer": "是的，允许我们访问您的硬盘是绝对安全的。我们不会对您的网站进行任何更改，并且您的dfiles将是安全的。"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "如何从我的云端硬盘/保管箱上传文件？",
-            "answer": "单击下拉箭头，然后选择 Dropbox/Google 云端硬盘。选择要从中关联云端硬盘的Google帐户。现在，您可以选择要上传的文件。"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "在裁剪图像时，来自 safeimagekit.com 的裁剪图像提供了哪些功能？",
-            "answer": "safeimagekit.com的裁剪图像功能在裁剪图像时提供了多种功能，用户可以上传任何格式的图像，并且可以在我们的裁剪功能的帮助下进行裁剪。此裁剪功能允许用户从上传的图像中剪掉不需要的部分。用户可以通过移动从8个方向操作的裁剪器框来调整图像上的切割部分。"
+            "question": "What are the features offered by the crop image from safeimagekit.com while, cropping an image?",
+            "answer": "The crop image feature from safeimagekit.com offers versatile features while cropping an image, the user can upload any format of image and that will be cropped with the help of our cropping feature. This cropping feature allows the user to cut off the unwanted portion from the image uploaded. The user can adjust the cutting sections on the image by shifting the cropper box which operates from 8 directions."
         },
         {
-            "question": "我们如何使用 safeimagekit.com 的裁剪功能裁剪图像？",
-            "answer": "用户可以使用4个基本步骤来裁剪他们包含的图像-\n-在提供的空白处上传图片，然后点击上传开始裁剪。\n-选择裁剪框并使用图像上的大头针移动它，这将调整图像上的框。这意味着仅保存或裁剪放置盒子的图像。\n-接下来，点击下面的文件按钮，这将保存对图像所做的更改。\n-最后，点击下载按钮下载更新的图像。"
+            "question": "How do we crop an image using the cropping feature from safeimagekit.com?",
+            "answer": "There are 4 basic steps using which the user can crop an image they include-\n-\tUpload the image in the space provided and hit upload to begin the cropping.\n-\tSelect the crop box and move it using the pins on the image, this adjusts the box on the image. This means that the image is only saved or cropped on which the box is placed.\n-\tNext, hit the file button below, this saves the changes made to the image.\n-\tFinally, hit the download button to download the updated image."
         },
         {
-            "question": "safeimageit.com 支持哪些图像裁剪格式？",
-            "answer": "目前，safeimagekit.com提供适用于所有格式的图像裁剪功能，但是用户可以从以下图像格式中利用此功能：\n-Png \n-Jpeg \n-Jpg\n-米姆\n-Xmap 等"
+            "question": "Which are the supported formats for image cropping offered by safeimageit.com?",
+            "answer": "Currently, safeimagekit.com offers image cropping features for all the formats out there, but the user can take the advantage of this feature from the following formats of the images:\n-\tPng \n-\tJpeg \n-\tJpg\n-\tMeme\n-\tXmap, etc."
         },
         {
-            "question": "我们可以使用 safeimagekit.com 的图像裁剪功能裁剪 4k 图像和 8k 图像吗？",
-            "answer": "是的，safeimagekit.com 的图像裁剪功能提供 4k 和 8k 图像转换。4k图像裁剪功能效果很好，但是，与1080p和4k图像相比，8k图像裁剪会稍微延迟，因为safeimagekit.com的8k图像处理确实需要一些时间。"
+            "question": "Can we crop 4k images and 8k images using the image cropping feature from safeimagekit.com?",
+            "answer": "Yes, the image cropping feature from safeimagekit.com offers 4k and 8k image conversion. The 4k image cropping feature works perfectly fine, however, 8k image cropping will slightly delay comparing to 1080p and 4k images because the 8k image processing by the safeimagekit.com does take a bit of time."
         },
         {
-            "question": "转换器裁剪图像文件需要多长时间？",
-            "answer": "时间是这里令人兴奋的因素，在这里我们上传文件并看到魔术发生，裁剪转换发生在我们可以裁剪各种类型的图像文件的瞬间。唯一耗时的因素就是正常的互联网连接。"
+            "question": "What is the time taken by the converter to crop an image file?",
+            "answer": "Time is the exciting factor present here, where we upload the file and see the magic happens, the cropping conversion happens in an instant where we can crop various types of image files. The only time-taking factor and all it takes is a normal internet connection."
         },
         {
-            "question": "我可以使用 safeimagekit.com 的图像裁剪器来转换音频或视频文件吗？",
-            "answer": "来自 safeimagekit.com 的图像裁剪器仅提供图像裁剪功能。目前，image cropper不提供视频或音频文件转换，但将来对网站的升级将为您带来所有令人兴奋的功能。"
+            "question": "Can I use image cropper from safeimagekit.com to convert my audio or video files?",
+            "answer": "Image cropper from safeimagekit.com only offers image cropping features. Currently, image cropper does not offer video or audio file conversion but future upgrades to the website will bring you all the exciting features."
         },
         {
-            "question": "我们可以使用 safeimagekit.com 的裁剪选项编辑或创建 GIF 吗？ ",
-            "answer": "GIF是具有文本插入功能的动态图片；GIF是非常短的片段或需要其他编辑选项的图像片段。上传的 GIF 可以使用 safeimagekit.com 进行裁剪。但是，将来的一些小更新将为safeimagekit.com网站带来编辑 GIF 的乐趣。"
+            "question": "Can we edit or create GIFs using the cropping option from safeimagekit.com? ",
+            "answer": "GIFs are moving pictures with text insertion feature; GIFs are very short clips or bits of images which require other editing options. GIFs that are uploaded can be cropped using safeimagekit.com. However, some minor updates in the future will bring the fun of editing GIFs to the safeimagekit.com website."
         },
         {
-            "question": "我们可以使用 safeimagekit.com 的图像裁剪器裁剪 1080p 和 720p 的照片吗？",
-            "answer": "是的，safeimagekit.com的图像裁剪器从外部提供1080p和720p分辨率编辑功能，它们使我们能够修改图片的裁剪，从而减小图片的大小。"
+            "question": "Can we crop 1080p and 720p pictures using image cropper from safeimagekit.com?",
+            "answer": "Yes, image cropper from safeimagekit.com offers 1080p and 720p resolution editing features from the outside they allow us to modify the cropping of the picture thereby decreasing its size."
         },
         {
-            "question": "在webp和jpg格式中，哪种图像格式更可取？",
-            "answer": "优化的jpg与webp相似或优于webp。但是，webp 是一种新的图像格式，并非所有浏览器都支持。两者之间的典型区别在于质量，即尺寸的差异为15％-25％。"
+            "question": "Which image format is preferable among webp and jpg formats?",
+            "answer": "A well-optimized jpg is similar to or better than webp. However, webp is a new image format and it is not supported by all browsers. The typical difference between both of them is at the quality which is a 15%-25% difference in the size."
         },
         {
-            "question": "从 safeimagekit.com 的图像裁剪器下载图像后，我的图像质量会降低吗？",
-            "answer": "不，从safeimagekit.com的图像裁剪器下载图像后，图像的质量不会降低。图像不会失去质量，并且在裁剪图像后将以相同的质量进行移动。"
+            "question": "Will my image quality decrease after downloading them from the image cropper from safeimagekit.com?",
+            "answer": "No, the quality of the image won’t decrease after downloading them from image cropper from safeimagekit.com. The images won’t lose their quality and will be shifted with the same quality after cropping the image."
         },
         {
-            "question": "如果我们在使用 safeimagekit.com 的图像裁剪器时刷新浏览器，我们的进度会怎样？",
-            "answer": "来自safeimagekit.com的图像裁剪器没有连接到任何服务器，因此用户正在处理的数据将不会存储在任何地方，因此，当用户刷新正在使用的浏览器时，它将立即被删除。用户退出或关闭打开网站扩展页的选项卡后，正在处理的图像文件也将被删除。"
+            "question": "What will happen to our progress if we refresh our browser while we are using the image cropper from safeimagekit.com?",
+            "answer": "The image cropper from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "我可以在我的 LINUX 操作系统上使用 safeimagekit.com 的图像裁剪器功能吗？",
-            "answer": "是的，safeimagekit.com 的图像裁剪器功能可以在任何操作系统上使用，甚至是 LINUX。它使用最新的代码和功能构建，使用户可以在任何操作系统（例如MAC OS，Windows和Ubuntu）上使用图像裁剪器，前提是设备具有稳定的互联网连接。神奇的诀窍是，它甚至可以在较慢的Internet连接上运行。"
+            "question": "Can I use the image cropper feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image cropper on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
         },
         {
-            "question": "我能否在 iOS 设备上使用 safeimagekit.com 的图像裁剪器功能？",
-            "answer": "是的，safeimagekit.com 的图像裁剪器功能可以在 iOS 设备甚至安卓设备上使用。它内置了最新的功能，可让用户在任何操作系统上使用此扩展文件，只需要互联网连接和良好的Web浏览器。"
+            "question": "Can I use the image cropper feature from safeimagekit.com on an iOS device?",
+            "answer": "Yes, the image cropper feature from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
         },
         {
-            "question": "如何使用 safeimagekit.com 的图像裁剪器保存对图像文件所做的更改？",
-            "answer": "首先，上传需要更改的图像文件，然后使用图像裁剪器选项逐个裁剪图像文件。然后使用网站底部提供的保存选项，这将保存对图像文件所做的更改，然后下载修改过的图像文件。"
+            "question": "How can I save the changes made to the image file using the image cropper from safeimagekit.com?",
+            "answer": "First, upload an image file that requires a change, then use the image cropper option to crop the image file one by one. Then use the save option which is given at the bottom of the website, this saves the changes made to the image files and then downloads the image file which is modified."
         },
         {
-            "question": "使用完图像裁剪器工具后，我的文件会被保存吗？ ",
-            "answer": "不，我们不会将您的任何文件发送到我们的服务器，所有操作都是在浏览器上完成的，因此您的所有文件都是完全安全的。 "
+            "question": "Will my file be saved after I complete working on the image cropper tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "我需要额外注册或支付额外费用才能使用图像裁剪器工具吗？ ",
-            "answer": "绝对不是，我们的工具是完全在线的，不需要您与我们分享您的任何个人信息，例如电子邮件ID，密码等。我们的工具是完全免费的。"
+            "question": "Do I have to do any additional signup or pay extra to use the image cropper tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "如果我遇到任何问题或者我想提出任何更改建议，我该如何沟通？",
-            "answer": "我们很乐意接受所有用户提出的任何问题或建议，请通过我们的社交媒体句柄与我们联系以获取更多信息。SafeImageKit.com 可在所有领先的社交媒体网站上使用，例如 Facebook、Instagram、YouTube 和领英等。"
+            "question": "How do I communicate if I face any issues or if I want to suggest any changes?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "csscdns": [

@@ -1,14 +1,14 @@
 {
     "Language": "Українська",
     "htmlLangAtt": "uk",
-    "H1": "Генератор QR-коду - Безкоштовний веб-генератор QR-коду",
+    "H1": "Генератор QR-коду",
     "img": "/img/qr.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "успіху",
-    "H2": "Проектування QR-коду було спрощено нами, почніть з завантаження файлу нижче",
+    "H2": "Проектування QR-коду було спрощено з нами, почніть з завантаження файлу нижче",
     "TITLE": "QR-генератор - безкоштовний генератор QR-коду- safeimagekit",
     "META": "Ви шукаєте високоякісний генератор QR-кодів? Ну, тоді ви в потрібному місці. Наш онлайн-інструмент QR-генератора надзвичайно безпечний, зручний та надзвичайно швидкий.",
     "LABEL": "",
@@ -65,60 +65,60 @@
     },
     "FAQ": [
         {
-            "question": "Що таке QR-код і як він використовується?",
-            "answer": "QR-код (скорочено від Quick Response code) - це тип матричного штрих-коду (або двовимірного штрих-коду), винайдений в 1994 році японською автомобільною компанією Denso Wave. Штрих-код - це машинно-читабельна оптична етикетка, яка містить інформацію про предмет, до якого вона кріпиться. На практиці QR-коди часто містять дані для локатора, ідентифікатора або трекера, які вказують на веб-сайт або додаток. Існує багато додатків до QR-коду, але найбільше це в зберіганні інформації великих обсягів в невеликому квадратному блоці, користувачі можуть сканувати код і можуть отримати доступ до інформації, коли це необхідно."
+            "question": "What is a QR code and how is it used?",
+            "answer": "A QR code (abbreviated from Quick Response code) is a type of matrix barcode (or two-dimensional barcode) invented in 1994 by the Japanese automotive company Denso Wave. A barcode is a machine-readable optical label that contains information about the item to which it is attached. In practice, QR codes often contain data for a locator, identifier, or tracker that points to a website or application. There are many applications to a QR code, but most of all it is in storing information of large volumes in a small square block, the users can scan the code and can access the info whenever needed."
         },
         {
-            "question": "Які функції пропонує генератор QR-коду від safeimagekit.com, генеруючи QR-код із завантаженого зображення?",
-            "answer": "Генератор QR-коду від safeimagekit.com пропонує універсальні функції при генерації QR-коду. Основні функції включають створення QR-коду з тексту, який задається як вхід. Введеним текстом можуть бути імена, звичайний текст, номери телефонів або будь-які URL-адреси. Текст, який вводиться, перетворюється в QR-код, який можна використовувати будь-яку кількість разів, просто скануючи код."
+            "question": "What are the features offered by the QR code generator from safeimagekit.com while, generating a QR code from an image uploaded?",
+            "answer": "The QR code generator from safeimagekit.com offers versatile features while generating a QR code. The main features include generating a QR code from the text which is given as the input. The text entered can be names, normal text, phone numbers, or any URLs.  the text which is entered is converted into a QR code which can be used any number of times just by scanning the code."
         },
         {
-            "question": "Як ми можемо генерувати QR-код з нашого вхідного тексту за допомогою генератора QR-коду з safeimagekit.com?",
-            "answer": "Існує 4 основних кроки, за допомогою яких користувач може перетворити свій вхідний текст у QR-код\n- Напишіть текст у відведеному просторі, використовуючи який користувач хоче згенерувати QR-код.\n- Натисніть кнопку генерації, наведену під сторінкою, щоб згенерувати QR-код для введеного тексту.\n- Натисніть опцію збереження, щоб зберегти внесені зміни в текст, через який створюється QR-код.\n- Натисніть кнопку завантаження, щоб завантажити згенерований QR-код та поділитися ним з усіма! \n"
+            "question": "How can we generate a QR code from our input text using the QR code generator from safeimagekit.com?",
+            "answer": "There are 4 basic steps using which the user can convert his input text to a QR code-\n-\tWrite the text in the space provided using which the user wants to generate a QR code.\n-\tHit the generate button given below the page to generate a QR code for the entered text.\n-\tHit the save option to save the changes made to the text through which the QR code is created.\n-\tHit the download button to download the QR code generated and share it with everyone! \n"
         },
         {
-            "question": "Які формати зображень підтримуються генератором QR-коду при створенні QR-коду?",
-            "answer": "В даний час генератор QR-кодів від safeimagekit.com підтримує створення штрих-коду за допомогою тексту. Користувачі можуть вводити або вставляти текст у відведений простір і можуть генерувати код. Однак поточна межа полягає в тому, що він має будь-яке перетворення QR-коду зображення. Але оновлення веб-сайту в найближчі дні порушить це обмеження."
+            "question": "Which are the image formats supported by the QR code generator while creating an QR code?",
+            "answer": "Currently, the QR code generator from safeimagekit.com supports the creation of a barcode using the text. The users can enter or paste the text on the space provided and can generate the code. However, the current limit is that it does feature any image QR code conversion. But, updates to the website in the coming days will break this limitation."
         },
         {
-            "question": "Скільки QR-кодів ми можемо генерувати на одній ділянці за допомогою генератора QR-коду від safeimagekit.com?",
-            "answer": "В даний час генератор QR-коду від safeimagekit.com може генерувати один QR-код на одній ділянці. генератор QR-коду від safeimagekit.com дійсно повинен пройти через велику кількість кодів для перетворення та генерації QR-коду, щоб відбутися. отже, кілька QR-кодів не можуть бути створені з цієї причини. Однак оновлення веб-сайту в майбутньому переконається, що це та багато інших цікавих функцій будуть на палубі."
+            "question": "How many QR codes can we generate at a single stretch using the QR code generator from safeimagekit.com?",
+            "answer": "Currently, the QR code generator from safeimagekit.com can generate one QR code at a single stretch. the QR code generator from safeimagekit.com does have to go through a staple number of codes for conversion and generation of a QR code to happen. so, multiple QR codes cannot be generated due to this reason. However, updates to the website in the future will make sure that this and many more exciting features be on deck."
         },
         {
-            "question": "Чи потрібно нам використовувати будь-яке додаткове програмне забезпечення для завантаження QR-кодів після перетворення за допомогою генератора QR-коду з safeimagekit.com?",
-            "answer": "Ні, користувачі після перетворення вхідного тексту в QR-код можуть натиснути на завантаження варіант, який наведено нижче, і можуть завантажити QR-код. Це інструмент перетворення на основі браузера, який не підтримує або не потрібне додаткове програмне забезпечення, щоб завантажити їх як QR-коди."
+            "question": "Do we have to use any additional software to download the QR codes after conversion using the QR code generator from safeimagekit.com?",
+            "answer": "No, the users after converting their input text to a QR code can hit the download the option which is given below and can download the QR code. It is a browser-based converter tool that does not support or no additional software is required to download them as QR codes."
         },
         {
-            "question": "Чи можу я використовувати інструмент генератора QR-коду від safeimagekit.com, не маючи жодних знань про базове програмування C-?",
-            "answer": "Так, наш інструмент перетворення QR від safeimagekit.com може бути використаний всіма. Наш генератор QR-кодів дуже простий для розуміння, і для роботи над нашим інструментом не потрібні професійні знання про програмування."
+            "question": "Can I use the QR code generator tool from safeimagekit.com without having any knowledge about basic C-programming?",
+            "answer": "Yes, our QR converter tool from safeimagekit.com can be used by everybody. Our QR code generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
         },
         {
-            "question": "Чи можу я використовувати генератор QR-коду з safeimagekit.com на моїй Windows 8?",
-            "answer": "Інструмент генератор QR-коду - це універсальна функція, яку пропонує safeimagekit.com, яка підтримується всіма операційними системами, такими як Windows 8, Linux і навіть Ubuntu. Все, що потрібно, - це пристрій для відкриття файлу розширення за допомогою веб-сайту www.safeimagekit.com та звичайного підключення до Інтернету, щоб стояти. Цікавий факт полягає в тому, що він може працювати навіть на повільному підключенні до Інтернету."
+            "question": "Can I use the QR code generator from safeimagekit.com on my Windows 8?",
+            "answer": "The QR code generator tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Чи можу я використовувати генератор QR-коду з safeimagekit.com на своєму Apple iPhone 11? ",
-            "answer": "Так, генератор QR-коду від safeimagekit.com - це крос-платформний веб-сайт, де користувач може використовувати цей інструмент перетворювача з операційних систем, таких як Android, iOS, Windows та Mac OS. Він не залежить від використовуваних операційних систем, але залежить лише від підключення до Інтернету та кількості тексту, вставленого на простір для перетворення, який завантажується для перетворення в QR-код."
+            "question": "Can I use the QR code generator from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, the QR code generator from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the amount of text pasted on the space for conversion which is uploaded to be converted into a QR code."
         },
         {
-            "question": "Що станеться з нашим прогресом, якщо ми оновимо наш браузер, поки ми використовуємо інструмент генератора QR-коду від safeimagekit.com?",
-            "answer": "Інструмент генератора QR-коду від safeimagekit.com не підключений до будь-якого сервера там, тому дані, над якими працює користувач, ніде не будуть зберігатися, і в результаті, вони будуть стерті миттєво, коли користувач оновить браузер, над яким він працює. Файл зображення, який перетворюється, також буде видалено після виходу користувача або закриття вкладки, на якій відкрита сторінка розширення веб-сайту."
+            "question": "What will happen to our progress if we refresh our browser while we are using the QR code generator tool from safeimagekit.com?",
+            "answer": "The QR code generator tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Чи можемо ми редагувати текст, включивши спеціальні символи, символи та наклейки, створюючи QR-код за допомогою генератора QR-коду від safeimagekit.com?",
-            "answer": "Так, генератор QR-коду від safeimagekit.com надає можливість редагувати текст, включивши спеціальні символи, символи та наклейки під час генерації QR-коду за допомогою інструменту генератора. Деякі з персонажів включають-! @#$%^&* (). Однак наклейки не можуть бути включені до поточного статусу, ці патчі судилося бути включені в майбутньому"
+            "question": "Can we edit the text by including special symbols, characters, and stickers while generating a QR code using the QR code generator from safeimagekit.com?",
+            "answer": "Yes, the QR code generator from safeimagekit.com does provide the option to edit the text by including special symbols, characters, and stickers while generating a QR code using the generator tool. Some of the characters include-! @#$%^&*(). However, stickers cannot be included with the current status, these patches are destined to be included in the future"
         },
         {
-            "question": "Чи збережеться мій файл після завершення роботи над інструментом генератора QR-коду? ",
-            "answer": "Ні, ми не надсилаємо жодного з ваших файлів на наші сервери, всі операції виконуються на самому браузері, тому всі ваші файли повністю безпечні. "
+            "question": "Will my file be saved after I complete working on the QR code generator  tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Чи потрібно мені робити додаткову реєстрацію або доплачувати, щоб використовувати інструмент генератора QR-коду? ",
-            "answer": "Абсолютно ні, наш інструмент повністю онлайн і не вимагає від вас ділитися будь-якою вашою особистою інформацією з нами, як ідентифікатор електронної пошти, паролі тощо Наш інструмент абсолютно безкоштовний."
+            "question": "Do I have to do any additional signup or pay extra to use the QR code generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Як мені спілкуватися, якщо я стикаюся з будь-якими проблемами або якщо я хочу дати якісь пропозиції?",
-            "answer": "Ми з радістю приймаємо будь-які питання або пропозиції, пропоновані всіма користувачами, будь ласка, зв'яжіться з нами через наші ручки соціальних медіа для отримання додаткової інформації. Safeimagekit.com доступний на всіх провідних веб-сайтах соціальних медіа, таких як Facebook, Instagram, YouTube та LinkedIn тощо."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

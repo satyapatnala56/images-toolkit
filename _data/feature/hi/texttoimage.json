@@ -8,9 +8,9 @@
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "सफलता",
-    "H2": "फैकड मैग एनओटी के रूप में के रूप में",
-    "TITLE": "टू टू - ओक्स्ट टू टू क्याफ पेस - आईओफ़ई इम",
-    "META": "? ओट,,, टीयू एन एन डी एन. पी। टू टू टू टू हला इरिड, एफ़टीस पीआईएन, सीटीओ ओ, सी ओ।",
+    "H2": "पाठ से छवि रूपांतरण हमारे साथ आसान बना दिया गया है, नीचे अपनी फ़ाइल अपलोड करके शुरू करें",
+    "TITLE": "टेक्स्ट टू इमेज - टेक्स्ट टू इमेज कन्वर्टर - सेफ इमेजकिट",
+    "META": "क्या आप उच्च-गुणवत्ता वाले पाठ से छवि कनवर्टर की तलाश कर रहे हैं? ठीक है, तो आप सही जगह पर हैं। हमारा ऑनलाइन टेक्स्ट टू इमेज टूल बेहद सुरक्षित, उपयोगकर्ता के अनुकूल और सुपर क्विक है।",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "",
@@ -19,102 +19,102 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "हाई क्वालिटी",
-            "content": "टू टू टू टू इव्रुइद का रंग होता है, और इसके लिए क्या करना है"
+            "content": "हमारा टेक्स्ट टू इमेज कनवर्ज़न टूल किसी भी टेक्स्ट को उसकी गुणवत्ता को बनाए रखते हुए छवि में परिवर्तित करता है।"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "डेटा सुरक्षा",
-            "content": "ई. ए। एस. ई।"
+            "content": "आपका कोई भी डेटा हमारे सर्वर पर नहीं भेजा जाता है, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं। यह हमें अपने उपयोगकर्ताओं के लिए 100% सुरक्षित रहने में सक्षम बनाता है"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
-            "header": "फ्लेक्सिबिलिटी",
-            "content": " के लिए करने के लिए"
+            "header": "Flexibilty",
+            "content": " हमारा टेक्स्ट टू इमेज कनवर्ज़न टूल लगभग सभी प्रकार के ब्राउज़रों और उपकरणों पर काम करता है।"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "यूजर फ्रेंडली",
-            "content": "ओओ टू टू टू द लेविवर आरईआरडी के लिए एक दिन नहीं है, ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ, ओ, ओ, ओ, ओ, ओ"
+            "content": "हमारे टेक्स्ट टू इमेज कन्वर्जन टूल को यह समझना बहुत आसान है कि हमारे टूल पर काम करने के लिए किसी पेशेवर की आवश्यकता नहीं है।"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "इनी:बीईटी",
+            "header": "नि:शुल्क",
             "content": "हमारा टेक्स्ट टू इमेज कन्वर्जन टूल पूरी तरह से मुफ्त है, आप एक पैसा चुकाए बिना हमारे सभी टूल्स का उपयोग कर सकते हैं"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "कोई अतिरिक्त डाउनलोड नहीं",
-            "content": "करने के लिए,"
+            "content": "हमारा टेक्स्ट टू इमेज कनवर्ज़न टूल पूरी तरह से ब्राउज़र आधारित है और आपके डिवाइस पर किसी अतिरिक्त सॉफ़्टवेयर को डाउनलोड करने की आवश्यकता नहीं है।"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "हमारे टेक्स्ट को इमेज में कैसे कन्वर्ट करें",
         "steps": [
-            "ईद का लक्ष, के रूप में के रूप में, के रूप में अच्छी तरह से।",
+            "दिए गए स्थान में किसी छवि में कनवर्ट करने के लिए टेक्स्ट दर्ज करें।",
             "बेहतर छवि आउटपुट के लिए पैरामीटर समायोजित करें",
             "टेक्स्ट को इमेज में बदलने के लिए जनरेट बटन दबाएं",
-            "में के. के।",
-            "हुररर्!!! के. जी।"
+            "छवि में किए गए परिवर्तनों को सहेजें।",
+            "हुर्रे!!! छवि उपयोग करने के लिए तैयार है।"
         ]
     },
     "FAQ": [
         {
-            "question": "किसी दिए गए पाठ को एक छवि में परिवर्तित करते समय, safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर द्वारा दी जाने वाली विशेषताएं क्या हैं?",
-            "answer": "Safeimagekit.com से टेक्स्ट टू इमेज फीचर टेक्स्ट के एक टुकड़े को एक छवि में परिवर्तित करते समय बहुमुखी सुविधाएँ प्रदान करता है। इनमें शामिल हैं-\n- पाठ का सम्मिलन जिसे एक छवि में परिवर्तित किया जाना है।\n- दर्ज किए गए पाठ के फ़ॉन्ट आकार को समायोजित करना।\n- इटैलिक द्वारा पाठ को संशोधित करना\n- सम्मिलित किए जाने वाले पाठ की बोल्डनेस को समायोजित करना।\n- स्ट्रोक वैल्यू को संशोधित करना \n- लाइन-हाइट को समायोजित करना\n- पाठ की पृष्ठभूमि का रंग समायोजित करना\n- रंगों के साथ डाले गए पाठ को अपग्रेड करना।"
+            "question": "What are the features offered by the text to image converter from safeimagekit.com while, converting a given text to an image?",
+            "answer": "The text to image feature from safeimagekit.com offers versatile features while converting a piece of text to an image. They include-\n-\tInsertion of text which is to be converted into an image.\n-\tAdjusting the font size of the text which is entered.\n-\tModifying the text by italics\n-\tAdjusting the boldness of the text to be inserted.\n-\tModifying the stroke value \n-\tAdjusting the line-height\n-\tAdjusting the background color of the text\n-\tUpgrading the text inserted with colors."
         },
         {
-            "question": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर का टेक्स्ट इंसर्शन विकल्प कैसे काम करता है?",
-            "answer": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर का टेक्स्ट इंसर्शन ऑप्शन, यूजर को उस स्पेस पर टेक्स्ट जोड़ने देता है जिसे इमेज के रूप में जेनरेट किया जाना है। जोड़े गए पाठ को कई विशेषताओं जैसे कि रंग समायोजन, पाठ की मोटाई आदि का उपयोग करके समायोजित और संशोधित किया जा सकता है, रंग समायोजन विकल्प उपयोगकर्ता को पाठ में रंग जोड़ने देते हैं, दूसरी ओर, पाठ की मोटाई उपयोगकर्ता को पाठ के आकार को समायोजित करने देती है। इन संपादन के बाद, उपयोगकर्ता पाठ को एक छवि में बदल सकता है।"
+            "question": "How does the text insertion option of text to image converter from safeimagekit.com work?",
+            "answer": "The text insertion option of text to image converter from safeimagekit.com, lets the user add text on the space which is to be generated as an image. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. After these edits, the user can convert the text to an image."
         },
         {
-            "question": "safeimagekit.com से मेम जनरेटर का उपयोग करके छवि बनाते समय हम टेक्स्ट के फ़ॉन्ट आकार को कैसे समायोजित करते हैं?",
-            "answer": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर का उपयोग करके इमेज जेनरेट करते समय टेक्स्ट का फ़ॉन्ट आकार आकार के कारक को दर्ज करके समायोजित किया जा सकता है। इस विकल्प को “फ़ॉन्ट आकार दर्ज करें” नामक स्थान पर मान्य आकार दर्ज करके एक्सेस किया जा सकता है। उस स्थान में मान दर्ज करके आकार को समायोजित किया जा सकता है। पाठ के फ़ॉन्ट आकार को उन मानों को दर्ज करके बढ़ाया जा सकता है जो सकारात्मक (+) मान में हैं। पाठ के फ़ॉन्ट आकार को उन मानों को दर्ज करके घटाया जा सकता है जो ऋणात्मक (-) मान में हैं।"
+            "question": "How do we adjust the font size of the text while generating an image using the meme generator from safeimagekit.com?",
+            "answer": "The font size of the text while generating an image using the text to image converter from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "क्या हम अपने पाठ को इटैलिक में बदल सकते हैं जो संपादन के लिए अंतरिक्ष में दर्ज किया गया है, जबकि safeimagekit.com से पाठ से छवि कनवर्टर का उपयोग करके पाठ से एक छवि बनाते हैं?",
-            "answer": "हां, safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर उपयोगकर्ता को उस पाठ को परिवर्तित करने देता है जो इटैलिक प्रारूप में संपादन के लिए अंतरिक्ष में दर्ज किया गया है। इस सुविधा को बटन “I” दबाकर एक्सेस किया जा सकता है जो इटैलिक के लिए खड़ा है, यह अंतरिक्ष में मौजूद पाठ को इटैलिक रूप में परिवर्तित करता है। रूपांतरण के बाद “सेव” नामक बटन को हिट करें। यह उस प्रगति को बचाता है जो प्रक्रिया में की जाती है।"
+            "question": "Can we convert our text to Italics which is entered in the space for editing, while creating an image from text using the text to image converter from safeimagekit.com?",
+            "answer": "Yes, the text to image converter from safeimagekit.com lets the user convert the text which is entered in the space for editing to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present in the space to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the process."
         },
         {
-            "question": "क्या हम अपने पाठ को सादे से बोल्ड में परिवर्तित कर सकते हैं, जो संपादन के तहत अंतरिक्ष में दर्ज किया गया है, जबकि safeimagekit.com से छवि कनवर्टर का उपयोग करके एक छवि बनाते हैं?",
-            "answer": "हां, safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर फीचर उपयोगकर्ता को सादे पाठ को बोल्ड टेक्स्ट में बदलने देता है जो संपादन के लिए अंतरिक्ष में दर्ज किया गया है। इस सुविधा को बटन “बी” दबाकर एक्सेस किया जा सकता है जो बोल्ड के लिए खड़ा है, यह अंतरिक्ष में मौजूद सादे पाठ को बोल्ड टेक्स्ट में परिवर्तित करता है। रूपांतरण के बाद “सेव” नामक बटन को हिट करें। यह उस प्रगति को बचाता है जो प्रक्रिया में की जाती है।"
+            "question": "Can we convert our text from plain to bold, which is entered in the space under editing, while creating an image using the text to image converter from safeimagekit.com?",
+            "answer": "Yes, the text to image converter feature from safeimagekit.com lets the user convert the plain text to bold text which is entered in the space for editing. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present in the space to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the process."
         },
         {
-            "question": "Safeimagekit.com से टेक्स्ट में इमेज कन्वर्टर टूल में स्ट्रोक वैल्यू कैसे काम करती है?",
-            "answer": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल का स्ट्रोक वैल्यू संपादन के लिए अंतरिक्ष में डाले गए टेक्स्ट के रंग को समायोजित करके काम करता है। इस मान को “स्ट्रोक मान दर्ज करें” नामक स्थान में एक मान दर्ज करके पहुँचा जा सकता है। छवि के स्ट्रोक मूल्य को एक मेम में परिवर्तित करते समय स्ट्रोक को बढ़ाने के लिए एक सकारात्मक मूल्य (+) दर्ज करके समायोजित किया जा सकता है। स्ट्रोक को कम करने के लिए नकारात्मक मान (-) दर्ज करके स्ट्रोक मूल्य को कम किया जा सकता है।"
+            "question": "How does the stroke value work in the image conversion in the text to image converter tool from safeimagekit.com?",
+            "answer": "The stroke value of text to image converter tool from safeimagekit.com works by adjusting the color of the text which is inserted in the space for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
         },
         {
-            "question": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल का उपयोग करके इमेज बनाते समय, हम इमेज कन्वर्जन स्पेस में दर्ज किए गए टेक्स्ट को कैसे कलर कर सकते हैं?",
-            "answer": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल उपयोगकर्ता को इमेज पर टेक्स्ट को कलर करने देता है, इस विकल्प को हर प्रमुख फीचर के बगल में ब्लैक बॉक्स को मारकर एक्सेस किया जा सकता है, ब्लैक बॉक्स को हिट करने के बाद कलर बॉक्स पॉप अप हो जाता है और उपयोगकर्ता टेक्स्ट पर पेंट करने के लिए किसी भी रंग तक पहुंच सकता है।"
+            "question": "How can we color the text which is entered in the image conversion space, while creating an image using the text to image converter tool from safeimagekit.com?",
+            "answer": "The text to image converter tool from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
         },
         {
-            "question": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल का बैकग्राउंड कलर ऑप्शन कैसे काम करता है?",
-            "answer": "Safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल का बैकग्राउंड कलर ऑप्शन एक अनूठी विशेषता है, जो यूजर को जेनरेट की गई इमेज के बैकग्राउंड स्पेस में रंग जोड़ने देता है। इस विकल्प को “पृष्ठभूमि रंग” नाम के पृष्ठ के निचले भाग में एक्सेस किया जा सकता है। उपयोगकर्ता को चुनने के लिए कई प्रकार के रंग उपलब्ध हैं, जब चुना गया रंग नीचे “सहेजें” विकल्प को दबाकर सहेजा जा सकता है।"
+            "question": "How does the background colour option of text to image converter tool from safeimagekit.com work?",
+            "answer": "The background colour option of text to image converter tool from safeimagekit.com is a unique feature, which lets the user add colour to the background space of the image generated. This option can be accessed at the bottom of the page named “Background colour”. There are a variety of colours available for the user to choose, the colour when chosen can be saved by hitting the “save” option below."
         },
         {
-            "question": "क्या मैं अपने Apple iPhone 11 प्रो पर safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल का उपयोग कर सकता हूं? ",
-            "answer": "हां, safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल एक क्रॉस-प्लेटफॉर्म आधारित वेबसाइट है जहां उपयोगकर्ता एंड्रॉइड, आईओएस, विंडोज और मैक ओएस जैसे ऑपरेटिंग सिस्टम से इस कनवर्टर टूल का उपयोग कर सकता है। यह उपयोग किए जाने वाले ऑपरेटिंग सिस्टम से स्वतंत्र है, लेकिन केवल इंटरनेट कनेक्शन और रूपांतरण के लिए स्थान पर चिपकाए गए पाठ की मात्रा पर निर्भर करता है जिसे एक छवि में परिवर्तित करने के लिए अपलोड किया जाता है।"
+            "question": "Can I use the text to image converter tool from safeimagekit.com on my Apple iPhone 11 pro? ",
+            "answer": "Yes, the text to image converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the amount of text pasted on the space for conversion which is uploaded to be converted into an image."
         },
         {
-            "question": "क्या मैं अपने विंडोज 8 पर safeimagekit.com से टेक्स्ट टू इमेज कन्वर्टर टूल का उपयोग कर सकता हूं?",
-            "answer": "टेक्स्ट टू इमेज कन्वर्टर फीचर safeimagekit.com द्वारा पेश की जाने वाली एक बहुमुखी सुविधा है जो विंडोज 8, लिनक्स और यहां तक कि उबंटू जैसे सभी ऑपरेटिंग सिस्टम द्वारा समर्थित है। यह सब लेता है www.safeimagekit.com वेबसाइट और खड़े होने के लिए एक सामान्य इंटरनेट कनेक्शन का उपयोग करके एक्सटेंशन फ़ाइल खोलने के लिए एक उपकरण है। मजेदार तथ्य यह है कि यह धीमे इंटरनेट कनेक्शन पर भी चल सकता है।"
+            "question": "Can I use the text to image converter tool from safeimagekit.com on my Windows 8?",
+            "answer": "The text to image converter feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "पाठ से छवि रूपांतरण उपकरण पर काम पूरा करने के बाद क्या मेरी फ़ाइल सहेजी जाएगी? ",
-            "answer": "नहीं, हम आपकी किसी भी फाइल को हमारे सर्वर पर नहीं भेजते हैं, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं इसलिए आपकी सभी फाइलें पूरी तरह से सुरक्षित हैं। "
+            "question": "Will my file be saved after I complete working on the text to image conversion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "क्या मुझे टेक्स्ट टू इमेज रूपांतरण टूल का उपयोग करने के लिए कोई अतिरिक्त साइनअप करना होगा या अतिरिक्त भुगतान करना होगा? ",
-            "answer": "बिल्कुल नहीं, हमारा टूल पूरी तरह से ऑनलाइन है और आपको अपनी किसी भी व्यक्तिगत जानकारी को हमारे साथ साझा करने की आवश्यकता नहीं है, जैसे ईमेल आईडी, पासवर्ड आदि।"
+            "question": "Do I have to do any additional signup or pay extra to use the text to image conversion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "यदि मैं किसी समस्या का सामना करता हूं या यदि मैं कोई सुझाव देना चाहता हूं तो मैं कैसे संवाद कर सकता हूं?",
-            "answer": "हम ख़ुशी से सभी उपयोगकर्ताओं द्वारा दिए गए किसी भी मुद्दे या सुझावों को लेते हैं, कृपया अधिक जानकारी के लिए हमारे सोशल मीडिया हैंडल के माध्यम से हमसे संपर्क करें। SafeimageKit.com सभी प्रमुख सोशल मीडिया वेबसाइटों जैसे फेसबुक, इंस्टाग्राम, यूट्यूब और लिंक्डइन आदि पर उपलब्ध है।"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

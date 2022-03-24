@@ -1,16 +1,16 @@
 {
     "Language": "Русский",
     "htmlLangAtt": "ru",
-    "H1": "Бесплатный генератор водяных знаков для ПК, MAC, IOS и ANDROID",
+    "H1": "Генератор водяных знаков",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "опасность",
-    "H2": "Мы упростили создание водяного знака для фотографий, начните с загрузки вашего файла ниже",
-    "TITLE": "Фотографии с водяными знаками - бесплатный производитель водяных знаков - safe image-kit",
-    "META": "Вы ищете высококачественный водяной знак для изображений? Что ж, тогда вы попали в нужное место. Наш онлайн-генератор водяных знаков чрезвычайно безопасен, удобен в использовании и очень быстр.",
+    "H2": "Создание водяных знаков для фотографий стало проще с нами, начните с загрузки файла ниже",
+    "TITLE": "Фотографии с водяными знаками - бесплатный производитель водяных знаков - safeimagekit",
+    "META": "Вы ищете высококачественный водяной знак для изображений? Что ж, тогда вы попали в нужное место. Наш онлайн-инструмент для создания водяных знаков чрезвычайно безопасен, удобен в использовании и очень быстр.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "red",
@@ -19,25 +19,25 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "Высокое качество",
-            "content": "Наш инструмент генератора водяных знаков создает высококачественные водяные знаки для ваших изображений."
+            "content": "Наш инструмент для создания водяных знаков создает высококачественные водяные знаки для ваших изображений."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "Безопасность данных",
-            "content": "Никакие ваши данные не отправляются на наши серверы, все операции выполняются в самом браузере. Это позволяет нам быть на 100% безопасными для наших пользователей"
+            "header": "Защита данных",
+            "content": "Ни одна из ваших данных не отправляется на наши серверы, все операции выполняются в самом браузере. Это позволяет нам быть на 100% безопасными для наших пользователей"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Гибкость",
-            "content": " Наш генератор водяных знаков работает практически во всех браузерах и устройствах."
+            "content": " Наш инструмент для создания водяных знаков работает практически во всех типах браузеров и устройств."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "Удобный для пользователя",
-            "content": "Наш инструмент генератора водяных знаков очень прост для понимания, и для работы с нашим инструментом не требуется профессионал."
+            "content": "Наш инструмент генератора водяных знаков очень прост в понимании, что для работы с нашим инструментом не нужен профессионал."
         },
         {
             "priority": 1,
@@ -48,7 +48,7 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "Нет дополнительной загрузки",
+            "header": "Дополнительная загрузка не требуется",
             "content": "Наш инструмент для создания водяных знаков полностью основан на браузере, и на ваше устройство не требуется загружать дополнительное программное обеспечение."
         }
     ],
@@ -56,77 +56,73 @@
         "logoImageUrl": "/idea.svg",
         "heading": "КАК ДОБАВИТЬ ВОДЯНОЙ ЗНАК В МОЙ PDF-ФАЙЛ",
         "steps": [
-            "Загрузите файл изображения или нажмите на стрелку вниз и выберите Dropbox/Google Drive",
+            "Загрузите файл изображения или нажмите на стрелку раскрывающегося списка и выберите Dropbox/Google Drive",
             "Отрегулируйте необходимые параметры ",
             "Добавьте текст или изображение в качестве водяного знака",
             "нажмите кнопку сохранения, чтобы сохранить внесенные изменения",
-            "Ура!! изображение готово к покачиванию."
+            "Ура!! изображение готово к раскачиванию."
         ]
     },
     "FAQ": [
         {
-            "question": "",
-            "answer": ""
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Безопасно ли разрешить доступ к моему диску?",
-            "answer": "Да, разрешить и предоставить нам доступ к вашему диску абсолютно безопасно. Мы не будем вносить никаких изменений в ваш сайт, и ваши файлы будут в безопасности с вами."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Как загрузить файлы со своего диска/dropbox?",
-            "answer": "Нажмите на стрелку вниз и выберите Dropbox/Google Drive. Выберите учетную запись Google, из которой вы хотите привязать диск. Теперь вы можете выбрать файлы, которые хотите загрузить."
+            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
+            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
         },
         {
-            "question": "Какие функции предлагает функция водяных знаков от safeimagekit.com при добавлении водяного знака к изображению?",
-            "answer": "Функция водяных знаков от safeimagekit.com предлагает универсальные функции при создании изображения. Основные функции включают в себя\n- Вставка текста в виде водяного знака в загруженный файл изображения.\n- Настройка прозрачности текста загруженного водяного знака.\n- Настройка размера шрифта вставляемого водяного знака.\n- Изменение значения штриха\n- Вставка изображения в качестве водяного знака на исходное изображение\n- Настройка значения тени в загруженном файле изображения.\n- Изменение текста с водяными знаками курсивом.\n- Настройка полужирности вставляемого текста с водяными знаками.\n- Функция подчеркивания текста с водяными знаками.\n- Обновление водяного знака с помощью цветовых опций.\n\n"
+            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
+            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
         },
         {
-            "question": "Как работает опция вставки текста для фотографий с водяными знаками от safeimagekit.com?",
-            "answer": "Опция вставки текста в функции фотографий с водяными знаками от safeimagekit.com позволяет пользователю добавлять текст на изображение в качестве водяного знака. Добавленный текст можно регулировать и изменять с помощью нескольких функций, таких как настройка цвета, толщина текста и т. д. Опции настройки цвета позволяют пользователю добавлять цвет к тексту, с другой стороны, толщина текста позволяет пользователю регулировать размер текста. Чтобы получить доступ к этой функции, просто введите текст в поле «введите текст» и нажмите «добавить текст», чтобы создать водяной знак."
+            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
         },
         {
-            "question": "Как работает опция настройки прозрачности функции водяных знаков на safeimagekit.com?",
-            "answer": "Опция настройки прозрачности функции водяных знаков на сайте safeimagekit.com позволяет пользователю регулировать прозрачность и непрозрачность текста с водяными знаками или загруженного изображения. Эта опция доступна в средней части страницы, опция прозрачности задается в диапазоне от 0,1 до 1. Эта корректировка сделана и может быть сохранена, нажав на опцию сохранения. Доступ к этой опции можно получить, нажав «выбрать прозрачность», отрегулировав масштаб и нажав «добавить текст», чтобы создать водяной знак."
+            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "Как настроить размер шрифта текста при изменении изображения с помощью функции водяных знаков на safeimagekit.com?",
-            "answer": "Размер шрифта текста при изменении изображения с помощью функции водяных знаков на сайте safeimagekit.com можно настроить, введя коэффициент размера. Этот параметр можно получить, введя допустимый размер в поле с именем «Введите размер шрифта». Размер можно отрегулировать, введя значение в этом пространстве. Размер шрифта текста можно увеличить, введя значения, находящиеся в положительном (+) значении. Размер шрифта текста можно уменьшить, введя значения, находящиеся в отрицательном (-) значении."
+            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
+            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
         },
         {
-            "question": "Как работает значение обводки при преобразовании изображений в функции фотографий водяных знаков от safeimagekit.com?",
-            "answer": "Значение обводки функции водяных знаков на safeimagekit.com работает путем настройки цвета текста или изображения, вставленного в изображение для редактирования. Это значение можно получить, введя значение в отведенное пространство под названием «Введите значение штриха». Значение обводки изображения при преобразовании его в мем можно настроить, введя положительное значение (+), чтобы увеличить обводку. Значение хода можно уменьшить, введя отрицательное значение (-), чтобы уменьшить ход.\n\n"
+            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "Можно ли вставить изображение на другое изображение в качестве водяного знака при изменении изображения с помощью функции водяных знаков на сайте safeimagekit.com?",
-            "answer": "Да, функция водяных знаков на safeimagekit.com предоставляет возможность вставить изображение на другое изображение при изменении изображения. Эта функция доступна в нижней части страницы под названием «загрузить изображение». Эта функция позволяет вставить изображение на другое изображение, это номинальная функция, когда мы можем вставить любой тип изображения на любой тип изображения. Изображение после редактирования и вставки можно сохранить, нажав опцию «сохранить», это сохраняет прогресс, достигнутый с изображением."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "Можем ли мы преобразовать наш текст в курсив, который вводится на редактируемом изображении, при изменении изображения с помощью функции водяных знаков на safeimagekit.com?",
-            "answer": "Да, функция водяных знаков на safeimagekit.com позволяет пользователю преобразовывать текст, введенный на изображении, в формат курсива. Доступ к этой функции можно получить, нажав кнопку «I», которая обозначает курсив, что преобразует текст на изображении в курсив. После конвертации нажмите кнопку «Сохранить». Это сохраняет прогресс, достигнутый в изображении."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Можем ли мы преобразовать обычный текст в полужирный, который вводится на редактируемом изображении, при изменении изображения с помощью функции водяных знаков на сайте safeimagekit.com?",
-            "answer": "Да, функция водяных знаков на safeimagekit.com позволяет пользователю преобразовывать обычный текст в полужирный текст, введенный на изображении. Доступ к этой функции можно получить, нажав кнопку «B», которая обозначает полужирный шрифт. Это преобразует обычный текст на изображении в полужирный. После конвертации нажмите кнопку «Сохранить». Это сохраняет прогресс, достигнутый в изображении."
+            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Можно ли подчеркнуть текст, который написан на редактируемом изображении, при изменении изображения с помощью функции водяных знаков на сайте safeimagekit.com?",
-            "answer": "Да, функция водяных знаков на safeimagekit.com позволяет пользователю подчеркнуть текст, вставленный на изображение. Доступ к этой функции можно получить, нажав кнопку «U», которая означает «Подчеркивание», которая преобразует текст (обычный) в подчеркнутый текст на изображении. После конвертации нажмите кнопку «Сохранить». Это сохраняет прогресс, достигнутый в изображении."
+            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
         },
         {
-            "question": "Как мы можем раскрасить текст, введенный на редактируемом изображении, при изменении изображения с помощью функции водяных знаков на safeimagekit.com?",
-            "answer": "Функция водяных знаков на safeimagekit.com позволяет пользователю раскрашивать текст на изображении, этот параметр можно получить, нажав на черный ящик рядом с каждой основной функцией, после нажатия на черный ящик всплывает цветное поле, и пользователь может получить доступ к любому цвету для рисования текста."
+            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Будет ли мой файл сохранен после завершения работы над инструментом генератора водяных знаков? ",
-            "answer": "Нет, мы не отправляем ваши файлы на наши серверы, все операции выполняются в самом браузере, поэтому все ваши файлы полностью безопасны. "
+            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Нужно ли мне делать дополнительную регистрацию или платить за использование инструмента генератора водяных знаков? ",
-            "answer": "Абсолютно нет, наш инструмент полностью онлайн и не требует от вас предоставления нам какой-либо личной информации, такой как идентификатор электронной почты, пароли и т. д."
-        },
-        {
-            "question": "Как мне связаться, если у меня возникнут какие-либо проблемы или я хочу высказать предложения?",
-            "answer": "Мы с радостью примем любые вопросы или предложения, предложенные всеми пользователями. Пожалуйста, свяжитесь с нами через наши социальные сети для получения дополнительной информации. SafeImageKit.com доступен во всех ведущих социальных сетях, таких как Facebook, Instagram, YouTube, LinkedIn и т. Д."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

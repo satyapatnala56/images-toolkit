@@ -1,15 +1,15 @@
 {
     "Language": "日本語",
     "htmlLangAtt": "ja",
-    "H1": "高度なミームジェネレータをオンラインで",
+    "H1": "ミームジェネレーター",
     "img": "/img/meme.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "成功",
-    "H2": "ミーム作りが簡単になりました,, 以下にファイルをアップロードすることから始めます",
-    "TITLE": "ミームジェネレーター-オンラインミームメーカー-safeimagekit",
+    "H2": "オンラインミームメーカーが簡単になりました。まずファイルを以下にアップロードしてください",
+    "TITLE": "ミームジェネレーター-オンラインミームメーカー-Safeimagekit",
     "META": "高品質のミームジェネレーターをお探しですか？さて、あなたは正しい場所にいます。私たちのオンラインミームメーカーツールは非常に安全で、ユーザーフレンドリーで、超高速です。",
     "width": "",
     "LABEL": "",
@@ -19,7 +19,7 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
-            "header": "ハイクオリティ",
+            "header": "高品質",
             "content": "私たちのミームジェネレーターツールは、非常に高品質のミームを生成します。"
         },
         {
@@ -32,99 +32,99 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "柔軟性",
-            "content": " 私たちのミームジェネレータツールは、ほとんどすべての種類のブラウザとデバイスで動作します。"
+            "content": " 私たちのミームジェネレーターツールは、ほとんどすべての種類のブラウザーとデバイスで動作します。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "ユーザーフレンドリー",
-            "content": "私たちのミームジェネレーターツールは非常に理解しやすく、私たちのツールに取り組むのに専門家は必要ありません。"
+            "content": "私たちのミームジェネレーターツールは非常に理解しやすく、ツールで作業するのに専門家は必要ありません。"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
             "header": "費用はかかりません",
-            "content": "私たちのミームジェネレータツールは完全に無料です、あなたは一銭も払わずにすべてのツールを使うことができます"
+            "content": "私たちのミームジェネレーターツールは完全に無料です、あなたは一ペニーを支払うことなく私たちのすべてのツールを使うことができます"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "追加ダウンロード不要",
+            "header": "追加ダウンロードなし",
             "content": "私たちのミームジェネレーターツールは完全にブラウザベースであり、デバイスに追加のソフトウェアをダウンロードする必要はありません。"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "私たちのイメージからMEMEを作成する方法。",
+        "heading": "私たちのイメージからミームを作成する方法。",
         "steps": [
             "画像ファイルをアップロードするか、ドロップダウン矢印をクリックして Dropbox/Google Drive を選択し、MEME に変換する画像を選択します。",
-            "パラメータを調整して、より良いミームを取得します。",
+            "より良いミームを得るためにパラメータを調整してください。",
             "画像をアップロードするか、ミームをより良くするテキストを追加します。",
             "保存オプションを押して、行った変更を保存します。",
             "ダウンロードオプションを使用して MEME をダウンロードします。",
-            "万歳！！MEMEはロックする準備ができています。"
+            "万歳！！MEMEはロックする準備ができました。"
         ]
     },
     "FAQ": [
         {
-            "question": "ドライブへのアクセスを許可しても安全ですか？",
-            "answer": "はい、ドライブへのアクセスを許可し、許可することは絶対に安全です。私たちはあなたのサイトにいかなる変更も加えず、あなたのファイルはあなたと安全に保管されます。"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "ドライブ/ドロップボックスからファイルをアップロードするにはどうすればいいですか？",
-            "answer": "ドロップダウンの矢印をクリックし、[Dropbox/Google ドライブ] を選択します。ドライブをリンクする Google アカウントを選択します。アップロードするファイルを選択できるようになりました。"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "画像からミームを作成する際、safeimagekit.comのミームジェネレーターが提供する機能は何ですか？",
-            "answer": "safeimagekit.comのミーム生成ツールは、アップロードされた画像からミームを作成しながら、多彩な機能を提供します。主な機能は次のとおりです。\n-アップロードされた画像ファイルへのテキストの挿入。\n-アップロードしたテキストの透明度を調整します。\n-挿入するテキストのフォントサイズを調整します。\n-ストロークの値を修正する\n-画像への画像の挿入\n-アップロードされたイメージファイルのシャドウ値を調整します。\n-イタリック体でテキストを修正する。\n-挿入するテキストの太さを調整します。\n-テキストの特徴に下線を引く。\n-ミームをカラーオプションでアップグレードする。"
+            "question": "What are the features offered by the meme generator from safeimagekit.com while crafting a meme from an image?",
+            "answer": "The meme generator tool from safeimagekit.com offers versatile features while crafting a meme from the uploaded image. The main features include\n-\tInsertion of text on the uploaded image file.\n-\tAdjusting the transparency of the text uploaded.\n-\tAdjusting the font size of the text to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image on an image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the text by Italics.\n-\tAdjusting the boldness of the text to be inserted.\n-\tUnderlining features of the text.\n-\tUpgrading the meme with color options."
         },
         {
-            "question": "safeimagekit.comのミームジェネレータのテキスト挿入オプションはどのように機能しますか？",
-            "answer": "safeimagekit.comのミームジェネレータのテキスト挿入オプションにより、ユーザーはミームとして生成される画像ファイルにテキストを追加できます。追加されたテキストは、色調整、テキストの太さなどのいくつかの機能を使用して調整および変更できます。色調整オプションを使用すると、テキストに色を追加できますが、テキストの太さにより、ユーザーはテキストのサイズを調整できます。"
+            "question": "How does the text insertion option of meme generator from safeimagekit.com work?",
+            "answer": "The text insertion option of meme generator from safeimagekit.com, lets the user add text on the image file which is to be generated as a meme. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text."
         },
         {
-            "question": "safeimagekit.comのミームジェネレータの透明度調整オプションはどのように機能しますか？",
-            "answer": "safeimagekit.comのミームジェネレーターの透明度調整オプションにより、ユーザーはアップロードされたテキストまたは画像の透明度と不透明度を調整できます。このオプションはページの中央部分で利用でき、透明度オプションは0.1から1のスケールで表示されます。この調整が行われ、保存オプションを押すことで保存できます。 "
+            "question": "How does the transparency adjustment option of the meme generator from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the meme generator from safeimagekit.com lets the user adjust the transparency and opacity of the text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. "
         },
         {
-            "question": "safeimagekit.comのミームジェネレーターを使用してミームを生成する際に、テキストのフォントサイズを調整するにはどうすればよいですか？",
-            "answer": "safeimagekit.com のミームジェネレーターを使用してミームを生成する際のテキストのフォントサイズは、サイズの係数を入力することで調整できます。このオプションにアクセスするには、「Enter the Font size」という名前のスペースに有効なサイズを入力します。サイズは、そのスペースに値を入力することで調整できます。正の (+) 値を入力すると、テキストのフォントサイズを大きくできます。マイナス (-) の値を入力すると、テキストのフォントサイズを小さくできます。"
+            "question": "How do we adjust the font size of the text while generating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The font size of the text while generating a meme using the meme generator from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "safeimagekit.comのミームジェネレータの画像変換では、ストローク値はどのように機能しますか？",
-            "answer": "safeimagekit.comのミームジェネレータのストローク値は、編集のために画像に挿入されるテキストまたは画像の色を調整することによって機能します。この値にアクセスするには、「ストローク値を入力してください」というスペースに値を入力します。ミームに変換中の画像のストローク値は、正の値 (+) を入力してストロークを大きくすることで調整できます。負の値 (-) を入力してストロークを小さくすると、ストロークの値を小さくできます。"
+            "question": "How does the stroke value work in the image conversion in meme generator from safeimagekit.com?",
+            "answer": "The stroke value of the meme generator from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
         },
         {
-            "question": "safeimagekit.com のミームジェネレーターを使用してミームを作成しているときに、別の画像に画像を挿入できますか？",
-            "answer": "はい、safeimagekit.comのミームジェネレーターには、ミームの作成中に別の画像に画像を挿入するオプションがあります。この機能は、「画像のアップロード」という名前のページの下部からアクセスできます。この機能により、画像を別の画像に貼り付けることができます。これは、あらゆるタイプの画像に任意のタイプの画像を挿入できる名目上の機能です。編集と挿入後の画像は、「保存」というオプションを押すと保存できます。これにより、画像の進行状況が保存されます。"
+            "question": "Can we insert an image on another image while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com does provide the option to insert an image on another image while creating a meme. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "safeimagekit.comのミームジェネレーターを使用してミームを作成しているときに、編集中の画像に入力されたテキストを斜体に変換できますか？",
-            "answer": "はい、safeimagekit.comのミームジェネレーターを使用すると、画像に入力されたテキストをイタリック形式に変換できます。この機能は、イタリック体を表す「I」ボタンを押すことでアクセスできます。これにより、画像に存在するテキストがイタリック体に変換されます。変換後、「保存」というボタンを押します。これにより、イメージの進行状況が保存されます。"
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "safeimagekit.comのミームジェネレーターを使用してミームを作成する際に、編集中の画像に入力されたテキストをプレーンからボールドに変換できますか？",
-            "answer": "はい、safeimagekit.comのミームジェネレーターを使用すると、ユーザーはプレーンテキストを画像に入力された太字に変換できます。この機能は、太字を表す「B」ボタンを押すことでアクセスできます。これにより、画像に存在するプレーンテキストが太字に変換されます。変換後、「保存」というボタンを押します。これにより、イメージの進行状況が保存されます。"
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "safeimagekit.comのミームジェネレーターを使用してミームを作成する際に、編集中の画像に書かれたテキストに下線を引くことはできますか？",
-            "answer": "はい、safeimagekit.comのミームジェネレータを使用すると、画像に挿入されたテキストに下線を引くことができます。この機能は、下線を表すボタン「U」を押すとアクセスできます。これにより、画像上のテキスト（通常）が下線付きのテキストに変換されます。変換後、「保存」というボタンを押します。これにより、イメージの進行状況が保存されます。"
+            "question": "Can we underline the text, which is written on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user to underline the text which is inserted into the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "safeimagekit.comのミームジェネレーターを使用してミームを作成しながら、編集中の画像に入力されたテキストに色を付けるにはどうすればよいですか？",
-            "answer": "safeimagekit.comのミームジェネレーターを使用すると、ユーザーは画像上のテキストに色を付けることができます。このオプションには、すべての主要機能の横にあるブラックボックスを押すとアクセスでき、ブラックボックスを押すとカラーボックスがポップアップし、ユーザーは任意の色にアクセスしてテキストにペイントできます。"
+            "question": "How can we color the text which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The meme generator from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
         },
         {
-            "question": "ミーム生成ツールの作業を終えた後、ファイルは保存されますか？ ",
-            "answer": "いいえ、お客様のファイルをサーバーに送信することはありません。すべての操作はブラウザ自体で行われるため、すべてのファイルは完全に安全です。 "
+            "question": "Will my file be saved after I complete working on the meme generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "ミームジェネレーターツールを使用するには、追加のサインアップや追加料金を支払う必要がありますか？ ",
-            "answer": "もちろん、私たちのツールは完全にオンラインであり、電子メールID、パスワードなどの個人情報を私たちと共有する必要はありません。"
+            "question": "Do I have to do any additional signup or pay extra to use the meme generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "何か問題に直面した場合、または何か提案をしたいのであれば、どのように連絡すればよいですか？",
-            "answer": "すべてのユーザーから提供された問題や提案を喜んで受け入れます。詳細については、ソーシャルメディアのハンドルからお問い合わせください。SafeImageKit.comは、フェイスブック、インスタグラム、ユーチューブ、LinkedInなど、すべての主要なソーシャルメディアWebサイトで利用できます。"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

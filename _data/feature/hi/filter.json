@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "क्या मेरे ड्राइव तक पहुँच की अनुमति देना सुरक्षित है?",
-            "answer": "हां, हमें आपके ड्राइव तक पहुंच प्रदान करना और उसे एक्सेस देना बिल्कुल सुरक्षित है। हम आपकी साइट में कोई बदलाव नहीं करेंगे और आपकी फाइलें आपके पास सुरक्षित रहेंगी।"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "मैं अपने ड्राइव/ड्रॉपबॉक्स से फाइल कैसे अपलोड कर सकता हूं?",
-            "answer": "ड्रॉप डाउन एरो पर क्लिक करें और ड्रॉपबॉक्स/Google ड्राइव चुनें। उस Google खाते का चयन करें जहाँ से आप अपना ड्राइव लिंक करना चाहते हैं। अब आप उन फ़ाइलों का चयन कर सकते हैं जिन्हें आप अपलोड करना चाहते हैं।"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "एक छवि में फ़िल्टर जोड़ते समय safeimagekit.com से फोटो फ़िल्टर द्वारा दी जाने वाली सुविधाएँ क्या हैं?",
-            "answer": "Safeimagekit.com से फोटो फ़िल्टर सुविधा वहां से सर्वश्रेष्ठ फ़िल्टर प्रदान करती है। ये फ़िल्टर अपलोड की गई इमेज के समग्र रूप को बदल देते हैं। उपलब्ध फ़िल्टर हैं- प्रीविट क्षैतिज- लाल, हरा, ग्रेस्केल, इनवर्ट, हाई पास, लाप्लासियन, प्रीविट वर्टिकल, रॉबर्ट, संतृप्ति, सेपिया, शार्पन, सोबेल क्षैतिज, सोबेल वर्टिकल, थ्रेसहोल्ड, मिरर। नीचे की ओर लागू करें सुविधा किए गए परिवर्तनों को सहेजती है और उपयोगकर्ता को छवि फ़ाइल डाउनलोड करने देती है।"
+            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
+            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
         },
         {
-            "question": "safeimagekit.com से फोटो फ़िल्टर सुविधा के तहत एक छवि फ़ाइल में फ़िल्टर जोड़ने की प्रक्रिया क्या है?",
-            "answer": "safeimagekit.com से फोटो फाइलर्स सुविधा के तहत एक छवि फ़ाइल में फ़िल्टर जोड़ने के लिए 4 बुनियादी चरण हैं। इन विशेषताओं में शामिल हैं-\n- दिए गए स्थान में आवश्यक छवि फ़ाइल अपलोड करें।\n- दिए गए विकल्पों में से उपयुक्त फ़िल्टर चुनें।\n- फ़िल्टर का चयन करें और उस छवि पर उस फ़िल्टर को लागू करने के लिए लागू करें पर क्लिक करें।\n- किए गए परिवर्तनों को सहेजने और संशोधित छवि को डाउनलोड करने के लिए सहेजें।"
+            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
+            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
         },
         {
-            "question": "safeimagekit.com से फोटो फ़िल्टर सुविधा द्वारा समर्थित छवि प्रारूप कौन से हैं?",
-            "answer": "वर्तमान में, safeimagekit.com से फोटो फ़िल्टर सुविधा वहां से बाहर छवियों के सभी स्वरूपों का समर्थन करती है। हालाँकि, यदि चित्र निम्न प्रारूप में हैं, तो उपयोगकर्ता सबसे अच्छा लाभ प्राप्त कर सकता है-\n- पीएनजी\n- जेपीईजी\n- जेपीजी\n- रॉ \n- ईपीएस, आदि\n"
+            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
+            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
         },
         {
-            "question": "हम safeimagekit.com से अपलोड की गई तस्वीर पर फोटो फ़िल्टर का उपयोग करके Laplacian फ़िल्टर कैसे लागू करते हैं?",
-            "answer": "सबसे पहले, उस छवि को अपलोड करें जिसके लिए प्रदान किए गए अपलोड स्थान में बदलाव की आवश्यकता है। फिर, फ़िल्टर के टूलबॉक्स में दिए गए विभिन्न विकल्पों में से Laplacian छवि फ़िल्टर का चयन करें। फिर, फ़िल्टर जोड़ने के बाद फ़ोटो का पूर्वावलोकन प्राप्त करने के लिए लागू करें बटन दबाएं। अपलोड की गई छवि में किए गए परिवर्तनों को सहेजने के लिए “सहेजें” पर क्लिक करें। अंत में, नई और बेहतर छवि डाउनलोड करने के लिए डाउनलोड विकल्प को हिट करें।"
+            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "क्या हमें safeimagekit.com से फोटो फ़िल्टर सुविधा का उपयोग करते समय फ़िल्टर जोड़ने के बाद छवि की जांच करने के लिए एक पूर्वावलोकन मिलता है?",
-            "answer": "हां, safeimagekit.com से फोटो फ़िल्टर सुविधा उस छवि के दृष्टिकोण की जांच करने के लिए एक पूर्वावलोकन विकल्प प्रदान करती है जिसे संपादित किया जा रहा है। पूर्वावलोकन सुविधा तक पहुंचने के लिए, उपयोगकर्ता को एक छवि अपलोड करने और प्रदान किए गए फ़िल्टर की विविधता से उस छवि में एक फ़िल्टर जोड़ने की आवश्यकता होती है। फिर, उस इमेज पर उस फ़िल्टर को लागू करने के लिए apply बटन दबाएं। फिर, हमें इमेज का प्रीव्यू मिलता है जिसे एक नए फिल्टर के साथ मॉडिफाई किया गया है।"
+            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
+            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
         },
         {
-            "question": "हम safeimagekit.com से अपलोड की गई तस्वीर पर फोटो फ़िल्टर का उपयोग करके मिरर फ़िल्टर कैसे लागू करते हैं?",
-            "answer": "मिरर फ़िल्टर एक अद्वितीय फ़िल्टर है जो उपयोगकर्ता को छवि की सटीक दर्पण प्रतिलिपि प्रदान करता है। सबसे पहले, उस छवि को अपलोड करें जिसके लिए प्रदान किए गए अपलोड स्थान में बदलाव की आवश्यकता है। फिर, फ़िल्टर के टूलबॉक्स में दिए गए विभिन्न विकल्पों में से मिरर इमेज फ़िल्टर का चयन करें। फिर, फ़िल्टर जोड़ने के बाद फ़ोटो का पूर्वावलोकन प्राप्त करने के लिए लागू करें बटन दबाएं। अपलोड की गई छवि में किए गए परिवर्तनों को सहेजने के लिए “सहेजें” पर क्लिक करें। अंत में, नई और बेहतर छवि डाउनलोड करने के लिए डाउनलोड विकल्प को हिट करें।"
+            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "क्या हम safeimagekit.com से ऐड फ़िल्टर सुविधा का उपयोग करके छवि फ़ाइल में फ़िल्टर जोड़ते समय टेक्स्ट जोड़ या हटा सकते हैं?",
-            "answer": "नहीं, हम safeimagekit.com से ऐड फ़िल्टर सुविधा का उपयोग करके अपलोड की गई छवि फ़ाइल में फ़िल्टर जोड़ते समय टेक्स्ट जोड़ या हटा नहीं सकते हैं, पाठ संपादन सुविधाएँ जैसे पाठ सम्मिलन और पाठ हटाने की सुविधाएँ वर्तमान में शामिल नहीं हैं। फोटो फ़िल्टर सुविधा केवल रूपांतरण का समर्थन करती है लेकिन संपादन नहीं करती है। हालांकि, वेबसाइट के अपडेट वेबसाइट पर सभी रोमांचक सुविधाओं को यहां तक कि टेक्स्ट एडिटिंग फीचर्स भी लाएंगे।"
+            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
+            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
         },
         {
-            "question": "एक छवि फ़ाइल में फ़िल्टर जोड़ने के लिए safeimagekit.com से फोटो फ़िल्टर सुविधा द्वारा लिया गया समय क्या है?",
-            "answer": "समय यहाँ मौजूद रोमांचक कारक है; safeimagekit.com से फोटो फ़िल्टर सुविधा द्वारा लिया गया समय पूरी तरह से अपलोड की गई छवि फ़ाइल पर निर्भर करता है। यदि अपलोड की गई छवि का आकार अधिक है, तो छवि फ़ाइल के रूपांतरण को संसाधित करने में लगने वाला समय सामान्य छवि फ़ाइल को बदलने में लगने वाले समय से थोड़ा अधिक है और इसके विपरीत। इंटरनेट कनेक्शन भी रूपांतरण की गति में एक भूमिका निभाता है (यह धीमे कनेक्शन पर भी काम करता है)।"
+            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
+            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
         },
         {
-            "question": "यदि हम safeimagekit.com से फोटो फ़िल्टर सुविधा का उपयोग कर रहे हैं, तो हम अपने ब्राउज़र को रीफ्रेश करते हैं, तो हमारी प्रगति का क्या होगा?",
-            "answer": "Safeimagekit.com से फोटो फ़िल्टर सुविधा किसी भी सर्वर से कनेक्ट नहीं है, इसलिए उपयोगकर्ता जिस डेटा पर काम कर रहा है वह कहीं भी संग्रहीत नहीं किया जाएगा और परिणामस्वरूप, जब उपयोगकर्ता उस ब्राउज़र को रीफ्रेश करेगा तो इसे तुरंत मिटा दिया जाएगा जिस पर वह काम कर रहा है। जिन छवि फ़ाइलों पर काम किया जाता है, उन्हें उपयोगकर्ता के बाहर निकलने या उस टैब को बंद करने के बाद भी हटा दिया जाएगा जिस पर वेबसाइट का एक्सटेंशन पृष्ठ खुला है।"
+            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
+            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "क्या मैं अपने Ubuntu OS पर safeimagekit.com से फोटो फ़िल्टर सुविधा का उपयोग कर सकता हूं?",
-            "answer": "फोटो फिल्टर safeimagekit.com द्वारा प्रदान की जाने वाली एक बहुमुखी सुविधा है जो कि विंडोज 8, लिनक्स और यहां तक कि उबंटू जैसे सभी ऑपरेटिंग सिस्टम द्वारा समर्थित है। यह सब लेता है www.safeimagekit.com वेबसाइट और खड़े होने के लिए एक सामान्य इंटरनेट कनेक्शन का उपयोग करके एक्सटेंशन फ़ाइल खोलने के लिए एक उपकरण है। मजेदार तथ्य यह है कि यह धीमे इंटरनेट कनेक्शन पर भी चल सकता है।"
+            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
+            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "हम safeimagekit.com से अपलोड की गई तस्वीर पर फोटो फ़िल्टर का उपयोग करके सेपिया फ़िल्टर कैसे लागू करते हैं?",
-            "answer": "सबसे पहले, उस छवि को अपलोड करें जिसके लिए प्रदान किए गए अपलोड स्थान में बदलाव की आवश्यकता है। फिर, फ़िल्टर के टूलबॉक्स में दिए गए विभिन्न विकल्पों में से सेपिया छवि फ़िल्टर का चयन करें। फिर, फ़िल्टर जोड़ने के बाद फ़ोटो का पूर्वावलोकन प्राप्त करने के लिए लागू करें बटन दबाएं। अपलोड की गई छवि में किए गए परिवर्तनों को सहेजने के लिए “सहेजें” पर क्लिक करें। अंत में, नई और बेहतर छवि डाउनलोड करने के लिए डाउनलोड विकल्प को हिट करें।"
+            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "फोटो फ़िल्टर टूल पर काम पूरा करने के बाद क्या मेरी फ़ाइल सहेजी जाएगी? ",
-            "answer": "नहीं, हम आपकी किसी भी फाइल को हमारे सर्वर पर नहीं भेजते हैं, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं इसलिए आपकी सभी फाइलें पूरी तरह से सुरक्षित हैं। "
+            "question": "Will my file be saved after I complete working on the photo filter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "क्या मुझे फोटो फ़िल्टर टूल का उपयोग करने के लिए कोई अतिरिक्त साइनअप करना होगा या अतिरिक्त भुगतान करना होगा? ",
-            "answer": "बिल्कुल नहीं, हमारा टूल पूरी तरह से ऑनलाइन है और आपको अपनी किसी भी व्यक्तिगत जानकारी को हमारे साथ साझा करने की आवश्यकता नहीं है, जैसे ईमेल आईडी, पासवर्ड आदि।"
+            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "यदि मैं किसी समस्या का सामना करता हूं या यदि मैं कोई सुझाव देना चाहता हूं तो मैं कैसे संवाद कर सकता हूं?",
-            "answer": "हम ख़ुशी से सभी उपयोगकर्ताओं द्वारा दिए गए किसी भी मुद्दे या सुझावों को लेते हैं, कृपया अधिक जानकारी के लिए हमारे सोशल मीडिया हैंडल के माध्यम से हमसे संपर्क करें। SafeimageKit.com सभी प्रमुख सोशल मीडिया वेबसाइटों जैसे फेसबुक, इंस्टाग्राम, यूट्यूब और लिंक्डइन आदि पर उपलब्ध है।"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

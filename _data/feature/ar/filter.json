@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "هل من الآمن السماح بالوصول إلى محرك الأقراص الخاص بي؟",
-            "answer": "نعم، من الآمن تمامًا السماح لنا بالوصول إلى محرك الأقراص الخاص بك. لن نقوم بإجراء أي تغييرات على موقعك وستكون ملفاتك آمنة معك."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "كيف يمكنني تحميل الملفات من محرك الأقراص الخاص بي/dropbox؟",
-            "answer": "انقر فوق السهم المنسدل وحدد Dropbox/Google Drive. حدد حساب Google من حيث تريد ربط محرك الأقراص الخاص بك. الآن يمكنك تحديد الملفات التي تريد تحميلها."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "ما هي الميزات التي توفرها فلاتر الصور من safeimagekit.com، مع إضافة مرشح إلى صورة؟",
-            "answer": "توفر ميزة تصفية الصور من safeimagekit.com أفضل المرشحات الموجودة هناك. تعمل هذه الفلاتر على تغيير المظهر العام للصورة التي تم تحميلها. المرشحات المتاحة هي- بريويت أفقي- أحمر، أخضر، رمادي، عكس، تمرير عالي، لابلاسيان، بريويت عمودي، روبرت، تشبع، بني داكن، شحذ، سوبل أفقي، سوبل عمودي، ثريشولد، مرآة. تقوم ميزة التطبيق الموجودة في الأسفل بحفظ التغييرات التي تم إجراؤها وتتيح للمستخدم تنزيل ملف الصورة."
+            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
+            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
         },
         {
-            "question": "ما هي عملية إضافة عوامل التصفية إلى ملف صورة ضمن ميزة تصفية الصور من safeimagekit.com؟",
-            "answer": "هناك 4 خطوات أساسية لإضافة فلاتر إلى ملف صورة ضمن ميزة ملفات الصور من safeimagekit.com. تشمل هذه الميزات-\n- قم بتحميل ملف الصورة المطلوب في المساحة المتوفرة.\n- اختر الفلتر المناسب من مجموعة متنوعة من الخيارات المقدمة.\n- حدد عامل التصفية وانقر فوق تطبيق لتطبيق هذا الفلتر على تلك الصورة.\n- اضغط على حفظ لحفظ التغييرات التي تم إجراؤها وتنزيل الصورة المعدلة."
+            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
+            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
         },
         {
-            "question": "ما هي تنسيقات الصور التي تدعمها ميزة تصفية الصور من safeimagekit.com؟",
-            "answer": "حاليًا، تدعم ميزة تصفية الصور من safeimagekit.com جميع تنسيقات الصور الموجودة هناك. ومع ذلك، يمكن للمستخدم الحصول على أفضل ميزة إذا كانت الصور بالتنسيق التالي-\n- بابوا نيو غينيا\n- JPEG\n- JPG\n- الخام \n- Eps، إلخ.\n"
+            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
+            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
         },
         {
-            "question": "كيف نطبق مرشح Laplacian باستخدام مرشح الصور من safeimagekit.com إلى الصورة التي تم تحميلها؟",
-            "answer": "أولاً، قم بتحميل الصورة التي تتطلب تغييرًا في مساحة التحميل المتوفرة. بعد ذلك، حدد مرشح الصورة Laplacian من مجموعة متنوعة من الخيارات المتوفرة في صندوق أدوات الفلاتر. ثم اضغط على زر التطبيق للحصول على معاينة للصورة بعد إضافة الفلتر. اضغط على «حفظ» لحفظ التغييرات التي تم إجراؤها على الصورة التي تم تحميلها. أخيرًا، اضغط على خيار التنزيل لتنزيل الصورة الجديدة والمحسنة."
+            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "هل نحصل على معاينة، للتحقق من الصورة بعد إضافة مرشح أثناء استخدام ميزة تصفية الصور من safeimagekit.com؟",
-            "answer": "نعم، توفر ميزة تصفية الصور من safeimagekit.com خيار معاينة للتحقق من النظرة المستقبلية للصورة التي يتم تحريرها. للوصول إلى ميزة المعاينة، يحتاج المستخدم إلى تحميل صورة وإضافة مرشح إلى تلك الصورة من مجموعة متنوعة من الفلاتر المتوفرة. ثم اضغط على زر تطبيق لتطبيق هذا الفلتر على تلك الصورة. بعد ذلك، نحصل على معاينة للصورة التي تم تعديلها بفلتر جديد."
+            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
+            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
         },
         {
-            "question": "كيف نطبق مرشح المرآة باستخدام مرشح الصور من safeimagekit.com إلى الصورة التي تم تحميلها؟",
-            "answer": "مرشح المرآة هو مرشح فريد يوفر للمستخدم نسخة طبق الأصل من الصورة. أولاً، قم بتحميل الصورة التي تتطلب تغييرًا في مساحة التحميل المتوفرة. بعد ذلك، حدد مرشح صورة المرآة من مجموعة متنوعة من الخيارات المتوفرة في صندوق أدوات الفلاتر. ثم اضغط على زر التطبيق للحصول على معاينة للصورة بعد إضافة الفلتر. اضغط على «حفظ» لحفظ التغييرات التي تم إجراؤها على الصورة التي تم تحميلها. أخيرًا، اضغط على خيار التنزيل لتنزيل الصورة الجديدة والمحسنة."
+            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "هل يمكننا إضافة أو إزالة نص أثناء إضافة مرشح إلى ملف الصورة باستخدام ميزة إضافة مرشح من safeimagekit.com؟",
-            "answer": "لا، لا يمكننا إضافة أو إزالة نص أثناء إضافة عامل تصفية إلى ملف الصورة الذي تم تحميله باستخدام ميزة إضافة فلتر من safeimagekit.com، ميزات تحرير النص مثل إدراج النص وميزات إزالة النص غير مدرجة حاليًا. تدعم ميزة تصفية الصور التحويل فقط ولكن ليس التحرير. ومع ذلك، فإن التحديثات على موقع الويب ستجلب جميع الميزات المثيرة حتى ميزات تحرير النص إلى موقع الويب."
+            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
+            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
         },
         {
-            "question": "ما هو الوقت الذي تقضيه ميزة تصفية الصور من safeimagekit.com لإضافة مرشح إلى ملف صورة؟",
-            "answer": "الوقت هو العامل المثير الموجود هنا؛ يعتمد الوقت الذي استغرقه ميزة تصفية الصور من safeimagekit.com كليًا على ملف الصورة الذي تم تحميله. إذا كان حجم الصورة التي تم تحميلها أكثر، فإن الوقت المستغرق لمعالجة تحويل ملف الصورة هو أكثر قليلاً من الوقت المستغرق لتحويل ملف صورة عادي والعكس صحيح. يلعب اتصال الإنترنت أيضًا دورًا في سرعة التحويل (حتى أنه يعمل على اتصال أبطأ)."
+            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
+            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
         },
         {
-            "question": "ماذا سيحدث لتقدمنا إذا قمنا بتحديث متصفحنا أثناء استخدامنا لميزة تصفية الصور من safeimagekit.com؟",
-            "answer": "ميزة تصفية الصور من safeimagekit.com غير متصلة بأي خادم هناك، لذلك لن يتم تخزين البيانات التي يعمل عليها المستخدم في أي مكان ونتيجة لذلك، سيتم محوها على الفور عندما يقوم المستخدم بتحديث المتصفح الذي يعمل عليه. ستتم أيضًا إزالة ملفات الصور التي يتم العمل عليها بعد خروج المستخدم أو إغلاقه علامة التبويب التي تفتح عليها صفحة الامتداد الخاصة بموقع الويب."
+            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
+            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "هل يمكنني استخدام ميزة تصفية الصور من safeimagekit.com على نظام التشغيل Ubuntu الخاص بي؟",
-            "answer": "مرشحات الصور هي ميزة متعددة الاستخدامات تقدمها safeimagekit.com والتي تدعمها جميع أنظمة التشغيل الموجودة مثل Windows 8 و Linux وحتى Ubuntu. كل ما يتطلبه الأمر هو جهاز لفتح ملف التمديد باستخدام موقع www.safeimagekit.com واتصال إنترنت عادي للوقوف عليه. الحقيقة الممتعة هي أنه يمكن تشغيلها حتى على اتصال إنترنت أبطأ."
+            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
+            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "كيف نطبق مرشح بني داكن باستخدام مرشح الصور من safeimagekit.com إلى الصورة التي تم تحميلها؟",
-            "answer": "أولاً، قم بتحميل الصورة التي تتطلب تغييرًا في مساحة التحميل المتوفرة. بعد ذلك، حدد مرشح صورة بني داكن من مجموعة متنوعة من الخيارات المتوفرة في صندوق أدوات المرشحات. ثم اضغط على زر التطبيق للحصول على معاينة للصورة بعد إضافة الفلتر. اضغط على «حفظ» لحفظ التغييرات التي تم إجراؤها على الصورة التي تم تحميلها. أخيرًا، اضغط على خيار التنزيل لتنزيل الصورة الجديدة والمحسنة."
+            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "هل سيتم حفظ ملفي بعد الانتهاء من العمل على أداة تصفية الصور؟ ",
-            "answer": "لا، نحن لا نرسل أيًا من ملفاتك إلى خوادمنا، تتم جميع العمليات على المتصفح نفسه وبالتالي فإن جميع ملفاتك آمنة تمامًا. "
+            "question": "Will my file be saved after I complete working on the photo filter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "هل يتعين علي القيام بأي تسجيل إضافي أو دفع مبلغ إضافي لاستخدام أداة تصفية الصور؟ ",
-            "answer": "بالتأكيد لا، لدينا أداة على الانترنت تماما ولا تتطلب منك مشاركة أي من المعلومات الشخصية الخاصة بك معنا، مثل معرف البريد الإلكتروني وكلمات المرور الخ لدينا أداة خالية تماما من التكلفة."
+            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "كيف يمكنني التواصل إذا واجهت أي مشاكل أو إذا كنت أرغب في تقديم أي اقتراحات؟",
-            "answer": "نحن بكل سرور نأخذ في أي مشكلة أو اقتراحات يقدمها جميع المستخدمين، يرجى الاتصال بنا من خلال مقابض وسائل التواصل الاجتماعي الخاصة بنا للحصول على مزيد من المعلومات. Safeimagekit.com متاح على جميع مواقع التواصل الاجتماعي الرائدة مثل Facebook و Instagram و YouTube و LinkedIn وما إلى ذلك."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [
