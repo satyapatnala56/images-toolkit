@@ -1,14 +1,14 @@
 {
     "Language": "Tiếng Việt",
     "htmlLangAtt": "vi",
-    "H1": "Lật hình ảnh trực tuyến miễn phí với công cụ nâng cao này",
+    "H1": "Hình ảnh Flipper",
     "img": "/img/rotate.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "nofileupload": true,
     "variant": "thông tin",
     "imgalt": "altvalue",
-    "H2": "Xoay ảnh đã được thực hiện dễ dàng bởi chúng tôi, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
+    "H2": "Xoay ảnh đã được thực hiện dễ dàng với chúng tôi, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
     "TITLE": "Lật hình ảnh lật trực tuyến- safeimagekit",
     "META": "Bạn đang tìm kiếm một flipper hình ảnh chất lượng cao? Vâng, sau đó bạn đang ở đúng nơi. Công cụ hình ảnh lật trực tuyến của chúng tôi cực kỳ an toàn, thân thiện với người dùng và siêu nhanh.",
     "LABEL": "",
@@ -65,72 +65,72 @@
     },
     "FAQ": [
         {
-            "question": "Có an toàn để cho phép truy cập vào ổ đĩa của tôi?",
-            "answer": "Có, nó là hoàn toàn an toàn để cho phép và cung cấp cho chúng tôi quyền truy cập vào ổ đĩa của bạn. Chúng tôi sẽ không thực hiện bất kỳ thay đổi nào đối với trang web của bạn và dfiles của bạn sẽ được an toàn với bạn."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Làm cách nào tôi có thể tải lên tệp từ ổ đĩa/dropbox của tôi?",
-            "answer": "Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive. Chọn tài khoản Google từ nơi bạn muốn liên kết ổ đĩa của mình. Bây giờ bạn có thể chọn các tệp mà bạn muốn tải lên."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Các tính năng được cung cấp bởi tính năng flipper hình ảnh từ safeimagekit.com trong khi lật một hình ảnh là gì?",
-            "answer": "Hình ảnh flipper từ safeimagekit.com cung cấp các tính năng linh hoạt trong khi lật một hình ảnh, nơi chúng tôi tải lên tệp hình ảnh trong không gian được cung cấp và chỉnh sửa hình ảnh đó bằng cách xoay nó sang trái hoặc sang phải hoặc xoay hình ảnh với một góc biên."
+            "question": "What are the features offered by the image flipper feature from safeimagekit.com while, flipping an image?",
+            "answer": "Image flipper from safeimagekit.com offers versatile features while flipping an image, where we upload the image file in the space provided and edit that image by rotating it to its left or to is its right or rotate the image with a marginal angle."
         },
         {
-            "question": "Làm cách nào chúng ta có thể xoay tệp hình ảnh sang phải, sử dụng tính năng flipper hình ảnh từ safeimagekit.com?",
-            "answer": "Bước đầu tiên, chúng tôi tải lên tệp hình ảnh trong không gian được cung cấp. Bước tiếp theo sẽ được thực hiện bởi trang web safeimagekit.com nơi nó ổn định hình ảnh. Người dùng dựa trên yêu cầu sẽ xoay hình ảnh sang bên phải bằng cách chèn góc trên không gian được cung cấp. Sau khi nhập góc phù hợp, nhấn nút “xoay” xoay hình ảnh theo góc. Nhấn nút “lưu” để lưu các thay đổi được thực hiện."
+            "question": "How can we rotate the image file to the right, using the image flipper feature from safeimagekit.com?",
+            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the right side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
         },
         {
-            "question": "Làm thế nào chúng ta có thể xoay tệp hình ảnh sang trái, sử dụng tính năng flipper hình ảnh từ safeimagekit.com?",
-            "answer": "Bước đầu tiên, chúng tôi tải lên tệp hình ảnh trong không gian được cung cấp. Bước tiếp theo sẽ được thực hiện bởi trang web safeimagekit.com nơi nó ổn định hình ảnh. Người dùng dựa trên yêu cầu sẽ xoay hình ảnh sang bên trái bằng cách chèn góc trên không gian được cung cấp. Sau khi nhập góc phù hợp, nhấn nút “xoay” xoay hình ảnh theo góc. Nhấn nút “lưu” để lưu các thay đổi được thực hiện."
+            "question": "How can we rotate the image file to the left, using the image flipper feature from safeimagekit.com?",
+            "answer": "As a first step, we upload the image file in the space provided. The next step will be done by the website safeimagekit.com where it steadies the image. The user based on the requirement will rotate the image to the left side by inserting the angle on the space provided. After entering the suitable angle, hit the “rotate” button which rotates the image according to the angle. Hit the “save” button to save the changes made."
         },
         {
-            "question": "Các tập tin hình ảnh tải lên của tôi sẽ bị hỏng sau khi xoay các tập tin hình ảnh bằng tính năng tập tin flipper hình ảnh từ safeimagefkit.com?",
-            "answer": "Không, safeimagekit.com được xây dựng với tất cả các chương trình mới nhất và tính năng bảo mật mà không cho phép các tập tin hình ảnh tải lên bị hỏng. Vì vậy, các tệp hình ảnh được tải lên hoàn toàn an toàn và được bảo mật."
+            "question": "Will my uploaded image files corrupt after rotating the image files using the image flipper file feature from safeimagefkit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Chúng ta có thể xoay các tệp hình ảnh bị khóa, sử dụng tính năng flipper hình ảnh từ safeimagekit.com không?",
-            "answer": "Không, chúng tôi không thể tải lên tệp hình ảnh bị khóa vì quyền truy cập vào tệp hình ảnh cụ thể đó bị chặn. Vì vậy, để sử dụng tính năng flipper hình ảnh từ safeimagekit.com, chúng ta cần tải lên các tệp hình ảnh không bị khóa. Nhưng người dùng có thể kiểm tra phần mở rộng công cụ tìm mật khẩu từ safeimagekit.com được tạo riêng để mở khóa pdf cũng như các tệp hình ảnh trong trường hợp người dùng mất mật khẩu cho tệp hình ảnh bị khóa của mình."
+            "question": "Can we rotate the image files which are locked, using the image flipper feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the image flipper feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking pdfs as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "Tôi có thể sử dụng tính năng flipper hình ảnh từ safeimagekit.com trên hệ điều hành LINUX của mình không?",
-            "answer": "Có, tính năng flipper hình ảnh từ safeimagekit.com có thể được sử dụng trên bất kỳ hệ điều hành nào, thậm chí LINUX. Nó được xây dựng với mã mới nhất và các tính năng cho phép người dùng sử dụng phần mở rộng flipper hình ảnh trên bất kỳ hệ điều hành nào như MAC OS, Windows và Ubuntu, miễn là có một thiết bị có kết nối internet ổn định. Bí quyết chính là nó thậm chí hoạt động trên kết nối internet chậm hơn."
+            "question": "Can I use the image flipper feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the image flipper feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to use the image flipper extension on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The main trick is that it even works on a slower internet connection."
         },
         {
-            "question": "Tôi có thể sử dụng tính năng flipper hình ảnh từ safeimagekit.com trên thiết bị iOS không?",
-            "answer": "Có, phần mở rộng flipper hình ảnh từ safeimagekit.com có thể được sử dụng trên các thiết bị iOS và thậm chí trên các thiết bị Android. Nó được xây dựng với các tính năng mới nhất cung cấp cho người dùng sử dụng tệp mở rộng này trên bất kỳ hệ điều hành nào, tất cả những gì nó cần kết nối internet và trình duyệt web tốt."
+            "question": "Can I use the image flipper feature from safeimagekit.com on an iOS device?",
+            "answer": "Yes, the image flipper extension from safeimagekit.com can be used on iOS devices and even on android devices. It is built with the latest features which provide the user to use this extension file on any operating system, all it needs an internet connection and a good web browser."
         },
         {
-            "question": "Điều gì sẽ xảy ra với tiến trình của chúng tôi nếu chúng tôi làm mới trình duyệt của mình trong khi chúng tôi đang sử dụng flipper hình ảnh từ safeimagekit.com?",
-            "answer": "Tính năng flipper hình ảnh từ safeimagekit.com không được kết nối với bất kỳ máy chủ nào ngoài kia, vì vậy dữ liệu mà người dùng đang làm việc sẽ không được lưu trữ ở bất cứ đâu và kết quả là, nó sẽ bị xóa ngay lập tức khi người dùng làm mới trình duyệt mà anh ta đang làm việc. Các tệp hình ảnh được làm việc trên cũng sẽ bị xóa sau khi người dùng thoát hoặc đóng tab mà trang web trang ảnh xoay được mở."
+            "question": "What will happen to our progress if we refresh our browser while we are using the image flipper from safeimagekit.com?",
+            "answer": "The image flipper feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the rotate image page website is open."
         },
         {
-            "question": "Làm cách nào tôi có thể lưu các thay đổi được thực hiện cho tệp hình ảnh bằng tính năng flipper hình ảnh từ safeimagekit.com?",
-            "answer": "Đầu tiên, tải lên tệp hình ảnh yêu cầu thay đổi, sau đó sử dụng tùy chọn “nhập góc xoay” để thay đổi hướng của hình ảnh. Sau đó, sử dụng tùy chọn xoay để bắt đầu xoay, vòng quay sẽ được ngay lập tức và sẽ được hoàn thành trong vòng một giây. Sau đó, sử dụng tùy chọn lưu được đưa ra ở bên phải của trang web, điều này lưu các thay đổi được thực hiện cho các trang của tệp hình ảnh và sau đó tải xuống tệp hình ảnh được sửa đổi bằng cách sử dụng tùy chọn gọi là “tải xuống”."
+            "question": "How can I save the changes made to the image file using the image flipper feature from safeimagekit.com?",
+            "answer": "First, upload an image file that requires a change, then use the “enter the rotation angle” option to change the orientation of the image. Then, use the rotate option to start the rotation, the rotation will be instantaneous and will be finished within a second. Then, use the save option which is given on the right of the website, this saves the changes made to the pages of the image file and then downloads the image file which is modified by using the option called “download”."
         },
         {
-            "question": "Định dạng hình ảnh nào được hỗ trợ bởi flipper hình ảnh từ safeimagekit.com trong khi, xoay một hình ảnh?",
-            "answer": "Flipper hình ảnh từ safeimagekit.com hỗ trợ tất cả các định dạng hình ảnh hàng đầu và phổ biến trên mạng. Chúng bao gồm-\n- Định dạng Png\n- Định dạng Jpeg\n- Định dạng Jpg\n- Định dạng thô, v.v."
+            "question": "Which are the image formats supported by the image flipper from safeimagekit.com while, rotating an image?",
+            "answer": "The image flipper from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
         },
         {
-            "question": "safeimagekit.com có hỗ trợ pdf vàtệp định dạng từ không?",
-            "answer": "Hiện tại, safeimagekit.com không hỗ trợ bất kỳ định dạng nào lưu các định dạng loại hình ảnh. Tính năng flipper hình ảnh chỉ hoạt động cho các tệp hình ảnh và cập nhật cho trang web sẽ mang lại hỗ trợ cho tất cả các định dạng bao gồm pdf vàđịnh dạng từ."
+            "question": "Do the safeimagekit.com support pdfs and. word format files?",
+            "answer": "Currently, safeimagekit.com does not support any format save the image type formats. The image flipper feature only works for image files and updates to the website will bring support to all the formats including pdf and. word formats."
         },
         {
-            "question": "Chúng ta có thể sử dụng xoay góc phản xạ để xoay hình ảnh của chúng tôi bằng cách sử dụng flipper hình ảnh từ safeimagekit.com?",
-            "answer": "Góc phản xạ là các loại góc có đo độ lớn hơn 180° nhưng nhỏ hơn 360°. Các ví dụ phổ biến về các góc phản xạ là; 200°, 220°, 250°, 300°, 350°, v.v. có, tính năng flipper hình ảnh từ safeimagekit.com hỗ trợ xoay hình ảnh với các góc phản xạ. Chỉ cần nhập góc phản xạ vào “nhập không gian góc xoay” và nhấn tùy chọn xoay để lật hình ảnh. Nhấn nút lưu sau đó để lưu các thay đổi được thực hiện cho hình ảnh. Cuối cùng, nhấn nút tải xuống để tải xuống hình ảnh."
+            "question": "Can we use reflex angle rotations to rotate our image using the image flipper from safeimagekit.com?",
+            "answer": "Reflex angles are the types of angles whose degree measurement is more than 180° but less than 360°. Common examples of reflex angles are; 200°, 220°, 250°, 300°, 350°, etc. yes, the image flipper feature from safeimagekit.com do support the rotation of images with reflex angles. Just enter the reflex angle in “enter the rotation angle space” and hit the rotate option to flip the image. Hit the save button after that to save the changes made to the image. Finally, hit the download button to download the image."
         },
         {
-            "question": "Tập tin của tôi sẽ được lưu sau khi tôi hoàn tất làm việc trên công cụ flipper hình ảnh? ",
-            "answer": "Không, chúng tôi không gửi bất kỳ tệp nào của bạn đến máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt do đó tất cả các tệp của bạn hoàn toàn an toàn. "
+            "question": "Will my file be saved after I complete working on the image flipper tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Tôi có phải đăng ký bổ sung hoặc trả thêm tiền để sử dụng công cụ flipper hình ảnh không? ",
-            "answer": "Hoàn toàn không, công cụ của chúng tôi là hoàn toàn trực tuyến và không yêu cầu bạn chia sẻ bất kỳ thông tin cá nhân của bạn với chúng tôi, như id email, mật khẩu vv Công cụ của chúng tôi là hoàn toàn miễn phí."
+            "question": "Do I have to do any additional signup or pay extra to use the image flipper tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Làm cách nào để giao tiếp nếu tôi gặp bất kỳ vấn đề nào hoặc nếu tôi muốn đưa ra bất kỳ đề xuất nào?",
-            "answer": "Chúng tôi sẵn sàng đưa vào bất kỳ vấn đề hoặc đề xuất được cung cấp bởi tất cả người dùng, vui lòng liên hệ với chúng tôi thông qua xử lý phương tiện truyền thông xã hội của chúng tôi để biết thêm thông tin Safeimagekit.com có sẵn trên tất cả các trang web truyền thông xã hội hàng đầu như Facebook, Instagram, YouTube và LinkedIn, v.v."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

@@ -1,14 +1,14 @@
 {
     "Language": "Svenska",
     "htmlLangAtt": "sv",
-    "H1": "Avancerad meme generator online",
+    "H1": "Meme Generator",
     "img": "/img/meme.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "framgång",
-    "H2": "Meme gör är nu enkelt av oss, börja med att ladda upp din fil nedan",
+    "H2": "Online meme maker har gjorts enkelt med oss, börja med att ladda upp din fil nedan",
     "TITLE": "Meme generator- online meme maker- safeimagekit",
     "META": "Letar du efter en högkvalitativ meme generator? Då är du på rätt ställe. Vårt online meme maker verktyg är extremt säkert, användarvänligt och supersnabbt.",
     "width": "",
@@ -67,64 +67,64 @@
     },
     "FAQ": [
         {
-            "question": "Är det säkert att tillåta åtkomst till min enhet?",
-            "answer": "Ja, det är helt säkert att tillåta och ge oss tillgång till din enhet. Vi kommer inte att göra några ändringar på din webbplats och dina dfiles kommer att vara säkra hos dig."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Hur laddar jag upp filer från min enhet/Dropbox?",
-            "answer": "Klicka på rullgardinspilen och välj Dropbox/Google Drive. Välj det Google-konto där du vill länka enheten. Nu kan du välja de filer som du vill ladda upp."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Vilka funktioner erbjuds av meme generatorn från safeimagekit.com medan du skapar en meme från en bild?",
-            "answer": "Meme generatorverktyget från safeimagekit.com erbjuder mångsidiga funktioner samtidigt som du skapar en meme från den uppladdade bilden. Huvuddragen är\n- Infogning av text på den uppladdade bildfilen.\n- Justera transparensen i den uppladdade texten.\n- Justera teckenstorleken på texten som ska infogas.\n- Ändra linjevärdet\n- Infogning av en bild på en bild\n- Justera skuggvärdet på den uppladdade bildfilen.\n- Ändra texten med kursiv stil.\n- Justera djärvhet i texten som ska infogas.\n- Understryka funktioner i texten.\n- Uppgradera meme med färgalternativ."
+            "question": "What are the features offered by the meme generator from safeimagekit.com while crafting a meme from an image?",
+            "answer": "The meme generator tool from safeimagekit.com offers versatile features while crafting a meme from the uploaded image. The main features include\n-\tInsertion of text on the uploaded image file.\n-\tAdjusting the transparency of the text uploaded.\n-\tAdjusting the font size of the text to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image on an image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the text by Italics.\n-\tAdjusting the boldness of the text to be inserted.\n-\tUnderlining features of the text.\n-\tUpgrading the meme with color options."
         },
         {
-            "question": "Hur fungerar textinfogningsalternativet för meme generator från safeimagekit.com?",
-            "answer": "Alternativet för textinfogning meme generator från safeimagekit.com, låter användaren lägga till text på bildfilen som ska genereras som en meme. Den tillagda texten kan justeras och ändras med hjälp av flera funktioner som färgjustering, textens tjocklek etc. Med alternativen för färgjustering kan användaren lägga till färg i texten, å andra sidan låter textens tjocklek användaren justera textens storlek."
+            "question": "How does the text insertion option of meme generator from safeimagekit.com work?",
+            "answer": "The text insertion option of meme generator from safeimagekit.com, lets the user add text on the image file which is to be generated as a meme. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text."
         },
         {
-            "question": "Hur fungerar alternativet för transparensjustering av meme generatorn från safeimagekit.com?",
-            "answer": "Alternativet för genomskinlighetsjustering av meme generatorn från safeimagekit.com låter användaren justera genomskinligheten och opaciteten för texten eller den uppladdade bilden. Det här alternativet är tillgängligt i mitten av sidan, genomskinlighetsalternativet ges på en skala från 0,1 till 1. Denna justering görs och kan sparas genom att klicka på alternativet Spara. "
+            "question": "How does the transparency adjustment option of the meme generator from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the meme generator from safeimagekit.com lets the user adjust the transparency and opacity of the text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. "
         },
         {
-            "question": "Hur justerar vi teckenstorleken på texten samtidigt generera en meme med hjälp av meme generatorn från safeimagekit.com?",
-            "answer": "Teckenstorleken på texten samtidigt som en meme genereras med hjälp av meme generatorn från safeimagekit.com kan justeras genom att ange storleksfaktorn. Det här alternativet kan nås genom att ange den giltiga storleken på utrymmet med namnet ”Ange teckensnittsstorleken”. Storleken kan justeras genom att ange ett värde i det utrymmet. Textens teckenstorlek kan ökas genom att ange de värden som är positiva (+) värden. Textens teckenstorlek kan minskas genom att ange de värden som är i negativt värde (-)."
+            "question": "How do we adjust the font size of the text while generating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The font size of the text while generating a meme using the meme generator from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "Hur fungerar slagvärdet i bildkonverteringen i meme generator från safeimagekit.com?",
-            "answer": "Slagvärdet för meme generatorn från safeimagekit.com fungerar genom att justera färgen på texten eller en bild som infogas i bilden för redigering. Det här värdet kan nås genom att ange ett värde i det angivna utrymmet som kallas ”Ange linjevärdet”. Bildens linjevärde när den konverteras till ett meme kan justeras genom att ange ett positivt värde (+) för att öka linjen. Linjefärdet kan minskas genom att ange ett negativt värde (-) för att minska linjen."
+            "question": "How does the stroke value work in the image conversion in meme generator from safeimagekit.com?",
+            "answer": "The stroke value of the meme generator from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
         },
         {
-            "question": "Kan vi infoga en bild på en annan bild samtidigt som vi skapar en meme med hjälp av meme generatorn från safeimagekit.com?",
-            "answer": "Ja, meme generatorn från safeimagekit.com ger möjlighet att infoga en bild på en annan bild medan du skapar en meme. Den här funktionen kan nås längst ner på sidan som heter ”ladda upp bild”. Denna funktion låter oss klistra in en bild på en annan bild, detta är en nominell funktion där vi kan infoga vilken typ av bild som helst på vilken typ av bild som helst. Bilden efter redigering och infogning kan sparas genom att trycka på alternativet ”spara”, vilket sparar de framsteg som görs på bilden."
+            "question": "Can we insert an image on another image while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com does provide the option to insert an image on another image while creating a meme. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "Kan vi konvertera vår text till kursiv stil som skrivs in på bilden under redigering, samtidigt som vi skapar en meme med meme generatorn från safeimagekit.com?",
-            "answer": "Ja, meme generatorn från safeimagekit.com låter användaren konvertera texten som anges på bilden till kursiv format. Denna funktion kan nås genom att trycka på knappen ”I” som står för kursiv stil, detta konverterar texten som finns på bilden till kursiv form. Efter konverteringen trycker du på knappen som heter ”spara”. Detta sparar de framsteg som görs i bilden."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "Kan vi konvertera vår text från vanligt till fet, som skrivs in på bilden under redigering, samtidigt som vi skapar en meme med hjälp av meme generatorn från safeimagekit.com?",
-            "answer": "Ja, meme generatorn från safeimagekit.com låter användaren konvertera oformaterad text till fet text som skrivs in på bilden. Den här funktionen kan nås genom att trycka på knappen ”B” som står för fetstil, omvandlar den vanliga texten som finns på bilden till fet text. Efter konverteringen trycker du på knappen som heter ”spara”. Detta sparar de framsteg som görs i bilden."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Kan vi understryka texten, som är skriven på bilden under redigering, samtidigt som vi skapar en meme med hjälp av meme generatorn från safeimagekit.com?",
-            "answer": "Ja, meme generatorn från safeimagekit.com låter användaren understryka texten som infogas i bilden. Den här funktionen kan nås genom att trycka på knappen ”U” som står för Understruken, vilket konverterar texten (normal) till understruken text på bilden. Efter konverteringen trycker du på knappen som heter ”spara”. Detta sparar de framsteg som görs i bilden."
+            "question": "Can we underline the text, which is written on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user to underline the text which is inserted into the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Hur kan vi färga texten som skrivs in på bilden under redigering, samtidigt som vi skapar en meme med hjälp av meme generatorn från safeimagekit.com?",
-            "answer": "Meme generatorn från safeimagekit.com låter användaren färga texten på bilden, det här alternativet kan nås genom att trycka på den svarta lådan bredvid varje större funktion, efter att ha slagit den svarta rutan dyker färgrutan upp och användaren kan komma åt vilken färg som helst för att måla på texten."
+            "question": "How can we color the text which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The meme generator from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
         },
         {
-            "question": "Kommer min fil att sparas efter att jag har slutfört arbetet med meme generatorverktyget? ",
-            "answer": "Nej, vi skickar inte några av dina filer till våra servrar alla operationer görs i webbläsaren själv därför alla dina filer är helt säkra. "
+            "question": "Will my file be saved after I complete working on the meme generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Måste jag göra ytterligare registrering eller betala extra för att använda meme generatorverktyget? ",
-            "answer": "Absolut inte, vårt verktyg är helt online och kräver inte att du delar någon av dina personuppgifter med oss, som e-post-id, lösenord etc. Vårt verktyg är helt gratis."
+            "question": "Do I have to do any additional signup or pay extra to use the meme generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Hur kommunicerar jag om jag står inför några problem eller om jag vill ge några förslag?",
-            "answer": "Vi tar gärna in några problem eller förslag som erbjuds av alla användare, vänligen kontakta oss via våra sociala medier handtag för mer information. SafeImageKit.com är tillgängligt på alla ledande sociala medier som Facebook, Instagram, YouTube och LinkedIn, etc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

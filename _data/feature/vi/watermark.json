@@ -1,14 +1,14 @@
 {
     "Language": "Tiếng Việt",
     "htmlLangAtt": "vi",
-    "H1": "Máy tạo hình mờ miễn phí cho PC, MAC, IOS và ANDROID",
+    "H1": "Máy tạo hình mờ",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "nguy hiểm",
-    "H2": "Tạo hình mờ cho ảnh đã được chúng tôi thực hiện dễ dàng, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
+    "H2": "Tạo hình mờ cho ảnh đã được thực hiện dễ dàng với chúng tôi, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
     "TITLE": "Hình ảnh Watermark- nhà sản xuất hình mờ miễn phí- safeimagekit",
     "META": "Bạn đang tìm kiếm một hình mờ hình ảnh chất lượng cao cho hình ảnh? Vâng, sau đó bạn đang ở đúng nơi. Công cụ tạo hình mờ trực tuyến của chúng tôi cực kỳ an toàn, thân thiện với người dùng và siêu nhanh.",
     "LABEL": "",
@@ -65,68 +65,64 @@
     },
     "FAQ": [
         {
-            "question": "",
-            "answer": ""
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Có an toàn để cho phép truy cập vào ổ đĩa của tôi?",
-            "answer": "Có, nó là hoàn toàn an toàn để cho phép và cung cấp cho chúng tôi quyền truy cập vào ổ đĩa của bạn. Chúng tôi sẽ không thực hiện bất kỳ thay đổi nào đối với trang web của bạn và dfiles của bạn sẽ được an toàn với bạn."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Làm cách nào tôi có thể tải lên tệp từ ổ đĩa/dropbox của tôi?",
-            "answer": "Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive. Chọn tài khoản Google từ nơi bạn muốn liên kết ổ đĩa của mình. Bây giờ bạn có thể chọn các tệp mà bạn muốn tải lên."
+            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
+            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
         },
         {
-            "question": "Các tính năng được cung cấp bởi tính năng watermarking từ safeimagekit.com trong khi thêm hình mờ vào hình ảnh là gì?",
-            "answer": "Tính năng watermarking từ safeimagekit.com cung cấp các tính năng linh hoạt trong khi tạo ra một hình ảnh. Các tính năng chính bao gồm\n- Chèn văn bản dưới dạng hình mờ trên tệp hình ảnh được tải lên.\n- Điều chỉnh độ trong suốt của văn bản của hình mờ được tải lên.\n- Điều chỉnh kích thước phông chữ của văn bản của hình mờ sẽ được chèn.\n- Sửa đổi giá trị đột quỵ\n- Chèn hình ảnh dưới dạng hình mờ trên hình ảnh gốc\n- Điều chỉnh giá trị bóng trên tệp hình ảnh được tải lên.\n- Sửa đổi văn bản watermarked bằng chữ nghiêng.\n- Điều chỉnh độ táo bạo của văn bản được đánh dấu mờ sẽ được chèn.\n- Tính năng gạch chân của văn bản có hình mờ.\n- Nâng cấp hình mờ với các tùy chọn màu sắc.\n\n"
+            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
+            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
         },
         {
-            "question": "Tùy chọn chèn văn bản của tính năng ảnh watermark từ safeimagekit.com hoạt động như thế nào?",
-            "answer": "Tùy chọn chèn văn bản của tính năng ảnh watermark từ safeimagekit.com, cho phép người dùng thêm văn bản trên hình ảnh dưới dạng hình mờ. Văn bản được thêm vào có thể được điều chỉnh và sửa đổi bằng cách sử dụng một số tính năng như điều chỉnh màu sắc, độ dày của văn bản, vv Các tùy chọn điều chỉnh màu sắc cho phép người dùng thêm màu vào văn bản, mặt khác, độ dày của văn bản cho phép người dùng điều chỉnh kích thước của văn bản. Để truy cập tính năng này chỉ cần nhập văn bản vào không gian “nhập văn bản” và nhấn “thêm văn bản” để tạo hình mờ."
+            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
         },
         {
-            "question": "Tùy chọn điều chỉnh độ trong suốt của tính năng ảnh watermark từ safeimagekit.com hoạt động như thế nào?",
-            "answer": "Tùy chọn điều chỉnh độ trong suốt của tính năng ảnh watermark từ safeimagekit.com cho phép người dùng điều chỉnh độ trong suốt và độ mờ của văn bản có hình mờ hoặc hình ảnh được tải lên. Tùy chọn này có sẵn ở phần giữa của trang, tùy chọn độ trong suốt được đưa ra trên thang đo từ 0,1 đến 1. Điều chỉnh này được thực hiện và có thể được lưu bằng cách nhấn tùy chọn lưu. Tùy chọn này có thể được truy cập bằng cách nhấn tùy chọn “chọn độ trong suốt” và điều chỉnh tỷ lệ và nhấn “thêm văn bản” để tạo hình mờ."
+            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "Làm cách nào để chúng ta điều chỉnh kích thước phông chữ của văn bản trong khi sửa đổi hình ảnh bằng tính năng hình mờ từ safeimagekit.com?",
-            "answer": "Kích thước phông chữ của văn bản trong khi sửa đổi hình ảnh bằng tính năng hình mờ từ safeimagekit.com có thể được điều chỉnh bằng cách nhập yếu tố kích thước. Tùy chọn này có thể được truy cập bằng cách nhập kích thước hợp lệ trên không gian có tên “Nhập kích thước phông chữ”. Kích thước có thể được điều chỉnh bằng cách nhập một giá trị trong không gian đó. Kích thước phông chữ của văn bản có thể được tăng lên bằng cách nhập các giá trị có giá trị dương (+). Kích thước phông chữ của văn bản có thể được giảm bằng cách nhập các giá trị có giá trị âm (-)."
+            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
+            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
         },
         {
-            "question": "Giá trị nét viền hoạt động như thế nào trong chuyển đổi hình ảnh trong tính năng ảnh mờ từ safeimagekit.com?",
-            "answer": "Giá trị nét viền của tính năng ảnh watermark từ safeimagekit.com hoạt động bằng cách điều chỉnh màu sắc của văn bản hoặc hình ảnh được chèn vào hình ảnh để chỉnh sửa. Giá trị này có thể được truy cập bằng cách nhập một giá trị trong không gian được cung cấp gọi là “Enter the stroke value”. Giá trị stroke của hình ảnh trong khi chuyển đổi nó thành meme có thể được điều chỉnh bằng cách nhập một giá trị dương (+) để tăng nét stroke. Giá trị đột quỵ có thể được giảm bằng cách nhập một giá trị âm (-) để giảm đột quỵ.\n\n"
+            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "Chúng ta có thể chèn một hình ảnh trên một hình ảnh khác dưới dạng hình mờ trong khi sửa đổi hình ảnh bằng tính năng hình mờ từ safeimagekit.com không?",
-            "answer": "Có, tính năng ảnh watermark từ safeimagekit.com cung cấp tùy chọn để chèn một hình ảnh trên một hình ảnh khác trong khi sửa đổi một hình ảnh. Tính năng này có thể được truy cập ở cuối trang có tên là “tải lên hình ảnh”. Tính năng này cho phép chúng tôi dán một hình ảnh trên một hình ảnh khác, đây là một tính năng danh nghĩa nơi chúng ta có thể chèn bất kỳ loại hình ảnh nào trên bất kỳ loại hình ảnh nào. Hình ảnh sau khi chỉnh sửa và chèn có thể được lưu bằng cách nhấn tùy chọn được gọi là “lưu”, điều này lưu tiến trình được thực hiện cho hình ảnh."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "Chúng ta có thể chuyển đổi văn bản của mình sang chữ nghiêng được nhập vào hình ảnh đang chỉnh sửa, trong khi sửa đổi hình ảnh bằng tính năng ảnh watermark từ safeimagekit.com không?",
-            "answer": "Có, tính năng hình ảnh watermark từ safeimagekit.com cho phép người dùng chuyển đổi văn bản được nhập vào hình ảnh sang định dạng in nghiêng. Tính năng này có thể được truy cập bằng cách nhấn nút “I” viết tắt của chữ nghiêng, điều này sẽ chuyển đổi văn bản có trên hình ảnh sang dạng in nghiêng. Sau khi chuyển đổi nhấn nút được gọi là “lưu”. Điều này tiết kiệm tiến trình được thực hiện cho hình ảnh."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Chúng ta có thể chuyển đổi văn bản của mình từ thuần sang in đậm, được nhập vào hình ảnh đang chỉnh sửa, trong khi sửa đổi hình ảnh bằng tính năng hình mờ từ safeimagekit.com không?",
-            "answer": "Có, tính năng hình ảnh watermark từ safeimagekit.com cho phép người dùng chuyển đổi văn bản thuần túy thành văn bản đậm được nhập vào hình ảnh. Tính năng này có thể được truy cập bằng cách nhấn nút “B” viết tắt của in đậm, điều này chuyển đổi văn bản thuần túy có trên hình ảnh thành văn bản đậm. Sau khi chuyển đổi nhấn nút được gọi là “lưu”. Điều này tiết kiệm tiến trình được thực hiện cho hình ảnh."
+            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Chúng ta có thể gạch chân văn bản, được viết trên hình ảnh đang chỉnh sửa, trong khi sửa đổi hình ảnh bằng tính năng ảnh watermark từ safeimagekit.com không?",
-            "answer": "Có, tính năng hình ảnh watermark từ safeimagekit.com cho phép người dùng gạch chân văn bản được chèn vào hình ảnh. Tính năng này có thể được truy cập bằng cách nhấn nút “U” viết tắt của Underline, điều này chuyển đổi văn bản (bình thường) thành văn bản gạch chân trên hình ảnh. Sau khi chuyển đổi nhấn nút được gọi là “lưu”. Điều này tiết kiệm tiến trình được thực hiện cho hình ảnh."
+            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
         },
         {
-            "question": "Làm thế nào chúng ta có thể tô màu văn bản được nhập vào hình ảnh đang chỉnh sửa, trong khi sửa đổi một hình ảnh bằng tính năng hình mờ ảnh từ safeimagekit.com?",
-            "answer": "Tính năng hình ảnh watermark từ safeimagekit.com cho phép người dùng tô màu văn bản trên hình ảnh, tùy chọn này có thể được truy cập bằng cách nhấn vào hộp đen bên cạnh mọi tính năng chính, sau khi nhấn hộp màu đen, hộp màu bật lên và người dùng có thể truy cập bất kỳ màu nào để vẽ trên văn bản."
+            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Tệp của tôi sẽ được lưu sau khi tôi hoàn tất làm việc trên công cụ tạo hình mờ không? ",
-            "answer": "Không, chúng tôi không gửi bất kỳ tệp nào của bạn đến máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt do đó tất cả các tệp của bạn hoàn toàn an toàn. "
+            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Tôi có phải đăng ký bổ sung hoặc trả thêm tiền để sử dụng công cụ tạo hình mờ không? ",
-            "answer": "Hoàn toàn không, công cụ của chúng tôi là hoàn toàn trực tuyến và không yêu cầu bạn chia sẻ bất kỳ thông tin cá nhân của bạn với chúng tôi, như id email, mật khẩu vv Công cụ của chúng tôi là hoàn toàn miễn phí."
-        },
-        {
-            "question": "Làm cách nào để giao tiếp nếu tôi gặp bất kỳ vấn đề nào hoặc nếu tôi muốn đưa ra bất kỳ đề xuất nào?",
-            "answer": "Chúng tôi sẵn sàng đưa vào bất kỳ vấn đề hoặc đề xuất được cung cấp bởi tất cả người dùng, vui lòng liên hệ với chúng tôi thông qua xử lý phương tiện truyền thông xã hội của chúng tôi để biết thêm thông tin Safeimagekit.com có sẵn trên tất cả các trang web truyền thông xã hội hàng đầu như Facebook, Instagram, YouTube và LinkedIn, v.v."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

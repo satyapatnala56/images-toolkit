@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Чи безпечно дозволити доступ до мого диска?",
-            "answer": "Так, це абсолютно безпечно, щоб дозволити і надати нам доступ до вашого диска. Ми не будемо вносити будь-які зміни на ваш сайт, і ваші dfiles будуть в безпеці з вами."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Як я можу завантажити файли з мого диска/dropbox?",
-            "answer": "Натисніть на стрілку, що випадає і виберіть Dropbox/Google Drive. Виберіть обліковий запис Google, звідки ви хочете зв'язати свій накопичувач. Тепер ви можете вибрати файли, які ви хочете завантажити."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Які функції пропонуються функцією порівняння зображень від safeimagekit.com при порівнянні двох зображень?",
-            "answer": "Функція порівняння зображень від safeimagekit.com пропонує універсальні функції, порівнюючи дві функції. До основних особливостей можна віднести \n- Порівняння двох зображень на основі слайдера\n- Порівняння двох зображень на основі пікселів.\n- Порівняння двох зображень на основі інформації.\n- Порівняння двох зображень на основі ефекту згасання.\nЦі згадані методи порівняння мають основний характер, в якому вони порівнюються, і результат їх порівняння безпосередньо відображається на екрані."
+            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
+            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
         },
         {
-            "question": "Як ми можемо порівняти два зображення на основі порівняння слайдера функції порівняння зображень від safeimagekit.com?",
-            "answer": "Перший крок включає завантаження зображень, які потребують порівняння. Наступним кроком є натискання на пін іменем «повзунок», це активує порівняння на основі повзунка. Результат їх порівняння показаний безпосередньо на екрані."
+            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
         },
         {
-            "question": "Як ми можемо порівняти два зображення на основі методу порівняння пікселів функції порівняння зображень від safeimagekit.com?",
-            "answer": "Перший крок включає завантаження зображень, які потребують порівняння. Наступним кроком є натискання на пін іменем «піксель», це активує порівняння на основі пікселів. Пікселі першого зображення показані на другому зображенні, результат їх порівняння показаний безпосередньо на екрані, при цьому ми порівнюємо пікселі першого зображення над другим"
+            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
         },
         {
-            "question": "Як ми можемо порівняти два зображення на основі методу ефекту згасання функції порівняння зображень від safeimagekit.com?",
-            "answer": "Перший крок включає завантаження зображень, які потребують порівняння. Наступним кроком є натискання на шпильку з назвою «fade», це активує порівняння на основі ефекту згасання. Вицвіла структура першого зображення показана на другому зображенні, результат їх порівняння показаний безпосередньо на екрані, при цьому ми порівнюємо характер першого зображення над другим зображенням."
+            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
         },
         {
-            "question": "Як ми можемо порівняти два зображення на основі інформаційної статистики зображень, завантажених за допомогою функції порівняння зображень з safeimagekit.com?",
-            "answer": "Перший крок включає завантаження зображень, які потребують порівняння. Наступним кроком є натискання на пін з назвою «info», це активує порівняння на основі інформації. Інформація першого зображення відображається поруч з другим зображенням, результат їх порівняння відображається безпосередньо на екрані, в якому ми порівнюємо характер першого зображення над другим зображенням, порівнюючи статистику зображення."
+            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
         },
         {
-            "question": "Як працює порівняння на основі інфофункції порівняння зображень від safeimagekit.com?",
-            "answer": "Порівняння порівняння зображення функції порівняння з safeimagekit.com працює шляхом порівняння властивостей завантажених зображень. Ці властивості включають назву зображення, розмір зображення, тип зображення, висоту зображення, ширину зображення. Користувач може порівняти зображення, слідуючи цим властивостям."
+            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
+            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
         },
         {
-            "question": "Чи можу я використовувати функцію порівняння зображень з safeimagekit.com на моєму Windows 8 остаточний?",
-            "answer": "Функція порівняння зображень - це універсальна функція, яку пропонує safeimagekit.com, яка підтримується всіма операційними системами, такими як Windows 8, Linux і навіть Ubuntu. Все, що потрібно, - це пристрій для відкриття файлу розширення за допомогою веб-сайту www.safeimagekit.com та звичайного підключення до Інтернету, щоб стояти. Цікавий факт полягає в тому, що він може працювати навіть на повільному підключенні до Інтернету."
+            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
+            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Чи можна використовувати функцію порівняння зображень з safeimagekit.com на своєму пристрої Android? ",
-            "answer": "Так, порівняти функцію зображення з safeimagekit.com - це крос-платформна функція, де користувач може використовувати цей інструмент перетворювача з операційних систем, таких як Android, iOS, Windows та Mac OS. Він не залежить від використовуваних операційних систем, але залежить лише від підключення до Інтернету."
+            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "Чи потрібно нам використовувати будь-яке додаткове програмне забезпечення для завантаження модифікованих зображень після перетворення за допомогою функції порівняння зображень з safeimagekit.com?",
-            "answer": "Ні, користувачі після порівняння своїх зображень, ввівши відповідні зображення, зрештою, ця функція не надає можливості для завантаження. Результат їх порівняння показаний безпосередньо на екрані, щоб зображення порівнювалися безпосередньо. Це інструмент перетворення на основі браузера, який не підтримує або для завантаження модифікованого зображення не потрібне додаткове програмне забезпечення."
+            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
+            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
         },
         {
-            "question": "Що станеться з нашим прогресом, якщо ми оновимо наш браузер, поки ми використовуємо інструмент порівняння зображень з safeimagekit.com?",
-            "answer": "Інструмент порівняння зображень від safeimagekit.com не підключений до будь-якого сервера там, тому дані, над якими працює користувач, ніде не зберігатимуться, і, як наслідок, він буде стертий миттєво, коли користувач оновить браузер, над яким він працює. Файли зображень, які порівнюються, також будуть видалені після виходу користувача або закриття вкладки, на якій відкрита сторінка розширення веб-сайту."
+            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
+            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Чи можемо ми порівняти файли зображень, які заблоковані, використовуючи функцію порівняння зображень від safeimagekit.com?",
-            "answer": "Ні, ми не можемо завантажити файл зображення, який заблокований, оскільки доступ до цього конкретного файлу зображення заблокований. Отже, щоб використовувати функцію порівняння зображень з safeimagekit.com нам потрібно завантажити файли зображень, які не заблоковані. Але користувач може перевірити розширення пошуку паролів від safeimagekit.com, який призначений виключно для розблокування зображення, а також файлів зображень у випадку, якщо користувач втрачає свій пароль для заблокованого файлу зображення."
+            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "Чи будуть мої завантажені файли зображень пошкоджені після порівняння файлів зображень за допомогою функції порівняти зображення з safeimagekit.com?",
-            "answer": "Ні, safeimagekit.com побудований з усіма останніми програмами та функціями безпеки, які не дозволяють завантажені файли зображень пошкоджені. Отже, завантажені файли зображень повністю безпечні і захищені."
+            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Чи збережеться мій файл після завершення роботи над інструментом порівняння зображень? ",
-            "answer": "Ні, ми не надсилаємо жодного з ваших файлів на наші сервери, всі операції виконуються на самому браузері, тому всі ваші файли повністю безпечні. "
+            "question": "Will my file be saved after I complete working on the image comparison tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Чи потрібно мені робити додаткову реєстрацію або доплачувати, щоб використовувати інструмент порівняння зображень? ",
-            "answer": "Абсолютно ні, наш інструмент повністю онлайн і не вимагає від вас ділитися будь-якою вашою особистою інформацією з нами, як ідентифікатор електронної пошти, паролі тощо Наш інструмент абсолютно безкоштовний."
+            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Як мені спілкуватися, якщо я стикаюся з будь-якими проблемами або якщо я хочу дати якісь пропозиції?",
-            "answer": "Ми з радістю приймаємо будь-які питання або пропозиції, пропоновані всіма користувачами, будь ласка, зв'яжіться з нами через наші ручки соціальних медіа для отримання додаткової інформації. Safeimagekit.com доступний на всіх провідних веб-сайтах соціальних медіа, таких як Facebook, Instagram, YouTube та LinkedIn тощо."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

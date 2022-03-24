@@ -1,7 +1,7 @@
 {
     "Language": "한국어",
     "htmlLangAtt": "ko",
-    "h1": "구글 이미지 ",
+    "h1": "Google 배너 광고의 이미지 크기 조정 ",
     "img": "/img/imageResizer-assets/iconsForLanding/google.svg",
     "imgwidth": "35px",
     "imgheight": "35px",
@@ -9,8 +9,8 @@
     "nofileupload": true,
     "variant": "경고를 표시합니다",
     "h2": "여기에 이미지를 업로드하고 지금 크기를 조정하세요",
-    "TITLE": "구글 비비 이미지 | 온라인 이미지 ",
-    "META": "구글 BK 에 대한 웹 사이트 이미지 이미지 이미지구글 웹,,,,,,,,,,,,,,,,",
+    "TITLE": "Google 배너 광고의 이미지 크기 조정 | 온라인 이미지 크기 조정 도구 ",
+    "META": "Google 배너 광고용 무료 온라인 이미지 리사이저를 찾고 계신가요?Google 웹 사이트를 방문하여 몇 초 만에 Google 배너 광고의 이미지 크기를 조정하십시오.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
@@ -18,82 +18,82 @@
         "nav-link-name": "Tools",
         "dropdown": [
             {
-                "categoryName": "내리리리",
+                "categoryName": "소셜 미디어 리사이저",
                 "links": [
                     {
                         "name": "페이스 북 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
-                        "url": "/ko/ko/image-resize-facebook"
+                        "url": "/ko/image-resize-facebook"
                     },
                     {
-                        "name": " ",
+                        "name": " 인스타그램 이미지 크기 조정",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
-                        "url": "/ko/ko/image-resize-instagram"
+                        "url": "/ko/image-resize-instagram"
                     },
                     {
-                        "name": " [] []",
+                        "name": " 링크드인 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
-                        "url": "/ko/ko/image-resize-linkedin"
+                        "url": "/ko/image-resize-linkedin"
                     },
                     {
-                        "name": " 리베지 리제",
+                        "name": " 이메일 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
-                        "url": "/ko/ko/image-resize-email"
+                        "url": "/ko/image-resize-email"
                     },
                     {
-                        "name": " 리리저",
+                        "name": " 틱톡 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
-                        "url": "/ko/ko/image-resize-tiktok"
+                        "url": "/ko/image-resize-tiktok"
                     },
                     {
-                        "name": " ",
+                        "name": " 트위터 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
-                        "url": "/ko/ko/image-resize-twitter"
+                        "url": "/ko/image-resize-twitter"
                     },
                     {
-                        "name": " ",
+                        "name": " 핀터레스트 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
-                        "url": "/ko/ko/image-resize-pinterest"
+                        "url": "/ko/image-resize-pinterest"
                     },
                     {
                         "name": "스냅챗 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
-                        "url": "/ko/ko/image-resize-snapchat"
+                        "url": "/ko/image-resize-snapchat"
                     },
                     {
-                        "name": " 리저",
+                        "name": " 구글 배너 광고 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
-                        "url": "/ko/ko/image-resize-google-banner-ads"
+                        "url": "/ko/image-resize-google-banner-ads"
                     },
                     {
-                        "name": " Du (코드)",
+                        "name": " 디스코드 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
-                        "url": "/ko/ko/image-resize-discord"
+                        "url": "/ko/image-resize-discord"
                     },
                     {
-                        "name": " 한",
+                        "name": " 사운드클라우드 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
-                        "url": "/ko/ko/image-resize-soundcloud"
+                        "url": "/ko/image-resize-soundcloud"
                     },
                     {
-                        "name": " ",
+                        "name": " 왓츠앱 이미지 크기 조정",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
-                        "url": "/ko/ko/image-resize-whatsapp"
+                        "url": "/ko/image-resize-whatsapp"
                     },
                     {
-                        "name": " 모모지 ()",
+                        "name": " 네모스페이스 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
-                        "url": "/ko/ko/image-resize-squarespace"
+                        "url": "/ko/image-resize-squarespace"
                     },
                     {
-                        "name": " ",
+                        "name": " 트위치 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
-                        "url": "/ko/ko/image-resize-twitch"
+                        "url": "/ko/image-resize-twitch"
                     },
                     {
-                        "name": " 리리리",
+                        "name": " 인쇄 이미지 리사이저",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
-                        "url": "/ko/ko/image-resize-printing"
+                        "url": "/ko/image-resize-printing"
                     }
                 ]
             }
@@ -104,101 +104,101 @@
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",
             "header": "간편한 사용",
-            "content": "Na. 의 경우:."
+            "content": "소셜 미디어 이미지 리사이저 프로세스: 우아하고 간단합니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/target.svg",
             "header": "정확한 결과",
-            "content": "고 밝혔다."
+            "content": "결과는 정확하므로 사용자의 요구를 완전히 충족시킵니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cross.svg",
             "header": "크로스 플랫폼",
-            "content": "Wo/맥/국/청/청각/."
+            "content": "윈도우/맥/리눅스/안드로이드/아이폰과 같은 모든 운영 체제에서 지금부터이 애플리케이션을 사용할 수 있습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/shield.svg",
-            "header": "는",
-            "content": ",,,,,,,,"
+            "header": "안전하고 신뢰할 수 있는",
+            "content": "서버가 없으므로 데이터와 파일이 안전합니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/fast.svg",
             "header": "빠르고 효율적",
-            "content": ",,,,,,,,,,,,,,."
+            "content": "사이트는 파일을 매우 빠르고 효율적으로 처리합니다. 작업을 신속하게 완료 할 수 있습니다."
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud_new.svg",
-            "header": ",,,,,.",
-            "content": "일,,,,,,,,,,,."
+            "header": "업로드된 파일이 없습니다.",
+            "content": "응용 프로그램은 서버를 사용하지 않고도 브라우저에서 완벽하게 작동합니다. 따라서 파일은 안전합니다."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "이미지 크기 조정 방법",
         "steps": [
-            ".",
+            "크기를 조정할 이미지를 업로드합니다.",
             "적절한 크기 또는 여러 크기 선택",
-            ".",
+            "다운로드를 모두 눌러 사용 가능한 모든 크기를 다운로드하십시오.",
             "선택한 이미지 크기를 다운로드하려면 선택한 다운로드 버튼을 누르십시오."
         ]
     },
     "FAQ": [
         {
-            "question": "이미지 크기를 조정하는 동안 safeimagekit.com의 Google 배너 광고 이미지 크기 조정 도구에서 제공하는 기능은 무엇입니까?",
-            "answer": "safeimagekit.com의 Google 배너 광고 이미지 크기 조정기는 편집을 위해 업로드한 이미지의 크기를 조정하는 동시에 다양한 기능을 제공합니다.주요 기능은 다음과 같습니다.\n- 다양한 카테고리에서 여러 버전의 이미지를 만듭니다.\n- 각 이미지 품질을 개별적으로 편집합니다.\n- 너비에 따라 이미지의 크기를 조정합니다.\n- 높이를 기준으로 이미지 크기를 조정합니다.\n- 이미지의 크기를 조정하고 다운로드합니다.\n- 이미지를 편집하고 선택한 이미지 또는 모든 이미지 범주를 다운로드하십시오.\n여기서 중요한 정보는 이미지 크기가 매우 정확하고 Promo.com의 사진 크기 조정기를 사용하여 Google 네트워크 배너 광고를 만들 수 있다는 것입니다."
+            "question": "What are the features offered by the Google banner ads image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Google banner ads image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories,\nThe important info here is that our image dimensions are super precise, and the google network banner ads can be created using Promo.com’s pic resizer."
         },
         {
-            "answer": "Google 배너 광고 이미지 크기 조정기는 사용자가 Google 배너 광고 앱/웹 사이트에 자신의 이미지를 업로드 할 수있는 여러 섹션에서 이미지 편집 옵션을 제공합니다.\n- Google 배너 광고는 스카이 스크래퍼를 표시합니다.\n- Google 배너 광고는 세로 직사각형으로 표시됩니다.\n- Google 배너 광고는 사각형으로 표시됩니다.\n- Google 배너 광고는 하프 배너를 표시합니다.\n- Google 배너 광고는 중간 직사각형으로 표시됩니다.\n- Google 배너 광고는 작은 사각형으로 표시됩니다.\n- Google 배너 광고는 넷 보드를 표시합니다.\n- Google 배너 광고는 넓은 마천루를 표시합니다.\n- Google 배너 광고는 절반 페이지 광고를 표시합니다.\n- Google 배너 광고는 리더 보드를 표시합니다.\n- Google 배너 광고는 모바일 배너를 표시합니다.\n- Google 배너 광고에 배너가 표시됩니다.\n- Google 배너 광고는 트리플 와이드 스크린을 표시합니다.\n- Google 배너 광고는 세로로 표시됩니다.\n- Google 배너 광고는 대형 리더 보드 등을 표시합니다.\n",
-            "question": "SafeImagekit.com에서 제공하는 구글 배너 광고 이미지 리사이저에서 사용할 수 있는 다양한 이미지 카테고리는 무엇입니까?"
+            "answer": "The Google banner ads image resizer offers image editing options in multiple sections where a user can upload his/her image in the Google banner ads app/website, these categories include-\n-\tGoogle banner ads display sky scrapper.\n-\tGoogle banner ads display vertical rectangle.\n-\tGoogle banner ads display square.\n-\tGoogle banner ads display half-banner.\n-\tGoogle banner ads display medium rectangle.\n-\tGoogle banner ads display small square.\n-\tGoogle banner ads display net board.\n-\tGoogle banner ads display wide skyscraper.\n-\tGoogle banner ads display half-page ad.\n-\tGoogle banner ads display leader board.\n-\tGoogle banner ads display mobile banner.\n-\tGoogle banner ads display banner.\n-\tGoogle banner ads display triple widescreen.\n-\tGoogle banner ads display portrait.\n-\tGoogle banner ads display large leader board, etc and many more.\n",
+            "question": "What are the different image categories available in the Google banner ads image resizer offered by Safeimagekit.com?"
         },
         {
-            "question": "safeimagekit.com의 구글 배너 광고 이미지 리사이저 기능을 사용하여 이미지 너비를 조정하려면 어떻게 해야 하나요?",
-            "answer": "첫 번째 단계는 편집이 필요한 이미지를 업로드하는 것입니다.다음 단계는 이미지의 중요한 매개 변수를 조정하는 것입니다. 여기에는 너비 조정이 포함됩니다.이제이 옵션에 액세스하려면 모든 버전에서 범주를 선택하고 편집 옵션을 눌러 편집을 시작해야합니다. 그러면 드래그하여 이미지의 너비를 조정할 수있는 팝업이 나타납니다.보너스 옵션은 확대 및 축소하여 스크롤하고 축소하는 것만으로 이미지의 필요한 내용을 제어 할 수 있다는 것입니다."
+            "question": "How can I adjust the width of the image using the Google banner ads image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "safeimagekit.com의 구글 배너 광고 이미지 리사이저 기능을 사용하여 이미지 높이를 조정하려면 어떻게 해야 하나요?",
-            "answer": "첫 번째 단계는 편집이 필요한 이미지를 업로드하는 것입니다.다음 단계는 이미지의 중요한 매개 변수를 조정하는 것입니다. 여기에는 높이 조정이 포함됩니다.이제이 옵션에 액세스하려면 모든 버전에서 범주를 선택하고 편집 옵션을 눌러 편집을 시작해야합니다. 그러면 드래그하여 이미지 높이를 조정할 수있는 팝업이 나타납니다.보너스 옵션은 확대 및 축소하여 스크롤하고 축소하는 것만으로 이미지의 필요한 내용을 제어 할 수 있다는 것입니다."
+            "question": "How can I adjust the height of the image using the Google banner ads image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "safeimagekit.com의 구글 배너 광고 이미지 리사이저 기능을 사용하여 이미지 크기를 조정하려면 어떻게 해야 하나요?",
-            "answer": "사용자가 이미지 파일의 크기를 조정할 때 참조할 수 있는 6가지 단계가 있습니다.\n여기에는 다음이 포함됩니다.\n- 변경이 필요한 이미지 파일을 업로드합니다.\n- 제공된 옵션에서 이미지의 필수 범주를 선택합니다.\n- 편집을 누르면 높이와 너비로 이미지 조정이 시작됩니다.\n- 여러 이미지 카테고리가 마음에 들면 각 이미지 버전의 오른쪽 상단 모서리에있는 상자를 클릭하여 선택하십시오.\n- 특정/여러 버전을 다운로드하려면 “선택한 다운로드”를 누르십시오.\n- 모든 이미지 버전을 다운로드하려면 “모두 다운로드”를 누르십시오."
+            "question": "How can I resize an image using the Google banner ads image resizer feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there."
         },
         {
-            "question": " safeimagekit.com의 Google 배너 광고 이미지 크기 조정 기능의 크기 조정 옵션이 업로드된 이미지 파일의 크기를 조정한 후 모든 유형의 미리보기를 제공합니까?",
-            "answer": "아니요, 현재 safeimagekit.com의 사진 스플리터의 크기 조정 기능은 업로드 된 이미지의 섹션에 대한 미리보기를 제공하지 않습니다. 업로드 된 이미지의 섹션이 배 밖으로 이동하여 브라우저가 이미지의 각 섹션의 미리보기를 처리하기가 매우 어려워지기 때문입니다.하지만 편집이 완료된 후 이미지를 볼 수 있으며 다운로드할 수 있습니다.하지만 향후 웹 사이트를 업데이트하면 모든 흥미로운 기능이 추가 될 것입니다."
+            "question": " Does the resize option of the Google banner ads image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
         },
         {
-            "question": "윈도우 8에서 safeimagekit.com의 구글 배너 광고 이미지 리사이저 기능을 사용할 수 있나요?",
-            "answer": "구글 배너 광고 이미지 리사이 저 기능은 safeimagekit.com에서 제공하는 다양한 기능으로, 윈도우 8, 리눅스, 심지어 우분투와 같은 모든 운영 체제에서 지원됩니다.www.safeimagekit.com 웹 사이트를 사용하여 확장 파일을 여는 장치와 정상적인 인터넷 연결 만 있으면됩니다.재미있는 사실은 느린 인터넷 연결에서도 실행될 수 있다는 것입니다."
+            "question": "Can I use the Google banner ads image resizer feature from safeimagekit.com on my Windows 8?",
+            "answer": "The Google banner ads image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "안드로이드 기기에서 safeimagekit.com의 구글 배너 광고 이미지 리사이저 기능을 사용할 수 있나요? ",
-            "answer": "예, safeimagekit.com의 Google 배너 광고 이미지 크기 조정 기능은 사용자가 안드로이드, iOS, 윈도우 및 Mac OS와 같은 운영 체제에서 이 변환기 도구를 사용할 수 있는 크로스 플랫폼 기반 기능입니다.사용되는 운영 체제와 독립적이지만 인터넷 연결에만 의존합니다."
+            "question": "Can I use the Google banner ads image resizer feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the Google banner ads image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "safeimagekit.com의 Google 배너 광고 이미지 크기 변경 기능을 사용하여 변환 후 수정된 이미지를 다운로드하려면 추가 소프트웨어를 사용해야 합니까?",
-            "answer": "아니요, 각 이미지 매개 변수를 수정하여 이미지 크기를 조정 한 후 사용자는 아래에 제공된 옵션을 다운로드하고 수정 된 이미지를 다운로드 할 수 있습니다.수정 된 이미지를 다운로드하는 데 지원하지 않거나 추가 소프트웨어가 필요하지 않은 브라우저 기반 변환기 도구입니다.\n\n"
+            "question": "Do we have to use any additional software to download the modified images after conversion using the Google banner ads image resizer feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image.\n\n"
         },
         {
-            "question": "safeimagekit.com의 Google 배너 광고 이미지 크기 조정 도구를 사용하는 동안 브라우저를 새로 고치면 어떻게 진행됩니까?",
-            "answer": "safeimagekit.com의 Google 배너 광고 이미지 크기 조정 도구는 서버에 연결되어 있지 않으므로 사용자가 작업중인 데이터는 어디에도 저장되지 않으므로 사용자가 브라우저를 새로 고치면 즉시 지워집니다. 그가 작업중인 브라우저.변환되는 이미지 파일은 사용자가 웹 사이트의 확장 페이지가 열려 있는 탭을 종료하거나 닫은 후에도 제거됩니다."
+            "question": "What will happen to our progress if we refresh our browser while we are using the Google banner ads image resizer tool from safeimagekit.com?",
+            "answer": "The Google banner ads image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "safeimagekit.com의 Google 배너 광고 이미지 크기 조정 기능을 사용하여 잠긴 이미지 파일의 크기를 조정할 수 있습니까?",
-            "answer": "아니요. 해당 이미지 파일에 대한 액세스가 차단되어 잠긴 이미지 파일은 업로드할 수 없습니다.따라서 safeimagekit.com의 Google 배너 광고 이미지 크기 조정 기능을 사용하려면 잠겨 있지 않은 이미지 파일을 업로드해야합니다.그러나 사용자는 잠긴 이미지 파일에 대한 암호를 잊어 버린 경우 이미지 파일뿐만 아니라 이미지 파일의 잠금을 해제하기 위해 독점적으로 만들어진 safeimagekit.com에서 암호 찾기 확장명을 확인할 수 있습니다."
+            "question": "Can we resize the image files which are locked, using the Google banner ads image resizer feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the Google banner ads image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "safeimagekit.com의 Google 배너 광고 이미지 크기 조정 파일 기능을 사용하여 이미지 파일의 크기를 조정한 후 업로드한 이미지 파일이 손상됩니까?",
-            "answer": "아니요, safeimagekit.com은 업로드된 이미지 파일이 손상되지 않도록 하는 모든 최신 프로그램과 보안 기능으로 구축되었습니다.따라서 업로드된 이미지 파일은 완전히 안전하고 안전합니다."
+            "question": "Will my uploaded image files corrupt after resizing the image files using The Google banner ads image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "문제가 발생하거나 제안을 하고 싶은 경우 어떻게 소통해야 합니까?",
-            "answer": "모든 사용자가 제공하는 문제 나 제안을 기꺼이 받아들입니다. 자세한 내용은 소셜 미디어 핸들을 통해 문의하십시오.SafeImagekit.com은 페이스북, 인스타그램, 유튜브, 링크드인 등과 같은 모든 주요 소셜 미디어 웹사이트에서 사용할 수 있습니다."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

@@ -1,14 +1,14 @@
 {
     "Language": "Bahasa Indonesia",
     "htmlLangAtt": "id",
-    "H1": "Generator watermark gratis untuk PC, MAC, iOS dan ANDROID",
+    "H1": "Watermark Generator",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "bahaya",
-    "H2": "Membuat watermark untuk foto telah dibuat mudah oleh kami, mulai dengan meng-upload file Anda di bawah",
+    "H2": "Membuat watermark untuk foto telah dibuat mudah dengan kami, mulai dengan meng-upload file Anda di bawah ini",
     "TITLE": "Watermark foto- watermark gratis pembuat- safeimagekit",
     "META": "Apakah Anda mencari tanda air gambar berkualitas tinggi untuk gambar? Nah, maka Anda berada di tempat yang tepat. Alat generator watermark online kami sangat aman, ramah pengguna, dan super cepat.",
     "LABEL": "",
@@ -65,68 +65,64 @@
     },
     "FAQ": [
         {
-            "question": "",
-            "answer": ""
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Apakah aman untuk mengizinkan akses ke drive saya?",
-            "answer": "Ya, itu benar-benar aman untuk memungkinkan dan memberi kami akses ke drive Anda. Kami tidak akan membuat perubahan pada situs Anda dan dfiles Anda akan aman dengan Anda."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Bagaimana cara mengunggah file dari drive/dropbox saya?",
-            "answer": "Klik pada panah drop down dan pilih Dropbox/Google Drive. Pilih akun Google dari tempat Anda ingin menautkan drive Anda. Sekarang Anda dapat memilih file yang ingin Anda unggah."
+            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
+            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
         },
         {
-            "question": "Apa saja fitur yang ditawarkan oleh fitur watermarking dari safeimagekit.com sambil menambahkan tanda air ke gambar?",
-            "answer": "Fitur watermarking dari safeimagekit.com menawarkan fitur serbaguna saat membuat gambar. Fitur utama meliputi\n- Penyisipan teks sebagai tanda air pada file gambar yang diunggah.\n- Menyesuaikan transparansi teks tanda air yang diunggah.\n- Menyesuaikan ukuran font teks tanda air yang akan dimasukkan.\n- Memodifikasi nilai stroke\n- Penyisipan gambar sebagai tanda air pada gambar asli\n- Menyesuaikan nilai bayangan pada file gambar yang diunggah.\n- Memodifikasi teks watermark oleh Miring.\n- Menyesuaikan keberanian teks watermark untuk dimasukkan.\n- Menggarisbawahi fitur teks watermark.\n- Upgrade watermark dengan pilihan warna.\n\n"
+            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
+            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
         },
         {
-            "question": "Bagaimana opsi penyisipan teks fitur watermark foto dari safeimagekit.com bekerja?",
-            "answer": "Opsi penyisipan teks dari fitur foto tanda air dari safeimagekit.com, memungkinkan pengguna menambahkan teks pada gambar sebagai tanda air. Teks ditambahkan dapat disesuaikan dan dimodifikasi menggunakan beberapa fitur seperti menyesuaikan warna, ketebalan teks, dll Pilihan warna menyesuaikan membiarkan pengguna menambahkan warna ke teks, di sisi lain, ketebalan teks memungkinkan pengguna menyesuaikan ukuran teks. Untuk mengakses fitur ini cukup ketik teks di ruang “masukkan teks” dan tekan “add text” untuk menghasilkan watermark."
+            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
         },
         {
-            "question": "Bagaimana opsi penyesuaian transparansi fitur foto tanda air dari safeimagekit.com bekerja?",
-            "answer": "Opsi penyesuaian transparansi fitur foto tanda air dari safeimagekit.com memungkinkan pengguna menyesuaikan transparansi dan opacity teks watermark atau gambar yang diunggah. Opsi ini tersedia di bagian tengah halaman, opsi transparansi diberikan pada skala mulai dari 0,1 sampai 1. Penyesuaian ini dibuat dan dapat disimpan dengan menekan opsi save. Opsi ini dapat diakses dengan menekan opsi “pilih transparansi” dan sesuaikan skala dan tekan “tambahkan teks” untuk menghasilkan tanda air."
+            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "Bagaimana kita menyesuaikan ukuran font teks sambil memodifikasi gambar menggunakan fitur watermark foto dari safeimagekit.com?",
-            "answer": "Ukuran font teks saat memodifikasi gambar menggunakan fitur foto watermark dari safeimagekit.com dapat disesuaikan dengan memasukkan faktor ukuran. Opsi ini dapat diakses dengan memasukkan ukuran yang valid pada ruang bernama “Enter the Font size”. Ukurannya bisa disesuaikan dengan memasukkan nilai di ruang itu. Ukuran font teks dapat ditingkatkan dengan memasukkan nilai-nilai yang positif (+) nilai. Ukuran font teks dapat dikurangi dengan memasukkan nilai-nilai yang berada dalam nilai negatif (-)."
+            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
+            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
         },
         {
-            "question": "Bagaimana cara kerja nilai stroke dalam konversi gambar di fitur foto tanda air dari safeimagekit.com?",
-            "answer": "Nilai stroke fitur watermark foto dari safeimagekit.com bekerja dengan menyesuaikan warna teks atau gambar yang dimasukkan dalam gambar untuk diedit. Nilai ini dapat diakses dengan memasukkan nilai dalam ruang yang disediakan disebut “Enter the stroke value”. Nilai stroke gambar saat mengubahnya menjadi meme dapat disesuaikan dengan memasukkan nilai positif (+) untuk meningkatkan stroke. Nilai stroke dapat dikurangi dengan memasukkan nilai negatif (-) untuk mengurangi stroke.\n\n"
+            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "Bisakah kita menyisipkan gambar pada gambar lain sebagai tanda air saat memodifikasi gambar menggunakan fitur foto watermark dari safeimagekit.com?",
-            "answer": "Ya, fitur foto watermark dari safeimagekit.com memang menyediakan opsi untuk menyisipkan gambar pada gambar lain saat memodifikasi gambar. Fitur ini dapat diakses di bagian bawah halaman bernama “upload image”. Fitur ini memungkinkan kita menempelkan gambar pada gambar lain, ini adalah fitur nominal di mana kita dapat memasukkan semua jenis gambar pada semua jenis gambar. Gambar setelah mengedit dan memasukkan dapat disimpan dengan menekan opsi yang disebut “save”, ini menyimpan kemajuan yang dibuat untuk gambar."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "Bisakah kita mengubah teks kita ke Miring yang dimasukkan pada gambar yang sedang diedit, sementara memodifikasi gambar menggunakan fitur foto watermark dari safeimagekit.com?",
-            "answer": "Ya, fitur foto watermark dari safeimagekit.com memungkinkan pengguna mengubah teks yang dimasukkan pada gambar ke format miring. Fitur ini dapat diakses dengan menekan tombol “I” yang merupakan singkatan dari huruf miring, ini mengubah teks yang ada pada gambar ke bentuk miring. Setelah konversi tekan tombol yang disebut “save”. Ini menghemat kemajuan yang dibuat untuk gambar."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Bisakah kita mengubah teks kita dari polos menjadi tebal, yang dimasukkan pada gambar yang sedang diedit, sambil memodifikasi gambar menggunakan fitur foto watermark dari safeimagekit.com?",
-            "answer": "Ya, fitur foto watermark dari safeimagekit.com memungkinkan pengguna mengubah teks biasa menjadi teks tebal yang dimasukkan pada gambar. Fitur ini dapat diakses dengan menekan tombol “B” yang merupakan singkatan tebal, ini mengubah teks biasa yang ada pada gambar menjadi teks tebal. Setelah konversi tekan tombol yang disebut “save”. Ini menghemat kemajuan yang dibuat untuk gambar."
+            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Bisakah kita menggarisbawahi teks, yang ditulis pada gambar yang sedang diedit, sambil memodifikasi gambar menggunakan fitur foto watermark dari safeimagekit.com?",
-            "answer": "Ya, fitur foto watermark dari safeimagekit.com memungkinkan pengguna menggarisbawahi teks yang dimasukkan pada gambar. Fitur ini dapat diakses dengan menekan tombol “U” yang merupakan singkatan Underline, ini mengubah teks (normal) menjadi teks yang digarisbawahi pada gambar. Setelah konversi tekan tombol yang disebut “save”. Ini menghemat kemajuan yang dibuat untuk gambar."
+            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
         },
         {
-            "question": "Bagaimana kita bisa mewarnai teks yang dimasukkan pada gambar yang sedang diedit, sambil memodifikasi gambar menggunakan fitur watermark foto dari safeimagekit.com?",
-            "answer": "Fitur foto watermark dari safeimagekit.com tidak membiarkan pengguna mewarnai teks pada gambar, opsi ini dapat diakses dengan menekan kotak hitam di samping setiap fitur utama, setelah memukul kotak hitam kotak warna muncul dan pengguna dapat mengakses warna apa pun untuk melukis pada teks."
+            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Apakah file saya akan disimpan setelah saya selesai mengerjakan alat generator watermark? ",
-            "answer": "Tidak, kami tidak mengirim file Anda ke server kami semua operasi dilakukan pada browser itu sendiri oleh karena itu semua file Anda benar-benar aman. "
+            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Apakah saya harus melakukan pendaftaran tambahan atau membayar ekstra untuk menggunakan alat generator watermark? ",
-            "answer": "Benar-benar tidak, alat kami benar-benar online dan tidak mengharuskan Anda untuk berbagi informasi pribadi Anda dengan kami, seperti id email, password dll Alat kami benar-benar bebas biaya."
-        },
-        {
-            "question": "Bagaimana cara berkomunikasi jika saya menghadapi masalah atau jika saya ingin memberikan saran?",
-            "answer": "Kami dengan senang hati mengambil dalam setiap masalah atau saran yang ditawarkan oleh semua pengguna, silakan hubungi kami melalui menangani media sosial kami untuk informasi lebih lanjut. SafeImageKit.com tersedia di semua situs media sosial terkemuka seperti Facebook, Instagram, YouTube, dan LinkedIn, dll."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

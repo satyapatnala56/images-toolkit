@@ -1,20 +1,20 @@
 {
     "Language": "Türkçe",
     "htmlLangAtt": "tr",
-    "h1": "facebook için en iyi görüntü resizer aracı",
+    "h1": "Görüntüyü facebook için yeniden boyutlandırma ",
     "img": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "uyarı",
-    "h2": "Tek bir tıklamayla facebook için resminizi yükleyin ve yeniden boyutlandırın",
+    "h2": "Resminizi buraya yükleyin ve şimdi yeniden boyutlandırın",
     "TITLE": "Görüntüyü Facebook için yeniden boyutlandırma | Çevrimiçi Görüntü yeniden boyutlandırma aracı ",
     "META": "Facebook için ücretsiz ve çevrimiçi görüntü resizer mi arıyorsunuz? Web sitemizi ziyaret edin ve birkaç saniye içinde Facebook için resmi yeniden boyutlandırın.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
-    "megaMenu": {
+     "megaMenu": {
         "nav-link-name": "Tools",
         "dropdown": [
             {
@@ -98,8 +98,8 @@
                 ]
             }
         ]
-    },
-    "TEXTUAL_CONTENT": [
+    }, 
+"TEXTUAL_CONTENT": [
         {
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",
@@ -149,56 +149,56 @@
     },
     "FAQ": [
         {
-            "question": "Görüntülerin boyutunu ayarlarken safeimagekit.com gelen Facebook görüntü resizer aracı tarafından sunulan özellikler nelerdir?",
-            "answer": "safeimagekit.com gelen Facebook görüntü resizer düzenleme için yüklenen bir görüntüyü boyutlandırırken çok yönlü özellikler sunar. Ana özellikleri şunlardır\n- Farklı kategorilerde görüntünün birden çok sürümünü oluşturma.\n- Görüntü kalitesini ayrı ayrı düzenleyin.\n- Bir görüntünün boyutunu genişliğe göre ayarlama.\n- Bir görüntünün boyutunu yüksekliğe göre ayarlama.\n- Görüntünün tam yeniden boyutlandırılması ve indirilmesi.\n- Görüntüleri düzenleyin ve seçilen olanları veya tüm görüntü kategorilerini indirin."
+            "question": "What are the features offered by the Facebook image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Facebook image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories."
         },
         {
-            "question": "Safeimagekit.com tarafından sunulan Facebook görüntü yeniden boyutlandırıcısında bulunan farklı resim kategorileri nelerdir?",
-            "answer": "Facebook görüntü resizer, bir kullanıcının Facebook uygulaması/web sitesinde resmini yükleyebileceği birden çok bölümde görüntü düzenleme seçenekleri sunar, bu kategoriler şunlardır-\n- Facebook profil fotoğrafı.\n- Facebook bağlantı resmi.\n- Facebook resim gönderisi.\n- Facebook kapak fotoğrafı.\n- Facebook etkinlik görüntüsü.\n- Facebook grup kapağı.\n- Facebook pazarı.\n- Facebook anlık makaleleri.\n- Facebook vurgulanan görüntü.\n- Facebook hikayeleri.\n- Facebook yayını."
+            "question": "What are the different image categories available in the Facebook image resizer offered by Safeimagekit.com?",
+            "answer": "Facebook image resizer offers image editing options in multiple sections where a user can upload his/her image in the Facebook app/website, these categories include-\n-\tFacebook profile photo.\n-\t Facebook link image.\n-\tFacebook image post.\n-\tFacebook cover photo.\n-\tFacebook event image.\n-\tFacebook group cover.\n-\tFacebook marketplace.\n-\tFacebook instant articles.\n-\tFacebook highlighted image.\n-\tFacebook stories.\n-\tFacebook feed."
         },
         {
-            "question": "Safeimagekit.com adresindeki Facebook görüntü resizer özelliğini kullanarak görüntünün genişliğini nasıl ayarlayabilirim?",
-            "answer": "Her şeyden önce, bir düzenleme gerektiren görüntüyü yükleyin. Bir sonraki adım, görüntünün önemli parametrelerini ayarlamayı içerir, bu genişliğin ayarlanmasını içerir. Şimdi, bu seçeneğe erişmek için tüm sürümlerden bir kategori seçmeniz ve düzenlemeye başlamak için düzenleme seçeneğine basmanız gerekir, burada sürükleyip görüntünün genişliğini ayarlayabileceğiniz bir açılır pencere olacaktır. Bonus seçeneği, görüntünün gerekli içeriğini sadece içeri ve dışarı kaydırarak kontrol etmek için yakınlaştırıp uzaklaştırabilmemizdir."
+            "question": "How can I adjust the width of the image using the Facebook image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "Safeimagekit.com adresindeki Facebook görüntü resizer özelliğini kullanarak görüntünün yüksekliğini nasıl ayarlayabilirim?",
-            "answer": "Her şeyden önce, bir düzenleme gerektiren görüntüyü yükleyin. Bir sonraki adım, görüntünün önemli parametrelerinin ayarlanmasını içerir, bu yüksekliğin ayarlanmasını içerir. Şimdi, bu seçeneğe erişmek için tüm sürümlerden bir kategori seçmeniz ve düzenlemeye başlamak için düzenleme seçeneğine basmanız gerekir, burada sürükleyip görüntünün yüksekliğini ayarlayabileceğiniz bir açılır pencere olacaktır. Bonus seçeneği, görüntünün gerekli içeriğini sadece içeri ve dışarı kaydırarak kontrol etmek için yakınlaştırıp uzaklaştırabilmemizdir."
+            "question": "How can I adjust the height of the image using the Facebook image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "safeimagekit.com adresindeki Facebook görüntü resizer özelliğini kullanarak bir görüntüyü nasıl yeniden boyutlandırabilirim?",
-            "answer": "Bir görüntü dosyasını yeniden boyutlandırırken kullanıcının başvurabileceği 6 adım vardır.\nBunlara da dahil...\n- Değişiklik gerektiren görüntü dosyasını yükleyin.\n- Sağlanan seçeneklerden görüntünün gerekli kategorisini seçin.\n- Görüntüyü yükseklik ve genişliğine göre ayarlamaya başlamak için düzenleme Hit.\n- Birden fazla resim kategorisini seviyorsanız, her görüntü sürümünün sağ üst köşesindeki bir kutuya tıklayarak bunları seçin.\n- Bir özel/çoklu sürümleri indirmek için “seçili indir” vurun.\n- Oradaki tüm görüntü sürümlerini indirmek için “tümünü indir” e tıklayın"
+            "question": "How can I resize an image using the Facebook image resizer feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there"
         },
         {
-            "question": "safeimagekit.com adresindeki Facebook görüntü yeniden boyutlandırıcı özelliğinin yeniden boyutlandırma seçeneği, yüklenen görüntü dosyasını yeniden boyutlandırdıktan sonra her türlü önizleme sağlar mı?",
-            "answer": "Hayır, şu anda safeimagekit.com gelen fotoğraf dağıtıcının yeniden boyutlandırma özelliği, yüklenen görüntünün bölümlerinin herhangi bir önizlemesini sağlamaz, çünkü bazen yüklenen görüntünün bölümleri denize girer ve tarayıcının her bölümünün önizlemesini işlemesi çok zorlaşır. görüntü ancak, düzenleme yapıldıktan sonra görüntü görüntülenebilir ve indirilebilir. Yine de, gelecekte web sitesine yapılan güncellemeler tüm heyecan verici özellikleri ekleyecektir."
+            "question": "Does the resize option of the Facebook image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
         },
         {
-            "question": "Windows 8'imde safeimagekit.com'daki Facebook görüntü resizer özelliğini kullanabilir miyim?",
-            "answer": "Facebook görüntü resizer özelliği, Windows 8, Linux ve hatta Ubuntu gibi orada tüm işletim sistemleri tarafından desteklenen safeimagekit.com tarafından sunulan çok yönlü bir özelliktir. Tek gereken, www.safeimagekit.com web sitesini ve üzerinde durmak için normal bir internet bağlantısını kullanarak uzantı dosyasını açmak için bir cihazdır. Eğlenceli gerçek şu ki, daha yavaş bir internet bağlantısında bile çalışabilir."
+            "question": "Can I use the Facebook image resizer feature from safeimagekit.com on my Windows 8?",
+            "answer": "Facebook image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Android cihazımda safeimagekit.com adresindeki Facebook görüntü resizer özelliğini kullanabilir miyim? ",
-            "answer": "Evet, safeimagekit.com Facebook görüntü resizer özelliği, kullanıcının Android, iOS, Windows ve Mac OS gibi işletim sistemlerinden bu dönüştürücü aracını kullanabileceği platformlar arası tabanlı bir özelliktir. Kullanılan işletim sistemlerinden bağımsızdır ancak sadece internet bağlantısına bağlıdır."
+            "question": "Can I use the Facebook image resizer feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the Facebook image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "Değiştirilen görüntüleri safeimagekit.com adresinden Facebook görüntü resizer özelliğini kullanarak dönüştürdükten sonra indirmek için herhangi bir ek yazılım kullanmak zorunda mıyız?",
-            "answer": "Hayır, kullanıcıların resmini yeniden boyutlandırdıktan sonra kendi görüntü parametrelerini değiştirerek, vurabilir indirme seçeneği aşağıda verilen ve değiştirilmiş görüntüyü indirebilirsiniz. Desteklemeyen tarayıcı tabanlı bir dönüştürücü aracıdır veya değiştirilen görüntüyü indirmek için ek bir yazılım gerekmez."
+            "question": "Do we have to use any additional software to download the modified images after conversion using the Facebook image resizer feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
         },
         {
-            "question": "safeimagekit.com adresindeki Facebook görüntü yeniden boyutlandırıcı aracını kullanırken tarayıcımızı yenilersek ilerlememize ne olacak?",
-            "answer": "Safeimagekit.com adresindeki Facebook görüntü resizer aracı orada herhangi bir sunucuya bağlı değildir, bu nedenle kullanıcının üzerinde çalıştığı veriler hiçbir yerde saklanmayacak ve sonuç olarak, kullanıcı üzerinde çalıştığı tarayıcıyı yenilediğinde anında silinecektir. Dönüştürülmekte olan görüntü dosyası, kullanıcı web sitesinin uzantı sayfasının açık olduğu sekmeden çıktıktan veya kapattıktan sonra da kaldırılacaktır."
+            "question": "What will happen to our progress if we refresh our browser while we are using the Facebook image resizer tool from safeimagekit.com?",
+            "answer": "The Facebook image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Biz safeimagekit.com Facebook görüntü resizer özelliğini kullanarak kilitli görüntü dosyalarını yeniden boyutlandırabilir miyim?",
-            "answer": "Hayır, belirli bir görüntü dosyasına erişim engellendiği için kilitli olan görüntü dosyasını yükleyemeyiz. Yani, safeimagekit.com gelen Facebook görüntü resizer özelliğini kullanmak için kilitli olmayan görüntü dosyalarını yüklememiz gerekir. Ancak kullanıcı, kullanıcının kilitli görüntü dosyası için şifresini kaybetmesi durumunda görüntü dosyalarının yanı sıra görüntü dosyalarının kilidini açmak için özel olarak yapılan safeimagekit.com adresinden şifre bulucu uzantısını kontrol edebilir."
+            "question": "Can we resize the image files which are locked, using the Facebook image resizer feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the Facebook image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "Yüklenen görüntü dosyalarım, safeimagekit.com adresindeki Facebook görüntü resizer dosyası özelliğini kullanarak görüntü dosyalarını yeniden boyutlandırdıktan sonra bozulur mu?",
-            "answer": "Hayır, safeimagekit.com yüklenen görüntü dosyalarının bozulmasına izin vermeyen en son programlar ve güvenlik özellikleri ile inşa edilmiştir. Bu nedenle, yüklenen görüntü dosyaları tamamen güvenli ve güvenlidir."
+            "question": "Will my uploaded image files corrupt after resizing the image files using the Facebook image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Herhangi bir sorunla karşılaşırsam veya herhangi bir öneride bulunmak istersem nasıl iletişim kurabilirim?",
-            "answer": "Tüm kullanıcılar tarafından sunulan herhangi bir sorun veya öneriyi memnuniyetle alıyoruz, lütfen daha fazla bilgi için sosyal medya kollarımız aracılığıyla bizimle iletişime geçin. Safeimagekit.com Facebook, Instagram, YouTube ve LinkedIn gibi tüm önde gelen sosyal medya web sitelerinde kullanılabilir."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

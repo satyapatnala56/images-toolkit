@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Is het veilig om toegang tot mijn schijf toe te staan?",
-            "answer": "Ja, het is absoluut veilig om ons toegang te geven tot uw schijf. We zullen geen wijzigingen aanbrengen in uw site en uw bestanden zijn veilig bij u."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Hoe kan ik bestanden uploaden vanaf mijn station/dropbox?",
-            "answer": "Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive. Selecteer het Google-account van waar u uw schijf wilt koppelen. Nu kunt u de bestanden selecteren die u wilt uploaden."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Wat zijn de functies van de „JPEG-compressor” -functie van safeimagekit.com tijdens het comprimeren van een afbeelding met jpeg-formaat?",
-            "answer": "JPEG-compressorfunctie van safeimagekit.com biedt veelzijdige functies bij het comprimeren van een jpeg-bestand. De belangrijkste kenmerken zijn onder meer\nDe geüploade jpeg wijzigen door de afmetingen van de afbeelding aan te passen, zoals hoogte, breedte, enz. Deze jpeg-compressiefunctie presenteert ook de compressie door de grootte in te voeren die kan worden uitgebreid tot max of min, afhankelijk van het geüploade jpeg-bestand. Deze functie biedt ook een strikte modus en oriëntatiemodus voor nauwkeurige aanpassing en rotatieaanpassing. De jpeg-compressor biedt ook de mogelijkheid om de kwaliteit van de afbeelding aan te passen en laat de gebruiker ook het formaat van de afbeelding converteren naar het voordeel van de gebruiker.\n"
+            "question": "What are the features offered by the “JPEG compressor” feature from safeimagekit.com while compressing an image with jpeg format?",
+            "answer": "JPEG compressor feature from safeimagekit.com offers versatile features while compressing a jpeg file. The main features include\nModifying the uploaded jpeg by adjusting the dimensions of the image such as height, width, etc. This jpeg compression feature also presents the compression by entering size which can be extended to max or min depending on the jpeg file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The jpeg compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
         },
         {
-            "question": "Wat zijn de parameters van de jpeg-compressorfunctie van safeimagekit.com, nadat we een jpeg-bestand hebben geüpload?",
-            "answer": "De compressiefunctie van safeimagekit.com biedt verschillende parameters nadat we een afbeelding met jpeg-indeling hebben geüpload, deze parameters omvatten de naam van de afbeelding, de grootte van de afbeelding, het type afbeelding, enz. De parameter is de laatst gewijzigd, waarbij het ons de tijd, datum en de tijdzone geeft waar het was laatst gewijzigd. Dit geeft ons ook een voortgangsbalk na het uploaden en voordat we beginnen met het bewerken van het geüploade afbeeldingsbestand."
+            "question": "What are the parameters provided by the jpeg compressor feature from safeimagekit.com, after we upload a jpeg file?",
+            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with jpeg format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, wherein it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
         },
         {
-            "question": "Wat zijn de jpeg-aanpassingsfuncties die safeimagekit.com biedt tijdens het comprimeren van een jpeg?",
-            "answer": "De jpeg-compressiefunctie van safeimagekit.com biedt veel functies tijdens het comprimeren van een afbeelding. Hiermee kan de gebruiker de afmetingen van de jpeg aanpassen door de metingen aan te passen, zoals breedte en hoogte. De maximale hoogte en de maximale breedte bieden de gebruiker de maximale limiet van de fotocompressie. Terwijl de min-breedte en min-hoogte de gebruiker een minimale limiet van de fotocompressie bieden. Met de optie converteergrootte kan de gebruiker over het geheel comprimeren."
+            "question": "What are the jpeg adjusting features provided by safeimagekit.com while compressing a jpeg?",
+            "answer": "The jpeg compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the jpeg by adjusting the measurements such as width and height. The max-height and the max-width provide the user with the maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
         },
         {
-            "question": "Hoe werkt de optie voor kwaliteitsaanpassing van de jpeg-compressorfunctie van safeimagekit.com?",
-            "answer": "De optie voor kwaliteitsaanpassing van de jpeg-compressorfunctie van safeimagekit.com is een belangrijke functie waarmee de gebruiker de algehele kwaliteit van de jpeg kan bepalen. Deze functie is toegankelijk vanuit de ruimte „Voer de kwaliteit in” na het uploaden van de afbeelding. Dit past de scherpte, het contrast, de vervaging (op kleine hoeveelheden) en vele andere beeldparameters in het algemeen aan. De gebruiker kan de meting bepalen van 0,1 tot 1 schaal. Als hij geen wijziging in de kwaliteit van de geüploade afbeelding wil, kan deze optie worden overgeslagen."
+            "question": "How does the quality adjustment option of the jpeg compressor feature from safeimagekit.com work?",
+            "answer": "The quality adjustment option of the jpeg compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the jpeg. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
         },
         {
-            "question": "Hoe werkt de optie „Mime type” van de compressorfunctie van safeimagekit.com?",
-            "answer": "Met de optie „MIME-type” van de compressorfunctie van safeimagekit.com kan de gebruiker het formaat van de afbeelding kiezen nadat deze is gecomprimeerd met behulp van de compressortool van safeimagekit.com. Momenteel zijn er 5 soorten afbeeldingsindelingen beschikbaar voor de gebruiker. De gebruiker kan het formaat van de afbeelding wijzigen op basis van zijn/haar vereiste. Deze formaten omvatten webp-, png-, jpg-, jpeg- en gif-indeling. Als de gebruiker het formaat ongewijzigd wil houden, kan de gebruiker kiezen voor de optie genaamd „Voer het mime-type in”. De optie „Mime-type” is toegankelijk onderaan de pagina na het uploaden van de afbeelding en sla de aangebrachte wijzigingen op."
+            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
+            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently, there are 5 types of image formats that are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
         },
         {
-            "question": "Kan ik de compressie-jpeg-functie van safeimagekit.com gebruiken op mijn LINUX besturingssysteem?",
-            "answer": "Ja, de comprimeer jpeg-functie van safeimagekit.com kan op elk besturingssysteem worden gebruikt, zelfs LINUX. Het is gebouwd met de nieuwste code en functies waarmee de gebruiker elke afbeelding kan comprimeren die door de gebruiker is geüpload op elk besturingssysteem zoals MAC OS, Windows en Ubuntu, op voorwaarde dat er een apparaat is met een stabiele internetverbinding. De goocheltruc is dat het zelfs werkt op een langzamere internetverbinding."
+            "question": "Can I use the compress jpeg feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the compress jpeg feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
         },
         {
-            "question": "Kunnen we de tekst in het jpeg-bestand bewerken met behulp van de comprimeer jpeg-functie van safeimagekit.com?",
-            "answer": "Nee, momenteel biedt de comprimeer jpeg-functie van safeimagekit.com alleen de functies, waarmee de gebruiker de jpeg kan comprimeren, het formaat van de afbeelding kan converteren van jpeg-formaat naar andere, enz. Tekstbewerkingsfuncties zijn niet beschikbaar in safeimagekit.com. Maar updates van de website zullen binnenkort alle opwindende functies opleveren."
+            "question": "Can we edit the text present in the jpeg file using the compress jpeg feature from safeimagekit.com?",
+            "answer": "No, currently the compress jpeg feature from safeimagekit.com only offers the features, which enables the user to compress the jpeg, converting the format of the image from jpeg format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
         },
         {
-            "question": "Kunnen we 4k- en 8k-afbeeldingen bewerken of comprimeren met behulp van de jpeg-compressor van safeimagekit.com?",
-            "answer": "Nee, momenteel biedt de compressorfunctie van safeimagekit.com alleen beeldbewerkingsfuncties tot 1080p op zijn best. Er bestaan echter 4k-opties voor het comprimeren en bewerken van afbeeldingen op safeimagekit.com, maar 8k beeldverwerking is niet beschikbaar en zal in de komende toekomst worden opgenomen als een update van de website."
+            "question": "Can we edit or compress 4k and 8k images using the jpeg compressor from safeimagekit.com?",
+            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
         },
         {
-            "question": "Hoeveel jpeg-bestanden kunnen we in één stuk bewerken met behulp van de jpeg-compressorfunctie van safeimagekit.com?",
-            "answer": "Momenteel kan de compressorfunctie van safeimagekit.com een enkel jpeg-bestand bewerken en comprimeren, omdat deze tool fatsoenlijke parameters vereist tijdens het bewerken, is de bewerkingsfunctie voor meerdere jpeg-bestanden momenteel niet inbegrepen, maar updates van de website zullen dit in de toekomst mogelijk maken. "
+            "question": "How many jpeg files can we edit at a single stretch using the jpeg compressor feature from safeimagekit.com?",
+            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single jpeg file, as this tool demands decent parameters while editing, multiple jpeg files editing feature is not included currently, but updates to the website will make this possible in the future. "
         },
         {
-            "question": "Kan ik de jpeg-compressorfunctie van safeimagekit.com gebruiken op mijn Apple iPhone 11? ",
-            "answer": "Ja, de jpeg-compressorfunctie van safeimagekit.com is een platformonafhankelijke functie, waarbij de gebruiker deze convertertool kan gebruiken vanaf besturingssystemen zoals Android, iOS, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar hangt alleen af van de internetverbinding en de grootte van de jpeg-bestanden die worden geüpload om in andere te worden gecomprimeerd."
+            "question": "Can I use the jpeg compressor feature from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, the jpeg compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the jpeg files which are uploaded to be compressed into others."
         },
         {
-            "question": "Zullen mijn geüploade afbeeldingsbestanden beschadigd raken nadat ze zijn gecomprimeerd met behulp van de voortreffelijke opties die aanwezig zijn in de compressie-jpeg-functie van safeimagekit.com",
-            "answer": "Nee, de comprimeerfunctie van safeimagekit.com is gebouwd met de nieuwste programma's en beveiligingsfuncties waardoor de geüploade jpeg-bestanden niet kunnen beschadigen. De geüploade jpeg-bestanden zijn dus volledig veilig en beveiligd. Safeimagekit.com is ook een servervrije website waardoor hier geen jpeg-bestanden worden opgeslagen en uit het geheugen worden gewist zodra de webpagina wordt gesloten."
+            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress jpeg feature from safeimagekit.com?",
+            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded jpeg files to corrupt. So, the uploaded jpeg files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no jpeg files are stored here, and are wiped from the memory as soon as the webpage is closed."
         },
         {
-            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met het JPEG-compressietool? ",
-            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
+            "question": "Will my file be saved after I complete working on the  JPEG compresssion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Moet ik een extra aanmelding doen of extra betalen om de JPEG-compressietool te gebruiken? ",
-            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
+            "question": "Do I have to do any additional signup or pay extra to use the JPEG compresssion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Hoe communiceer ik als ik problemen heb of als ik suggesties wil geven?",
-            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

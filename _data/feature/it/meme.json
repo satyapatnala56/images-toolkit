@@ -1,15 +1,15 @@
 {
     "Language": "Italiano",
     "htmlLangAtt": "it",
-    "H1": "Generatore di meme avanzato online",
+    "H1": "Generatore di meme",
     "img": "/img/meme.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "successo",
-    "H2": "La creazione di meme ora è facile per noi, inizia caricando il tuo file qui sotto",
-    "TITLE": "Generatore di meme - creatore di meme online - kit di immagini sicure",
+    "H2": "Il creatore di meme online è stato reso facile con noi, inizia caricando il tuo file qui sotto",
+    "TITLE": "Generatore di meme - creatore di meme online - safeimagekit",
     "META": "Stai cercando un generatore di meme di alta qualità? Bene, allora sei nel posto giusto. Il nostro strumento per la creazione di meme online è estremamente sicuro, facile da usare e super veloce.",
     "width": "",
     "LABEL": "",
@@ -26,7 +26,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Sicurezza dei dati",
-            "content": "Nessuno dei tuoi dati viene inviato sui nostri server, tutte le operazioni vengono effettuate sul browser stesso. Questo ci consente di essere sicuri al 100% per i nostri utenti"
+            "content": "Nessuno dei tuoi dati viene inviato sui nostri server tutte le operazioni vengono eseguite sul browser stesso. Questo ci consente di essere sicuri al 100% per i nostri utenti"
         },
         {
             "priority": 1,
@@ -37,20 +37,20 @@
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
-            "header": "Facile da usare",
-            "content": "Il nostro strumento per la generazione di meme è molto facile da capire, nessun professionista è necessario per lavorare sul nostro strumento."
+            "header": "facile da usare",
+            "content": "Il nostro strumento per la generazione di meme è molto facile da capire, non è necessario alcun professionista per lavorare sul nostro strumento."
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "Senza costi",
+            "header": "Gratuito",
             "content": "Il nostro strumento generatore di meme è completamente gratuito, puoi utilizzare tutti i nostri strumenti senza pagare un solo centesimo"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Nessun download aggiuntivo",
-            "content": "Il nostro strumento generatore di meme è completamente basato su browser e non è necessario scaricare alcun software aggiuntivo sul tuo dispositivo."
+            "content": "Il nostro strumento di generazione di meme è completamente basato su browser e non è necessario scaricare alcun software aggiuntivo sul tuo dispositivo."
         }
     ],
     "HOW_TO_CONTENT": {
@@ -59,72 +59,72 @@
         "steps": [
             "Carica il file immagine o fai clic sulla freccia a discesa e seleziona Dropbox/Google Drive e seleziona l'immagine che deve essere convertita in un MEME.",
             "Regola i parametri per ottenere un meme migliore.",
-            "Carica un'immagine o aggiungi del testo per migliorare un meme.",
+            "Carica un'immagine o aggiungi testo che renda migliore un meme.",
             "Premi l'opzione di salvataggio per salvare le modifiche apportate.",
             "Scarica il MEME utilizzando l'opzione di download.",
-            "Evviva!! il MEME è pronto per il rock."
+            "Evviva!! il MEME è pronto a scatenarsi."
         ]
     },
     "FAQ": [
         {
-            "question": "È sicuro consentire l'accesso alla mia unità?",
-            "answer": "Sì, è assolutamente sicuro consentirci e darci l'accesso alla tua unità. Non apporteremo alcuna modifica al tuo sito e i tuoi file saranno al sicuro con te."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Come posso caricare file dal mio drive/dropbox?",
-            "answer": "Fai clic sulla freccia a discesa e seleziona Dropbox/Google Drive. Seleziona l'account Google da cui desideri collegare l'unità. Ora puoi selezionare i file che desideri caricare."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Quali sono le funzionalità offerte dal generatore di meme di safeimagekit.com durante la creazione di un meme da un'immagine?",
-            "answer": "Lo strumento generatore di meme di safeimagekit.com offre funzionalità versatili durante la creazione di un meme dall'immagine caricata. Le caratteristiche principali includono\n- Inserimento di testo nel file immagine caricato.\n- Regolazione della trasparenza del testo caricato.\n- Regolazione della dimensione del carattere del testo da inserire.\n- Modifica del valore del tratto\n- Inserimento di un'immagine su un'immagine\n- Regolazione del valore dell'ombra sul file immagine caricato.\n- Modifica del testo in corsivo.\n- Regolazione del grassetto del testo da inserire.\n- Sottolineare le caratteristiche del testo.\n- Aggiornamento del meme con opzioni di colore."
+            "question": "What are the features offered by the meme generator from safeimagekit.com while crafting a meme from an image?",
+            "answer": "The meme generator tool from safeimagekit.com offers versatile features while crafting a meme from the uploaded image. The main features include\n-\tInsertion of text on the uploaded image file.\n-\tAdjusting the transparency of the text uploaded.\n-\tAdjusting the font size of the text to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image on an image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the text by Italics.\n-\tAdjusting the boldness of the text to be inserted.\n-\tUnderlining features of the text.\n-\tUpgrading the meme with color options."
         },
         {
-            "question": "Come funziona l'opzione di inserimento del testo del generatore di meme di safeimagekit.com?",
-            "answer": "L'opzione di inserimento del testo del generatore di meme di safeimagekit.com, consente all'utente di aggiungere testo sul file immagine che deve essere generato come meme. Il testo aggiunto può essere regolato e modificato utilizzando diverse funzioni come la regolazione del colore, lo spessore del testo, ecc. Le opzioni di regolazione del colore consentono all'utente di aggiungere colore al testo, d'altra parte, lo spessore del testo consente all'utente di regolare la dimensione del testo."
+            "question": "How does the text insertion option of meme generator from safeimagekit.com work?",
+            "answer": "The text insertion option of meme generator from safeimagekit.com, lets the user add text on the image file which is to be generated as a meme. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text."
         },
         {
-            "question": "Come funziona l'opzione di regolazione della trasparenza del generatore di meme di safeimagekit.com?",
-            "answer": "L'opzione di regolazione della trasparenza del generatore di meme di safeimagekit.com consente all'utente di regolare la trasparenza e l'opacità del testo o dell'immagine caricata. Questa opzione è disponibile nella parte centrale della pagina, l'opzione di trasparenza è data su una scala che va da 0,1 a 1. Questa regolazione viene effettuata e può essere salvata premendo l'opzione di salvataggio. "
+            "question": "How does the transparency adjustment option of the meme generator from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the meme generator from safeimagekit.com lets the user adjust the transparency and opacity of the text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. "
         },
         {
-            "question": "Come possiamo regolare la dimensione del carattere del testo durante la generazione di un meme usando il generatore di meme di safeimagekit.com?",
-            "answer": "La dimensione del carattere del testo durante la generazione di un meme utilizzando il generatore di meme di safeimagekit.com può essere regolata inserendo il fattore di dimensione. È possibile accedere a questa opzione inserendo la dimensione valida nello spazio denominato «Inserisci la dimensione del carattere». La dimensione può essere regolata inserendo un valore in quello spazio. La dimensione del carattere del testo può essere aumentata inserendo i valori che sono in valore positivo (+). La dimensione del carattere del testo può essere ridotta immettendo i valori che sono in valore negativo (-)."
+            "question": "How do we adjust the font size of the text while generating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The font size of the text while generating a meme using the meme generator from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "Come funziona il valore del tratto nella conversione dell'immagine nel generatore di meme da safeimagekit.com?",
-            "answer": "Il valore del tratto del generatore di meme di safeimagekit.com funziona regolando il colore del testo o di un'immagine che viene inserita nell'immagine per la modifica. È possibile accedere a questo valore immettendo un valore nello spazio fornito chiamato «Inserisci il valore del tratto». Il valore del tratto dell'immagine durante la conversione in un meme può essere regolato inserendo un valore positivo (+) per aumentare il tratto. Il valore del tratto può essere diminuito immettendo un valore negativo (-) per diminuire il tratto."
+            "question": "How does the stroke value work in the image conversion in meme generator from safeimagekit.com?",
+            "answer": "The stroke value of the meme generator from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
         },
         {
-            "question": "Possiamo inserire un'immagine su un'altra immagine mentre creiamo un meme usando il generatore di meme di safeimagekit.com?",
-            "answer": "Sì, il generatore di meme di safeimagekit.com fornisce la possibilità di inserire un'immagine su un'altra immagine durante la creazione di un meme. È possibile accedere a questa funzione nella parte inferiore della pagina denominata «carica immagine». Questa funzione ci consente di incollare un'immagine su un'altra immagine, questa è una caratteristica nominale in cui possiamo inserire qualsiasi tipo di immagine su qualsiasi tipo di immagine. L'immagine dopo la modifica e l'inserimento può essere salvata premendo l'opzione chiamata «salva», questo salva il progresso che viene fatto all'immagine."
+            "question": "Can we insert an image on another image while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com does provide the option to insert an image on another image while creating a meme. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "Possiamo convertire il nostro testo in corsivo che viene inserito nell'immagine in fase di modifica, mentre creiamo un meme usando il generatore di meme di safeimagekit.com?",
-            "answer": "Sì, il generatore di meme di safeimagekit.com consente all'utente di convertire il testo inserito nell'immagine in formato corsivo. È possibile accedere a questa funzione premendo il pulsante «I» che sta per corsivo, questo converte il testo presente sull'immagine in corsivo. Dopo la conversione premi il pulsante chiamato «salva». Ciò consente di salvare l'avanzamento dell'immagine."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "Possiamo convertire il nostro testo da semplice a grassetto, che viene inserito nell'immagine in fase di modifica, mentre creiamo un meme usando il generatore di meme di safeimagekit.com?",
-            "answer": "Sì, il generatore di meme di safeimagekit.com consente all'utente di convertire il testo normale in testo in grassetto che viene inserito nell'immagine. È possibile accedere a questa funzione premendo il pulsante «B» che sta per grassetto, questo converte il testo normale presente sull'immagine in testo in grassetto. Dopo la conversione premi il pulsante chiamato «salva». Ciò consente di salvare l'avanzamento dell'immagine."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Possiamo sottolineare il testo, che è scritto sull'immagine in fase di modifica, mentre creiamo un meme usando il generatore di meme di safeimagekit.com?",
-            "answer": "Sì, il generatore di meme di safeimagekit.com consente all'utente di sottolineare il testo che viene inserito nell'immagine. È possibile accedere a questa funzione premendo il pulsante «U» che sta per Sottolineato, questo converte il testo (normale) in testo sottolineato sull'immagine. Dopo la conversione premi il pulsante chiamato «salva». Ciò consente di salvare l'avanzamento dell'immagine."
+            "question": "Can we underline the text, which is written on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user to underline the text which is inserted into the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Come possiamo colorare il testo che viene inserito nell'immagine in fase di modifica, mentre creiamo un meme usando il generatore di meme di safeimagekit.com?",
-            "answer": "Il generatore di meme di safeimagekit.com consente all'utente di colorare il testo sull'immagine, è possibile accedere a questa opzione premendo la casella nera accanto a tutte le principali funzionalità, dopo aver premuto la casella nera si apre la casella dei colori e l'utente può accedere a qualsiasi colore per dipingere sul testo."
+            "question": "How can we color the text which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The meme generator from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
         },
         {
-            "question": "Il mio file verrà salvato dopo aver completato il lavoro sullo strumento generatore di meme? ",
-            "answer": "No, non inviamo nessuno dei tuoi file ai nostri server, tutte le operazioni vengono eseguite sul browser stesso, quindi tutti i tuoi file sono completamente al sicuro. "
+            "question": "Will my file be saved after I complete working on the meme generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Devo fare qualche iscrizione aggiuntiva o pagare un extra per utilizzare lo strumento generatore di meme? ",
-            "answer": "Assolutamente no, il nostro strumento è completamente online e non richiede di condividere nessuna delle tue informazioni personali con noi, come ID e-mail, password ecc. Il nostro strumento è completamente gratuito."
+            "question": "Do I have to do any additional signup or pay extra to use the meme generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Come posso comunicare se ho problemi o se voglio dare suggerimenti?",
-            "answer": "Accogliamo volentieri qualsiasi problema o suggerimento offerto da tutti gli utenti, ti preghiamo di contattarci tramite i nostri social media per ulteriori informazioni. Safeimagekit.com è disponibile su tutti i principali siti di social media come Facebook, Instagram, YouTube e LinkedIn, ecc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

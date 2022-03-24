@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Có an toàn để cho phép truy cập vào ổ đĩa của tôi?",
-            "answer": "Có, nó là hoàn toàn an toàn để cho phép và cung cấp cho chúng tôi quyền truy cập vào ổ đĩa của bạn. Chúng tôi sẽ không thực hiện bất kỳ thay đổi nào đối với trang web của bạn và dfiles của bạn sẽ được an toàn với bạn."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Làm cách nào tôi có thể tải lên tệp từ ổ đĩa/dropbox của tôi?",
-            "answer": "Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive. Chọn tài khoản Google từ nơi bạn muốn liên kết ổ đĩa của mình. Bây giờ bạn có thể chọn các tệp mà bạn muốn tải lên."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Các tính năng được cung cấp bởi các bộ lọc ảnh từ safeimagekit.com, trong khi thêm bộ lọc vào hình ảnh là gì?",
-            "answer": "Tính năng lọc ảnh từ safeimagekit.com cung cấp các bộ lọc tốt nhất hiện có. Các bộ lọc này thay đổi giao diện tổng thể của hình ảnh được tải lên. Các bộ lọc có sẵn là - Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical, Thresholding, Mirror. Tính năng áp dụng ở phía dưới sẽ lưu các thay đổi được thực hiện và cho phép người dùng tải xuống tệp hình ảnh."
+            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
+            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
         },
         {
-            "question": "Quá trình thêm bộ lọc vào tệp hình ảnh dưới tính năng lọc ảnh từ safeimagekit.com là gì?",
-            "answer": "Có 4 bước cơ bản để thêm bộ lọc vào tệp hình ảnh dưới tính năng trình tập tin ảnh từ safeimagekit.com. Các tính năng này bao gồm-\n- Tải lên tệp hình ảnh cần thiết trong không gian được cung cấp.\n- Chọn bộ lọc thích hợp từ nhiều tùy chọn được đưa ra.\n- Chọn bộ lọc và nhấp vào áp dụng để áp dụng bộ lọc đó cho hình ảnh đó.\n- Nhấn lưu để lưu các thay đổi được thực hiện và tải xuống hình ảnh đã sửa đổi."
+            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
+            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
         },
         {
-            "question": "Các định dạng hình ảnh nào được hỗ trợ bởi tính năng lọc ảnh từ safeimagekit.com?",
-            "answer": "Hiện tại, tính năng lọc ảnh từ safeimagekit.com hỗ trợ tất cả các định dạng của hình ảnh ngoài kia. Tuy nhiên, người dùng có thể đạt được lợi thế tốt nhất nếu hình ảnh ở định dạng sau-\n- Png\n- Ảnh Jpeg\n- Jpg\n- Thô \n- Eps, v.v.\n"
+            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
+            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
         },
         {
-            "question": "Làm cách nào để chúng ta áp dụng bộ lọc Laplacian bằng bộ lọc ảnh từ safeimagekit.com vào ảnh đã tải lên?",
-            "answer": "Đầu tiên, tải lên hình ảnh yêu cầu thay đổi không gian tải lên được cung cấp. Sau đó, chọn bộ lọc hình ảnh Laplacian từ nhiều tùy chọn được cung cấp trong hộp công cụ của bộ lọc. Sau đó, nhấn nút áp dụng để xem trước ảnh sau khi bổ sung bộ lọc. Nhấn “lưu” để lưu các thay đổi được thực hiện cho hình ảnh đã tải lên. Cuối cùng, nhấn tùy chọn tải xuống để tải xuống hình ảnh mới và cải tiến."
+            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "Chúng ta có nhận được bản xem trước, để kiểm tra hình ảnh sau khi thêm bộ lọc trong khi sử dụng tính năng lọc ảnh từ safeimagekit.com không?",
-            "answer": "Có, tính năng lọc ảnh từ safeimagekit.com cung cấp tùy chọn xem trước để kiểm tra triển vọng của hình ảnh đang được chỉnh sửa. Để truy cập tính năng xem trước, người dùng cần tải lên một hình ảnh và thêm bộ lọc vào hình ảnh đó từ nhiều bộ lọc được cung cấp. Sau đó, nhấn nút áp dụng để áp dụng bộ lọc đó trên hình ảnh đó. Sau đó, chúng tôi nhận được một bản xem trước của hình ảnh đã được sửa đổi với một bộ lọc mới."
+            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
+            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
         },
         {
-            "question": "Làm cách nào để chúng ta áp dụng bộ lọc Gương bằng bộ lọc ảnh từ safeimagekit.com vào ảnh đã tải lên?",
-            "answer": "Bộ lọc Gương là một bộ lọc duy nhất cung cấp cho người dùng bản sao phản chiếu chính xác của hình ảnh. Đầu tiên, tải lên hình ảnh yêu cầu thay đổi không gian tải lên được cung cấp. Sau đó, chọn bộ lọc hình ảnh gương từ nhiều tùy chọn được cung cấp trong hộp công cụ của bộ lọc. Sau đó, nhấn nút áp dụng để xem trước ảnh sau khi bổ sung bộ lọc. Nhấn “lưu” để lưu các thay đổi được thực hiện cho hình ảnh đã tải lên. Cuối cùng, nhấn tùy chọn tải xuống để tải xuống hình ảnh mới và cải tiến."
+            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "Chúng ta có thể thêm hoặc xóa văn bản trong khi thêm bộ lọc vào tệp hình ảnh bằng tính năng thêm bộ lọc từ safeimagekit.com không?",
-            "answer": "Không, chúng tôi không thể thêm hoặc xóa văn bản trong khi thêm bộ lọc vào tệp hình ảnh được tải lên bằng tính năng thêm bộ lọc từ safeimagekit.com, các tính năng chỉnh sửa văn bản như chèn văn bản và các tính năng xóa văn bản hiện không được bao gồm. Tính năng lọc ảnh chỉ hỗ trợ chuyển đổi nhưng không chỉnh sửa. Tuy nhiên, các bản cập nhật cho trang web sẽ mang lại tất cả các tính năng thú vị ngay cả các tính năng chỉnh sửa văn bản cho trang web."
+            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
+            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
         },
         {
-            "question": "Thời gian được thực hiện bởi tính năng lọc ảnh từ safeimagekit.com để thêm bộ lọc vào tệp hình ảnh là bao nhiêu?",
-            "answer": "Thời gian là yếu tố thú vị hiện diện ở đây; thời gian được thực hiện bởi tính năng lọc ảnh từ safeimagekit.com hoàn toàn phụ thuộc vào tệp hình ảnh được tải lên. Nếu kích thước của hình ảnh được tải lên nhiều hơn thì thời gian thực hiện để xử lý việc chuyển đổi tệp hình ảnh nhiều hơn một chút so với thời gian thực hiện để chuyển đổi tệp hình ảnh bình thường và ngược lại. Kết nối Internet cũng đóng một vai trò trong tốc độ chuyển đổi (Nó thậm chí hoạt động trên một kết nối chậm hơn)."
+            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
+            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
         },
         {
-            "question": "Điều gì sẽ xảy ra với tiến trình của chúng tôi nếu chúng tôi làm mới trình duyệt của mình trong khi chúng tôi đang sử dụng tính năng lọc ảnh từ safeimagekit.com?",
-            "answer": "Tính năng lọc ảnh từ safeimagekit.com không được kết nối với bất kỳ máy chủ nào ngoài kia, vì vậy dữ liệu mà người dùng đang làm việc sẽ không được lưu trữ ở bất cứ đâu và kết quả là, nó sẽ bị xóa ngay lập tức khi người dùng làm mới trình duyệt mà anh ta đang làm việc. Các tệp hình ảnh được làm việc trên cũng sẽ bị xóa sau khi người dùng thoát hoặc đóng tab mà trang mở rộng của trang web được mở."
+            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
+            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Tôi có thể sử dụng tính năng lọc ảnh từ safeimagekit.com trên hệ điều hành Ubuntu của mình không?",
-            "answer": "Bộ lọc ảnh là một tính năng linh hoạt được cung cấp bởi safeimagekit.com được hỗ trợ bởi tất cả các hệ điều hành ngoài kia như Windows 8, Linux và thậm chí Ubuntu. Tất cả những gì cần là một thiết bị để mở tệp mở rộng bằng cách sử dụng trang web www.safeimagekit.com và kết nối internet bình thường để đứng trên. Thực tế thú vị là nó thậm chí có thể chạy trên kết nối internet chậm hơn."
+            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
+            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Làm cách nào để chúng ta áp dụng bộ lọc màu nâu đỏ bằng bộ lọc ảnh từ safeimagekit.com vào ảnh được tải lên?",
-            "answer": "Đầu tiên, tải lên hình ảnh yêu cầu thay đổi không gian tải lên được cung cấp. Sau đó, chọn bộ lọc hình ảnh màu nâu đỏ từ nhiều tùy chọn được cung cấp trong hộp công cụ của bộ lọc. Sau đó, nhấn nút áp dụng để xem trước ảnh sau khi bổ sung bộ lọc. Nhấn “lưu” để lưu các thay đổi được thực hiện cho hình ảnh đã tải lên. Cuối cùng, nhấn tùy chọn tải xuống để tải xuống hình ảnh mới và cải tiến."
+            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "Tập tin của tôi sẽ được lưu sau khi tôi hoàn tất làm việc trên công cụ lọc ảnh? ",
-            "answer": "Không, chúng tôi không gửi bất kỳ tệp nào của bạn đến máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt do đó tất cả các tệp của bạn hoàn toàn an toàn. "
+            "question": "Will my file be saved after I complete working on the photo filter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Tôi có phải đăng ký bổ sung hoặc trả thêm tiền để sử dụng công cụ lọc ảnh không? ",
-            "answer": "Hoàn toàn không, công cụ của chúng tôi là hoàn toàn trực tuyến và không yêu cầu bạn chia sẻ bất kỳ thông tin cá nhân của bạn với chúng tôi, như id email, mật khẩu vv Công cụ của chúng tôi là hoàn toàn miễn phí."
+            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Làm cách nào để giao tiếp nếu tôi gặp bất kỳ vấn đề nào hoặc nếu tôi muốn đưa ra bất kỳ đề xuất nào?",
-            "answer": "Chúng tôi sẵn sàng đưa vào bất kỳ vấn đề hoặc đề xuất được cung cấp bởi tất cả người dùng, vui lòng liên hệ với chúng tôi thông qua xử lý phương tiện truyền thông xã hội của chúng tôi để biết thêm thông tin Safeimagekit.com có sẵn trên tất cả các trang web truyền thông xã hội hàng đầu như Facebook, Instagram, YouTube và LinkedIn, v.v."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

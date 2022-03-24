@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Sürücüme erişime izin vermek güvenli midir?",
-            "answer": "Evet, sürücünüze erişim sağlamak ve bize izin vermek kesinlikle güvenlidir. Sitenizde herhangi bir değişiklik yapmayacağız ve dfiles sizinle güvende olacaktır."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Sürücü/dropbox dosyalarımdan nasıl yükleyebilirim?",
-            "answer": "Açılır oku tıklayın ve Dropbox/Google Drive'ı seçin. Sürücünüzü bağlamak istediğiniz yerden Google hesabını seçin. Artık yüklemek istediğiniz dosyaları seçebilirsiniz."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Bir görüntüyü png formatında sıkıştırırken safeimagekit.com'un “PNG kompresörü” özelliğinin sunduğu özellikler nelerdir?",
-            "answer": "safeimagekit.com'un PNG kompresör özelliği, png dosyasını sıkıştırırken çok yönlü özellikler sunar. Ana özellikleri şunlardır\nYüklenen png dosyasını yükseklik, genişlik, vb gibi görüntünün boyutlarını ayarlayarak değiştirilmesi Bu png sıkıştırma özelliği de yüklenen png dosyasına bağlı olarak maksimum veya dakikaya kadar uzatılabilen boyutu girerek sıkıştırmayı sunar. Bu özellik aynı zamanda doğru ve döndürme ayarı için sıkı bir mod ve yönlendirme modu sağlar. Png kompresör ayrıca görüntünün kalitesini ayarlama seçeneği sunar ve ayrıca kullanıcının görüntünün formatını kullanıcının avantajına dönüştürmesini sağlar.\n"
+            "question": "What are the features offered by the “PNG compressor” feature from safeimagekit.com while compressing an image with png format?",
+            "answer": "PNG compressor feature from safeimagekit.com offers versatile features while compressing a png file. The main features include\nModifying the uploaded png file by adjusting the dimensions of the image such as height, width, etc. This png compression feature also presents the compression by entering size which can be extended to max or min depending on the png file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The png compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
         },
         {
-            "question": "Bir png dosyası yükledikten sonra safeimagekit.com'dan png kompresör özelliği tarafından sağlanan parametreler nelerdir?",
-            "answer": "Biz png formatında bir görüntü yükledikten sonra safeimagekit.com gelen sıkıştırma özelliği çeşitli parametreler sağlar, bu parametreler görüntünün adını, görüntünün boyutunu, görüntünün türünü, vb içerir Parametre bize zaman, tarih ve son olduğu saat dilimini verir son değiştirilir değiştirilmiş. Bu ayrıca yükledikten sonra ve yüklenen görüntü dosyasının düzenlenmesine başlamadan önce bize bir ilerleme çubuğu sağlar."
+            "question": "What are the parameters provided by the png compressor feature from safeimagekit.com, after we upload a png file?",
+            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with png format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, where it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
         },
         {
-            "question": "Bir png dosyasını sıkıştırırken, safeimagekit.com tarafından png dosyalarına sağlanan ayarlama özellikleri nelerdir?",
-            "answer": "safeimagekit.com'un png dosya sıkıştırma özelliği, bir görüntüyü sıkıştırırken birçok özellik sunar. Kullanıcının genişlik ve yükseklik gibi ölçümleri ayarlayarak png dosyasının boyutlarını ayarlamasını sağlar. Maksimum yükseklik ve maksimum genişlik, kullanıcıya fotoğraf sıkıştırmasının maksimum sınırını sağlar. Min-width ve min-height kullanıcıya fotoğraf sıkıştırmasının minimum sınırını sağlar. Boyutu dönüştürme seçeneği, kullanıcının bütün olarak sıkıştırmasını sağlar."
+            "question": "What are the adjusting features provided by the safeimagekit.com to the png files, while compressing a png file?",
+            "answer": "The png file compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the png file by adjusting the measurements such as width and height. The max-height and the max-width provide the user with a maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
         },
         {
-            "question": "safeimagekit.com'un png kompresör özelliğinin kalite ayarlama seçeneği nasıl çalışır?",
-            "answer": "safeimagekit.com'un png kompresör özelliğinin kalite ayarı seçeneği, kullanıcının yüklenen png dosyasının genel kalitesine karar vermesini sağlayan önemli bir özelliktir. Bu özelliğe, görüntüyü yükledikten sonra “Kaliteyi girin” alanından erişilebilir. Bu, keskinliği, kontrastı, bulanıklığı (küçük miktarlarda) ve diğer birçok görüntü parametresini bütünde ayarlar. Kullanıcı ölçümü 0,1 ila 1 ölçek arasında karar verebilir. Yüklenen görüntünün kalitesinde herhangi bir değişiklik istemiyorsa, bu seçenek atlanabilir."
+            "question": "How does the quality adjustment option of the png compressor feature from safeimagekit.com work?",
+            "answer": "The quality adjustment option of the png compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the png file uploaded. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
         },
         {
-            "question": "safeimagekit.com'un kompresör özelliğinin “Mime tipi” seçeneği nasıl çalışır?",
-            "answer": "Safeimagekit.com'un kompresör özelliğinin “Mime tipi” seçeneği, kullanıcının safeimagekit.com adresindeki kompresör aracını kullanarak sıkıştırdıktan sonra görüntünün biçimini seçmesini sağlar. Kullanıcı için şu anda ,5 tür görüntü formatı mevcuttur. Kullanıcı görüntünün biçimini kendi gereksinimine göre değiştirebilir. Bu formatlar webp, png, jpg, jpeg ve gif formatını içerir. Kullanıcı formatı değişmeden tutmak istiyorsa, kullanıcı “Mime türünü girin” adlı seçeneği tercih edebilir. Görüntüyü yükledikten sonra sayfanın alt kısmındaki “Mime türü” seçeneğine erişilebilir ve yapılan değişiklikleri kaydedebilirsiniz."
+            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
+            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently,5 types of image formats are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
         },
         {
-            "question": "LINUX işletim sistemimde safeimagekit.com'daki sıkıştırma png özelliğini kullanabilir miyim?",
-            "answer": "Evet, safeimagekit.com'un sıkıştırma png özelliği, LINUX bile herhangi bir işletim sisteminde kullanılabilir. Kullanıcının MAC OS, Windows ve Ubuntu gibi herhangi bir işletim sisteminde kullanıcı tarafından yüklenen herhangi bir görüntüyü sıkıştırmasına olanak tanıyan en son kod ve özelliklerle inşa edilmiştir, istikrarlı bir internet bağlantısı olan bir cihaz olması şartıyla. Sihirli numara, daha yavaş bir internet bağlantısında bile çalışmasıdır."
+            "question": "Can I use the compress png feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the compress png feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
         },
         {
-            "question": "png dosyasındaki mevcut metni safeimagekit.com adresindeki sıkıştırma png özelliğini kullanarak düzenleyebilir miyiz?",
-            "answer": "Hayır, şu anda safeimagekit.com'daki sıkıştırma png özelliği yalnızca kullanıcının png dosyasını sıkıştırmasını sağlayan, png formatından diğerine, vb. metin düzenleme özellikleri safeimagekit.com'da mevcut değildir. Ancak web sitesindeki güncellemeler yakında tüm heyecan verici özellikleri getirecek."
+            "question": "Can we edit the text present in the png file using the compress png feature from safeimagekit.com?",
+            "answer": "No, currently the compress png feature from safeimagekit.com only offers the features, which enables the user to compress the png file, converting the format of the image from png format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
         },
         {
-            "question": "4k ve 8k görüntüleri safeimagekit.com adresindeki png kompresörü kullanarak düzenleyebilir veya sıkıştırabilir miyiz?",
-            "answer": "Hayır, şu anda safeimagekit.com'un kompresör özelliği yalnızca 1080p çözünürlüğe kadar görüntü düzenleme özellikleri sunuyor. Ancak, 4k görüntü sıkıştırma ve düzenleme seçenekleri safeimagekit.com'da mevcuttur, ancak 8k görüntü işleme kullanılamaz ve web sitesine bir güncelleme olarak gelecek gelecekte eklenecektir."
+            "question": "Can we edit or compress 4k and 8k images using the png compressor from safeimagekit.com?",
+            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
         },
         {
-            "question": "Safeimagekit.com'un png kompresör özelliğini kullanarak tek bir streçte kaç tane png dosyasını düzenleyebiliriz?",
-            "answer": "Şu anda, safeimagekit.com gelen kompresör özelliği tek bir png dosyasını düzenleyebilir ve sıkıştırabilir, çünkü bu araç düzenleme sırasında iyi parametreler gerektirdiğinden, birden fazla png dosyası düzenleme özelliği şu anda dahil değildir, ancak web sitesindeki güncellemeler bunu gelecekte mümkün kılacaktır. "
+            "question": "How many png files can we edit at a single stretch using the png compressor feature from safeimagekit.com?",
+            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single png file, as this tool demands decent parameters while editing, multiple png files editing feature is not included currently, but updates to the website will make this possible in the future. "
         },
         {
-            "question": "Apple iPhone 11'imde safeimagekit.com'daki png kompresör özelliğini kullanabilir miyim? ",
-            "answer": "Evet, safeimagekit.com gelen png kompresör özelliği, kullanıcının Android, iOS, Windows ve Mac OS gibi işletim sistemlerinden bu dönüştürücü aracını kullanabileceği çapraz platform tabanlı bir özelliktir. Kullanılan işletim sistemlerinden bağımsızdır ancak yalnızca internet bağlantısına ve başkalarına sıkıştırılacak şekilde yüklenen png dosyalarının boyutuna bağlıdır."
+            "question": "Can I use the png compressor feature from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, png compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the png files which are uploaded to be compressed into others."
         },
         {
-            "question": "Yüklenen görüntü dosyalarım, safeimagekit.com gelen sıkıştırma png özelliğindeki enfes seçenekleri kullanarak sıkıştırdıktan sonra bozulacak mı?",
-            "answer": "Hayır, safeimagekit.com'un sıkıştırma özelliği, yüklenen png dosyalarının bozulmasına izin vermeyen en son programlar ve güvenlik özellikleri ile oluşturulmuştur. Bu nedenle, yüklenen png dosyaları tamamen güvenli ve güvenlidir. Ayrıca, safeimagekit.com, burada hiçbir png dosyalarının saklanmadığı ve web sayfası kapanır kapanmaz bellekten silindiği sunucudan ücretsiz bir web sitesidir."
+            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress png feature from safeimagekit.com?",
+            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded png files to corrupt. So, the uploaded png files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no png files are stored here, and are wiped from the memory as soon as the webpage is closed."
         },
         {
-            "question": "PNG sıkıştırma aracı üzerinde çalışmayı tamamladıktan sonra dosyalarım kaydedilecek mi? ",
-            "answer": "Hayır, dosyalarınızdan herhangi birini sunucularımıza göndermiyoruz, tüm işlemler tarayıcının kendisinde yapılır, bu nedenle tüm dosyalarınız tamamen güvenlidir. "
+            "question": "Will my file be saved after I complete working on the PNG compresssion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "PNG sıkıştırma aracını kullanmak için ek kaydolma veya ekstra ödeme yapmam gerekiyor mu? ",
-            "answer": "Kesinlikle değil, aracımız tamamen çevrimiçi ve e-posta kimliği, şifreler vb gibi kişisel bilgilerinizi bizimle paylaşmanızı gerektirmez. Aracımız tamamen ücretsizdir."
+            "question": "Do I have to do any additional signup or pay extra to use the PNG compresssion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Herhangi bir sorunla karşılaşırsam veya herhangi bir öneride bulunmak istersem nasıl iletişim kurabilirim?",
-            "answer": "Tüm kullanıcılar tarafından sunulan herhangi bir sorun veya öneriyi memnuniyetle alıyoruz, lütfen daha fazla bilgi için sosyal medya kollarımız aracılığıyla bizimle iletişime geçin. Safeimagekit.com Facebook, Instagram, YouTube ve LinkedIn gibi tüm önde gelen sosyal medya web sitelerinde kullanılabilir."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

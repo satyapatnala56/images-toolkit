@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "내 드라이브에 대한 액세스를 허용해도 안전한가요?",
-            "answer": "예, 드라이브에 대한 액세스를 허용하고 허용하는 것은 절대적으로 안전합니다.우리는 귀하의 사이트를 변경하지 않을 것이며 귀하의 파일은 안전하게 보호될 것입니다."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "드라이브/드롭박스에서 파일을 업로드하려면 어떻게 해야 하나요?",
-            "answer": "드롭다운 화살표를 클릭하고 드롭박스/Google 드라이브를 선택합니다.드라이브를 연결할 Google 계정을 선택합니다.이제 업로드할 파일을 선택할 수 있습니다."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "png 형식의 이미지를 압축하는 동안 safeimagekit.com의 “PNG 압축기” 기능이 제공하는 기능은 무엇입니까?",
-            "answer": "safeimagekit.com의 PNG 압축기 기능은 png 파일을 압축하는 동안 다양한 기능을 제공합니다.주요 기능은 다음과 같습니다.\n높이, 너비 등 이미지의 크기를 조정하여 업로드 된 png 파일 수정 이 png 압축 기능은 업로드 된 png 파일에 따라 최대 또는 최소로 확장 할 수있는 크기를 입력하여 압축을 제공합니다.이 기능은 정확한 회전 조정을 위한 엄격 모드 및 방향 모드도 제공합니다.png 압축기는 또한 이미지의 품질을 조정하는 옵션을 제공하고 사용자가 이미지 형식을 사용자에게 유리하게 변환 할 수 있도록합니다.\n"
+            "question": "What are the features offered by the “PNG compressor” feature from safeimagekit.com while compressing an image with png format?",
+            "answer": "PNG compressor feature from safeimagekit.com offers versatile features while compressing a png file. The main features include\nModifying the uploaded png file by adjusting the dimensions of the image such as height, width, etc. This png compression feature also presents the compression by entering size which can be extended to max or min depending on the png file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The png compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
         },
         {
-            "question": "png 파일을 업로드한 후 safeimagekit.com의 png 압축기 기능에서 제공하는 매개 변수는 무엇입니까?",
-            "answer": "safeimagekit.com의 압축 기능은 png 형식의 이미지를 업로드 한 후 다양한 매개 변수를 제공하며 이러한 매개 변수에는 이미지 이름, 이미지 크기, 이미지 유형 등이 포함됩니다 매개 변수는 마지막으로 수정 된 매개 변수로 시간, 날짜 및 마지막 시간대를 제공합니다수정.또한 업로드 후 업로드된 이미지 파일의 편집을 시작하기 전에 진행률 표시줄을 제공합니다."
+            "question": "What are the parameters provided by the png compressor feature from safeimagekit.com, after we upload a png file?",
+            "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with png format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, where it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
         },
         {
-            "question": "png 파일을 압축하는 동안 safeimagekit.com에서 png 파일에 제공하는 조정 기능은 무엇입니까?",
-            "answer": "safeimagekit.com의 png 파일 압축 기능은 이미지를 압축하는 동안 많은 기능을 제공합니다.너비와 높이와 같은 치수를 조정하여 png 파일의 크기를 조정할 수 있습니다.최대 높이와 최대 너비는 사용자에게 사진 압축의 최대 제한을 제공합니다.최소 너비와 최소 높이는 사용자에게 사진 압축의 최소 제한을 제공합니다.크기 변환 옵션을 사용하면 사용자가 전체를 압축할 수 있습니다."
+            "question": "What are the adjusting features provided by the safeimagekit.com to the png files, while compressing a png file?",
+            "answer": "The png file compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the png file by adjusting the measurements such as width and height. The max-height and the max-width provide the user with a maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
         },
         {
-            "question": "safeimagekit.com의 png 압축기 기능의 품질 조정 옵션은 어떻게 작동합니까?",
-            "answer": "safeimagekit.com의 png 압축기 기능의 품질 조정 옵션은 사용자가 업로드된 png 파일의 전반적인 품질을 결정할 수 있는 중요한 기능입니다.이 기능은 이미지를 업로드한 후 “품질 입력” 공간에서 액세스할 수 있습니다.이렇게 하면 선명도, 대비, 흐림 (소량) 및 기타 여러 이미지 매개 변수가 전체적으로 조정됩니다.사용자는 0.1부터 1까지의 척도로 측정을 결정할 수 있습니다.업로드된 이미지의 품질을 변경하지 않으려면 이 옵션을 건너뛸 수 있습니다."
+            "question": "How does the quality adjustment option of the png compressor feature from safeimagekit.com work?",
+            "answer": "The quality adjustment option of the png compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the png file uploaded. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
         },
         {
-            "question": "safeimagekit.com의 컴프레서 기능의 “마임 유형” 옵션은 어떻게 작동합니까?",
-            "answer": "safeimagekit.com의 압축기 기능의 “마임 유형” 옵션을 사용하면 사용자가 safeimagekit.com의 압축기 도구를 사용하여 이미지를 압축한 후 이미지의 형식을 선택할 수 있습니다.현재 사용자는 5가지 유형의 이미지 형식을 사용할 수 있습니다.사용자는 자신의 요구 사항에 따라 이미지 형식을 변경할 수 있습니다.이러한 형식에는 webp, png, jpg, jpeg 및 gif 형식이 포함됩니다.형식을 변경하지 않고 유지하려는 경우 사용자는 “MIME 유형 입력”이라는 옵션을 선택할 수 있습니다.이미지를 업로드한 후 페이지 하단에서 “Mime type” 옵션에 액세스하여 변경 사항을 저장할 수 있습니다."
+            "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
+            "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently,5 types of image formats are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
         },
         {
-            "question": "리눅스 운영 체제에서 safeimagekit.com의 png 압축 기능을 사용할 수 있습니까?",
-            "answer": "예, safeimagekit.com의 png 압축 기능은 리눅스를 포함한 모든 운영 체제에서 사용할 수 있습니다.안정적인 인터넷 연결이 가능한 장치가있는 경우 MAC OS, Windows 및 Ubuntu와 같은 모든 운영 체제에서 사용자가 업로드 한 이미지를 압축 할 수있는 최신 코드와 기능으로 구축되었습니다.마술은 느린 인터넷 연결에서도 작동한다는 것입니다."
+            "question": "Can I use the compress png feature from safeimagekit.com on my LINUX operating system?",
+            "answer": "Yes, the compress png feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
         },
         {
-            "question": "safeimagekit.com의 png 압축 기능을 사용하여 png 파일에있는 텍스트를 편집 할 수 있습니까?",
-            "answer": "아니요, 현재 safeimagekit.com의 png 압축 기능은 사용자가 png 파일을 압축하고 이미지 형식을 png 형식에서 다른 형식으로 변환 할 수있는 기능 만 제공합니다. safeimagekit.com에서는 텍스트 편집 기능을 사용할 수 없습니다.그러나 웹 사이트를 업데이트하면 곧 모든 흥미로운 기능이 제공 될 것입니다."
+            "question": "Can we edit the text present in the png file using the compress png feature from safeimagekit.com?",
+            "answer": "No, currently the compress png feature from safeimagekit.com only offers the features, which enables the user to compress the png file, converting the format of the image from png format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
         },
         {
-            "question": "safeimagekit.com의 png 압축기를 사용하여 4k 및 8k 이미지를 편집하거나 압축할 수 있습니까?",
-            "answer": "아니요, 현재 safeimagekit.com의 압축기 기능은 최고 1080p의 이미지 편집 기능만 제공합니다.그러나 safeimagekit.com에는 4k 이미지 압축 및 편집 옵션이 있지만 8k 이미지 처리는 사용할 수 없으며 향후 웹 사이트 업데이트로 포함될 예정입니다."
+            "question": "Can we edit or compress 4k and 8k images using the png compressor from safeimagekit.com?",
+            "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
         },
         {
-            "question": "safeimagekit.com의 png 압축기 기능을 사용하여 한 번에 몇 개의 png 파일을 편집할 수 있습니까?",
-            "answer": "현재 safeimagekit.com의 압축기 기능은 단일 png 파일을 편집하고 압축 할 수 있습니다. 이 도구는 편집하는 동안 적절한 매개 변수를 요구하므로 여러 png 파일 편집 기능은 현재 포함되어 있지 않지만 웹 사이트를 업데이트하면 앞으로이를 가능하게 할 것입니다. "
+            "question": "How many png files can we edit at a single stretch using the png compressor feature from safeimagekit.com?",
+            "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single png file, as this tool demands decent parameters while editing, multiple png files editing feature is not included currently, but updates to the website will make this possible in the future. "
         },
         {
-            "question": "애플 아이폰 11에서 safeimagekit.com의 png 압축기 기능을 사용할 수 있나요? ",
-            "answer": "예, safeimagekit.com의 png 압축기 기능은 크로스 플랫폼 기반 기능으로, 사용자는 안드로이드, iOS, 윈도우 및 Mac OS와 같은 운영 체제에서이 변환기 도구를 사용할 수 있습니다.사용되는 운영 체제와 독립적이지만 인터넷 연결 및 다른 파일로 압축하기 위해 업로드되는 png 파일의 크기에만 의존합니다."
+            "question": "Can I use the png compressor feature from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, png compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the png files which are uploaded to be compressed into others."
         },
         {
-            "question": "업로드 된 이미지 파일이 safeimagekit.com의 png 압축 기능에있는 정교한 옵션을 사용하여 압축 한 후 손상됩니까?",
-            "answer": "아니요, safeimagekit.com의 압축 기능은 업로드 된 png 파일이 손상되지 않도록하는 모든 최신 프로그램과 보안 기능으로 구축되었습니다.따라서 업로드 된 png 파일은 완전히 안전하고 안전합니다.또한 safeimagekit.com은 서버가 필요없는 웹 사이트이므로 여기에 png 파일이 저장되지 않고 웹 페이지가 닫히는 즉시 메모리에서 지워집니다."
+            "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress png feature from safeimagekit.com?",
+            "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded png files to corrupt. So, the uploaded png files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no png files are stored here, and are wiped from the memory as soon as the webpage is closed."
         },
         {
-            "question": "PNG 압축 도구 작업을 완료한 후 내 파일이 저장되나요? ",
-            "answer": "아니요, 귀하의 파일을 저희 서버로 보내지 않습니다. 모든 작업은 브라우저 자체에서 수행되므로 모든 파일은 완전히 안전합니다. "
+            "question": "Will my file be saved after I complete working on the PNG compresssion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "PNG 압축 도구를 사용하려면 추가 가입이나 추가 비용을 지불해야 하나요? ",
-            "answer": "우리의 도구는 완전히 온라인 상태이며 이메일 ID, 암호 등과 같은 개인 정보를 우리와 공유 할 필요가 없습니다."
+            "question": "Do I have to do any additional signup or pay extra to use the PNG compresssion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "문제가 발생하거나 제안을 하고 싶은 경우 어떻게 소통해야 합니까?",
-            "answer": "모든 사용자가 제공하는 문제 나 제안을 기꺼이 받아들입니다. 자세한 내용은 소셜 미디어 핸들을 통해 문의하십시오.SafeImagekit.com은 페이스북, 인스타그램, 유튜브, 링크드인 등과 같은 모든 주요 소셜 미디어 웹사이트에서 사용할 수 있습니다."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

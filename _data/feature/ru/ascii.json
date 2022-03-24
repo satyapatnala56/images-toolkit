@@ -64,76 +64,76 @@
     ],
     "FAQ": [
         {
-            "question": "Безопасно ли разрешить доступ к моему диску?",
-            "answer": "Да, разрешить и предоставить нам доступ к вашему диску абсолютно безопасно. Мы не будем вносить никаких изменений в ваш сайт, и ваши файлы будут в безопасности с вами."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Как загрузить файлы со своего диска/dropbox?",
-            "answer": "Нажмите на стрелку вниз и выберите Dropbox/Google Drive. Выберите учетную запись Google, из которой вы хотите привязать диск. Теперь вы можете выбрать файлы, которые хотите загрузить."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Что такое искусство ASCII и как оно используется?",
-            "answer": "Искусство ASCII - это техника графического дизайна, которая использует компьютеры для презентации и состоит из изображений, собранных из 95 печатных (из 128) символов, определенных стандартом ASCII от 1963 года, и совместимых с ASCII наборов символов с собственными расширенными символами (помимо 128 символов). Базовая графика ASCII состоит из простых символов, которые включают запятые, точки, двоеточия и т. Д."
+            "question": "What is ASCII art and how is it used?",
+            "answer": "ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters). The basic ASCII art is made up of simple based characters which include commas, full stops, and colons, etc."
         },
         {
-            "question": "Какие функции предлагает генератор изображений в ASCII с safeimagekit.com при преобразовании изображения в искусство ASCII?",
-            "answer": "Инструмент генератора изображений в ASCII от safeimagekit.com предлагает универсальные функции при преобразовании изображения в искусство ASCII. Основные функции включают в себя преобразование изображения в форму искусства ASCII, загрузку рисунка ASCII и т. Д."
+            "question": "What are the features offered by the image to ASCII art generator from safeimagekit.com while, converting an image to ASCII art?",
+            "answer": "The image to ASCII art generator tool from safeimagekit.com offers versatile features while converting an image to ASCII art. The main features include- conversion of the image to an ASCII art form, downloading the ASCII art, etc. Many more features are yet to join the website."
         },
         {
-            "question": "Как преобразовать изображение в ASCII, используя генератор изображений в ASCII от safeimagekit.com?",
-            "answer": "Существует 3 основных шага, с помощью которых пользователь может легко преобразовать изображение в ASCII art:\n- Загрузите файл изображения, который необходимо преобразовать в указанное место.\n- Подождите, пока загруженный файл изображения не преобразуется в формат ASCII.\n- Загрузите форму искусства ASCII, используя опцию «скачать»."
+            "question": "How do we convert an image to ASCII art using the image to ASCII art generator from safeimagekit.com?",
+            "answer": "There are 3 basic steps using which the user can easily convert the image to ASCII art-\n-\tUpload the image file which needs a conversion in the space given.\n-\tWait until the uploaded image file converts into an ASCII art format.\n-\tDownload the ASCII art form using the option called “download”."
         },
         {
-            "question": "Какие форматы изображений поддерживаются генератором изображений в ASCII при преобразовании изображения в ASCII?",
-            "answer": "Генератор изображений в ASCII от safeimagekit.com поддерживает все ведущие и популярные форматы изображений. К ним относятся:\n- формат png\n- формат Jpeg\n- формат jpg\n- Raw формат и т.д."
+            "question": "Which are the image formats supported by the image to ASCII art generator while converting an image to ASCII art?",
+            "answer": "The image to ASCII art generator from safeimagekit.com supports all the leading and popular image formats out there. These include-\n-\tPng format\n-\tJpeg format\n-\tJpg format\n-\tRaw format, etc."
         },
         {
-            "question": "Сколько файлов изображений мы можем конвертировать за один отрезок с помощью инструмента конвертации изображений в ASCII от safeimagekit.com?",
-            "answer": "В настоящее время инструмент конвертации изображений в ASCII от safeimagekit.com может конвертировать файлы изображений один за другим. Инструмент конвертера от safeimagekit.com должен пройти через множество кодов, что немного затрудняет несколько преобразований. Но обновления веб-сайта принесут все интересные функции в будущем."
+            "question": "How many image files can we convert at a single stretch using the image to ASCII art converter tool from safeimagekit.com?",
+            "answer": "Currently, the image to ASCII art converter tool from safeimagekit.com can convert the image files one by one. The converter tool from safeimagekit.com do have to go through a staple of codes which makes multiple conversions a bit difficult. But, updates to the website will bring all the exciting features in the future."
         },
         {
-            "question": "Могу ли я загрузить и преобразовать файл изображения jpeg в формат ASCII с помощью конвертера изображений в ASCII?",
-            "answer": "Да, пользователь может загрузить и преобразовать файл изображения jpeg в формат ASCII с помощью конвертера изображений в ASCII. Однако после преобразования сгенерированная картинка ASCII будет доступна только в формате png. Таким образом, пользователь может загрузить изображение любого формата и преобразовать его в ASCII art."
+            "question": "Can I upload and convert my jpeg image file to an ASCII art format using the image to ASCII art converter?",
+            "answer": "Yes, the user can upload and convert the jpeg image file to an ASCII art format using the image to ASCII art converter. However, after conversion, the ASCII art which is generated will be available in png format only. So, the user can upload any format of an image and can convert his image to ASCII art."
         },
         {
-            "question": "Нужно ли нам использовать какое-либо дополнительное программное обеспечение для загрузки наших изображений после конвертации с помощью конвертера изображений в ASCII с safeimagekit.com?",
-            "answer": "Нет, пользователи после преобразования своих изображений в ASCII могут нажать кнопку загрузки, указанную ниже, и загрузить ASCII арт. Это браузерный конвертер, который не поддерживает или не требует дополнительного программного обеспечения для загрузки форм искусства ASCII."
+            "question": "Do we have to use any additional software to download our images after conversion using the image to ASCII art converter from safeimagekit.com?",
+            "answer": "No, the users after converting their images to ASCII art can hit the download the option which is given below and can download the ASCII art. It is a browser-based converter tool that does not support or no additional software is required to download the ASCII art forms."
         },
         {
-            "question": "Могу ли я использовать инструмент конвертации изображений в ASCII с сайта safeimagekit.com, не имея знаний об основах программирования на C?",
-            "answer": "Да, наш инструмент конвертации изображений в ASCII от safeimagekit.com может использоваться всеми. Наш генератор изображений в ASCII очень прост для понимания, и для работы с нашим инструментом не требуется никаких профессиональных знаний о программировании на C-."
+            "question": "Can I use the image to ASCII art converter tool from safeimagekit.com without having any knowledge about basic C-programming?",
+            "answer": "Yes, our image to ASCII art converter tool from safeimagekit.com can be used by everybody. Our image to ASCII art generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
         },
         {
-            "question": "Будет ли загруженный файл изображения поврежден после преобразования с использованием параметров преобразования, присутствующих в инструменте преобразования изображения в ASCII от safeimagekit.com?",
-            "answer": "Нет, safeimagekit.com содержит все новейшие программы и функции безопасности, которые не позволяют загруженным файлам изображений повреждаться. Таким образом, загруженные файлы изображений полностью безопасны и защищены."
+            "question": "Will my uploaded image file corrupt after converting them using the conversion options present in the image to ASCII art conversion tool from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Могу ли я использовать конвертер изображений в ASCII с сайта safeimagekit.com на моем Apple iPhone 12? ",
-            "answer": "Да, инструмент конвертации изображений в ASCII от safeimagekit.com представляет собой кроссплатформенный веб-сайт, на котором пользователь может использовать этот конвертер из операционных систем, таких как Android, iOS, Windows и Mac OS. Он не зависит от используемых операционных систем, но зависит только от подключения к Интернету и размера файла изображения, который загружается для преобразования в ASCII-арт."
+            "question": "Can I use the image to ASCII art converter tool from safeimagekit.com on my Apple iPhone 12? ",
+            "answer": "Yes, the image to ASCII art converter tool from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the image file which is uploaded to be converted into ASCII art."
         },
         {
-            "question": "Могу ли я использовать инструмент конвертации изображений в ASCII от safeimagekit.com в Windows 8?",
-            "answer": "Инструмент конвертации изображений в ASCII - это универсальная функция, предлагаемая safeimagekit.com, которая поддерживается всеми операционными системами, такими как Windows 8, Linux и даже Ubuntu. Все, что нужно, это устройство, чтобы открыть файл расширения с помощью веб-сайта www.safeimagekit.com и обычного подключения к Интернету. Интересный факт заключается в том, что он может работать даже при медленном подключении к Интернету."
+            "question": "Can I use the image to ASCII art converter tool from safeimagekit.com on my Windows 8?",
+            "answer": "The image to ASCII art converter tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Что произойдет с нашим прогрессом, если мы обновим наш браузер во время использования инструмента конвертации изображений в ASCII от safeimagekit.com?",
-            "answer": "Инструмент конвертации изображений в ASCII от safeimagekit.com не подключен к какому-либо серверу, поэтому данные, над которыми работает пользователь, нигде не будут храниться, и в результате они будут мгновенно удалены, когда пользователь обновит браузер, над которым он работает. Преобразуемый файл изображения также будет удален после выхода пользователя или закрытия вкладки, на которой открыта страница расширения веб-сайта."
+            "question": "What will happen to our progress if we refresh our browser while we are using the image to ASCII art converter tool from safeimagekit.com?",
+            "answer": "The image to ASCII art converter tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Можем ли мы отредактировать текст, присутствующий в файле изображения, с помощью инструмента конвертации изображений в ASCII от safeimagekit.com?",
-            "answer": "Нет, в настоящее время safeimagekit.com поддерживает только опцию преобразования файла изображения, загруженного в ASCII art, и мы не можем редактировать текст, присутствующий в файле изображения. Но обновления на сайте скоро добавят все интересные функции."
+            "question": "Can we edit the text present in the image file using the image to ASCII art converter tool from safeimagekit.com?",
+            "answer": "No, currently safeimagekit.com only supports the option to convert the image file uploaded to ASCII art, and we cannot edit the text present on the image file. But updates to the website will bring all the exciting features soon."
         },
         {
-            "question": "Будет ли мой файл сохранен после завершения работы над инструментом преобразования картинки в ascii? ",
-            "answer": "Нет, мы не отправляем ваши файлы на наши серверы, все операции выполняются в самом браузере, поэтому все ваши файлы полностью безопасны. "
+            "question": "Will my file be saved after I complete working on the picture to ascii conversion tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Нужно ли мне делать дополнительную регистрацию или доплачивать, чтобы использовать инструмент преобразования изображения в ascii? ",
-            "answer": "Абсолютно нет, наш инструмент полностью онлайн и не требует от вас предоставления нам какой-либо личной информации, такой как идентификатор электронной почты, пароли и т. д."
+            "question": "Do I have to do any additional signup or pay extra to use the picture to ascii conversion tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Как мне связаться, если у меня возникнут какие-либо проблемы или я хочу высказать предложения?",
-            "answer": "Мы с радостью примем любые вопросы или предложения, предложенные всеми пользователями. Пожалуйста, свяжитесь с нами через наши социальные сети для получения дополнительной информации. SafeImageKit.com доступен во всех ведущих социальных сетях, таких как Facebook, Instagram, YouTube, LinkedIn и т. Д."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

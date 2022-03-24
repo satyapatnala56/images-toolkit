@@ -1,14 +1,14 @@
 {
     "Language": "Українська",
     "htmlLangAtt": "uk",
-    "H1": "Розширений генератор мемів онлайн",
+    "H1": "Генератор мемів",
     "img": "/img/meme.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "успіху",
-    "H2": "Створення мемів тепер легко нами, почніть з завантаження файлу нижче",
+    "H2": "Інтернет Meme maker було легко з нами, почніть з завантаження файлу нижче",
     "TITLE": "Генератор мемів- онлайн виробник мемів- safeimagekit",
     "META": "Ви шукаєте високоякісний генератор мемів? Ну, тоді ви в потрібному місці. Наш онлайн-інструмент для створення мемів надзвичайно безпечний, зручний та надзвичайно швидкий.",
     "width": "",
@@ -67,64 +67,64 @@
     },
     "FAQ": [
         {
-            "question": "Чи безпечно дозволити доступ до мого диска?",
-            "answer": "Так, це абсолютно безпечно, щоб дозволити і надати нам доступ до вашого диска. Ми не будемо вносити будь-які зміни на ваш сайт, і ваші dfiles будуть в безпеці з вами."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Як я можу завантажити файли з мого диска/dropbox?",
-            "answer": "Натисніть на стрілку, що випадає і виберіть Dropbox/Google Drive. Виберіть обліковий запис Google, звідки ви хочете зв'язати свій накопичувач. Тепер ви можете вибрати файли, які ви хочете завантажити."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Які функції пропонуються генератором мемів від safeimagekit.com під час створення мему із зображення?",
-            "answer": "Інструмент генератора мемів від safeimagekit.com пропонує універсальні функції під час створення мема із завантаженого зображення. До основних особливостей можна віднести\n- Вставка тексту на завантажений файл зображення.\n- Регулювання прозорості вивантаженого тексту.\n- Налаштування розміру шрифту тексту, який потрібно вставити.\n- Зміна значення обведення\n- Вставка зображення на зображення\n- Налаштування значення тіні на завантаженому файлі зображення.\n- Зміна тексту курсивом.\n- Регулювання сміливості тексту, який потрібно вставити.\n- Підкреслення особливостей тексту.\n- Оновлення мема з варіантами кольору."
+            "question": "What are the features offered by the meme generator from safeimagekit.com while crafting a meme from an image?",
+            "answer": "The meme generator tool from safeimagekit.com offers versatile features while crafting a meme from the uploaded image. The main features include\n-\tInsertion of text on the uploaded image file.\n-\tAdjusting the transparency of the text uploaded.\n-\tAdjusting the font size of the text to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image on an image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the text by Italics.\n-\tAdjusting the boldness of the text to be inserted.\n-\tUnderlining features of the text.\n-\tUpgrading the meme with color options."
         },
         {
-            "question": "Як працює опція вставки тексту генератора мемів з safeimagekit.com?",
-            "answer": "Опція вставки тексту генератора мемів з safeimagekit.com, дозволяє користувачеві додати текст у файл зображення, який буде згенерований як мем. Доданий текст можна регулювати та змінювати за допомогою декількох функцій, таких як регулювання кольору, товщина тексту тощо. Параметри налаштування кольору дозволяють користувачеві додавати колір до тексту, з іншого боку, товщина тексту дозволяє користувачеві регулювати розмір тексту."
+            "question": "How does the text insertion option of meme generator from safeimagekit.com work?",
+            "answer": "The text insertion option of meme generator from safeimagekit.com, lets the user add text on the image file which is to be generated as a meme. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text."
         },
         {
-            "question": "Як працює опція регулювання прозорості генератора мемів від safeimagekit.com?",
-            "answer": "Параметр налаштування прозорості генератора мемів від safeimagekit.com дозволяє користувачеві налаштувати прозорість та непрозорість тексту або завантаженого зображення. Цей параметр доступний у середній частині сторінки, параметр прозорості надається у масштабі від 0,1 до 1. Це регулювання проводиться і може бути збережено, натиснувши опцію збереження. "
+            "question": "How does the transparency adjustment option of the meme generator from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the meme generator from safeimagekit.com lets the user adjust the transparency and opacity of the text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. "
         },
         {
-            "question": "Як налаштувати розмір шрифту тексту під час генерації мема за допомогою генератора мемів з safeimagekit.com?",
-            "answer": "Розмір шрифту тексту при генерації мема за допомогою генератора мемів з safeimagekit.com можна регулювати, ввівши коефіцієнт розміру. Доступ до цього параметра можна отримати, ввівши допустимий розмір у просторі з назвою «Введіть розмір шрифту». Розмір можна налаштувати, ввівши значення в цьому просторі. Розмір шрифту тексту можна збільшити, ввівши значення, які знаходяться в додатному (+) значенні. Розмір шрифту тексту можна зменшити, ввівши значення, що знаходяться в від'ємному (-) значенні."
+            "question": "How do we adjust the font size of the text while generating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The font size of the text while generating a meme using the meme generator from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "Як працює значення обведення при перетворенні зображення в генераторі мемів з safeimagekit.com?",
-            "answer": "Значення обведення генератора мемів від safeimagekit.com працює шляхом коригування кольору тексту або зображення, яке вставляється в зображення для редагування. До цього значення можна отримати, ввівши значення в наданому просторі під назвою «Введіть значення обведення». Значення обведення зображення при перетворенні його в мем можна регулювати, ввівши позитивне значення (+) для збільшення обведення. Значення обведення можна зменшити, ввівши від'ємне значення (-) для зменшення обведення."
+            "question": "How does the stroke value work in the image conversion in meme generator from safeimagekit.com?",
+            "answer": "The stroke value of the meme generator from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
         },
         {
-            "question": "Чи можемо ми вставити зображення на інше зображення під час створення мему за допомогою генератора мемів з safeimagekit.com?",
-            "answer": "Так, генератор мемів від safeimagekit.com надає можливість вставити зображення на інше зображення під час створення мема. Ця функція може бути доступна в нижній частині сторінки з назвою «Завантажити зображення». Ця функція дозволяє нам вставляти зображення на інше зображення, це номінальна особливість, де ми можемо вставити будь-який тип зображення на будь-який тип зображення. Зображення після редагування та вставки можна зберегти, натиснувши опцію під назвою «зберегти», це зберігає прогрес, який досягається до зображення."
+            "question": "Can we insert an image on another image while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com does provide the option to insert an image on another image while creating a meme. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "Чи можемо ми перетворити наш текст курсивом, який вводиться на зображенні під редагуванням, створюючи мем за допомогою генератора мемів з safeimagekit.com?",
-            "answer": "Так, генератор мемів від safeimagekit.com дозволяє користувачеві конвертувати текст, який вводиться на зображенні, у формат курсиву. До цієї функції можна отримати доступ, натиснувши кнопку «Я», яка розшифровується курсивом, це перетворює текст, присутній на зображенні, у форму курсиву. Після перетворення натисніть кнопку під назвою «зберегти». Це зберігає прогрес, який робиться в зображенні."
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "Чи можемо ми перетворити наш текст з простого жирного, який вводиться на зображенні під редагуванням, створюючи мем за допомогою генератора мемів від safeimagekit.com?",
-            "answer": "Так, генератор мемів від safeimagekit.com дозволяє користувачеві перетворити простий текст у жирний текст, який вводиться на зображенні. Доступ до цієї функції можна отримати, натиснувши кнопку «B», яка означає напівжирний, це перетворює звичайний текст, присутній на зображенні, на жирний текст. Після перетворення натисніть кнопку під назвою «зберегти». Це зберігає прогрес, який робиться в зображенні."
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Чи можемо ми підкреслити текст, який написаний на зображенні, що знаходиться під редагуванням, створюючи при цьому мем за допомогою генератора мемів від safeimagekit.com?",
-            "answer": "Так, генератор мемів від safeimagekit.com дозволяє користувачеві підкреслити текст, який вставляється в зображення. Доступ до цієї функції можна отримати, натиснувши кнопку «U», яка означає Підкреслення, це перетворює текст (звичайний) у підкреслений текст на зображенні. Після перетворення натисніть кнопку під назвою «зберегти». Це зберігає прогрес, який робиться в зображенні."
+            "question": "Can we underline the text, which is written on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user to underline the text which is inserted into the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "Як ми можемо розфарбувати текст, який вводиться на зображенні під редагування, створюючи мем за допомогою генератора мемів з safeimagekit.com?",
-            "answer": "Генератор мемів від safeimagekit.com дозволяє користувачеві колір тексту на зображенні, до цієї опції можна отримати доступ, натиснувши чорне поле поруч з кожною основною функцією, після натискання на чорне поле кольорове поле спливає і користувач може отримати доступ до будь-якого кольору для малювання на тексті."
+            "question": "How can we color the text which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The meme generator from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
         },
         {
-            "question": "Чи буде мій файл збережений після завершення роботи над інструментом генератора мемів? ",
-            "answer": "Ні, ми не надсилаємо жодного з ваших файлів на наші сервери, всі операції виконуються на самому браузері, тому всі ваші файли повністю безпечні. "
+            "question": "Will my file be saved after I complete working on the meme generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Чи потрібно мені робити додаткову реєстрацію або доплачувати, щоб використовувати інструмент генератора мемів? ",
-            "answer": "Абсолютно ні, наш інструмент повністю онлайн і не вимагає від вас ділитися будь-якою вашою особистою інформацією з нами, як ідентифікатор електронної пошти, паролі тощо Наш інструмент абсолютно безкоштовний."
+            "question": "Do I have to do any additional signup or pay extra to use the meme generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Як мені спілкуватися, якщо я стикаюся з будь-якими проблемами або якщо я хочу дати якісь пропозиції?",
-            "answer": "Ми з радістю приймаємо будь-які питання або пропозиції, пропоновані всіма користувачами, будь ласка, зв'яжіться з нами через наші ручки соціальних медіа для отримання додаткової інформації. Safeimagekit.com доступний на всіх провідних веб-сайтах соціальних медіа, таких як Facebook, Instagram, YouTube та LinkedIn тощо."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

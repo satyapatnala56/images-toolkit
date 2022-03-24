@@ -66,72 +66,72 @@
     },
     "FAQ": [
         {
-            "question": "Có an toàn để cho phép truy cập vào ổ đĩa của tôi?",
-            "answer": "Có, nó là hoàn toàn an toàn để cho phép và cung cấp cho chúng tôi quyền truy cập vào ổ đĩa của bạn. Chúng tôi sẽ không thực hiện bất kỳ thay đổi nào đối với trang web của bạn và dfiles của bạn sẽ được an toàn với bạn."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Làm cách nào tôi có thể tải lên tệp từ ổ đĩa/dropbox của tôi?",
-            "answer": "Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive. Chọn tài khoản Google từ nơi bạn muốn liên kết ổ đĩa của mình. Bây giờ bạn có thể chọn các tệp mà bạn muốn tải lên."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Các tính năng được cung cấp bởi tính năng so sánh hình ảnh từ safeimagekit.com trong khi so sánh hai hình ảnh là gì?",
-            "answer": "Tính năng so sánh hình ảnh từ safeimagekit.com cung cấp các tính năng linh hoạt trong khi so sánh hai tính năng. Các tính năng chính bao gồm \n- So sánh hai hình ảnh trên cơ sở thanh trượt\n- So sánh hai hình ảnh dựa trên các pixel.\n- So sánh hai hình ảnh dựa trên thông tin.\n- So sánh hai hình ảnh dựa trên hiệu ứng mờ dần.\nCác phương pháp so sánh được đề cập này là cơ bản trong tự nhiên trong đó chúng được so sánh và kết quả so sánh của chúng được hiển thị trực tiếp trên màn hình."
+            "question": "What are the features offered by the image comparison feature from safeimagekit.com while comparing two images?",
+            "answer": "The image comparison feature from safeimagekit.com offers versatile features while comparing two features. The main features include \n-\tComparison of two images on the slider basis\n-\tComparison of two images based on the pixels.\n-\tComparison of two images based on the information.\n-\tComparison of two images based on the fade effect.\nThese mentioned comparison methods are basic in nature wherein they are compared and the result of their comparison is directly shown on the screen."
         },
         {
-            "question": "Làm thế nào chúng ta có thể so sánh hai hình ảnh dựa trên so sánh thanh trượt của tính năng so sánh hình ảnh từ safeimagekit.com?",
-            "answer": "Bước đầu tiên bao gồm tải lên các hình ảnh cần so sánh. Bước tiếp theo là nhấp vào pin có tên “thanh trượt”, điều này kích hoạt so sánh dựa trên thanh trượt. Kết quả so sánh của chúng được hiển thị trực tiếp trên màn hình."
+            "question": "How can we compare two images based on the slider comparison of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “slider” this activates the slider-based comparison. The result of their comparison is shown directly on the screen."
         },
         {
-            "question": "Làm thế nào chúng ta có thể so sánh hai hình ảnh dựa trên phương pháp so sánh pixel của tính năng so sánh hình ảnh từ safeimagekit.com?",
-            "answer": "Bước đầu tiên bao gồm tải lên các hình ảnh cần so sánh. Bước tiếp theo là nhấp vào pin có tên “pixel”, điều này kích hoạt so sánh dựa trên pixel. Các pixel của hình ảnh đầu tiên được hiển thị trên hình ảnh thứ hai, Kết quả so sánh của chúng được hiển thị trực tiếp trên màn hình, trong đó chúng ta so sánh các pixel của hình ảnh đầu tiên trên hình ảnh thứ hai"
+            "question": "How can we compare two images based on the pixel comparison method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “pixel” this activates the pixel-based comparison. The pixels of the first image are shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the pixels of the first image over the second one"
         },
         {
-            "question": "Làm thế nào chúng ta có thể so sánh hai hình ảnh dựa trên phương pháp hiệu ứng mờ dần của tính năng so sánh hình ảnh từ safeimagekit.com?",
-            "answer": "Bước đầu tiên bao gồm tải lên các hình ảnh cần so sánh. Bước tiếp theo là nhấp vào pin có tên là “fade”, điều này sẽ kích hoạt so sánh dựa trên hiệu ứng mờ dần. Cấu trúc mờ dần của hình ảnh đầu tiên được hiển thị trên hình ảnh thứ hai, Kết quả so sánh của chúng được hiển thị trực tiếp trên màn hình, trong đó chúng ta so sánh bản chất của hình ảnh đầu tiên trên hình ảnh thứ hai."
+            "question": "How can we compare two images based on the fade effect method of the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading the images which need a comparison. The next step is clicking on the pin named “fade” this activates the fade effect-based comparison. The faded structure of the first image is shown on the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image."
         },
         {
-            "question": "Làm thế nào chúng ta có thể so sánh hai hình ảnh dựa trên số liệu thống kê thông tin của hình ảnh được tải lên bằng cách sử dụng tính năng so sánh hình ảnh từ safeimagekit.com?",
-            "answer": "Bước đầu tiên bao gồm tải lên các hình ảnh cần so sánh. Bước tiếp theo là nhấp vào ghim có tên là “thông tin”, điều này kích hoạt so sánh dựa trên thông tin. Thông tin của hình ảnh đầu tiên được hiển thị bên cạnh hình ảnh thứ hai, Kết quả so sánh của chúng được hiển thị trực tiếp trên màn hình, trong đó chúng ta so sánh bản chất của hình ảnh đầu tiên trên hình ảnh thứ hai bằng cách so sánh các số liệu thống kê của hình ảnh."
+            "question": "How can we compare two images based on the info stats of the images uploaded using the image comparison feature from safeimagekit.com?",
+            "answer": "The first step includes uploading of the images which need a comparison. The next step is clicking on the pin named “info” this activates the info-based comparison. The information of the first image is shown beside the second image, The result of their comparison is shown directly on the screen, wherein we compare the nature of the first image over the second image by comparing the stats of the image."
         },
         {
-            "question": "So sánh dựa trên thông tin của tính năng so sánh hình ảnh từ safeimagekit.com hoạt động như thế nào?",
-            "answer": "So sánh dựa trên thông tin của tính năng so sánh hình ảnh từ safeimagekit.com hoạt động bằng cách so sánh các thuộc tính của hình ảnh được tải lên. Các thuộc tính này bao gồm tên của hình ảnh, kích thước của hình ảnh, loại hình ảnh, chiều cao của hình ảnh, chiều rộng của hình ảnh. Người dùng có thể so sánh các hình ảnh bằng cách làm theo các thuộc tính này."
+            "question": "How does the info-based comparison of the image comparison feature from safeimagekit.com works?",
+            "answer": "The info-based comparison of the compare image feature from safeimagekit.com works by comparing the properties of the images uploaded. These properties include the name of the image, the size of the image, the type of the image, the height of the image, the width of the image. The user can compare the images by following these properties."
         },
         {
-            "question": "Tôi có thể sử dụng tính năng so sánh hình ảnh từ safeimagekit.com trên Windows 8 ultimate của tôi không?",
-            "answer": "So sánh tính năng hình ảnh là một tính năng linh hoạt được cung cấp bởi safeimagekit.com được hỗ trợ bởi tất cả các hệ điều hành ngoài kia như Windows 8, Linux, và thậm chí Ubuntu. Tất cả những gì cần là một thiết bị để mở tệp mở rộng bằng cách sử dụng trang web www.safeimagekit.com và kết nối internet bình thường để đứng trên. Thực tế thú vị là nó thậm chí có thể chạy trên kết nối internet chậm hơn."
+            "question": "Can I use the compare image feature from safeimagekit.com on my Windows 8 ultimate?",
+            "answer": "Compare image feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Tôi có thể sử dụng tính năng so sánh hình ảnh từ safeimagekit.com trên thiết bị Android của mình không? ",
-            "answer": "Có, so sánh tính năng hình ảnh từ safeimagekit.com là một tính năng dựa trên nền tảng, nơi người dùng có thể sử dụng công cụ chuyển đổi này từ các hệ điều hành như Android, iOS, Windows và Mac OS. Nó độc lập với các hệ điều hành được sử dụng nhưng chỉ phụ thuộc vào kết nối internet."
+            "question": "Can I use the compare image feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, compare image feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "Chúng ta có phải sử dụng bất kỳ phần mềm bổ sung nào để tải xuống hình ảnh đã sửa đổi sau khi chuyển đổi bằng tính năng so sánh hình ảnh từ safeimagekit.com không?",
-            "answer": "Không, người dùng sau khi so sánh hình ảnh của họ bằng cách nhập hình ảnh tương ứng của họ, sau tất cả, tính năng này không cung cấp tùy chọn để tải xuống. Kết quả so sánh của chúng được hiển thị trực tiếp trên màn hình để hình ảnh được so sánh trực tiếp. Nó là một công cụ chuyển đổi dựa trên trình duyệt không hỗ trợ hoặc không cần phần mềm bổ sung để tải xuống hình ảnh đã sửa đổi."
+            "question": "Do we have to use any additional software to download the modified images after conversion using the compare image feature from safeimagekit.com?",
+            "answer": "No, the users after comparing their images by entering their respective images, after all, this feature does not provide an option to download. The result of their comparison is shown directly on the screen so that the images are compared directly. It is a browser-based converter tool that does not support or no additional software is required to download the modified image."
         },
         {
-            "question": "Điều gì sẽ xảy ra với tiến trình của chúng tôi nếu chúng tôi làm mới trình duyệt của mình trong khi chúng tôi đang sử dụng công cụ so sánh hình ảnh từ safeimagekit.com?",
-            "answer": "Công cụ so sánh hình ảnh từ safeimagekit.com không được kết nối với bất kỳ máy chủ nào ngoài kia, vì vậy dữ liệu mà người dùng đang làm việc sẽ không được lưu trữ ở bất cứ đâu và kết quả là, nó sẽ bị xóa ngay lập tức khi người dùng làm mới trình duyệt mà anh ta đang làm việc. Các tệp hình ảnh đang được so sánh cũng sẽ bị xóa sau khi người dùng thoát hoặc đóng tab mà trang mở rộng của trang web được mở."
+            "question": "What will happen to our progress if we refresh our browser while we are using the compare image tool from safeimagekit.com?",
+            "answer": "The compare image tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are being compared will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Chúng ta có thể so sánh các tệp hình ảnh bị khóa, sử dụng tính năng so sánh hình ảnh từ safeimagekit.com không?",
-            "answer": "Không, chúng tôi không thể tải lên tệp hình ảnh bị khóa vì quyền truy cập vào tệp hình ảnh cụ thể đó bị chặn. Vì vậy, để sử dụng tính năng so sánh hình ảnh từ safeimagekit.com, chúng ta cần tải lên các tệp hình ảnh không bị khóa. Nhưng người dùng có thể kiểm tra phần mở rộng tìm kiếm mật khẩu từ safeimagekit.com được tạo riêng để mở khóa hình ảnh cũng như các tệp hình ảnh trong trường hợp người dùng mất mật khẩu cho tệp hình ảnh bị khóa của mình."
+            "question": "Can we compare the image files which are locked, using the compare image feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that particular image file is blocked. So, to use the compare image feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "Các tệp hình ảnh đã tải lên của tôi có bị hỏng sau khi so sánh các tệp hình ảnh bằng cách sử dụng tính năng so sánh tệp hình ảnh từ safeimagekit.com không?",
-            "answer": "Không, safeimagekit.com được xây dựng với tất cả các chương trình mới nhất và tính năng bảo mật mà không cho phép các tập tin hình ảnh tải lên bị hỏng. Vì vậy, các tệp hình ảnh được tải lên hoàn toàn an toàn và được bảo mật."
+            "question": "Will my uploaded image files corrupt after comparing the image files using the compare image file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "Tập tin của tôi sẽ được lưu sau khi tôi hoàn tất làm việc trên công cụ so sánh hình ảnh? ",
-            "answer": "Không, chúng tôi không gửi bất kỳ tệp nào của bạn đến máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt do đó tất cả các tệp của bạn hoàn toàn an toàn. "
+            "question": "Will my file be saved after I complete working on the image comparison tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Tôi có phải đăng ký bổ sung hoặc trả thêm tiền để sử dụng công cụ so sánh hình ảnh không? ",
-            "answer": "Hoàn toàn không, công cụ của chúng tôi là hoàn toàn trực tuyến và không yêu cầu bạn chia sẻ bất kỳ thông tin cá nhân của bạn với chúng tôi, như id email, mật khẩu vv Công cụ của chúng tôi là hoàn toàn miễn phí."
+            "question": "Do I have to do any additional signup or pay extra to use the image comparison tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Làm cách nào để giao tiếp nếu tôi gặp bất kỳ vấn đề nào hoặc nếu tôi muốn đưa ra bất kỳ đề xuất nào?",
-            "answer": "Chúng tôi sẵn sàng đưa vào bất kỳ vấn đề hoặc đề xuất được cung cấp bởi tất cả người dùng, vui lòng liên hệ với chúng tôi thông qua xử lý phương tiện truyền thông xã hội của chúng tôi để biết thêm thông tin Safeimagekit.com có sẵn trên tất cả các trang web truyền thông xã hội hàng đầu như Facebook, Instagram, YouTube và LinkedIn, v.v."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

@@ -1,14 +1,14 @@
 {
     "Language": "Tiếng Việt",
     "htmlLangAtt": "vi",
-    "H1": "Trình tạo mã QR - Trình tạo mã QR dựa trên web miễn phí",
+    "H1": "Trình tạo mã QR",
     "img": "/img/qr.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "sự thành công",
-    "H2": "Việc thiết kế mã QR đã được chúng tôi thực hiện dễ dàng, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
+    "H2": "Việc thiết kế mã QR đã được thực hiện dễ dàng với chúng tôi, bắt đầu bằng cách tải lên tệp của bạn bên dưới",
     "TITLE": "Máy phát điện QR- Trình tạo mã QR miễn phí- safeimagekit",
     "META": "Bạn đang tìm kiếm một trình tạo mã QR chất lượng cao? Vâng, sau đó bạn đang ở đúng nơi. Công cụ tạo QR trực tuyến của chúng tôi cực kỳ an toàn, thân thiện với người dùng và siêu nhanh chóng.",
     "LABEL": "",
@@ -65,60 +65,60 @@
     },
     "FAQ": [
         {
-            "question": "Mã QR là gì và nó được sử dụng như thế nào?",
-            "answer": "Mã QR (viết tắt từ mã Phản hồi nhanh) là một loại mã vạch ma trận (hay mã vạch hai chiều) được phát minh vào năm 1994 bởi công ty ô tô Nhật Bản Denso Wave. Mã vạch là một nhãn quang học có thể đọc được bằng máy chứa thông tin về vật phẩm mà nó được đính kèm. Trong thực tế, mã QR thường chứa dữ liệu cho một định vị, định danh hoặc trình theo dõi trỏ đến một trang web hoặc ứng dụng. Có rất nhiều ứng dụng cho mã QR, nhưng hầu hết tất cả nó là lưu trữ thông tin của khối lượng lớn trong một khối vuông nhỏ, người dùng có thể quét mã và có thể truy cập thông tin bất cứ khi nào cần thiết."
+            "question": "What is a QR code and how is it used?",
+            "answer": "A QR code (abbreviated from Quick Response code) is a type of matrix barcode (or two-dimensional barcode) invented in 1994 by the Japanese automotive company Denso Wave. A barcode is a machine-readable optical label that contains information about the item to which it is attached. In practice, QR codes often contain data for a locator, identifier, or tracker that points to a website or application. There are many applications to a QR code, but most of all it is in storing information of large volumes in a small square block, the users can scan the code and can access the info whenever needed."
         },
         {
-            "question": "Các tính năng được cung cấp bởi trình tạo mã QR từ safeimagekit.com trong khi tạo mã QR từ hình ảnh được tải lên?",
-            "answer": "Trình tạo mã QR từ safeimagekit.com cung cấp các tính năng linh hoạt trong khi tạo mã QR. Các tính năng chính bao gồm tạo mã QR từ văn bản được đưa ra dưới dạng đầu vào. Văn bản nhập có thể là tên, văn bản bình thường, số điện thoại hoặc bất kỳ URLnào. Văn bản được nhập được chuyển đổi thành mã QR có thể được sử dụng bất kỳ số lần nào chỉ bằng cách quét mã."
+            "question": "What are the features offered by the QR code generator from safeimagekit.com while, generating a QR code from an image uploaded?",
+            "answer": "The QR code generator from safeimagekit.com offers versatile features while generating a QR code. The main features include generating a QR code from the text which is given as the input. The text entered can be names, normal text, phone numbers, or any URLs.  the text which is entered is converted into a QR code which can be used any number of times just by scanning the code."
         },
         {
-            "question": "Làm thế nào chúng ta có thể tạo mã QR từ văn bản đầu vào của chúng tôi bằng cách sử dụng trình tạo mã QR từ safeimagekit.com?",
-            "answer": "Có 4 bước cơ bản sử dụng mà người dùng có thể chuyển đổi văn bản đầu vào của mình thành mã QR-\n- Viết văn bản trong không gian được cung cấp bằng cách sử dụng mà người dùng muốn tạo mã QR.\n- Nhấn nút tạo ra bên dưới trang để tạo mã QR cho văn bản đã nhập.\n- Nhấn tùy chọn lưu để lưu các thay đổi được thực hiện cho văn bản thông qua đó mã QR được tạo.\n- Nhấn nút tải xuống để tải xuống mã QR được tạo và chia sẻ với mọi người! \n"
+            "question": "How can we generate a QR code from our input text using the QR code generator from safeimagekit.com?",
+            "answer": "There are 4 basic steps using which the user can convert his input text to a QR code-\n-\tWrite the text in the space provided using which the user wants to generate a QR code.\n-\tHit the generate button given below the page to generate a QR code for the entered text.\n-\tHit the save option to save the changes made to the text through which the QR code is created.\n-\tHit the download button to download the QR code generated and share it with everyone! \n"
         },
         {
-            "question": "Định dạng hình ảnh nào được hỗ trợ bởi trình tạo mã QR trong khi tạo mã QR?",
-            "answer": "Hiện tại, trình tạo mã QR từ safeimagekit.com hỗ trợ tạo mã vạch bằng văn bản. Người dùng có thể nhập hoặc dán văn bản vào không gian được cung cấp và có thể tạo mã. Tuy nhiên, giới hạn hiện tại là nó có bất kỳ chuyển đổi mã QR hình ảnh nào. Tuy nhiên, các bản cập nhật cho trang web trong những ngày tới sẽ phá vỡ giới hạn này."
+            "question": "Which are the image formats supported by the QR code generator while creating an QR code?",
+            "answer": "Currently, the QR code generator from safeimagekit.com supports the creation of a barcode using the text. The users can enter or paste the text on the space provided and can generate the code. However, the current limit is that it does feature any image QR code conversion. But, updates to the website in the coming days will break this limitation."
         },
         {
-            "question": "Chúng ta có thể tạo bao nhiêu mã QR ở một đoạn duy nhất bằng cách sử dụng trình tạo mã QR từ safeimagekit.com?",
-            "answer": "Hiện tại, trình tạo mã QR từ safeimagekit.com có thể tạo một mã QR tại một đoạn duy nhất. trình tạo mã QR từ safeimagekit.com phải trải qua một số mã chính để chuyển đổi và tạo mã QR để xảy ra. vì vậy, nhiều mã QR không thể được tạo ra do lý do này. Tuy nhiên, các bản cập nhật cho trang web trong tương lai sẽ đảm bảo rằng điều này và nhiều tính năng thú vị hơn được trên boong."
+            "question": "How many QR codes can we generate at a single stretch using the QR code generator from safeimagekit.com?",
+            "answer": "Currently, the QR code generator from safeimagekit.com can generate one QR code at a single stretch. the QR code generator from safeimagekit.com does have to go through a staple number of codes for conversion and generation of a QR code to happen. so, multiple QR codes cannot be generated due to this reason. However, updates to the website in the future will make sure that this and many more exciting features be on deck."
         },
         {
-            "question": "Chúng ta có phải sử dụng bất kỳ phần mềm bổ sung nào để tải xuống mã QR sau khi chuyển đổi bằng trình tạo mã QR từ safeimagekit.com không?",
-            "answer": "Không, người dùng sau khi chuyển đổi văn bản đầu vào của họ sang mã QR có thể nhấn tải xuống tùy chọn được đưa ra dưới đây và có thể tải xuống mã QR. Đây là một công cụ chuyển đổi dựa trên trình duyệt không hỗ trợ hoặc không cần phần mềm bổ sung để tải xuống dưới dạng mã QR."
+            "question": "Do we have to use any additional software to download the QR codes after conversion using the QR code generator from safeimagekit.com?",
+            "answer": "No, the users after converting their input text to a QR code can hit the download the option which is given below and can download the QR code. It is a browser-based converter tool that does not support or no additional software is required to download them as QR codes."
         },
         {
-            "question": "Tôi có thể sử dụng công cụ tạo mã QR từ safeimagekit.com mà không có bất kỳ kiến thức nào về lập trình C cơ bản không?",
-            "answer": "Có, công cụ chuyển đổi QR của chúng tôi từ safeimagekit.com có thể được sử dụng bởi mọi người. Trình tạo mã QR của chúng tôi rất dễ hiểu và không có kiến thức chuyên môn về lập trình C là cần thiết để làm việc trên công cụ của chúng tôi."
+            "question": "Can I use the QR code generator tool from safeimagekit.com without having any knowledge about basic C-programming?",
+            "answer": "Yes, our QR converter tool from safeimagekit.com can be used by everybody. Our QR code generator is very easy to understand and no professional knowledge about C- programming is needed to work on our tool."
         },
         {
-            "question": "Tôi có thể sử dụng trình tạo mã QR từ safeimagekit.com trên Windows 8 của mình không?",
-            "answer": "Công cụ tạo mã QR là một tính năng linh hoạt được cung cấp bởi safeimagekit.com được hỗ trợ bởi tất cả các hệ điều hành ngoài kia như Windows 8, Linux và thậm chí Ubuntu. Tất cả những gì cần là một thiết bị để mở tệp mở rộng bằng cách sử dụng trang web www.safeimagekit.com và kết nối internet bình thường để đứng trên. Thực tế thú vị là nó thậm chí có thể chạy trên kết nối internet chậm hơn."
+            "question": "Can I use the QR code generator from safeimagekit.com on my Windows 8?",
+            "answer": "The QR code generator tool is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Tôi có thể sử dụng trình tạo mã QR từ safeimagekit.com trên Apple iPhone 11 của tôi không? ",
-            "answer": "Có, trình tạo mã QR từ safeimagekit.com là một trang web dựa trên đa nền tảng nơi người dùng có thể sử dụng công cụ chuyển đổi này từ các hệ điều hành như Android, iOS, Windows và Mac OS. Nó độc lập với các hệ điều hành được sử dụng nhưng chỉ phụ thuộc vào kết nối internet và lượng văn bản được dán trên không gian để chuyển đổi được tải lên để chuyển đổi thành mã QR."
+            "question": "Can I use the QR code generator from safeimagekit.com on my Apple iPhone 11? ",
+            "answer": "Yes, the QR code generator from safeimagekit.com is a cross-platform based website where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the amount of text pasted on the space for conversion which is uploaded to be converted into a QR code."
         },
         {
-            "question": "Điều gì sẽ xảy ra với tiến trình của chúng tôi nếu chúng tôi làm mới trình duyệt của mình trong khi chúng tôi đang sử dụng công cụ tạo mã QR từ safeimagekit.com?",
-            "answer": "Công cụ tạo mã QR từ safeimagekit.com không được kết nối với bất kỳ máy chủ nào ngoài kia, vì vậy dữ liệu mà người dùng đang làm việc sẽ không được lưu trữ ở bất cứ đâu và kết quả là, nó sẽ bị xóa ngay lập tức khi người dùng làm mới trình duyệt mà anh ta đang làm việc. Tệp hình ảnh đang được chuyển đổi cũng sẽ bị xóa sau khi người dùng thoát hoặc đóng tab mà trang mở rộng của trang web đang mở."
+            "question": "What will happen to our progress if we refresh our browser while we are using the QR code generator tool from safeimagekit.com?",
+            "answer": "The QR code generator tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Chúng ta có thể chỉnh sửa văn bản bằng cách bao gồm các ký hiệu, ký tự và nhãn dán đặc biệt trong khi tạo mã QR bằng trình tạo mã QR từ safeimagekit.com không?",
-            "answer": "Có, trình tạo mã QR từ safeimagekit.com cung cấp tùy chọn chỉnh sửa văn bản bằng cách bao gồm các ký hiệu, ký tự và nhãn dán đặc biệt trong khi tạo mã QR bằng công cụ tạo. Một số nhân vật bao gồm-! @#$%^&* (). Tuy nhiên, nhãn dán không thể được bao gồm trong trạng thái hiện tại, các bản vá này được định sẵn trong tương lai"
+            "question": "Can we edit the text by including special symbols, characters, and stickers while generating a QR code using the QR code generator from safeimagekit.com?",
+            "answer": "Yes, the QR code generator from safeimagekit.com does provide the option to edit the text by including special symbols, characters, and stickers while generating a QR code using the generator tool. Some of the characters include-! @#$%^&*(). However, stickers cannot be included with the current status, these patches are destined to be included in the future"
         },
         {
-            "question": "Tệp của tôi sẽ được lưu sau khi tôi hoàn thành công cụ tạo mã QR không? ",
-            "answer": "Không, chúng tôi không gửi bất kỳ tệp nào của bạn đến máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt do đó tất cả các tệp của bạn hoàn toàn an toàn. "
+            "question": "Will my file be saved after I complete working on the QR code generator  tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Tôi có phải đăng ký bổ sung hoặc trả thêm tiền để sử dụng công cụ tạo mã QR không? ",
-            "answer": "Hoàn toàn không, công cụ của chúng tôi là hoàn toàn trực tuyến và không yêu cầu bạn chia sẻ bất kỳ thông tin cá nhân của bạn với chúng tôi, như id email, mật khẩu vv Công cụ của chúng tôi là hoàn toàn miễn phí."
+            "question": "Do I have to do any additional signup or pay extra to use the QR code generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Làm cách nào để giao tiếp nếu tôi gặp bất kỳ vấn đề nào hoặc nếu tôi muốn đưa ra bất kỳ đề xuất nào?",
-            "answer": "Chúng tôi sẵn sàng đưa vào bất kỳ vấn đề hoặc đề xuất được cung cấp bởi tất cả người dùng, vui lòng liên hệ với chúng tôi thông qua xử lý phương tiện truyền thông xã hội của chúng tôi để biết thêm thông tin Safeimagekit.com có sẵn trên tất cả các trang web truyền thông xã hội hàng đầu như Facebook, Instagram, YouTube và LinkedIn, v.v."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

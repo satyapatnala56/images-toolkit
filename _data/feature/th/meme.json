@@ -1,14 +1,14 @@
 {
     "Language": "ภาษาไทย",
     "htmlLangAtt": "th",
-    "H1": "สร้างมีมขั้นสูงออนไลน์",
+    "H1": "สร้างมีม",
     "img": "/img/meme.png",
     "imgwidth": "40px",
     "imgheight": "40px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "ความสำเร็จ",
-    "H2": "ตอนนี้การสร้างมีมเป็นเรื่องง่ายโดยเราเริ่มต้นด้วยการอัปโหลดไฟล์ของคุณด้านล่าง",
+    "H2": "สร้างมีมออนไลน์ได้ง่ายขึ้นกับเรา เริ่มต้นด้วยการอัปโหลดไฟล์ของคุณด้านล่าง",
     "TITLE": "เครื่องกำเนิดไฟฟ้า Meme- เครื่องชงมีมออนไลน์- safeimagekit",
     "META": "คุณกำลังมองหาเครื่องกำเนิดไฟฟ้ามีมคุณภาพสูงหรือไม่?งั้นคุณก็มาถูกที่แล้วเครื่องมือสร้างมีมออนไลน์ของเรามีความปลอดภัย ใช้งานง่าย และรวดเร็วมาก",
     "width": "",
@@ -67,64 +67,64 @@
     },
     "FAQ": [
         {
-            "question": "จะปลอดภัยหรือไม่ที่จะอนุญาตให้เข้าถึงไดรฟ์ของฉัน?",
-            "answer": "ใช่ มันปลอดภัยอย่างยิ่งที่จะอนุญาตให้เราเข้าถึงไดรฟ์ของคุณเราจะไม่ทำการเปลี่ยนแปลงใด ๆ กับเว็บไซต์ของคุณ และ dfiles ของคุณจะปลอดภัยกับคุณ"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "ฉันจะอัปโหลดไฟล์จากไดรฟ์/Dropbox ของฉันได้อย่างไร",
-            "answer": "คลิกที่ลูกศรแบบเลื่อนลงและเลือก Dropbox/Google ไดรฟ์เลือกบัญชี Google จากตำแหน่งที่คุณต้องการเชื่อมโยงไดรฟ์ตอนนี้คุณสามารถเลือกไฟล์ที่คุณต้องการอัปโหลดได้"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "อะไรคือคุณสมบัติที่นำเสนอโดยเครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com ในขณะที่หัตถกรรมมส์จากภาพหรือไม่",
-            "answer": "เครื่องมือสร้างมีมจาก safeimagekit.com มีคุณสมบัติที่หลากหลายในขณะที่หัตถกรรมมีมจากภาพที่อัปโหลดคุณสมบัติหลัก ได้แก่\n- แทรกข้อความในไฟล์ภาพที่อัปโหลด\n- การปรับความโปร่งใสของข้อความที่อัปโหลด\n- การปรับขนาดตัวอักษรของข้อความที่จะแทรก\n- การปรับเปลี่ยนค่าจังหวะ\n- การแทรกของภาพบนภาพ\n- การปรับค่าเงาในไฟล์ภาพที่อัปโหลด\n- การปรับเปลี่ยนข้อความโดยตัวเอียง\n- ปรับความกล้าหาญของข้อความที่จะแทรก\n- ขีดเส้นใต้คุณสมบัติของข้อความ\n- อัพเกรดมส์ที่มีตัวเลือกสี"
+            "question": "What are the features offered by the meme generator from safeimagekit.com while crafting a meme from an image?",
+            "answer": "The meme generator tool from safeimagekit.com offers versatile features while crafting a meme from the uploaded image. The main features include\n-\tInsertion of text on the uploaded image file.\n-\tAdjusting the transparency of the text uploaded.\n-\tAdjusting the font size of the text to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image on an image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the text by Italics.\n-\tAdjusting the boldness of the text to be inserted.\n-\tUnderlining features of the text.\n-\tUpgrading the meme with color options."
         },
         {
-            "question": "วิธีการไม่ตัวเลือกแทรกข้อความของเครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com ทำงาน?",
-            "answer": "ตัวเลือกการแทรกข้อความของเครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com ช่วยให้ผู้ใช้เพิ่มข้อความในไฟล์ภาพที่จะถูกสร้างขึ้นเป็นมส์ข้อความที่เพิ่มเข้ามาสามารถปรับและแก้ไขได้โดยใช้คุณสมบัติหลายอย่าง เช่น การปรับสี ความหนาของข้อความ ฯลฯ ตัวเลือกการปรับสีช่วยให้ผู้ใช้เพิ่มสีให้กับข้อความในทางตรงกันข้าม ความหนาของข้อความช่วยให้ผู้ใช้สามารถปรับขนาดของข้อความได้"
+            "question": "How does the text insertion option of meme generator from safeimagekit.com work?",
+            "answer": "The text insertion option of meme generator from safeimagekit.com, lets the user add text on the image file which is to be generated as a meme. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text."
         },
         {
-            "question": "ตัวเลือกการปรับความโปร่งใสของเครื่องกำเนิดมีมจาก safeimagekit.com ทำงานอย่างไร?",
-            "answer": "ตัวเลือกการปรับความโปร่งใสของเครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com ช่วยให้ผู้ใช้ปรับความโปร่งใสและความทึบของข้อความหรือภาพที่อัปโหลดตัวเลือกนี้มีอยู่ในส่วนตรงกลางของหน้าตัวเลือกความโปร่งใสจะได้รับในระดับตั้งแต่ 0.1 ถึง 1การปรับค่านี้ทำได้และสามารถบันทึกได้โดยการกดปุ่มตัวเลือกการบันทึก "
+            "question": "How does the transparency adjustment option of the meme generator from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the meme generator from safeimagekit.com lets the user adjust the transparency and opacity of the text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. "
         },
         {
-            "question": "เราจะปรับขนาดตัวอักษรของข้อความในขณะที่การสร้างมีมโดยใช้เครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com?",
-            "answer": "ขนาดตัวอักษรของข้อความในขณะที่การสร้างมส์โดยใช้เครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com สามารถปรับเปลี่ยนได้โดยการป้อนปัจจัยของขนาดตัวเลือกนี้สามารถเข้าถึงได้โดยการป้อนขนาดที่ถูกต้องในช่องว่างชื่อ “ป้อนขนาดตัวอักษร”ขนาดสามารถปรับได้โดยการป้อนค่าในช่องว่างนั้นขนาดตัวอักษรของข้อความที่สามารถเพิ่มขึ้นโดยการป้อนค่าที่อยู่ในบวก (+) ค่าขนาดตัวอักษรของข้อความที่สามารถลดลงโดยการป้อนค่าที่อยู่ในเชิงลบ (-) ค่า"
+            "question": "How do we adjust the font size of the text while generating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The font size of the text while generating a meme using the meme generator from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "ค่าจังหวะทำงานอย่างไรในการแปลงภาพในเครื่องกำเนิดมีมจาก safeimagekit.com?",
-            "answer": "ค่าจังหวะของเครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com ทำงานโดยการปรับสีของข้อความหรือภาพที่แทรกอยู่ในภาพสำหรับการแก้ไขค่านี้สามารถเข้าถึงได้โดยการป้อนค่าในพื้นที่ที่ให้ไว้เรียกว่า “ป้อนค่าจังหวะ”ค่าจังหวะของภาพในขณะที่แปลงเป็นมมสามารถปรับได้โดยการป้อนค่าบวก (+) เพื่อเพิ่มจังหวะค่าโรคหลอดเลือดสมองสามารถลดลงได้โดยการป้อนค่าลบ (-) เพื่อลดจังหวะ"
+            "question": "How does the stroke value work in the image conversion in meme generator from safeimagekit.com?",
+            "answer": "The stroke value of the meme generator from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke."
         },
         {
-            "question": "เราสามารถแทรกภาพบนภาพอื่นในขณะที่การสร้างมส์โดยใช้เครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com หรือไม่?",
-            "answer": "ใช่กำเนิดมีมจาก safeimagekit.com ไม่ให้ตัวเลือกในการแทรกภาพบนภาพอื่นในขณะที่การสร้างมส์คุณสมบัตินี้สามารถเข้าถึงได้ที่ด้านล่างของหน้าชื่อ “อัปโหลดภาพ”คุณลักษณะนี้จะช่วยให้เราวางภาพบนภาพอื่นนี้เป็นคุณลักษณะที่ระบุที่เราสามารถแทรกประเภทของภาพใด ๆ กับประเภทของภาพใด ๆภาพหลังจากการแก้ไขและการแทรกสามารถบันทึกได้โดยการกดปุ่มตัวเลือกที่เรียกว่า “บันทึก” นี้จะช่วยประหยัดความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we insert an image on another image while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com does provide the option to insert an image on another image while creating a meme. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "เราสามารถแปลงข้อความของเราเป็นตัวเอียงซึ่งถูกป้อนในภาพภายใต้การแก้ไขในขณะที่การสร้างมส์โดยใช้เครื่องกำเนิดไฟฟ้ามีสจาก safeimagekit.com?",
-            "answer": "ใช่กำเนิดมีมจาก safeimagekit.com ช่วยให้ผู้ใช้แปลงข้อความที่ถูกป้อนในภาพในรูปแบบตัวเอียงคุณลักษณะนี้สามารถเข้าถึงได้โดยการกดปุ่ม “ฉัน” ซึ่งย่อมาจากตัวเอียง, นี้จะแปลงปัจจุบันข้อความในภาพในรูปแบบตัวเอียง.หลังจากการแปลงกดปุ่มที่เรียกว่า “บันทึก”นี้จะช่วยบันทึกความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "เราสามารถแปลงข้อความของเราจากธรรมดาเป็นตัวหนาซึ่งถูกป้อนลงในภาพภายใต้การแก้ไขในขณะที่การสร้างมส์โดยใช้เครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com?",
-            "answer": "ใช่กำเนิดมีมจาก safeimagekit.com ช่วยให้ผู้ใช้แปลงข้อความล้วนเป็นข้อความที่เป็นตัวหนาซึ่งถูกป้อนลงบนภาพคุณลักษณะนี้สามารถเข้าถึงได้โดยการกดปุ่ม “B” ซึ่งย่อมาจากตัวหนาซึ่งจะแปลงข้อความล้วนในปัจจุบันในภาพเป็นข้อความตัวหนาหลังจากการแปลงกดปุ่มที่เรียกว่า “บันทึก”นี้จะช่วยบันทึกความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "เราสามารถขีดเส้นใต้ข้อความซึ่งเขียนบนภาพภายใต้การแก้ไขในขณะที่การสร้างมส์โดยใช้เครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com?",
-            "answer": "ใช่กำเนิดมีมจาก safeimagekit.com ช่วยให้ผู้ใช้ขีดเส้นใต้ข้อความที่ถูกแทรกลงในภาพคุณลักษณะนี้สามารถเข้าถึงได้โดยการกดปุ่ม “U” ซึ่งย่อมาจากขีดเส้นใต้ซึ่งจะแปลงข้อความ (ปกติ) เพื่อขีดเส้นใต้ข้อความบนภาพหลังจากการแปลงกดปุ่มที่เรียกว่า “บันทึก”นี้จะช่วยบันทึกความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we underline the text, which is written on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "Yes, the meme generator from safeimagekit.com lets the user to underline the text which is inserted into the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "วิธีที่เราสามารถสีข้อความที่ถูกป้อนในภาพภายใต้การแก้ไขในขณะที่การสร้างมส์โดยใช้เครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com?",
-            "answer": "เครื่องกำเนิดไฟฟ้ามีมจาก safeimagekit.com ไม่ให้ผู้ใช้สีข้อความในภาพตัวเลือกนี้สามารถเข้าถึงได้โดยการกดปุ่มกล่องสีดำข้างคุณลักษณะที่สำคัญทุกคนหลังจากกดปุ่มกล่องสีดำกล่องสีปรากฏขึ้นและผู้ใช้สามารถเข้าถึงสีใด ๆ ในการวาดบนข้อความ"
+            "question": "How can we color the text which is entered on the image under editing, while creating a meme using the meme generator from safeimagekit.com?",
+            "answer": "The meme generator from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the color box pops up and the user can access any color to paint on the text."
         },
         {
-            "question": "ไฟล์ของฉันจะถูกบันทึกหลังจากที่ฉันทำงานบนเครื่องมือสร้างมีมเสร็จแล้วหรือไม่ ",
-            "answer": "ไม่เราไม่ได้ส่งไฟล์ใด ๆ ของคุณไปยังเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์ตัวเองดังนั้นไฟล์ทั้งหมดของคุณมีความปลอดภัยอย่างสมบูรณ์ "
+            "question": "Will my file be saved after I complete working on the meme generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "ฉันจำเป็นต้องลงทะเบียนเพิ่มเติมหรือจ่ายเงินเพิ่มเพื่อใช้เครื่องมือสร้างมีมหรือไม่ ",
-            "answer": "ไม่แน่นอนเครื่องมือของเราออนไลน์อย่างสมบูรณ์และไม่จำเป็นต้องให้คุณแบ่งปันข้อมูลส่วนบุคคลใด ๆ ของคุณกับเรา เช่น ID อีเมล รหัสผ่าน ฯลฯ เครื่องมือของเราไม่มีค่าใช้จ่าย"
+            "question": "Do I have to do any additional signup or pay extra to use the meme generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "ฉันจะติดต่อสื่อสารได้อย่างไรหากฉันประสบปัญหาใด ๆ หรือฉันต้องการให้คำแนะนำใด ๆ",
-            "answer": "เรายินดีที่จะใช้ในปัญหาใด ๆ หรือข้อเสนอแนะที่นำเสนอโดยผู้ใช้ทั้งหมด, โปรดติดต่อเราผ่านการจัดการสื่อสังคมของเราสำหรับข้อมูลเพิ่มเติม.SafeImageKit.com สามารถใช้ได้ในทุกเว็บไซต์สื่อสังคมชั้นนำเช่น Facebook, Instagram, YouTube, และ LinkedIn ฯลฯ"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

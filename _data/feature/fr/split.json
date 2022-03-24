@@ -1,7 +1,7 @@
 {
     "Language": "Français",
     "htmlLangAtt": "fr",
-    "H1": "Split photo en ligne avec un outil avancé gratuitement",
+    "H1": "Répartiteur photo",
     "img": "/img/split.png",
     "imgwidth": "35px",
     "imgheight": "35px",
@@ -11,15 +11,15 @@
     "data": {
         "total": 0,
         "_id": "608 fd832b3e10a0009083 f84",
-        "website": "kit d'image sécurisé",
+        "website": "kit image sécurisé",
         "feature": "fractionner",
         "ratings": [],
-        "created": "2021-05-03T 11:02:10 .680 Z",
+        "created": "2021-05-03 À 11:02:10 .680 Z",
         "__v": 0
     },
-    "H2": "Le fractionnement de l'image en ligne a été facilité par nous, commencez par télécharger votre fichier ci-dessous",
-    "TITLE": "Séparateur de photos - Split Photo - Kit d'image sécurisé",
-    "META": "Vous recherchez un séparateur de photos de haute qualité ? Eh bien, alors vous êtes au bon endroit. Notre outil de partage de photos en ligne est extrêmement sûr, convivial et super rapide.",
+    "H2": "Le fractionnement d'image en ligne a été facilité avec nous, commencez par télécharger votre fichier ci-dessous",
+    "TITLE": "Répartiteur de photos - Split Photo - SafeImage Kit",
+    "META": "Vous recherchez un séparateur de photos de haute qualité ? Eh bien, vous êtes au bon endroit. Notre outil photo fractionné en ligne est extrêmement sûr, convivial et super rapide.",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff6666",
@@ -34,7 +34,7 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
             "header": "Sécurité des données",
-            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs."
+            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être sûrs à 100 % pour nos utilisateurs"
         },
         {
             "priority": 1,
@@ -58,84 +58,84 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
             "header": "Aucun téléchargement supplémentaire",
-            "content": "Notre outil de séparation de photos est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est requis pour être téléchargé sur votre appareil."
+            "content": "Notre outil de séparation de photos est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est nécessaire pour être téléchargé sur votre appareil."
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "Comment diviser notre image.",
         "steps": [
-            "Téléchargez l'image ou cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive pour sélectionner votre fichier à diviser.",
-            "Réglez les paramètres requis pour le fractionnement de l'image.",
-            "Appuyez sur le bouton « Split » pour lancer un split.",
+            "Téléchargez l'image ou cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive pour sélectionner votre fichier qui doit être divisé.",
+            "Ajustez les paramètres nécessaires au fractionnement d'image.",
+            "Appuyez sur le bouton « Fractionner » pour lancer un fractionnement.",
             "Cliquez sur « Enregistrer tout » pour enregistrer les modifications apportées",
-            "Hourra ! ! l'image est prête à être utilisée."
+            "Vive ! l'image est prête à être utilisée."
         ]
     },
     "FAQ": [
         {
-            "question": "Est-ce que je peux autoriser l'accès à mon disque dur en toute sécurité ?",
-            "answer": "Oui, il est absolument sûr de nous autoriser et de nous donner accès à votre lecteur. Nous n'apporterons aucune modification à votre site et vos fichiers seront en sécurité avec vous."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Comment puis-je télécharger des fichiers depuis mon lecteur/ma boîte de dépôt ?",
-            "answer": "Cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive. Sélectionnez le compte Google auquel vous souhaitez associer votre lecteur. Vous pouvez maintenant sélectionner les fichiers que vous souhaitez télécharger."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Quelles sont les fonctionnalités offertes par le séparateur de photos de safeimagekit.com lors du fractionnement d'une photo ou d'une image ?",
-            "answer": "Le séparateur de photos de safeimagekit.com offre des fonctionnalités polyvalentes lors du fractionnement d'une photo ou d'une image. Les principales caractéristiques sont les suivantes :\n- les options de séparation de l'image téléchargée dans le degré de lignes et de colonnes.\n- Les parties du fichier image divisées peuvent être téléchargées séparément après avoir divisé l'image en fonction des besoins de l'utilisateur. Ces fichiers sont proposés au format png.\n- Les parties du fichier image divisées peuvent également être téléchargées au format .zip qui consomme moins d'espace que les autres formats de fichiers image."
+            "question": "What are the features offered by the photo splitter from safeimagekit.com while splitting a photo or an image?",
+            "answer": "The photo splitter from safeimagekit.com offers versatile features while splitting a photo or an image. The main features include\n- the separation options of the uploaded image in the degree of rows and columns.\n- The divided image file parts can be downloaded separately after splitting the image based on the need of the user. These files are offered in png format.\n- The divided image file parts can also be downloaded in the .zip format which consumes less space than the other image file formats."
         },
         {
-            "question": "Combien de parties pouvons-nous diviser le fichier image téléchargé en termes de lignes, tout en divisant le fichier image à l'aide du séparateur d'image de safeimagekit.com ?",
-            "answer": "Le nombre maximum de divisions que l'utilisateur peut effectuer en termes de lignes lors du fractionnement du fichier image à l'aide du séparateur d'image de safeimagekit.com est de 1000 avec des divisions précises. Actuellement, le séparateur de photos fait l'objet d'une mise à jour qui peut faire avancer la limite de courant. Les divisions de lignes sont des divisions horizontales, qui sont effectuées sur l'image lors du fractionnement."
+            "question": "How many parts can we divide the uploaded image file in terms of rows, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of rows while splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Row divisions are horizontal divisions, which are made across the image while splitting."
         },
         {
-            "question": "Combien de parties pouvons-nous diviser le fichier image téléchargé en termes de colonnes, tout en divisant le fichier image à l'aide du séparateur d'image de safeimagekit.com ?",
-            "answer": "Le nombre maximum de divisions que l'utilisateur peut effectuer en termes de colonnes lors du fractionnement du fichier image à l'aide du séparateur d'image de safeimagekit.com est de 1000 avec des divisions précises. Actuellement, le séparateur de photos fait l'objet d'une mise à jour qui peut faire avancer la limite de courant. Les divisions de colonnes sont des divisions verticales, qui sont effectuées à travers l'image lors du fractionnement."
+            "question": "How many parts can we divide the uploaded image file in terms of columns, while splitting the image file using the image splitter from safeimagekit.com?",
+            "answer": "The maximum number of divisions that the user can make in terms of columns while, splitting the image file using the image splitter from safeimagekit.com is 1000 with accurate divisions. Currently, the photo splitter is undergoing an update that can push the current limit forward. Columns divisions are vertical divisions, which are made across the image while splitting."
         },
         {
-            "question": "Combien de parties d'image puis-je obtenir si j'entre 20 dans l'espace des lignes et 50 dans l'espace des colonnes lors du fractionnement d'une image à l'aide du séparateur d'image de safeimagekit.com ?",
-            "answer": "La fonction de séparation d'images de safeimagekit.com est équipée de codes mathématiques de base qui ont la capacité d'effectuer des calculs simples. Ainsi, lorsque nous entrons 20 dans l'espace des lignes et 50 dans l'espace des colonnes, la page effectue des calculs de base et le nombre de lignes est multiplié par le nombre de colonnes de sorte que nous obtenons leur produit en tant que divisions de l'image. Ainsi, 50* 20 = 1000 divisions d'image (parties) de l'image téléchargée. Ces parties d'image peuvent être téléchargées sous forme de fichier png séparément par partie ou peuvent être téléchargées sous forme de fichier zip."
+            "question": "How many image parts do I get if I enter 20 in the space of rows and 50 in the space of columns while splitting an image using the image splitter from safeimagekit.com?",
+            "answer": "The image splitter feature from safeimagekit.com is fitted with basic math codes which have the ability to perform simple calculations. So, when we enter 20 in the space of rows and 50 in the space of columns the page performs basic math and the number of rows is multiplied by the number of columns such that we get their product as divisions of the image. So, 50*20=1000 image divisions(parts) of the uploaded image. These image parts can be downloaded in the form of png file separately by part or can be downloaded as a zip file."
         },
         {
-            "question": "Pouvons-nous télécharger la partie divisée de l'image sous la forme d'un jpeg, après avoir divisé l'image téléchargée à l'aide du séparateur de photos de safeimagekit.com ?",
-            "answer": "Non, l'option de fractionnement du séparateur de photos de safeimagekit.com propose le téléchargement de la section image sous forme de png uniquement. Actuellement, le séparateur d'image divise l'image en conséquence et produit les parties de l'image au format png ainsi qu'un fichier zip. Jpeg, jpg et d'autres formats d'image sont destinés à être inclus dans un avenir proche."
+            "question": "Can we download the split part of the image in the form of a jpeg, after splitting the uploaded image using the photo splitter from safeimagekit.com?",
+            "answer": "No, the splitting option of photo splitter from safeimagekit.com offers the download of the image section in the form of png only. Currently, the image splitter splits the image accordingly and produces the parts of the image in png format as well as a zip file. Jpeg, jpg, and other image formats are destined to be included in the coming future."
         },
         {
-            "question": "Pouvons-nous télécharger les sections du fichier image dans son ensemble, au lieu de les utiliser une par une en utilisant la fonction de séparation de photos de safeimagekit.com ?",
-            "answer": "Oui, la fonction de séparation de photos de safeimagekit.com permet à l'utilisateur de télécharger toutes les sections de l'image en un seul tronçon au lieu de les télécharger une par une. Il existe une option appelée « Enregistrer en tant que fichier zip » au bas de la page après les avoir divisées. Après avoir cliqué sur cette option, toutes les sections de l'image sont téléchargées dans un seul fichier zip et l'utilisateur peut séparer et extraire la section requise du fichier zip chaque fois que cela est nécessaire."
+            "question": "Can we download the sections of the image file overall, instead of one by one using the split feature of photo splitter from safeimagekit.com?",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com lets the user download all the sections of the image in a single stretch instead of downloading them one by one. There is an option called “save as zip file” at the bottom of the page after splitting them. After hitting that option, all the sections of the image downloads into a single zip file and the user can separate and extract the required section from the zip file whenever it is needed."
         },
         {
-            "question": "La fonction de séparation du séparateur de photos de safeimagekit.com offre-t-elle la possibilité de télécharger une seule section du fichier image téléchargé ? ",
-            "answer": "Oui, la fonction de fractionnement du séparateur de photos de safeimagekit.com offre la possibilité de télécharger une seule section du fichier image téléchargé. Il suffit de cliquer sur la section de l'image qui est requise et elle télécharge cette section particulière uniquement au format d'image png."
+            "question": "Does the split feature of the photo splitter from safeimagekit.com provide the option to download a single section of the image file uploaded? ",
+            "answer": "Yes, the split feature of photo splitter from safeimagekit.com does provide the option to download a single section of the image file uploaded. Just hit the section of the image which is required and it downloads that particular section only in the png image format."
         },
         {
-            "question": "La fonction de fractionnement du séparateur de photos de safeimagekit.com fournit-elle un type d'aperçu après le fractionnement du fichier image téléchargé ?",
-            "answer": "Non, actuellement, la fonction de fractionnement du séparateur de photos de safeimagekit.com ne fournit aucun type d'aperçu des sections de l'image téléchargée, car parfois les sections de l'image téléchargée passent par-dessus bord et il devient très difficile pour le navigateur de gérer l'aperçu de chaque section du image."
+            "question": "Does the split feature of photo splitter from safeimagekit.com provide any type of preview after splitting the uploaded image file?",
+            "answer": "No, currently the split feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each and every section of the image."
         },
         {
-            "question": "Comment diviser le fichier image à l'aide de la fonction de fractionnement de safeimagekit.com ?",
-            "answer": "L'utilisateur peut se référer à 6 étapes de base lors du fractionnement d'un fichier image :\n- Téléchargez le fichier image à diviser\n- Entrez le nombre de lignes et de colonnes requis \n- Fractionnement du coup\n- BOUM ! ! Les sections du fichier image téléchargé sont présentées ci-dessous\n- Téléchargez la section requise en cliquant dessus séparément ou téléchargez-les toutes ensemble à l'aide de l'option « TÉLÉCHARGER TOUT ».\n- Si l'espace à télécharger est plus important, n'hésitez pas à utiliser l'option « enregistrer en tant que fichier zip » qui télécharge toutes les sections dans un seul fichier zip."
+            "question": "How do we split the image file using the split feature from safeimagekit.com?",
+            "answer": "There are 6 basic steps that the user can refer to while splitting an image file-\n-\tUpload the image file to be split\n-\tEnter the number of rows and columns required \n-\tHit split\n-\tBOOM!! The sections of the uploaded image file are presented below\n-\tDownload the required section by clicking it separately, or download them all together using the “DOWNLOAD ALL” option.\n-\tIf the space to be downloaded is more, feel free to use the “save as zip file” option which downloads all the sections in a single zip file."
         },
         {
-            "question": "Puis-je utiliser la fonction de séparation de photos de safeimagekit.com sur mon Windows 8 ?",
-            "answer": "Le séparateur de photos est une fonctionnalité polyvalente proposée par safeimagekit.com qui est prise en charge par tous les systèmes d'exploitation tels que Windows 8, Linux et même Ubuntu. Il suffit d'un appareil pour ouvrir le fichier d'extension à l'aide du site Web www.safeimagekit.com et d'une connexion Internet normale pour rester debout. Ce qui est amusant, c'est qu'il peut même fonctionner sur une connexion Internet plus lente."
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Windows 8?",
+            "answer": "Photo splitter is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Puis-je utiliser la fonction de séparation de photos de safeimagekit.com sur mon appareil Android ? ",
-            "answer": "Oui, la fonction de séparation de photos de safeimagekit.com est une fonctionnalité multiplateforme dans laquelle l'utilisateur peut utiliser cet outil de conversion à partir de systèmes d'exploitation tels que Android, iOS, Windows et Mac OS. Il est indépendant des systèmes d'exploitation utilisés mais dépend uniquement de la connexion Internet."
+            "question": "Can I use the photo splitter feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the photo splitter feature from safeimagekit.com is a cross-platform based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "Mon fichier sera-t-il enregistré une fois que j'aurai fini de travailler sur l'outil de séparation de photos ? ",
-            "answer": "Non, nous n'envoyons aucun de vos fichiers à nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même, donc tous vos fichiers sont totalement sécurisés. "
+            "question": "Will my file be saved after I complete working on the photo splitter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Dois-je faire une inscription supplémentaire ou payer un supplément pour utiliser l'outil de séparation de photos ? ",
-            "answer": "Absolument pas, notre outil est entièrement en ligne et ne vous oblige pas à partager vos informations personnelles avec nous, telles que votre adresse e-mail, vos mots de passe, etc."
+            "question": "Do I have to do any additional signup or pay extra to use the photo splitter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Comment communiquer si je rencontre des problèmes ou si je souhaite faire des suggestions ?",
-            "answer": "Nous sommes heureux de prendre en compte tous les problèmes ou suggestions proposés par tous les utilisateurs, veuillez nous contacter via nos identifiants de réseaux sociaux pour plus d'informations. SafeImageKit.com est disponible sur tous les principaux sites de médias sociaux tels que Facebook, Instagram, YouTube et LinkedIn, etc."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jsfilepaths": [

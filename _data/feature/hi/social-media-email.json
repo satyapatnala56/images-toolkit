@@ -9,12 +9,12 @@
     "nofileupload": true,
     "variant": "चेतावनी",
     "h2": "अपनी छवि यहाँ अपलोड करें और अभी आकार बदलें",
-    "TITLE": "ई ई जीई ई एजी | कैसे मैग रीसाइज़र ईएफओ ",
-    "META": "ई. ई। ,,,",
+    "TITLE": "ईमेल के लिए छवि का आकार बदलें | ऑनलाइन छवि Resizer उपकरण ",
+    "META": "ईमेल के लिए एक मुफ्त और ऑनलाइन छवि Resizer खोज रहे हैं? हमारी वेबसाइट पर जाएं और कुछ सेकंड में ईमेल के लिए छवि का आकार बदलें।",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
-    "megaMenu": {
+     "megaMenu": {
         "nav-link-name": "Tools",
         "dropdown": [
             {
@@ -23,77 +23,77 @@
                     {
                         "name": "फेसबुक इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
-                        "url": "/hi/hi/image-resize-facebook"
+                        "url": "/hi/image-resize-facebook"
                     },
                     {
-                        "name": " ",
+                        "name": " इंस्टाग्राम इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
-                        "url": "/hi/hi/image-resize-instagram"
+                        "url": "/hi/image-resize-instagram"
                     },
                     {
-                        "name": " द क्क्स्क्क्स",
+                        "name": " लिंक्डइन इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
-                        "url": "/hi/hi/image-resize-linkedin"
+                        "url": "/hi/image-resize-linkedin"
                     },
                     {
-                        "name": " ",
+                        "name": " ईमेल इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
-                        "url": "/hi/hi/image-resize-email"
+                        "url": "/hi/image-resize-email"
                     },
                     {
-                        "name": " [Mumbai] के लिए",
+                        "name": " टिक्टॉक इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
-                        "url": "/hi/hi/image-resize-tiktok"
+                        "url": "/hi/image-resize-tiktok"
                     },
                     {
-                        "name": " ",
+                        "name": " ट्विटर इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
-                        "url": "/hi/hi/image-resize-twitter"
+                        "url": "/hi/image-resize-twitter"
                     },
                     {
-                        "name": " पिंटरेस्ट",
+                        "name": " Pinterest छवि पुनर्विक्रेता",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
-                        "url": "/hi/hi/image-resize-pinterest"
+                        "url": "/hi/image-resize-pinterest"
                     },
                     {
                         "name": "स्नैपचैट इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
-                        "url": "/hi/hi/image-resize-snapchat"
+                        "url": "/hi/image-resize-snapchat"
                     },
                     {
-                        "name": " गूगल कए के साथ",
+                        "name": " Google बैनर विज्ञापन छवि पुनर्विक्रेता",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
-                        "url": "/hi/hi/image-resize-google-banner-ads"
+                        "url": "/hi/image-resize-google-banner-ads"
                     },
                     {
-                        "name": " ",
+                        "name": " छवि पुनर्विक्रेता को त्यागें",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
-                        "url": "/hi/hi/image-resize-discord"
+                        "url": "/hi/image-resize-discord"
                     },
                     {
-                        "name": " ",
+                        "name": " साउंडक्लाउड इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
-                        "url": "/hi/hi/image-resize-soundcloud"
+                        "url": "/hi/image-resize-soundcloud"
                     },
                     {
-                        "name": " ",
+                        "name": " व्हाट्सएप इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
-                        "url": "/hi/hi/image-resize-whatsapp"
+                        "url": "/hi/image-resize-whatsapp"
                     },
                     {
-                        "name": " ",
+                        "name": " स्क्वरस्पेस इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
-                        "url": "/hi/hi/image-resize-squarespace"
+                        "url": "/hi/image-resize-squarespace"
                     },
                     {
-                        "name": " ",
+                        "name": " ट्विच इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
-                        "url": "/hi/hi/image-resize-twitch"
+                        "url": "/hi/image-resize-twitch"
                     },
                     {
-                        "name": " ",
+                        "name": " प्रिंटिंग इमेज रिसाइज़र",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
-                        "url": "/hi/hi/image-resize-printing"
+                        "url": "/hi/image-resize-printing"
                     }
                 ]
             }
@@ -116,7 +116,7 @@
             "priority": 1,
             "logoUrl": "/assets/cross.svg",
             "header": "क्रॉस प्लेटफॉर्म",
-            "content": "विन्डो/2010/प्रवेश/एनड्रॉइड/एकोनोन के लिए एक के लिए एक के रूप में टीईपी एनएस एस एफ एफ एफ एफ।"
+            "content": "आप विंडोज/मैक/लिनक्स/एंड्रॉइड/आईफोन जैसे किसी भी ऑपरेटिंग सिस्टम पर अब से इस एप्लिकेशन का उपयोग कर सकते हैं।"
         },
         {
             "priority": 1,
@@ -128,77 +128,77 @@
             "priority": 1,
             "logoUrl": "/assets/fast.svg",
             "header": "तेज और कुशल",
-            "content": "इक्के "
+            "content": "साइट आपकी फ़ाइल को वास्तव में तेज़ और कुशल संसाधित करती है। आप कुछ ही समय में अपना काम पूरा कर सकते हैं"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud_new.svg",
             "header": "कोई फाइल अपलोड नहीं की जाती है",
-            "content": " "
+            "content": "एप्लिकेशन किसी भी सर्वर को शामिल किए बिना आपके ब्राउज़र पर पूरी तरह से काम करता है। इसलिए आपकी फाइलें सुरक्षित हैं"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
         "heading": "अपनी इमेजेज का आकार कैसे बदलें",
         "steps": [
-            "माईक और फिर से शुरू करें",
+            "उस छवि को अपलोड करें जिसका आप आकार बदलना चाहते हैं।",
             "उपयुक्त आकार या कई आकारों का चयन करें",
             "सभी उपलब्ध आकारों को डाउनलोड करने के लिए डाउनलोड सभी को मारो।",
-            "के रूप में के रूप में के रूप में के रूप में"
+            "चयनित छवि आकारों को डाउनलोड करने के लिए डाउनलोड चयनित बटन दबाएं।"
         ]
     },
     "FAQ": [
         {
-            "question": "छवियों के आकार को समायोजित करते समय safeimagekit.com से ई-मेल छवि पुनर्विक्रेता उपकरण द्वारा दी जाने वाली विशेषताएं क्या हैं?",
-            "answer": "Safeimagekit.com से ई-मेल इमेज रिसाइज़र संपादन के लिए अपलोड की गई छवि को आकार देते हुए बहुमुखी सुविधाएँ प्रदान करता है। मुख्य विशेषताओं में शामिल हैं-\n- विभिन्न श्रेणियों में छवि के कई संस्करण बनाना।\n- प्रत्येक छवि गुणवत्ता को अलग से संपादित करें।\n- चौड़ाई के संबंध में छवि के आकार को समायोजित करना।\n- ऊंचाई के संबंध में छवि के आकार को समायोजित करना।\n- छवि का पूर्ण आकार बदलना और उन्हें डाउनलोड करना।\n- छवियों को संपादित करें और चयनित लोगों या सभी छवि श्रेणियों को डाउनलोड करें।\n"
+            "question": "What are the features offered by the E-mail image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "E-mail image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories.\n"
         },
         {
-            "question": "Safeimagekit.com द्वारा प्रस्तुत ई-मेल छवि पुनर्विक्रेता में उपलब्ध विभिन्न छवि श्रेणियां कौन सी हैं?",
-            "answer": "ई-मेल छवि पुनर्विक्रेता कई अनुभागों में छवि संपादन विकल्प प्रदान करता है जहां एक उपयोगकर्ता फेसबुक ऐप/वेबसाइट में अपनी छवि अपलोड कर सकता है, इन श्रेणियों में शामिल हैं-\n- ई-मेल ब्लॉग छवि\n- ई-मेल ब्लॉग विशेष रुप से प्रदर्शित\n- ई-मेल हैडर छवि।"
+            "question": "What are the different image categories available in the E-mail image resizer offered by Safeimagekit.com?",
+            "answer": "The E-mail image resizer offers image editing options in multiple sections where a user can upload his/her image in the Facebook app/website, these categories include-\n-\tE-mail blog image\n-\tE-mail blog featured\n-\tE-mail header image."
         },
         {
-            "question": "मैं safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग करके छवि की चौड़ाई को कैसे समायोजित कर सकता हूं?",
-            "answer": "सबसे पहले चरण में, उस छवि को अपलोड करें जिसके लिए संपादन की आवश्यकता है। अगले चरण में छवि के महत्वपूर्ण मानकों को समायोजित करना शामिल है, इसमें चौड़ाई समायोजित करना शामिल है। अब, इस विकल्प को एक्सेस करने के लिए आपको सभी संस्करणों में से एक श्रेणी का चयन करना होगा और संपादन शुरू करने के लिए संपादन विकल्प को हिट करना होगा, फिर एक पॉप-अप होगा जिसमें आप छवि की चौड़ाई को खींच और समायोजित कर सकते हैं। बोनस विकल्प यह है कि हम छवि की आवश्यक सामग्री को केवल अंदर और बाहर स्क्रॉल करके नियंत्रित करने के लिए ज़ूम इन और आउट कर सकते हैं।"
+            "question": "How can I adjust the width of the image using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "मैं safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग करके छवि की ऊंचाई को कैसे समायोजित कर सकता हूं?",
-            "answer": "सबसे पहले चरण में, उस छवि को अपलोड करें जिसके लिए संपादन की आवश्यकता है। अगले चरण में छवि के महत्वपूर्ण मानकों को समायोजित करना शामिल है, इसमें ऊंचाई समायोजित करना शामिल है। अब, इस विकल्प को एक्सेस करने के लिए आपको सभी संस्करणों में से एक श्रेणी का चयन करना होगा और संपादन शुरू करने के लिए संपादन विकल्प को हिट करना होगा, फिर एक पॉप-अप होगा जिसमें आप छवि की ऊंचाई को खींच और समायोजित कर सकते हैं। बोनस विकल्प यह है कि हम छवि की आवश्यक सामग्री को केवल अंदर और बाहर स्क्रॉल करके नियंत्रित करने के लिए ज़ूम इन और आउट कर सकते हैं।"
+            "question": "How can I adjust the height of the image using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग करके मैं एक छवि का आकार कैसे बदल सकता हूं?",
-            "answer": "ऐसे 6 चरण हैं जिन्हें उपयोगकर्ता छवि फ़ाइल का आकार बदलते समय संदर्भित कर सकता है,\nइनमें शामिल हैं-\n- उस छवि फ़ाइल को अपलोड करें जिसमें बदलाव की आवश्यकता है।\n- दिए गए विकल्पों में से छवि की आवश्यक श्रेणी का चयन करें।\n- इमेज को उसकी ऊंचाई और चौड़ाई से एडजस्ट करना शुरू करने के लिए एडिट को हिट करें।\n- यदि आपको कई छवि श्रेणियां पसंद हैं, तो प्रत्येक छवि संस्करण के शीर्ष दाएं कोने पर एक बॉक्स पर क्लिक करके उन्हें चुनें।\n- किसी विशेष/एकाधिक संस्करणों को डाउनलोड करने के लिए “चयनित डाउनलोड करें” दबाएं।\n- वहां से सभी छवि संस्करणों को डाउनलोड करने के लिए “सभी डाउनलोड करें” दबाएं।"
+            "question": "How can I resize an image using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there."
         },
         {
-            "question": "क्या safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का आकार बदलने का विकल्प अपलोड की गई छवि फ़ाइल का आकार बदलने के बाद किसी भी प्रकार का पूर्वावलोकन प्रदान करता है?",
-            "answer": "नहीं, वर्तमान में safeimagekit.com से फोटो स्प्लिटर की रीसाइज़िंग सुविधा अपलोड की गई छवि के अनुभागों का किसी भी प्रकार का पूर्वावलोकन प्रदान नहीं करती है, क्योंकि कभी-कभी अपलोड की गई छवि के अनुभाग ओवरबोर्ड हो जाते हैं और ब्राउज़र के लिए छवि के प्रत्येक अनुभाग के पूर्वावलोकन को संभालना बहुत मुश्किल हो जाता है लेकिन, संपादन पूरा होने के बाद छवि को देखा जा सकता है और डाउनलोड किया जा सकता है। हालांकि, भविष्य में वेबसाइट के अपडेट सभी रोमांचक विशेषताओं को जोड़ देंगे।"
+            "question": "Does the resize option of the E-mail image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
         },
         {
-            "question": "क्या मैं अपने विंडोज 8 पर safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग कर सकता हूं?",
-            "answer": "ई-मेल इमेज रिसाइज़र फीचर safeimagekit.com द्वारा पेश की जाने वाली एक बहुमुखी सुविधा है जो विंडोज 8, लिनक्स और यहां तक कि उबंटू जैसे सभी ऑपरेटिंग सिस्टम द्वारा समर्थित है। यह सब लेता है www.safeimagekit.com वेबसाइट और खड़े होने के लिए एक सामान्य इंटरनेट कनेक्शन का उपयोग करके एक्सटेंशन फ़ाइल खोलने के लिए एक उपकरण है। मजेदार तथ्य यह है कि यह धीमे इंटरनेट कनेक्शन पर भी चल सकता है।"
+            "question": "Can I use the E-mail image resizer feature from safeimagekit.com on my Windows 8?",
+            "answer": "The E-mail image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "क्या मैं अपने Android डिवाइस पर safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग कर सकता हूं? ",
-            "answer": "हां, safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा एक क्रॉस-प्लेटफ़ॉर्म-आधारित सुविधा है जहां उपयोगकर्ता एंड्रॉइड, आईओएस, विंडोज और मैक ओएस जैसे ऑपरेटिंग सिस्टम से इस कनवर्टर टूल का उपयोग कर सकता है। यह उपयोग किए जाने वाले ऑपरेटिंग सिस्टम से स्वतंत्र है लेकिन केवल इंटरनेट कनेक्शन पर निर्भर करता है।"
+            "question": "Can I use the E-mail image resizer feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the E-mail image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "क्या हमें safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग करके रूपांतरण के बाद संशोधित छवियों को डाउनलोड करने के लिए किसी अतिरिक्त सॉफ़्टवेयर का उपयोग करना होगा?",
-            "answer": "नहीं, उपयोगकर्ता अपने संबंधित छवि मापदंडों को संशोधित करके अपनी छवि का आकार बदलने के बाद, नीचे दिए गए विकल्प को डाउनलोड कर सकते हैं और संशोधित छवि डाउनलोड कर सकते हैं। यह एक ब्राउज़र-आधारित कनवर्टर टूल है जो समर्थन नहीं करता है, या संशोधित छवि को डाउनलोड करने के लिए किसी अतिरिक्त सॉफ़्टवेयर की आवश्यकता नहीं है।"
+            "question": "Do we have to use any additional software to download the modified images after conversion using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image."
         },
         {
-            "question": "यदि हम safeimagekit.com से ई-मेल इमेज रिसाइज़र टूल का उपयोग कर रहे हैं, तो हम अपने ब्राउज़र को रीफ्रेश करते हैं, तो हमारी प्रगति का क्या होगा?",
-            "answer": "Safeimagekit.com से ई-मेल इमेज रिसाइज़र टूल किसी भी सर्वर से कनेक्ट नहीं है, इसलिए जिस डेटा पर उपयोगकर्ता काम कर रहा है उसे कहीं भी संग्रहीत नहीं किया जाएगा और परिणामस्वरूप, उपयोगकर्ता द्वारा ब्राउज़र को ताज़ा करने पर इसे तुरंत मिटा दिया जाएगा जिस पर वह काम कर रहा है। जिस छवि फ़ाइल को परिवर्तित किया जा रहा है, उसे उपयोगकर्ता के बाहर निकलने या उस टैब को बंद करने के बाद भी हटा दिया जाएगा जिस पर वेबसाइट का एक्सटेंशन पृष्ठ खुला है।"
+            "question": "What will happen to our progress if we refresh our browser while we are using the E-mail image resizer tool from safeimagekit.com?",
+            "answer": "The E-mail image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "क्या हम safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग करके लॉक की गई छवि फ़ाइलों का आकार बदल सकते हैं?",
-            "answer": "नहीं, हम उस छवि फ़ाइल को अपलोड नहीं कर सकते हैं जो लॉक है क्योंकि उस छवि फ़ाइल तक पहुंच अवरुद्ध है। इसलिए, safeimagekit.com से ई-मेल छवि पुनर्विक्रेता सुविधा का उपयोग करने के लिए हमें उन छवि फ़ाइलों को अपलोड करने की आवश्यकता है जो लॉक नहीं हैं। लेकिन उपयोगकर्ता safeimagekit.com से पासवर्ड खोजक एक्सटेंशन की जांच कर सकता है जो विशेष रूप से छवि के साथ-साथ छवि फ़ाइलों को अनलॉक करने के लिए बनाया गया है यदि उपयोगकर्ता अपनी लॉक की गई छवि फ़ाइल के लिए अपना पासवर्ड खो देता है।"
+            "question": "Can we resize the image files which are locked, using the E-mail image resizer feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the E-mail image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "क्या safeimagekit.com से ई-मेल छवि पुनर्विक्रेता फ़ाइल सुविधा का उपयोग करके छवि फ़ाइलों का आकार बदलने के बाद मेरी अपलोड की गई छवि फ़ाइलें दूषित हो जाएंगी?",
-            "answer": "नहीं, safeimagekit.com सभी नवीनतम कार्यक्रमों और सुरक्षा सुविधाओं के साथ बनाया गया है जो अपलोड की गई छवि फ़ाइलों को भ्रष्ट करने की अनुमति नहीं देता है। इसलिए, अपलोड की गई छवि फाइलें पूरी तरह से सुरक्षित और सुरक्षित हैं।"
+            "question": "Will my uploaded image files corrupt after resizing the image files using The E-mail image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "यदि मैं किसी समस्या का सामना करता हूं या यदि मैं कोई सुझाव देना चाहता हूं तो मैं कैसे संवाद कर सकता हूं?",
-            "answer": "हम ख़ुशी से सभी उपयोगकर्ताओं द्वारा दिए गए किसी भी मुद्दे या सुझावों को लेते हैं, कृपया अधिक जानकारी के लिए हमारे सोशल मीडिया हैंडल के माध्यम से हमसे संपर्क करें। SafeimageKit.com सभी प्रमुख सोशल मीडिया वेबसाइटों जैसे फेसबुक, इंस्टाग्राम, यूट्यूब और लिंक्डइन आदि पर उपलब्ध है।"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

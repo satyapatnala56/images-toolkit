@@ -66,68 +66,68 @@
     },
     "FAQ": [
         {
-            "question": "Sürücüme erişime izin vermek güvenli midir?",
-            "answer": "Evet, sürücünüze erişim sağlamak ve bize izin vermek kesinlikle güvenlidir. Sitenizde herhangi bir değişiklik yapmayacağız ve dfiles sizinle güvende olacaktır."
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "Sürücü/dropbox dosyalarımdan nasıl yükleyebilirim?",
-            "answer": "Açılır oku tıklayın ve Dropbox/Google Drive'ı seçin. Sürücünüzü bağlamak istediğiniz yerden Google hesabını seçin. Artık yüklemek istediğiniz dosyaları seçebilirsiniz."
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "Bir görüntüye filtre eklerken, safeimagekit.com'dan fotoğraf filtreleri tarafından sunulan özellikler nelerdir?",
-            "answer": "safeimagekit.com fotoğraf filtresi özelliği orada en iyi filtreleri sağlar. Bu filtreler, yüklenen görüntünün genel görünümünü değiştirir. Mevcut filtreler- Prewitt Yatay- Kırmızı, Yeşil, Gri Tonlama, Ters Çevir, Yüksek geçiş, Laplacian, Prewitt Dikey, Robert, Doygunluk, Sepia, Keskinleştirme, Sobel Yatay, Sobel Dikey, Eşik, Ayna. Alt kısımdaki uygulama özelliği yapılan değişiklikleri kaydeder ve kullanıcının görüntü dosyasını indirmesini sağlar."
+            "question": "What are the features offered by the photo filters from safeimagekit.com, while adding a filter to an image?",
+            "answer": "The photo filter feature from safeimagekit.com provides the best of filters out there. These filters change the overall look of the image uploaded. The available filters are- Prewitt Horizontal- Red, Green, Grayscale, Invert, High pass, Laplacian, Prewitt Vertical, Robert, Saturation, Sepia, Sharpen, Sobel Horizontal, Sobel Vertical,Thresholding, Mirror. The apply feature which is on the bottom saves the changes made and lets the user download the image file."
         },
         {
-            "question": "safeimagekit.com adresindeki fotoğraf filtresi özelliği altında bir görüntü dosyasına filtre ekleme işlemi nedir?",
-            "answer": "Safeimagekit.com adresindeki fotoğraf filers özelliği altında bir görüntü dosyasına filtre eklemek için 4 temel adım vardır. Bu özellikler şunları içerir-\n- Sağlanan alana gerekli görüntü dosyasını yükleyin.\n- Verilen çeşitli seçeneklerden uygun filtreyi seçin.\n- Filtreyi seçin ve o filtreyi o görüntüye uygulamak için Uygula'yı tıklatın.\n- Yapılan değişiklikleri kaydetmek ve değiştirilmiş görüntüyü indirmek için kaydedin."
+            "question": "What is the process of adding filters to an image file under the photo filter feature from safeimagekit.com?",
+            "answer": "There are 4 basic steps to add filters to an image file under the photo filers feature from safeimagekit.com. These features include-\n-\tUpload the required image file in the space provided.\n-\tChoose the appropriate filter from the variety of options given.\n-\tSelect the filter and click apply to apply that filter to that image.\n-\tHit save to save the changes made and download the modified image."
         },
         {
-            "question": "safeimagekit.com'un fotoğraf filtresi özelliği tarafından desteklenen görüntü formatları hangileridir?",
-            "answer": "Şu anda, safeimagekit.com fotoğraf filtresi özelliği orada görüntülerin tüm formatlarını destekler. Ancak, görüntüler aşağıdaki formatta ise kullanıcı en iyi avantajı elde edebilir-\n- Png\n- Jpeg\n- Jpg\n- Çiğ. \n- Eps, vs.\n"
+            "question": "Which are the image formats supported by the photo filter feature from safeimagekit.com?",
+            "answer": "Currently, the photo filter feature from safeimagekit.com supports all the formats of images out there. However, the user can gain the best advantage if the images are in the following format-\n-\tPng\n-\tJpeg\n-\tJpg\n-\tRaw \n-\tEps, etc.\n"
         },
         {
-            "question": "Laplacian filtresini, safeimagekit.com'dan yüklenen fotoğrafa fotoğraf filtresini nasıl uygularız?",
-            "answer": "Öncelikle, sağlanan yükleme alanında değişiklik gerektiren görüntüyü yükleyin. Ardından, filtrelerin araç kutusunda sağlanan çeşitli seçeneklerden Laplacian görüntü filtresini seçin. Ardından, filtrenin eklenmesinden sonra fotoğrafın önizlemesini almak için Uygula düğmesine basın. Yüklenen görüntüde yapılan değişiklikleri kaydetmek için “kaydet” e tıklayın. Son olarak, yeni ve geliştirilmiş görüntüyü indirmek için indirme seçeneğini tıklayın."
+            "question": "How do we apply the Laplacian filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the Laplacian image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "Biz bir önizleme olsun, safeimagekit.com gelen fotoğraf filtresi özelliğini kullanırken bir filtre ekledikten sonra görüntüyü kontrol etmek için?",
-            "answer": "Evet, safeimagekit.com'un fotoğraf filtresi özelliği, düzenlenmekte olan görüntünün görünümünü kontrol etmek için bir önizleme seçeneği sunar. Önizleme özelliğine erişmek için kullanıcının bir görüntü yüklemesi ve sağlanan filtrelerin çeşitliliğinden bu görüntüye filtre eklemesi gerekir. Ardından, o filtreyi o görüntüye uygulamak için Uygula düğmesine basın. Ardından, yeni bir filtreyle değiştirilen görüntünün önizlemesini alırız."
+            "question": "Do we get a preview, to check the image after adding a filter while using the photo filter feature from safeimagekit.com?",
+            "answer": "Yes, the photo filter feature from safeimagekit.com does provide a preview option to check the outlook of the image which is being edited. To access the preview feature, the user needs to upload an image and add a filter to that image from the variety of filters provided. Then, hit the apply button to apply that filter on that image. Then, we get a preview of the image which has been modified with a new filter."
         },
         {
-            "question": "Ayna filtresini, safeimagekit.com'dan yüklenen fotoğrafa fotoğraf filtresini kullanarak nasıl uyguluyoruz?",
-            "answer": "Ayna filtresi, kullanıcıya görüntünün tam bir ayna kopyasını sağlayan benzersiz bir filtredir. Öncelikle, sağlanan yükleme alanında değişiklik gerektiren görüntüyü yükleyin. Ardından, filtrelerin araç kutusunda sağlanan çeşitli seçeneklerden yansıtma görüntü filtresini seçin. Ardından, filtrenin eklenmesinden sonra fotoğrafın önizlemesini almak için Uygula düğmesine basın. Yüklenen görüntüde yapılan değişiklikleri kaydetmek için “kaydet” e tıklayın. Son olarak, yeni ve geliştirilmiş görüntüyü indirmek için indirme seçeneğini tıklayın."
+            "question": "How do we apply the Mirror filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "A Mirror filter is a unique filter that provides the user with an exact mirror copy of the image. First, upload the image which requires a change in the upload space provided. Then, select the Mirror image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "Safeimagekit.com'dan filtre ekle özelliğini kullanarak görüntü dosyasına filtre eklerken metin ekleyebilir veya kaldırabilir miyiz?",
-            "answer": "Hayır, safeimagekit.com adresinden filtre ekle özelliğini kullanarak yüklenen görüntü dosyasına filtre eklerken metin ekleyemez veya kaldıramayız, metin ekleme ve metin kaldırma özellikleri gibi metin düzenleme özellikleri şu anda dahil edilmemektedir. Fotoğraf filtresi özelliği yalnızca dönüştürmeyi destekler, ancak düzenlemeyi desteklemez. Ancak, web sitesindeki güncellemeler, tüm heyecan verici özellikleri bile web sitesine metin düzenleme özelliklerini getirecektir."
+            "question": "Can we add or remove text while adding a filter to the image file using the add filter feature from safeimagekit.com?",
+            "answer": "No, we cannot add or remove text while adding a filter to the uploaded image file using add filter feature from safeimagekit.com, the text editing features such as the text insertion and the text removal features are not included currently. The photo filter feature only supports conversion but not editing. However, updates to the website will bring all the exciting features even text editing features to the website."
         },
         {
-            "question": "Bir görüntü dosyasına filtre eklemek için safeimagekit.com'dan fotoğraf filtresi özelliği tarafından alınan süre nedir?",
-            "answer": "Zaman burada mevcut heyecan verici faktördür; safeimagekit.com fotoğraf filtresi özelliği tarafından alınan zaman tamamen yüklenen görüntü dosyasına bağlıdır. Yüklenen görüntünün boyutu daha büyükse, görüntü dosyasının dönüştürülmesini işlemek için geçen süre normal bir görüntü dosyasını dönüştürmek için geçen süreden biraz daha fazladır ve bunun tersi de geçerlidir. İnternet bağlantısı da dönüşüm hızında bir rol oynar (Hatta daha yavaş bir bağlantı üzerinde çalışır)."
+            "question": "What is the time taken by the photo filter feature from safeimagekit.com to add a filter to an image file?",
+            "answer": "Time is the exciting factor present here; time taken by the photo filter feature from safeimagekit.com entirely depends upon the image file uploaded. If the size of the image uploaded is more then the time taken to process the conversion of the image file is a bit more than the time taken to convert a normal image file and vice-versa. Internet connection also plays a role in the speed of conversion (It even works on a slower connection)."
         },
         {
-            "question": "safeimagekit.com'un fotoğraf filtresi özelliğini kullanırken tarayıcımızı yenilediğimizde ilerlememize ne olacak?",
-            "answer": "Safeimagekit.com'un fotoğraf filtresi özelliği orada herhangi bir sunucuya bağlı değildir, bu nedenle kullanıcının üzerinde çalıştığı veriler hiçbir yerde saklanmayacak ve sonuç olarak, kullanıcı üzerinde çalıştığı tarayıcıyı yenilediğinde anında silinecektir. Üzerinde çalışılan görüntü dosyaları, kullanıcı web sitesinin uzantı sayfasının açık olduğu sekmeden çıktıktan veya kapattıktan sonra da kaldırılacaktır."
+            "question": "What will happen to our progress if we refresh our browser while we are using the photo filter feature from safeimagekit.com?",
+            "answer": "The photo filter feature from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image files which are worked on will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "Ubuntu işletim sistemimde safeimagekit.com'daki fotoğraf filtresi özelliğini kullanabilir miyim?",
-            "answer": "Fotoğraf filtreleri, Windows 8, Linux ve hatta Ubuntu gibi tüm işletim sistemleri tarafından desteklenen safeimagekit.com tarafından sunulan çok yönlü bir özelliktir. Tek gereken, www.safeimagekit.com web sitesini ve üzerinde durmak için normal bir internet bağlantısını kullanarak uzantı dosyasını açmak için bir cihazdır. Eğlenceli gerçek şu ki, daha yavaş bir internet bağlantısında bile çalışabilir."
+            "question": "Can I use the photo filter feature from safeimagekit.com on my Ubuntu OS?",
+            "answer": "Photo filters is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "Sepya filtresini, yüklenen fotoğrafa safeimagekit.com'dan fotoğraf filtresini kullanarak nasıl uyguluyoruz?",
-            "answer": "Öncelikle, sağlanan yükleme alanında değişiklik gerektiren görüntüyü yükleyin. Ardından, filtrelerin araç kutusunda sağlanan çeşitli seçeneklerden sepya görüntü filtresini seçin. Ardından, filtrenin eklenmesinden sonra fotoğrafın önizlemesini almak için Uygula düğmesine basın. Yüklenen görüntüde yapılan değişiklikleri kaydetmek için “kaydet” e tıklayın. Son olarak, yeni ve geliştirilmiş görüntüyü indirmek için indirme seçeneğini tıklayın."
+            "question": "How do we apply the sepia filter using the photo filter from safeimagekit.com to the uploaded photo?",
+            "answer": "First, upload the image which requires a change in the upload space provided. Then, select the sepia image filter from the variety of options provided in the toolbox of filters. Then, hit the apply button to get a preview of the photo after the addition of the filter. Hit “save” to save the changes made to the uploaded image. Finally, hit the download option to download the new and improved image."
         },
         {
-            "question": "Fotoğraf filtresi aracı üzerinde çalışmayı tamamladıktan sonra dosyalarım kaydedilecek mi? ",
-            "answer": "Hayır, dosyalarınızdan herhangi birini sunucularımıza göndermiyoruz, tüm işlemler tarayıcının kendisinde yapılır, bu nedenle tüm dosyalarınız tamamen güvenlidir. "
+            "question": "Will my file be saved after I complete working on the photo filter tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "Fotoğraf filtresi aracını kullanmak için ek kayıt yaptırmam veya ekstra ödeme yapmam gerekiyor mu? ",
-            "answer": "Kesinlikle değil, aracımız tamamen çevrimiçi ve e-posta kimliği, şifreler vb gibi kişisel bilgilerinizi bizimle paylaşmanızı gerektirmez. Aracımız tamamen ücretsizdir."
+            "question": "Do I have to do any additional signup or pay extra to use the photo filter tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "Herhangi bir sorunla karşılaşırsam veya herhangi bir öneride bulunmak istersem nasıl iletişim kurabilirim?",
-            "answer": "Tüm kullanıcılar tarafından sunulan herhangi bir sorun veya öneriyi memnuniyetle alıyoruz, lütfen daha fazla bilgi için sosyal medya kollarımız aracılığıyla bizimle iletişime geçin. Safeimagekit.com Facebook, Instagram, YouTube ve LinkedIn gibi tüm önde gelen sosyal medya web sitelerinde kullanılabilir."
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

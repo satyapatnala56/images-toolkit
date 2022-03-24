@@ -1,16 +1,16 @@
 {
     "Language": "ภาษาไทย",
     "htmlLangAtt": "th",
-    "H1": "เครื่องกำเนิดน้ำ",
+    "H1": "เครื่องกำเนิดลายน้ำ",
     "img": "/img/watermark.png",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "อันตราย",
-    "H2": "มีน้ำลายและดีตมาตตังังังนี้",
-    "TITLE": "ภาพน้ำ- เครื่องลายน้ำฟรี - safeimagekit",
-    "META": "กำลังสร้าง น้ำลายลายภาพในหรือไม่?น้ำแบบมาอย่างดีที่แล้วสร้างบ้านน้ำน้ำอาเซียน และบ้านพักอาเซียน",
+    "H2": "การสร้างลายน้ำสำหรับภาพถ่ายทำได้ง่ายกับเราเริ่มต้นด้วยการอัปโหลดไฟล์ของคุณด้านล่าง",
+    "TITLE": "ภาพลายน้ำ- เครื่องทำลายน้ำฟรี - safeimagekit",
+    "META": "คุณกำลังมองหาลายน้ำภาพคุณภาพสูงสำหรับภาพหรือไม่?งั้นคุณก็มาถูกที่แล้วเครื่องมือสร้างลายน้ำออนไลน์ของเราปลอดภัยมาก ใช้งานง่าย และรวดเร็ว",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "red",
@@ -19,110 +19,110 @@
             "priority": 1,
             "logoUrl": "/img/featureproperty/highquality.png",
             "header": "คุณภาพสูง",
-            "content": "ผลงานสร้างน้ำลายลายน้ำน้ำน้ำภาพในผลงานของ"
+            "content": "เครื่องมือสร้างลายน้ำของเราสร้างลายน้ำคุณภาพสูงสำหรับภาพของคุณ"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/security.png",
-            "header": "ปลอดภัยของข้อมูล",
-            "content": "ไม่มีแบบมีคุณพร้อมให้บริการเซิร์ฟเวอร์ พร้อมการเก็บของ เองซึ่งผู้มาพร้อมการเก็บของปลอดภัย 100%"
+            "header": "ความปลอดภัยของข้อมูล",
+            "content": "ไม่มีข้อมูลของคุณถูกส่งไปยังเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์เองซึ่งช่วยให้เราปลอดภัย 100% สำหรับผู้ใช้ของเรา"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/flexible.png",
             "header": "Flexibilty",
-            "content": " เครื่องสร้างน้ำลายทำงานบนเครื่องของ"
+            "content": " เครื่องมือสร้างลายน้ำของเราทำงานบนเบราว์เซอร์และอุปกรณ์เกือบทุกชนิด"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/userfriendly.png",
             "header": "ใช้งานง่าย",
-            "content": "งานสร้างน้ำลายสังขามา"
+            "content": "เครื่องมือสร้างลายน้ำของเราเป็นเรื่องง่ายมากที่จะเข้าใจไม่จำเป็นต้องเป็นมืออาชีพในการทำงานกับเครื่องมือของเรา"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/free.png",
-            "header": "ไม่ใช้",
-            "content": "เครื่องสร้างน้ำลายไม่มีรายละเอียดสารสร้างของทุกท่านได้สร้างน้ำลายน้ำ"
+            "header": "ไม่เสียค่าใช้จ่าย",
+            "content": "เครื่องมือสร้างลายน้ำของเราไม่มีค่าใช้จ่ายคุณสามารถใช้เครื่องมือทั้งหมดของเราโดยไม่ต้องจ่ายเงินเพียงครั้งเดียว"
         },
         {
             "priority": 1,
             "logoUrl": "/img/featureproperty/nodownload.png",
-            "header": "แบบสแปมเพิ่มเติม",
-            "content": "งานสร้างน้ำลายเป็นแร่ มาพร้อมรับการติดตามการเป็นศึก"
+            "header": "ไม่มีการดาวน์โหลดเพิ่มเติม",
+            "content": "เครื่องมือสร้างลายน้ำของเราเป็นเบราว์เซอร์ที่สมบูรณ์และไม่จำเป็นต้องดาวน์โหลดซอฟต์แวร์เพิ่มเติมบนอุปกรณ์ของคุณ"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "วิธีเพิ่มน้ำลายไฟล์ PDF",
+        "heading": "วิธีเพิ่มลายน้ำลงในไฟล์ PDF ของฉัน",
         "steps": [
-            "ดรอปบ็อกซ์/กูเกิ้ลไลท์",
-            " ",
-            "เพิ่มการเป็นลายน้ำ",
-            "แปมเพื่อปกที่รับการทำ",
-            "ไชโย!!พร้อมพร้อมรค"
+            "อัปโหลดไฟล์รูปภาพของคุณหรือคลิกที่ลูกศรเลื่อนลงและเลือก Dropbox/Google ไดรฟ์",
+            "ปรับพารามิเตอร์ที่ต้องการ ",
+            "เพิ่มข้อความหรือรูปภาพเป็นลายน้ำ",
+            "กดปุ่มบันทึกเพื่อบันทึกการเปลี่ยนแปลงที่ทำ",
+            "ไชโย!!ภาพ พร้อมที่จะ ร็อค"
         ]
     },
     "FAQ": [
         {
-            "question": "จะปลอดภัยหรือไม่ที่จะอนุญาตให้เข้าถึงไดรฟ์ของฉัน?",
-            "answer": "ใช่ มันปลอดภัยอย่างยิ่งที่จะอนุญาตให้เราเข้าถึงไดรฟ์ของคุณเราจะไม่ทำการเปลี่ยนแปลงใด ๆ กับเว็บไซต์ของคุณ และ dfiles ของคุณจะปลอดภัยกับคุณ"
+            "question": "Is it safe to allow access to my drive?",
+            "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
         },
         {
-            "question": "ฉันจะอัปโหลดไฟล์จากไดรฟ์/Dropbox ของฉันได้อย่างไร",
-            "answer": "คลิกที่ลูกศรแบบเลื่อนลงและเลือก Dropbox/Google ไดรฟ์เลือกบัญชี Google จากตำแหน่งที่คุณต้องการเชื่อมโยงไดรฟ์ตอนนี้คุณสามารถเลือกไฟล์ที่คุณต้องการอัปโหลดได้"
+            "question": "How can I upload files from my drive/dropbox?",
+            "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
         },
         {
-            "question": "คุณลักษณะใดบ้างที่นำเสนอโดยคุณลักษณะลายน้ำจาก safeimagekit.com ในขณะที่เพิ่มลายน้ำลงในรูปภาพ?",
-            "answer": "คุณลักษณะลายน้ำจาก safeimagekit.com มีคุณสมบัติที่หลากหลายในขณะที่หัตถกรรมภาพคุณสมบัติหลัก ได้แก่\n- การแทรกข้อความเป็นลายน้ำบนไฟล์ภาพที่อัปโหลด\n- การปรับความโปร่งใสของข้อความของลายน้ำที่อัปโหลด\n- การปรับขนาดตัวอักษรของข้อความของลายน้ำที่จะแทรก\n- การปรับเปลี่ยนค่าจังหวะ\n- การแทรกภาพเป็นลายน้ำบนภาพต้นฉบับ\n- การปรับค่าเงาในไฟล์ภาพที่อัปโหลด\n- การปรับเปลี่ยนข้อความลายน้ำโดยตัวเอียง\n- ปรับความกล้าหาญของข้อความลายน้ำที่จะแทรก\n- ขีดเส้นใต้คุณลักษณะของข้อความลายน้ำ\n- การอัพเกรดลายน้ำด้วยตัวเลือกสี\n\n"
+            "question": "What are the features offered by the watermarking feature from safeimagekit.com while adding a watermark to an image?",
+            "answer": "The watermarking feature from safeimagekit.com offers versatile features while crafting an image. The main features include\n-\tInsertion of text as a watermark on the uploaded image file.\n-\tAdjusting the transparency of the text of the watermark uploaded.\n-\tAdjusting the font size of the text of the watermark to be inserted.\n-\tModifying the stroke value\n-\tInsertion of an image as a watermark on the original image\n-\tAdjusting the shadow value on the uploaded image file.\n-\tModifying the watermarked text by Italics.\n-\tAdjusting the boldness of the watermarked text to be inserted.\n-\tUnderlining feature of the watermarked text.\n-\tUpgrading the watermark with color options.\n\n"
         },
         {
-            "question": "ตัวเลือกการแทรกข้อความของภาพถ่ายลายน้ำจาก safeimagekit.com ทำงานอย่างไร?",
-            "answer": "ตัวเลือกการแทรกข้อความของคุณลักษณะลายน้ำภาพถ่ายจาก safeimagekit.com ช่วยให้ผู้ใช้เพิ่มข้อความในภาพเป็นลายน้ำข้อความที่เพิ่มเข้ามาสามารถปรับและแก้ไขได้โดยใช้คุณสมบัติหลายอย่าง เช่น การปรับสี ความหนาของข้อความ ฯลฯ ตัวเลือกการปรับสีช่วยให้ผู้ใช้เพิ่มสีให้กับข้อความในทางตรงกันข้าม ความหนาของข้อความช่วยให้ผู้ใช้สามารถปรับขนาดของข้อความได้ในการเข้าถึงคุณลักษณะนี้เพียงแค่พิมพ์ข้อความในช่องว่าง “ป้อนข้อความ” และกด “เพิ่มข้อความ” เพื่อสร้างลายน้ำ"
+            "question": "How does the text insertion option of watermark photos feature from safeimagekit.com work?",
+            "answer": "The text insertion option of the watermark photos feature from safeimagekit.com, lets the user add text on the image as a watermark. The added text can be adjusted and modified using several features such as color adjusting, the thickness of the text, etc. The color adjusting options let the user add color to the text, on the other hand, the thickness of the text lets the user adjusts the size of the text. To access this feature just type the text in the space “enter the text” and hit “add text” to generate the watermark."
         },
         {
-            "question": "ตัวเลือกการปรับความโปร่งใสของภาพถ่ายลายน้ำจาก safeimagekit.com ทำงานอย่างไร",
-            "answer": "ตัวเลือกการปรับความโปร่งใสของคุณลักษณะภาพลายน้ำจาก safeimagekit.com ช่วยให้ผู้ใช้สามารถปรับความโปร่งใสและความทึบของข้อความลายน้ำหรือภาพที่อัพโหลดได้ตัวเลือกนี้มีอยู่ในส่วนตรงกลางของหน้าตัวเลือกความโปร่งใสจะได้รับในระดับตั้งแต่ 0.1 ถึง 1การปรับค่านี้ทำได้และสามารถบันทึกได้โดยการกดปุ่มตัวเลือกการบันทึกตัวเลือกนี้สามารถเข้าถึงได้โดยกดปุ่ม “เลือกความโปร่งใส” และปรับขนาดและกด “เพิ่มข้อความ” เพื่อสร้างลายน้ำ"
+            "question": "How does the transparency adjustment option of the watermark photos feature from safeimagekit.com work?",
+            "answer": "The transparency adjustment option of the watermark photos feature from safeimagekit.com lets the user adjust the transparency and opacity of the watermarked text or the image uploaded. This option is available on the middle part of the page, the transparency option is given on a scale ranging from 0.1 to 1. This adjustment is made and can be saved by hitting the save option. This option can be accessed by hitting the “choose the transparency” option and adjust the scale and hit “add text” to generate the watermark."
         },
         {
-            "question": "เราจะปรับขนาดตัวอักษรของข้อความในขณะที่แก้ไขภาพโดยใช้คุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com?",
-            "answer": "ขนาดตัวอักษรของข้อความในขณะที่ปรับเปลี่ยนภาพโดยใช้คุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com สามารถปรับได้โดยการป้อนปัจจัยของขนาดตัวเลือกนี้สามารถเข้าถึงได้โดยการป้อนขนาดที่ถูกต้องในช่องว่างชื่อ “ป้อนขนาดตัวอักษร”ขนาดสามารถปรับได้โดยการป้อนค่าในช่องว่างนั้นขนาดตัวอักษรของข้อความที่สามารถเพิ่มขึ้นโดยการป้อนค่าที่อยู่ในบวก (+) ค่าขนาดตัวอักษรของข้อความที่สามารถลดลงโดยการป้อนค่าที่อยู่ในเชิงลบ (-) ค่า"
+            "question": "How do we adjust the font size of the text while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The font size of the text while modifying an image using the watermark photos feature from safeimagekit.com can be adjusted by entering the factor of size. This option can be accessed by entering the valid size on the space named “Enter the Font size”. The size can be adjusted by entering a value in that space. The font size of the text can be increased by entering the values which are in positive (+) value. The font size of the text can be decreased by entering the values which are in negative (-) value."
         },
         {
-            "question": "ค่าจังหวะทำงานอย่างไรในการแปลงภาพในคุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com?",
-            "answer": "ค่าจังหวะของคุณลักษณะลายน้ำภาพถ่ายจาก safeimagekit.com ทำงานโดยการปรับสีของข้อความหรือภาพที่แทรกอยู่ในภาพสำหรับการแก้ไขค่านี้สามารถเข้าถึงได้โดยการป้อนค่าในพื้นที่ที่ให้ไว้เรียกว่า “ป้อนค่าจังหวะ”ค่าจังหวะของภาพในขณะที่แปลงเป็นมมสามารถปรับได้โดยการป้อนค่าบวก (+) เพื่อเพิ่มจังหวะค่าโรคหลอดเลือดสมองสามารถลดลงได้โดยการป้อนค่าลบ (-) เพื่อลดจังหวะ\n\n"
+            "question": "How does the stroke value work in the image conversion in the watermark photos feature from safeimagekit.com?",
+            "answer": "The stroke value of the watermark photos feature from safeimagekit.com works by adjusting the color of the text or an image that is inserted in the image for editing. This value can be accessed by entering a value in the space provided called “Enter the stroke value”. The stroke value of the image while converting it into a meme can be adjusted by entering a positive value (+) to increase the stroke. The stroke value can be decreased by entering a negative value (-) to decrease the stroke.\n\n"
         },
         {
-            "question": "เราสามารถแทรกภาพบนภาพอื่นเป็นลายน้ำในขณะที่การปรับเปลี่ยนภาพโดยใช้คุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com?",
-            "answer": "ใช่ ฟีเจอร์รูปลายน้ำจาก safeimagekit.com มีตัวเลือกในการแทรกภาพบนภาพอื่นในขณะที่แก้ไขภาพคุณสมบัตินี้สามารถเข้าถึงได้ที่ด้านล่างของหน้าชื่อ “อัปโหลดภาพ”คุณลักษณะนี้จะช่วยให้เราวางภาพบนภาพอื่นนี้เป็นคุณลักษณะที่ระบุที่เราสามารถแทรกประเภทของภาพใด ๆ กับประเภทของภาพใด ๆภาพหลังจากการแก้ไขและการแทรกสามารถบันทึกได้โดยการกดปุ่มตัวเลือกที่เรียกว่า “บันทึก” นี้จะช่วยประหยัดความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we insert an image on another image as a watermark while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com does provide the option to insert an image on another image while modifying an image. This feature can be accessed at the bottom of the page named “upload image”. This feature lets us paste an image on another image, this is a nominal feature where we can insert any type of image on any type of image. The image after editing and inserting can be saved by hitting the option called “save”, this saves the progress which is made to the image."
         },
         {
-            "question": "เราสามารถแปลงข้อความของเราเป็นตัวเอียงซึ่งถูกป้อนลงบนภาพภายใต้การแก้ไขในขณะที่การปรับเปลี่ยนภาพโดยใช้คุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com?",
-            "answer": "ได้ ฟีเจอร์รูปลายน้ำจาก safeimagekit.com ช่วยให้ผู้ใช้สามารถแปลงข้อความที่ป้อนลงในรูปภาพเป็นรูปแบบตัวเอียงคุณลักษณะนี้สามารถเข้าถึงได้โดยการกดปุ่ม “ฉัน” ซึ่งย่อมาจากตัวเอียง, นี้จะแปลงปัจจุบันข้อความในภาพในรูปแบบตัวเอียง.หลังจากการแปลงกดปุ่มที่เรียกว่า “บันทึก”นี้จะช่วยบันทึกความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we convert our text to Italics which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the text which is entered on the image to italics format. This feature can be accessed by hitting the button “I” which stands for italics, this converts the text present on the image to italics form. After the conversion hit the button called “save\". This saves the progress which is made to the image."
         },
         {
-            "question": "เราสามารถแปลงข้อความของเราจากธรรมดาเป็นตัวหนาซึ่งถูกป้อนลงในภาพที่อยู่ระหว่างการแก้ไขในขณะที่การปรับเปลี่ยนภาพโดยใช้คุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com?",
-            "answer": "ใช่ ฟีเจอร์รูปลายน้ำจาก safeimagekit.com ช่วยให้ผู้ใช้สามารถแปลงข้อความล้วนเป็นข้อความตัวหนาซึ่งถูกป้อนลงบนภาพคุณลักษณะนี้สามารถเข้าถึงได้โดยการกดปุ่ม “B” ซึ่งย่อมาจากตัวหนาซึ่งจะแปลงข้อความล้วนในปัจจุบันในภาพเป็นข้อความตัวหนาหลังจากการแปลงกดปุ่มที่เรียกว่า “บันทึก”นี้จะช่วยบันทึกความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we convert our text from plain to bold, which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user convert the plain text to bold text which is entered on the image. This feature can be accessed by hitting the button “B” which stands for bold, this converts the plain text present on the image to bold text. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "เราสามารถขีดเส้นใต้ข้อความซึ่งเขียนบนภาพที่อยู่ระหว่างการแก้ไขในขณะที่การปรับเปลี่ยนภาพโดยใช้คุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com?",
-            "answer": "ได้ ฟีเจอร์รูปลายน้ำจาก safeimagekit.com ช่วยให้ผู้ใช้ขีดเส้นใต้ข้อความที่แทรกลงในภาพคุณลักษณะนี้สามารถเข้าถึงได้โดยการกดปุ่ม “U” ซึ่งย่อมาจากขีดเส้นใต้ซึ่งจะแปลงข้อความ (ปกติ) เพื่อขีดเส้นใต้ข้อความบนภาพหลังจากการแปลงกดปุ่มที่เรียกว่า “บันทึก”นี้จะช่วยบันทึกความคืบหน้าที่จะทำกับภาพ"
+            "question": "Can we underline the text, which is written on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "Yes, the watermark photos feature from safeimagekit.com lets the user underline the text which is inserted on the image. This feature can be accessed by hitting the button “U” which stands for Underline, this converts the text(normal) to underlined text on the image. After the conversion hit the button called “save”. This saves the progress which is made to the image."
         },
         {
-            "question": "วิธีที่เราสามารถสีข้อความที่ถูกป้อนในภาพภายใต้การแก้ไขในขณะที่การปรับเปลี่ยนภาพโดยใช้คุณลักษณะภาพถ่ายลายน้ำจาก safeimagekit.com?",
-            "answer": "ฟีเจอร์รูปลายน้ำจาก safeimagekit.com ทำให้ผู้ใช้ใช้สีข้อความบนภาพ ตัวเลือกนี้สามารถเข้าถึงได้โดยกดที่กล่องดำข้างคุณลักษณะหลัก ๆ หลังจากกดปุ่มกล่องสีดำแล้วกล่องสีจะปรากฏขึ้นและผู้ใช้สามารถเข้าถึงสีใดก็ได้ที่จะวาดบนข้อความ"
+            "question": "How can we color the text which is entered on the image under editing, while modifying an image using the watermark photos feature from safeimagekit.com?",
+            "answer": "The watermark photos feature from safeimagekit.com does let the user color the text on the image, this option can be accessed by hitting the black box beside every major feature, after hitting the black box the colour box pops up and the user can access any colour to paint on the text."
         },
         {
-            "question": "ไฟล์ของฉันจะถูกบันทึกหลังจากที่ฉันทำงานบนเครื่องมือสร้างลายน้ำเสร็จแล้วหรือไม่ ",
-            "answer": "ไม่เราไม่ได้ส่งไฟล์ใด ๆ ของคุณไปยังเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์ตัวเองดังนั้นไฟล์ทั้งหมดของคุณมีความปลอดภัยอย่างสมบูรณ์ "
+            "question": "Will my file be saved after I complete working on the watermark generator tool? ",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
         },
         {
-            "question": "ฉันจำเป็นต้องลงทะเบียนเพิ่มเติมหรือจ่ายเงินเพิ่มเพื่อใช้เครื่องมือสร้างลายน้ำหรือไม่ ",
-            "answer": "ไม่แน่นอนเครื่องมือของเราออนไลน์อย่างสมบูรณ์และไม่จำเป็นต้องให้คุณแบ่งปันข้อมูลส่วนบุคคลใด ๆ ของคุณกับเรา เช่น ID อีเมล รหัสผ่าน ฯลฯ เครื่องมือของเราไม่มีค่าใช้จ่าย"
+            "question": "Do I have to do any additional signup or pay extra to use the watermark generator tool? ",
+            "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
         },
         {
-            "question": "ฉันจะติดต่อสื่อสารได้อย่างไรหากฉันประสบปัญหาใด ๆ หรือฉันต้องการให้คำแนะนำใด ๆ",
-            "answer": "เรายินดีที่จะใช้ในปัญหาใด ๆ หรือข้อเสนอแนะที่นำเสนอโดยผู้ใช้ทั้งหมด, โปรดติดต่อเราผ่านการจัดการสื่อสังคมของเราสำหรับข้อมูลเพิ่มเติม.SafeImageKit.com สามารถใช้ได้ในทุกเว็บไซต์สื่อสังคมชั้นนำเช่น Facebook, Instagram, YouTube, และ LinkedIn ฯลฯ"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [

@@ -1,99 +1,99 @@
 {
     "Language": "ภาษาไทย",
     "htmlLangAtt": "th",
-    "h1": "แจ้งภาพเพื่อวิตตเทอร์",
+    "h1": "ปรับขนาดภาพสำหรับทวิตเตอร์",
     "img": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
     "imgwidth": "35px",
     "imgheight": "35px",
     "imgalt": "altvalue",
     "nofileupload": true,
     "variant": "เตือน",
-    "h2": "ต่อภาพคุณของที่นี่และขนาดเดี๋ยวนี้",
-    "TITLE": "ภาพขนาดภาพของ วิตตเทอร์ | ผลงานขนาดภาพออนไลน์ ",
-    "META": "สำหรับทวิตเตอร์สำหรับทวิตเตอร์?เยี่ยมชมและจัดห้องทวิทเทอในกรุงเทพ/2",
+    "h2": "อัปโหลดรูปภาพของคุณที่นี่และปรับขนาดเดี๋ยวนี้",
+    "TITLE": "ปรับขนาดภาพสำหรับทวิตเตอร์ | เครื่องมือปรับขนาดภาพออนไลน์ ",
+    "META": "กำลังมองหาตัวปรับขนาดภาพฟรีและออนไลน์สำหรับ Twitter?เยี่ยมชมเว็บไซต์ของเราและปรับขนาดภาพสำหรับทวิตเตอร์ในไม่กี่วินาที",
     "LABEL": "",
     "BREADCRUMB_LABEL": "",
     "color": "#ff884d",
     "megaMenu": {
         "nav-link-name": "Tools",
         "dropdown": [
-            {
-                "categoryName": "โซเอียลมีเซ",
+             {
+                "categoryName": "โซเชียลมีเดีย",
                 "links": [
                     {
-                        "name": "แอพรูปภาพในเครือ Facebook",
+                        "name": "ตัวปรับขนาดรูปภาพ Facebook",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
-                        "url": "/th/th/image-resize-facebook"
+                        "url": "/th/image-resize-facebook"
                     },
                     {
-                        "name": " ผู้สร้างภาพอินสตาแกรม",
+                        "name": " ตัวปรับขนาดภาพ Instagram",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
-                        "url": "/th/th/image-resize-instagram"
+                        "url": "/th/image-resize-instagram"
                     },
                     {
-                        "name": " ตัวขนาดปรีนิค ลิงเคดิน",
+                        "name": " ตัวปรับขนาดภาพ Linkedin",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
-                        "url": "/th/th/image-resize-linkedin"
+                        "url": "/th/image-resize-linkedin"
                     },
                     {
-                        "name": " คนขนาดโตเล่อิสโตน",
+                        "name": " ตัวปรับขนาดรูปภาพอีเมล",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
-                        "url": "/th/th/image-resize-email"
+                        "url": "/th/image-resize-email"
                     },
                     {
-                        "name": " ทิกต๊อง อิมเมจ",
+                        "name": " ทิกต็อก อิมเมจ",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
-                        "url": "/th/th/image-resize-tiktok"
+                        "url": "/th/image-resize-tiktok"
                     },
                     {
-                        "name": " แจ้งภาพวิตตเทอร์",
+                        "name": " ปรับขนาดภาพทวิตเตอร์",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
-                        "url": "/th/th/image-resize-twitter"
+                        "url": "/th/image-resize-twitter"
                     },
                     {
-                        "name": " ตัวปรับรูปPinterest",
+                        "name": " ตัวปรับขนาดภาพ Pinterest",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
-                        "url": "/th/th/image-resize-pinterest"
+                        "url": "/th/image-resize-pinterest"
                     },
                     {
-                        "name": "ตัวขนาดภาพสแนปแชต",
+                        "name": "ตัวปรับขนาดภาพ Snapchat",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
-                        "url": "/th/th/image-resize-snapchat"
+                        "url": "/th/image-resize-snapchat"
                     },
                     {
-                        "name": " บริการรับโฆษณาโฆษณาแบนเนอรของ กูเกิล",
+                        "name": " ตัวปรับขนาดรูปภาพโฆษณาแบนเนอร์ของ Google",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
-                        "url": "/th/th/image-resize-google-banner-ads"
+                        "url": "/th/image-resize-google-banner-ads"
                     },
                     {
-                        "name": " ร้านรับภาพแบบไม่ลงรอยกันกันของ",
+                        "name": " ตัวปรับขนาดภาพไม่ลงรอยกัน",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
-                        "url": "/th/th/image-resize-discord"
+                        "url": "/th/image-resize-discord"
                     },
                     {
-                        "name": " ห้องปรับภาพซาวด์คลาวด์",
+                        "name": " ตัวปรับขนาดภาพ SoundCloud",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
-                        "url": "/th/th/image-resize-soundcloud"
+                        "url": "/th/image-resize-soundcloud"
                     },
                     {
-                        "name": " แอพพลิเคชั่น Whatsapp",
+                        "name": " ตัวปรับขนาดภาพ Whatsapp",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
-                        "url": "/th/th/image-resize-whatsapp"
+                        "url": "/th/image-resize-whatsapp"
                     },
                     {
-                        "name": " ชุดรับภาพแบบสไวร์ซ",
+                        "name": " ตัวปรับขนาดภาพสแควร์สเปซ",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
-                        "url": "/th/th/image-resize-squarespace"
+                        "url": "/th/image-resize-squarespace"
                     },
                     {
-                        "name": " ตัวขนาดการทวิตช์",
+                        "name": " ตัวปรับขนาดภาพ Twitch",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
-                        "url": "/th/th/image-resize-twitch"
+                        "url": "/th/image-resize-twitch"
                     },
                     {
-                        "name": " ภาพขนาดภาพโพ",
+                        "name": " ตัวปรับขนาดภาพพิมพ์",
                         "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
-                        "url": "/th/th/image-resize-printing"
+                        "url": "/th/image-resize-printing"
                     }
                 ]
             }
@@ -104,101 +104,101 @@
             "priority": 1,
             "logoUrl": "/assets/lightbulb.svg",
             "header": "ใช้งานง่าย",
-            "content": "ระดับภาพขนาดภาพโซลมีเดียตรงตรงไปมา"
+            "content": "กระบวนการปรับขนาดภาพโซเชียลมีเดียสง่างามและตรงไปตรงมา"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/target.svg",
-            "header": "ส่วนการกำกับอย่างถิ่น",
-            "content": "ใช้และทั้งตัวและต้องการของใช้"
+            "header": "ผลลัพธ์ที่แม่นยำ",
+            "content": "ผลลัพธ์ที่ถูกต้องและด้วยเหตุนี้จึงสมบูรณ์ตอบสนองความต้องการของผู้ใช้"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cross.svg",
             "header": "ข้ามแพลตฟอร์ม",
-            "content": "พร้อมรับจากโปรแกรมนี้ บนระบบปฏิบัติการบน เช่น หน้าต่าง/แม็ค/ลินุกซ์/Android/iPhone"
+            "content": "คุณสามารถใช้โปรแกรมนี้จากนี้บนระบบปฏิบัติการใด ๆ เช่น Windows/Mac/Linux/Android/iPhone"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/shield.svg",
-            "header": "ปลอดภัยและสังเกตกร",
-            "content": "ไม่มีเครื่องเซียน และประพันธ์และประพันธ์คุณอย่างปลอดภัย"
+            "header": "ปลอดภัยและเชื่อถือได้",
+            "content": "ไม่มีเซิร์ฟเวอร์ที่เกี่ยวข้องและด้วยเหตุนี้ข้อมูลและไฟล์ของคุณมีความปลอดภัย"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/fast.svg",
             "header": "รวดเร็วและมีประสิทธิภาพ",
-            "content": "เว็บไซต์รับสนาม รับเซอร"
+            "content": "เว็บไซต์ประมวลผลไฟล์ของคุณได้อย่างรวดเร็วและมีประสิทธิภาพคุณสามารถทำงานของคุณเสร็จในเวลาไม่นาน"
         },
         {
             "priority": 1,
             "logoUrl": "/assets/cloud_new.svg",
-            "header": "ไม่มีผู้เรียน",
-            "content": "แอ่น แอทไวท์บนบ์คิว invlolving"
+            "header": "ไม่มีไฟล์ถูกอัปโหลด",
+            "content": "แอพลิเคชันทำงานอย่างสมบูรณ์บนเบราว์เซอร์ของคุณโดยไม่ต้อง invlolving เซิร์ฟเวอร์ใด ๆดังนั้นไฟล์ของคุณมีความปลอดภัย"
         }
     ],
     "HOW_TO_CONTENT": {
         "logoImageUrl": "/idea.svg",
-        "heading": "วิธีขนาดภาพของ",
+        "heading": "วิธีปรับขนาดภาพของคุณ",
         "steps": [
-            "ดาวน์โหลดเอกสาร:",
-            "เลือกขนาดที่แสนหรือขนาด",
-            "ไม่มีแบบเพื่อใส่กระเป๋าใส่แบบไม่มีแบบแขก",
-            "ใส่ใส่แบบเพื่อใส่ใส่ใส่ใส่ใส่หลวม"
+            "อัปโหลดรูปภาพที่คุณต้องการปรับขนาด",
+            "เลือกขนาดที่เหมาะสมหรือหลายขนาด",
+            "กดดาวน์โหลดทั้งหมดเพื่อดาวน์โหลดทุกขนาดที่มีอยู่",
+            "กดปุ่มดาวน์โหลดที่เลือกเพื่อดาวน์โหลดขนาดภาพที่เลือก"
         ]
     },
     "FAQ": [
         {
-            "question": "อะไรคือคุณสมบัติที่นำเสนอโดยเครื่องมือปรับขนาดภาพทวิตเตอร์จาก safeimagekit.com ในขณะที่ปรับขนาดของภาพหรือไม่",
-            "answer": "ปรับขนาดภาพทวิตเตอร์จาก safeimagekit.com มีคุณสมบัติที่หลากหลายในขณะที่การปรับขนาดภาพที่อัปโหลดสำหรับการแก้ไขคุณสมบัติหลัก ได้แก่\n- การสร้างหลายรุ่นของภาพในประเภทที่แตกต่างกัน\n- แก้ไขแต่ละคุณภาพของภาพแยกกัน\n- การปรับขนาดของภาพที่เกี่ยวกับความกว้าง\n- การปรับขนาดของภาพด้วยความสูง\n- ปรับขนาดภาพให้สมบูรณ์และดาวน์โหลดได้\n- แก้ไขภาพและดาวน์โหลดคนที่เลือกหรือทุกหมวดหมู่ภาพ\nข้อมูลสำคัญที่นี่คือขนาดของภาพของเรามีความแม่นยำสูง"
+            "question": "What are the features offered by the Twitter image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+            "answer": "Twitter image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories,\nThe important info here is that our image dimensions are super precise."
         },
         {
-            "question": "อะไรคือประเภทภาพที่แตกต่างกันที่มีอยู่ใน resizer ภาพทวิตเตอร์ที่นำเสนอโดย SafeImageKit.com?",
-            "answer": "ปรับขนาดภาพทวิตเตอร์มีตัวเลือกการแก้ไขภาพในหลายส่วนที่ผู้ใช้สามารถอัปโหลด/ภาพของเขาในแอป/เว็บไซต์ทวิตเตอร์หมวดหมู่เหล่านี้รวมถึง\n- ภาพโปรไฟล์ทวิตเตอร์\n- ส่วนหัวทวิตเตอร์\n- ภาพโพสต์ทวิตเตอร์\n- การ์ดสนทนาทวิตเตอร์\n- โฆษณาบัตรเว็บไซต์ทวิตเตอร์\n- โฆษณาบัตรแอปทวิตเตอร์\n- ภาพทวิตเตอร์ฟลีท.\n- ภาพการ์ดทวิตเตอร์\n- ทวิตเตอร์ม้าหมุน\n- ข้อความตรงทวิตเตอร์\n- ภาพขนาดย่อของวิดีโอทวิตเตอร์"
+            "question": "What are the different image categories available in the Twitter image resizer offered by Safeimagekit.com?",
+            "answer": "The Twitter image resizer offers image editing options in multiple sections where a user can upload his/her image in the Twitter app/website, these categories include-\n-\tTwitter profile photo.\n-\tTwitter header.\n-\tTwitter post image.\n-\tTwitter conversation card.\n-\tTwitter website card ad.\n-\tTwitter app card ad.\n-\tTwitter fleets images.\n-\tTwitter card image.\n-\tTwitter carousels.\n-\tTwitter direct message.\n-\tTwitter video thumbnail."
         },
         {
-            "question": "ฉันจะปรับความกว้างของภาพโดยใช้ฟีเจอร์ตัวปรับขนาดภาพของ Twitter จาก safeimagekit.com ได้อย่างไร?",
-            "answer": "ขั้นตอนแรกของทั้งหมด, อัปโหลดภาพที่ต้องแก้ไข.ขั้นตอนต่อไปรวมถึงการปรับพารามิเตอร์ที่สำคัญของภาพซึ่งรวมถึงการปรับความกว้างตอนนี้ในการเข้าถึงตัวเลือกนี้คุณจะต้องเลือกหมวดหมู่จากทุกรุ่นและกดปุ่มแก้ไขตัวเลือกที่จะเริ่มต้นการแก้ไขแล้วจะมีป๊อปอัพนั้นคุณสามารถลากและปรับความกว้างของภาพตัวเลือกโบนัสคือการที่เราสามารถซูมเข้าและออก, เพื่อควบคุมเนื้อหาที่จำเป็นของภาพเพียงแค่เลื่อนเข้าและออก."
+            "question": "How can I adjust the width of the image using the Twitter image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "question": "ฉันจะปรับความสูงของภาพโดยใช้ฟีเจอร์ ปรับขนาดภาพ Twitter จาก safeimagekit.com ได้อย่างไร?",
-            "answer": "ขั้นตอนแรกของทั้งหมด, อัปโหลดภาพที่ต้องแก้ไข.ขั้นตอนต่อไปรวมถึงการปรับพารามิเตอร์ที่สำคัญของภาพซึ่งรวมถึงการปรับความสูงตอนนี้ในการเข้าถึงตัวเลือกนี้คุณจะต้องเลือกหมวดหมู่จากทุกรุ่นและกดปุ่มแก้ไขตัวเลือกที่จะเริ่มต้นการแก้ไขแล้วจะมีป๊อปอัพนั้นคุณสามารถลากและปรับความสูงของภาพตัวเลือกโบนัสคือการที่เราสามารถซูมเข้าและออก, เพื่อควบคุมเนื้อหาที่จำเป็นของภาพเพียงแค่เลื่อนเข้าและออก."
+            "question": "How can I adjust the height of the image using the Twitter image resizer feature from safeimagekit.com?",
+            "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
         },
         {
-            "answer": "มี 6 ขั้นตอนที่ผู้ใช้สามารถอ้างถึงในขณะที่การปรับขนาดไฟล์ภาพเป็น\nพวกนี้รวมถึง\n- อัพโหลดไฟล์ภาพที่ต้องมีการเปลี่ยนแปลง\n- เลือกหมวดหมู่ที่ต้องการของภาพจากตัวเลือกที่มีให้\n- กดแก้ไขเพื่อเริ่มต้นการปรับภาพโดยความสูงและความกว้างของมัน\n- หากคุณชอบหมวดหมู่ภาพหลายประเภท เพียงแค่เลือกภาพโดยคลิกที่ช่องที่มุมขวาบนของภาพแต่ละรุ่น\n- กดปุ่ม “ดาวน์โหลดที่เลือก” เพื่อดาวน์โหลดเฉพาะ/หลายเวอร์ชัน\n- กด “ดาวน์โหลดทั้งหมด” เพื่อดาวน์โหลดทุกรุ่นภาพออกมี",
-            "question": "ฉันจะปรับขนาดภาพโดยใช้คุณลักษณะการปรับขนาดภาพของ Twitter จาก safeimagekit.com ได้อย่างไร?"
+            "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there.",
+            "question": "How can I resize an image using the Twitter image resizer feature from safeimagekit.com?"
         },
         {
-            "question": "ไม่ตัวเลือกการปรับขนาดของคุณสมบัติการปรับขนาดภาพของ Twitter จาก safeimagekit.com ให้ประเภทของการแสดงตัวอย่างใด ๆ หลังจากปรับขนาดไฟล์ภาพที่อัปโหลดหรือไม่",
-            "answer": "ไม่มีในขณะนี้คุณลักษณะการปรับขนาดของตัวแยกภาพจาก safeimagekit.com ไม่ได้ให้ตัวอย่างของส่วนต่างๆของภาพที่อัปโหลดใด ๆ เพราะบางครั้งส่วนของภาพที่อัปโหลดไปลงน้ำและจะกลายเป็นเรื่องยากมากสำหรับเบราว์เซอร์ในการจัดการการแสดงตัวอย่างของแต่ละส่วนของภาพแต่ภาพสามารถดูได้หลังจากการแก้ไขเสร็จสิ้นและสามารถดาวน์โหลดได้แม้ว่าการปรับปรุงเว็บไซต์ในอนาคตจะเพิ่มคุณสมบัติที่น่าตื่นเต้นทั้งหมด"
+            "question": "Does the resize option of the Twitter image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+            "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
         },
         {
-            "question": "ฉันสามารถใช้ฟีเจอร์การปรับขนาดภาพของ Twitter จาก safeimagekit.com บน Windows 8 ของฉันได้หรือไม่",
-            "answer": "คุณลักษณะการปรับขนาดภาพทวิตเตอร์เป็นคุณลักษณะที่หลากหลายที่นำเสนอโดย safeimagekit.com ซึ่งได้รับการสนับสนุนโดยทุกระบบปฏิบัติการออกมีเช่น Windows 8, Linux และแม้กระทั่ง Ubuntuทั้งหมดที่ใช้เป็นอุปกรณ์ที่จะเปิดไฟล์นามสกุลโดยใช้เว็บไซต์ www.safeimagekit.com และการเชื่อมต่ออินเทอร์เน็ตปกติที่จะยืนบนความจริงที่สนุกก็คือว่ามันยังสามารถทำงานบนการเชื่อมต่ออินเทอร์เน็ตช้าลง."
+            "question": "Can I use the Twitter image resizer feature from safeimagekit.com on my Windows 8?",
+            "answer": "The Twitter image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
         },
         {
-            "question": "ฉันสามารถใช้ฟีเจอร์ตัวปรับขนาดภาพของ Twitter จาก safeimagekit.com บนอุปกรณ์แอนดรอยด์ของฉันได้หรือไม่? ",
-            "answer": "ใช่คุณลักษณะการปรับขนาดภาพทวิตเตอร์จาก safeimagekit.com เป็นคุณลักษณะข้ามแพลตฟอร์มที่ผู้ใช้สามารถใช้เครื่องมือแปลงนี้จากระบบปฏิบัติการเช่น Android, iOS, Windows และ Mac OSมันเป็นอิสระจากระบบปฏิบัติการที่ใช้ แต่ขึ้นอยู่กับการเชื่อมต่ออินเทอร์เน็ต"
+            "question": "Can I use the Twitter image resizer feature from safeimagekit.com on my Android device? ",
+            "answer": "Yes, the Twitter image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
         },
         {
-            "question": "เราจำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติมใด ๆ ในการดาวน์โหลดภาพที่แก้ไขหลังจากการแปลงโดยใช้ฟีเจอร์ Twitter image resizer จาก safeimagekit.com หรือไม่?",
-            "answer": "ไม่มีผู้ใช้หลังจากปรับขนาดภาพของพวกเขาโดยการปรับเปลี่ยนพารามิเตอร์ภาพของตนสามารถกดดาวน์โหลดตัวเลือกที่จะได้รับด้านล่างและสามารถดาวน์โหลดภาพที่มีการแก้ไขมันเป็นเครื่องมือแปลงเบราว์เซอร์ที่ไม่สนับสนุนหรือไม่จำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติมในการดาวน์โหลดภาพที่แก้ไข"
+            "question": "Do we have to use any additional software to download the modified images after conversion using the Twitter image resizer feature from safeimagekit.com?",
+            "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image."
         },
         {
-            "question": "จะเกิดอะไรขึ้นกับความคืบหน้าของเราหากเรารีเฟรชเบราว์เซอร์ของเราในขณะที่เรากำลังใช้เครื่องมือปรับขนาดภาพทวิตเตอร์จาก safeimagekit.com?",
-            "answer": "เครื่องมือปรับขนาดภาพ Twitter จาก safeimagekit.com ไม่ได้เชื่อมต่อกับเซิร์ฟเวอร์ใด ๆ ออกมีดังนั้นข้อมูลที่ผู้ใช้กำลังทำงานอยู่จะไม่ถูกเก็บไว้ที่ใดก็ได้และเป็นผลให้มันจะถูกลบทันทีเมื่อผู้ใช้รีเฟรชเบราว์เซอร์ที่เขากำลังทำงานอยู่ไฟล์รูปภาพที่กำลังถูกแปลงจะถูกลบออกหลังจากที่ผู้ใช้ออกหรือปิดแท็บที่หน้าส่วนขยายของเว็บไซต์เปิดอยู่"
+            "question": "What will happen to our progress if we refresh our browser while we are using the Twitter image resizer tool from safeimagekit.com?",
+            "answer": "The Twitter image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
         },
         {
-            "question": "เราสามารถปรับขนาดไฟล์ภาพที่มีการล็อคโดยใช้คุณลักษณะการปรับขนาดภาพทวิตเตอร์จาก safeimagekit.com?",
-            "answer": "ไม่ได้ เราไม่สามารถอัพโหลดไฟล์อิมเมจที่ถูกล็อคได้ เนื่องจากการเข้าถึงไฟล์ภาพนั้นถูกบล็อกดังนั้นการใช้คุณลักษณะการปรับขนาดภาพทวิตเตอร์จาก safeimagekit.com เราจำเป็นต้องอัปโหลดไฟล์ภาพที่ไม่ได้ล็อคแต่ผู้ใช้สามารถตรวจสอบส่วนขยายค้นหารหัสผ่านจาก safeimagekit.com ซึ่งจะทำเฉพาะสำหรับการปลดล็อคภาพเช่นเดียวกับไฟล์ภาพในกรณีที่ผู้ใช้สูญเสียรหัสผ่านของเขาสำหรับไฟล์ภาพล็อคของเขา"
+            "question": "Can we resize the image files which are locked, using the Twitter image resizer feature from safeimagekit.com?",
+            "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the Twitter image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
         },
         {
-            "question": "ไฟล์รูปภาพที่อัพโหลดของฉันจะเสียหายหลังจากปรับขนาดไฟล์รูปภาพโดยใช้ฟีเจอร์ The Twitter image resizer จาก safeimagekit.com หรือไม่?",
-            "answer": "ไม่มี safeimagekit.com ถูกสร้างขึ้นด้วยโปรแกรมล่าสุดและคุณลักษณะความปลอดภัยซึ่งไม่อนุญาตให้ไฟล์ภาพที่อัปโหลดเสียหายดังนั้นไฟล์ภาพที่อัปโหลดมีความปลอดภัยและปลอดภัยอย่างสมบูรณ์"
+            "question": "Will my uploaded image files corrupt after resizing the image files using The Twitter image resizer file feature from safeimagekit.com?",
+            "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
         },
         {
-            "question": "ฉันจะติดต่อสื่อสารได้อย่างไรหากฉันประสบปัญหาใด ๆ หรือฉันต้องการให้คำแนะนำใด ๆ",
-            "answer": "เรายินดีที่จะใช้ในปัญหาใด ๆ หรือข้อเสนอแนะที่นำเสนอโดยผู้ใช้ทั้งหมด, โปรดติดต่อเราผ่านการจัดการสื่อสังคมของเราสำหรับข้อมูลเพิ่มเติม.SafeImageKit.com สามารถใช้ได้ในทุกเว็บไซต์สื่อสังคมชั้นนำเช่น Facebook, Instagram, YouTube, และ LinkedIn ฯลฯ"
+            "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+            "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
         }
     ],
     "jscdns": [
