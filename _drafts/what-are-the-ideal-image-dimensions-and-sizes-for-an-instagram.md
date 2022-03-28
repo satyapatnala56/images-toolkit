@@ -65,6 +65,8 @@ When you share photos and videos on Instagram, there are two main things to cons
 
 ### **Instagram Aspect Ratio (Dimension)**
 
+![It is expressed in the form of a ratio, like 4:5 or 9:16, where the first number represents the width and the second number represents the height.](/uploads/284.PNG "Instagram Aspect Ratio (Dimension)")
+
 The image size refers to the width of an image concerning its height.
 
 It is expressed in the form of a ratio, like 4:5 or 9:16, where the first number represents the width and the second number represents the height.
@@ -95,6 +97,8 @@ Sizes of Instagram messages now go from 16:9 all the way to 4:5!
 
 ### **Horizontals (16:9)**
 
+![we recommend that you do the height of your horizontal photo at least 1080px. Thus, when Instagram compresses the file, the quality should remain high enough.](/uploads/282.PNG "Instagram Post Size Guide1: Instagram Feed Posts.")
+
 Whereas Instagram recommends a post ratio of 1.91:1, you can actually go until 16:9.
 
 Be that as it may, we recommend that you do the height of your horizontal photo at least 1080px. Thus, when Instagram compresses the file, the quality should remain high enough.
@@ -116,6 +120,8 @@ Vertical poles take more real estate while someone parades through their home po
 With respect to size, we recommend using 1080px by 1350px. So when Instagram compresses the photo, it should show up at about 480px by 600px.
 
 ## **Instagram Post Size Guide2: Instagram Carousel Posts.**
+
+![If the first photo you select is square (as shown above), all your following content will be cropped in 1:1 format.](/uploads/28.PNG "Instagram Post Size Guide2: Instagram Carousel Posts.")
 
 Instagram carousel posts can be square, horizontal, or vertical and include photographs and videos.
 
@@ -146,6 +152,8 @@ To support this shift, Instagram has introduced a number of new features for Ins
 **Note:** Prevs will be limited to 15 seconds for streaming video ads.
 
 Instagram supports stream movie previews with aspect ratios ranging from 16:9 to 4:5. Videos must have a frame rate of 30 frames per second and file size of up to 4GB.
+
+![Instagram supports stream movie previews with aspect ratios ranging from 16:9 to 4:5. Videos must have a frame rate of 30 frames per second and file size of up to 4GB.](/uploads/283.PNG " Prevs will be limited to 15 seconds for streaming video ads.")
 
 After you nail down your Instagram video sizes, you can get your content out there with the Later Visual Instagram Planner.
 
