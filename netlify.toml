@@ -1,23 +1,23 @@
 [[redirects]]
   from = "/placeholder-images/sitemap.xml"
-  to = "https://iridescent-rugelach-9ada50.netlify.app/sitemap.xml"
+  to = "https://placeholderimages.netlify.app/sitemap.xml"
   force = true
   status = 200
 
 [[redirects]]
   from = "/placeholder-image-generator-tools"
-  to = "https://iridescent-rugelach-9ada50.netlify.app/placeholder-image-generator-tools"
+  to = "https://placeholderimages.netlify.app/placeholder-image-generator-tools"
   force = true
   status = 200	
 
 [[redirects]]
   from = "/placeholder-images"
-  to = "https://iridescent-rugelach-9ada50.netlify.app/dummy-image-generator"
+  to = "https://placeholderimages.netlify.app/dummy-image-generator"
   force = true
   status = 200
 
 [[redirects]]
   from = "/placeholder-images*"
-  to = "https://iridescent-rugelach-9ada50.netlify.app/placeholder-images/:splat"
+  to = "https://placeholderimages.netlify.app/placeholder-images/:splat"
   force = true
   status = 200
