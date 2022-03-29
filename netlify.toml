@@ -5,13 +5,13 @@
   status = 200
 
 [[redirects]]
-  from = "/placeholder-images"
+  from = "/placeholder-image-generator-tools"
   to = "https://iridescent-rugelach-9ada50.netlify.app/placeholder-image-generator-tools"
   force = true
   status = 200	
 
 [[redirects]]
-  from = "/dummy-image-generator"
+  from = "/placeholder-images"
   to = "https://iridescent-rugelach-9ada50.netlify.app/dummy-image-generator"
   force = true
   status = 200
