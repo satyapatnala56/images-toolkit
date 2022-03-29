@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "/placeholder-images/sitemap.xml"
+  to = "https://iridescent-rugelach-9ada50.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/multi-lingual-keyboard*"
+  to = "https://iridescent-rugelach-9ada50.netlify.app/:splat"
+  force = true
+  status = 200	
+
+[[redirects]]
+  from = "/placeholder-images*"
+  to = "https://iridescent-rugelach-9ada50.netlify.app/:splat"
+  force = true
+  status = 200
