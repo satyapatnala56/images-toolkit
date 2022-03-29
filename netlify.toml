@@ -5,7 +5,7 @@
   status = 200
 
 [[redirects]]
-  from = "/multi-lingual-keyboard*"
+  from = "/placeholder-images"
   to = "https://iridescent-rugelach-9ada50.netlify.app/:splat"
   force = true
   status = 200	
