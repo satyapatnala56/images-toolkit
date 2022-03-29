@@ -6,12 +6,18 @@
 
 [[redirects]]
   from = "/placeholder-images"
-  to = "https://iridescent-rugelach-9ada50.netlify.app/:splat"
+  to = "https://iridescent-rugelach-9ada50.netlify.app/placeholder-image-generator-tools"
   force = true
   status = 200	
 
 [[redirects]]
+  from = "/dummy-image-generator"
+  to = "https://iridescent-rugelach-9ada50.netlify.app/dummy-image-generator"
+  force = true
+  status = 200
+
+[[redirects]]
   from = "/placeholder-images*"
-  to = "https://iridescent-rugelach-9ada50.netlify.app/:splat"
+  to = "https://iridescent-rugelach-9ada50.netlify.app/placeholder-images/:splat"
   force = true
   status = 200
