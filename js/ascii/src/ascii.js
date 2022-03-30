@@ -23,6 +23,8 @@ https://github.com/victorqribeiro/imgToAscii
 
 */
 
+// █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+let first = true;
 class imgToAscii {
   constructor(image, size, charType) {
     this.size = (size <= 0 || size > 1 ? 1 : size) || 1;
@@ -101,6 +103,7 @@ class imgToAscii {
         ".",
         " ",
       ],
+      2: ["█", "▒", "░"],
     };
     this.string = "";
     this.stringColor = "";
@@ -160,11 +163,25 @@ class imgToAscii {
   }
 
   getPreElement() {
+    if (first == false) {
+      var Removepre = document.querySelector("pre");
+      Removepre.remove();
+    }
+    first = false;
+
     const pre = document.createElement("pre");
+    pre.setAttribute("id", "myInput")
     pre.style.fontFamily = "Courier, monospace";
     pre.style.lineHeight = "6px";
     pre.style.fontSize = "11px";
     pre.style.display = "inline-block";
+    if (invert == true) {
+
+      pre.style.background = "#000";
+      pre.style.color = "#fff";
+    }
+
+
     return pre;
   }
 
@@ -184,4 +201,32 @@ class imgToAscii {
     pre.innerHTML = this.stringColor;
     if (!appendToBody) return pre;
   }
+}
+
+let invert = false;
+const invertColor = () => {
+  if (invert == false) {
+    invert = true;
+  } else {
+    invert = false;
+  }
+  document.getElementById("fontLoader").style.display = `flex`;
+  document.getElementById("up").style.display = "none";
+  document.getElementById("sliderInput").style.display = "none";
+  document.getElementById("bottom").style.display = "none";
+  // document.getElementById("fontLoader").style.visibility = "visible";
+  fontFlag = true;
+  setAscii();
+
+  // $(window).scrollTop(0);
+  // document.getElementById("Showloader").style.display = "block";
+  // document.getElementById("slider").style.display = "none";
+  // document.getElementById("buttonDiv").style.display = "none";
+  // document.getElementById("modalContainer").style.display = "none";
+
+  // document.querySelector("#content").style.display = "block";
+  // document.querySelector("#upper-loader").style.display = "none";
+  // document.querySelector(".container2").style.height = `300px`;
+  // document.querySelector(".box-border").style.display = "block";
+  // document.querySelector(".box").style.background = "#6666ff";
 }
