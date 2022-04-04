@@ -1,6 +1,6 @@
 const fs = require('fs')
 const axios = require('axios')
-const data = fs.readFileSync('./_data/rating/rating.json', {
+const data = fs.readFileSync('./_data/rating/entry.json', {
   encoding: 'utf8',
   flag: 'r',
 })
