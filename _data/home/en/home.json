@@ -64,6 +64,13 @@
       "url": "/crop-image"
     },
     {
+      "name": "Gif cropper online",
+      "url": "/gif-crop-online",
+      "description": "Crops gif",
+      "color": "#ff704d",
+      "icon": "/img/home/crop.png"
+    },
+    {
       "name": "Image Filter Adder",
       "description": "Add filters to an image",
       "color": "#00b8e6",

@@ -13,6 +13,11 @@
             "url": "/ascii-art-from-image"
           },
           {
+            "iconSrc": "/img/ascii.png",
+            "name": "Text to ASCII art generator",
+            "url": "/text-to-ascii"
+          },
+          {
             "iconSrc": "/img/meme.png",
             "name": "Meme generator",
             "url": "/meme-generator"
@@ -44,6 +49,11 @@
         "links": [
           {
             "iconSrc": "/img/crop.png",
+            "name": "Gif cropper online",
+            "url": "/gif-crop-online"
+          },
+          {
+            "iconSrc": "/img/crop.png",
             "name": "Image cropper",
             "url": "/crop-image"
           },
@@ -62,7 +72,7 @@
             "name": "Crop tools",
             "url": "/all-crop-tools"
           },
-           {
+          {
             "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
             "name": "Placeholder image generator tools",
             "url": "/placeholder-image-generator-tools"
