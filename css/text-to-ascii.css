@@ -1,13 +1,13 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
-a {
+/* a {
   color: #0000ff;
 }
 
 a.visited {
   color: #0000ff;
-}
+} */
 
 #outputText {
   background-color: black;

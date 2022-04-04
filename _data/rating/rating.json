@@ -1,1 +1,244 @@
-{"tools":[{"name":"youtube banner cropper","rating":"5.00","votes":1},{"name":"Image Flipper","rating":"4.50","votes":8},{"name":"crop image to circle","rating":"5.00","votes":1},{"name":"crop picture into shape","rating":"5.00","votes":1},{"name":"jpegcompression","rating":"3.67","votes":3},{"name":"crop meme","rating":"5.00","votes":1},{"name":"snapchat-media-resizer","rating":"5.00","votes":2},{"name":"profile picture cropper","rating":"5.00","votes":1},{"name":"instagram-media-resizer","rating":"5.00","votes":1},{"name":"square image cropper","rating":"5.00","votes":1},{"name":"twitter image cropper","rating":"5.00","votes":2},{"name":"Text to image converter","rating":"4.50","votes":8},{"name":"google-banner-ads-media-resizer","rating":"5.00","votes":1},{"name":"gifcompression","rating":"4.17","votes":6},{"name":"crop image to specific size","rating":"5.00","votes":1},{"name":"imgcompression","rating":"4.75","votes":16},{"name":"pixel","rating":"4.50","votes":10},{"name":"pngcompression","rating":"4.00","votes":7},{"name":"Image-resizer-to-X","rating":"4.04","votes":51},{"name":"whatsapp-media-resizer","rating":"4.73","votes":11},{"name":"soundcloud-media-resizer","rating":"5.00","votes":2},{"name":"split","rating":"4.33","votes":12},{"name":"pinterest-media-resizer","rating":"4.50","votes":4},{"name":"jpg cropper","rating":"NaN","votes":0},{"name":"twitter-media-resizer","rating":"4.67","votes":3},{"name":"Image Filter Adder","rating":"4.43","votes":7},{"name":"Meme generator","rating":"4.00","votes":7},{"name":"Image Resizer","rating":"3.93","votes":14},{"name":"email-media-resizer","rating":"5.00","votes":1},{"name":"facebook-media-resizer","rating":"5.00","votes":4},{"name":"crop","rating":"4.11","votes":9},{"name":"ascii","rating":"4.05","votes":22},{"name":"png cropper","rating":"5.00","votes":1},{"name":"Image comparison","rating":"5.00","votes":2},{"name":"image crop by pixels","rating":"5.00","votes":1},{"name":"linkedin-media-resizer","rating":"5.00","votes":4},{"name":"crop an image on mac","rating":"NaN","votes":0},{"name":"printing-media-resizer","rating":"5.00","votes":2},{"name":"twitch-media-resizer","rating":"5.00","votes":1},{"name":"tiktok-media-resizer","rating":"5.00","votes":2},{"name":"crop photos for instagram","rating":"5.00","votes":1},{"name":"Watermark image maker","rating":"3.33","votes":9},{"name":"facebook photo cropper","rating":"5.00","votes":1},{"name":"squarespace-media-resizer","rating":"4.50","votes":2},{"name":"qrcode","rating":"5.00","votes":6},{"name":"discord-media-resizer","rating":"3.92","votes":13}]}
+{
+    "tools": [
+        {
+            "name": "gif-cropper",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "Ascii Art",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "youtube banner cropper",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "Image Flipper",
+            "rating": "4.50",
+            "votes": 8
+        },
+        {
+            "name": "crop image to circle",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "crop picture into shape",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "jpegcompression",
+            "rating": "3.67",
+            "votes": 3
+        },
+        {
+            "name": "crop meme",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "snapchat-media-resizer",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "profile picture cropper",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "instagram-media-resizer",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "square image cropper",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "twitter image cropper",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "Text to image converter",
+            "rating": "4.50",
+            "votes": 8
+        },
+        {
+            "name": "google-banner-ads-media-resizer",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "gifcompression",
+            "rating": "4.17",
+            "votes": 6
+        },
+        {
+            "name": "crop image to specific size",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "imgcompression",
+            "rating": "4.75",
+            "votes": 16
+        },
+        {
+            "name": "pixel",
+            "rating": "4.50",
+            "votes": 10
+        },
+        {
+            "name": "pngcompression",
+            "rating": "4.00",
+            "votes": 7
+        },
+        {
+            "name": "Image-resizer-to-X",
+            "rating": "4.04",
+            "votes": 51
+        },
+        {
+            "name": "whatsapp-media-resizer",
+            "rating": "4.73",
+            "votes": 11
+        },
+        {
+            "name": "soundcloud-media-resizer",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "split",
+            "rating": "4.33",
+            "votes": 12
+        },
+        {
+            "name": "pinterest-media-resizer",
+            "rating": "4.50",
+            "votes": 4
+        },
+        {
+            "name": "jpg cropper",
+            "rating": "NaN",
+            "votes": 0
+        },
+        {
+            "name": "twitter-media-resizer",
+            "rating": "4.67",
+            "votes": 3
+        },
+        {
+            "name": "Image Filter Adder",
+            "rating": "4.43",
+            "votes": 7
+        },
+        {
+            "name": "Meme generator",
+            "rating": "4.00",
+            "votes": 7
+        },
+        {
+            "name": "Image Resizer",
+            "rating": "3.93",
+            "votes": 14
+        },
+        {
+            "name": "email-media-resizer",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "facebook-media-resizer",
+            "rating": "5.00",
+            "votes": 4
+        },
+        {
+            "name": "crop",
+            "rating": "4.11",
+            "votes": 9
+        },
+        {
+            "name": "ascii",
+            "rating": "4.05",
+            "votes": 22
+        },
+        {
+            "name": "png cropper",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "Image comparison",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "image crop by pixels",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "linkedin-media-resizer",
+            "rating": "5.00",
+            "votes": 4
+        },
+        {
+            "name": "crop an image on mac",
+            "rating": "NaN",
+            "votes": 0
+        },
+        {
+            "name": "printing-media-resizer",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "twitch-media-resizer",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "tiktok-media-resizer",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "crop photos for instagram",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "Watermark image maker",
+            "rating": "3.33",
+            "votes": 9
+        },
+        {
+            "name": "facebook photo cropper",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "squarespace-media-resizer",
+            "rating": "4.50",
+            "votes": 2
+        },
+        {
+            "name": "qrcode",
+            "rating": "5.00",
+            "votes": 6
+        },
+        {
+            "name": "discord-media-resizer",
+            "rating": "3.92",
+            "votes": 13
+        }
+    ]
+}

@@ -24,6 +24,11 @@
       "url": "/ascii-art-from-image"
     },
     {
+      "iconSrc": "/img/ascii.png",
+      "name": "Text to ASCII art generator",
+      "url": "/text-to-ascii"
+    },
+    {
       "name": "QR Code Generator",
       "url": "/qr-code-generator"
     },
@@ -34,6 +39,10 @@
     {
       "name": "Image Compressor ",
       "url": "/compress-an-image"
+    },
+    {
+      "name": "Gif cropper online",
+      "url": "/gif-crop-online"
     },
     {
       "name": "Gif image compresor ",
