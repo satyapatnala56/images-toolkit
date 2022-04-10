@@ -12,7 +12,8 @@ tags:
 - 'facebook header image size 2021  '
 - facebook event header image size
 - facebook image size for ads
-categories: []
+categories:
+- general
 description: Do you intend to create a social media end-to-end marketing strategy
   in 2022? Then Facebook is probably one of the social media you're focusing on.  While
   many users have recently raised concerns regarding Facebook's data security and
@@ -24,7 +25,6 @@ image: "/uploads/the-most-useful-facebook-image-size-guide-2022.png"
 comments: false
 
 ---
-
 **THE MOST USEFUL FACEBOOK IMAGE SIZE GUIDE 2022**
 
 **SIDDHIKA PRAJAPATI | 10 APRIL 2022**
@@ -105,6 +105,8 @@ However, before we get started, here is a brief overview of the recommended size
 
 Image TypeSizeAspect Ratio
 
+![This blog will dig deeper into the different types of images that you will download on Facebook and highlight the recommended dimensions for each.](/uploads/10.PNG "Image TypeSizeAspect Ratio")
+
  1. Facebook profile photo 400 x 400 px 1:1.
  2. Cover image of the Facebook event 1920 x 1005 px 1.91:1.
  3. Cover photo of Facebook 1920x1005 px 1.91:1.
@@ -159,7 +161,8 @@ In general, if you are posting content on Facebook, you will need to upload cove
 * Groups
 * Business pages
 * Personal profiles
-* 
+
+  ![The recommended size and image format of the Facebook cover vary by the type of photo you upload. Let's have a look at the various dimensions of the Facebook cover.](/uploads/100.PNG "Facebook Cover Photo Sizes & dimensions.")
 
 The recommended size and image format of the Facebook cover vary by the type of photo you upload. Let's have a look at the various dimensions of the Facebook cover.
 
@@ -237,6 +240,8 @@ As for the pictures, you can download videos of different dimensions and directi
 ## **Facebook Link Photo sizes.**
 
 If you share links in a Facebook message, the recommended image size is 1200x630 pixels.
+
+![Facebook Link Photo sizes.  If you share links in a Facebook message, the recommended image size is 1200x630 pixels.](/uploads/102.PNG "Facebook Link Photo sizes.  ")
 
 These dimensions are the same as the pictures from the cover of the event.
 
