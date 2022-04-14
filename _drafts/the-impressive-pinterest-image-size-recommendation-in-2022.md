@@ -26,7 +26,7 @@ image: "/uploads/appscsm-what-is-the-ideal-image-size-for-youtube-1.png"
 comments: false
 
 ---
-#  **THE IMPRESSIVE PINTEREST IMAGE SIZE RECOMMENDATION IN 2022**
+# **THE IMPRESSIVE PINTEREST IMAGE SIZE RECOMMENDATION IN 2022**
 
 ### 
 
@@ -84,7 +84,7 @@ comments: false
 
 ### For quite some time, that topped out at 736 x 1104 pixels, but they've scaled down the size of the Pin when clicked. Now a 2:3 Pin will never appear more significant than 564 x 846 on a desktop.
 
-### 
+### ![Now a 2:3 Pin will never appear more significant than 564 x 846 on a desktop.](/uploads/146.PNG "COMPLETE GUIDE")
 
 ### In 2018, Pinterest recommended you create Pins at 600 x 900-pixel size. Now Pinterest says 1000 x 1500 pixels is optimal – or any 2:3 aspect ratio.
 
@@ -122,7 +122,7 @@ comments: false
 
 ### **_2×3 aspect ratio is best practice; however, the bigger, the better to avoid pixelation on mobile and high-resolution screens. Technically speaking 600px x 900px is correct BUT 1000px x 1500px tends to be a bit better quality. They're both the same aspect ratio; it's just a larger version of the image._**
 
-### 
+### ![Technically speaking 600px x 900px is correct BUT 1000px x 1500px tends to be a bit better quality.](/uploads/144.PNG "Pinterest ")
 
 ### I haven't seen any evidence that the platform favours 1000 pixel width images over 600, though some Pinners assert that it does. Pinterest is pushing for larger images, so you may want to test it for your own account!
 
@@ -211,7 +211,7 @@ comments: false
 
 ### In March 2018, Pinterest confirmed that Pins longer than a 1:2.1 proportion would be cropped. You should consider this for your designs going forward. In June 2018, Pinterest said their algorithm would favour Pins that are approximately 2:3 proportion. Deviate much from that "golden ratio," and you may struggle to get traction.
 
-### 
+### ![Pins longer than 2:3 will have to earn their right to be seen. ](/uploads/145.PNG "Previous Pin size updates")
 
 ### Pins longer than 2:3 will have to earn their right to be seen. If you take twice up as much height as a 2:3 Pin, you'll need twice as much engagement to get into the Smart Feed as often.
 
@@ -285,7 +285,7 @@ comments: false
 
 ### **How short should your Video be?** Pinterest keeps stats on promoted videos, where they say 6–15 seconds works best. Now that's short! Also, be sure to specify a strong cover image. Your cover image shows up in people's feeds and should provide a good sense of what they're about to watch.
 
-### 
+### ![Aspect ratio: Shorter than 1:2 (width:height), taller than 1.91:1. There is a clear winner here, though. ](/uploads/147.PNG "Pinterest accepts a variety of shapes for videos.")
 
 ## **Pinterest accepts a variety of shapes for videos.**
 
@@ -387,7 +387,7 @@ comments: false
 
 ## **Pin Image specs**
 
-### 
+### ![We recommend using a 2:3 aspect ratio, or 1000 x 1500 pixels. Pins with an aspect ratio that's greater than 2:3 might get cut off in people's feeds.](/uploads/148.PNG "Pin Image specs")
 
 * File type: PNG or JPEG
 * Max file size: 32 MB (previously only 10MB!)
@@ -521,9 +521,12 @@ comments: false
 
 ### 
 
-1. 1. Load the image you wish to resize.
-2. 2. Choose the correct size or several sizes.
-3. 3. Select the download to load all available sizes.
+1. 
+   1. Load the image you wish to resize.
+2. 
+   1. Choose the correct size or several sizes.
+3. 
+   1. Select the download to load all available sizes.
 4. Click on the selected download button to download the selected image sizes.
 
 ### 
