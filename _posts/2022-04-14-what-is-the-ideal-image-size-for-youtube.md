@@ -62,6 +62,8 @@ comments: false
 
 ### In this post, we will cover what each company needs to know to create YouTube banners in the correct file sizes and sizes for different devices. We will also share some of our favorite examples of YouTube banners so that you can create your own banner.
 
+![We will also share some of our favorite examples of YouTube banners so that you can create your own banner.](/uploads/143.PNG "YOUTUBE BEST TIPS")
+
 ### Let's start with the design details for your banner.
 
 ### Are you interested in getting your own video? Visit our social media video page for more information and examples.
@@ -94,6 +96,8 @@ comments: false
 ### Alert: Be aware of your YouTube banner security zone. They can be risky for you and your page.
 
 ### To safeguard your YouTube banner is viewed excellently, you'll want to comprehend your "safe area." If you're hearing them for the first period, your "safe area" is the minimal area you need to guarantee your banner displays properly.
+
+![Ensure that any part of your image that is critical to your YouTube banner is entirely within the 1235 x 338 pixels security zone.](/uploads/14.PNG "YOUTUBE SIZE GUIDE")
 
 ### Ensure that any part of your image that is critical to your YouTube banner is entirely within the 1235 x 338 pixels security zone. You don't want anything that seems inconvenient for potential viewers of your YouTube channel, which might disable them from your channel.
 
@@ -145,7 +149,7 @@ comments: false
 
 ## **FAQS-**
 
-## 
+## ![If you need to make a banner out of your channel, using a template can make things a lot easier.](/uploads/141.PNG "YouTube banner template.")
 
 ## How to do the YouTube banner template.
 
