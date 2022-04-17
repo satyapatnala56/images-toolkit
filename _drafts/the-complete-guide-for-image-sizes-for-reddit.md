@@ -21,7 +21,7 @@ comments: false
 
 ### 
 
-### **SIDDHIKA PRAJAPATI | 1 APRIL 2022**
+### **SIDDHIKA PRAJAPATI | 17 APRIL 2022**
 
 ### **Reddit has gradually grown into an enormous community deliberation social media platform with billions of users around the planet. As more people herd to the site, the first matter they try to do is customize their profile. Nevertheless, most of them are ignorant of the ideal Reddit banner sizing, profile picture size, and other proportions.**
 
