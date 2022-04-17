@@ -62,6 +62,8 @@ Snapchat ads will be especially interesting for you if you're a business - they'
 
 ## **Snapchat Video Story Size**
 
+![the video format is the most common across the channel.](/uploads/1.PNG "Snapchat Video Story Size")
+
 No surprise here: the video format is the most common across the channel.
 
 While users mostly use it to communicate with each other through the app, you can post videos to your story. So others can see what you're up to (but in business terms: this allows you to promote your business, your designs, your art, and so on).
@@ -77,6 +79,8 @@ The specs are the same as before: the recommended dimensions are 1080 x 1920, an
 Accepted video formats are .MP4 and. MOV. And the video can be a whopping 180 seconds long! Enough to tell any story if you ask us.
 
 ## **Snapchat Shared Image Size**
+
+![Like Instagram Stories, snaps take up the full screen of your phone. One thousand eighty pixels wide by 1,920 pixels tall.](/uploads/17.PNG "Snapchat Shared Image Size")
 
 Like Instagram Stories, snaps take up the full screen of your phone. One thousand eighty pixels wide by 1,920 pixels tall.
 
@@ -111,6 +115,8 @@ No need to know any aspect ratios here. Just tap your profile to edit your Bitmo
 You won't need a cover photo, header image, channel art, thumbnail, or any other type of visual to deck your Snapchat channel. We've covered all the basics you need to know.
 
 ## **Summary and how to start**
+
+![l rule of thumb is to stick to the pre-set mobile aspect ratio of 9:16.](/uploads/175.PNG " Snapchat")
 
 When it comes to Snapchat, there are a few ways to go wrong. Images or videos taken via the app are the correct aspect ratio already, and the general rule of thumb is to stick to the pre-set mobile aspect ratio of 9:16.
 
