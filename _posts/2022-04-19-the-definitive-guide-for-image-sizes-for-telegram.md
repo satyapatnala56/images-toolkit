@@ -25,12 +25,6 @@ comments: false
 
 ### 
 
-### **1500-1600+**
-
-### 
-
-### **KEYWORDS-**
-
 ## The first thing anyone who wants to talk to you about Telegram sees is a photo in the upper left corner of your Telegram profile photo. It is how you identify with others, an image that introduces you to your Telegram contacts.
 
 ## **-Introduction**
