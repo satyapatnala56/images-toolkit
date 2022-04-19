@@ -11,7 +11,7 @@ description: WeChat is the best chat application at this time. You can find a lo
 title: " THE COMPLETE GUIDE FOR IMAGE SIZES FOR WECHAT"
 layout: post
 author: Siddhika
-image: ''
+image: "/uploads/the-complete-guide-for-image-sizes-for-wechat.png"
 comments: false
 
 ---
