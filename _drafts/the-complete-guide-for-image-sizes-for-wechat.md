@@ -15,7 +15,6 @@ image: "/uploads/the-complete-guide-for-image-sizes-for-wechat.png"
 comments: false
 
 ---
-
 # **THE COMPLETE GUIDE FOR IMAGE SIZES FOR WECHAT**
 
 ### 
@@ -23,10 +22,6 @@ comments: false
 ### **SIDDHIKA PRAJAPATI | 19 APRIL 2022**
 
 ### 
-
-### 
-
-### **1000-1200+**
 
 ## WeChat is the best chat application at this time. You can find a lot of useful features, like unlimited free text messages, voice calls, video calls, stickers, and voice recordings. they even have group discussions, video visuals, photo sharing, video sharing, document and file transfer, and much more. This app greatly facilitates communication!
 
@@ -68,7 +63,7 @@ comments: false
 
 ## **Wechat profile photo/image size.**
 
-## If you are using an Android phone, such as Samsung, HTC, LG, Motorola, Lenovo, Xiaomi, Huawei, or Nexus, you may want to check out this guide for zip files on Android phones. 
+## If you are using an Android phone, such as Samsung, HTC, LG, Motorola, Lenovo, Xiaomi, Huawei, or Nexus, you may want to check out this guide for zip files on Android phones.
 
 ## Afterwards, you can share compressed photos or videos via WeChat. then take a person in WeChat Chats or contact list and send the compressed photos or videos. If you use a Samsung Galaxy phone, you can find the file in either the ES file manager or the inventory file manager called My Files. then press and hold the compressed photos or videos, you will find the Share via the option to select and send the file to WeChat.
 
