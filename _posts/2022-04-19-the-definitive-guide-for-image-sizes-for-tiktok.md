@@ -6,7 +6,8 @@ tags:
 - "  tiktok green screen image size"
 - "\"tiktok image size too small "
 - " tiktok profile image size"
-categories: []
+categories:
+- general
 description: On the social media scene, TikTok is an emerging platform that challenges
   the standing of other options such as Facebook, Instagram, and Twitter. TikTok has
   a slightly different angle – presenting short videos as the perfect form of content.
