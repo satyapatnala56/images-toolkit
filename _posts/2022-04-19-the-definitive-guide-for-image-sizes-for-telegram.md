@@ -49,7 +49,7 @@ To add your Telegram profile photo, follow the steps below:
 
 The Telegram profile photo is an excellent opportunity to show all your contacts some of the beautiful locations you have visited. But don't forget that a landscape should never be the sole protagonist in your profile picture.
 
-Sometimes you travel to a place and take incredible pictures of the scenery, a landmark, or breathtaking views. But you're trying to take a picture of yourself right now, and you're running out of drums, or maybe you don't like how you look. You always want to show your contact on Whatsapp the incredible place you have visited, but you don't have any suitable photos. But don't panic: our Telegram photo tool is the perfect solution for you!
+Sometimes you travel to a place and take incredible pictures of the scenery, a landmark, or breathtaking views. But you're trying to take a picture of yourself right now, and you're running out of drums, or maybe you don't like how you look. You always want to show your contact on Whatsapp the incredible place you have visited, but you don't have any suitable photos. But don't panic, our Telegram photo tool is the perfect solution for you!
 
 On the other hand, if you want your face to be the focal point of the image, busy backgrounds. This can divert your attention, which is not ideal if you want a profile photo that accurately portrays you. In this case, it is preferable to use a plain or straightforward coloured background. If this happens, our Telegram profile photo editor can also help! Read on to find out more!
 
