@@ -13,19 +13,8 @@ image: "/uploads/the-definitive-guide-for-image-sizes-for-telegram.png"
 comments: false
 
 ---
-# 
-
-# **THE DEFINITIVE GUIDE FOR IMAGE SIZES FOR TELEGRAM**
 
 ### 
-
-### **SIDDHIKA PRAJAPATI | 19 APRIL 2022**
-
-### 
-
-### 
-
-## The first thing anyone who wants to talk to you about Telegram sees is a photo in the upper left corner of your Telegram profile photo. It is how you identify with others, an image that introduces you to your Telegram contacts.
 
 ## **-Introduction**
 
