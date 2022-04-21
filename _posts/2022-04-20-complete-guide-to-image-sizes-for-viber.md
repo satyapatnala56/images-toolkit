@@ -9,27 +9,17 @@ categories:
 description: All information about images and social media size, including banners,
   headers, profile photos, etc. They have changed over and over again, month after
   month.
-title: COMPLETE GUIDE TO IMAGE SIZES FOR VIBER
+title: Complete Guide To Image Sizes For Viber
 layout: post
 author: Siddhika
 image: "/uploads/complete-guide-to-image-sizes-for-viber.png"
 comments: false
 
 ---
-
-# **COMPLETE GUIDE TO IMAGE SIZES FOR VIBER**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 20 APRIL 2022**
-
-## **-Introduction**
-
 Like always, I'll be frank. All information about images and social media size, including banners, headers, profile photos, etc. They have changed over and over again, month after month.
 
 As a result, this article aims to provide you with information about sizes and dimensions so that you can work with images on social networks. Also to give you some useful tips to optimize your brand strategy by improving your image through Facebook, Twitter, Youtube, Instagram, and other sites.
 
-  
 ![ Also to give you some useful tips to optimize your brand strategy by improving your image through Facebook, Twitter, Youtube, Instagram, and other sites.](/uploads/scw.PNG "viber")
 
 Competition on social media is fierce, and any possibility of attracting new customers cannot be squandered. Users are exposed to vast quantities of information each minute. Thus, the first impression of a brand should be shocking and compelling at first sight. If you want to avoid the errors that all companies make on social networks, then be sure to read this article.
@@ -40,7 +30,6 @@ Now, I present to you all the information I have gathered about the image sizes 
 
 Viber is a mobile app used to communicate with other people. It is very popular on account of its characteristics. You can share messages, make voice and video calls, and reach communities or groups.
 
-  
 ![You can share messages, make voice and video calls, and reach communities or groups.](/uploads/ds-1.PNG "Viber size guide")
 
 You can install it on Android or IOS or upload it to your computer's desktop. Viber doesn't require a username and password, unlike some of the other chat applications.
