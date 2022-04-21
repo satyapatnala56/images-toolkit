@@ -23,20 +23,14 @@ categories:
 description: Twitter has updated its suggested image sizes ONCE AGAIN. If you're behind
   on the last Twitter updates, it's time to catch up. In this article, we've compiled
   a Twitter Picture Size Job Aid with updated information for 2022.
-title: HOW TO MAKE THE PERFECT TWITTER IMAGE SIZE? IT'S ALWAYS AN UP-TO-DATE GUIDE
-  TO TWITTER.
+title: How To Make The Perfect Twitter Image Size? It's Always An Up-To-Date Guide
+  To Twitter.
 layout: post
 author: Siddhika
 image: "/uploads/how-to-make-the-perfect-twitter-image-size-it-s-always-an-up-to-date-guide-to-twitter.png"
 comments: false
 
 ---
-# **HOW TO MAKE THE PERFECT TWITTER IMAGE SIZE? IT'S ALWAYS AN UP-TO-DATE GUIDE TO TWITTER.**
-
-**SIDDHIKA PRAJAPATI | 25 MARCH 2022**
-
-## **-Introduction**
-
 Twitter has updated its suggested image sizes ONCE AGAIN. If you're behind on the last Twitter updates, it's time to catch up. Social media platforms are changing their algorithms and interfaces all the time. Content developers and marketers must be proactive and stay abreast of the latest news. While this is a small part of the user experience, image size matters greatly on social media. Incorrect image dimensions can lead to poorly adapted or cropped content. The target platform can reject your carefully edited pictures if they are not optimized for size.
 
 In this article, we've compiled a Twitter Picture Size Job Aid with updated information for 2022.
