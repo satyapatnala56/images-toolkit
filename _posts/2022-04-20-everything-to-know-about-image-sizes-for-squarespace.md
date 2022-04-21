@@ -22,21 +22,13 @@ categories:
 description: Wondering which is the best Squarespace picture size?  As with any content
   management system, Squarespace has its own specific sizes for different locations
   where you can put pictures on your blog.
-title: EVERYTHING TO KNOW ABOUT IMAGE SIZES FOR SQUARESPACE !
+title: Everything To Know About Image Sizes For Squarespace !
 layout: post
 author: Siddhika
 image: "/uploads/everything-to-know-about-image-sizes-for-squarespace.png"
 comments: false
 
 ---
-# **EVERYTHING TO KNOW ABOUT IMAGE SIZES FOR SQUARESPACE !**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 20 APRIL 2022**
-
-## "-Introduction
-
 Wondering which is the best Squarespace picture size?
 
 As with any content management system, Squarespace has its own specific sizes for different locations where you can put pictures on your blog.
@@ -165,7 +157,6 @@ Before delving into the various tips and tricks for multiple types of images. Le
 
 This will help you understand what to use and how to use it.
 
-  
 ![Use. jpg, gif and .png. You may not use it. PSD and. Doc files because they are not compatible. ](/uploads/tef.PNG "Tips and Tricks")
 
 **Picture file types for Squarespace.**
