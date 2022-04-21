@@ -10,20 +10,14 @@ description: Reddit has gradually grown into an enormous community deliberation 
   the site, the first matter they try to do is customize their profile. Nevertheless,
   most of them are ignorant of the ideal Reddit banner sizing, profile picture size,
   and other proportions.
-title: THE COMPLETE GUIDE FOR IMAGE SIZES FOR REDDIT
+title: The Complete Guide For Image Sizes For Reddit
 layout: post
 author: Siddhika
 image: "/uploads/the-complete-guide-for-image-sizes-for-reddit.png"
 comments: false
 
 ---
-# **THE COMPLETE GUIDE FOR IMAGE SIZES FOR REDDIT**
-
 ### 
-
-### **SIDDHIKA PRAJAPATI | 17 APRIL 2022**
-
-### **Reddit has gradually grown into an enormous community deliberation social media platform with billions of users around the planet. As more people herd to the site, the first matter they try to do is customize their profile. Nevertheless, most of them are ignorant of the ideal Reddit banner sizing, profile picture size, and other proportions.**
 
 **Content**
 
