@@ -12,26 +12,17 @@ categories:
 description: WhatsApp is continuing its success story and reached a milestone recently.
   So Whatsapp Profile Picture Size has become the leading messaging service on mobile
   platforms surpassing Facebook.
-title: THE COMPLETE GUIDE FOR IMAGE SIZES FOR WHATSAPP
+title: The Complete Guide For Image Sizes For Whatsapp
 layout: post
 author: Siddhika
 image: "/uploads/the-complete-guide-for-image-sizes-for-whatsapp.png"
 comments: false
 
 ---
-# **THE COMPLETE GUIDE FOR IMAGE SIZES FOR WHATSAPP**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 18 APRIL 2022**
-
-**_WhatsApp is continuing its success story and reached a milestone recently. So Whatsapp Profile Picture Size has become the leading messaging service on mobile platforms surpassing Facebook._**
-
-## **-Introduction**
+## **Introduction**
 
 Here on this spot, I will explain to you how to set your WhatsApp DP and the recommended size of the picture to use as your DP. I will discuss the following with you.
 
-  
 ![They are continuously adding new features to the application to make it more effective.](/uploads/ds.PNG "WhatsApp ")
 
 However, WhatsApp is undoubtedly one of the biggest messaging services in the world right now and the company isn’t done yet. They are continuously adding new features to the application to make it more effective.
