@@ -23,21 +23,13 @@ categories:
 description: In many respects, your image on social media is like the cover of your
   book. This post presents every banner size and dimension information you need to
   create a YouTube banner that excites people on your channel!
-title: WHAT IS THE IDEAL IMAGE SIZE FOR YOUTUBE?
+title: What Is The Ideal Image Size For Youtube?
 layout: post
 author: Siddhika
 image: "/uploads/appscsm-what-is-the-ideal-image-size-for-youtube.png"
 comments: false
 
 ---
-# **WHAT IS THE IDEAL IMAGE SIZE FOR YOUTUBE?**
-
-### 
-
-### **SIDDHIKA PRAJAPATI |** 14 APRIL 2022
-
-### In many respects, your image on social media is like the cover of your book. This post presents every banner size and dimension information you need to create a YouTube banner that excites people on your channel!
-
 ### **Article Contents**
 
 * -Introduction
