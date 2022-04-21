@@ -7,20 +7,14 @@ categories:
 description: Photographers are more likely to download their work on Flickr than on
   Instagram. What is Flickr, anyway? And what is the purpose of Flickr? Let's get
   right to the point.
-title: THE COMPLETE GUIDE FOR IMAGE SIZES FOR FLICKR
+title: The Complete Guide For Image Sizes For Flickr
 layout: post
 author: Siddhika
 image: "/uploads/the-complete-guide-for-image-sizes-for-flickr.png"
 comments: false
 
 ---
-# **THE COMPLETE GUIDE FOR IMAGE SIZES FOR FLICKR**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 18 APRIL 2022**
-
- Photographers are more likely to download their work on Flickr than on Instagram. What is Flickr, anyway? And what is the purpose of Flickr? Let's get right to the point.
+Photographers are more likely to download their work on Flickr than on Instagram. What is Flickr, anyway? And what is the purpose of Flickr? Let's get right to the point.
 
 ## **-Introduction**
 
@@ -134,7 +128,6 @@ This time, when the "Choose Cover Photo" pop-up window appears, you will see you
 
 If you're more likely to show off your photography talent than socialize with your friends, Flickr is a fantastic platform. You can use it to download your pictures and videos in their original size without compromising quality. You can also let others upload them in different resolutions if you want.
 
-  
 ![On top of Flickr, you can try other sites for sharing and hosting images. ](/uploads/4.PNG " Flickr is a fantastic platform")
 
 On top of Flickr, you can try other sites for sharing and hosting images. There are many websites that will help you attract more customers and advance your career as a long-term photographer.
