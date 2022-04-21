@@ -13,24 +13,13 @@ description: Few things are more off-putting to visitors to your Etsy listing th
   cropped signals a lack of professionalism. No matter how appealing your products
   may be. What is the best sizing for Etsy listing photos? How do you take good Etsy
   product photos? This guide will walk you through every step.
-title: COMPLETE GUIDE TO IMAGE SIZES FOR ETSY
+title: Complete Guide To Image Sizes For Etsy
 layout: post
 author: Siddhika
 image: "/uploads/complete-guide-to-image-sizes-for-etsy.png"
 comments: false
 
 ---
-
-# **COMPLETE GUIDE TO IMAGE SIZES FOR ETSY**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 20 APRIL 2022**
-
-## Few things are more off-putting to visitors to your Etsy listing than blurry product images. A product image that looks too large, too small, or is strangely cropped signals a lack of professionalism. No matter how appealing your products may be. What is the best sizing for Etsy listing photos? How do you take good Etsy product photos? This guide will walk you through every step.
-
-## **"-Introduction**
-
 Before delving into the best practices for product list pictures, let's go through the basic requirements of Etsy.
 
 Etsy only supports. jpg, gif, and. png, so make sure that your product photos are in those formats. You cannot use .gif files that are animated or transparent.
