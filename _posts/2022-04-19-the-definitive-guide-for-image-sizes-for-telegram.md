@@ -6,16 +6,13 @@ categories:
 description: " The first thing anyone who wants to talk to you about Telegram sees
   is a photo in the upper left corner of your Telegram profile photo. It is how you
   identify with others, an image that introduces you to your Telegram contacts."
-title: THE DEFINITIVE GUIDE FOR IMAGE SIZES FOR TELEGRAM
+title: The Definitive Guide For Image Sizes For Telegram
 layout: post
 author: Siddhika
 image: "/uploads/the-definitive-guide-for-image-sizes-for-telegram.png"
 comments: false
 
 ---
-
-The first thing that someone who wants to talk to you about Telegram sees is a photo on the top left of their screen- your Telegram profile photo. It is how you identify with others, an image that introduces you to your Telegram contacts.
-
 There are several options for your Telegram profile photo. PHOTOS of yourself in an iconic location, with your family, your girlfriend/boyfriend, etc. A good profile picture can make a good impression on you and draw your contacts' attention to Telegram.
 
 ## **-Telegram image size guide**
