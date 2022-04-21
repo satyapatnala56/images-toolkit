@@ -11,24 +11,13 @@ categories:
 description: Snapchat appeared nearly ten years ago, and it turned everybody on. It
   enables us to tell stories, use fun filters and create spontaneous content that
   would disappear in 24 hours.
-title: THE DEFINITIVE GUIDE FOR IMAGE SIZES FOR SNAPCHAT
+title: The Definitive Guide For Image Sizes For Snapchat
 layout: post
 author: Siddhika
 image: "/uploads/the-definitive-guide-for-image-sizes-for-snapchat.png"
 comments: false
 
 ---
-
-# **THE DEFINITIVE GUIDE FOR IMAGE SIZES FOR SNAPCHAT**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 20 APRIL 2022**
-
-## **-Introduction**
-
-Snapchat appeared nearly ten years ago, and it turned everybody on. It enables us to tell stories, use fun filters and create spontaneous content that would disappear in 24 hours.
-
 This was essentially the beginning of the famous Story format that we are all familiar with today. Because Snapchat has literally created a company out of that concept, other social media channels like Instagram, and Facebook. And now, even TikTok has copied the idea from the ground up and used it. They're making it more popular than ever.
 
 Even though Snapchat is getting less and less popular these days, last year, there were 229 million active users worldwide.
