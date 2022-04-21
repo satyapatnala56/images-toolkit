@@ -17,17 +17,13 @@ categories:
 description: Snapchat was born almost ten years ago, and it excited us by granting
   us tell stories, use fun filters, and create off-the-cuff content that would disappear
   in 24 hours.
-title: THE ULTIMATE GUIDE TO IMAGE SIZES FOR SNAPCHAT (IN 2022)
+title: The Ultimate Guide To Image Sizes For Snapchat (In 2022)
 layout: post
 author: Siddhika
 image: "/uploads/the-ultimate-guide-to-image-sizes-for-snapchat-in-2022.png"
 comments: false
 
 ---
-# **THE ULTIMATE GUIDE TO IMAGE SIZES FOR SNAPCHAT (IN 2022)**
-
-**SIDDHIKA PRAJAPATI | 17 APRIL 2022**
-
 **CONTENT**
 
 **"-Introduction**
@@ -51,8 +47,6 @@ comments: false
 **-FAQs"**
 
 **-Introduction**
-
-Snapchat was born almost ten years ago, and it excited us by granting us tell stories, use fun filters, and create off-the-cuff content that would disappear in 24 hours.
 
 It was the start of the well-known Story format we all are aware of today. Because Snapchat did a business out of this concept, other social media channels like Instagram, Facebook, and now TikTok have copied the basic idea and ran with it, making it even more popular than it was before.
 
