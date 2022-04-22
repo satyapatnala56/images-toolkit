@@ -29,10 +29,6 @@ image: "/uploads/everything-to-know-about-image-sizes-for-squarespace.png"
 comments: false
 
 ---
-Wondering which is the best Squarespace picture size?
-
-As with any content management system, Squarespace has its own specific sizes for different locations where you can put pictures on your blog.
-
 **_So, what's the perfect size for the Squarespace image?_**
 
 Well, there are different responses to this, according to where the picture goes! Let's look at a couple of examples, and why it's important to get the images in the perfect size for your project.
@@ -151,13 +147,9 @@ Moreover, the favicon file must be a.ico or. png and size may not exceed 100KB.
 
 ## **Tips and Tricks**
 
-Picture requirements and best practices.
-
 Before delving into the various tips and tricks for multiple types of images. Let's take a minute to look at Squarespace's requirements and best practices.
 
 This will help you understand what to use and how to use it.
-
-![Use. jpg, gif and .png. You may not use it. PSD and. Doc files because they are not compatible. ](/uploads/tef.PNG "Tips and Tricks")
 
 **Picture file types for Squarespace.**
 
