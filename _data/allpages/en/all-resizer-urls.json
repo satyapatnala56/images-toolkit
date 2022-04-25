@@ -352,5 +352,9 @@
   {
     "name": "Resize image to 120x30 ",
     "url": "/resize-image-to-120x30"
+  },
+  {
+    "name": "Resize image to 3.25x4.25",
+    "url": "/resize-image-to-3-24X4-25"
   }
 ]
