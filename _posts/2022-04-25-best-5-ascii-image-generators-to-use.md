@@ -7,7 +7,7 @@ categories:
 description: ASCII, as an enthrall character-encoding system, allows codes to characterize
   text internally, equipment used in communication, and other gadgets that utilize
   text.
-title: Best 5 ASCII Image Generators to use !
+title: Best 5 ASCII Image Generators to use
 layout: post
 author: Udit
 image: "/uploads/algorithm-gee4f1ce43_1920.jpg"
@@ -26,7 +26,13 @@ This tool is wholly browser-based, so there’s no need to install any other sof
 
 How to convert our image into ASCII art with Safeimagekit tool?
 
+Step 1: You can either upload the image or Select Dropbox/Google Drive from the drop-down menu.
+
 ![](/uploads/ascii-step-1.png)
+
+Step 2: To change the image to ASCII art, select the Convert button.
+
+Step 3: To save the ASCII art, select the Download option.
 
 ![](/uploads/ascii-2.png)
 
