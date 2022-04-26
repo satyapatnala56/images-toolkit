@@ -2,12 +2,13 @@
 tags:
 - ASCII Image Generator tool
 - " safeimagekit"
-categories: []
+categories:
+- General
 description: ASCII, as an enthrall character-encoding system, allows codes to characterize
   text internally, equipment used in communication, and other gadgets that utilize
   text.
 title: Best 5 ASCII Image Generators to use !
-layout: Post
+layout: post
 author: Udit Agarwal
 image: "/uploads/algorithm-gee4f1ce43_1920.jpg"
 comments: true
