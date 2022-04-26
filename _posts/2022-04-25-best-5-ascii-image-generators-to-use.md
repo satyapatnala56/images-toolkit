@@ -9,7 +9,7 @@ description: ASCII, as an enthrall character-encoding system, allows codes to ch
   text.
 title: Best 5 ASCII Image Generators to use !
 layout: post
-author: Udit Agarwal
+author: Udit
 image: "/uploads/algorithm-gee4f1ce43_1920.jpg"
 comments: true
 
