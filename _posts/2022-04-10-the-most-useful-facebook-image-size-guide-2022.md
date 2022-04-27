@@ -154,8 +154,6 @@ In general, if you are posting content on Facebook, you will need to upload cove
 * Business pages
 * Personal profiles
 
-  ![The recommended size and image format of the Facebook cover vary by the type of photo you upload. Let's have a look at the various dimensions of the Facebook cover.](/uploads/100.PNG "Facebook Cover Photo Sizes & dimensions.")
-
 The recommended size and image format of the Facebook cover vary by the type of photo you upload. Let's have a look at the various dimensions of the Facebook cover.
 
 1. Front cover picture of the Facebook event.
