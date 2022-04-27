@@ -1,0 +1,249 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "h1": "Safeimagekit.com - Resimlerinizi işlemenin en güvenli yolu",
+    "h2": "Hiçbir dosya sunucuya gönderilmemiştir.%100 güvenli.",
+    "TITLE": "Safeimagekit.com - Resimlerinizi işlemenin en güvenli yolu",
+    "META": "Resimlerinizi güvenli bir şekilde işlemek için Safeimagekit.com'u kullanın, çevrimiçi olarak ücretsiz. Birden çok işlem desteklenir.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "ASCII görüntü üreteci ",
+            "description": "Resmi Ascii sanatına dönüştürür",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/tr/ascii-art-from-image"
+        },
+        {
+            "name": "Görüntü Sıkıştırma ",
+            "description": "Görüntüyü sıkıştırır",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/tr/compress-an-image"
+        },
+        {
+            "name": "Görüntü Ayırıcı ",
+            "description": "Görüntüyü Bölünür",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/tr/split-photo"
+        },
+        {
+            "name": "Jpeg Sıkıştırma ",
+            "description": "Jpeg görüntüsünü sıkıştırır",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/tr/compress-jpeg"
+        },
+        {
+            "name": "Png Sıkıştırma ",
+            "description": "png görüntüsünü sıkıştırır",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/tr/compress-png"
+        },
+        {
+            "name": "Gif Sıkıştırma ",
+            "description": "gif görüntüsünü sıkıştırır",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/tr/compress-a-gif"
+        },
+        {
+            "name": "Görüntü karşılaştırma",
+            "description": "İki görüntüyü karşılaştırır",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/tr/image-comparison"
+        },
+        {
+            "name": "Görüntü kırpıcı",
+            "description": "Kırpma resmi",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/tr/crop-image"
+        },
+        {
+            "name": "Resim Filtresi Toplayıcı",
+            "description": "Görüntüye filtre ekleme",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/tr/photo-filters"
+        },
+        {
+            "name": "Meme jeneratör",
+            "description": "Meme oluşturur",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/tr/meme-generator"
+        },
+        {
+            "name": "Metinden resme dönüştürücü",
+            "description": "Metni resme dönüştürür",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/tr/text-to-image-converter"
+        },
+        {
+            "name": "Görüntü Flipper",
+            "description": "Görüntüyü döndürür",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/tr/flip-image"
+        },
+        {
+            "name": "Görüntü Resizer",
+            "description": "Boyut resmini değiştirir",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/tr/image-resize"
+        },
+        {
+            "name": "Filigran görüntü yapımcısı",
+            "description": "Filigran görüntüleri oluşturur",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/tr/watermark-for-photos"
+        },
+        {
+            "name": " QR Kod Oluşturucu",
+            "description": "Qr kodu üretir",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/tr/qr-code-generator"
+        },
+        {
+            "name": " Görüntü dönüştürücüyü piksellemek için görüntü",
+            "description": "Görüntüyü Piksel resmine dönüştürür",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/tr/pixel-art-maker"
+        },
+        {
+            "name": "Facebook resim yeniden boyutlandırıcı",
+            "description": "Görüntüleri facebook için yeniden boyutlandırma",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/tr/image-resize-facebook"
+        },
+        {
+            "name": " Instagram görüntü yeniden boyutlandırıcı",
+            "description": "Resimleri instagram için yeniden boyutlandırma",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/tr/image-resize-instagram"
+        },
+        {
+            "name": " Linkedin görüntü yeniden boyutlandırıcı",
+            "description": "Görüntüleri linkedin için yeniden boyutlandırma",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/tr/image-resize-linkedin"
+        },
+        {
+            "name": " E-posta resim yeniden boyutlandırıcı",
+            "description": "Görüntüleri e-posta için yeniden boyutlandırma",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/tr/image-resize-email"
+        },
+        {
+            "name": " Tiktok görüntü yeniden boyutlandırıcı",
+            "description": "Tiktok için görüntüleri yeniden boyutlandırma",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/tr/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter görüntü yeniden boyutlandırıcı",
+            "description": "Twitter için görüntüleri yeniden boyutlandırma",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/tr/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest görüntü yeniden boyutlandırıcı",
+            "description": "Pinterest için görüntüleri yeniden boyutlandırma",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/tr/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat görüntü yeniden boyutlandırıcı",
+            "description": "Görüntüleri snapchat için yeniden boyutlandırma",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/tr/image-resize-snapchat"
+        },
+        {
+            "name": " Google Banner Reklamları resmi Snapchat",
+            "description": "Google banner reklamları için resimleri yeniden boyutlandırma",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/tr/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Uyuşmazlık",
+            "description": "Görüntüleri anlaşmazlık için yeniden boyutlandırma",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/tr/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Görüntüleri soundcloud için yeniden boyutlandırma",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/tr/image-resize-soundcloud"
+        },
+        {
+            "name": " Whatsapp",
+            "description": "Görüntüleri whatsapp için yeniden boyutlandırma",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/tr/image-resize-whatsapp"
+        },
+        {
+            "name": " karespace",
+            "description": "Görüntüleri squarespace için yeniden boyutlandırma",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/tr/image-resize-squarespace"
+        },
+        {
+            "name": " Seğirme",
+            "description": "Görüntüleri seğirme için yeniden boyutlandırma",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/tr/image-resize-twitch"
+        },
+        {
+            "name": " Yazdırma",
+            "description": "Görüntüleri yazdırmak için yeniden boyutlandırma",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/tr/image-resize-printing"
+        },
+        {
+            "name": "Socail Medya",
+            "description": "Socail Media Resizers görüntüleri",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/tr/social-media-resizer"
+        },
+        {
+            "name": "Görüntü yeniden boyutlandırıcılar",
+            "description": "Görüntü X ile Y inç/piksel olarak yeniden boyutlandırılır",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/tr/image-resizers-all"
+        },
+        {
+            "name": " Resimleri Sıkıştırma",
+            "description": "Görüntü Sıkıştırıcı Listesi",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/tr/compress-image-all"
+        }
+    ]
+}

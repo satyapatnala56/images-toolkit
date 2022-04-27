@@ -1,0 +1,134 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Tạo",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Máy tạo hình ảnh ASCII ",
+                        "url": "/vi/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Máy phát điện Meme",
+                        "url": "/vi/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Chuyển đổi văn bản sang hình ảnh",
+                        "url": "/vi/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Nhà sản xuất hình ảnh Watermark",
+                        "url": "/vi/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Hình ảnh để pixelate chuyển đổi hình ảnh",
+                        "url": "/vi/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "Trình tạo mã QR",
+                        "url": "/vi/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Chỉnh sửa",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Hình ảnh cắt",
+                        "url": "/vi/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Bộ lọc hình ảnh Adder",
+                        "url": "/vi/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Hình ảnh Rotater",
+                        "url": "/vi/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nén",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Máy nén hình ảnh",
+                        "url": "/vi/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Máy nén Png",
+                        "url": "/vi/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Máy nén Gif",
+                        "url": "/vi/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Máy nén Jpeg",
+                        "url": "/vi/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Các công cụ khác",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Bộ chia hình ảnh",
+                        "url": "/vi/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Image Resizer",
+                        "url": "/vi/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "So sánh hình ảnh",
+                        "url": "/vi/image-comparison"
+                    }
+                ]
+            },  {
+                "categoryName": "Các công cụ khác",
+                "links": [
+                  {
+                    "name": "Công cụ thay đổi hình ảnh trên mạng xã hội",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "Danh sách các công cụ thay đổi kích thước hình ảnh",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "Danh sách máy nén hình ảnh",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

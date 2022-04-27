@@ -151,6 +151,21 @@
             "name": "List of Images Compressors",
             "iconSrc": "/img/compare.png",
             "url": "/compress-image-all"
+          },
+          {
+            "name": "List of aspect ratio calculators pages",
+            "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
+            "url": "/all-aspect-ratio-in-pixels-urls"
+          },
+          {
+            "name": "List of mm to pixels conveter pages",
+            "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
+            "url": "/all-mm-in-pixels-urls"
+          },
+          {
+            "name": "List of cm to pixels conveter pages",
+            "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
+            "url": "/all-cm-in-pixels-urls"
           }
         ]
       }

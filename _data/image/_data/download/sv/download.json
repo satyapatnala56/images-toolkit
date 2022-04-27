@@ -1,0 +1,129 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "successmessage": "Hurra! din operation slutfördes",
+    "tryfeatureheading": "Du kan också prova dessa funktioner",
+    "rateus": "Betygsätt oss",
+    "votes": "röster",
+    "socialshareheading": "Vi är en fri att använda plattform för säker behandling av dina filer. Vi behöver ert stöd för att växa. Hjälp oss genom att dela oss på sociala medier. Tack!",
+    "recommendedsitesheading": "Prova våra andra webbplatser för säker bearbetning av dina filer! ",
+    "recommendedfeatures": [
+        {
+            "logo": "/img/split.png",
+            "name": "Bild Splitter",
+            "url": "/sv/split-photo"
+        },
+        {
+            "logo": "/img/resize.png",
+            "name": "Bildstorlek",
+            "url": "/sv/image-resize"
+        },
+        {
+            "logo": "/img/compare.png",
+            "name": "Jämförelse",
+            "url": "/sv/image-comparison"
+        },
+        {
+            "logo": "/img/compressimage.png",
+            "name": "Bildkompressor",
+            "url": "/sv/compress-an-image"
+        },
+        {
+            "logo": "/img/compresspng.png",
+            "name": "Png-kompressor",
+            "url": "/sv/compress-png"
+        },
+        {
+            "logo": "/img/compressgif.png",
+            "name": "Gif-kompressor",
+            "url": "/sv/compress-a-gif"
+        },
+        {
+            "logo": "/img/compressjpeg.png",
+            "name": "Jpeg-kompressor",
+            "url": "/sv/compress-jpeg"
+        },
+        {
+            "logo": "/img/ascii.png",
+            "name": "ASCII bildgenerator ",
+            "url": "/sv/ascii-art-from-image"
+        },
+        {
+            "logo": "/img/meme.png",
+            "name": "Meme generator",
+            "url": "/sv/meme-generator"
+        },
+        {
+            "logo": "/img/texttoimage.png",
+            "name": "Text till bildkonverterare",
+            "url": "/sv/text-to-image-converter"
+        },
+        {
+            "logo": "/img/watermark.png",
+            "name": "Vattenstämpel bildtillverkare",
+            "url": "/sv/watermark-for-photos"
+        },
+        {
+            "logo": "/img/pixel.png",
+            "name": "Bild till pixelate bildkonverterare",
+            "url": "/sv/pixel-art-maker"
+        },
+        {
+            "logo": "/img/qr.png",
+            "name": "QR-kodgenerator",
+            "url": "/sv/qr-code-generator"
+        },
+        {
+            "logo": "/img/crop.png",
+            "name": "Bild beskärare",
+            "url": "/sv/crop-image"
+        },
+        {
+            "logo": "/img/filter.png",
+            "name": "Bild Filter Adder",
+            "url": "/sv/photo-filters"
+        },
+        {
+            "logo": "/img/rotate.png",
+            "name": "Bild roterare",
+            "url": "/sv/flip-image"
+        }
+    ],
+    "recommendedsites": [
+        {
+            "logo": "/img/safevideokit.svg",
+            "name": "safevideokit.com",
+            "url": "https://safevideokit.com/"
+        },
+        {
+            "logo": "/img/safezipkit.png",
+            "name": "safezipkit.com",
+            "url": "https://safezipkit.com/"
+        },
+        {
+            "logo": "/img/safepdfkit.svg",
+            "name": "safepdfkit.com",
+            "url": "https://safepdfkit.com"
+        },
+        {
+            "logo": "/img/safeaudiokit.png",
+            "name": "safeaudiokit.com",
+            "url": "https://safeaudiokit.com"
+        },
+        {
+            "logo": "/img/safeaudioconverter.png",
+            "name": "safeaudioconverter.com",
+            "url": "https://safeaudioconverter.com"
+        },
+        {
+            "logo": "/img/safevideoconverter.svg",
+            "name": "safevideoconverter.com",
+            "url": "https://safevideoconverter.com"
+        },
+        {
+            "logo": "/img/safeimageconverter.svg",
+            "name": "safeimageconverter.com",
+            "url": "https://safeimageconverter.com"
+        }
+    ]
+}

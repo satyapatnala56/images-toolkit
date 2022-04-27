@@ -1,0 +1,135 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "生成",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "ASCII 图像生成器 ",
+                        "url": "/zh/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "模因生成器",
+                        "url": "/zh/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "文本到图像转换器",
+                        "url": "/zh/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "水印图像制作者",
+                        "url": "/zh/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "图像到像素化图像转换器",
+                        "url": "/zh/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "QR 码生成器",
+                        "url": "/zh/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "编辑",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "图片裁剪器",
+                        "url": "/zh/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "图像滤镜加法器",
+                        "url": "/zh/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "图片旋转器",
+                        "url": "/zh/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "压缩",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "图像压缩器",
+                        "url": "/zh/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Png 压缩机",
+                        "url": "/zh/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Gif 压缩器",
+                        "url": "/zh/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Jpeg 压缩器",
+                        "url": "/zh/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "其他工具",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "图像拆分器",
+                        "url": "/zh/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "图像调整器",
+                        "url": "/zh/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "图像比较",
+                        "url": "/zh/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "其他工具",
+                "links": [
+                  {
+                    "name": "社交媒体图像调整器",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "图像调整器列表",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "图像压缩器列表",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "博客",
+            "url": "/blog"
+        }
+    ]
+}

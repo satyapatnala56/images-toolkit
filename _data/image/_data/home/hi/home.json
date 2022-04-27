@@ -1,0 +1,249 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "h1": "Safeimagekit.com - अपनी छवियों को संसाधित करने का सबसे सुरक्षित तरीका",
+    "h2": "सर्वर पर कोई फ़ाइल नहीं भेजी जाती है. 100% सुरक्षित।",
+    "TITLE": "Safeimagekit.com - अपनी छवियों को संसाधित करने का सबसे सुरक्षित तरीका",
+    "META": "अपनी छवियों को सुरक्षित रूप से संसाधित करने के लिए SafeimageKit.com का उपयोग करें, मुफ्त में ऑनलाइन। कई ऑपरेशन समर्थित हैं।",
+    "keywords": "",
+    "features": [
+        {
+            "name": "ASCII छवि जनरेटर ",
+            "description": "छवि को आस्की कला में परिवर्तित करता है",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/hi/ascii-art-from-image"
+        },
+        {
+            "name": "छवि संपीडन ",
+            "description": "छवि को संकुचित करता है",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/hi/compress-an-image"
+        },
+        {
+            "name": "इमेज स्प्लिटर ",
+            "description": "छवि को विभाजित करता है",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/hi/split-photo"
+        },
+        {
+            "name": "जेपीईजी कंप्रेशन ",
+            "description": "jpeg छवि को संकुचित करता है",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/hi/compress-jpeg"
+        },
+        {
+            "name": "Png संपीड़न ",
+            "description": "png छवि को संपीड़ित करता है",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/hi/compress-png"
+        },
+        {
+            "name": "जिफ़ कम्प्रेशन ",
+            "description": "gif छवि को संपीड़ित करता है",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/hi/compress-a-gif"
+        },
+        {
+            "name": "छवि तुलना",
+            "description": "दो छवियों की तुलना करता है",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/hi/image-comparison"
+        },
+        {
+            "name": "छवि क्रॉपर",
+            "description": "फसल की छवि",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/hi/crop-image"
+        },
+        {
+            "name": "छवि फ़िल्टर योजक",
+            "description": "इमेज में फ़िल्टर जोड़ें",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/hi/photo-filters"
+        },
+        {
+            "name": "मेमे जेनरेटर",
+            "description": "मेम जनरेट करता है",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/hi/meme-generator"
+        },
+        {
+            "name": "टेक्स्ट टू इमेज कन्वर्टर",
+            "description": "पाठ को छवि में परिवर्तित करता है",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/hi/text-to-image-converter"
+        },
+        {
+            "name": "इमेज फ्लिपर",
+            "description": "छवि को फ्लिप्स/रोटेट करता है",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/hi/flip-image"
+        },
+        {
+            "name": "इमेज रिसाइज़र",
+            "description": "आकार की छवि बदलता है",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/hi/image-resize"
+        },
+        {
+            "name": "वॉटरमार्क इमेज मेकर",
+            "description": "वॉटरमार्क इमेज बनाता है",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/hi/watermark-for-photos"
+        },
+        {
+            "name": " QR कोड जेनरेटर",
+            "description": "Qr कोड उत्पन्न करता है",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/hi/qr-code-generator"
+        },
+        {
+            "name": " छवि को पिक्सेलेट करने के लिए छवि कनवर्टर",
+            "description": "छवि को पिक्सेल कला में परिवर्तित करता है",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/hi/pixel-art-maker"
+        },
+        {
+            "name": "फेसबुक इमेज रिसाइज़र",
+            "description": "फेसबुक के लिए छवियों का आकार बदलें",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/hi/image-resize-facebook"
+        },
+        {
+            "name": " इंस्टाग्राम इमेज रिसाइज़र",
+            "description": "इंस्टाग्राम के लिए छवियों का आकार बदलें",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/hi/image-resize-instagram"
+        },
+        {
+            "name": " लिंक्डइन इमेज रिसाइज़र",
+            "description": "लिंक्डइन के लिए छवियों का आकार बदलें",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/hi/image-resize-linkedin"
+        },
+        {
+            "name": " ईमेल छवि रीसाइज़र",
+            "description": "ईमेल के लिए छवियों का आकार बदलें",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/hi/image-resize-email"
+        },
+        {
+            "name": " टिकटोक इमेज रिसाइज़र",
+            "description": "tiktok के लिए छवियों का आकार बदलें",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/hi/image-resize-tiktok"
+        },
+        {
+            "name": " ट्विटर इमेज रिसाइज़र",
+            "description": "ट्विटर के लिए छवियों का आकार बदलें",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/hi/image-resize-twitter"
+        },
+        {
+            "name": " पिंटरेस्ट इमेज रिसाइज़र",
+            "description": "Pinterest के लिए छवियों का आकार बदलें",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/hi/image-resize-pinterest"
+        },
+        {
+            "name": "स्नैपचैट इमेज रिसाइज़र",
+            "description": "स्नैपचैट के लिए छवियों का आकार बदलें",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/hi/image-resize-snapchat"
+        },
+        {
+            "name": " Google बैनर विज्ञापन छवि स्नैपचैट",
+            "description": "Google बैनर विज्ञापनों के लिए छवियों का आकार बदलें",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/hi/image-resize-google-banner-ads"
+        },
+        {
+            "name": " डिस्कोर्ड",
+            "description": "कलह के लिए छवियों का आकार बदलें",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/hi/image-resize-discord"
+        },
+        {
+            "name": " साउंडक्लाउड",
+            "description": "SoundCloud के लिए छवियों का आकार बदलें",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/hi/image-resize-soundcloud"
+        },
+        {
+            "name": " वॉट्सऐप",
+            "description": "whatsapp के लिए छवियों का आकार बदलें",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/hi/image-resize-whatsapp"
+        },
+        {
+            "name": " स्क्वरस्पेस",
+            "description": "स्क्वरस्पेस के लिए छवियों का आकार बदलें",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/hi/image-resize-squarespace"
+        },
+        {
+            "name": " चिकोटी",
+            "description": "चिकोटी के लिए छवियों का आकार बदलें",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/hi/image-resize-twitch"
+        },
+        {
+            "name": " प्रिंटिंग",
+            "description": "मुद्रण के लिए छवियों का आकार बदलें",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/hi/image-resize-printing"
+        },
+        {
+            "name": "सोशल मीडिया",
+            "description": "सोशल मीडिया इमेजेस रिसाइज़र",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/hi/social-media-resizer"
+        },
+        {
+            "name": "छवि रीसाइज़र",
+            "description": "छवि का आकार X से Y इंच/पिक्सेल में बदल जाता है",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/hi/image-resizers-all"
+        },
+        {
+            "name": " इमेजेस कंप्रेस करें",
+            "description": "इमेज कंप्रेशर्स की सूची",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/hi/compress-image-all"
+        }
+    ]
+}

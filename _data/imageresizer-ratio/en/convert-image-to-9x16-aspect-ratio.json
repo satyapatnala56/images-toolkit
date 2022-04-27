@@ -1,0 +1,62 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "h1": "Free Online 9:16 Ratio Calculator",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "variant": "warning",
+    "h2": "",
+    "TITLE": "",
+    "META": "",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "TEXTUAL_CONTENT": [
+      {
+        "priority": 1,
+        "logoUrl": "/img/featureproperty/highquality.png",
+        "header": "High Quality",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/img/featureproperty/security.png",
+        "header": "Data Security",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/img/featureproperty/flexible.png",
+        "header": "Flexibilty",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/img/featureproperty/userfriendly.png",
+        "header": "User friendly",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/img/featureproperty/free.png",
+        "header": "Free of cost",
+        "content": ""
+      },
+      {
+        "priority": 1,
+        "logoUrl": "/img/featureproperty/nodownload.png",
+        "header": "No additional download",
+        "content": ""
+      }
+    ],
+  
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/aspect.css\" />"
+      ],
+      "jscdns": [
+        "<script src=\"/js/x-y-aspect.js\"></script>"
+      ]
+  }
+    

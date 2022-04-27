@@ -1,0 +1,277 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Safeimagekit.com - Safest way to process your images",
+  "h2": "No files are sent to server. 100% safe.",
+  "TITLE": "Safeimagekit.com - Safest way to process your images",
+  "META": "Use Safeimagekit.com to safely process your images, online for free. Multiple operations are supported.",
+  "keywords": "",
+  "features": [
+    {
+      "name": "ASCII image generator ",
+      "description": "Converts image into Ascii art",
+      "color": "#6666ff",
+      "icon": "/img/home/ascii.png",
+      "url": "/ascii-art-from-image"
+    },
+    {
+      "name": "Image Compression ",
+      "description": "Compresses image",
+      "color": "#ad81ee",
+      "icon": "/img/home/compressimg.png",
+      "url": "/compress-an-image"
+    },
+    {
+      "name": "Image Splitter ",
+      "description": "Splits image",
+      "color": "#ff6666",
+      "icon": "/img/home/split.png",
+      "url": "/split-photo"
+    },
+    {
+      "name": "Jpeg Compression ",
+      "description": "Compresses jpeg image",
+      "color": "#33cccc",
+      "icon": "/img/home/compressjpeg.png",
+      "url": "/compress-jpeg"
+    },
+    {
+      "name": "Png Compression ",
+      "description": "Compresses png image",
+      "color": "#66b3ff",
+      "icon": "/img/home/compresspng.png",
+      "url": "/compress-png"
+    },
+    {
+      "name": "Gif Compression ",
+      "description": "Compresses gif image",
+      "color": "#ff9966",
+      "icon": "/img/home/compressgif.png",
+      "url": "/compress-a-gif"
+    },
+    {
+      "name": "Image comparison",
+      "description": "Compares two images",
+      "color": "#00b8e6",
+      "icon": "/img/home/compare.png",
+      "url": "/image-comparison"
+    },
+    {
+      "name": "Image cropper",
+      "description": "Crops image",
+      "color": "#ff704d",
+      "icon": "/img/home/crop.png",
+      "url": "/crop-image"
+    },
+    {
+      "name": "Gif cropper online",
+      "url": "/gif-crop-online",
+      "description": "Crops gif",
+      "color": "#ff704d",
+      "icon": "/img/home/crop.png"
+    },
+    {
+      "name": "Image Filter Adder",
+      "description": "Add filters to an image",
+      "color": "#00b8e6",
+      "icon": "/img/home/filter.png",
+      "url": "/photo-filters"
+    },
+    {
+      "name": "Meme generator",
+      "description": "Generates meme",
+      "color": "#6666ff",
+      "icon": "/img/home/meme.png",
+      "url": "/meme-generator"
+    },
+    {
+      "name": "Text to image converter",
+      "description": "Converts text into image",
+      "color": "#ff8533",
+      "icon": "/img/home/texttoimage.png",
+      "url": "/text-to-image-converter"
+    },
+    {
+      "name": "Image Flipper",
+      "description": "Flips/Rotates image",
+      "color": "#9999ff",
+      "icon": "/img/home/rotate.png",
+      "url": "/flip-image"
+    },
+    {
+      "name": "Image Resizer",
+      "description": "Changes size image",
+      "color": "#0566D1",
+      "icon": "/img/home/resize.png",
+      "url": "/image-resize"
+    },
+    {
+      "name": "SVG Resizer",
+      "description": "Resize SVG",
+      "color": "#32a852",
+      "icon": "/img/home/resize.png",
+      "url": "/svg-resizer"
+    },
+    {
+      "name": "Multiple Image Resizer",
+      "description": "Resize multiple image at once",
+      "color": "#ffbd4a",
+      "icon": "/img/home/resize.png",
+      "url": "/multiimage-resizer"
+    },
+    {
+      "name": "Watermark image maker",
+      "description": "Creates watermark images",
+      "color": "red",
+      "icon": "/img/home/watermark.png",
+      "url": "/watermark-for-photos"
+    },
+    {
+      "name": " QR Code Generator",
+      "description": "Generates Qr code",
+      "color": "#d24dff",
+      "icon": "/img/home/qr-code.png",
+      "url": "/qr-code-generator"
+    },
+    {
+      "name": " Image to pixelate image converter",
+      "description": "Converts image into Pixel art",
+      "color": "#ff5975",
+      "icon": "/img/home/pixelated.png",
+      "url": "/pixel-art-maker"
+    },
+    {
+      "name": "Facebook image resizer",
+      "description": "Resize images for facebook",
+      "color": "#1773ea",
+      "icon": "/img/imageResizer-assets/facebook.svg",
+      "url": "/image-resize-facebook"
+    },
+    {
+      "name": " Instagram image resizer",
+      "description": "Resize images for instagram",
+      "color": "#f00075",
+      "icon": "/img/imageResizer-assets/instagram.svg",
+      "url": "/image-resize-instagram"
+    },
+    {
+      "name": " Linkedin image resizer",
+      "description": "Resize images for linkedin",
+      "color": "#0a66c2",
+      "icon": "/img/imageResizer-assets/linkdin.svg",
+      "url": "/image-resize-linkedin"
+    },
+    {
+      "name": " Email image resizer",
+      "description": "Resize images for email",
+      "color": "#D44638",
+      "icon": "/img/imageResizer-assets/gmail.svg",
+      "url": "/image-resize-email"
+    },
+    {
+      "name": " Tiktok image resizer",
+      "description": "Resize images for tiktok",
+      "color": "#D44638",
+      "icon": "/img/imageResizer-assets/tiktok.svg",
+      "url": "/image-resize-tiktok"
+    },
+    {
+      "name": " Twitter image resizer",
+      "description": "Resize images for twitter",
+      "color": "#1da1f2",
+      "icon": "/img/imageResizer-assets/twitter.svg",
+      "url": "/image-resize-twitter"
+    },
+    {
+      "name": " Pinterest image resizer",
+      "description": "Resize images for pinterest",
+      "color": "#bd081c",
+      "icon": "/img/imageResizer-assets/pinterest.svg",
+      "url": "/image-resize-pinterest"
+    },
+    {
+      "name": "Snapchat image resizer",
+      "description": "Resize images for snapchat",
+      "color": "#9999ff",
+      "icon": "/img/imageResizer-assets/snapchat-white.svg",
+      "url": "/image-resize-snapchat"
+    },
+    {
+      "name": " Google Banner Ads image Snapchat",
+      "description": "Resize images for google banner ads",
+      "color": "#ea4335",
+      "icon": "/img/imageResizer-assets/google.svg",
+      "url": "/image-resize-google-banner-ads"
+    },
+    {
+      "name": " Discord",
+      "description": "Resize images for discord",
+      "color": "#535fee",
+      "icon": "/img/imageResizer-assets/discord.svg",
+      "url": "/image-resize-discord"
+    },
+    {
+      "name": " SoundCloud",
+      "description": "Resize images for soundcloud",
+      "color": "#f77b00",
+      "icon": "/img/imageResizer-assets/soundcloud.svg",
+      "url": "/image-resize-soundcloud"
+    },
+    {
+      "name": " Whatsapp",
+      "description": "Resize images for whatsapp",
+      "color": "#ea4335",
+      "icon": "/img/imageResizer-assets/whatsapp.svg",
+      "url": "/image-resize-whatsapp"
+    },
+    {
+      "name": " squarespace",
+      "description": "Resize images for squarespace",
+      "color": "#8c44f7",
+      "icon": "/img/imageResizer-assets/squarespace.svg",
+      "url": "/image-resize-squarespace"
+    },
+    {
+      "name": " Twitch",
+      "description": "Resize images for twitch",
+      "color": "#8c44f7",
+      "icon": "/img/imageResizer-assets/twitch.svg",
+      "url": "/image-resize-twitch"
+    },
+    {
+      "name": " Printing",
+      "description": "Resize images for printing",
+      "color": "#26d0c7",
+      "icon": "/img/imageResizer-assets/printing.svg",
+      "url": "/image-resize-printing"
+    },
+    {
+      "name": "Social Media",
+      "description": "Social Media images Resizers",
+      "color": "#ea4335",
+      "icon": "/img/imageResizer-assets/whatsapp.svg",
+      "url": "/social-media-resizer"
+    },
+    {
+      "name": "Image resizers",
+      "description": "Image resize into X to Y inches/pixels",
+      "color": "#0566D1",
+      "icon": "/img/home/resize.png",
+      "url": "/image-resizers-all"
+    },
+    {
+      "name": " Compress Images",
+      "description": "List of Images Compresser",
+      "color": "#ad81ee",
+      "icon": "/img/home/compressimg.png",
+      "url": "/compress-image-all"
+    },
+    {
+      "name": "crop image tools",
+      "description": "List of image croptools",
+      "color": "#ff704d",
+      "icon": "/img/home/crop.png",
+      "url": "/all-crop-tools"
+    }
+  ]
+}

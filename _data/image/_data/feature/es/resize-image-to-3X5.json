@@ -1,0 +1,481 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "H1": "Free Online 3x5 Dimensions Image Resizer en pulgadas",
+    "keywords": "cambiar el tamaño de la imagen a 3x5",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "advertencia",
+    "H2": "La mejor herramienta para cambiar el tamaño de imágenes a dimensiones de 3x5 rápidamente",
+    "TITLE": "Cambie el tamaño de las imágenes a dimensiones de 3x5 en pulgadas sin perder la calidad: la mejor herramienta en línea gratuita",
+    "META": "Cambia el tamaño de tus imágenes a una relación de 3x5 al instante sin perder su calidad. Esta herramienta gratuita de cambio de tamaño de imagen de 3x5 le permite descargar las imágenes redimensionadas en formatos JPG, JPEG, PNG y WEBP sin necesidad de iniciar sesión. ",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",  
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "redimensionadores de imágenes en pulgadas",
+                "links": [
+                    {
+                        "name": "cambiar el tamaño de la imagen a 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "redimensionar imagen a 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "cambiar el tamaño de la imagen a 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "redimensionar imagen a 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "redimensionar imagen a 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "redimensionar imagen a 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "redimensionar imagen a 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "redimensionar imagen a 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "redimensionar imagen a 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "redimensionar imagen a 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "cambiar el tamaño de la imagen a 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "redimensionar imagen a 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "redimensionar imagen a 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "redimensionar imagen a 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "redimensionar imagen a 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "cambiar el tamaño de la imagen a 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "redimensionar imagen a 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "redimensionar imagen a 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "redimensionar imagen a 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "redimensionar imagen a 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "redimensionadores de imágenes en píxeles",
+                "links": [
+                    {
+                        "name": "redimensionar imagen a 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "redimensionar imagen a 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "redimensionar imagen a 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "redimensionar imagen a 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "redimensionar imagen a 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "redimensionar imagen a 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "redimensionar imagen a 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "redimensionar imagen a 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "redimensionar imagen a 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "redimensionar imagen a 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "redimensionar imagen a 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "redimensionar imagen a 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "redimensionar imagen a 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "redimensionar imagen a 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "redimensionar imagen a 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "redimensionar imagen a 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "redimensionar imagen a 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "redimensionar imagen a 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "redimensionar imagen a 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "redimensionar imagen a 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "imagen redimensionador a 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "redimensionar imagen a 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "redimensionar imagen a 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "redimensionar imagen a 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "redimensionar imagen a 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "redimensionar imagen a 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "redimensionar imagen a 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "redimensionar imagen a 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/es/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Mantenga una calidad de imagen alta",
+            "content": "Es posible cambiar el tamaño de las imágenes en pulgadas sin comprometer su calidad con la ayuda de nuestra herramienta de cambio de tamaño de imagen a 3x5 dimensiones. La relación de aspecto de la imagen ampliada será la misma que la de la imagen original. No hay requisitos tecnológicos, e incluso los usuarios no técnicos pueden completar el procedimiento. También le proporciona una vista previa de la imagen redimensionada, lo que le permite completar el procedimiento de cambio de tamaño de la manera más fluida posible."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Fácil de usar",
+            "content": "Esta herramienta para cambiar el tamaño de imagen 3x5 en pulgadas es muy fácil de operar. En primer lugar, la interfaz de usuario es muy simple y directa. Debido a que todo está en un solo lugar, no tendrás que adivinar por dónde empezar a editar. Además, nuestra herramienta de cambio de tamaño de imagen a 3x5 dimensiones no contiene ningún anuncio, lo que resulta en una experiencia de usuario más agradable para el usuario final."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Privacidad y seguridad de los datos",
+            "content": "No se transfieren datos a nuestros servidores ni se utilizan con fines de marketing mientras se utiliza la herramienta de tamaño imagen a dimensiones 3x5. Todas las actividades realizadas al usar la herramienta de imagen del redimensionador a dimensiones 3x5 se completan únicamente en el navegador. Como resultado, podemos brindar total seguridad para todos nuestros clientes, lo que hace que nuestra herramienta de imagen de tamaño a 3x5 dimensiones sea confiable y completamente segura de usar en cualquier situación."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Está disponible para todos sin costo alguno",
+            "content": "Todos son bienvenidos a utilizar la herramienta de tamaño de imagen a 3x5 dimensiones, y no hay ningún requisito para registrarse. El uso de nuestra herramienta de cambio de tamaño de imagen a dimensiones 3x5 es completamente gratuito y no le cobramos nada por ello. Al utilizar la herramienta redimensionar imagen a 3x5 dimensiones, no hay límite en el número de veces que puede cambiar el tamaño de sus imágenes."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Adaptabilidad",
+            "content": "Chrome, Safari, Firefox, Microsoft Edge y otros navegadores populares son compatibles con la herramienta redimensionar imagen a 3x5 dimensiones. Cuando utiliza la herramienta de tamaño de imagen a 3x5 dimensiones, se adaptará a cualquier tamaño de pantalla, lo que hace que sea fácilmente accesible para usted en su computadora de escritorio, tableta o teléfono móvil."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "No se requiere ninguna descarga adicional",
+            "content": "Para utilizar nuestra herramienta redimensionar imagen a 3x5 dimensiones, no le pedimos que descargue ni instale ningún software en su computadora o dispositivo móvil. Nuestra herramienta para cambiar el tamaño de imagen a 3x5 dimensiones está totalmente basada en el navegador, y puede acceder a nuestro sitio web en cualquier momento simplemente ingresando nuestra URL en su navegador y utilizando la herramienta según sea necesario."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Cómo cambiar el tamaño de una imagen",
+        "steps": [
+            "Haz clic en Elegir archivo para subir la imagen desde tu dispositivo o haz clic en el botón desplegable para cargarla desde Dropbox o Google Drive.",
+            "Ajusta las dimensiones y el formato de la imagen de acuerdo con las especificaciones deseadas.",
+            "Para ver los cambios que ha realizado, haga clic en Vista previa.",
+            "Guarde los cambios haciendo clic en el botón Guardar cambios.",
+            "Para obtener la imagen redimensionada, haga clic en el botón Descargar."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "How does resizer image to 3x5 dimensions tool work?",
+            "answer": "If you need to resize an image, you can use the resizer image to X dimensions feature to make it fit a particular sized frame or document. You can resize an image by changing its height and width. Then, just click the Dimensions in Inches option and select the new size you wish to apply to the image.The resizer image to 3x5 dimensions tool will allow you to resize an image to a specific size in inches. You can choose the dimensions and format of the file. The resizer image to 3x5 dimensions tool will then allow you to download the resized image. The resizing process is relatively quick and painless. To put it another way, resizing an image without resampling just alters the size of the image, not the data content. This image has had no information added or removed.You can also use a resizer image to X dimensions tool to reduce the size of a file. Using the resizer image to X dimensions tool means that you can save space on your computer and reduce the file size. This will make the image smaller without compromising its quality. Then, you can upload it in a new file format. However, this method will not reduce the image quality."
+        },
+        {
+            "question": "Is it safe to use resizer image to 3x5 dimensions tool?",
+            "answer": "As the name implies, this software functions by decreasing the size of the original image. It does not, however, degrade the clarity of the original image in any way. The programme can only resize images inches or pixels of their original size. It is unable to resize images or convert them to other formats.The resizer image to 3x5 dimensions tool may be used to resize any image to any desired size with ease. It is completely free and may be accessed on any platform. To change the size of an image, simply drag and drop it into the resize box. After resizing the image, you can save it to your computer. The original file size, as well as the updated dimension, will be saved by this utility."
+        },
+        {
+            "question": "What image formats does resizer image to 3x5 dimensions tool support?",
+            "answer": "It is possible to resize images in file formats such as JPG, JPEG, PNG, and WEBP by using the resizer image to 3x5 dimensions tool. It is compatible with the most widely used picture file formats on the internet. Simply drag and drop your JPG, JPGE, PNG, or WEBP image onto the tool and select the size that you would like to have your image scaled or resized. After resizing the image, you can save it to your computer."
+        },
+        {
+            "question": "Is it possible to resize (convert, optimize) many images at the same time by using resizer image to 3x5 dimensions tool?",
+            "answer": "When utilising the resizer image to 3x5 dimensions tool, several images cannot be resized at the same time. In such situations, a few methods can be used. For example, in Photoshop, you can use the Image Processor dialogue box to resize several images at once. Select Tools > Adjust Size, and choose the size you want for all images. You can also change the percentage by entering a lower or higher value. For example, you can reduce an image by choosing a percentage of less than 100 and enlarge it by choosing a higher value.Resizing an image can also be done on a multi-threaded computer. This method allows you to resize multiple images at once, but it is not recommended for a web page. If you need to resize multiple images, use the resize command. It will take much less time than using the resize command individually. And once you've set it up, you can even batch resize your files at once."
+        },
+        {
+            "question": "Is it true that because the tool for resizing images to 3x5 dimensions is free, my data is sold to third parties?",
+            "answer": "Our resizer image to 3x5 dimensions tool reduces images to a specific size in terms of inches Don't store, distribute, or commercialize your personal information. You are not charged for using the service."
+        },
+        {
+            "question": "Any software or registration is required for me to use this resizer image to 3x5 dimensions tool.",
+            "answer": "There is no need for you to download any software or sign up for a service because our resizer image to 3x5 dimensions tool is stored locally in your web browser. The ability to resize the image means that you won't have to be bothered about the size of your images."
+        },
+        {
+            "question": "Does resizing an image change the file size?",
+            "answer": "When you resize an image without resampling it, you modify its size without changing its data content. Only the physical dimensions (Width and Height in Document Size) and the resolution (inches) can be changed."
+        },
+        {
+            "question": "Can i resize a black and white image by using the resizer image to 3x5 dimensions tool?",
+            "answer": "Our resizer image to 3x5 dimensions tool does support resizing of black and white images, therefore you can use it to do so."
+        },
+        {
+            "question": "Does resizer image to 3x5 dimensions tool loose image information?",
+            "answer": "No, throughout the conversion process, our resizer image to 3x5 dimensions tool will not discard the image data."
+        },
+        {
+            "question": "Does the resizer image to 3x5 dimensions tool support both Android and iOS platforms?",
+            "answer": "It is important to note that our resizer image to 3x5 dimensions tool is a mobile-compatible tool, which means that it is compatible with both the Android and iOS platforms."
+        },
+        {
+            "question": "What are the common uses for the resizer image to 3x5 dimensions tool?",
+            "answer": "Resizer images to 3x5 dimensions tool is used to fit an image to a given dimensions in inches. This might be for a profile picture, a banner image, or images of products in your online store. Each format has an appropriate picture size. Your internet images and images come in unlimited sizes. Resize the image and you can fit it properly without the need to crop. High-quality images improve the user experience and increase trust. If your website or online business doesn’t seem quite right, your clients are going to bounce."
+        },
+        {
+            "question": "What are the benefits of using the resizer image to 3x5 dimensions tool?",
+            "answer": "Our resizer images to 3x5 dimensions tool is completely free, and it just takes a few seconds to do its task. That's a significant reduction in potential stress. There is no need to become familiar with any difficult software programmes. In order to resize your images to X dimensions in inches, you can choose the size that you wish to use in the process. All you need to do is determine what size you want, enter the desired width and height in the Resize Image pop-up, and then sit back and let the tool do the rest for you.Using the Resizer image to 3x5 dimensions tool can be extremely useful when you need to resize your images to fit into a specific format or size in inches. They have the ability to reduce the size of images of any size, so you won't have to be concerned about the size."
+        },
+        {
+            "question": "Can I resize an image to 3x5 dimensions without losing quality?",
+            "answer": "With the help of the resizer image to 3x5 dimensions tool, you may resize images without sacrificing their quality. The expanded image will have the same aspect ratio as the original image."
+        },
+        {
+            "question": "Do I have to log in to use this resizer image to 3x5 dimensions tool?",
+            "answer": "Due to the fact that our resizer image to 3x5 dimensions tool is stored locally in your web browser, there is no need for you to download any software or sign up for the service."
+        },
+        {
+            "question": "When it comes to zooming and resizing, what's the difference? Zooming is done with the resizer image to 3x5 dimensions tool?",
+            "answer": "Resizing an image alters its proportions, resulting in a larger file size (and, thereby, image quality). The user can adjust the view of a document or image by zooming in or out. It just expands the image on the paper without changing or modifying the original size. We can only resize images in inches with the resizer image to 3x5 dimensions tool; it is not useful for zooming."
+        },
+        {
+            "question": "What's the difference between scaling and resizing? The resizer image to 3x5 dimensions tool is used to perform the scaling?",
+            "answer": "The biggest difference between scaling and resizing lies in the way that the resolution of the image is altered. While resizing involves a more exact pixel size, scaling is a less exact process. In this case, the original image must be multiples of the final size, which can result in a pixelated effect. This is a key feature to consider when resizing an image. Using the resizer image to 3x5 dimensions tool, we can only resize images in inches; it is not useful for scaling."
+        }
+    ],
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh05g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

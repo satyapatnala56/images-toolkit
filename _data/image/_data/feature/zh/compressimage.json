@@ -1,0 +1,141 @@
+{
+    "Language": "简体中文",
+    "htmlLangAtt": "zh",
+    "H1": "图像压缩器",
+    "img": "/img/compressimage.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "信息",
+    "H2": "我们使图像压缩变得简单，首先在下面上传您的文件",
+    "TITLE": "图像压缩器-在线文件压缩器-safeimagekit",
+    "META": "您在寻找高质量的图像压缩器吗？好吧，那么你来对地方了。我们的在线文件压缩器工具非常安全，用户友好且超级快捷。",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ad81ee",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高质量",
+            "content": "我们的图像压缩工具通过保持图像质量来压缩图像。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "数据安全",
+            "content": "您的任何数据都不会发送到我们的服务器上，所有操作都是在浏览器本身上完成的。这使我们能够为用户提供 100％ 的安全"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "灵活性",
+            "content": " 我们的图像压缩工具几乎适用于所有类型的浏览器和设备。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "用户友好",
+            "content": "我们的图像压缩器工具非常容易理解，不需要专业人员来使用我们的工具。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "免费",
+            "content": "我们的图像压缩器工具完全免费，您无需支付任何费用即可使用我们所有的工具"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "没有额外的下载",
+            "content": "我们的图像压缩工具完全基于浏览器，无需在设备上下载其他软件。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "如何压缩我们的图像文件。",
+        "steps": [
+            "上传图片文件或单击下拉箭头，然后选择 Dropbox/Google 云端硬盘",
+            "使用提供的选项调整参数。",
+            "调整图像文件的方向。",
+            "点击保存选项以保存所做的更改。",
+            "使用下载选项下载图像文件。",
+            "欢呼！！！图像已经准备好摇滚了。"
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "允许访问我的云端硬盘安全吗？",
+            "answer": "是的，允许我们访问您的硬盘是绝对安全的。我们不会对您的网站进行任何更改，并且您的dfiles将是安全的。"
+        },
+        {
+            "question": "如何从我的云端硬盘/保管箱上传文件？",
+            "answer": "单击下拉箭头，然后选择 Dropbox/Google 云端硬盘。选择要从中关联云端硬盘的Google帐户。现在，您可以选择要上传的文件。"
+        },
+        {
+            "question": "safeimagekit.com的 “图像压缩器” 功能在压缩图像时提供了哪些功能？",
+            "answer": "safeimagekit.com的图像压缩器功能在压缩图像文件时提供了多种功能。主要功能包括\n通过调整图像的尺寸（例如高度、宽度等）来修改上传的图像。此图像压缩功能还通过输入大小来表示压缩，大小可以根据上传的图像扩展到最大或最小。此功能还提供了严格模式和方向模式，以进行精确的旋转调整。图像压缩器还提供了调整图像质量的选项，还允许用户将图像的格式转换为用户的优势。"
+        },
+        {
+            "question": "在我们上传图片后，safeimagekit.com的压缩器功能提供了哪些参数？",
+            "answer": "safeimagekit.com的压缩功能在我们上传图像后提供了各种参数，这些参数包括图像的名称，图像的大小，图像的类型等。该参数是上次修改的参数，它为我们提供了上次修改的时间，日期和时区。这也为我们在上传后和开始编辑上传的图像文件之前提供了进度条。"
+        },
+        {
+            "question": "safeimagekit.com 在压缩图像时提供了哪些图像调整功能？",
+            "answer": "safeimagekit.com 的图像压缩功能在压缩图像时提供了许多功能。它允许用户通过调整宽度和高度等测量值来调整图像的尺寸。最大高度和最大宽度为用户提供了照片压缩的最大限制。虽然最小宽度和最小高度为用户提供了照片压缩的最小限制。转换大小选项允许用户整体压缩。"
+        },
+        {
+            "question": "safeimagekit.com 压缩机功能的质量调整选项如何工作？",
+            "answer": "safeimagekit.com的压缩器功能的质量调整选项是一项重要功能，它使用户可以决定图像的整体质量。上传图片后，可以从 “输入质量” 空间访问此功能。这可以整体调整锐度、对比度、模糊（少量）和许多其他图像参数。用户可以决定从0.1到1比例的测量。如果他不希望对上传的图片质量进行任何更改，则可以跳过此选项。"
+        },
+        {
+            "question": "safeimagekit.com 的压缩器功能的 “哑剧类型” 选项如何工作？",
+            "answer": "safeimagekit.com 的压缩器功能的 “哑剧类型” 选项允许用户在使用 safeimagekit.com 的压缩器工具压缩图像后选择图像的格式。目前，用户可以使用5种类型的图像格式。用户可以根据他/她的要求更改图像的格式。这些格式包括 webp、png、jpg、jpeg 和 gif 格式。如果用户希望保持格式不变，则用户可以选择名为 “输入哑剧类型” 的选项。上传图像后，可以在页面底部访问 “Mime type” 选项，并保存所做的更改。"
+        },
+        {
+            "question": "我可以在我的 LINUX 操作系统上使用 safeimagekit.com 的压缩映像功能吗？",
+            "answer": "是的，safeimagekit.com 的压缩映像功能可以在任何操作系统上使用，甚至是 LINUX。它使用最新的代码和功能构建，使用户能够压缩用户在任何操作系统（例如MAC OS，Windows和Ubuntu）上上传的任何图像，前提是设备具有稳定的互联网连接。神奇的诀窍是，它甚至可以在较慢的Internet连接上运行。"
+        },
+        {
+            "question": "我们可以使用 safeimagekit.com 的压缩图像功能编辑图像文件中存在的文本吗？",
+            "answer": "不可以，目前 safeimagekit.com 提供的压缩图像功能仅提供这些功能，这些功能使用户能够压缩图像，将图像的格式从一种格式转换为另一种格式等。safeimagekit.com中不提供文本编辑功能。但是网站的更新将很快带来所有令人兴奋的功能。"
+        },
+        {
+            "question": "我们可以使用 safeimagekit.com 的图像压缩器编辑或压缩 4k 和 8k 图像吗？",
+            "answer": "不，目前 safeimagekit.com 的压缩器功能只能提供最高达 1080p 的图像编辑功能。但是，safeimagekit.com中确实存在4k图像压缩和编辑选项，但是8k图像处理功能不可用，并且将在不久的将来作为网站的更新包括在内。"
+        },
+        {
+            "question": "使用safeimagekit.com的图像压缩器功能，我们可以一次编辑多少个图像文件？",
+            "answer": "目前，safeimagekit.com的压缩器功能可以编辑和压缩单个图像，因为该工具在编辑时需要适当的参数，不包括多个图像编辑功能，但是网站的更新将使之成为可能。 "
+        },
+        {
+            "question": "我可以在苹果 iPhone 11 上使用 safeimagekit.com 的图像压缩器功能吗？",
+            "answer": "是的，safeimagekit.com的图像压缩器功能是一项基于跨平台的功能，用户可以在Android，iOS，Windows和Mac OS等操作系统中使用此转换器工具。它独立于所使用的操作系统，但仅取决于Internet连接和上传以压缩为其他图像文件的大小。"
+        },
+        {
+            "question": "使用safeimagekit.com的压缩图像功能中提供的精美选项压缩后，我上传的图片文件是否会损坏？",
+            "answer": "不，safeimagekit.com的压缩功能是使用所有最新的程序和安全功能构建的，不允许上传的图像文件损坏。因此，上传的图像文件是完全安全的。此外，safeimagekit.com是一个无服务器的网站，因此这里没有存储任何图像文件，一旦网页关闭，就会从内存中擦除。"
+        },
+        {
+            "question": "使用完图像压缩工具后，我的文件会被保存吗？ ",
+            "answer": "不，我们不会将您的任何文件发送到我们的服务器，所有操作都是在浏览器上完成的，因此您的所有文件都是完全安全的。 "
+        },
+        {
+            "question": "我需要额外注册或支付额外费用才能使用图像压缩器工具吗？ ",
+            "answer": "绝对不是，我们的工具是完全在线的，不需要您与我们分享您的任何个人信息，例如电子邮件ID，密码等。我们的工具是完全免费的。"
+        },
+        {
+            "question": "如果我遇到任何问题或想提出任何建议，我该如何沟通？",
+            "answer": "我们很乐意接受所有用户提出的任何问题或建议，请通过我们的社交媒体句柄与我们联系以获取更多信息。SafeImageKit.com 可在所有领先的社交媒体网站上使用，例如 Facebook、Instagram、YouTube 和领英等。"
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+        "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+    ]
+}

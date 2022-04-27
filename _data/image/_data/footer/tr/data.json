@@ -1,0 +1,185 @@
+{
+    "logo": "/picture.png",
+    "heading": "safeimagekit.com",
+    "companytitle": "Şirket",
+    "producttitle": "Ürün",
+    "networksitestitle": "Ağ siteleri",
+    "company": [
+        {
+            "name": "Şartlar ve Koşullar",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Yasal Uyarı",
+            "url": "/disclaimer"
+        },
+        {
+            "name": "Gizlilik",
+            "url": "/privacy-policy"
+        }
+    ],
+    "product": [
+        {
+            "name": "ASCII görüntü üreteci ",
+            "url": "/tr/ascii-art-from-image"
+        },
+        {
+            "name": "QR Kod Oluşturucu",
+            "url": "/tr/qr-code-generator"
+        },
+        {
+            "name": "Görüntü Ayırıcı ",
+            "url": "/tr/split-photo"
+        },
+        {
+            "name": "Görüntü Kompresörü ",
+            "url": "/tr/compress-an-image"
+        },
+        {
+            "name": "GIF görüntü kompresörü ",
+            "url": "/tr/compress-a-gif"
+        },
+        {
+            "name": "Png Image kompresörü ",
+            "url": "/tr/compress-png"
+        },
+        {
+            "name": "jpeg Görüntü kompresörü ",
+            "url": "/tr/compress-jpeg"
+        },
+        {
+            "name": "Görüntü karşılaştırma",
+            "url": "/tr/image-comparison"
+        },
+        {
+            "name": "Görüntü kırpıcı",
+            "url": "/tr/crop-image"
+        },
+        {
+            "name": "Resim Filtresi Toplayıcı",
+            "url": "/tr/photo-filters"
+        },
+        {
+            "name": "Meme jeneratör",
+            "url": "/tr/meme-generator"
+        },
+        {
+            "name": "Görüntü Flipper",
+            "url": "/tr/flip-image"
+        },
+        {
+            "name": "Metinden resme dönüştürücü",
+            "url": "/tr/text-to-image-converter"
+        },
+        {
+            "name": "Görüntü Resizer",
+            "url": "/tr/image-resize"
+        },
+        {
+            "name": "Filigran görüntü yapımcısı",
+            "url": "/tr/watermark-for-photos"
+        },
+        {
+            "name": "Görüntüden piksele resim dönüştürücüsü",
+            "url": "/tr/pixel-art-maker"
+        },
+        {
+            "name": "Facebook resim yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-facebook"
+        },
+        {
+            "name": " Instagram görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-instagram"
+        },
+        {
+            "name": " Linkedin görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-linkedin"
+        },
+        {
+            "name": " E-posta resim yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-email"
+        },
+        {
+            "name": " Tiktok görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-snapchat"
+        },
+        {
+            "name": " Google Banner Reklamları resmi Snapchat",
+            "url": "/tr/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Discord görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-soundcloud"
+        },
+        {
+            "name": " kare pace görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-squarespace"
+        },
+        {
+            "name": " Whatsapp görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-whatsapp"
+        },
+        {
+            "name": " Twitch görüntü yeniden boyutlandırıcı",
+            "url": "/tr/image-resize-twitch"
+        },
+        {
+            "name": " Görüntü yeniden boyutlandırıcı yazdırma",
+            "url": "/tr/image-resize-printing"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "facebook"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "youtube"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "instagram"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "linkedin"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "twitter"
+        }
+    ],
+    "legal": [
+        {
+            "name": "Hakkımızda",
+            "url": "about"
+        },
+        {
+            "name": "Bize Ulaşın",
+            "url": "contact"
+        }
+    ],
+    "messege": "© 2021 - safeimagekit.com"
+}

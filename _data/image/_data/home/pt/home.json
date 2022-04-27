@@ -1,0 +1,249 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "h1": "SafeImageKit.com - A maneira mais segura de processar suas imagens",
+    "h2": "Nenhum arquivo é enviado para o servidor. 100% seguro.",
+    "TITLE": "SafeImageKit.com - A maneira mais segura de processar suas imagens",
+    "META": "Use o SafeImageKit.com para processar suas imagens com segurança, on-line e gratuitamente. Várias operações são suportadas.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "Gerador de imagens ASCII ",
+            "description": "Converte imagem em arte Ascii",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/pt/ascii-art-from-image"
+        },
+        {
+            "name": "Compressão de imagem ",
+            "description": "Comprime a imagem",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/pt/compress-an-image"
+        },
+        {
+            "name": "Divisor de imagem ",
+            "description": "Divide a imagem",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/pt/split-photo"
+        },
+        {
+            "name": "Compressão Jpeg ",
+            "description": "Comprime a imagem jpeg",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/pt/compress-jpeg"
+        },
+        {
+            "name": "Compressão Png ",
+            "description": "Comprime a imagem png",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/pt/compress-png"
+        },
+        {
+            "name": "Compressão Gif ",
+            "description": "Comprime a imagem gif",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/pt/compress-a-gif"
+        },
+        {
+            "name": "Comparação de imagens",
+            "description": "Compara duas imagens",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/pt/image-comparison"
+        },
+        {
+            "name": "Cortador de imagens",
+            "description": "Imagem de colheitas",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/pt/crop-image"
+        },
+        {
+            "name": "Adicionador de filtro de imagem",
+            "description": "Adicione filtros a uma imagem",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/pt/photo-filters"
+        },
+        {
+            "name": "Gerador de memes",
+            "description": "Gera meme",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/pt/meme-generator"
+        },
+        {
+            "name": "Conversor de texto para imagem",
+            "description": "Converte texto em imagem",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/pt/text-to-image-converter"
+        },
+        {
+            "name": "Flipper de imagem",
+            "description": "Vira/gira a imagem",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/pt/flip-image"
+        },
+        {
+            "name": "Redimensionador de imagem",
+            "description": "Alterar o tamanho da imagem",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/pt/image-resize"
+        },
+        {
+            "name": "Criador de imagens de marca d'água",
+            "description": "Cria imagens de marca d'água",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/pt/watermark-for-photos"
+        },
+        {
+            "name": " Gerador de código QR",
+            "description": "Gera código Qr",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/pt/qr-code-generator"
+        },
+        {
+            "name": " Conversor de imagem para imagem pixelada",
+            "description": "Converte imagem em pixel art",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/pt/pixel-art-maker"
+        },
+        {
+            "name": "Redimensionador de imagens do Facebook",
+            "description": "Redimensionar imagens para facebook",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/pt/image-resize-facebook"
+        },
+        {
+            "name": " Redimensionador de imagens do Instagram",
+            "description": "Redimensionar imagens para instagram",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/pt/image-resize-instagram"
+        },
+        {
+            "name": " Redimensionador de imagens Linkedin",
+            "description": "Redimensionar imagens para o LinkedIn",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/pt/image-resize-linkedin"
+        },
+        {
+            "name": " Redimensionador de imagens de e-mail",
+            "description": "Redimensionar imagens para e-mail",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/pt/image-resize-email"
+        },
+        {
+            "name": " Redimensionador de imagens Tiktok",
+            "description": "Redimensionar imagens para tiktok",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/pt/image-resize-tiktok"
+        },
+        {
+            "name": " Redimensionador de imagens do Twitter",
+            "description": "Redimensionar imagens para o twitter",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/pt/image-resize-twitter"
+        },
+        {
+            "name": " Redimensionador de imagens do Pinterest",
+            "description": "Redimensionar imagens para o pinterest",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/pt/image-resize-pinterest"
+        },
+        {
+            "name": "Redimensionador de imagens Snapchat",
+            "description": "Redimensionar imagens para snapchat",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/pt/image-resize-snapchat"
+        },
+        {
+            "name": " Imagem do Google Banner Ads Snapchat",
+            "description": "Redimensionar imagens para anúncios de banner do Google",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/pt/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Discord",
+            "description": "Redimensionar imagens para discórdia",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/pt/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Redimensionar imagens para o soundcloud",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/pt/image-resize-soundcloud"
+        },
+        {
+            "name": " Whatsapp",
+            "description": "Redimensionar imagens para whatsapp",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/pt/image-resize-whatsapp"
+        },
+        {
+            "name": " espaço quadrado",
+            "description": "Redimensionar imagens para o squarespace",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/pt/image-resize-squarespace"
+        },
+        {
+            "name": " Twitch",
+            "description": "Redimensionar imagens para contração muscular",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/pt/image-resize-twitch"
+        },
+        {
+            "name": " Impressão",
+            "description": "Redimensionar imagens para impressão",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/pt/image-resize-printing"
+        },
+        {
+            "name": "Mídias sociais",
+            "description": "Resizers de imagens de mídia social",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/pt/social-media-resizer"
+        },
+        {
+            "name": "Redimensionadores de imagens",
+            "description": "Redimensionamento da imagem em X a Y polegadas/pixels",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/pt/image-resizers-all"
+        },
+        {
+            "name": " Compactar imagens",
+            "description": "Lista de compressores de imagens",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/pt/compress-image-all"
+        }
+    ]
+}

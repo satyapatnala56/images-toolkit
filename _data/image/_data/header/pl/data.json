@@ -1,0 +1,135 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Generować",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Generator obrazów ASCII ",
+                        "url": "/pl/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Generator meme",
+                        "url": "/pl/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Konwerter tekstu na obraz",
+                        "url": "/pl/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Ekspres obrazu znaku wodnego",
+                        "url": "/pl/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Konwerter obrazu na piksele",
+                        "url": "/pl/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "Generator kodu QR",
+                        "url": "/pl/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Edytuj",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Kadruk obrazu",
+                        "url": "/pl/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Adder filtra obrazu",
+                        "url": "/pl/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Rotater obrazu",
+                        "url": "/pl/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Kompres",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Kompresor obrazu",
+                        "url": "/pl/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Sprężarka Png",
+                        "url": "/pl/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Sprężarka Gif",
+                        "url": "/pl/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Kompresor JPEG",
+                        "url": "/pl/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Inne narzędzia",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Rozdzielacz obrazu",
+                        "url": "/pl/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Rozmiar obrazu",
+                        "url": "/pl/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Porównanie obrazów",
+                        "url": "/pl/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Inne narzędzia",
+                "links": [
+                  {
+                    "name": "Zmiany rozmiaru obrazu w mediach społecznościowych",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "Lista zmian rozmiaru obrazu",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "Lista kompresorów obrazów",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

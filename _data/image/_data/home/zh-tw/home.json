@@ -1,0 +1,249 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "h1": "安全圖像工具-最安全的方式處理您的圖像",
+    "h2": "沒有文件被發送到服務器。100% 安全。",
+    "TITLE": "安全圖像工具-最安全的方式處理您的圖像",
+    "META": "使用安全圖像設備免費在線安全地處理您的圖像。支持多個操作。",
+    "keywords": "",
+    "features": [
+        {
+            "name": "ASCII 圖像生成器 ",
+            "description": "將圖像轉換為 Ascii 藝術",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/zh-TW/ascii-art-from-image"
+        },
+        {
+            "name": "圖像壓縮 ",
+            "description": "壓縮圖像",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/zh-TW/compress-an-image"
+        },
+        {
+            "name": "圖像分割器 ",
+            "description": "拆分圖像",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/zh-TW/split-photo"
+        },
+        {
+            "name": "JPEG 壓縮 ",
+            "description": "壓縮 JPEG 圖像",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/zh-TW/compress-jpeg"
+        },
+        {
+            "name": "PNG 壓縮 ",
+            "description": "壓縮 PNG 圖像",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/zh-TW/compress-png"
+        },
+        {
+            "name": "GIF 壓縮 ",
+            "description": "壓縮 gif 圖像",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/zh-TW/compress-a-gif"
+        },
+        {
+            "name": "圖像比較",
+            "description": "比較兩個圖像",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/zh-TW/image-comparison"
+        },
+        {
+            "name": "圖像剪切",
+            "description": "裁剪圖像",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/zh-TW/crop-image"
+        },
+        {
+            "name": "圖像過濾器添加器",
+            "description": "向圖像添加濾鏡",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/zh-TW/photo-filters"
+        },
+        {
+            "name": "模因發生器",
+            "description": "生成模因",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/zh-TW/meme-generator"
+        },
+        {
+            "name": "文本到圖像轉換器",
+            "description": "將文本轉換為圖像",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/zh-TW/text-to-image-converter"
+        },
+        {
+            "name": "圖像翻轉",
+            "description": "翻轉/旋轉圖像",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/zh-TW/flip-image"
+        },
+        {
+            "name": "圖像調整大小",
+            "description": "更改圖像大小",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/zh-TW/image-resize"
+        },
+        {
+            "name": "水印圖像製作器",
+            "description": "創建水印圖像",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/zh-TW/watermark-for-photos"
+        },
+        {
+            "name": " 二維碼生成器",
+            "description": "生成二維碼",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/zh-TW/qr-code-generator"
+        },
+        {
+            "name": " 圖像到像素化圖像轉換器",
+            "description": "將圖像轉換為像素藝術",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/zh-TW/pixel-art-maker"
+        },
+        {
+            "name": "臉書圖像調整大小",
+            "description": "調整臉書圖像的大小",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/zh-TW/image-resize-facebook"
+        },
+        {
+            "name": " Instagram 圖像調整大小",
+            "description": "調整圖像的大小",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/zh-TW/image-resize-instagram"
+        },
+        {
+            "name": " 領英圖像調整大小",
+            "description": "調整鏈接領英圖像的大小",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/zh-TW/image-resize-linkedin"
+        },
+        {
+            "name": " 電子郵件圖像調整大小",
+            "description": "調整電子郵件的圖像大小",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/zh-TW/image-resize-email"
+        },
+        {
+            "name": " 蒂克託克圖像調整大小",
+            "description": "調整圖像的大小",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/zh-TW/image-resize-tiktok"
+        },
+        {
+            "name": " 推特圖像調整大小",
+            "description": "調整推特的圖像大小",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/zh-TW/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest 圖像調整大小",
+            "description": "調整圖像的大小",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/zh-TW/image-resize-pinterest"
+        },
+        {
+            "name": "快照圖像調整大小",
+            "description": "調整快照聊天的圖像大小",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/zh-TW/image-resize-snapchat"
+        },
+        {
+            "name": " 谷歌橫幅廣告圖片快照",
+            "description": "調整谷歌橫幅廣告的圖片大小",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/zh-TW/image-resize-google-banner-ads"
+        },
+        {
+            "name": " 不和諧",
+            "description": "調整圖像大小以解除不和諧",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/zh-TW/image-resize-discord"
+        },
+        {
+            "name": " 聲雲",
+            "description": "調整音雲圖像的大小",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/zh-TW/image-resize-soundcloud"
+        },
+        {
+            "name": " 沃特斯應用程序",
+            "description": "調整圖像大小",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/zh-TW/image-resize-whatsapp"
+        },
+        {
+            "name": " 侵佔",
+            "description": "調整圖像的大小以進行偏移",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/zh-TW/image-resize-squarespace"
+        },
+        {
+            "name": " 抽搐",
+            "description": "調整抽搐圖像的大小",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/zh-TW/image-resize-twitch"
+        },
+        {
+            "name": " 打印",
+            "description": "調整圖像大小以供打印",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/zh-TW/image-resize-printing"
+        },
+        {
+            "name": "索卡爾媒體",
+            "description": "索凱爾媒體圖像調整大小",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/zh-TW/social-media-resizer"
+        },
+        {
+            "name": "圖像調整大小",
+            "description": "圖像大小調整為 X 到 Y 英寸/像素",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/zh-TW/image-resizers-all"
+        },
+        {
+            "name": " 壓縮圖像",
+            "description": "圖像壓縮器列表",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/zh-TW/compress-image-all"
+        }
+    ]
+}

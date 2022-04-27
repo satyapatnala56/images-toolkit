@@ -1,0 +1,77 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Resize multiple images online for free",
+  "img": "/img/resize.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
+  "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "warning",
+  "H2": "We have made it simple to resize multiple photos at one time. Start by uploading your file.",
+  "TITLE": "Quickly resize multiple images- Easiest image resizer tool",
+  "META": "Power up your productivity with this multi image resizer tool. Get your desired sized image with just one click. Use this advanced tool and resize multiple images at one time, instead of doing them one by one.",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "#ffbd4a",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/userfriendly.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/free.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "",
+      "content": ""
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
+  },
+  "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js\" integrity=\"sha512-XSIn6Z+o82v4Aumv+iHmw9/oEotMU4LRi7lSd4AESpfdekKVO4zt0hUZ+2iB8cRlvpQRWqeLXdCHQxTOL00zNw==\" crossorigin=\"anonymous\"></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.0/FileSaver.min.js\" integrity=\"sha512-csNcFYJniKjJxRWRV1R7fvnXrycHP6qDR21mgz1ZP55xY5d+aHLfo9/FcGDQLfn2IfngbAHd8LdfsagcCqgTcQ==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"js/multiImage-resizer.js\"></script>",
+    "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"css/multiImage-resizer.css\" />"
+  ]
+}

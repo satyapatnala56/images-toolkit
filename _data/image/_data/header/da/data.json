@@ -1,0 +1,135 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Generer",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "ASCII billede generator ",
+                        "url": "/da/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Meme generator",
+                        "url": "/da/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Tekst til billede konverter",
+                        "url": "/da/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Vandmærke billede maker",
+                        "url": "/da/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Billede til pixelate billede konverter",
+                        "url": "/da/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "QR-kode generator",
+                        "url": "/da/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Rediger",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Billede cropper",
+                        "url": "/da/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Billede Filter Adder",
+                        "url": "/da/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Billede Rotater",
+                        "url": "/da/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Komprimer",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Billede Kompressor",
+                        "url": "/da/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Png Kompressor",
+                        "url": "/da/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Gif Kompressor",
+                        "url": "/da/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Jpeg Kompressor",
+                        "url": "/da/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Andre værktøjer",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Billede Splitter",
+                        "url": "/da/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Billede Resizer",
+                        "url": "/da/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Billede Sammenligning",
+                        "url": "/da/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Other tools",
+                "links": [
+                  {
+                    "name": "Størrelsesstørrelse på sociale medier",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "Liste over billedresizers",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "Liste over afbildninger kompressorer",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

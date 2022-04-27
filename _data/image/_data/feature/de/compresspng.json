@@ -1,0 +1,145 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "H1": "PNG-Kompressor",
+    "img": "/img/compresspng.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primär",
+    "H2": "Die PNG-Komprimierung wurde mit uns leicht gemacht. Laden Sie zunächst Ihre Datei unten hoch",
+    "TITLE": "PNG-Kompressor - PNG-Kompressor online - sicheres Imagekit",
+    "META": "Suchen Sie einen hochwertigen PNG-Kompressor? Nun, dann bist du hier richtig. Unser Online-PNG-Kompressor-Tool ist extrem sicher, benutzerfreundlich und superschnell.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#66b3ff",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Qualitativ hochwertige",
+            "content": "Unser PNG-Komprimierungstool komprimiert die Bilder unter Beibehaltung der Qualität."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Datensicherheit",
+            "content": "Keine Ihrer Daten wird auf unseren Servern gesendet, alle Vorgänge werden im Browser selbst ausgeführt. Dies ermöglicht es uns, für unsere Benutzer zu 100% sicher zu sein"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilität",
+            "content": " Unser PNG-Komprimierungstool funktioniert auf fast allen Arten von Browsern und Geräten."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Benutzerfreundlich",
+            "content": "Unser PNG-Kompressionswerkzeug ist sehr einfach zu verstehen, es ist kein Fachmann erforderlich, um an unserem Werkzeug zu arbeiten."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Frei von Kosten",
+            "content": "Unser PNG-Komprimierungstool ist völlig kostenlos. Sie können alle unsere Tools verwenden, ohne einen einzigen Cent zu zahlen"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Kein zusätzlicher Download",
+            "content": "Unser PNG-Komprimierungstool ist vollständig browserbasiert und es muss keine zusätzliche Software auf Ihr Gerät heruntergeladen werden."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "So komprimieren Sie unsere PNG-Bilddatei.",
+        "steps": [
+            "Laden Sie die Bilddatei hoch oder klicken Sie auf den Dropdown-Pfeil und wählen Sie Dropbox/Google Drive",
+            "Passen Sie die Parameter mit den bereitgestellten Optionen an.",
+            "Passen Sie die Ausrichtung der Bilddatei an.",
+            "Klicken Sie auf Speichern, um die vorgenommenen Änderungen zu speichern.",
+            "Laden Sie die Bilddatei mit der Download-Option herunter.",
+            "Hurra!!! das Bild ist bereit zu rocken."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Ist es sicher, Zugriff auf mein Laufwerk zu gewähren?",
+            "answer": "Ja, es ist absolut sicher, uns Zugriff auf Ihr Laufwerk zu gewähren und uns zu gewähren. Wir werden keine Änderungen an Ihrer Website vornehmen und Ihre Dateien sind bei Ihnen sicher."
+        },
+        {
+            "question": "Wie kann ich Dateien von meinem Laufwerk/meiner Dropbox hochladen?",
+            "answer": "Klicken Sie auf den Dropdown-Pfeil und wählen Sie Dropbox/Google Drive aus. Wählen Sie das Google-Konto aus, mit dem Sie Ihr Laufwerk verknüpfen möchten. Jetzt können Sie die Dateien auswählen, die Sie hochladen möchten."
+        },
+        {
+            "question": "Welche Funktionen bietet die Funktion „PNG-Kompressor“ von safeimagekit.com beim Komprimieren eines Bildes im PNG-Format?",
+            "answer": "Die PNG-Kompressorfunktion von safeimagekit.com bietet vielseitige Funktionen beim Komprimieren einer PNG-Datei. Zu den Hauptmerkmalen gehören\nÄndern der hochgeladenen PNG-Datei durch Anpassen der Bildabmessungen wie Höhe, Breite usw. Diese PNG-Komprimierungsfunktion stellt auch die Komprimierung dar, indem eine Größe eingegeben wird, die je nach hochgeladener PNG-Datei auf max oder min erweitert werden kann. Diese Funktion bietet auch einen strengen Modus- und Orientierungsmodus für eine genaue und Rotationseinstellung. Der PNG-Kompressor bietet auch die Möglichkeit, die Bildqualität anzupassen, und ermöglicht es dem Benutzer, das Bildformat zum Vorteil des Benutzers zu konvertieren.\n"
+        },
+        {
+            "question": "Welche Parameter bietet die PNG-Kompressorfunktion von safeimagekit.com, nachdem wir eine PNG-Datei hochgeladen haben?",
+            "answer": "Die Komprimierungsfunktion von safeimagekit.com bietet verschiedene Parameter, nachdem wir ein Bild im PNG-Format hochgeladen haben. Zu diesen Parametern gehören der Name des Bildes, die Größe des Bildes, der Typ des Bildes usw. Der Parameter ist die letzte Änderung, wobei er uns die Uhrzeit, das Datum und die Zeitzone angibt, in der es zuletzt war modifiziert. Dadurch erhalten wir auch einen Fortschrittsbalken nach dem Hochladen und vor Beginn der Bearbeitung der hochgeladenen Bilddatei."
+        },
+        {
+            "question": "Welche Anpassungsfunktionen bietet safeimagekit.com für die PNG-Dateien beim Komprimieren einer PNG-Datei?",
+            "answer": "Die Funktion zur Komprimierung von PNG-Dateien von safeimagekit.com bietet viele Funktionen beim Komprimieren eines Bildes. Der Benutzer kann die Abmessungen der PNG-Datei anpassen, indem er die Maße wie Breite und Höhe anpasst. Die maximale Höhe und die maximale Breite bieten dem Benutzer eine maximale Begrenzung der Fotokomprimierung. Während die Min-Breite und die Min-Höhe dem Benutzer eine Mindestgrenze für die Fotokomprimierung bieten. Mit der Option „Größe konvertieren“ kann der Benutzer insgesamt komprimieren."
+        },
+        {
+            "question": "Wie funktioniert die Option zur Qualitätsanpassung der PNG-Kompressorfunktion von safeimagekit.com?",
+            "answer": "Die Qualitätsanpassungsoption der PNG-Kompressorfunktion von safeimagekit.com ist eine wichtige Funktion, mit der der Benutzer über die Gesamtqualität der hochgeladenen PNG-Datei entscheiden kann. Auf diese Funktion kann nach dem Hochladen des Bildes über den Bereich „Qualität eingeben“ zugegriffen werden. Dadurch werden Schärfe, Kontrast, Unschärfe (bei kleinen Mengen) und viele andere Bildparameter insgesamt angepasst. Der Benutzer kann die Messung von 0,1 bis 1 Skala entscheiden. Wenn er keine Änderung der Qualität des hochgeladenen Bildes wünscht, kann diese Option übersprungen werden."
+        },
+        {
+            "question": "Wie funktioniert die Option „Mime-Typ“ der Kompressorfunktion von safeimagekit.com?",
+            "answer": "Mit der Option „Mime-Typ“ der Kompressorfunktion von safeimagekit.com kann der Benutzer das Bildformat auswählen, nachdem er es mit dem Kompressor-Tool von safeimagekit.com komprimiert hat. Derzeit stehen dem Benutzer 5 Arten von Bildformaten zur Verfügung. Der Benutzer kann das Format des Bildes basierend auf seinen Anforderungen ändern. Diese Formate umfassen Webp-, PNG-, JPG-, JPEG- und GIF-Formate. Wenn der Benutzer das Format unverändert lassen möchte, kann er sich für die Option „Mime-Typ eingeben“ entscheiden. Auf die Option „Mime-Typ“ kann nach dem Hochladen des Bildes unten auf der Seite zugegriffen werden und die vorgenommenen Änderungen gespeichert werden."
+        },
+        {
+            "question": "Kann ich die Funktion zum Komprimieren von PNG von safeimagekit.com auf meinem LINUX-Betriebssystem verwenden?",
+            "answer": "Ja, die Funktion zum Komprimieren von PNG von safeimagekit.com kann auf jedem Betriebssystem verwendet werden, auch unter LINUX. Es ist mit dem neuesten Code und den neuesten Funktionen ausgestattet, mit denen der Benutzer jedes vom Benutzer hochgeladene Bild auf einem beliebigen Betriebssystem wie MAC OS, Windows und Ubuntu komprimieren kann, sofern ein Gerät mit einer stabilen Internetverbindung vorhanden ist. Der Zaubertrick ist, dass es sogar mit einer langsameren Internetverbindung funktioniert."
+        },
+        {
+            "question": "Können wir den in der PNG-Datei vorhandenen Text mithilfe der Funktion zum Komprimieren von PNG von safeimagekit.com bearbeiten?",
+            "answer": "Nein, derzeit bietet die Funktion zum Komprimieren von PNG von safeimagekit.com nur die Funktionen, die es dem Benutzer ermöglichen, die PNG-Datei zu komprimieren, das Format des Bildes vom PNG-Format in ein anderes zu konvertieren usw. Textbearbeitungsfunktionen sind in safeimagekit.com nicht verfügbar. Aktualisierungen der Website werden jedoch bald alle aufregenden Funktionen mit sich bringen."
+        },
+        {
+            "question": "Können wir 4k- und 8k-Bilder mit dem PNG-Kompressor von safeimagekit.com bearbeiten oder komprimieren?",
+            "answer": "Nein, derzeit bietet die Kompressorfunktion von safeimagekit.com nur Bildbearbeitungsfunktionen bis zu 1080p vom Feinsten. In safeimagekit.com gibt es jedoch Optionen zum Komprimieren und Bearbeiten von 4k-Bildern, aber die 8k-Bildverarbeitung ist nicht verfügbar und wird in naher Zukunft als Update der Website enthalten sein."
+        },
+        {
+            "question": "Wie viele PNG-Dateien können wir mit der PNG-Kompressorfunktion von safeimagekit.com auf einmal bearbeiten?",
+            "answer": "Derzeit kann die Kompressorfunktion von safeimagekit.com eine einzelne PNG-Datei bearbeiten und komprimieren, da dieses Tool während der Bearbeitung angemessene Parameter erfordert. Die Bearbeitungsfunktion für mehrere PNG-Dateien ist derzeit nicht enthalten, Aktualisierungen der Website werden dies jedoch in Zukunft ermöglichen. "
+        },
+        {
+            "question": "Kann ich die PNG-Kompressorfunktion von safeimagekit.com auf meinem Apple iPhone 11 verwenden? ",
+            "answer": "Ja, die PNG-Kompressorfunktion von safeimagekit.com ist eine plattformübergreifende Funktion, mit der der Benutzer dieses Konverter-Tool von Betriebssystemen wie Android, iOS, Windows und Mac OS verwenden kann. Es ist unabhängig von den verwendeten Betriebssystemen, hängt jedoch nur von der Internetverbindung und der Größe der PNG-Dateien ab, die hochgeladen werden, um sie in andere zu komprimieren."
+        },
+        {
+            "question": "Werden meine hochgeladenen Bilddateien beschädigt, nachdem sie mit den exquisiten Optionen in der Funktion zum Komprimieren von PNG von safeimagekit.com komprimiert wurden?",
+            "answer": "Nein, die Komprimierungsfunktion von safeimagekit.com ist mit den neuesten Programmen und Sicherheitsfunktionen ausgestattet, die es nicht zulassen, dass die hochgeladenen png-Dateien beschädigt werden. Die hochgeladenen PNG-Dateien sind also absolut sicher und geschützt. Safeimagekit.com ist auch eine serverfreie Website, auf der hier keine PNG-Dateien gespeichert werden und aus dem Speicher gelöscht werden, sobald die Webseite geschlossen wird."
+        },
+        {
+            "question": "Wird meine Datei gespeichert, nachdem ich die Arbeit am PNG-Komprimierungstool abgeschlossen habe? ",
+            "answer": "Nein, wir senden keine Ihrer Dateien an unsere Server. Alle Vorgänge werden im Browser selbst ausgeführt, daher sind alle Ihre Dateien absolut sicher. "
+        },
+        {
+            "question": "Muss ich mich zusätzlich anmelden oder extra bezahlen, um das PNG-Komprimierungstool nutzen zu können? ",
+            "answer": "Absolut nicht, unser Tool ist vollständig online und erfordert nicht, dass Sie Ihre persönlichen Daten wie E-Mail-ID, Passwörter usw. an uns weitergeben. Unser Tool ist völlig kostenlos."
+        },
+        {
+            "question": "Wie kommuniziere ich, wenn ich Probleme habe oder Vorschläge machen möchte?",
+            "answer": "Wir nehmen gerne alle Probleme oder Vorschläge aller Benutzer auf. Bitte kontaktieren Sie uns über unsere Social-Media-Handles für weitere Informationen. SafeimageKit.com ist auf allen führenden Social-Media-Websites wie Facebook, Instagram, YouTube und LinkedIn usw. verfügbar."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+        "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+    ],
+    "filelang": "en",
+    "display_formats": [
+        "png"
+    ]
+}

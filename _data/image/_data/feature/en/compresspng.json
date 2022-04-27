@@ -1,0 +1,145 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Free online png compressor tool with advanced features",
+  "img": "/img/compresspng.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
+  "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "primary",
+  "H2": "PNG compression has been made easy by us, start by uploading your file below",
+  "TITLE": "PNG compressor- PNG compressor online- safeimagekit",
+  "META": "Are you looking for a high-quality PNG compressor? Well, then you are at the right place. Our online PNG compressor tool is extremely safe, user-friendly, and super quick.",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "#66b3ff",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "High Quality",
+      "content": "Our PNG compresssion tool compresses the images by retaining its quality."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers all the operations are done on the browser itself. This enables us to be 100% safe for our users"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "Flexibilty",
+      "content": " Our PNG compresssion tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/userfriendly.png",
+      "header": "User friendly",
+      "content": "Our PNG compresssion tool is very easy to understand no professional is needed to work on our tool."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/free.png",
+      "header": "Free of cost",
+      "content": "Our PNG compresssion tool is completely free of cost, you can use all our tools without paying a single penny"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "No additional download",
+      "content": "Our PNG compresssion tool is completely browser based and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "How to compress our PNG image file.",
+    "steps": [
+      "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive",
+      "Adjust the parameters using the options provided.",
+      "Adjust the orientation of the image file.",
+      "Hit the save option to save the changes made.",
+      "Download the image file using the download option.",
+      "Hurray !!! the image is ready to rock."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload."
+    },
+    {
+      "question": "What are the features offered by the “PNG compressor” feature from safeimagekit.com while compressing an image with png format?",
+      "answer": "PNG compressor feature from safeimagekit.com offers versatile features while compressing a png file. The main features include\nModifying the uploaded png file by adjusting the dimensions of the image such as height, width, etc. This png compression feature also presents the compression by entering size which can be extended to max or min depending on the png file uploaded. This feature also provides a strict mode and orientation mode for accurate and rotation adjustment. The png compressor also provides the option to adjust the quality of the image and also lets the user convert the format of the image to the user’s advantage.\n"
+    },
+    {
+      "question": "What are the parameters provided by the png compressor feature from safeimagekit.com, after we upload a png file?",
+      "answer": "The compression feature from safeimagekit.com provides various parameters after we upload an image with png format, these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, where it gives us the time, date, and the time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
+    },
+    {
+      "question": "What are the adjusting features provided by the safeimagekit.com to the png files, while compressing a png file?",
+      "answer": "The png file compression feature from safeimagekit.com provides many features while compressing an image. It lets the user adjust the dimensions of the png file by adjusting the measurements such as width and height. The max-height and the max-width provide the user with a maximum limit of the photo compression. While the min-width and min-height provide the user with a minimum limit of the photo compression. The convert size option lets the user compress on the whole."
+    },
+    {
+      "question": "How does the quality adjustment option of the png compressor feature from safeimagekit.com work?",
+      "answer": "The quality adjustment option of the png compressor feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the png file uploaded. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (on small amounts), and many other image parameters on the whole. The user can decide the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
+    },
+    {
+      "question": "How does the “Mime type” option of compressor feature from safeimagekit.com work?",
+      "answer": "The “Mime type” option of the compressor feature from safeimagekit.com lets the user choose the format of the image after compressing it using the compressor tool from safeimagekit.com. Currently,5 types of image formats are available for the user. The user can change the format of the image based on his/her requirement. These formats include webp, png, jpg, jpeg, and gif format. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type”. The “Mime type” option can be accessed at the bottom of the page after uploading the image, and save the changes made."
+    },
+    {
+      "question": "Can I use the compress png feature from safeimagekit.com on my LINUX operating system?",
+      "answer": "Yes, the compress png feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features which enables the user to compress any image uploaded by the user on any operating system such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+    },
+    {
+      "question": "Can we edit the text present in the png file using the compress png feature from safeimagekit.com?",
+      "answer": "No, currently the compress png feature from safeimagekit.com only offers the features, which enables the user to compress the png file, converting the format of the image from png format to other, etc. text editing features is not available in safeimagekit.com. But updates to the website will bring all the exciting features soon."
+    },
+    {
+      "question": "Can we edit or compress 4k and 8k images using the png compressor from safeimagekit.com?",
+      "answer": "No, currently the compressor feature from safeimagekit.com only offers image editing features up to 1080p at its best. However, 4k image compressing and editing options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
+    },
+    {
+      "question": "How many png files can we edit at a single stretch using the png compressor feature from safeimagekit.com?",
+      "answer": "Presently, the compressor feature from safeimagekit.com can edit and compress a single png file, as this tool demands decent parameters while editing, multiple png files editing feature is not included currently, but updates to the website will make this possible in the future. "
+    },
+    {
+      "question": "Can I use the png compressor feature from safeimagekit.com on my Apple iPhone 11? ",
+      "answer": "Yes, png compressor feature from safeimagekit.com is a cross-platform based feature, where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the png files which are uploaded to be compressed into others."
+    },
+    {
+      "question": "Will my uploaded image files corrupt after compressing them using the exquisite options present in the compress png feature from safeimagekit.com?",
+      "answer": "No, the compress feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded png files to corrupt. So, the uploaded png files are completely safe and secured. Also, safeimagekit.com is a server-free website due to which no png files are stored here, and are wiped from the memory as soon as the webpage is closed."
+    },
+    {
+      "question": "Will my file be saved after I complete working on the PNG compresssion tool? ",
+      "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe. "
+    },
+    {
+      "question": "Do I have to do any additional signup or pay extra to use the PNG compresssion tool? ",
+      "answer": "Absolutely not, our tool is completely online and does not require you to share any of your personal information with us, like email id, passwords etc. Our tool is completely free of cost."
+    },
+    {
+      "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+    }
+  ],
+  "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+    "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+  ],
+  "filelang": "en",
+  "display_formats": [
+    "png"
+  ]
+}

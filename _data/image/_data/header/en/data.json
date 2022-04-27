@@ -1,0 +1,165 @@
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "/picture.png",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "Generate",
+        "links": [
+          {
+            "iconSrc": "/img/ascii.png",
+            "name": "ASCII image generator ",
+            "url": "/ascii-art-from-image"
+          },
+          {
+            "iconSrc": "/img/ascii.png",
+            "name": "Text to ASCII art generator",
+            "url": "/text-to-ascii"
+          },
+          {
+            "iconSrc": "/img/meme.png",
+            "name": "Meme generator",
+            "url": "/meme-generator"
+          },
+          {
+            "iconSrc": "/img/texttoimage.png",
+            "name": "Text to image converter",
+            "url": "/text-to-image-converter"
+          },
+          {
+            "iconSrc": "/img/watermark.png",
+            "name": "Watermark image maker",
+            "url": "/watermark-for-photos"
+          },
+          {
+            "iconSrc": "/img/pixel.png",
+            "name": "Image to pixelate image converter",
+            "url": "/pixel-art-maker"
+          },
+          {
+            "iconSrc": "/img/qr.png",
+            "name": "QR Code generator",
+            "url": "/qr-code-generator"
+          }
+        ]
+      },
+      {
+        "categoryName": "Edit",
+        "links": [
+          {
+            "iconSrc": "/img/crop.png",
+            "name": "Gif cropper online",
+            "url": "/gif-crop-online"
+          },
+          {
+            "iconSrc": "/img/crop.png",
+            "name": "Image cropper",
+            "url": "/crop-image"
+          },
+          {
+            "iconSrc": "/img/filter.png",
+            "name": "Image Filter Adder",
+            "url": "/photo-filters"
+          },
+          {
+            "iconSrc": "/img/rotate.png",
+            "name": "Image Rotater",
+            "url": "/flip-image"
+          },
+          {
+            "iconSrc": "/img/crop.svg",
+            "name": "Crop tools",
+            "url": "/all-crop-tools"
+          },
+          {
+            "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
+            "name": "Placeholder image generator tools",
+            "url": "/placeholder-image-generator-tools"
+          }
+        ]
+      },
+      {
+        "categoryName": "Compress",
+        "links": [
+          {
+            "iconSrc": "/img/compressimage.png",
+            "name": "Image Compressor",
+            "url": "/compress-an-image"
+          },
+          {
+            "iconSrc": "/img/compresspng.png",
+            "name": "Png Compressor",
+            "url": "/compress-png"
+          },
+          {
+            "iconSrc": "/img/compressgif.png",
+            "name": "Gif Compressor",
+            "url": "/compress-a-gif"
+          },
+          {
+            "iconSrc": "/img/compressjpeg.png",
+            "name": "Jpeg Compressor",
+            "url": "/compress-jpeg"
+          }
+        ]
+      },
+      {
+        "categoryName": "Other Tools",
+        "links": [
+          {
+            "iconSrc": "/img/resize.png",
+            "name": "Image Resizer",
+            "url": "/image-resize"
+          },
+          {
+            "iconSrc": "/img/split.png",
+            "name": "Image Splitter",
+            "url": "/split-photo"
+          },
+          {
+            "iconSrc": "/img/resize.png",
+            "name": "Multiple Image Resizer",
+            "url": "/multiimage-resizer"
+          },
+          {
+            "iconSrc": "/img/compare.png",
+            "name": "Image Comparison",
+            "url": "/image-comparison"
+          },
+          {
+            "iconSrc": "/img/resize.png",
+            "name": "SVG Resizer",
+            "url": "/svg-resizer"
+          }
+        ]
+      },
+      {
+        "categoryName": "Other tools",
+        "links": [
+          {
+            "name": "Social Media Image Resizers",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+            "url": "/social-media-resizer"
+          },
+          {
+            "name": "List of Image Resizers",
+            "iconSrc": "/img/resize.png",
+            "url": "/image-resizers-all"
+          },
+          {
+            "name": "List of Images Compressors",
+            "iconSrc": "/img/compare.png",
+            "url": "/compress-image-all"
+          }
+        ]
+      }
+    ]
+  },
+  "navItems": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ]
+}

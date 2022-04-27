@@ -151,6 +151,18 @@
     {
       "name": " Printing image resizer",
       "url": "/image-resize-printing"
+    },
+    {
+      "name": "List of aspect ratio calculators pages",
+      "url": "/all-aspect-ratio-in-pixels-urls"
+    },
+    {
+      "name": "List of mm to pixels conveter pages",
+      "url": "/all-mm-in-pixels-urls"
+    },
+    {
+      "name": "List of cm to pixels conveter pages",
+      "url": "/all-cm-in-pixels-urls"
     }
   ],
   "social": [

@@ -1,0 +1,249 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "h1": "SafeImagekit.com - 이미지를 처리하는 가장 안전한 방법",
+    "h2": "서버에 파일이 전송되지 않습니다. 100% 안전합니다.",
+    "TITLE": "SafeImagekit.com - 이미지를 처리하는 가장 안전한 방법",
+    "META": "SafeImagekit.com을 사용하여 온라인에서 무료로 이미지를 안전하게 처리하십시오.여러 작업이 지원됩니다.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "ASCII 이미지 생성기 ",
+            "description": "이미지를 아스키 아트로 변환",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/ko/ascii-art-from-image"
+        },
+        {
+            "name": "이미지 압축 ",
+            "description": "이미지 압축",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/ko/compress-an-image"
+        },
+        {
+            "name": "이미지 스플리터 ",
+            "description": "분할 이미지",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/ko/split-photo"
+        },
+        {
+            "name": "Jpeg 압축 ",
+            "description": "jpeg 이미지를 압축합니다",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/ko/compress-jpeg"
+        },
+        {
+            "name": "Png 압축 ",
+            "description": "png 이미지를 압축합니다",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/ko/compress-png"
+        },
+        {
+            "name": "Gif 압축 ",
+            "description": "gif 이미지를 압축합니다",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/ko/compress-a-gif"
+        },
+        {
+            "name": "이미지 비교",
+            "description": "두 이미지 비교",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/ko/image-comparison"
+        },
+        {
+            "name": "이미지 크롭 퍼",
+            "description": "크롭 이미지",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/ko/crop-image"
+        },
+        {
+            "name": "이미지 필터 가산기",
+            "description": "이미지에 필터 추가",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/ko/photo-filters"
+        },
+        {
+            "name": "밈 생성기",
+            "description": "밈 생성",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/ko/meme-generator"
+        },
+        {
+            "name": "텍스트를 이미지로 변환",
+            "description": "텍스트를 이미지로 변환",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/ko/text-to-image-converter"
+        },
+        {
+            "name": "이미지 플리퍼",
+            "description": "이미지 뒤집기/회전",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/ko/flip-image"
+        },
+        {
+            "name": "이미지 리사이저",
+            "description": "크기 이미지 변경",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/ko/image-resize"
+        },
+        {
+            "name": "워터마크 이미지 메이커",
+            "description": "워터마크 이미지 생성",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/ko/watermark-for-photos"
+        },
+        {
+            "name": " QR 코드 생성기",
+            "description": "Qr 코드를 생성합니다",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/ko/qr-code-generator"
+        },
+        {
+            "name": " 이미지를 픽셀화물로 변환하는 이미지 변환기",
+            "description": "이미지를 픽셀 아트로 변환",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/ko/pixel-art-maker"
+        },
+        {
+            "name": "페이스북 이미지 리사이저",
+            "description": "페이스북용 이미지 크기 조정",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/ko/image-resize-facebook"
+        },
+        {
+            "name": " 인스타그램 이미지 리사이저",
+            "description": "인스 타 그램 이미지 크기 조정",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/ko/image-resize-instagram"
+        },
+        {
+            "name": " 링크드인 이미지 리사이저",
+            "description": "링크드인을 위한 이미지 크기 조정",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/ko/image-resize-linkedin"
+        },
+        {
+            "name": " 이메일 이미지 리사이저",
+            "description": "이메일용 이미지 크기 조정",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/ko/image-resize-email"
+        },
+        {
+            "name": " 틱톡 이미지 리사이저",
+            "description": "tiktok용으로 이미지 크기 조정",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/ko/image-resize-tiktok"
+        },
+        {
+            "name": " 트위터 이미지 리사이저",
+            "description": "트위터의 이미지 크기 조정",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/ko/image-resize-twitter"
+        },
+        {
+            "name": " 핀터레스트 이미지 리사이",
+            "description": "클립에 맞게 이미지 크기 조정",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/ko/image-resize-pinterest"
+        },
+        {
+            "name": "스냅챗 이미지 리사이저",
+            "description": "스냅챗용 이미지 크기 조정",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/ko/image-resize-snapchat"
+        },
+        {
+            "name": " 구글 배너 광고 이미지 스냅챗",
+            "description": "Google 배너 광고용 이미지 크기 조정",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/ko/image-resize-google-banner-ads"
+        },
+        {
+            "name": " 디스코드",
+            "description": "불일치를 위해 이미지 크기 조정",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/ko/image-resize-discord"
+        },
+        {
+            "name": " 사운드클라우드",
+            "description": "사운드클라우드용 이미지 크기 조정",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/ko/image-resize-soundcloud"
+        },
+        {
+            "name": " WhatsApp",
+            "description": "왓츠앱 이미지 크기 조정",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/ko/image-resize-whatsapp"
+        },
+        {
+            "name": " 제곱 공간",
+            "description": "정사각형에 맞게 이미지 크기 조정",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/ko/image-resize-squarespace"
+        },
+        {
+            "name": " 경련",
+            "description": "Twitch용 이미지 크기 조정",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/ko/image-resize-twitch"
+        },
+        {
+            "name": " 프린팅",
+            "description": "인쇄할 이미지 크기 조정",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/ko/image-resize-printing"
+        },
+        {
+            "name": "소셜 미디어",
+            "description": "소셜 미디어 이미지 리사이저",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/ko/social-media-resizer"
+        },
+        {
+            "name": "이미지 리사이저",
+            "description": "X~Y인치/픽셀로 이미지 크기 조정",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/ko/image-resizers-all"
+        },
+        {
+            "name": " 이미지 압축",
+            "description": "이미지 압축기 목록",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/ko/compress-image-all"
+        }
+    ]
+}

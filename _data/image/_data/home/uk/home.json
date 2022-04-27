@@ -1,0 +1,249 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "h1": "Safeimagekit.com - Найбезпечніший спосіб обробки ваших зображень",
+    "h2": "Ніякі файли не надсилаються на сервер. 100% безпечно.",
+    "TITLE": "Safeimagekit.com - Найбезпечніший спосіб обробки ваших зображень",
+    "META": "Використовуйте Safeimagekit.com, щоб безпечно обробляти свої зображення в Інтернеті безкоштовно. Підтримуються кілька операцій.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "Генератор зображень ASCII ",
+            "description": "Перетворює зображення на мистецтво Ascii",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/uk/ascii-art-from-image"
+        },
+        {
+            "name": "Стиснення зображення ",
+            "description": "Стискає зображення",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/uk/compress-an-image"
+        },
+        {
+            "name": "Розгалужувач зображення ",
+            "description": "Розбиває зображення",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/uk/split-photo"
+        },
+        {
+            "name": "Стиснення JPEG ",
+            "description": "Стискає зображення jpeg",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/uk/compress-jpeg"
+        },
+        {
+            "name": "Стиснення Png ",
+            "description": "Стискає png зображення",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/uk/compress-png"
+        },
+        {
+            "name": "Gif стиснення ",
+            "description": "Стискає зображення gif",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/uk/compress-a-gif"
+        },
+        {
+            "name": "Порівняння зображень",
+            "description": "Порівнює два зображення",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/uk/image-comparison"
+        },
+        {
+            "name": "Обрізка зображень",
+            "description": "Зображення культур",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/uk/crop-image"
+        },
+        {
+            "name": "Фільтр зображення сумадер",
+            "description": "Додавання фільтрів до зображення",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/uk/photo-filters"
+        },
+        {
+            "name": "Генератор мемів",
+            "description": "Генерує мем",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/uk/meme-generator"
+        },
+        {
+            "name": "Конвертер тексту в зображення",
+            "description": "Перетворює текст у зображення",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/uk/text-to-image-converter"
+        },
+        {
+            "name": "Зображення Фліппер",
+            "description": "Фліпс/Обертає зображення",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/uk/flip-image"
+        },
+        {
+            "name": "Зміна розміру зображення",
+            "description": "Зміни розміру зображення",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/uk/image-resize"
+        },
+        {
+            "name": "Виробник зображень водяних знаків",
+            "description": "Створює зображення водяних знаків",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/uk/watermark-for-photos"
+        },
+        {
+            "name": " Генератор QR-коду",
+            "description": "Генерує Qr-код",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/uk/qr-code-generator"
+        },
+        {
+            "name": " Зображення для пікселяції конвертер зображень",
+            "description": "Перетворює зображення в Pixel art",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/uk/pixel-art-maker"
+        },
+        {
+            "name": "Розмір зображення Facebook",
+            "description": "Зміна розміру зображень для facebook",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/uk/image-resize-facebook"
+        },
+        {
+            "name": " Змінний розмір зображення в Instagram",
+            "description": "Зміна розміру зображень для instagram",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/uk/image-resize-instagram"
+        },
+        {
+            "name": " Змінний розмір зображення LinkedIn",
+            "description": "Зміна розміру зображень для linkedIn",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/uk/image-resize-linkedin"
+        },
+        {
+            "name": " Зміна розміру зображення електронної пошти",
+            "description": "Зміна розміру зображень для електронної пошти",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/uk/image-resize-email"
+        },
+        {
+            "name": " Tiktok Resizer зображення",
+            "description": "Зміна розміру зображень для tiktok",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/uk/image-resize-tiktok"
+        },
+        {
+            "name": " Зміна розміру зображення Twitter",
+            "description": "Зміна розміру зображень для Twitter",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/uk/image-resize-twitter"
+        },
+        {
+            "name": " Зміна розміру зображення Pinterest",
+            "description": "Зміна розміру зображень для Pinterest",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/uk/image-resize-pinterest"
+        },
+        {
+            "name": "Змінний розмір зображення Snapchat",
+            "description": "Зміна розміру зображень для snapchat",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/uk/image-resize-snapchat"
+        },
+        {
+            "name": " Google Банер оголошення зображення Snapchat",
+            "description": "Зміна розміру зображень для банерних оголошень Google",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/uk/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Розбрат",
+            "description": "Зміна розміру зображень для розбрату",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/uk/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Зміна розміру зображень для soundcloud",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/uk/image-resize-soundcloud"
+        },
+        {
+            "name": " Whatsapp",
+            "description": "Зміна розміру зображень для WhatsApp",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/uk/image-resize-whatsapp"
+        },
+        {
+            "name": " квадратні",
+            "description": "Зміна розміру зображень для squarespace",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/uk/image-resize-squarespace"
+        },
+        {
+            "name": " Смикач",
+            "description": "Зміна розміру зображень для смикатися",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/uk/image-resize-twitch"
+        },
+        {
+            "name": " Друк",
+            "description": "Зміна розміру зображень для друку",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/uk/image-resize-printing"
+        },
+        {
+            "name": "Сокейл Медіа",
+            "description": "Socail Медіа Зображення Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/uk/social-media-resizer"
+        },
+        {
+            "name": "Резизатори зображень",
+            "description": "Розмір зображення в X до Y дюймів/пікселів",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/uk/image-resizers-all"
+        },
+        {
+            "name": " Стиснути зображення",
+            "description": "Список зображень Compresser",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/uk/compress-image-all"
+        }
+    ]
+}

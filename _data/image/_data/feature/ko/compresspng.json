@@ -1,0 +1,145 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "H1": "PNG 압축기",
+    "img": "/img/compresspng.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "기본",
+    "H2": "PNG 압축이 쉬워졌습니다. 아래에 파일을 업로드하는 것부터 시작하십시오.",
+    "TITLE": "PNG 압축기 - PNG 압축기 온라인 - 안전한 이미지 키트",
+    "META": "고품질 PNG 압축기를 찾고 계십니까?그럼 당신은 바로 이곳에 있습니다.당사의 온라인 PNG 압축기 도구는 매우 안전하고 사용자 친화적이며 매우 빠릅니다.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#66b3ff",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "고품질",
+            "content": "PNG 압축 도구는 품질을 유지하여 이미지를 압축합니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "데이터 보안",
+            "content": "귀하의 데이터는 당사 서버로 전송되지 않으며 모든 작업은 브라우저 자체에서 수행됩니다.이를 통해 사용자에게 100% 안전할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "유연성",
+            "content": " PNG 압축 도구는 거의 모든 종류의 브라우저 및 장치에서 작동합니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "사용자 친화성",
+            "content": "PNG 압축 도구는 매우 이해하기 쉽습니다. 도구 작업에 전문가가 필요하지 않습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "비용 무료",
+            "content": "PNG 압축 도구는 완전히 무료입니다. 한 푼도 지불하지 않고도 모든 도구를 사용할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "추가 다운로드 없음",
+            "content": "PNG 압축 도구는 완전히 브라우저 기반이므로 장치에 추가 소프트웨어를 다운로드 할 필요가 없습니다."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "PNG 이미지 파일을 압축하는 방법.",
+        "steps": [
+            "이미지 파일을 업로드하거나 드롭다운 화살표를 클릭하고 Dropbox/Google 드라이브를 선택합니다.",
+            "제공된 옵션을 사용하여 매개변수를 조정합니다.",
+            "이미지 파일의 방향을 조정합니다.",
+            "저장 옵션을 눌러 변경 사항을 저장합니다.",
+            "다운로드 옵션을 사용하여 이미지 파일을 다운로드합니다.",
+            "만세!!!이미지가 흔들릴 준비가 되었습니다."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "내 드라이브에 대한 액세스를 허용해도 안전한가요?",
+            "answer": "예, 드라이브에 대한 액세스를 허용하고 허용하는 것은 절대적으로 안전합니다.우리는 귀하의 사이트를 변경하지 않을 것이며 귀하의 파일은 안전하게 보호될 것입니다."
+        },
+        {
+            "question": "드라이브/드롭박스에서 파일을 업로드하려면 어떻게 해야 하나요?",
+            "answer": "드롭다운 화살표를 클릭하고 드롭박스/Google 드라이브를 선택합니다.드라이브를 연결할 Google 계정을 선택합니다.이제 업로드할 파일을 선택할 수 있습니다."
+        },
+        {
+            "question": "png 형식의 이미지를 압축하는 동안 safeimagekit.com의 “PNG 압축기” 기능이 제공하는 기능은 무엇입니까?",
+            "answer": "safeimagekit.com의 PNG 압축기 기능은 png 파일을 압축하는 동안 다양한 기능을 제공합니다.주요 기능은 다음과 같습니다.\n높이, 너비 등 이미지의 크기를 조정하여 업로드 된 png 파일 수정 이 png 압축 기능은 업로드 된 png 파일에 따라 최대 또는 최소로 확장 할 수있는 크기를 입력하여 압축을 제공합니다.이 기능은 정확한 회전 조정을 위한 엄격 모드 및 방향 모드도 제공합니다.png 압축기는 또한 이미지의 품질을 조정하는 옵션을 제공하고 사용자가 이미지 형식을 사용자에게 유리하게 변환 할 수 있도록합니다.\n"
+        },
+        {
+            "question": "png 파일을 업로드한 후 safeimagekit.com의 png 압축기 기능에서 제공하는 매개 변수는 무엇입니까?",
+            "answer": "safeimagekit.com의 압축 기능은 png 형식의 이미지를 업로드 한 후 다양한 매개 변수를 제공하며 이러한 매개 변수에는 이미지 이름, 이미지 크기, 이미지 유형 등이 포함됩니다 매개 변수는 마지막으로 수정 된 매개 변수로 시간, 날짜 및 마지막 시간대를 제공합니다수정.또한 업로드 후 업로드된 이미지 파일의 편집을 시작하기 전에 진행률 표시줄을 제공합니다."
+        },
+        {
+            "question": "png 파일을 압축하는 동안 safeimagekit.com에서 png 파일에 제공하는 조정 기능은 무엇입니까?",
+            "answer": "safeimagekit.com의 png 파일 압축 기능은 이미지를 압축하는 동안 많은 기능을 제공합니다.너비와 높이와 같은 치수를 조정하여 png 파일의 크기를 조정할 수 있습니다.최대 높이와 최대 너비는 사용자에게 사진 압축의 최대 제한을 제공합니다.최소 너비와 최소 높이는 사용자에게 사진 압축의 최소 제한을 제공합니다.크기 변환 옵션을 사용하면 사용자가 전체를 압축할 수 있습니다."
+        },
+        {
+            "question": "safeimagekit.com의 png 압축기 기능의 품질 조정 옵션은 어떻게 작동합니까?",
+            "answer": "safeimagekit.com의 png 압축기 기능의 품질 조정 옵션은 사용자가 업로드된 png 파일의 전반적인 품질을 결정할 수 있는 중요한 기능입니다.이 기능은 이미지를 업로드한 후 “품질 입력” 공간에서 액세스할 수 있습니다.이렇게 하면 선명도, 대비, 흐림 (소량) 및 기타 여러 이미지 매개 변수가 전체적으로 조정됩니다.사용자는 0.1부터 1까지의 척도로 측정을 결정할 수 있습니다.업로드된 이미지의 품질을 변경하지 않으려면 이 옵션을 건너뛸 수 있습니다."
+        },
+        {
+            "question": "safeimagekit.com의 컴프레서 기능의 “마임 유형” 옵션은 어떻게 작동합니까?",
+            "answer": "safeimagekit.com의 압축기 기능의 “마임 유형” 옵션을 사용하면 사용자가 safeimagekit.com의 압축기 도구를 사용하여 이미지를 압축한 후 이미지의 형식을 선택할 수 있습니다.현재 사용자는 5가지 유형의 이미지 형식을 사용할 수 있습니다.사용자는 자신의 요구 사항에 따라 이미지 형식을 변경할 수 있습니다.이러한 형식에는 webp, png, jpg, jpeg 및 gif 형식이 포함됩니다.형식을 변경하지 않고 유지하려는 경우 사용자는 “MIME 유형 입력”이라는 옵션을 선택할 수 있습니다.이미지를 업로드한 후 페이지 하단에서 “Mime type” 옵션에 액세스하여 변경 사항을 저장할 수 있습니다."
+        },
+        {
+            "question": "리눅스 운영 체제에서 safeimagekit.com의 png 압축 기능을 사용할 수 있습니까?",
+            "answer": "예, safeimagekit.com의 png 압축 기능은 리눅스를 포함한 모든 운영 체제에서 사용할 수 있습니다.안정적인 인터넷 연결이 가능한 장치가있는 경우 MAC OS, Windows 및 Ubuntu와 같은 모든 운영 체제에서 사용자가 업로드 한 이미지를 압축 할 수있는 최신 코드와 기능으로 구축되었습니다.마술은 느린 인터넷 연결에서도 작동한다는 것입니다."
+        },
+        {
+            "question": "safeimagekit.com의 png 압축 기능을 사용하여 png 파일에있는 텍스트를 편집 할 수 있습니까?",
+            "answer": "아니요, 현재 safeimagekit.com의 png 압축 기능은 사용자가 png 파일을 압축하고 이미지 형식을 png 형식에서 다른 형식으로 변환 할 수있는 기능 만 제공합니다. safeimagekit.com에서는 텍스트 편집 기능을 사용할 수 없습니다.그러나 웹 사이트를 업데이트하면 곧 모든 흥미로운 기능이 제공 될 것입니다."
+        },
+        {
+            "question": "safeimagekit.com의 png 압축기를 사용하여 4k 및 8k 이미지를 편집하거나 압축할 수 있습니까?",
+            "answer": "아니요, 현재 safeimagekit.com의 압축기 기능은 최고 1080p의 이미지 편집 기능만 제공합니다.그러나 safeimagekit.com에는 4k 이미지 압축 및 편집 옵션이 있지만 8k 이미지 처리는 사용할 수 없으며 향후 웹 사이트 업데이트로 포함될 예정입니다."
+        },
+        {
+            "question": "safeimagekit.com의 png 압축기 기능을 사용하여 한 번에 몇 개의 png 파일을 편집할 수 있습니까?",
+            "answer": "현재 safeimagekit.com의 압축기 기능은 단일 png 파일을 편집하고 압축 할 수 있습니다. 이 도구는 편집하는 동안 적절한 매개 변수를 요구하므로 여러 png 파일 편집 기능은 현재 포함되어 있지 않지만 웹 사이트를 업데이트하면 앞으로이를 가능하게 할 것입니다. "
+        },
+        {
+            "question": "애플 아이폰 11에서 safeimagekit.com의 png 압축기 기능을 사용할 수 있나요? ",
+            "answer": "예, safeimagekit.com의 png 압축기 기능은 크로스 플랫폼 기반 기능으로, 사용자는 안드로이드, iOS, 윈도우 및 Mac OS와 같은 운영 체제에서이 변환기 도구를 사용할 수 있습니다.사용되는 운영 체제와 독립적이지만 인터넷 연결 및 다른 파일로 압축하기 위해 업로드되는 png 파일의 크기에만 의존합니다."
+        },
+        {
+            "question": "업로드 된 이미지 파일이 safeimagekit.com의 png 압축 기능에있는 정교한 옵션을 사용하여 압축 한 후 손상됩니까?",
+            "answer": "아니요, safeimagekit.com의 압축 기능은 업로드 된 png 파일이 손상되지 않도록하는 모든 최신 프로그램과 보안 기능으로 구축되었습니다.따라서 업로드 된 png 파일은 완전히 안전하고 안전합니다.또한 safeimagekit.com은 서버가 필요없는 웹 사이트이므로 여기에 png 파일이 저장되지 않고 웹 페이지가 닫히는 즉시 메모리에서 지워집니다."
+        },
+        {
+            "question": "PNG 압축 도구 작업을 완료한 후 내 파일이 저장되나요? ",
+            "answer": "아니요, 귀하의 파일을 저희 서버로 보내지 않습니다. 모든 작업은 브라우저 자체에서 수행되므로 모든 파일은 완전히 안전합니다. "
+        },
+        {
+            "question": "PNG 압축 도구를 사용하려면 추가 가입이나 추가 비용을 지불해야 하나요? ",
+            "answer": "우리의 도구는 완전히 온라인 상태이며 이메일 ID, 암호 등과 같은 개인 정보를 우리와 공유 할 필요가 없습니다."
+        },
+        {
+            "question": "문제가 발생하거나 제안을 하고 싶은 경우 어떻게 소통해야 합니까?",
+            "answer": "모든 사용자가 제공하는 문제 나 제안을 기꺼이 받아들입니다. 자세한 내용은 소셜 미디어 핸들을 통해 문의하십시오.SafeImagekit.com은 페이스북, 인스타그램, 유튜브, 링크드인 등과 같은 모든 주요 소셜 미디어 웹사이트에서 사용할 수 있습니다."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+        "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+    ],
+    "filelang": "en",
+    "display_formats": [
+        "png"
+    ]
+}

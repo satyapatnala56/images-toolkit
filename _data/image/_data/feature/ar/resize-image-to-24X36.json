@@ -1,0 +1,481 @@
+{
+    "Language": "العربية",
+    "htmlLangAtt": "ar",
+    "H1": "تغيير حجم الصورة 24x36 الأبعاد على الإنترنت بالبوصة",
+    "keywords": "تغيير حجم الصورة إلى 24x36",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "تحذير",
+    "H2": "أفضل أداة لتغيير حجم الصور إلى أبعاد 24x36 بسرعة",
+    "TITLE": "تغيير حجم الصور إلى أبعاد 24x36 بالبوصة دون فقدان الجودة - أفضل أداة مجانية على الإنترنت",
+    "META": "قم بتغيير حجم صورك إلى 24 x36 على الفور دون فقدان جودتها. تتيح لك أداة تغيير حجم الصور 24x36 المجانية هذه تنزيل الصور التي تم تغيير حجمها بتنسيقات JPG و JPEG و PNG و WEBP دون أي متطلبات تسجيل الدخول. ",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+  "color": "#0D66D0",
+"megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown":[
+        {
+            "categoryName": "مغيرات الصور بالبوصة",
+            "links": [
+                {
+                    "name": "صورة تغيير الحجم إلى 3x5 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-3x5"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 4x6 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-4x6"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 5x7 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-5x7"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 8x8",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-8x8"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 8x10 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-8x10"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 8x11 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-8x11"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2x2 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2x2"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 9x16 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-9x16"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 11x14 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-11x14"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 11x16 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-11x16"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 12x18 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-12x18"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 18x24 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-18x24"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 18x36 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-18x36"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 20x24 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-20x24"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 24x36 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-24x36"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 24x30 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-24x30"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 24x48 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-24x48"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 29x21 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-29x21"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 30x36 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-30x36"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 30x40 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-30x40"
+                }
+            ]
+        },
+        {
+            "categoryName": "مغيرات الصور بالبكسل",
+            "links": [
+                {
+                    "name": "صورة تغيير الحجم إلى 900x1500 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-900x1500"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x1800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x1800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 32x32 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-32x32"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 42x59 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-42x59"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 128x128 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-128x128"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 21x29 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-21x29"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 150x150 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-150x150"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 168x168 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-168x168"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 170x170 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-170x170"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 254x94 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-254x94"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 266x177 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-266x177"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 300x300 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-300x300"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 320x320 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-320x320"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 385x256 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-385x256"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 450x450 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-450x450"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 500x500 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-500x500"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 560x208 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-560x208"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 630x1200 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-630x1200"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 700x800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-700x800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 800x2000 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-800x2000"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 900x1500 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-900x1500"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1000x524 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1000x524"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1000x1000 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1000x1000"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1024x768 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1024x768"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1080x1920 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1080x1920"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1080x1080 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1080x1080"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1080x1350 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1080x1350"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x628 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x628"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x630 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x630"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x675 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x675"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x1200 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x1200"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x1800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x1800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1280x720 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1280x720"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1500x2100 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1500x2100"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1584x396 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1584x396"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1640x923 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1640x923"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1920x480 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1920x480"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1920x1080 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1920x1080"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1958x745 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1958x745"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2037x754 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2037x754"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2400x3000 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2400x3000"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2550x3300 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2550x3300"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2700x4800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2700x4800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 3300x4200 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-3300x4200"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 3300x4800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-3300x4800"
+                }
+            ]
+        }
+    ]
+},
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "حافظ على جودة الصورة عالية",
+            "content": "من الممكن تغيير حجم الصور بالبوصة دون المساس بجودتها بمساعدة صورة تغيير الحجم إلى أداة أبعاد 24 × 36. ستكون نسبة العرض إلى الارتفاع للصورة المكبرة هي نفس نسبة الصورة الأصلية. لا توجد متطلبات تكنولوجية، وحتى المستخدمين غير التقنيين يمكنهم إكمال الإجراء. كما يوفر لك معاينة للصورة التي تم تغيير حجمها، مما يسمح لك بإكمال إجراء تغيير الحجم بأكثر الطرق سلاسة ممكنة."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "سهل الاستخدام",
+            "content": "أداة تغيير حجم الصور 24x36 هذه بالبوصة سهلة التشغيل للغاية. أولاً وقبل كل شيء، واجهة المستخدم بسيطة ومباشرة حقًا. نظرًا لحقيقة أن كل شيء في مكان واحد، لن تضطر إلى تخمين مكان بدء التحرير. بالإضافة إلى ذلك، لا تحتوي أداة تغيير الحجم الخاصة بنا على أبعاد 24×36 على أي إعلانات، مما يؤدي إلى تجربة مستخدم أكثر متعة للمستخدم النهائي."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "الخصوصية وأمن البيانات",
+            "content": "لا يتم نقل أي بيانات إلى خوادمنا أو استخدامها لأي أغراض تسويقية أثناء استخدام صورة تغيير الحجم إلى أداة أبعاد 24×36. يتم إكمال جميع الأنشطة التي يتم تنفيذها أثناء استخدام صورة تغيير الحجم إلى أداة أبعاد 24x36 فقط داخل المتصفح. نتيجة لذلك، نحن قادرون على توفير السلامة الكاملة لجميع عملائنا، مما يجعل صورة تغيير الحجم الخاصة بنا إلى أداة أبعاد 24 × 36 يمكن الاعتماد عليها وآمنة تمامًا للاستخدام في أي موقف."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "إنه متاح للجميع بدون تكلفة",
+            "content": "نرحب بالجميع لاستخدام صورة تغيير الحجم لأداة أبعاد 24 × 36، وليس هناك أي شرط للتسجيل. يعد استخدام أداة تغيير الحجم الخاصة بنا لأداة الأبعاد 24 × 36 مجانيًا تمامًا، ولا نفرض عليك أي رسوم مقابل ذلك. عند استخدام أداة تغيير الحجم لأداة الأبعاد 24×36، لا يوجد حد لعدد المرات التي يمكنك فيها تغيير حجم صورك."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "القدرة على التكيف",
+            "content": "كل من Chrome و Safari و Firefox و Microsoft Edge والمتصفحات الشائعة الأخرى مدعومة بواسطة صورة تغيير الحجم إلى أداة أبعاد 24x36. عند استخدام أداة تغيير الحجم لأداة الأبعاد 24×36، ستتكيف مع أي حجم شاشة، مما يسهل الوصول إليه لك على جهاز الكمبيوتر المكتبي أو الكمبيوتر اللوحي أو الهاتف المحمول."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "لا يوجد تنزيل آخر مطلوب",
+            "content": "من أجل استخدام أداة تغيير الحجم الخاصة بنا إلى 24x36 الأبعاد، لا نطلب منك تنزيل أو تثبيت أي برنامج على جهاز الكمبيوتر أو الجهاز المحمول الخاص بك. تعتمد أداة تغيير حجم الصورة إلى 24x36 الأبعاد بشكل كامل على المتصفح، ويمكنك الوصول إلى موقعنا في أي وقت بمجرد إدخال عنوان URL الخاص بنا في متصفحك واستخدام الأداة حسب الحاجة."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "كيفية تغيير حجم الصورة",
+        "steps": [
+            "انقر فوق اختيار ملف لتحميل الصورة من جهازك أو انقر فوق الزر المنسدل للتحميل من Dropbox أو Google Drive.",
+            "اضبط أبعاد الصورة وتنسيقها وفقًا للمواصفات التي تريدها.",
+            "لمشاهدة التغييرات التي أجريتها، انقر فوق معاينة.",
+            "احفظ التغييرات بالنقر فوق الزر حفظ التغييرات.",
+            "للحصول على الصورة التي تم تغيير حجمها، انقر فوق الزر تنزيل."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "How does resizer image to 24x36 dimensions tool work?",
+            "answer": "If you need to resize an image, you can use the resizer image to X dimensions feature to make it fit a particular sized frame or document. You can resize an image by changing its height and width. Then, just click the Dimensions in Inches option and select the new size you wish to apply to the image.The resizer image to 24x36 dimensions tool will allow you to resize an image to a specific size in inches. You can choose the dimensions and format of the file. The resizer image to 24x36 dimensions tool will then allow you to download the resized image. The resizing process is relatively quick and painless. To put it another way, resizing an image without resampling just alters the size of the image, not the data content. This image has had no information added or removed.You can also use a resizer image to X dimensions tool to reduce the size of a file. Using the resizer image to X dimensions tool means that you can save space on your computer and reduce the file size. This will make the image smaller without compromising its quality. Then, you can upload it in a new file format. However, this method will not reduce the image quality."
+        },
+        {
+            "question": "Is it safe to use resizer image to 24x36 dimensions tool?",
+            "answer": "As the name implies, this software functions by decreasing the size of the original image. It does not, however, degrade the clarity of the original image in any way. The programme can only resize images inches or pixels of their original size. It is unable to resize images or convert them to other formats.The resizer image to 24x36 dimensions tool may be used to resize any image to any desired size with ease. It is completely free and may be accessed on any platform. To change the size of an image, simply drag and drop it into the resize box. After resizing the image, you can save it to your computer. The original file size, as well as the updated dimension, will be saved by this utility."
+        },
+        {
+            "question": "What image formats does resizer image to 24x36 dimensions tool support?",
+            "answer": "It is possible to resize images in file formats such as JPG, JPEG, PNG, and WEBP by using the resizer image to 24x36 dimensions tool. It is compatible with the most widely used picture file formats on the internet. Simply drag and drop your JPG, JPGE, PNG, or WEBP image onto the tool and select the size that you would like to have your image scaled or resized. After resizing the image, you can save it to your computer."
+        },
+        {
+            "question": "Is it possible to resize (convert, optimize) many images at the same time by using resizer image to 24x36 dimensions tool?",
+            "answer": "When utilising the resizer image to 24x36 dimensions tool, several images cannot be resized at the same time. In such situations, a few methods can be used. For example, in Photoshop, you can use the Image Processor dialogue box to resize several images at once. Select Tools > Adjust Size, and choose the size you want for all images. You can also change the percentage by entering a lower or higher value. For example, you can reduce an image by choosing a percentage of less than 100 and enlarge it by choosing a higher value.Resizing an image can also be done on a multi-threaded computer. This method allows you to resize multiple images at once, but it is not recommended for a web page. If you need to resize multiple images, use the resize command. It will take much less time than using the resize command individually. And once you've set it up, you can even batch resize your files at once."
+        },
+        {
+            "question": "Is it true that because the tool for resizing images to 24x36 dimensions is free, my data is sold to third parties?",
+            "answer": "Our resizer image to 24x36 dimensions tool reduces images to a specific size in terms of inches Don't store, distribute, or commercialize your personal information. You are not charged for using the service."
+        },
+        {
+            "question": "Any software or registration is required for me to use this resizer image to 24x36 dimensions tool.",
+            "answer": "There is no need for you to download any software or sign up for a service because our resizer image to 24x36 dimensions tool is stored locally in your web browser. The ability to resize the image means that you won't have to be bothered about the size of your images."
+        },
+        {
+            "question": "Does resizing an image change the file size?",
+            "answer": "When you resize an image without resampling it, you modify its size without changing its data content. Only the physical dimensions (Width and Height in Document Size) and the resolution (inches) can be changed."
+        },
+        {
+            "question": "Can i resize a black and white image by using the resizer image to 24x36 dimensions tool?",
+            "answer": "Our resizer image to 24x36 dimensions tool does support resizing of black and white images, therefore you can use it to do so."
+        },
+        {
+            "question": "Does resizer image to 24x36 dimensions tool loose image information?",
+            "answer": "No, throughout the conversion process, our resizer image to 24x36 dimensions tool will not discard the image data."
+        },
+        {
+            "question": "Does the resizer image to 24x36 dimensions tool support both Android and iOS platforms?",
+            "answer": "It is important to note that our resizer image to 24x36 dimensions tool is a mobile-compatible tool, which means that it is compatible with both the Android and iOS platforms."
+        },
+        {
+            "question": "What are the common uses for the resizer image to 24x36 dimensions tool?",
+            "answer": "Resizer images to 24x36 dimensions tool is used to fit an image to a given dimensions in inches. This might be for a profile picture, a banner image, or images of products in your online store. Each format has an appropriate picture size. Your internet images and images come in unlimited sizes. Resize the image and you can fit it properly without the need to crop. High-quality images improve the user experience and increase trust. If your website or online business doesn’t seem quite right, your clients are going to bounce."
+        },
+        {
+            "question": "What are the benefits of using the resizer image to 24x36 dimensions tool?",
+            "answer": "Our resizer images to 24x36 dimensions tool is completely free, and it just takes a few seconds to do its task. That's a significant reduction in potential stress. There is no need to become familiar with any difficult software programmes. In order to resize your images to X dimensions in inches, you can choose the size that you wish to use in the process. All you need to do is determine what size you want, enter the desired width and height in the Resize Image pop-up, and then sit back and let the tool do the rest for you.Using the Resizer image to 24x36 dimensions tool can be extremely useful when you need to resize your images to fit into a specific format or size in inches. They have the ability to reduce the size of images of any size, so you won't have to be concerned about the size."
+        },
+        {
+            "question": "Can I resize an image to 24x36 dimensions without losing quality?",
+            "answer": "With the help of the resizer image to 24x36 dimensions tool, you may resize images without sacrificing their quality. The expanded image will have the same aspect ratio as the original image."
+        },
+        {
+            "question": "Do I have to log in to use this resizer image to 24x36 dimensions tool?",
+            "answer": "Due to the fact that our resizer image to 24x36 dimensions tool is stored locally in your web browser, there is no need for you to download any software or sign up for the service."
+        },
+        {
+            "question": "When it comes to zooming and resizing, what's the difference? Zooming is done with the resizer image to 24x36 dimensions tool?",
+            "answer": "Resizing an image alters its proportions, resulting in a larger file size (and, thereby, image quality). The user can adjust the view of a document or image by zooming in or out. It just expands the image on the paper without changing or modifying the original size. We can only resize images in inches with the resizer image to 24x36 dimensions tool; it is not useful for zooming."
+        },
+        {
+            "question": "What's the difference between scaling and resizing? The resizer image to 24x36 dimensions tool is used to perform the scaling?",
+            "answer": "The biggest difference between scaling and resizing lies in the way that the resolution of the image is altered. While resizing involves a more exact pixel size, scaling is a less exact process. In this case, the original image must be multiples of the final size, which can result in a pixelated effect. This is a key feature to consider when resizing an image. Using the resizer image to 24x36 dimensions tool, we can only resize images in inches; it is not useful for scaling."
+        }
+    ],
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh036g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Gerar",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Gerador de imagens ASCII ",
+                        "url": "/pt/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Gerador de meme",
+                        "url": "/pt/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Conversor de texto para imagem",
+                        "url": "/pt/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Criador de imagens de marca d'água",
+                        "url": "/pt/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Conversor de imagem para pixelar imagem",
+                        "url": "/pt/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "Gerador de código QR",
+                        "url": "/pt/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Editar",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Cortador de imagens",
+                        "url": "/pt/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Adicionador de filtro de imagem",
+                        "url": "/pt/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Rotador de imagem",
+                        "url": "/pt/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Comprimir",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "compressor de imagem",
+                        "url": "/pt/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Compressor PNG",
+                        "url": "/pt/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Compressor gif",
+                        "url": "/pt/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Compressor jpeg",
+                        "url": "/pt/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Outras ferramentas",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Divisor de imagem",
+                        "url": "/pt/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Redimensionador de imagens",
+                        "url": "/pt/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Comparação de imagens",
+                        "url": "/pt/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Outras ferramentas",
+                "links": [
+                  {
+                    "name": "Redimensionadores de imagem de mídia social",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "Lista de redimensionadores de imagem",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "Lista de Compressores de Imagens",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

@@ -1,0 +1,497 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "H1": "無料オンライン 1958x745 寸法画像リサイズ（ピクセル単位）",
+    "keywords": "resize image to 1958x745",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "警告",
+    "H2": "画像を1958x745の寸法にすばやくサイズ変更するための最適なツール",
+    "TITLE": "品質を損なうことなく、画像をピクセル単位で1958x745のサイズにサイズ変更-最高の無料オンラインツール",
+    "META": "画質を損なうことなく、画像を即座に1958x745の比率にサイズ変更します。この無料のリサイズ画像を1958x745ツールに変換すると、サイズ変更された画像をJPG、JPEG、PNG、WEBP形式でサインインなしでダウンロードできます。",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "画像リサイザー (インチ)",
+                "links": [
+                    {
+                        "name": "イメージを 3x5 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "イメージのサイズを 4x6 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "イメージのサイズを 5x7 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "画像を8x8にリサイズする",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "イメージのサイズを 8x10 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "イメージのサイズを 8x11 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "イメージを 2x2 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "イメージのサイズを 9x16 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "画像を11x14にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "画像を11x16にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "画像を12x18にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "画像のサイズを 18x24 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "画像を18x36にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "イメージのサイズを 20x24 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "画像を24x36にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "イメージを24x30にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "イメージを24x48にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "イメージのサイズを 29x21 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "イメージを30x36にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "イメージを30x40にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "画像リサイザー (ピクセル単位)",
+                "links": [
+                    {
+                        "name": "イメージを900x1500にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "イメージを1200x1800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "イメージを32x32にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "画像を42x59にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "イメージを128x128にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "イメージを21x29にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "イメージを150x150にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "イメージを168x168にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "イメージのサイズを 170x170 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "イメージを254x94にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "イメージを266x177にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "イメージを300x300にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "イメージを320x320にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "イメージを385x256にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "イメージのサイズを 450x450 にリサイズ ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "イメージを500x500にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "イメージを560x208にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "イメージを630x1200にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "イメージを700x800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "イメージを 800x2000 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "イメージを900x1500にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "イメージを 1000x524 にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "イメージを1000x1000にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "イメージを1024x768にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "イメージを1080x1920にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "イメージを1080x1080にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "イメージを1080x1350にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "イメージを1200x628にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "イメージを1200x630にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "イメージを1200x675にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "イメージを1200x1200にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "イメージを1200x1800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "イメージを1280x720にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "イメージを1500x2100にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "イメージを1584x396にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "イメージを1640x923にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "イメージを1920x480にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "イメージを1920x1080にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "イメージを1958x745にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "イメージを2037x754にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "イメージを2400x3000にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "イメージを2550x3300にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "イメージを2700x4800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "イメージを3300x4200にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "イメージを3300x4800にリサイズする ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ja/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高品質",
+            "content": "画像を1958x745寸法にリサイズするツールを使用すると、画質を損なうことなく画像をピクセル単位でサイズ変更できます。拡大した画像は元の画像と同じ縦横比になるため、画像を切り抜く必要はありません。技術的な要件がないため、技術者以外の人でも手順を完了できます。また、拡大縮小された画像のプレビューも提供され、可能な限り効率的な方法でサイズ変更手順を完了できます。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "使いやすい",
+            "content": "この画像をピクセル単位で1958x745次元にリサイズするツールは非常に使いやすいです。まず、ユーザーインターフェイスは非常にわかりやすく簡単です。すべてが 1 か所にまとめられているので、どこから編集を始めるべきかを推測する必要はありません。さらに、画像を1958x745寸法にリサイズするツールには広告が表示されなくなり、エンドユーザーにとってより快適なユーザーエクスペリエンスが実現します。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "データプライバシーとセキュリティ",
+            "content": "画像を1958x745の寸法にリサイズツールを使用すると、データが当社のシステムにアップロードされたり、マーケティング目的で使用されたりすることはありません。画像を1958x745の寸法にリサイズツールを使用するときに実行されるすべてのアクションは、ブラウザ内で完全に実行されます。その結果、すべてのお客様に完全なセキュリティを提供できるようになり、1958x745寸法のリサイザー画像は信頼性が高く、どのような状況でもリスクなく使用できます。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "完全無料",
+            "content": "画像サイズ変更ツールを使用して画像を 1958 x 745 の寸法に変換するために、登録やサインインは必要ありません。画像を1958x745寸法にリサイズツールを使用するために料金を支払う必要はありません。画像のサイズは、1958x745 のサイズに何度でも変更できます。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "適応性",
+            "content": "画像を1958x745寸法にリサイズするツールは、Chrome、Safari、Firefox、Microsoft Edgeなどの幅広い一般的なブラウザーと互換性があります。画像を1958x745の寸法にリサイズツールを使用すると、任意の画面サイズに自動的に調整され、好みに応じてデスクトップコンピューター、タブレットコンピューター、または携帯電話から簡単にアクセスできます。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "他のソフトウェアをインストールする必要はありません",
+            "content": "画像を1958x745寸法にリサイズツールを使用するために、コンピューターやモバイルデバイスにソフトウェアをダウンロードまたはインストールする必要はありません。当社の1958x745寸法へのリサイザー画像ツールは完全にWebベースなので、いつでも使用できます。当社ウェブサイトのURLをブラウザに貼り付け、必要に応じてご利用ください。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "画像のサイズ変更方法",
+        "steps": [
+            "[ファイルを選択] をクリックしてデバイスから画像をアップロードするか、ドロップダウンボタンをクリックして Dropbox または Google ドライブからアップロードします。",
+            "希望する仕様に従って、画像の寸法と形式を調整します。",
+            "行った変更を確認するには、[プレビュー] をクリックします。",
+            "[変更を保存] ボタンをクリックして変更を保存します。",
+            "サイズ変更したイメージを取得するには、[ダウンロード] ボタンをクリックします。"
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "How does resizer image to 1958x745 dimensions tool work?",
+            "answer": "If you need to resize an image to fit a specific frame or document, use the resizer image to 1958x745 dimensions in pixels tool. An image's height and width can be adjusted to resize it. Simply select the new size you want for the image by clicking the Dimensions in pixels option.You may resize an image to a certain size in pixels by using the resizer image to 1958x745 dimensions tool. You have complete control over the file's size and format. You may then download the resized image by using the resizer image to 1958x745 dimensions tool. Resizing is a simple and painless procedure. To put it another way, resizing an image without resampling only changes its size, not its data content. No data has been added or deleted from this image.To lower the size of a file, you can utilise the resize image to 1958x745 dimensions tool. You can save space on your computer and lower the file size by using the resize image to 1958x745 dimensions tool. This will reduce the size of the image while maintaining its quality. Then, in a new file format, you can upload it. However, the visual quality will not suffer as a result of this procedure."
+        },
+        {
+            "question": "Is resizer image to 1958x745 dimensions tool safe to use?",
+            "answer": "As the name says, this software works by changing the original image's size. It does not, however, damage the original image's sharpness in any way. The application can only resize images to a fraction of their original size in inches or pixels. It can't resize or convert images to different formats.With the resizer image to 1958x745 dimensions tool, you may easily resize any image to any desired size. It is absolutely free to use and may be accessed from any device. Simply drag and drop an image into the resize box to change its size. You can save the image after resizing it to your PC. This tool will save the original file size as well as the revised dimension."
+        },
+        {
+            "question": "What image formats does resizer image to 1958x745 dimensions tool support?",
+            "answer": "The resizer image to 1958x745 dimensions tool can be used to resize images in file formats such as JPG, JPEG, PNG, and WEBP. It works with the most popular image file formats on the internet. Simply drag and drop your JPG, JPGE, PNG, or WEBP image onto the tool and choose the size you want your image scaled or resized to. You can save the image after resizing it to your PC."
+        },
+        {
+            "question": "Is it possible to resize (convert, optimize) many images at the same time by using resizer image to 1958x745 dimensions tool?",
+            "answer": "Multiple images cannot be scaled at the same time when using the resize image to 1958x745 dimensions tool. There are a few strategies that can be applied in such instances. In Photoshop, for example, you can use the Image Processor dialogue box to resize many images at once. Choose Tools > Adjust Size for all images and the size you want. You can also reduce or increase the percentage by providing a lower or higher number. You can shrink an image by selecting a percentage less than 100 and enlarge it by selecting a greater amount.A multi-threaded computer can also be used to resize an image. Although this method allows you to resize numerous images at once, it is not advised for use on a website. Use the resize command if you need to resize numerous images. It will save you a lot of time compared to using the resize command one by one. You can even batch resize your files after you've got it set up."
+        },
+        {
+            "question": "Any software or registration is required for me to use this resizer image to 1958x745 dimensions tool.",
+            "answer": "Because our resizer image to 1958x745 dimensions tool is saved locally in your web browser, there is no need for you to download any software or sign up for a service. You won't have to be concerned about the size of your images because you can resize them."
+        },
+        {
+            "question": "Does resizing an image change the file size?",
+            "answer": "When you resize an image without resampling it, you change the size of the image without changing the data content. Only the physical dimensions (Width and Height) and the resolution (pixels) are adjustable."
+        },
+        {
+            "question": "Can i resize a black and white image by using the resizer image to 1958x745 dimensions tool?",
+            "answer": "Yes, You can use our resizer image to 1958x745 dimensions tool to resize black and white images."
+        },
+        {
+            "question": "Does the resizer image to 1958x745 dimensions tool support both Android and iOS platforms?",
+            "answer": "Our resizer image to 1958x745 dimensions tool is mobile-friendly, which means it works on both Android and iOS devices."
+        },
+        {
+            "question": "What are the benefits of using the resizer image to 1958x745 dimensions tool?",
+            "answer": "Resizer images to 1958x745 dimensions tool is used to fit an image to given dimensions in pixels. This might be a profile photo, a banner image, or a product image from your online store. Each format has a specific image size. Your images on the internet are available in an infinite number of sizes. If you resize the image, you won't need to crop it. High-resolution photos enhance the user experience and build confidence. Clients will bounce if something about your website or online business doesn't appear quite right."
+        },
+        {
+            "question": "Can I resize an image to 1958x745 dimensions without losing quality?",
+            "answer": "Yes, you can resize images without sacrificing quality by using the resizer image to 1958x745 dimensions tool. The aspect ratio of the extended image will be the same as the original image."
+        },
+        {
+            "question": "Do I have to log in to use this resizer image to 1958x745 dimensions tool?",
+            "answer": "There is no need for you to download any software or sign up for the service because our resizer image to 1958x745 dimensions tool is saved locally in your web browser."
+        },
+        {
+            "question": "When it comes to zooming and resizing, what's the difference? Zooming is done with the resizer image to 1958x745 dimensions tool?",
+            "answer": "When you resize an image, the dimensions change, and the file size increases (and, thereby, image quality). By zooming in or out, the user can change the perspective of a document or image. It just enlarges the image on the paper without altering or changing its original dimensions. The resizer image to 1958x745 dimensions tool can only resize images in pixels; zooming is not possible."
+        },
+        {
+            "question": "What's the difference between scaling and resizing? The resizer image to 1958x745 dimensions tool is used to perform the scaling?",
+            "answer": "The primary distinction between scaling and resizing is how the image's resolution is changed. While resizing requires a more precise pixel size, scaling does not. The original image must be multiples of the final size in this situation, which could result in a pixelated effect. When resizing an image, this is an important characteristic to keep in mind. We can only resize images in pixels with the resize image to 1958x745 dimensions tool; it is not useful for scaling."
+        },
+        {
+            "question": "What does resize option mean for images?",
+            "answer": "When you resize an image, the number of pixels in the image may decrease or increase, causing the image to be resampled. The file size varies as a result of resampling."
+        },
+        {
+            "question": "What happens when an image is resized?",
+            "answer": "Because not all of our images are the exact size we require, it's critical to learn how to resize an image correctly and how resizing works. The pixel information in an image is modified when it is resized. When an image is reduced in size, the photo editor will remove any unnecessary pixel information. When a photo is enlarged, the photo editor must develop and add new pixel information based on its best estimations in order to attain the desired size, which usually results in a pixelated or soft and blurry image. This is why downsizing an image is considerably easier than enlarging an image. Because of the difficulty of expanding, if an image is needed for high-quality (publication) or large size (poster) printing, make sure it is captured with the best resolution and quality feasible."
+        },
+        {
+            "question": "What is the main purpose for resizing a photo?",
+            "answer": "Two of the most fundamental picture editing functions are resizing and cropping. Both require careful thought because they can have an impact on image quality. Resizing alters the image's dimensions, which usually influences the file size (and, thereby, image quality). Cropping always includes removing a portion of the original image, resulting in the loss of some pixels.The most common reason for resizing photographs is to reduce the size of large files so that they are easier to email or share online. Many cameras can perform this in-camera, but it's also simple to do using basic image editors, and there are plenty available online. It's crucial to understand what's involved before using them on your own photos because resizing requires a great degree of care."
+        },
+        {
+            "question": "Which image format can be easily resized without losing quality?",
+            "answer": "PNGs and JPEGs are ideal web images because they support millions of colors and can be saved in modest file sizes without sacrificing quality. PNG files also offer transparency, which is essential for web designers. Both PNGs and JPEGs are supported by our resizer image to 1958x745 dimension tool."
+        },
+        {
+            "question": "How do I find out the pixels of an image?",
+            "answer": "To determine the number of pixels in an image, use the following:1. Right-click on the image (or, on a Mac, control-click).2. Select -> Properties or Get information.3. Select -> General or More information tab.4. The Image part displays the image dimensions in pixels, while the File section displays the image file size."
+        },
+        {
+            "question": "What is the pixel size?",
+            "answer": "Pixels, abbreviated as px, are a unit of measurement in visual and web design that is roughly similar to 1/96 inch (0.26 mm). This measurement ensures that a given element will appear the same size regardless of screen resolution."
+        },
+        {
+            "question": "What is the difference between image size and file size?",
+            "answer": "The physical size and resolution of an image are represented by its image size. Pixels are the units of measurement.The file size refers to how much space a picture file takes up on your memory card (or internal memory, if your camera has one). Megabytes are the unit of measurement."
+        }
+    ],
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

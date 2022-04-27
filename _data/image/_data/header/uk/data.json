@@ -1,0 +1,135 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Згенерувати",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Генератор зображень ASCII ",
+                        "url": "/uk/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Генератор мемів",
+                        "url": "/uk/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Конвертер тексту в зображення",
+                        "url": "/uk/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Виробник зображень водяних знаків",
+                        "url": "/uk/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Зображення для пікселяції конвертер зображень",
+                        "url": "/uk/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "Генератор QR-коду",
+                        "url": "/uk/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Редагувати",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Обрізка зображень",
+                        "url": "/uk/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Фільтр зображення сумадер",
+                        "url": "/uk/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Зображення ротатер",
+                        "url": "/uk/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Компрес",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Зображення компресора",
+                        "url": "/uk/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Png Компресор",
+                        "url": "/uk/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Gif Компресор",
+                        "url": "/uk/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "JPEG Компресор",
+                        "url": "/uk/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Розгалужувач зображення",
+                        "url": "/uk/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Зміна розміру зображення",
+                        "url": "/uk/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Порівняння зображень",
+                        "url": "/uk/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Інші інструменти",
+                "links": [
+                  {
+                    "name": "Зміни розмірів зображень у соціальних мережах",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "Список інструментів зміни розмірів зображень",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "Список компресорів зображень",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Блог",
+            "url": "/blog"
+        }
+    ]
+}

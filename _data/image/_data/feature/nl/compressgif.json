@@ -1,0 +1,145 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "H1": "GIF-compressor",
+    "img": "/img/compressgif.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "waarschuwing",
+    "H2": "GIF-compressie is gemakkelijk bij ons gemaakt, begin met het uploaden van uw bestand hieronder",
+    "TITLE": "GIF-compressor - beste GIF-compressor - safeimagekit",
+    "META": "Bent u op zoek naar een hoogwaardige GIF-compressor? Nou, dan ben je hier aan het juiste adres. Onze GIF-compressietool is uiterst veilig, gebruiksvriendelijk en supersnel.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff9966",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Hoge kwaliteit",
+            "content": "Onze GIF-compressietool comprimeert de afbeeldingen door de kwaliteit te behouden."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Beveiliging van gegevens",
+            "content": "Geen van uw gegevens wordt op onze servers verzonden, alle bewerkingen worden uitgevoerd in de browser zelf. Dit stelt ons in staat om 100% veilig te zijn voor onze gebruikers"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibiliteit ",
+            "content": " Onze GIF-compressietool werkt op bijna alle soorten browsers en apparaten."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Gebruiksvriendelijk",
+            "content": "Onze GIF-compressietool is heel gemakkelijk te begrijpen dat er geen professional nodig is om aan onze tool te werken."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Gratis",
+            "content": "Onze GIF-compressietool is volledig gratis, u kunt al onze tools gebruiken zonder een cent te betalen"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Geen extra download",
+            "content": "Onze GIF-compressietool is volledig browsergebaseerd en er is geen extra software nodig om op uw apparaat te worden gedownload."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Hoe ons GIF-bestand te comprimeren.",
+        "steps": [
+            "Upload het GIF-bestand of klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive",
+            "Pas de parameters aan met behulp van de geboden opties.",
+            "Pas de oriëntatie van het afbeeldingsbestand aan.",
+            "Klik op de optie Opslaan om de gemaakte wijzigingen op te slaan.",
+            "Download het afbeeldingsbestand met behulp van de downloadoptie.",
+            "Hoera!!! het beeld is klaar om te rocken."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Is het veilig om toegang tot mijn schijf toe te staan?",
+            "answer": "Ja, het is absoluut veilig om ons toegang te geven tot uw schijf. We zullen geen wijzigingen aanbrengen in uw site en uw bestanden zijn veilig bij u."
+        },
+        {
+            "question": "Hoe kan ik bestanden uploaden vanaf mijn station/dropbox?",
+            "answer": "Klik op de vervolgkeuzepijl en selecteer Dropbox/Google Drive. Selecteer het Google-account van waar u uw schijf wilt koppelen. Nu kunt u de bestanden selecteren die u wilt uploaden."
+        },
+        {
+            "question": "Wat zijn de functies van de „GIF-compressor” -functie van safeimagekit.com tijdens het comprimeren van een afbeelding met een GIF-afbeelding?",
+            "answer": "GIF-compressorfunctie van safeimagekit.com biedt veelzijdige functies bij het comprimeren van een GIF-bestand. De belangrijkste kenmerken zijn onder meer\nHet geüploade GIF-bestand wijzigen door de afmetingen van de afbeelding aan te passen, zoals hoogte, breedte, enz. Deze GIF-compressiefunctie presenteert ook de compressie door de grootte in te voeren die kan worden uitgebreid tot max of min, afhankelijk van het geüploade GIF-bestand. Deze functie biedt ook een strikte modus en oriëntatiemodus voor nauwkeurige aanpassing en rotatieaanpassing. De GIF-compressor biedt ook de mogelijkheid om de kwaliteit van de afbeelding aan te passen en laat de gebruiker ook het formaat van de afbeelding converteren naar het voordeel van de gebruiker."
+        },
+        {
+            "question": "Wat zijn de parameters van de GIF-compressorfunctie van safeimagekit.com, nadat we een GIF-bestand hebben geüpload?",
+            "answer": "De compressiefunctie van safeimagekit.com biedt verschillende parameters nadat we een afbeelding met GIF-indeling hebben geüpload, deze parameters omvatten de naam van de afbeelding, grootte van de afbeelding, het type afbeelding, enz. De parameter is de laatst gewijzigd, waar het ons de tijd, datum en de tijdzone geeft waar deze het laatst was aangepast. Dit geeft ons ook een voortgangsbalk na het uploaden en voordat we beginnen met het bewerken van het geüploade afbeeldingsbestand."
+        },
+        {
+            "question": "Wat zijn de aanpassingsfuncties die safeimagekit.com biedt aan de GIF-bestanden, terwijl een GIF-bestand wordt gecomprimeerd?",
+            "answer": "De GIF-bestandscompressiefunctie van safeimagekit.com biedt veel functies tijdens het comprimeren van een afbeelding. Hiermee kan de gebruiker de afmetingen van het GIF-bestand aanpassen door de metingen aan te passen, zoals breedte en hoogte. De maximale hoogte en de maximale breedte bieden de gebruiker de maximale limiet van de fotocompressie. Terwijl de min-breedte en min-hoogte de gebruiker een minimale limiet van de fotocompressie bieden. Met de optie converteergrootte kan de gebruiker over het geheel comprimeren."
+        },
+        {
+            "question": "Hoe werkt de optie voor kwaliteitsaanpassing van de GIF-compressorfunctie van safeimagekit.com?",
+            "answer": "De optie voor kwaliteitsaanpassing van de GIF-compressorfunctie van safeimagekit.com is een belangrijke functie waarmee de gebruiker de algehele kwaliteit van het geüploade GIF-bestand kan bepalen. Deze functie is toegankelijk vanuit de ruimte „Voer de kwaliteit in” na het uploaden van de afbeelding. Dit past de scherpte, het contrast, de vervaging (op kleine hoeveelheden) en vele andere beeldparameters in het algemeen aan. De gebruiker kan de meting bepalen van 0,1 tot 1 schaal. Als hij geen wijziging in de kwaliteit van de geüploade afbeelding wil, kan deze optie worden overgeslagen."
+        },
+        {
+            "question": "Hoe werkt de optie „Mime type” van de compressorfunctie van safeimagekit.com?",
+            "answer": "Met de optie „MIME-type” van de compressorfunctie van safeimagekit.com kan de gebruiker het formaat van de afbeelding kiezen nadat deze is gecomprimeerd met behulp van de compressortool van safeimagekit.com. Momenteel zijn er 5 soorten afbeeldingsindelingen beschikbaar voor de gebruiker. De gebruiker kan het formaat van de afbeelding wijzigen op basis van zijn/haar vereiste. Deze formaten omvatten webp-, png-, GIF-, jpg-, jpeg- en gif-indeling. Als de gebruiker het formaat ongewijzigd wil houden, kan de gebruiker kiezen voor de optie genaamd „Voer het mime-type in”. De optie „Mime-type” is toegankelijk onderaan de pagina na het uploaden van de afbeelding en sla de aangebrachte wijzigingen op."
+        },
+        {
+            "question": "Kunnen we de tekst in het GIF-bestand bewerken met behulp van de comprimeer GIF-functie van safeimagekit.com?",
+            "answer": "Nee, momenteel biedt de comprimeer GIF-functie van safeimagekit.com alleen de functies, waarmee de gebruiker het GIF-bestand kan comprimeren, het formaat van de afbeelding kan converteren van GIF-indeling naar andere, enz. Tekstbewerkingsfuncties zijn niet beschikbaar in safeimagekit.com. Maar updates van de website zullen binnenkort alle opwindende functies opleveren."
+        },
+        {
+            "question": "Kunnen we 4k- en 8k-afbeeldingen bewerken of comprimeren met behulp van de GIF-compressor van safeimagekit.com?",
+            "answer": "Nee, momenteel biedt de compressorfunctie van safeimagekit.com alleen beeldbewerkingsfuncties tot 1080p op zijn best. Er bestaan echter 4k-opties voor het comprimeren en bewerken van afbeeldingen op safeimagekit.com, maar 8k beeldverwerking is niet beschikbaar en zal in de komende toekomst worden opgenomen als een update van de website."
+        },
+        {
+            "question": "Hoeveel GIF-bestanden kunnen we in één keer bewerken met behulp van de GIF-compressorfunctie van safeimagekit.com?",
+            "answer": "Momenteel kan de compressorfunctie van safeimagekit.com een enkel GIF-bestand bewerken en comprimeren, omdat deze tool fatsoenlijke parameters vereist tijdens het bewerken, is de bewerkingsfunctie voor meerdere GIF-bestanden momenteel niet inbegrepen, maar updates van de website zullen dit in de toekomst mogelijk maken. "
+        },
+        {
+            "question": "Kan ik de GIF-compressorfunctie van safeimagekit.com gebruiken op mijn Apple iPhone 11? ",
+            "answer": "Ja, de GIF-compressorfunctie van safeimagekit.com is een platformonafhankelijke functie, waarbij de gebruiker deze convertertool kan gebruiken vanaf besturingssystemen zoals Android, iOS, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar hangt alleen af van de internetverbinding en de grootte van de GIF-bestanden die worden geüpload om in andere te worden gecomprimeerd."
+        },
+        {
+            "question": "Kan ik de GIF-compressorfunctie van safeimagekit.com gebruiken op mijn LINUX OS? ",
+            "answer": "Ja, de GIF-compressorfunctie van safeimagekit.com is een platformonafhankelijke functie, waarbij de gebruiker deze convertertool kan gebruiken vanaf besturingssystemen zoals LINUX, Windows en Mac OS. Het is onafhankelijk van de gebruikte besturingssystemen, maar hangt alleen af van de internetverbinding en de grootte van de GIF-bestanden die worden geüpload om in andere te worden gecomprimeerd."
+        },
+        {
+            "question": "Zullen mijn geüploade afbeeldingsbestanden beschadigd raken na het comprimeren ervan met behulp van de voortreffelijke opties die aanwezig zijn in de comprimeer GIF-functie van safeimagekit.com",
+            "answer": "Nee, de comprimeerfunctie van safeimagekit.com is gebouwd met de nieuwste programma's en beveiligingsfuncties waardoor de geüploade GIF-bestanden niet kunnen beschadigen. De geüploade GIF-bestanden zijn dus volledig veilig en beveiligd. Safeimagekit.com is ook een servervrije website waardoor hier geen GIF-bestanden worden opgeslagen en uit het geheugen worden gewist zodra de webpagina wordt gesloten."
+        },
+        {
+            "question": "Wordt mijn bestand opgeslagen nadat ik klaar ben met de GIF-compressietool? ",
+            "answer": "Nee, we sturen geen van uw bestanden naar onze servers, alle bewerkingen worden uitgevoerd in de browser zelf, daarom zijn al uw bestanden volkomen veilig. "
+        },
+        {
+            "question": "Moet ik een extra aanmelding doen of extra betalen om de GIF-compressietool te gebruiken? ",
+            "answer": "Absoluut niet, onze tool is volledig online en vereist niet dat u uw persoonlijke gegevens met ons deelt, zoals e-mail-ID, wachtwoorden enz. Onze tool is volledig gratis."
+        },
+        {
+            "question": "Hoe communiceer ik als ik problemen heb of als ik suggesties wil geven?",
+            "answer": "We nemen graag alle problemen of suggesties op die door alle gebruikers worden aangeboden, neem contact met ons op via onze social media-handvatten voor meer informatie. Safeimagekit.com is beschikbaar op alle toonaangevende sociale media websites zoals Facebook, Instagram, YouTube en LinkedIn, enz."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+        "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+    ],
+    "filelang": "en",
+    "display_formats": [
+        "gif"
+    ]
+}

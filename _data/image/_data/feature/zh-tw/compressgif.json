@@ -1,0 +1,145 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-tw",
+    "H1": "GIF 壓縮機",
+    "img": "/img/compressgif.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "警告",
+    "H2": "GIF 壓縮已經很容易與我們一起，首先在下面上傳您的文件",
+    "TITLE": "GIF 壓縮機-最佳 GIF 壓縮機-安全影像套件",
+    "META": "您是否正在尋找高品質的 GIF 壓縮機？那麼，你是在正確的地方。我們的 GIF 壓縮工具非常安全，用户友好，速度超快。",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff9966",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高品質",
+            "content": "我們的 GIF 壓縮工具通過保持圖像質量來壓縮圖像。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "數據安全",
+            "content": "您的數據都不會在我們的服務器上發送所有操作都是在瀏覽器本身上完成的。這使我們能夠 100% 為我們的用户安全"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "靈活性 ",
+            "content": " 我們的 GIF 壓縮工具幾乎適用於所有類型的瀏覽器和設備。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "用户友好",
+            "content": "我們的 GIF 壓縮工具非常容易理解，無需專業人員來處理我們的工具。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "免費",
+            "content": "我們的 GIF 壓縮工具完全免費，您可以使用我們的所有工具，而無需支付一分錢"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "無需額外下載",
+            "content": "我們的 GIF 壓縮工具完全基於瀏覽器，無需在您的設備上下載其他軟件。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "如何壓縮我們的 GIF 文件。",
+        "steps": [
+            "上傳 GIF 文件或單擊下拉箭頭並選擇 Dropbox/谷歌驅動器",
+            "使用提供的選項調整參數。",
+            "調整圖像文件的方向。",
+            "點擊保存選項以保存所做的更改。",
+            "使用下載選項下載圖像文件。",
+            "赫裏!!圖像是準備搖滾。"
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "允許訪問我的驅動器是否安全？",
+            "answer": "是的，允許我們訪問您的驅動器是絕對安全的。我們不會對您的網站進行任何更改，您的 dfiles 將是安全的。"
+        },
+        {
+            "question": "如何從我的驅動器/Dropbox 上傳文件？",
+            "answer": "點擊下拉箭頭，然後選擇 Dropbox/谷歌驅動器。選擇您想要鏈接驅動器的 Google 帳户。現在，您可以選擇要上傳的文件。"
+        },
+        {
+            "question": "在使用 GIF 圖像壓縮圖像時，安全圖像的「GIF 壓縮機」功能提供了哪些功能？",
+            "answer": "Safeimagekit.com 的 GIF 壓縮機功能在壓縮 GIF 文件的同時提供了多種功能。主要特點包括\n通過調整圖像的尺寸（如高度，寬度等）來修改上傳的 GIF 文件。此 GIF 壓縮功能還通過輸入可擴展到最大或最小值的大小來顯示壓縮，這取決於上傳的 GIF 文件。此功能還提供了嚴格的模式和方向模式，以實現精確和旋轉調整。GIF 壓縮器還提供了調整圖像質量的選項，並允許用户將圖像格式轉換為用户的優勢。"
+        },
+        {
+            "question": "在我們上傳 GIF 文件後，安全的 GIF 壓縮機功能提供了哪些參數？",
+            "answer": "在我們上傳 GIF 格式的圖像後，Safeimagekit.com 的壓縮功能提供了各種參數，這些參數包括圖像的名稱，圖像的大小，圖像的類型等。參數是最後修改的，它給我們的時間，日期和最後一個時區已修改。這也為我們在上傳後和開始編輯上傳的圖像文件之前提供了一個進度條。"
+        },
+        {
+            "question": "在壓縮 GIF 文件的同時，安全影像提供的調整功能是什麼？",
+            "answer": "Safeimagekit.com 的 GIF 文件壓縮功能在壓縮圖像時提供了許多功能。它允許用户通過調整尺寸（如寬度和高度）來調整 GIF 文件的尺寸。最大高度和最大寬度為用户提供照片壓縮的最大限制。而最小寬度和最小高度為用户提供照片壓縮的最小限制。轉換大小選項允許用户壓縮整體。"
+        },
+        {
+            "question": "GIF 壓縮機的質量調整選項是如何工作的？",
+            "answer": "來自 Safeimagekit.com 的 GIF 壓縮機功能的質量調整選項是一項重要功能，可讓用户決定上傳的 GIF 文件的整體質量。上傳圖片後，可以從「輸入質量」空格訪問此功能。這將調整整體上的清晰度、對比度、模糊（少量）和許多其他圖像參數。用户可以決定從 0.1 到 1 比例的測量。如果他不希望上傳的圖像質量有任何改變，則可以跳過此選項。"
+        },
+        {
+            "question": "空壓機的「MIME 型」選項是如何工作的？",
+            "answer": "Safeimagekit.com 的壓縮機功能的「MIME 類型」選項允許用户在使用 Safeimagekit.com 上的壓縮機工具進行壓縮後選擇圖像的格式。目前，5 種類型的圖像格式可供用户使用。用户可以根據他/她的要求更改圖像的格式。這些格式包括網頁、PNG、GIF、jpg、jpeg 和 gif 格式。如果用户希望保持格式不變，用户可以選擇名為「輸入 MIME 類型」的選項。上傳圖像後，可以在頁面底部訪問「Mime 類型」選項，並保存所做的更改。"
+        },
+        {
+            "question": "我們可以使用安全影像吉特網的壓縮 GIF 功能編輯 GIF 文件中存在的文本嗎？",
+            "answer": "不，目前來自 Safeimagekit.com 的壓縮 GIF 功能僅提供功能，這使用户能夠壓縮 GIF 文件，將圖像格式從 GIF 格式轉換為其他等文本編輯功能在 Safeimagekit.com 中不可用。但更新的網站將帶來所有令人興奮的功能很快。"
+        },
+        {
+            "question": "我們是否可以使用來自安全的 GIF 壓縮器編輯或壓縮 4k 和 8k 圖像？",
+            "answer": "沒有，目前安全的壓縮機功能僅提供高達 1080p 的圖像編輯功能。但是，安全圖像壓縮和編輯選項確實存在 4k 圖像壓縮和編輯選項，但 8k 圖像處理不可用，未來將作為網站的更新包含在未來。"
+        },
+        {
+            "question": "使用 Safeimagekit.com 中的 GIF 壓縮器功能，我們可以一次編輯多少個 GIF 文件？",
+            "answer": "目前，來自 afeimagekit.com 的壓縮器功能可以編輯和壓縮單個 GIF 文件，因為這個工具在編輯時需要體面的參數，目前不包括多個 GIF 文件編輯功能，但對網站的更新將使之成為可能。 "
+        },
+        {
+            "question": "我可以在蘋果 11 上使用 GIF 壓縮機功能嗎？ ",
+            "answer": "是的，來自 Safeimagekit.com 的 GIF 壓縮器功能是一個基於跨平台的功能，用户可以使用安卓、iOS、Windows 和 Mac 操作系統等操作系統的此轉換器工具。它獨立於所使用的操作系統，但僅取決於 Internet 連接和 GIF 文件的大小，這些文件上傳以壓縮到其他文件。"
+        },
+        {
+            "question": "我可以在 LINUX 操作系統上使用 GIF 壓縮器功能嗎？ ",
+            "answer": "是的，來自 Safeimagekit.com 的 GIF 壓縮器功能是一個基於跨平台的功能，用户可以使用 LINUX、Windows 和 Mac 操作系統等操作系統的此轉換器工具。它獨立於所使用的操作系統，但僅取決於 Internet 連接和 GIF 文件的大小，這些文件上傳以壓縮到其他文件。"
+        },
+        {
+            "question": "使用 Safeimagekit.com 壓縮 GIF 功能中提供的精緻選項進行壓縮後，我上傳的圖像文件會損壞嗎？",
+            "answer": "不，來自 Safeimagekit.com 的壓縮功能與所有最新的程序和安全功能構建，這不允許上傳的 GIF 文件損壞。所以，上傳的 GIF 文件是完全安全和安全的。此外，safeimagekit.com 是一個無服務器的網站，因為它沒有任何 GIF 文件存儲在這裏，並且在網頁關閉後立即從內存中擦除。"
+        },
+        {
+            "question": "完成 GIF 壓縮工具的工作後，我的文件會保存嗎？ ",
+            "answer": "不，我們不會將您的任何文件發送到我們的服務器，所有操作都是在瀏覽器本身上完成的，因此您的所有文件都是完全安全的。 "
+        },
+        {
+            "question": "我是否需要額外註冊或額外付費才能使用 GIF 壓縮工具？ ",
+            "answer": "絕對不是，我們的工具完全在線，不要求您與我們分享您的任何個人信息，例如電子郵件 ID，密碼等我們的工具是完全免費的。"
+        },
+        {
+            "question": "如果我遇到任何問題或想提出任何建議，我該如何溝通？",
+            "answer": "我們很樂意接受所有用户提供的任何問題或建議，請通過我們的社交媒體句柄與我們聯繫以獲取更多信息。在所有領先的社交媒體網站上，如臉書、英語網站、YouTube 和領英等。"
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+        "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+    ],
+    "filelang": "en",
+    "display_formats": [
+        "gif"
+    ]
+}

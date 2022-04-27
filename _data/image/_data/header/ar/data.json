@@ -1,0 +1,135 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "توليد",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "مولد الصور ASCII ",
+                        "url": "/ar/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "مولد ميمي",
+                        "url": "/ar/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "تحويل نص إلى صورة",
+                        "url": "/ar/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "صانع صورة العلامة المائية",
+                        "url": "/ar/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "صورة لتحويل الصورة إلى pixelate",
+                        "url": "/ar/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "مولد رمز الاستجابة السريعة",
+                        "url": "/ar/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "تحرير",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "صورة كروبر",
+                        "url": "/ar/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "أداة تصفية الصور",
+                        "url": "/ar/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "صورة روتاتر",
+                        "url": "/ar/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "ضغط",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "ضاغط الصور",
+                        "url": "/ar/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "ضاغط بابوا نيو غينيا",
+                        "url": "/ar/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "ضاغط Gif",
+                        "url": "/ar/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "ضاغط Jpeg",
+                        "url": "/ar/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "أدوات أخرى",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "مقسم الصورة",
+                        "url": "/ar/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "ريزيزر الصورة",
+                        "url": "/ar/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "مقارنة الصور",
+                        "url": "/ar/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Other tools",
+                "links": [
+                  {
+                    "name": "مقاييس صور وسائل التواصل الاجتماعي",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "قائمة مقاسات الصور",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "قائمة بضواغط الصور",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "مدونة",
+            "url": "/blog"
+        }
+    ]
+}

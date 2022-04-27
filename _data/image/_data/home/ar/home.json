@@ -1,0 +1,249 @@
+{
+    "Language": "العربية",
+    "htmlLangAtt": "ar",
+    "h1": "Safeimagekit.com - الطريقة الأكثر أمانًا لمعالجة صورك",
+    "h2": "لا يتم إرسال أي ملفات إلى الخادم. 100٪ آمن.",
+    "TITLE": "Safeimagekit.com - الطريقة الأكثر أمانًا لمعالجة صورك",
+    "META": "استخدم Safeimagekit.com لمعالجة صورك بأمان، عبر الإنترنت مجانًا. يتم دعم عمليات متعددة.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "مولد الصور ASCII ",
+            "description": "تحويل الصورة إلى فن Ascii",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/ar/ascii-art-from-image"
+        },
+        {
+            "name": "ضغط الصور ",
+            "description": "صورة ضغط",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/ar/compress-an-image"
+        },
+        {
+            "name": "صورة سبليتر ",
+            "description": "صورة انشقاقات",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/ar/split-photo"
+        },
+        {
+            "name": "ضغط Jpeg ",
+            "description": "كومبريسس jpeg صورة",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/ar/compress-jpeg"
+        },
+        {
+            "name": "ضغط بابوا نيو غينيا ",
+            "description": "ضغط صورة png",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/ar/compress-png"
+        },
+        {
+            "name": "ضغط Gif ",
+            "description": "ضغط صورة gif",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/ar/compress-a-gif"
+        },
+        {
+            "name": "مقارنة الصور",
+            "description": "يقارن صورتين",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/ar/image-comparison"
+        },
+        {
+            "name": "صورة كروبر",
+            "description": "صورة المحاصيل",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/ar/crop-image"
+        },
+        {
+            "name": "عامل تصفية الصور",
+            "description": "إضافة عوامل تصفية إلى صورة",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/ar/photo-filters"
+        },
+        {
+            "name": "مولد ميمي",
+            "description": "يولد ميمي",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/ar/meme-generator"
+        },
+        {
+            "name": "تحويل النص إلى صورة",
+            "description": "تحويل النص إلى صورة",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/ar/text-to-image-converter"
+        },
+        {
+            "name": "صورة زعنفة",
+            "description": "فليبس/تدوير الصورة",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/ar/flip-image"
+        },
+        {
+            "name": "تغيير حجم الصور",
+            "description": "تغيير حجم الصورة",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/ar/image-resize"
+        },
+        {
+            "name": "صانع صورة العلامة المائية",
+            "description": "إنشاء صور العلامة المائية",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/ar/watermark-for-photos"
+        },
+        {
+            "name": " مولد رمز الاستجابة السريعة",
+            "description": "يولد رمز الاستجابة السريعة",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/ar/qr-code-generator"
+        },
+        {
+            "name": " تحويل الصورة إلى pixelate",
+            "description": "تحويل الصورة إلى فن Pixel",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/ar/pixel-art-maker"
+        },
+        {
+            "name": "تغيير حجم صورة فيسبوك",
+            "description": "تغيير حجم الصور لفيسبوك",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/ar/image-resize-facebook"
+        },
+        {
+            "name": " أداة تغيير حجم الصور في Instagram",
+            "description": "تغيير حجم الصور لـ instagram",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/ar/image-resize-instagram"
+        },
+        {
+            "name": " أداة تغيير حجم الصور في لينكد إن",
+            "description": "تغيير حجم الصور لـ LinkedIn",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/ar/image-resize-linkedin"
+        },
+        {
+            "name": " تغيير حجم صورة البريد الإلكتروني",
+            "description": "تغيير حجم الصور للبريد الإلكتروني",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/ar/image-resize-email"
+        },
+        {
+            "name": " أداة تغيير حجم صورة Tiktok",
+            "description": "تغيير حجم الصور لـ tiktok",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/ar/image-resize-tiktok"
+        },
+        {
+            "name": " تغيير حجم صورة تويتر",
+            "description": "تغيير حجم الصور لتويتر",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/ar/image-resize-twitter"
+        },
+        {
+            "name": " تغيير حجم الصور بينتيريست",
+            "description": "تغيير حجم الصور لـ pinterest",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/ar/image-resize-pinterest"
+        },
+        {
+            "name": "تغيير حجم صورة سناب شات",
+            "description": "تغيير حجم الصور لـ snapchat",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/ar/image-resize-snapchat"
+        },
+        {
+            "name": " صورة إعلانات جوجل بانر سناب شات",
+            "description": "تغيير حجم الصور لإعلانات بانر جوجل",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/ar/image-resize-google-banner-ads"
+        },
+        {
+            "name": " ديسكورد",
+            "description": "تغيير حجم الصور للخلاف",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/ar/image-resize-discord"
+        },
+        {
+            "name": " ساوند كلاود",
+            "description": "تغيير حجم الصور لـ soundcloud",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/ar/image-resize-soundcloud"
+        },
+        {
+            "name": " واتس اب",
+            "description": "تغيير حجم الصور للواتس اب",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/ar/image-resize-whatsapp"
+        },
+        {
+            "name": " مساحة مربعة",
+            "description": "تغيير حجم الصور من أجل squarespace",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/ar/image-resize-squarespace"
+        },
+        {
+            "name": " نشل",
+            "description": "تغيير حجم الصور من أجل twitch",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/ar/image-resize-twitch"
+        },
+        {
+            "name": " الطباعة",
+            "description": "تغيير حجم الصور للطباعة",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/ar/image-resize-printing"
+        },
+        {
+            "name": "وسائل التواصل الاجتماعي",
+            "description": "صور الوسائط الاجتماعية Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/ar/social-media-resizer"
+        },
+        {
+            "name": "مقاومات الصور",
+            "description": "تغيير حجم الصورة إلى X إلى Y بوصة/بكسل",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/ar/image-resizers-all"
+        },
+        {
+            "name": " ضغط الصور",
+            "description": "قائمة ضاغط الصور",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/ar/compress-image-all"
+        }
+    ]
+}

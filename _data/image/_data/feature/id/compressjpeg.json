@@ -1,0 +1,145 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "H1": "Kompresor JPEG",
+    "img": "/img/compressjpeg.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "keberhasilan",
+    "H2": "Kompresi JPEG telah dibuat mudah dengan kami, mulai dengan meng-upload file Anda di bawah",
+    "TITLE": "JPEG kompresor-online JPG kompresor- aman",
+    "META": "Apakah Anda mencari kompresor JPEG berkualitas tinggi? Nah, maka Anda berada di tempat yang tepat. Alat kompresor JPG online kami sangat aman, user-friendly, dan super cepat.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#33cccc",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Kualitas Tinggi",
+            "content": "Alat kompresi JPEG kami memampatkan gambar dengan mempertahankan kualitasnya."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Keamanan Data",
+            "content": "Tak satu pun dari data Anda dikirim di server kami semua operasi dilakukan pada browser itu sendiri. Hal ini memungkinkan kami untuk menjadi 100% aman bagi pengguna kami"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Fleksibilitas",
+            "content": " Alat kompresi JPEG kami bekerja pada hampir semua jenis browser dan perangkat."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "User friendly",
+            "content": "Alat kompresi JPEG kami sangat mudah dipahami tidak ada profesional yang dibutuhkan untuk mengerjakan alat kami."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Bebas biaya",
+            "content": "Alat kompresi JPEG kami benar-benar bebas biaya, Anda dapat menggunakan semua alat kami tanpa membayar sepeser pun"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Tidak ada unduhan tambahan",
+            "content": "Alat kompresi JPEG kami benar-benar berbasis browser dan tidak ada perangkat lunak tambahan yang diperlukan untuk diunduh pada perangkat Anda."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Cara mengompres file gambar JPEG kami.",
+        "steps": [
+            "Unggah file gambar atau Klik pada panah drop down dan pilih Dropbox/Google Drive",
+            "Sesuaikan parameter menggunakan opsi yang disediakan.",
+            "Sesuaikan orientasi file gambar.",
+            "Tekan opsi save untuk menyimpan perubahan yang dibuat.",
+            "Download file gambar menggunakan opsi download.",
+            "Hore!!! gambar siap untuk rock."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Apakah aman untuk mengizinkan akses ke drive saya?",
+            "answer": "Ya, itu benar-benar aman untuk memungkinkan dan memberi kami akses ke drive Anda. Kami tidak akan membuat perubahan pada situs Anda dan dfiles Anda akan aman dengan Anda."
+        },
+        {
+            "question": "Bagaimana cara mengunggah file dari drive/dropbox saya?",
+            "answer": "Klik pada panah drop down dan pilih Dropbox/Google Drive. Pilih akun Google dari tempat Anda ingin menautkan drive Anda. Sekarang Anda dapat memilih file yang ingin Anda unggah."
+        },
+        {
+            "question": "Apa saja fitur yang ditawarkan oleh fitur “Kompresor JPEG” dari safeimagekit.com sambil mengompresi gambar dengan format jpeg?",
+            "answer": "Fitur kompresor JPEG dari safeimagekit.com menawarkan fitur serbaguna sambil mengompresi file jpeg. Fitur utama meliputi\nMemodifikasi jpeg upload dengan menyesuaikan dimensi gambar seperti tinggi, lebar, dll Fitur kompresi jpeg ini juga menyajikan kompresi dengan memasukkan ukuran yang dapat diperpanjang untuk max atau min tergantung pada file jpeg upload. Fitur ini juga menyediakan mode ketat dan mode orientasi untuk penyesuaian akurat dan rotasi. Kompresor jpeg juga menyediakan pilihan untuk menyesuaikan kualitas gambar dan juga memungkinkan pengguna mengkonversi format gambar untuk keuntungan pengguna.\n"
+        },
+        {
+            "question": "Apa saja parameter yang disediakan oleh fitur kompresor jpeg dari safeimagekit.com, setelah kita mengunggah file jpeg?",
+            "answer": "Fitur kompresi dari safeimagekit.com menyediakan berbagai parameter setelah kita meng-upload gambar dengan format jpeg, parameter ini termasuk nama gambar, ukuran gambar, jenis gambar, dll Parameter ini terakhir dimodifikasi, dimana memberikan kita waktu, tanggal, dan zona waktu di mana itu terakhir dimodifikasi. Ini juga memberi kita progress bar setelah mengunggah dan sebelum memulai pengeditan file gambar yang diunggah."
+        },
+        {
+            "question": "Apa saja fitur penyesuaian jpeg yang disediakan oleh safeimagekit.com saat mengompresi jpeg?",
+            "answer": "Fitur kompresi jpeg dari safeimagekit.com menyediakan banyak fitur saat mengompresi gambar. Ini memungkinkan pengguna menyesuaikan dimensi jpeg dengan menyesuaikan pengukuran seperti lebar dan tinggi. Max-height dan max-width memberi pengguna batas maksimum kompresi foto. Sementara min-width dan min-height memberi pengguna batas minimum kompresi foto. Opsi ukuran mengkonversi memungkinkan pengguna kompres secara keseluruhan."
+        },
+        {
+            "question": "Bagaimana cara kerja opsi penyesuaian kualitas dari fitur kompresor jpeg dari safeimagekit.com?",
+            "answer": "Pilihan penyesuaian kualitas dari fitur kompresor jpeg dari safeimagekit.com adalah fitur penting yang memungkinkan pengguna memutuskan kualitas keseluruhan jpeg. Fitur ini dapat diakses dari ruang “Masukkan kualitas” setelah mengunggah gambar. Ini menyesuaikan ketajaman, kontras, blur (dalam jumlah kecil), dan banyak parameter gambar lainnya secara keseluruhan. Pengguna dapat memutuskan pengukuran dari 0,1 sampai 1 skala. Jika dia tidak ingin ada perubahan dalam kualitas gambar yang diunggah, opsi ini dapat dilewati."
+        },
+        {
+            "question": "Bagaimana opsi “Mime type” fitur kompresor dari safeimagekit.com bekerja?",
+            "answer": "Opsi “Mime type” dari fitur kompresor dari safeimagekit.com memungkinkan pengguna memilih format gambar setelah mengompresi menggunakan alat kompresor dari safeimagekit.com. Saat ini, ada 5 jenis format gambar yang tersedia untuk pengguna. Pengguna dapat mengubah format gambar berdasarkan kebutuhannya. Format ini termasuk format webp, png, jpg, jpeg, dan gif. Jika pengguna ingin menjaga format tidak berubah, pengguna dapat memilih opsi yang disebut “Enter the mime type”. Opsi “Mime type” dapat diakses di bagian bawah halaman setelah mengunggah gambar, dan menyimpan perubahan yang dibuat."
+        },
+        {
+            "question": "Dapatkah saya menggunakan fitur kompres jpeg dari safeimagekit.com pada sistem operasi LINUX saya?",
+            "answer": "Ya, fitur kompres jpeg dari safeimagekit.com dapat digunakan pada sistem operasi apa pun, bahkan LINUX. Hal ini dibangun dengan kode terbaru dan fitur yang memungkinkan pengguna untuk kompres setiap gambar upload oleh pengguna pada setiap sistem operasi seperti MAC OS, Windows, dan Ubuntu, asalkan ada perangkat dengan koneksi internet yang stabil. Trik sulapnya adalah bahwa ia bahkan bekerja pada koneksi internet yang lebih lambat."
+        },
+        {
+            "question": "Bisakah kita mengedit teks hadir dalam file jpeg menggunakan fitur kompres jpeg dari safeimagekit.com?",
+            "answer": "Tidak, saat ini fitur kompres jpeg dari safeimagekit.com hanya menawarkan fitur, yang memungkinkan pengguna untuk kompres jpeg, mengubah format gambar dari format jpeg ke lainnya, dll fitur pengeditan teks tidak tersedia di safeimagekit.com. Tapi update ke situs web akan membawa semua fitur menarik segera."
+        },
+        {
+            "question": "Bisakah kita mengedit atau memampatkan gambar 4k dan 8k menggunakan kompresor jpeg dari safeimagekit.com?",
+            "answer": "Tidak, saat ini fitur kompresor dari safeimagekit.com hanya menawarkan fitur pengeditan gambar hingga 1080p yang terbaik. Namun, opsi pengompresan dan pengeditan gambar 4k memang ada di safeimagekit.com, tetapi pemrosesan gambar 8k tidak tersedia dan akan disertakan dalam masa depan sebagai pembaruan ke situs web."
+        },
+        {
+            "question": "Berapa banyak file jpeg yang dapat kita edit pada satu peregangan menggunakan fitur kompresor jpeg dari safeimagekit.com?",
+            "answer": "Saat ini, fitur kompresor dari safeimagekit.com dapat mengedit dan kompres file jpeg tunggal, karena alat ini menuntut parameter yang layak saat mengedit, beberapa file jpeg fitur editing tidak termasuk saat ini, tetapi update ke situs web akan memungkinkan ini di masa depan. "
+        },
+        {
+            "question": "Dapatkah saya menggunakan fitur kompresor jpeg dari safeimagekit.com di Apple iPhone 11 saya? ",
+            "answer": "Ya, fitur kompresor jpeg dari safeimagekit.com adalah fitur berbasis cross-platform, di mana pengguna dapat menggunakan alat konverter ini dari sistem operasi seperti Android, iOS, Windows, dan Mac OS. Hal ini independen dari sistem operasi yang digunakan tetapi hanya tergantung pada koneksi internet dan ukuran file jpeg yang diunggah untuk dikompresi ke orang lain."
+        },
+        {
+            "question": "Apakah file gambar saya upload rusak setelah mengompresi mereka menggunakan pilihan indah hadir dalam fitur kompres jpeg dari safeimagekit.com?",
+            "answer": "Tidak, fitur kompres dari safeimagekit.com dibangun dengan semua program terbaru dan fitur keamanan yang tidak memungkinkan file jpeg yang diunggah rusak. Jadi, file jpeg yang diunggah benar-benar aman dan aman. Selain itu, safeimagekit.com adalah situs web bebas server karena tidak ada file jpeg yang disimpan di sini, dan dihapus dari memori segera setelah halaman web ditutup."
+        },
+        {
+            "question": "Apakah file saya akan disimpan setelah saya selesai mengerjakan alat kompresi JPEG? ",
+            "answer": "Tidak, kami tidak mengirim file Anda ke server kami semua operasi dilakukan pada browser itu sendiri oleh karena itu semua file Anda benar-benar aman. "
+        },
+        {
+            "question": "Apakah saya harus melakukan pendaftaran tambahan atau membayar ekstra untuk menggunakan alat kompresi JPEG? ",
+            "answer": "Benar-benar tidak, alat kami benar-benar online dan tidak mengharuskan Anda untuk berbagi informasi pribadi Anda dengan kami, seperti id email, password dll Alat kami benar-benar bebas biaya."
+        },
+        {
+            "question": "Bagaimana cara berkomunikasi jika saya menghadapi masalah atau jika saya ingin memberikan saran?",
+            "answer": "Kami dengan senang hati mengambil dalam setiap masalah atau saran yang ditawarkan oleh semua pengguna, silakan hubungi kami melalui menangani media sosial kami untuk informasi lebih lanjut. SafeImageKit.com tersedia di semua situs media sosial terkemuka seperti Facebook, Instagram, YouTube, dan LinkedIn, dll."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+        "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+    ],
+    "filelang": "en",
+    "display_formats": [
+        "jpeg"
+    ]
+}

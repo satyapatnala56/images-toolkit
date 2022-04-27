@@ -1,0 +1,135 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Menghasilkan",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Generator gambar ASCII ",
+                        "url": "/id/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Generator meme",
+                        "url": "/id/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Konverter teks ke gambar",
+                        "url": "/id/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Pembuat gambar watermark",
+                        "url": "/id/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Gambar ke pixelate image converter",
+                        "url": "/id/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "QR Kode Generator",
+                        "url": "/id/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Mengedit",
+                "links": [
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Gambar cropper",
+                        "url": "/id/crop-image"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Adder Filter Gambar",
+                        "url": "/id/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Gambar Rotator",
+                        "url": "/id/flip-image"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Kompres",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Kompresor gambar",
+                        "url": "/id/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Kompresor Png",
+                        "url": "/id/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Kompresor Gif",
+                        "url": "/id/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Kompresor Jpeg",
+                        "url": "/id/compress-jpeg"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Alat Lainnya",
+                "links": [
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Gambar Splitter",
+                        "url": "/id/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Resizer gambar",
+                        "url": "/id/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Perbandingan Gambar",
+                        "url": "/id/image-comparison"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Alat lainnya",
+                "links": [
+                  {
+                    "name": "Pengubah Gambar Media Sosial",
+                    "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                    "url": "/social-media-resizer"
+                  },
+                  {
+                    "name": "Daftar Pengubah Ukuran Gambar",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/image-resizers-all"
+                  },
+                  {
+                    "name": "Daftar Gambar Kompresor",
+                    "iconSrc": "/img/compare.png",
+                    "url": "/compress-image-all"
+                  }
+                ]
+              }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "h1": "SafeImageKit.com - Säkraste sättet att bearbeta dina bilder",
+    "h2": "Inga filer skickas till servern. 100% säker.",
+    "TITLE": "SafeImageKit.com - Säkraste sättet att bearbeta dina bilder",
+    "META": "Använd SafeImageKit.com för att på ett säkert sätt bearbeta dina bilder, online gratis. Flera åtgärder stöds.",
+    "keywords": "",
+    "features": [
+        {
+            "name": "ASCII bildgenerator ",
+            "description": "Konverterar bild till Ascii-konst",
+            "color": "#6666ff",
+            "icon": "/img/home/ascii.png",
+            "url": "/sv/ascii-art-from-image"
+        },
+        {
+            "name": "Bildkomprimering ",
+            "description": "Komprimerar bild",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/sv/compress-an-image"
+        },
+        {
+            "name": "Bild Splitter ",
+            "description": "Delar bild",
+            "color": "#ff6666",
+            "icon": "/img/home/split.png",
+            "url": "/sv/split-photo"
+        },
+        {
+            "name": "JPEG- komprimering ",
+            "description": "Komprimerar jpeg bild",
+            "color": "#33cccc",
+            "icon": "/img/home/compressjpeg.png",
+            "url": "/sv/compress-jpeg"
+        },
+        {
+            "name": "Png-komprim ",
+            "description": "Komprimerar png-",
+            "color": "#66b3ff",
+            "icon": "/img/home/compresspng.png",
+            "url": "/sv/compress-png"
+        },
+        {
+            "name": "Gif-komprimering ",
+            "description": "Komprimerar gif-",
+            "color": "#ff9966",
+            "icon": "/img/home/compressgif.png",
+            "url": "/sv/compress-a-gif"
+        },
+        {
+            "name": "Jämförelse",
+            "description": "Jämför två bilder",
+            "color": "#00b8e6",
+            "icon": "/img/home/compare.png",
+            "url": "/sv/image-comparison"
+        },
+        {
+            "name": "Bild beskärare",
+            "description": "Bild av grödor",
+            "color": "#ff704d",
+            "icon": "/img/home/crop.png",
+            "url": "/sv/crop-image"
+        },
+        {
+            "name": "Bild Filter Adder",
+            "description": "Lägga till filter i en bild",
+            "color": "#00b8e6",
+            "icon": "/img/home/filter.png",
+            "url": "/sv/photo-filters"
+        },
+        {
+            "name": "Meme generator",
+            "description": "Genererar meme",
+            "color": "#6666ff",
+            "icon": "/img/home/meme.png",
+            "url": "/sv/meme-generator"
+        },
+        {
+            "name": "Text till bildkonverterare",
+            "description": "Konverterar text till bild",
+            "color": "#ff8533",
+            "icon": "/img/home/texttoimage.png",
+            "url": "/sv/text-to-image-converter"
+        },
+        {
+            "name": "Bild Flipper",
+            "description": "Vänder/roterar bild",
+            "color": "#9999ff",
+            "icon": "/img/home/rotate.png",
+            "url": "/sv/flip-image"
+        },
+        {
+            "name": "Bildstorlek",
+            "description": "Ändrar storlek bild",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/sv/image-resize"
+        },
+        {
+            "name": "Vattenstämpel bildtillverkare",
+            "description": "Skapar vattenstämplade bilder",
+            "color": "red",
+            "icon": "/img/home/watermark.png",
+            "url": "/sv/watermark-for-photos"
+        },
+        {
+            "name": " QR-kodgenerator",
+            "description": "Genererar Qr-kod",
+            "color": "#d24dff",
+            "icon": "/img/home/qr-code.png",
+            "url": "/sv/qr-code-generator"
+        },
+        {
+            "name": " Bild till pixelate bildkonverterare",
+            "description": "Konverterar bild till pixelgrafik",
+            "color": "#ff5975",
+            "icon": "/img/home/pixelated.png",
+            "url": "/sv/pixel-art-maker"
+        },
+        {
+            "name": "Bild-resizer för Facebook",
+            "description": "Ändra storlek på bilder för facebook",
+            "color": "#1773ea",
+            "icon": "/img/imageResizer-assets/facebook.svg",
+            "url": "/sv/image-resize-facebook"
+        },
+        {
+            "name": " Image Resizer för Instagram",
+            "description": "Ändra storlek på bilder för instagram",
+            "color": "#f00075",
+            "icon": "/img/imageResizer-assets/instagram.svg",
+            "url": "/sv/image-resize-instagram"
+        },
+        {
+            "name": " Linkedin bildstorlek",
+            "description": "Ändra storlek på bilder för linkedin",
+            "color": "#0a66c2",
+            "icon": "/img/imageResizer-assets/linkdin.svg",
+            "url": "/sv/image-resize-linkedin"
+        },
+        {
+            "name": " Bildstorlek för e-post",
+            "description": "Ändra storlek på bilder för e-post",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/gmail.svg",
+            "url": "/sv/image-resize-email"
+        },
+        {
+            "name": " Tiktok bildstorlek",
+            "description": "Ändra storlek på bilder för tiktok",
+            "color": "#D44638",
+            "icon": "/img/imageResizer-assets/tiktok.svg",
+            "url": "/sv/image-resize-tiktok"
+        },
+        {
+            "name": " Twitter-bildstorlek",
+            "description": "Ändra storlek på bilder för twitter",
+            "color": "#1da1f2",
+            "icon": "/img/imageResizer-assets/twitter.svg",
+            "url": "/sv/image-resize-twitter"
+        },
+        {
+            "name": " Pinterest bildstorlek",
+            "description": "Ändra storlek på bilder för pinterest",
+            "color": "#bd081c",
+            "icon": "/img/imageResizer-assets/pinterest.svg",
+            "url": "/sv/image-resize-pinterest"
+        },
+        {
+            "name": "Snapchat bildresizer",
+            "description": "Ändra storlek på bilder för snapchat",
+            "color": "#9999ff",
+            "icon": "/img/imageResizer-assets/snapchat-white.svg",
+            "url": "/sv/image-resize-snapchat"
+        },
+        {
+            "name": " Google Banner Ads bild Snapchat",
+            "description": "Ändra storlek på bilder för Google bannerannonser",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/google.svg",
+            "url": "/sv/image-resize-google-banner-ads"
+        },
+        {
+            "name": " Oenighet",
+            "description": "Ändra storlek på bilder för oenighet",
+            "color": "#535fee",
+            "icon": "/img/imageResizer-assets/discord.svg",
+            "url": "/sv/image-resize-discord"
+        },
+        {
+            "name": " SoundCloud",
+            "description": "Ändra storlek på bilder för soundcloud",
+            "color": "#f77b00",
+            "icon": "/img/imageResizer-assets/soundcloud.svg",
+            "url": "/sv/image-resize-soundcloud"
+        },
+        {
+            "name": " Whatsapp",
+            "description": "Ändra storlek på bilder för whatsapp",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/sv/image-resize-whatsapp"
+        },
+        {
+            "name": " kvadratiska rymd",
+            "description": "Ändra storlek på bilder för fyrkantiga områden",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/squarespace.svg",
+            "url": "/sv/image-resize-squarespace"
+        },
+        {
+            "name": " Ryckningar",
+            "description": "Ändra storlek på bilder för twitch",
+            "color": "#8c44f7",
+            "icon": "/img/imageResizer-assets/twitch.svg",
+            "url": "/sv/image-resize-twitch"
+        },
+        {
+            "name": " Utskrift",
+            "description": "Ändra storlek på bilder för utskrift",
+            "color": "#26d0c7",
+            "icon": "/img/imageResizer-assets/printing.svg",
+            "url": "/sv/image-resize-printing"
+        },
+        {
+            "name": "Socail Media",
+            "description": "Socail Media-bilder Resizers",
+            "color": "#ea4335",
+            "icon": "/img/imageResizer-assets/whatsapp.svg",
+            "url": "/sv/social-media-resizer"
+        },
+        {
+            "name": "Bildstorlek",
+            "description": "Bildens storlek till X till Y tum/pixlar",
+            "color": "#0566D1",
+            "icon": "/img/home/resize.png",
+            "url": "/sv/image-resizers-all"
+        },
+        {
+            "name": " Komprimera bilder",
+            "description": "Lista över bilder komprimerare",
+            "color": "#ad81ee",
+            "icon": "/img/home/compressimg.png",
+            "url": "/sv/compress-image-all"
+        }
+    ]
+}

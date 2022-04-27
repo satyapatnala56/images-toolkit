@@ -1,0 +1,145 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "H1": "Kompresor PNG",
+    "img": "/img/compresspng.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "utama",
+    "H2": "Kompresi PNG telah dipermudah dengan kami, mulailah dengan mengunggah file Anda di bawah ini",
+    "TITLE": "PNG kompresor- PNG kompresor secara online- safeimagekit",
+    "META": "Apakah Anda mencari kompresor PNG berkualitas tinggi? Nah, maka Anda berada di tempat yang tepat. Alat kompresor PNG online kami sangat aman, user-friendly, dan super cepat.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#66b3ff",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Kualitas Tinggi",
+            "content": "Alat kompresi PNG kami memampatkan gambar dengan mempertahankan kualitasnya."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Keamanan Data",
+            "content": "Tak satu pun dari data Anda dikirim di server kami semua operasi dilakukan pada browser itu sendiri. Hal ini memungkinkan kami untuk menjadi 100% aman bagi pengguna kami"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Fleksibilitas",
+            "content": " Alat kompresi PNG kami bekerja pada hampir semua jenis browser dan perangkat."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "User friendly",
+            "content": "Alat kompresi PNG kami sangat mudah dimengerti tidak ada profesional yang dibutuhkan untuk mengerjakan alat kami."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Bebas biaya",
+            "content": "Alat kompresi PNG kami benar-benar bebas biaya, Anda dapat menggunakan semua alat kami tanpa membayar sepeser pun"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Tidak ada unduhan tambahan",
+            "content": "Alat kompresi PNG kami benar-benar berbasis browser dan tidak ada perangkat lunak tambahan yang diperlukan untuk diunduh di perangkat Anda."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Cara mengompres file gambar PNG kita.",
+        "steps": [
+            "Unggah file gambar atau Klik pada panah drop down dan pilih Dropbox/Google Drive",
+            "Sesuaikan parameter menggunakan opsi yang disediakan.",
+            "Sesuaikan orientasi file gambar.",
+            "Tekan opsi save untuk menyimpan perubahan yang dibuat.",
+            "Download file gambar menggunakan opsi download.",
+            "Hore!!! gambar siap untuk rock."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "Apakah aman untuk mengizinkan akses ke drive saya?",
+            "answer": "Ya, itu benar-benar aman untuk memungkinkan dan memberi kami akses ke drive Anda. Kami tidak akan membuat perubahan pada situs Anda dan dfiles Anda akan aman dengan Anda."
+        },
+        {
+            "question": "Bagaimana cara mengunggah file dari drive/dropbox saya?",
+            "answer": "Klik pada panah drop down dan pilih Dropbox/Google Drive. Pilih akun Google dari tempat Anda ingin menautkan drive Anda. Sekarang Anda dapat memilih file yang ingin Anda unggah."
+        },
+        {
+            "question": "Apa saja fitur yang ditawarkan oleh fitur “Kompresor PNG” dari safeimagekit.com sambil mengompresi gambar dengan format png?",
+            "answer": "Fitur kompresor PNG dari safeimagekit.com menawarkan fitur serbaguna sambil mengompresi file png. Fitur utama meliputi\nMemodifikasi file png upload dengan menyesuaikan dimensi gambar seperti tinggi, lebar, dll Fitur kompresi png ini juga menyajikan kompresi dengan memasukkan ukuran yang dapat diperpanjang untuk max atau min tergantung pada file png upload. Fitur ini juga menyediakan mode ketat dan mode orientasi untuk penyesuaian akurat dan rotasi. Kompresor png juga menyediakan opsi untuk menyesuaikan kualitas gambar dan juga memungkinkan pengguna mengubah format gambar ke keuntungan pengguna.\n"
+        },
+        {
+            "question": "Apa saja parameter yang disediakan oleh fitur kompresor png dari safeimagekit.com, setelah kita mengunggah file png?",
+            "answer": "Fitur kompresi dari safeimagekit.com menyediakan berbagai parameter setelah kita meng-upload gambar dengan format png, parameter ini termasuk nama gambar, ukuran gambar, jenis gambar, dll Parameter ini terakhir diubah, di mana ia memberi kita waktu, tanggal, dan zona waktu di mana itu terakhir dimodifikasi. Ini juga memberi kita progress bar setelah mengunggah dan sebelum memulai pengeditan file gambar yang diunggah."
+        },
+        {
+            "question": "Apa saja fitur penyesuaian yang disediakan oleh safeimagekit.com ke file png, sambil mengompresi file png?",
+            "answer": "Fitur kompresi file png dari safeimagekit.com menyediakan banyak fitur saat mengompresi gambar. Ini memungkinkan pengguna menyesuaikan dimensi file png dengan menyesuaikan pengukuran seperti lebar dan tinggi. Max-height dan max-width memberi pengguna batas maksimum kompresi foto. Sementara min-width dan min-height memberi pengguna batas minimum kompresi foto. Opsi ukuran mengkonversi memungkinkan pengguna kompres secara keseluruhan."
+        },
+        {
+            "question": "Bagaimana opsi penyesuaian kualitas dari fitur kompresor png dari safeimagekit.com bekerja?",
+            "answer": "Pilihan penyesuaian kualitas fitur kompresor png dari safeimagekit.com adalah fitur penting yang memungkinkan pengguna menentukan kualitas keseluruhan file png yang diunggah. Fitur ini dapat diakses dari ruang “Masukkan kualitas” setelah mengunggah gambar. Ini menyesuaikan ketajaman, kontras, blur (dalam jumlah kecil), dan banyak parameter gambar lainnya secara keseluruhan. Pengguna dapat memutuskan pengukuran dari 0,1 sampai 1 skala. Jika dia tidak ingin ada perubahan dalam kualitas gambar yang diunggah, opsi ini dapat dilewati."
+        },
+        {
+            "question": "Bagaimana opsi “Mime type” fitur kompresor dari safeimagekit.com bekerja?",
+            "answer": "Opsi “Mime type” dari fitur kompresor dari safeimagekit.com memungkinkan pengguna memilih format gambar setelah mengompresi menggunakan alat kompresor dari safeimagekit.com. Saat ini, 5 jenis format gambar tersedia untuk pengguna. Pengguna dapat mengubah format gambar berdasarkan kebutuhannya. Format ini termasuk format webp, png, jpg, jpeg, dan gif. Jika pengguna ingin menjaga format tidak berubah, pengguna dapat memilih opsi yang disebut “Enter the mime type”. Opsi “Mime type” dapat diakses di bagian bawah halaman setelah mengunggah gambar, dan menyimpan perubahan yang dibuat."
+        },
+        {
+            "question": "Dapatkah saya menggunakan fitur png kompres dari safeimagekit.com pada sistem operasi LINUX saya?",
+            "answer": "Ya, fitur kompres png dari safeimagekit.com dapat digunakan pada sistem operasi apa pun, bahkan LINUX. Hal ini dibangun dengan kode terbaru dan fitur yang memungkinkan pengguna untuk kompres setiap gambar upload oleh pengguna pada setiap sistem operasi seperti MAC OS, Windows, dan Ubuntu, asalkan ada perangkat dengan koneksi internet yang stabil. Trik sulapnya adalah bahwa ia bahkan bekerja pada koneksi internet yang lebih lambat."
+        },
+        {
+            "question": "Bisakah kita mengedit teks hadir dalam file png menggunakan fitur compress png dari safeimagekit.com?",
+            "answer": "Tidak, saat ini fitur png kompres dari safeimagekit.com hanya menawarkan fitur, yang memungkinkan pengguna untuk kompres file png, mengubah format gambar dari format png ke lainnya, dll fitur pengeditan teks tidak tersedia di safeimagekit.com. Tapi update ke situs web akan membawa semua fitur menarik segera."
+        },
+        {
+            "question": "Bisakah kita mengedit atau memampatkan gambar 4k dan 8k menggunakan kompresor png dari safeimagekit.com?",
+            "answer": "Tidak, saat ini fitur kompresor dari safeimagekit.com hanya menawarkan fitur pengeditan gambar hingga 1080p yang terbaik. Namun, opsi pengompresan dan pengeditan gambar 4k memang ada di safeimagekit.com, tetapi pemrosesan gambar 8k tidak tersedia dan akan disertakan dalam masa depan sebagai pembaruan ke situs web."
+        },
+        {
+            "question": "Berapa banyak file png yang dapat kita edit pada peregangan tunggal menggunakan fitur kompresor png dari safeimagekit.com?",
+            "answer": "Saat ini, fitur kompresor dari safeimagekit.com dapat mengedit dan kompres file png tunggal, karena alat ini menuntut parameter yang layak saat mengedit, beberapa file png fitur editing tidak termasuk saat ini, tetapi update ke situs web akan memungkinkan ini di masa depan. "
+        },
+        {
+            "question": "Dapatkah saya menggunakan fitur kompresor png dari safeimagekit.com di Apple iPhone 11 saya? ",
+            "answer": "Ya, fitur kompresor png dari safeimagekit.com adalah fitur berbasis cross-platform, di mana pengguna dapat menggunakan alat konverter ini dari sistem operasi seperti Android, iOS, Windows, dan Mac OS. Hal ini independen dari sistem operasi yang digunakan tetapi hanya tergantung pada koneksi internet dan ukuran file png yang diunggah untuk dikompresi ke orang lain."
+        },
+        {
+            "question": "Akankah file gambar saya yang diunggah rusak setelah mengompresi mereka menggunakan opsi indah yang ada di fitur png kompres dari safeimagekit.com?",
+            "answer": "Tidak, fitur kompres dari safeimagekit.com dibangun dengan semua program terbaru dan fitur keamanan yang tidak memungkinkan file png yang diunggah rusak. Jadi, file png yang diunggah benar-benar aman dan aman. Juga, safeimagekit.com adalah situs web bebas server karena tidak ada file png yang disimpan di sini, dan dihapus dari memori segera setelah halaman web ditutup."
+        },
+        {
+            "question": "Apakah file saya akan disimpan setelah saya selesai mengerjakan alat kompresi PNG? ",
+            "answer": "Tidak, kami tidak mengirim file Anda ke server kami semua operasi dilakukan pada browser itu sendiri oleh karena itu semua file Anda benar-benar aman. "
+        },
+        {
+            "question": "Apakah saya harus melakukan pendaftaran tambahan atau membayar ekstra untuk menggunakan alat kompresi PNG? ",
+            "answer": "Benar-benar tidak, alat kami benar-benar online dan tidak mengharuskan Anda untuk berbagi informasi pribadi Anda dengan kami, seperti id email, password dll Alat kami benar-benar bebas biaya."
+        },
+        {
+            "question": "Bagaimana cara berkomunikasi jika saya menghadapi masalah atau jika saya ingin memberikan saran?",
+            "answer": "Kami dengan senang hati mengambil dalam setiap masalah atau saran yang ditawarkan oleh semua pengguna, silakan hubungi kami melalui menangani media sosial kami untuk informasi lebih lanjut. SafeImageKit.com tersedia di semua situs media sosial terkemuka seperti Facebook, Instagram, YouTube, dan LinkedIn, dll."
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js\" integrity=\"sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==\" crossorigin=\"anonymous\"></script>",
+        "<Script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/compress.js\"></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/compress.css\" />"
+    ],
+    "filelang": "en",
+    "display_formats": [
+        "png"
+    ]
+}
