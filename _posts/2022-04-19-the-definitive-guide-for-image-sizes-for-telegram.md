@@ -58,8 +58,6 @@ Open the image by right-clicking and selecting Open with, clicking File and then
 
 ## -Tips and how to use
 
-![Open the image by right-clicking and selecting Open with, clicking File and then clicking Open in the Paint menu. Under the Image section of the Home tab, click Resize. Set the size of the image in percentage or pixels as you please.](/uploads/csc.PNG "Aspect ratio and dimension")
-
 ### **Multiple Profile Pictures on Telegram**
 
 Telegram lets you load additional profile photos. At the same time, the final photo is the profile image that your contacts will see. They can swipe to look at the rest of your photos.
