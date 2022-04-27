@@ -273,13 +273,7 @@
       "icon": "/img/home/crop.png",
       "url": "/all-crop-tools"
     },
-    {
-      "name": "List of aspect ratio calculators pages",
-      "description": "List of all free aspect ratio calculators pages",
-      "color": "#9999ff",
-      "icon": "/img/home/compressimg.png",
-      "url": "/all-aspect-ratio-in-pixels-urls"
-    },
+    
     {
       "name": "List of mm to pixels conveter pages",
       "description": "List of all free mm to pixels conveter pages",
