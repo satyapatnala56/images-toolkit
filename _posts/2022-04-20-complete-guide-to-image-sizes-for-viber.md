@@ -86,7 +86,7 @@ The options are infinite; use this newly developed program to surprise your frie
 
 **What should be included in Viber profile photos?**
 
-![ It's your choice, but it's always better to wear something that doesn't contrast with the background.](/uploads/fe.PNG "Viber background-size")
+![What should be included in Viber profile photos?](/uploads/fe.PNG "Viber profile photo-size")
 
 If you want to have a nice and attractive profile photo on Viber, you should also bear in mind what you need to wear for it. It's your choice, but it's always better to wear something that doesn't contrast with the background.
 
