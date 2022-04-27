@@ -12,7 +12,7 @@
 
 [[redirects]]
   from = "/placeholder-images"
-  to = "https://placeholderimages.netlify.app/dummy-image-generator"
+  to = "https://placeholderimages.netlify.app/placeholder-images"
   force = true
   status = 200
 

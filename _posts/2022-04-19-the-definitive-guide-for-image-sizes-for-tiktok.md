@@ -12,21 +12,13 @@ description: On the social media scene, TikTok is an emerging platform that chal
   the standing of other options such as Facebook, Instagram, and Twitter. TikTok has
   a slightly different angle – presenting short videos as the perfect form of content.
   This allows companies to connect with potential audiences worldwide.
-title: THE DEFINITIVE GUIDE FOR IMAGE SIZES FOR TIKTOK
+title: The Definitive Guide For Image Sizes For Tiktok
 layout: post
 author: Siddhika
 image: "/uploads/the-definitive-guide-for-image-sizes-for-tiktok.png"
 comments: false
 
 ---
-# **THE DEFINITIVE GUIDE FOR IMAGE SIZES FOR TIKTOK**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 19 APRIL 2022**
-
-## On the social media scene, TikTok is an emerging platform that challenges the standing of other options such as Facebook, Instagram, and Twitter. TikTok has a slightly different angle – presenting short videos as the perfect form of content. This allows companies to connect with potential audiences worldwide. 
-
 ## If you have just become familiar with TikTok for your business, this guide will help you begin the first basic step. More precisely, we will dispel some confusion about an abbreviation that can mean both photos for proof or profile photo online. Let's go out there!
 
 ### **TABLE OF CONTENTS**

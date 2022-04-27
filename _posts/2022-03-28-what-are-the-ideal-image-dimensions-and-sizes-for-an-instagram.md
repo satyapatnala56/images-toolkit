@@ -17,22 +17,15 @@ tags:
 - " image size on instagram"
 categories:
 - general
-description: Knowing the best Instagram picture size and ratio is no feat from feed
-  messages to Instagram Videos and Reels.  This handy guide gives you all the Instagram
-  dimensions you need to create perfect images and videos.
-title: WHAT ARE THE IDEAL IMAGE DIMENSIONS AND SIZES FOR AN INSTAGRAM?
+description: 'Knowing the best Instagram picture size and ratio is no feat from feed
+  messages to Instagram Videos and Reels.  '
+title: What Are The Ideal Image Dimensions And Sizes For An Instagram?
 layout: post
 author: Siddhika
 image: "/uploads/what-are-the-ideal-image-dimensions-and-sizes-for-an-instagram.png"
 comments: false
 
 ---
-# **WHAT ARE THE IDEAL IMAGE DIMENSIONS AND SIZES FOR AN INSTAGRAM?**
-
-**SIDDHIKA PRAJAPATI | 28 MARCH 2022**
-
-Knowing the best Instagram picture size and ratio is no feat from feed messages to Instagram Videos and Reels.
-
 This handy guide gives you all the Instagram dimensions you need to create perfect images and videos.
 
 **-Introduction**

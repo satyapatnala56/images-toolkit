@@ -8,24 +8,14 @@ description: WeChat is the best chat application at this time. You can find a lo
   stickers, and voice recordings. they even have group discussions, video visuals,
   photo sharing, video sharing, document and file transfer, and much more. This app
   greatly facilitates communication!
-title: " THE COMPLETE GUIDE FOR IMAGE SIZES FOR WECHAT"
+title: " The Complete Guide For Image Sizes For Wechat"
 layout: post
 author: Siddhika
 image: "/uploads/the-complete-guide-for-image-sizes-for-wechat.png"
 comments: false
 
 ---
-# **THE COMPLETE GUIDE FOR IMAGE SIZES FOR WECHAT**
-
-### SIDDHIKA PRAJAPATI | 19 APRIL 2022
-
-### 
-
-## **-Introduction**
-
-## WeChat is the best chat application at this time. You can find a lot of valuable features, like unlimited free text messages, voice calls, video calls, stickers, voice recordings, group discussions, and view videos. They share pictures, videos, documents and files, and many others. It's a great way to communicate! Even Skype can't match it! This is much better than WhatsApp. Today, we will discuss one of its helpful features, video sharing by WeChat. Videos can quickly be sent via WeChat.
-
-## **-Wechat image size guide**
+## **Wechat image size guide**
 
 ## Size
 

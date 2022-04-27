@@ -14,24 +14,14 @@ description: Tumblr is one of the earliest iterations of a social media platform
   though not in the traditional sense. It evolved from the phenomenon of blogs in
   the early 2000s and rapidly became a massive community of microbiologists, full
   of unique and diverse sub-cultures.
-title: THE COMPLETE GUIDE FOR IMAGE SIZES FOR TUMBLR
+title: The Complete Guide For Image Sizes For Tumblr
 layout: post
 author: Siddhika
 image: "/uploads/the-complete-guide-for-image-sizes-for-tumblr.png"
 comments: false
 
 ---
-# **THE COMPLETE GUIDE FOR IMAGE SIZES FOR TUMBLR**
-
-### 
-
-### **SIDDHIKA PRAJAPATI | 17 APRIL 2022**
-
-### Tumblr is one of the earliest iterations of a social media platform, though not in the traditional sense. It evolved from the phenomenon of blogs in the early 2000s and rapidly became a massive community of microbiologists, full of unique and diverse sub-cultures.
-
-### 
-
-## **Introduction**
+## **CONTENT**
 
 ### Tumblr Icon Size
 
@@ -48,6 +38,8 @@ comments: false
 ### -Conclusion
 
 ### -FAQs"
+
+## **Introduction**
 
 ### Founded in 2007, more than 200 million blogs are now posting more than 80 million messages every day. This is so much content! Tumblr content is organized into #tags, basically hashtags creating clusters of topics. On Tumblr, users can share almost any kind of content they can imagine, including articles, text messages, photographs, videos, audio files, and animated GIFs. The primary way users interact with each other is by providing feedback on their respective posts and "reblogging" content from their blog, such as the retweet feature on Twitter.
 
