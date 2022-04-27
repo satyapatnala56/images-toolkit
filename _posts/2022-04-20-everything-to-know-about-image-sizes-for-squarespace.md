@@ -81,8 +81,6 @@ Maximum Squarespace image file sizes
 
 Squarespace has a 20 MB file size restriction, but ideally, upload $500,000 or less to help your site load faster for your visitors.
 
-![Squarespace has a 20 MB file size restriction, but ideally, upload $500,000 or less to help your site load faster for your visitors.](/uploads/tef.PNG "Maximum dimensions of Squarespace image files.")
-
 ## **Max Squarespace image resolution.**
 
 Image attribute
