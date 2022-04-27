@@ -42,11 +42,9 @@ Large 1024 (1024 × 732) Large 1600 (1600 × 1143) ...
 
 X-Large 3K (3072 × 2195) X-Large 4K (4096 × 2926)
 
-## **Flickr cover image sige**
+## **Flickr cover image size**
 
 We didn't hear anything official from Flickr, but from some tests, we determined that a good working image size is 2560 x 2560 pixels. Flickr narrows and enlarges the image according to the width of the browser window used. As a result, the amount of images to be viewed varies depending on the width of the navigator window. The upper and lower areas of the image have semi-transparent menus and buttons. and the entire image is coated with a vertical fade graded black from the middle of the image.
-
-![ The upper and lower areas of the image have semi-transparent menus and buttons. and the entire image is coated with a vertical fade graded black from the middle of the image.](/uploads/184.PNG "Flickr cover image sige")
 
 Although the coverage image is only about 234px, it is essential to have a picture of over 2000px. If you don't have the Flickr cover image sounds horrible on wide screens, and it can also be cropped in width on smaller screens. For this reason, this model uses a 2560 x 2560 pixel image size. I tried out more than twelve different coverage image sizes to see what works and what doesn't.
 
