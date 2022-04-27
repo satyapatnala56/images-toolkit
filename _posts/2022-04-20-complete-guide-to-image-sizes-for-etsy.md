@@ -96,8 +96,6 @@ The minimal size required for mini-signs is 1200 x 160px. The recommended size i
 
 Retail banners serve to attract consumers to sales events, special offers and community fundraising events. These banners help increase the number of people visiting the store and educate people about small stores.
 
-![The minimum size requirement for department store banners is 1200 x 300 px. The recommendation is 1600 x 400px. Find out more about downloading a great boutique banner here.](/uploads/ff.PNG "how to size your etsy image")
-
 The minimum size requirement for department store banners is 1200 x 300 px. The recommendation is 1600 x 400px. Find out more about downloading a great boutique banner here.
 
 ## **-Summary and how to start**
