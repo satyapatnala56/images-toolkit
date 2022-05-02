@@ -258,6 +258,10 @@
       {
         "name": "Resize image to 3300x4800 ",
         "url": "/it/resize-image-to-3300x4800"
+      },
+      {
+        "name": "Resize image to 3.25x4.25",
+        "url": "/resize-image-to-3-24X4-25"
       }
     ]
   

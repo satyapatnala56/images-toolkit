@@ -23,20 +23,14 @@ categories:
 description: Twitter has updated its suggested image sizes ONCE AGAIN. If you're behind
   on the last Twitter updates, it's time to catch up. In this article, we've compiled
   a Twitter Picture Size Job Aid with updated information for 2022.
-title: HOW TO MAKE THE PERFECT TWITTER IMAGE SIZE? IT'S ALWAYS AN UP-TO-DATE GUIDE
-  TO TWITTER.
+title: How To Make The Perfect Twitter Image Size? It's Always An Up-To-Date Guide
+  To Twitter.
 layout: post
 author: Siddhika
 image: "/uploads/how-to-make-the-perfect-twitter-image-size-it-s-always-an-up-to-date-guide-to-twitter.png"
 comments: false
 
 ---
-# **HOW TO MAKE THE PERFECT TWITTER IMAGE SIZE? IT'S ALWAYS AN UP-TO-DATE GUIDE TO TWITTER.**
-
-**SIDDHIKA PRAJAPATI | 25 MARCH 2022**
-
-## **-Introduction**
-
 Twitter has updated its suggested image sizes ONCE AGAIN. If you're behind on the last Twitter updates, it's time to catch up. Social media platforms are changing their algorithms and interfaces all the time. Content developers and marketers must be proactive and stay abreast of the latest news. While this is a small part of the user experience, image size matters greatly on social media. Incorrect image dimensions can lead to poorly adapted or cropped content. The target platform can reject your carefully edited pictures if they are not optimized for size.
 
 In this article, we've compiled a Twitter Picture Size Job Aid with updated information for 2022.
@@ -96,8 +90,6 @@ We will not take a close look at how these ads work. Instead, we will focus on t
 
 ### Photo Size for Lead Generation Maps.
 
-![ An image size of 800px X 200px is recommended. The Call to Action can be customized as required.](/uploads/25.PNG "Photo Size for Lead Generation Maps.")
-
 Lead generation maps have an offer, an image, a call to action and an option to collect user names and email addresses. An image size of 800px X 200px is recommended. The Call to Action can be customized as required.
 
 ## **Twitter moments**
@@ -113,8 +105,6 @@ The perfect image size and format are 1200px X 675px and 16:9 respectively. The 
 You can tweet up to four images per message. Two pictures are displayed side by side, with a 7:8 aspect ratio.
 
 ## **-How to resize the image to Twitter**
-
-![How to resize the image to Twitter](/uploads/how-to-make-the-perfect-twitter-image-size-it-s-always-an-up-to-date-guide-to-twitter.png "image to Twitter")
 
 Twitter recommends an image format of 3:1, a size of 1500px X px and file size of up to 5MB. The images may be JPG, PNG or GIFs (but not animated GIFs). You can change your banner image on mobile devices or desktop computers, but you will have to use the Twitter website if you want to update the colour of the theme.
 
@@ -145,8 +135,6 @@ The first step is to load the image which needs editing. The next step is to adj
 You can use Twitter track generation maps or website maps to generate tracks. These Twitter advertising images distinguish themselves in congested feeds and motivate users to complete specific calls to action. A lead generation map is 800px X 200px and features an offer, picture, CTA and option to collect users' names and email addresses. A website map is 800px X 320 px and has a website's banner image, a description, a direct link, and a predefined DEC.
 
 ### **What is a Twitter Moment?**
-
-![The moments are reactive and will alter their orientation depending on the size of the screen where they are viewed. ](/uploads/254.PNG "The moments ")
 
 The moments are reactive and will alter their orientation depending on the size of the screen where they are viewed. The moments are reactive and will change their orientation depending on the size of the screen in which they are displayed. You can build a collection of customer reviews, product collections, holiday photos and event launches as Twitter Moments. Although, rather not use second-party tweets as it could cause issues with copyright infringement.
 

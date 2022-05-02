@@ -18,21 +18,13 @@ description: Do you intend to create a social media end-to-end marketing strateg
   in 2022? Then Facebook is probably one of the social media you're focusing on.  While
   many users have recently raised concerns regarding Facebook's data security and
   privacy policies, the platform continues to be very popular.
-title: THE MOST USEFUL FACEBOOK IMAGE SIZE GUIDE 2022
+title: The Most Useful Facebook Image Size Guide 2022
 layout: post
 author: Siddhika
 image: "/uploads/the-most-useful-facebook-image-size-guide-2022.png"
 comments: false
 
 ---
-**THE MOST USEFUL FACEBOOK IMAGE SIZE GUIDE 2022**
-
-**SIDDHIKA PRAJAPATI | 10 APRIL 2022**
-
-Do you intend to create a social media end-to-end marketing strategy in 2022? Then Facebook is probably one of the social media you're focusing on.
-
-While many users have recently raised concerns regarding Facebook's data security and privacy policies, the platform continues to be very popular.
-
 Facebook is the biggest social media platform in the world, with over 2.7 million active users per month worldwide.
 
 This means that it is pretty essential for digital marketers and entrepreneurs to prioritize Facebook marketing.
@@ -161,8 +153,6 @@ In general, if you are posting content on Facebook, you will need to upload cove
 * Groups
 * Business pages
 * Personal profiles
-
-  ![The recommended size and image format of the Facebook cover vary by the type of photo you upload. Let's have a look at the various dimensions of the Facebook cover.](/uploads/100.PNG "Facebook Cover Photo Sizes & dimensions.")
 
 The recommended size and image format of the Facebook cover vary by the type of photo you upload. Let's have a look at the various dimensions of the Facebook cover.
 

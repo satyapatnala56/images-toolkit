@@ -19,21 +19,13 @@ categories:
 description: What is the importance of adding pictures to our LinkedIn messages? While
   LinkedIn is traditionally word-driven, not image-driven, it is still important to
   post images on LinkedIn.
-title: " ARE THE OPTIMUM IMAGE SIZES FOR A LINKEDIN TO MAXIMIZE ENGAGEMENT?"
+title: " Are The Optimum Image Sizes For A Linkedin To Maximize Engagement?"
 layout: post
 author: Siddhika
 image: "/uploads/what-are-the-optimum-image-sizes-for-a-linkedin-to-maximize-engagement.png"
 comments: false
 
 ---
-# **ARE THE OPTIMUM IMAGE SIZES FOR A LINKEDIN TO MAXIMIZE ENGAGEMENT?**
-
-### **SIDDHIKA PRAJAPATI | 10 APRIL 2022**
-
-### 
-
-## **-Introduction**
-
 #### What is the importance of adding pictures to our LinkedIn messages? While LinkedIn is traditionally word-driven, not image-driven, it is still important to post images on LinkedIn.
 
 #### 
