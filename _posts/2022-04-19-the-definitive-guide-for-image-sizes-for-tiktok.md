@@ -47,8 +47,6 @@ On TikTok, PFP stands for a profile photo. When creating a TikTok account for yo
 
 If you are working on a new profile photo for TikTok, you will try to think in a creative way that is original, interesting, and appropriate for your channel. In the meantime, you need to consider practical concerns such as size and resolution. After all, you want your TikTok profile image to be full size when it appears, to avoid any strange cropping issues.
 
-![ you want your TikTok profile image to be full size when it appears, to avoid any strange cropping issues.](/uploads/wfc.PNG "Dimensions of a TikTok Profile Picture")
-
 #### **Size**
 
 The appropriate size for a TikTok profile picture is 200x200 pixels. Set your TikTok profile image size to these dimensions in your favorite image edition or creative software and you will all be together. Considering the dimensions are locked. You can create what you have in mind and quickly load it onto the platform without any issues.
@@ -82,8 +80,6 @@ Next, when you upload your image to TikTok, you will have a clear PFP surrounded
 This gives your profile an uncluttered appearance and can help the profile itself blend in with the content. More and more accounts on the platform are adopting this approach, and you may want to test it to see how it works.
 
 ### **Anime PFP**
-
-![This could be a famous anime character or a personalized cartoon in an animated style. Anyway, it's a choice that will only make sense to a certain type of business](/uploads/efdc.PNG "Anime PFP")
 
 Many profile pictures for TikTok are loaded with an animated theme. This could be a famous anime character or a personalized cartoon in an animated style. Anyway, it's a choice that will only make sense to a certain type of business.
 

@@ -377,8 +377,6 @@ comments: false
 
 ## **Pin Image specs**
 
-### ![We recommend using a 2:3 aspect ratio, or 1000 x 1500 pixels. Pins with an aspect ratio that's greater than 2:3 might get cut off in people's feeds.](/uploads/148.PNG "Pin Image specs")
-
 * File type: PNG or JPEG
 * Max file size: 32 MB (previously only 10MB!)
 * Aspect ratio: We recommend using a 2:3 aspect ratio, or 1000 x 1500 pixels. Pins with an aspect ratio that's greater than 2:3 might get cut off in people's feeds.

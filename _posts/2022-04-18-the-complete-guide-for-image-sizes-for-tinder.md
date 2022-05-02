@@ -73,8 +73,6 @@ How many photos can you get on Match.com: 26 but cap it to 6 unless they are epi
 
 I generally do not recommend this approach, but sometimes it is necessary to preserve certain dating applications' aspect ratio. At the risk of losing context for a photo, you need to make sure that all the elements of your photo that make it a large photo are displayed to users. You can use an app like Square Instapic to add a single border to your photos if you have to.
 
-![It is advisable to stick with solid border color and not to go Snapchat-Esque with sparks, emojis, etc. Kiss It Stupid Single (KISS). MSPaint and Adobe Photoshop will work too but will require a bit more patience and competence.](/uploads/sd.PNG "Aspect ratio")
-
 It is advisable to stick with solid border color and not to go Snapchat-Esque with sparks, emojis, etc. **_Kiss It Stupid Single (KISS)_**. MSPaint and Adobe Photoshop will work, too but will require more patience and competence.
 
 Except if you have an epic selfie, don't use those pictures. Apart from the quality of the camera, the lack of exciting environments and awkward looks, selfies are generally taken remotely. The closer the camera gets to the subject or face, the more distorted (wider) the photos. That's usually unflattering for most people. Nobody wants to sound bigger than him.
@@ -205,8 +203,6 @@ When zooming and reframing, you have to consider what you vs. the environment an
 If you have a picture with you in the distance, it is a beautiful place or a travel destination. It's perfectly correct to use (don't make it your first photo or use too many distant, dark or blurry photos). You need some close-up photos (1/4-1/2 body to see how you look up close and whole body to see your body and style).
 
 On applications like Tinder, your photos can be enlarged too closely, so you should crop before uploading to have more control over the final layout. If you would like to crop your photo, do not use the online photo cropping services. Your phone is usually the best source because it has capabilities in the default photo application without sacrificing the confidentiality of online photo croppers. If you are on the desk, MSPaint is sufficient.
-
-![Get full-size photos/ Save original photos.](/uploads/tin.PNG "Zoom In and Cropping Photos, Photo Crop Online.")
 
 Moreover, people's fatal mistake with the photos is zooming or cropping too close. The same rules apply to a portrait here: No floating heads, including the shoulders, and make sure that your frame does not include more than 70% of the frame.
 

@@ -14,7 +14,6 @@ image: "/uploads/complete-guide-to-image-sizes-for-vimeo.png"
 comments: false
 
 ---
-
 # **Complete guide to image sizes for Vimeo**
 
 ### 
@@ -53,9 +52,6 @@ Size: 600x600 pixels.
 ## **Size of the video.**
 
 You have undoubtedly seen them, the recognizable images for every video. A lot of famous vloggers like Monica Geuze. With her special drawing and video numbers (#01, #02, #02, etc.), use them. The height of the Vimeo Video 4:3 is min. 640x480 pixel. Fixed-size and pattern for simplicity and visibility. It's all about your fans!
-
-  
-![ The height of the Vimeo Video 4:3 is min. 640x480 pixel. Fixed-size and pattern for simplicity and visibility. It's all about your fans!](/uploads/ddd.PNG "Size of the video.")
 
 Same layout for every Vimeo video.
 

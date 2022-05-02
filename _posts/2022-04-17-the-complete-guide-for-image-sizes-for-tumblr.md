@@ -101,8 +101,6 @@ comments: false
 
 ### Make sure you upload an image of at least 3000 x 1055 pixels so that your image appears at the quality you want. Also, make sure to monitor the height of your header picture and maximum size. And the resolution to make sure your image doesn't compress or seem granular. For this reason, you need to download a banner picture with a 16:9 aspect ratio.
 
-![Make sure you upload an image of at least 3000 x 1055 pixels ](/uploads/45.PNG "Tumblr Header Size")
-
 ### Your Tumblr header image is an excellent place to present your style and attract more followers to your blog. Because it is part of a reactive page, your banner will stretch and be displayed in various sizes. All this is according to the apparatus which is used to see it.
 
 ## **How to build your own Tumblr banner.**

@@ -75,11 +75,9 @@ If your image is smaller than 600 x 315 px, it will still display in the link pa
 
 The minimum image size is 200 x 200 pixels. If you try to use an image smaller than this you will see an error in the Sharing Debugger.
 
-## **- Tips on how to create perfect and use**
+## **- Tips on how to create perfect and the usage**
 
 Here are the main recommended image sizes for WhatsApp: Profile picture –
-
-![The best profile picture should be at least 192px by 192px and can be either a JPG or PNG image. Ideally, it should be 500px by 500px](/uploads/vdv.PNG "Tips on how to create perfect and use")
 
 * The best profile picture should be at least 192px by 192px and can be either a **JPG or PNG image**. Ideally, it should be 500px by 500px
 * **A photo might appear blurry if WhatsApp can no longer find it in your device or SD card**. This usually happens if the photo is deleted. To automatically save photos to your device: Android: Open WhatsApp > Tap More options > Settings > Chats > Turn on Show media in gallery.
