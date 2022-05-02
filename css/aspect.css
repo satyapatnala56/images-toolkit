@@ -1,0 +1,73 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+.form-control{
+    border-radius: 0;
+}
+.g-3 .col-md-3 {
+    width: 100%;
+    padding: 0;
+}
+button#getAspect {
+    width: 100%;
+    border-radius: 0;
+}
+.content-div {
+    padding: 30px 130px 0px 130px;
+}
+
+.g-3 h2 {
+    text-align: start;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+.view_div{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.megapixels_div{
+    display: flex;
+    flex-direction: column;
+}
+.form-group {
+    margin-bottom: 1rem;
+    display: flex;
+}
+.form-group label {
+    width: 30%;
+    text-align: start;
+}
+.main-container {
+    width: 50%;
+    margin: auto;
+}
+.submitButton {
+    width: 100%;
+}
+.form-control:disabled, .form-control[readonly] {
+    background-color: white;
+    opacity: 1;
+}
+@media only screen and (max-width: 768px){
+    .form-group{
+        flex-direction: column;
+    }
+    .form-group label {
+        width: 100%;
+        text-align: start;
+    }
+    .main-container{
+        width: 100%;
+    }
+}
+.ratio {
+    width: 49%;
+}

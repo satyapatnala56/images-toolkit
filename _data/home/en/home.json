@@ -272,6 +272,21 @@
       "color": "#ff704d",
       "icon": "/img/home/crop.png",
       "url": "/all-crop-tools"
+    },
+    
+    {
+      "name": "List of mm to pixels conveter pages",
+      "description": "List of all free mm to pixels conveter pages",
+      "color": "#f77b00",
+      "icon": "/img/home/compressimg.png",
+      "url": "/all-mm-in-pixels-urls"
+    },
+    {
+      "name": "List of cm to pixels conveter pages",
+      "description": "List of all free cm to pixels conveter pages",
+      "color": "#ff704d",
+      "icon": "/img/home/compressimg.png",
+      "url": "/all-cm-in-pixels-urls"
     }
   ]
 }
