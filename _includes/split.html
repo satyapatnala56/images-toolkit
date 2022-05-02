@@ -1,6 +1,6 @@
 <div class="container">
   {%- assign boxColor = site.data[page.folderName][page.lang][page.fileName].color -%}
-  <div class="custom-box" style="background-color:{{boxColor}};">
+  <div class="custom-box" data-color="{{boxColor}}" style="background-color:{{boxColor}};">
     <div class="inner-box">
       <div style="display:none;" id="file-loader"><img src="/spinner.gif" alt="">
         <p>Please Wait ,Loading Your file </p>
@@ -65,12 +65,13 @@
             <span>Select the number of <b>columns</b> and <b>rows</b> to crop
               the image:</span>
           </div>
+
           <div class="options-title mt-2">
             columns:
           </div>
           <div class="buttons-box">
-            <div class="row-col-show" id="cols-number">
-              3
+            <div class="row-col-show" data-value="{{page.columns | default: 3}}" id="cols-number">
+              {{page.columns | default: 3}}
             </div>
             <div class="action-buttons" data-type="col-minus">
               <img src="/img/minus.svg" data-type="col-minus" alt="">
@@ -83,15 +84,35 @@
             rows:
           </div>
           <div class="buttons-box">
-            <div class="row-col-show" id="rows-number">
-              3
+            <div class="row-col-show" data-value="{{page.rows | default: 3}}" id="rows-number">
+              {{page.rows | default: 3 }}
             </div>
             <div class="action-buttons" data-type="row-minus">
               <img src="/img/minus.svg" alt="" data-type="row-minus">
             </div>
             <div class="action-buttons" data-type="row-plus">
               <img src="/img/plus.svg" alt="" data-type="row-plus">
+
             </div>
+          </div>
+          <div class="{%- if page.tool == 'split'  -%}
+          options-title mt-2 d-none
+          {%- else -%}
+          options-title mt-2 
+          {%- endif -%} ">
+            Orientation:
+            <label class="radio-label">
+              <input type="radio" class="orientation" name="orientation" value="transparent" id="input-check-vertical"
+                checked />
+              <span class="checkmark"></span>
+              <span class="label-span">Vertical</span>
+
+            </label>
+            <label class="radio-label">
+              <input type="radio" class="orientation" name="orientation" id="input-check-horizontal" value="filter" />
+              <span class="checkmark"></span>
+              <span class="label-span">Horizontal</span>
+            </label>
           </div>
           <div class="download-format">
             <span class="select-format-title">image's format</span>

@@ -1,0 +1,121 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Split your image into 8 parts",
+  "img": "/img/image-splitter.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
+  "nofileupload": true,
+  "variant": "primary",
+  "imgalt": "altvalue",
+  "H2": " Upload image to split into 8",
+  "TITLE": "Split your image into 8 parts",
+  "META": "Easiest way to split your image into 8 parts for  various social media platforms",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "#008CD2",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "Image Splitter tools",
+        "links": [
+          {
+            "name": "Split image into 2 parts",
+            "iconSrc": "/img/image-splitter.png",
+            "url": "/split-image-into-2"
+          },
+          {
+            "name": "Split image into 3 parts",
+            "iconSrc": "/img/image-splitter.png",
+            "url": "/split-image-into-3"
+          },
+          {
+            "name": "Split image into 4 parts",
+            "iconSrc": "/img/image-splitter.png",
+            "url": "/split-image-into-4"
+          },
+          {
+            "name": "Split image into 6 parts",
+            "iconSrc": "/img/image-splitter.png",
+            "url": "/split-image-into-6"
+          },
+          {
+            "name": "Split image into 8 parts",
+            "iconSrc": "/img/image-splitter.png",
+            "url": "/split-image-into-8"
+          },
+          {
+            "name": "Split image into 9 parts",
+            "iconSrc": "/img/image-splitter.png",
+            "url": "/split-image-into-9"
+          }
+        ]
+      }
+    ]
+  },
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/userfriendly.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/free.png",
+      "header": "",
+      "content": ""
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "",
+      "content": ""
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+    "steps": []
+  },
+  "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js\" integrity=\"sha512-XSIn6Z+o82v4Aumv+iHmw9/oEotMU4LRi7lSd4AESpfdekKVO4zt0hUZ+2iB8cRlvpQRWqeLXdCHQxTOL00zNw==\" crossorigin=\"anonymous\"></script>"
+  ],
+  "jsfilepaths": [
+    "/js/jszip.min.js",
+    "/js/FileSaver.min.js",
+    "/js/cropper.min.js",
+    "/js/split.js"
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/split.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/cropper.min.css\" />"
+  ]
+}
