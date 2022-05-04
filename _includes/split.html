@@ -66,22 +66,9 @@
               the image:</span>
           </div>
 
-          <div class="options-title mt-2">
-            columns:
-          </div>
-          <div class="buttons-box">
-            <div class="row-col-show" data-value="{{page.columns | default: 3}}" id="cols-number">
-              {{page.columns | default: 3}}
-            </div>
-            <div class="action-buttons" data-type="col-minus">
-              <img src="/img/minus.svg" data-type="col-minus" alt="">
-            </div>
-            <div class="action-buttons" data-type="col-plus">
-              <img src="/img/plus.svg" data-type="col-plus" alt="">
-            </div>
-          </div>
+
           <div class="options-title">
-            rows:
+            Rows:
           </div>
           <div class="buttons-box">
             <div class="row-col-show" data-value="{{page.rows | default: 3}}" id="rows-number">
@@ -95,24 +82,37 @@
 
             </div>
           </div>
+          <div class="options-title mt-2">
+            Columns:
+          </div>
+          <div class="buttons-box">
+            <div class="row-col-show" data-value="{{page.columns | default: 3}}" id="cols-number">
+              {{page.columns | default: 3}}
+            </div>
+            <div class="action-buttons" data-type="col-minus">
+              <img src="/img/minus.svg" data-type="col-minus" alt="">
+            </div>
+            <div class="action-buttons" data-type="col-plus">
+              <img src="/img/plus.svg" data-type="col-plus" alt="">
+            </div>
+          </div>
           <div class="{%- if page.tool == 'split'  -%}
           options-title mt-2 d-none
           {%- else -%}
           options-title mt-2 
           {%- endif -%} ">
-            Orientation:
-            <label class="radio-label">
-              <input type="radio" class="orientation" name="orientation" value="transparent" id="input-check-vertical"
-                checked />
-              <span class="checkmark"></span>
-              <span class="label-span">Vertical</span>
+            Choose rows x columns:
+            {%- for item in page.combinations -%}
 
-            </label>
             <label class="radio-label">
-              <input type="radio" class="orientation" name="orientation" id="input-check-horizontal" value="filter" />
+              <input type="radio" class="orientation" name="orientation" data-value="{{item}}" value="transparent"
+                id="input-check-vertical" {%- if forloop.first -%} checked {%- endif -%} />
               <span class="checkmark"></span>
-              <span class="label-span">Horizontal</span>
+              <span class="label-span">{{item}}</span>
             </label>
+            {%- endfor -%}
+
+
           </div>
           <div class="download-format">
             <span class="select-format-title">image's format</span>

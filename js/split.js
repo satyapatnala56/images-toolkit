@@ -135,9 +135,10 @@ const updateCells = () => {
 }
 let orientationElements = document.querySelectorAll('.orientation')
 Array.from(orientationElements).map((i) => {
-  i.addEventListener('change', () => {
-    rows = Number(document.querySelector('#cols-number').innerHTML)
-    columns = Number(document.querySelector('#rows-number').innerHTML)
+  i.addEventListener('change', (e) => {
+    let value = e.target.dataset.value.split('x')
+    rows = Number(value[0])
+    columns = Number(value[1])
     updateCells()
   })
 })
