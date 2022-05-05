@@ -21,3 +21,22 @@
   to = "https://placeholderimages.netlify.app/placeholder-images/:splat"
   force = true
   status = 200
+  
+  
+[[redirects]]
+  from = "/conv/sitemap.xml"
+  to = "https://safeimagekitconv.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/conv"
+  to = "https://safeimagekitconv.netlify.app"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/conv*"
+  to = "https://placeholderimages.netlify.app/conv/:splat"
+  force = true
+  status = 200
