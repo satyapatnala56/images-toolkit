@@ -37,6 +37,6 @@
 
 [[redirects]]
   from = "/conv*"
-  to = "https://placeholderimages.netlify.app/conv/:splat"
+  to = "https://safeimagekitconv.netlify.app/conv/:splat"
   force = true
   status = 200
