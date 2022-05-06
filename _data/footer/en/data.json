@@ -160,6 +160,10 @@
     {
       "name": "List of cm to pixels conveter pages",
       "url": "/all-cm-in-pixels-urls"
+    },
+    {
+      "name": "Pixel converter tools",
+      "url": "/conv"
     }
   ],
   "social": [
