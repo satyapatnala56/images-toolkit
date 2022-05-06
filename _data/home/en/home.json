@@ -287,6 +287,13 @@
       "color": "#ff704d",
       "icon": "/img/home/compressimg.png",
       "url": "/all-cm-in-pixels-urls"
+    },
+    {
+      "name": "Pixel converter tools",
+      "description": "Smart tools for Pixel converter ",
+      "color": "#0566D1",
+      "icon": "/img/home/resize.png",
+      "url": "/conv"
     }
   ]
 }
