@@ -7,9 +7,11 @@ const fileDropBox = document.querySelector('.custom-box')
 const cropBoxPanel = document.getElementById('crop-box-panel')
 const downloadButton = document.querySelector('#download-button')
 let cropper = ''
-let rows = 3
-let columns = 3
+let rows = Number(document.querySelector('#rows-number').dataset.value)
+let columns = Number(document.querySelector('#cols-number').dataset.value)
 let croppedImageWidth = ''
+let root = document.querySelector(':root')
+root.style.setProperty('--maincolor', fileDropBox.dataset.color)
 let croppedImageHeight = ''
 const showLoader = () => {
   showLoading()
@@ -131,6 +133,15 @@ const updateCells = () => {
 
   document.querySelector('.cropper-center').innerHTML = appendData
 }
+let orientationElements = document.querySelectorAll('.orientation')
+Array.from(orientationElements).map((i) => {
+  i.addEventListener('change', (e) => {
+    let value = e.target.dataset.value.split('x')
+    rows = Number(value[0])
+    columns = Number(value[1])
+    updateCells()
+  })
+})
 const showDropDown = document.querySelector('.file-pick-dropdown')
 const icon = document.querySelector('.arrow-sign')
 const dropDown = document.querySelector('.file-picker-dropdown')
@@ -185,11 +196,11 @@ const handleDownload = () => {
         }
       }
       let zip = new JSZip()
-      let zipFiles = zip.folder(`${inputFile.name}-safeimagekit`)
+      let zipFiles = zip.folder(`${inputFile.name.split('.')[0]}-safeimagekit`)
       imagePieces.map((file, index) => {
         zipFiles.file(
           `${
-            inputFile.name.split('.')[0] + index + 1
+            inputFile.name.split('.')[0] + (index + 1)
           }-safeimagekit.${fileType}`,
           getBase64String(file),
           { base64: true }
@@ -204,7 +215,7 @@ const handleDownload = () => {
         'flex'
       document.querySelector('#download-zip').addEventListener('click', () => {
         zip.generateAsync({ type: 'blob' }).then(function (content) {
-          saveAs(content, `${inputFile.name}-safeimagekit.zip`)
+          saveAs(content, `${inputFile.name.split('.')[0]}-safeimagekit.zip`)
           if (lang === 'en') {
             window.location.href = `/download?tool=${pageTool}`
           } else {
