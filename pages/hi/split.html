@@ -9,3 +9,66 @@ folderName: feature
 ---
 
 {%- include split.html -%}
+
+
+{% if jekyll.environment == 'production' and site.addmonumetricId %}
+<script>
+    const autoLoadDuration = 5; //In Seconds
+    const eventList = ["keydown", "mousemove", "wheel", "touchmove", "touchstart", "touchend"];
+
+    const autoLoadTimeout = setTimeout(runScripts, autoLoadDuration * 1000);
+
+    eventList.forEach(function (event) {
+        window.addEventListener(event, triggerScripts, { passive: true })
+    });
+
+    function triggerScripts() {
+        runScripts();
+        clearTimeout(autoLoadTimeout);
+        eventList.forEach(function (event) {
+            window.removeEventListener(event, triggerScripts, { passive: true });
+        });
+    }
+
+    function runScripts() {
+        console.log(document.querySelector("script"))
+        console.log("Javascript Executed!")
+        console.log(document.querySelectorAll("script[delay]"))
+        document.querySelectorAll("script[delay]").forEach(function (scriptTag) {
+            scriptTag.setAttribute("src", scriptTag.getAttribute("delay"));
+        });
+    }
+</script>
+<script type="text/javascript" defer delay="{{site.addmonumetricId}}" data-cfasync="false"></script>
+{% endif %}
+
+{% if jekyll.environment == 'development' and site.addmonumetricId %}
+<script>
+    const autoLoadDuration = 5; //In Seconds
+    const eventList = ["keydown", "mousemove", "wheel", "touchmove", "touchstart", "touchend"];
+
+    const autoLoadTimeout = setTimeout(runScripts, autoLoadDuration * 1000);
+
+    eventList.forEach(function (event) {
+        window.addEventListener(event, triggerScripts, { passive: true })
+    });
+
+    function triggerScripts() {
+        runScripts();
+        clearTimeout(autoLoadTimeout);
+        eventList.forEach(function (event) {
+            window.removeEventListener(event, triggerScripts, { passive: true });
+        });
+    }
+
+    function runScripts() {
+        console.log(document.querySelector("script"))
+        console.log("Javascript Executed!")
+        console.log(document.querySelectorAll("script[delay]"))
+        document.querySelectorAll("script[delay]").forEach(function (scriptTag) {
+            scriptTag.setAttribute("src", scriptTag.getAttribute("delay"));
+        });
+    }
+</script>
+<script type="text/javascript" delay="{{site.addmonumetricId}}"></script>
+{% endif %}
