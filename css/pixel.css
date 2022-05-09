@@ -130,7 +130,6 @@
 }
 .options-panel .title {
   width: 100%;
-  margin-bottom: 20px;
   font-size: 28px;
   line-height: 36px;
   color: #000;
@@ -257,11 +256,10 @@
 #download-button svg {
   fill: #fff;
   margin-right: 4px;
+  margin-bottom: 4px;
   height: 20px;
 }
-.action-buttons:hover {
-  background: #0050e5;
-}
+
 #saving-data {
   margin-top: 48px;
 }
@@ -376,8 +374,6 @@
 }
 
 .colorpalette {
-  margin-top: 18px;
-  margin-bottom: 18px;
   text-transform: uppercase;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -393,7 +389,6 @@
 }
 .colorpalette .text {
   margin-right: 15px;
-  margin-bottom: 10px;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -463,9 +458,156 @@
   display: flex;
   width: 100%;
   justify-content: space-between;
-  padding: 16px 20px;
+  padding: 12px 0px;
 }
 .block-wrapper {
   display: flex;
-  padding: 16px 0px;
+  padding: 12px 0px;
+}
+#blockvalue {
+  background: #eeeeee;
+  padding: 2px 4px;
+  border-radius: 5px;
+  margin-left: 4px;
+}
+
+.filter-wrapper label {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 15px;
+}
+
+/* Hide the browser's default checkbox */
+.filter-wrapper input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkbox-checkmark {
+  position: absolute;
+  height: 22px;
+  width: 22px;
+  border-radius: 4px;
+  background-color: #eeeeee;
+}
+
+/* On mouse-over, add a grey background color */
+.filter-wrapper label:hover input ~ .checkbox-checkmark {
+  background-color: #eeeeee;
+}
+
+/* When the checkbox is checked, add a blue background */
+.filter-wrapper label input:checked ~ .checkbox-checkmark {
+  background-color: #ff5975;
+}
+
+/* Create the checkbox-checkmark/indicator (hidden when not checked) */
+.checkbox-checkmark:after {
+  content: '';
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkbox-checkmark when checked */
+.filter-wrapper label input:checked ~ .checkbox-checkmark:after {
+  display: block;
+}
+
+/* Style the checkbox-checkmark/indicator */
+.filter-wrapper label .checkbox-checkmark:after {
+  left: 8px;
+  top: 4px;
+  width: 6px;
+  height: 11px;
+  border: solid #eeeeee;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+input[type='range'] {
+  width: 100%;
+  -webkit-appearance: none;
+}
+input[type='range']:focus {
+  outline: none;
+}
+input[type='range']::-webkit-slider-thumb:focus {
+  background-color: #ff5975;
+}
+input[type='range']::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 3px;
+  cursor: pointer;
+  box-shadow: none;
+  background: #ccc;
+  border-radius: 0px;
+  border: 0px solid #ff5975;
+}
+input[type='range']::-moz-range-track {
+  width: 100%;
+  height: 3px;
+  cursor: pointer;
+  box-shadow: none;
+  background: #ccc;
+  border-radius: 0px;
+  border: 0px solid #ff5975;
+}
+input[type='range']::-webkit-slider-thumb {
+  box-shadow: none;
+  border: 0px solid #fff;
+  height: 15px;
+  width: 15px;
+  border-radius: 22px;
+  background: #ff5975;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -5px;
+}
+input[type='range']::-moz-range-thumb {
+  box-shadow: none;
+  border: 0px solid #fff;
+  height: 42px;
+  width: 22px;
+  border-radius: 22px;
+  background: #ff5975;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -20px;
+}
+input[type='range']::-moz-focus-outer {
+  border: 0;
+}
+.divider {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #ddd;
+}
+#reset {
+  border: none;
+  color: #0f0c0c;
+  font-size: 15px;
+  background: #fff;
+  padding: 0px;
+  padding: 4px 14px;
+  border-radius: 5px;
+}
+#reset:hover {
+  background: #ff597556;
+}
+#reset i {
+  color: #ff5975;
+  font-size: 15px;
+  margin-right: 3px;
+  margin-bottom: 0px;
 }

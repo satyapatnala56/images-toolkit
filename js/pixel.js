@@ -7,10 +7,13 @@ const downloadButton = document.querySelector('#download-button')
 const maxheight = document.querySelector('#maxheight')
 const maxwidth = document.querySelector('#maxwidth')
 const blocksize = document.querySelector('#blocksize')
-const palette = document.querySelector('#palette')
 const greyscale = document.querySelector('#greyscale')
+const reset = document.querySelector('#reset')
 let imgHeight = getDetail.dataset.height
 let imgWidth = getDetail.dataset.width
+let palettechecked = false
+let imageOriginalHeight = null
+let imageOriginalWidth = null
 
 let px = null
 downloadButton.addEventListener('click', function (e) {
@@ -204,6 +207,8 @@ const handleFile = (file) => {
       if (e.target.result) {
         let image = new Image()
         image.onload = () => {
+          imageOriginalHeight = image.height
+          imageOriginalWidth = image.width
           maxheight.value = imgHeight !== '0' ? Number(imgHeight) : image.height
           maxwidth.value = imgWidth !== '0' ? Number(imgWidth) : image.width
           image.setAttribute('id', 'pixel-img')
@@ -226,13 +231,13 @@ const stopLoading = () => {
   fileDropBox.style.display = 'none'
 }
 const pixelitimg = () => {
-  px.setScale(blocksize.value)
+  px.setScale(27 - blocksize.value)
     .setPalette(paletteList[currentPalette])
     .draw()
     .pixelate()
 
   greyscale.checked ? px.convertGrayscale() : null
-  palette.checked ? px.convertPalette() : null
+  palettechecked ? px.convertPalette() : null
   maxheight.value ? px.setMaxHeight(maxheight.value).resizeImage() : null
   maxwidth.value ? px.setMaxWidth(maxwidth.value).resizeImage() : null
 }
@@ -259,7 +264,7 @@ new SlimSelect({
   select: '#paletteselector',
   onChange: (info) => {
     currentPalette = info.value
-    palette.checked = true
+    palettechecked = true
     pixelitimg()
   },
 })
@@ -291,5 +296,12 @@ blocksize.addEventListener('change', function (e) {
 })
 
 greyscale.addEventListener('change', pixelitimg)
-//palette
-palette.addEventListener('change', pixelitimg)
+reset.addEventListener('click', () => {
+  palettechecked = false
+  greyscale.checked = false
+  maxheight.value = imageOriginalHeight
+  maxwidth.value = imageOriginalWidth
+  blocksize.value = 2
+  document.querySelector('#blockvalue').innerText = 2
+  pixelitimg()
+})
