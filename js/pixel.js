@@ -7,10 +7,14 @@ const downloadButton = document.querySelector('#download-button')
 const maxheight = document.querySelector('#maxheight')
 const maxwidth = document.querySelector('#maxwidth')
 const blocksize = document.querySelector('#blocksize')
-const palette = document.querySelector('#palette')
 const greyscale = document.querySelector('#greyscale')
+const palette = document.querySelector('#palette')
+const palettes = document.querySelector('#palettes')
+const reset = document.querySelector('#reset')
 let imgHeight = getDetail.dataset.height
 let imgWidth = getDetail.dataset.width
+let imageOriginalHeight = null
+let imageOriginalWidth = null
 
 let px = null
 downloadButton.addEventListener('click', function (e) {
@@ -204,6 +208,8 @@ const handleFile = (file) => {
       if (e.target.result) {
         let image = new Image()
         image.onload = () => {
+          imageOriginalHeight = image.height
+          imageOriginalWidth = image.width
           maxheight.value = imgHeight !== '0' ? Number(imgHeight) : image.height
           maxwidth.value = imgWidth !== '0' ? Number(imgWidth) : image.width
           image.setAttribute('id', 'pixel-img')
@@ -226,7 +232,7 @@ const stopLoading = () => {
   fileDropBox.style.display = 'none'
 }
 const pixelitimg = () => {
-  px.setScale(blocksize.value)
+  px.setScale(27 - blocksize.value)
     .setPalette(paletteList[currentPalette])
     .draw()
     .pixelate()
@@ -291,5 +297,21 @@ blocksize.addEventListener('change', function (e) {
 })
 
 greyscale.addEventListener('change', pixelitimg)
-//palette
-palette.addEventListener('change', pixelitimg)
+reset.addEventListener('click', () => {
+  palette.checked = false
+  greyscale.checked = false
+  maxheight.value = imageOriginalHeight
+  maxwidth.value = imageOriginalWidth
+  blocksize.value = 2
+  palettes.style.display = 'none'
+  document.querySelector('#blockvalue').innerText = 2
+  pixelitimg()
+})
+palette.addEventListener('change', () => {
+  if (palette.checked) {
+    palettes.style.display = 'block'
+  } else {
+    palettes.style.display = 'none'
+  }
+  pixelitimg()
+})
