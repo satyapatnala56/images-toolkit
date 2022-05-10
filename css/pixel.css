@@ -457,15 +457,18 @@
 .filter-wrapper {
   display: flex;
   width: 100%;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: left;
   padding: 12px 0px;
+  gap: 6px;
+  padding-bottom: 0px;
 }
 .block-wrapper {
   display: flex;
   padding: 12px 0px;
 }
 #blockvalue {
-  background: #eeeeee;
+  background: #ccc;
   padding: 2px 4px;
   border-radius: 5px;
   margin-left: 4px;
@@ -476,6 +479,7 @@
   position: relative;
   cursor: pointer;
   font-size: 22px;
+  margin-right: auto;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -498,12 +502,12 @@
   height: 22px;
   width: 22px;
   border-radius: 4px;
-  background-color: #eeeeee;
+  background-color: #ccc;
 }
 
 /* On mouse-over, add a grey background color */
 .filter-wrapper label:hover input ~ .checkbox-checkmark {
-  background-color: #eeeeee;
+  background-color: #ccc;
 }
 
 /* When the checkbox is checked, add a blue background */
@@ -529,7 +533,7 @@
   top: 4px;
   width: 6px;
   height: 11px;
-  border: solid #eeeeee;
+  border: solid #fff;
   border-width: 0 3px 3px 0;
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
@@ -610,4 +614,7 @@ input[type='range']::-moz-focus-outer {
   font-size: 15px;
   margin-right: 3px;
   margin-bottom: 0px;
+}
+#palettes {
+  display: none;
 }

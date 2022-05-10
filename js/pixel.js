@@ -8,10 +8,11 @@ const maxheight = document.querySelector('#maxheight')
 const maxwidth = document.querySelector('#maxwidth')
 const blocksize = document.querySelector('#blocksize')
 const greyscale = document.querySelector('#greyscale')
+const palette = document.querySelector('#palette')
+const palettes = document.querySelector('#palettes')
 const reset = document.querySelector('#reset')
 let imgHeight = getDetail.dataset.height
 let imgWidth = getDetail.dataset.width
-let palettechecked = false
 let imageOriginalHeight = null
 let imageOriginalWidth = null
 
@@ -237,7 +238,7 @@ const pixelitimg = () => {
     .pixelate()
 
   greyscale.checked ? px.convertGrayscale() : null
-  palettechecked ? px.convertPalette() : null
+  palette.checked ? px.convertPalette() : null
   maxheight.value ? px.setMaxHeight(maxheight.value).resizeImage() : null
   maxwidth.value ? px.setMaxWidth(maxwidth.value).resizeImage() : null
 }
@@ -264,7 +265,7 @@ new SlimSelect({
   select: '#paletteselector',
   onChange: (info) => {
     currentPalette = info.value
-    palettechecked = true
+    palette.checked = true
     pixelitimg()
   },
 })
@@ -297,11 +298,20 @@ blocksize.addEventListener('change', function (e) {
 
 greyscale.addEventListener('change', pixelitimg)
 reset.addEventListener('click', () => {
-  palettechecked = false
+  palette.checked = false
   greyscale.checked = false
   maxheight.value = imageOriginalHeight
   maxwidth.value = imageOriginalWidth
   blocksize.value = 2
+  palettes.style.display = 'none'
   document.querySelector('#blockvalue').innerText = 2
+  pixelitimg()
+})
+palette.addEventListener('change', () => {
+  if (palette.checked) {
+    palettes.style.display = 'block'
+  } else {
+    palettes.style.display = 'none'
+  }
   pixelitimg()
 })
