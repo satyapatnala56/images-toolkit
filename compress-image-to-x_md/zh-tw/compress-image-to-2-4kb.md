@@ -7,7 +7,6 @@ tool: imgcompression
 lang: zh-tw
 size: 2.4
 type: kb
-nointernationalization: true
 ---
+
 {%- include compress-image-to-X.html -%}
-      

@@ -7,7 +7,6 @@ tool: imgcompression
 lang: vi
 size: 480
 type: kb
-nointernationalization: true
 ---
+
 {%- include compress-image-to-X.html -%}
-      

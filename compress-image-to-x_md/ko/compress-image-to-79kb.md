@@ -7,7 +7,6 @@ tool: imgcompression
 lang: ko
 size: 79
 type: kb
-nointernationalization: true
 ---
+
 {%- include compress-image-to-X.html -%}
-      
