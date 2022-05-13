@@ -1,18 +1,18 @@
 const fs = require('fs')
 const fm = require('front-matter')
-let home = {
-  path: './index.html',
-}
+// let home = {
+//   path: './index.html',
+// }
 
 let features = {
-  dir: './allpages/',
+  dir: './compress-image-to-x_md/',
 }
 
-let fl = fs.readdirSync(features.dir + 'en')
+let fl = fs.readdirSync(features.dir)
 
-if (!fs.existsSync('home')) {
-  fs.mkdirSync('home')
-}
+// if (!fs.existsSync('home')) {
+//   fs.mkdirSync('home')
+// }
 
 let languages = {
   id: 'Bahasa Indonesia',
@@ -44,25 +44,25 @@ function replace(data, code) {
   return d
 }
 
-let home_data = fs.readFileSync(home.path, 'utf8')
+// let home_data = fs.readFileSync(home.path, 'utf8')
 
 for (let [code, text] of Object.entries(languages)) {
   if (!fs.existsSync(features.dir + code)) {
     fs.mkdirSync(features.dir + code)
   }
-  if (!fs.existsSync('home/' + code)) {
-    fs.mkdirSync('home/' + code)
-  }
+  // if (!fs.existsSync('home/' + code)) {
+  //   fs.mkdirSync('home/' + code)
+  // }
 
-  let nh = replace(home_data, code)
-  nh = nh.replace(/permalink.*/, 'permalink: ' + code)
+  // let nh = replace(home_data, code)
+  // nh = nh.replace(/permalink.*/, 'permalink: ' + code)
 
-  console.log(nh)
+  // console.log(nh)
 
-  fs.writeFileSync(code + '-index.md', nh)
+  // fs.writeFileSync(code + '-index.md', nh)
 
   for (file of fl) {
-    let fd = fs.readFileSync(features.dir + 'en/' + file, 'utf8')
+    let fd = fs.readFileSync(features.dir + file, 'utf8')
     console.log(file)
     let content = fm(fd)
     let nf = replace(fd, code)
