@@ -1,0 +1,657 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "H1": "Tolles Tool, um Bilder schnell auf 1,8 KB zu komprimieren.",
+    "img": "/img/compressimage.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "info",
+    "H2": "Beste Bildkompressor online.",
+    "TITLE": "Bild auf 1,8 KB komprimieren - Das beste Tool, um die Bildgröße einfach zu komprimieren.",
+    "META": "Komprimieren Sie das Bild auf diese einfache Weise auf 1,8 KB, ohne an Qualität zu verlieren. Das beste Tool zum Komprimieren von Bildern gemäß Ihren Anforderungen. Komprimieren Sie das Bild mit diesem Tool wie ein Profi auf 1,8 KB. Dieses magische Tool komprimiert Bilder sofort mit nur wenigen Klicks. Sie müssen keine Software installieren.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ad81ee",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Bilder-Größenanpassungen in kb/mb",
+                "links": [
+                    {
+                        "name": "Bild auf 256 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-256-kb"
+                    },
+                    {
+                        "name": "Bild auf 100 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-100-kb"
+                    },
+                    {
+                        "name": "Bild auf 500 kb komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-500-kb"
+                    },
+                    {
+                        "name": "Bild auf 100 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-100-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 200 kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-200-kb"
+                    },
+                    {
+                        "name": "Bild auf 30 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-30-kb"
+                    },
+                    {
+                        "name": "Bild auf 9 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-9-kb"
+                    },
+                    {
+                        "name": "Bild auf 6 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-6-kb"
+                    },
+                    {
+                        "name": "Bild auf 3 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-3-kb"
+                    },
+                    {
+                        "name": "Bild auf 25 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-25-kb"
+                    },
+                    {
+                        "name": "Bild auf 600 kb komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-600-kb"
+                    },
+                    {
+                        "name": "Bild auf 300 kb komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-300-kb"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Bilder-Größenanpassungen in kb/mb",
+                "links": [
+                    {
+                        "name": "komprimiere das Bild auf 11,8 KB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-11-8-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 4,4 KB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-4-4-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 2,4 KB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-2-4-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 240 kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-240-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 2,4 KB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-2-4-kb"
+                    },
+                    {
+                        "name": "Bild auf 720 kb komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-720-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 399kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-399-kb"
+                    },
+                    {
+                        "name": "Bild auf 71 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-71-kb"
+                    },
+                    {
+                        "name": "komprimiere Bild auf 1.8kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-1-8-kb"
+                    },
+                    {
+                        "name": "Bild auf 50 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-50-kb"
+                    },
+                    {
+                        "name": "Bild auf 20 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-20-kb"
+                    },
+                    {
+                        "name": "Bild auf 8 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-8-kb"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Bilder-Größenanpassungen in kb/mb",
+                "links": [
+                    {
+                        "name": "Bild auf 15 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-15-kb"
+                    },
+                    {
+                        "name": "Bild auf 414 kb komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-414-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 173 kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-173-kb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 299 kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-299-kb"
+                    },
+                    {
+                        "name": "Bild auf 480 kb komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-480-kb"
+                    },
+                    {
+                        "name": "Bild auf 27 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-27-kb"
+                    },
+                    {
+                        "name": "Bild auf 425 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-425-kb"
+                    },
+                    {
+                        "name": "Bild auf 79 KB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-79-kb"
+                    },
+                    {
+                        "name": "Bild auf 2 MB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-2-mb"
+                    },
+                    {
+                        "name": "Bild auf 1 MB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-1-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 1,5 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-1-5-mb"
+                    },
+                    {
+                        "name": "Bild auf 5 MB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-5-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 10 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-10-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 3 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-3-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 20 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-20-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 1.8mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-1-8-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 8 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-8-mb"
+                    },
+                    {
+                        "name": "Bild auf 4 MB komprimieren ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-4-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 1,3 mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-1-3-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 2,6 mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-2-6-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 1,2 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-1-2-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 3,5 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-3-5-mb"
+                    },
+                    {
+                        "name": "komprimiere das Bild auf 6 MB ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-6-mb"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Bilder-Größenanpassungen in kb/mb",
+                "links": [
+                    {
+                        "name": "Bild auf 2 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-2-kb"
+                    },
+                    {
+                        "name": "Bild auf 3 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-3-kb"
+                    },
+                    {
+                        "name": "Bild auf 4 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-4-kb"
+                    },
+                    {
+                        "name": "Bild auf 5 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-5-kb"
+                    },
+                    {
+                        "name": "Bild auf 6 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-6-kb"
+                    },
+                    {
+                        "name": "Bild auf 9 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-9-kb"
+                    },
+                    {
+                        "name": "Bild auf 10 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-10-kb"
+                    },
+                    {
+                        "name": "Bild auf 12 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-12-kb"
+                    },
+                    {
+                        "name": "Bild auf 15 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-15-kb"
+                    },
+                    {
+                        "name": "Bild auf 16 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-16-kb"
+                    },
+                    {
+                        "name": "Bild auf 17 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-17-kb"
+                    },
+                    {
+                        "name": "Bild auf 18 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-18-kb"
+                    },
+                    {
+                        "name": "Bild auf 19 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-19-kb"
+                    },
+                    {
+                        "name": "Bild auf 20 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-20-kb"
+                    },
+                    {
+                        "name": "Bild auf 22 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-22-kb"
+                    },
+                    {
+                        "name": "Bild auf 24 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-24-kb"
+                    },
+                    {
+                        "name": "Bild auf 25 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-25-kb"
+                    },
+                    {
+                        "name": "Bild auf 30 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-30-kb"
+                    },
+                    {
+                        "name": "Bild auf 35 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-35-kb"
+                    },
+                    {
+                        "name": "Bild auf 40 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-40-kb"
+                    },
+                    {
+                        "name": "Bild auf 45 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-45-kb"
+                    },
+                    {
+                        "name": "Bild auf 50 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-50-kb"
+                    },
+                    {
+                        "name": "Bild auf 60 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-60-kb"
+                    },
+                    {
+                        "name": "Bild auf 64 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-64-kb"
+                    },
+                    {
+                        "name": "Bild auf 70 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-70-kb"
+                    },
+                    {
+                        "name": "Bild auf 75 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-75-kb"
+                    },
+                    {
+                        "name": "Bild auf 80 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-80-kb"
+                    },
+                    {
+                        "name": "Bild auf 90 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-90-kb"
+                    },
+                    {
+                        "name": "Bild auf 100 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-100-kb"
+                    },
+                    {
+                        "name": "Bild auf 120 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-120-kb"
+                    },
+                    {
+                        "name": "Bild auf 130 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-130-kb"
+                    },
+                    {
+                        "name": "Bild auf 140 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-140-kb"
+                    },
+                    {
+                        "name": "Bild auf 150 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-150-kb"
+                    },
+                    {
+                        "name": "Bild auf 180 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-180-kb"
+                    },
+                    {
+                        "name": "Bild auf 200 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-200-kb"
+                    },
+                    {
+                        "name": "Bild auf 220 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-220-kb"
+                    },
+                    {
+                        "name": "Bild auf 228 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-228-kb"
+                    },
+                    {
+                        "name": "Bild auf 250 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-250-kb"
+                    },
+                    {
+                        "name": "Bild auf 256 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-256-kb"
+                    },
+                    {
+                        "name": "Bild auf 300 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-300-kb"
+                    },
+                    {
+                        "name": "Bild auf 350 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-350-kb"
+                    },
+                    {
+                        "name": "Bild auf 388kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-388-kb"
+                    },
+                    {
+                        "name": "Bild auf 400 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-400-kb"
+                    },
+                    {
+                        "name": "Bild auf 450 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-450-kb"
+                    },
+                    {
+                        "name": "Bild auf 480 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-480-kb"
+                    },
+                    {
+                        "name": "Bild auf 500 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-500-kb"
+                    },
+                    {
+                        "name": "Bild auf 510 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-510-kb"
+                    },
+                    {
+                        "name": "Bild auf 512 KB komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-512-kb"
+                    },
+                    {
+                        "name": "Bild auf 600 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-600-kb"
+                    },
+                    {
+                        "name": "Bild auf 800 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-800-kb"
+                    },
+                    {
+                        "name": "Bild auf 1024 kb komprimieren",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/compress-image-to-1024-kb"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "High Quality",
+            "content": "Our compress image to 1.8kb program reduces the size of images while maintaining their quality. You may drag & drop or select images to compress quickly without sacrificing quality. Because there are no technological requirements, even non-technical people can complete the method. When compressing image files, you can also use the available parameters to complete the process as efficiently as possible."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Data Security",
+            "content": "When uploading images to a website for compression, it's natural to get concerned about their security. We make every effort to keep your images safe. Because our compress image to 1.8kb tool does not upload any images to the server and instead does all of its operations within the browser. As a result, we can guarantee that our consumers are completely safe. Our servers do not allow us to see, share, or store them. As you use our services, we guarantee complete confidentiality and privacy."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilty",
+            "content": "Our compress image to 1.8kb tool works with a broad variety of popular browsers and devices. This is browser-based and works independently of your operating system. As a result, you will have easy access to this tool. When you use the compress image to 1.8kb tool, it automatically adjusts to any screen size, allowing you to use it on your desktop computer, tablet computer, or mobile phone, depending on your preferences."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "User friendly",
+            "content": "With this application, you can easily compress your images. Our compress image to 1.8kb tool is very simple to use; It is not necessary to be a professional to use it. All users are welcome to use this tool. Because everything is in one spot, you won't have to guess where to begin editing. Even large images are compressed within seconds. Furthermore, our compress image to 1.8kb application is ad-free, providing the end-user with a more delightful user experience."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Free of cost",
+            "content": "You can use all of our tools for free, including our compress image to 1.8kb tool. You can freely and easily compress your image files. It's an easy-to-use and secure tool. This program is also OS-agnostic. You do not have to register or sign in to use the compress image to 1.8kb tool. You can compress your images to the 1.8kb as many times as you want."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "No additional download",
+            "content": "We've built our compress image to 1.8kb tool entirely in the browser, so there's no need to install any other software on your computer or device. As a result, you have complete freedom to make use of it whenever you wish. Simply copy and paste the URL of our website into the address bar of your web browser to complete the process of registering with us."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "How to compress images to 1.8kb by using this tool.",
+        "steps": [
+            "Upload the image file or Click on the drop down arrow and select Dropbox/Google Drive",
+            "Image Compressor will compress your file while maintaining image quality",
+            "Download the image file using the download option."
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "What is image compression? Why do we need image compression?",
+            "answer": "Image compression aims to eliminate image data redundancy and irrelevance in order to store or transmit data more efficiently. Its goal is to reduce the number of bits necessary to represent an image. There are two types of image compression: lossy and lossless. The key benefits of compression are storage hardware savings, data transmission time savings, and communication bandwidth savings. This can save you a lot of money. Compressed files require far less storage capacity than uncompressed data, resulting in significant savings in storage costs."
+        },
+        {
+            "question": "What does an image compressor do?",
+            "answer": "The technical process of compressing an image file size without sacrificing its quality is known as image compression. This results in the digital image retaining its appearance and physical qualities, but at a significantly lower size, which takes up less space and is appropriate for posting to relevant websites. The smaller file size helps you to save the image more economically and efficiently, as the amount of memory space it takes up will be greatly reduced, and the amount of time and bandwidth necessary to upload and download the image will be significantly reduced."
+        },
+        {
+            "question": "What are the types of image compressions?",
+            "answer": "There are lossless and lossy image compression algorithms available. It is feasible to reduce the size of a compressed file without affecting image quality. Lossless compression, in general, but not always, results in larger files than lossy compression. It's advisable to use lossless compression when working with images to reduce the number of recompression stages. Lossy coding compression algorithms preserve a representation of the original uncompressed image that may appear flawless but aren't quite a replica. Lossy compression, when compared to lossless compression, typically results in smaller file sizes. In lossy compression methods, variable compression, which compromises image quality for file size, is prevalent."
+        },
+        {
+            "question": "How does compress image to 1.8kb tool dimensions tool work?",
+            "answer": "Click Choose File to upload an image from your device, or use the drop-down menu to submit an image from Dropbox or Google Drive. You may now select the files you want to upload. These factors include the name of the image, its size, its type, and so on once we upload it. The last updated parameter provides us with the time, date, and time zone where it was last modified. This also displays a progress indicator after uploading and before we begin altering the picture file that was uploaded. It allows the user to change the image's proportions by modifying the metrics such as width and height. The max-height and max-width settings give the user a maximum limit for photo compression. While the min-width and min-height parameters provide the user with a lower limit for photo compression. The convert size option allows the user to compress the entire image. After uploading the image, go to the Enter the quality section to access the quality modification feature. This affects the overall sharpness, contrast, blur (in small amounts), and many other image properties. The Mimetype option allows the user to select the format of the image after it has been compressed."
+        },
+        {
+            "question": "Is it possible to uncompress an image?",
+            "answer": "No quality is gained by converting it to a lossless format after it has been compressed. Lossy compression, by definition, discards information that can never be recovered. This indicates that an image cannot be uncompressed once it has been compressed."
+        },
+        {
+            "question": "What is image compression ratio?",
+            "answer": "The ratio of uncompressed to compressed size is known as the data compression ratio. For example, a representation that decreases a file's storage space from 100 KB to 50 KB has a compression ratio of 100/50 = 2, often notated as an explicit ratio, 2:1, or as an implicit ratio, 2/1."
+        },
+        {
+            "question": "Does compression alter the size of an image?",
+            "answer": "Yes, by compressing images in your document, you can minimize the file size and conserve disc space. Based on how you intend to use the image, such as viewing on screen or in an email message, the compression choices minimize both the file size and image dimensions."
+        },
+        {
+            "question": "Do I need to log in or download any software to use this compress mage to 1.8kb tool?",
+            "answer": "No, our compress image to 1.8kb tool is entirely online and does not require you to share any of your personal information with us, such as your email address or password. Our service is entirely free. There is no need to download software or sign up for a service because our compress image to 1.8kb tool is saved locally in your web browser."
+        },
+        {
+            "question": "What's the difference between compressor and limiter?",
+            "answer": "Only the compression ratio is different between a compressor and a limiter. A limiter is a device that limits the maximum level to a set value, usually to avoid overloading. A compressor, as opposed to a limiter, is used for less drastic, more creative dynamic control, and it frequently uses lower compression ratios."
+        },
+        {
+            "question": "Is compress image to 1.8kb tool safe to use?",
+            "answer": "Yes, giving us access to your drive is completely safe. We won't make any changes to your site, and your files will remain safe in your possession. You may simply compress any image using the compress image to 1.8kb tool. It does not, however, degrade the sharpness of the original image in any way. It's completely free to use and can be accessed from any computer or mobile device."
+        },
+        {
+            "question": "What image formats does compress image to 1.8kb tool support?",
+            "answer": "There are now five types of image formats available. You can adjust the image's format to meet your needs. WEBP, PNG, JPG, JPEG, and GIF are among the formats available. If you want to maintain the format the same, select the option 'Enter the mime type.' After uploading the image, go to the bottom of the page and select the 'Mime type' option, then save your modifications. "
+        },
+        {
+            "question": "Is it possible to compress many images at the same time by using compress image to 1.8kb tool?",
+            "answer": "Yes, you can compress black and white images using our compress image to 1.8kb tool."
+        },
+        {
+            "question": "Does the compress image to 1.8kb tool support both Android and iOS platforms?",
+            "answer": "Yes, our compress image to 1.8kb tool is mobile-friendly, which means it works on both Android and iOS devices. It is compatible with all operating systems. It is developed with the most recent code and features, allowing the user to compress any image submitted by the user on any operating system, including MAC OS, Windows, and Ubuntu, as long as the device has a reliable internet connection. The secret is that it works even with a sluggish internet connection."
+        },
+        {
+            "question": "Can I compress an image to 1.8kb tool without losing quality?",
+            "answer": "By using the compress image to 1.8kb tool, you can minimize the size of images without sacrificing their quality. Unless otherwise specified, the aspect ratio of the expanded image will be the same as the aspect ratio of the original image."
+        },
+        {
+            "question": "What does compress option mean for images?",
+            "answer": "Image compression is the technique of reducing the size of a graphics file in bytes while maintaining image quality at an acceptable level. Because of the reduction in file size, more images can be stored in a given amount of disc or memory space than previously possible."
+        },
+        {
+            "question": "What are the features of the compress image to 1.8kb tool that you can use to compress an image?",
+            "answer": "While compressing an image file, the compress image to 1.8kb tool provides a variety of options. The most important features are the ability to modify an uploaded image by modifying its dimensions, such as its height, breadth, and other attributes. Additionally, this image compression tool displays the compression by entering size, which can be increased or decreased to a maximum or minimum depending on the uploaded image. A strict mode and an orientation mode are also provided for exact and rotational adjustment with this feature. The image compressor also provides the opportunity for the user to alter the quality of the image as well as the ability to convert the image's format to the user's benefit."
+        },
+        {
+            "question": "Will my file be saved after I complete working on the compress image to 1.8kb tool?",
+            "answer": "No, we do not send any of your files to our servers all the operations are done on the browser itself therefore all your files are completely safe."
+        }
+    ],
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/compress-image-to-xsize.css' />"
+    ]
+}
