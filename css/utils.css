@@ -378,3 +378,11 @@ pre{
   padding: 11px 18px;
   width: 155px;
 }
+.loader-box {
+  background: url('../spinner.gif');
+  height: 70px;
+  width: 70px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
