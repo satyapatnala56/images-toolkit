@@ -40,3 +40,15 @@
   to = "https://safeimagekitconv.netlify.app/conv/:splat"
   force = true
   status = 200
+  
+  [[redirects]]
+  from = "/facebook/sitemap.xml"
+  to = "https://imagekit-facebook.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/facebook*"
+  to = "https://imagekit-facebook.netlify.app/facebook/:splat"
+  force = true
+  status = 200
