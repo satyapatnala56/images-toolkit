@@ -1,7 +1,46 @@
 [
     {
         "website": "Safeimagekit.com",
-        "feature": "image splitter"
+        "feature": "twitter profile picture resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "twitter header image resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "linkedin background photo resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "instagram profile picture resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "instagram story image resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "facebook profile picture resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "facebook cover photo resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "facebook post image resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "discord profile pic resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": "youtube thumbnail resizer"
+    },
+    {
+        "website": "Safeimagekit.com",
+        "feature": " youtube channel art resizer"
     }
-   
 ]
