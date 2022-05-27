@@ -40,3 +40,76 @@
   to = "https://safeimagekitconv.netlify.app/conv/:splat"
   force = true
   status = 200
+  
+  [[redirects]]
+  from = "/twitter/sitemap.xml"
+  to = "https://safeimagekit-twitter.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/twitter*"
+  to = "https://safeimagekit-twitter.netlify.app/twitter/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/instagram/sitemap.xml"
+  to = "https://safeimagekit-instagram.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/instagram*"
+  to = "https://safeimagekit-instagram.netlify.app/instagram/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/discord/sitemap.xml"
+  to = "https://safeimagekit-discord.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/discord*"
+  to = "https://safeimagekit-discord.netlify.app/discord/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/linkedin/sitemap.xml"
+  to = "https://safeimagekit-linkedin.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/linkedin*"
+  to = "https://safeimagekit-linkedin.netlify.app/linkedin/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/facebook/sitemap.xml"
+  to = "https://safeimagekit-facebook.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/facebook*"
+  to = "https://safeimagekit-facebook.netlify.app/facebook/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/youtube/sitemap.xml"
+  to = "https://safeimagekit-youtube.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/youtube*"
+  to = "https://safeimagekit-youtube.netlify.app/youtube/:splat"
+  force = true
+  status = 200
+  

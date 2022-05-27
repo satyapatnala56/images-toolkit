@@ -1,0 +1,81 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Free mirror image ",
+    "img": "/img/flip-image.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "nofileupload": true,
+    "variant": "danger",
+    "imgalt": "altvalue",
+    "keywords":"mirror image,mirror image online,mirror image online free,mirror image generator,mirror image tool,mirror image maker,mirror image on iphone,mirror image android,mirror image home,mirror image salon,mirror image twins,mirror image iphone,mirror image meaning,mirror image examples,mirror image face",
+    "H2": "Fastest online tool  for mirror image",
+    "TITLE": "Best online mirror image for free",
+    "META": "In a mirror image, everything is in reverse order. Here the right and left sides are reversed.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#D92B2B",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "",
+        "steps": [
+            
+        ]
+    },
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>"
+    ],
+    "jsfilepaths": [
+        "/js/mirror-image.js"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/mirror-image.css\" />"
+    ]
+}
+
+
