@@ -54,9 +54,14 @@
   ],
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to Resize SVG online for free.",
     "steps": [
-
+      "Upload the SVG file or Click on the drop-down arrow and select Dropbox/Google Drive",
+      "Adjust the size and style using the options provided.",
+      "Adjust the orientation of the SVG file.",
+      "Hit the save option to save the changes made.",
+      "Download the resized SVG using the download option.",
+      "Hurray!!! The resized SVG is ready to rock."
     ]
   },
   "FAQ": [
