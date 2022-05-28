@@ -55,7 +55,9 @@
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
     "heading": "",
-    "steps": []
+    "steps": [
+
+    ]
   },
   "FAQ": [
     {
