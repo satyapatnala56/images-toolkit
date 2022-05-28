@@ -25,38 +25,38 @@
     {
       "priority": 1,
       "logoUrl": "/img/featureproperty/highquality.png",
-      "header": "",
-      "content": ""
+      "header": "High Quality",
+      "content": "Our text to ASCII art generator tool converts the text to ASCII art by retaining its quality.\n"
     },
     {
-      "priority": 1,
+      "priority": "2",
       "logoUrl": "/img/featureproperty/security.png",
-      "header": "",
-      "content": ""
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers; all the operations are performed on the browser itself. This helps us to be 100% safe for our users.\n"
     },
     {
-      "priority": 1,
+      "priority": "3",
       "logoUrl": "/img/featureproperty/flexible.png",
-      "header": "",
-      "content": " "
+      "header": "Flexibility",
+      "content": " Our text to ASCII art generator tool works on almost all kinds of browsers and devices.\n"
     },
     {
-      "priority": 1,
+      "priority": "4",
       "logoUrl": "/img/featureproperty/userfriendly.png",
-      "header": "",
-      "content": ""
+      "header": "User friendly",
+      "content": "Our text to ASCII art generator tool is very easy to understand; no professional is needed to work on our tool.\n"
     },
     {
-      "priority": 1,
+      "priority": "5",
       "logoUrl": "/img/featureproperty/free.png",
-      "header": "",
-      "content": ""
+      "header": "Free of cost",
+      "content": "Our text to ASCII art generator tool is completely free of cost; you can use our tool without paying a single penny."
     },
     {
-      "priority": 1,
+      "priority": "6",
       "logoUrl": "/img/featureproperty/nodownload.png",
-      "header": "",
-      "content": ""
+      "header": "No additional download",
+      "content": "Our text to ASCII art generator tool is completely browser-based, and no additional software is required to be downloaded on your device."
     }
   ],
   "FAQ": [
