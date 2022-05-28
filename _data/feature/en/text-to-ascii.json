@@ -18,6 +18,7 @@
     "logoImageUrl": "/idea.svg",
     "heading": "",
     "steps": [
+
     ]
   },
   "TEXTUAL_CONTENT": [
@@ -70,7 +71,8 @@
     "<script src=\"/js/text-to-ascii/lib/jquery.js\"></script>",
     "<script src=\"/js/text-to-ascii/lib/debug.js\"></script>",
     "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/text-to-ascii/script.js\"></script>"
-
   ],
-  "csscdns": ["<link rel=\"stylesheet\" href=\"/css/text-to-ascii.css\" />"]
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"/css/text-to-ascii.css\" />"
+  ]
 }
