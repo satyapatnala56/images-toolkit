@@ -66,6 +66,14 @@
   ],
   "FAQ": [
     {
+      "question": "What are the text converting features provided by safeimagekit.com while converting a text to ASCII art?",
+      "answer": "The text to ASCII art generator tool feature from safeimagekit.com provides many features while generating an ASCII art. It lets the user adjust the dimensions of the art by adjusting the measurements such as width and height. The max height and the max width provide the user with a maximum limit of ASCII art."
+    },
+    {
+      "question": "What are the parameters provided by the ASCII art generator feature from safeimagekit.com after we upload a text?",
+      "answer": "The ASCII art generator feature from safeimagekit.com provides various parameters after we upload a text; these parameters include the name of the art, size of the art, style of the art, etc. The parameter is the last modified, where it gives us the time, date, and time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing."
+    },
+    {
       "question": "Is it safe to allow access to my drive?",
       "answer": "Yes, it is absolutely safe to permit and give access to your drive. We won't be making any changes to your site, and your files will be safe."
     },
@@ -74,8 +82,8 @@
       "answer": "Click on the drop-down arrow and select the file from your Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload and convert."
     },
     {
-      "question": "",
-      "answer": ""
+      "question": "What are the features offered by the “Text to ASCII art generator” feature from safeimagekit.com while converting the text to ASCII art?",
+      "answer": "The text to ASCII art converting tool feature from safeimagekit.com offers versatile features while converting the text. The main features include converting the text and uploading the art by adjusting the size of the art, such as height, width, etc. This text to ASCII art generator tool feature can be extended to max or min depending on the text uploaded. This feature also provides a strict mode and orientation mode for accurate rotation adjustment. The tool also provides the option to adjust the quality of the ASCII art and also lets the user convert the format of the text to the user’s advantage."
     }
   ],
   "jscdns": [
