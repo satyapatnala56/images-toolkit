@@ -66,6 +66,14 @@
   },
   "FAQ": [
     {
+      "question": "Can we resize 4k and 8k images using the Resize SVG online from safeimagekit.com?",
+      "answer": "No, currently, the resize feature from safeimagekit.com only offers to Resize SVG online features up to 1080p at its best. However, 4k image resizes options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
+    },
+    {
+      "question": "Can I use the Resize SVG online feature from safeimagekit.com on my LINUX operating system?",
+      "answer": "Yes, the Resize SVG online feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features, which enables the user to resize any image uploaded by the user on any operating system, such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+    },
+    {
       "question": "How does the “Mime type” option of Resize SVG online feature from safeimagekit.com work?",
       "answer": "The “Mime type” option of the Resize SVG online feature from safeimagekit.com lets the user choose the format of the image after resizing it using the Resize SVG online tool from safeimagekit.com. Currently, 5 types of image formats are available for the user. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type.” The “Mime type” option can be accessed at the bottom of the page after uploading the image and saving the changes made."
     },
