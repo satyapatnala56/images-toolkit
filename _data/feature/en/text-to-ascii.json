@@ -66,6 +66,14 @@
   ],
   "FAQ": [
     {
+      "question": "Can I use the ASCII art generator feature from safeimagekit.com on my LINUX operating system?",
+      "answer": "Yes, the ASCII art generator feature from safeimagekit.com can be used on any operating system, even LINUX. It is built with the latest code and features, which enables the user to convert a text to an art uploaded by the user on any operating system, such as MAC OS, Windows, and Ubuntu, provided there is a device with a stable internet connection. The magic trick is that it even works on a slower internet connection."
+    },
+    {
+      "question": "How does the quality adjustment option of the ASCII art generator feature from safeimagekit.com work?",
+      "answer": "The quality adjustment option of the ASCII art generator feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the art. This feature can be accessed from the “Enter the quality” space after uploading the text. This adjusts the sharpness, contrast, blur (in small amounts), and many other parameters on the whole. The user can decide on the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the art, this option can be ignored."
+    },
+    {
       "question": "What are the text converting features provided by safeimagekit.com while converting a text to ASCII art?",
       "answer": "The text to ASCII art generator tool feature from safeimagekit.com provides many features while generating an ASCII art. It lets the user adjust the dimensions of the art by adjusting the measurements such as width and height. The max height and the max width provide the user with a maximum limit of ASCII art."
     },
