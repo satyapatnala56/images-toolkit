@@ -46,10 +46,10 @@
       "content": "Our Resize SVG online tool is completely free of cost; you can use our tool without paying a single penny."
     },
     {
-      "priority": 1,
+      "priority": "6",
       "logoUrl": "/img/featureproperty/nodownload.png",
-      "header": "",
-      "content": ""
+      "header": "No additional download",
+      "content": "Our Resize SVG online tool is completely browser-based, and no additional software is required to be downloaded on your device."
     }
   ],
   "HOW_TO_CONTENT": {
@@ -66,8 +66,12 @@
   },
   "FAQ": [
     {
-      "question": "",
-      "answer": ""
+      "question": "How can I upload SVG from my drive/dropbox?",
+      "answer": "Click on the drop-down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the SVG that you want to upload."
+    },
+    {
+      "question": " Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site, and your SVG will be safe with you."
     }
   ],
   "jscdns": [
