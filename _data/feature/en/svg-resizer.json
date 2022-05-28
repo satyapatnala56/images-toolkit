@@ -66,6 +66,18 @@
   },
   "FAQ": [
     {
+      "question": "What are the image adjusting features provided by safeimagekit.com while resizing an image?",
+      "answer": "The Resize SVG online feature from safeimagekit.com provides many features while resizing an image. It lets the user adjust the dimensions of the image by adjusting the measurements, such as width and height. The max height and the max width provide the user with a maximum limit of photo resize. While the min-width and min-height provide the user with a minimum limit of the photo resize. The resize option lets the user resize on the whole."
+    },
+    {
+      "question": "What are the parameters provided by the Resize SVG online feature from safeimagekit.com after we upload an image?",
+      "answer": "The Resize SVG online feature from safeimagekit.com provides various parameters after we upload an image; these parameters include the name of the image, size of the image, type of the image, etc. The parameter is the last modified, where it gives us the time, date, and time zone where it was last modified. This also provides us with a progress bar after uploading and before starting the editing of the image file uploaded."
+    },
+    {
+      "question": "What are the features offered by the “Resize SVG online” feature from safeimagekit.com while Resize SVG online?",
+      "answer": "The Resize SVG online feature from safeimagekit.com offers versatile features while Resizing SVG online. The main features include Modifying the uploaded SVG by adjusting the dimensions of the image, such as height, width, etc. This Resize SVG online feature also presents the resize by entering size, which can be extended to max or min depending on the image uploaded. This feature also provides a strict mode and orientation mode for accurate rotation adjustment. The Resize SVG online also provides the option to adjust the quality of the image and also lets the user resize the format of the image to the user’s advantage."
+    },
+    {
       "question": "How can I upload SVG from my drive/dropbox?",
       "answer": "Click on the drop-down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the SVG that you want to upload."
     },
