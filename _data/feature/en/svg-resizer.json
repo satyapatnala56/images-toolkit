@@ -66,6 +66,14 @@
   },
   "FAQ": [
     {
+      "question": "How does the “Mime type” option of Resize SVG online feature from safeimagekit.com work?",
+      "answer": "The “Mime type” option of the Resize SVG online feature from safeimagekit.com lets the user choose the format of the image after resizing it using the Resize SVG online tool from safeimagekit.com. Currently, 5 types of image formats are available for the user. If the user wants to keep the format unchanged, the user can opt for the option called “Enter the mime type.” The “Mime type” option can be accessed at the bottom of the page after uploading the image and saving the changes made."
+    },
+    {
+      "question": "How does the quality adjustment option of the Resize SVG online feature from safeimagekit.com work?",
+      "answer": "The quality adjustment option of Resize SVG online feature from safeimagekit.com is an important feature that lets the user decide the overall quality of the image. This feature can be accessed from the “Enter the quality” space after uploading the image. This adjusts the sharpness, contrast, blur (in small amounts), and many other image parameters on the whole. The user can decide on the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the image uploaded, this option can be skipped."
+    },
+    {
       "question": "What are the image adjusting features provided by safeimagekit.com while resizing an image?",
       "answer": "The Resize SVG online feature from safeimagekit.com provides many features while resizing an image. It lets the user adjust the dimensions of the image by adjusting the measurements, such as width and height. The max height and the max width provide the user with a maximum limit of photo resize. While the min-width and min-height provide the user with a minimum limit of the photo resize. The resize option lets the user resize on the whole."
     },
