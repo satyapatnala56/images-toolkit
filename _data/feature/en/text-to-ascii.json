@@ -16,9 +16,14 @@
   "color": "#6666ff",
   "HOW_TO_CONTENT": {
     "logoImageUrl": "/idea.svg",
-    "heading": "",
+    "heading": "How to Convert Text to ASCII Art Generator.",
     "steps": [
-
+      "6. Hurray!!! The ASCII art is ready to rock.",
+      "5. Download the ASCII art using the download option.",
+      "4. Hit the save option to save the changes made.",
+      "3. Adjust the orientation of the text file.",
+      "2. Adjust the size and style using the options provided.",
+      "1. Upload the text file or Click on the drop-down arrow and select Dropbox/Google Drive"
     ]
   },
   "TEXTUAL_CONTENT": [
@@ -60,6 +65,10 @@
     }
   ],
   "FAQ": [
+    {
+      "question": "",
+      "answer": ""
+    },
     {
       "question": "",
       "answer": ""
