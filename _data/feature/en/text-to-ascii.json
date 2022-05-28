@@ -66,8 +66,12 @@
   ],
   "FAQ": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to permit and give access to your drive. We won't be making any changes to your site, and your files will be safe."
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop-down arrow and select the file from your Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload and convert."
     },
     {
       "question": "",
