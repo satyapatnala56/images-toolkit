@@ -18,20 +18,20 @@
     {
       "priority": 1,
       "logoUrl": "/img/featureproperty/highquality.png",
-      "header": "",
-      "content": ""
+      "header": "High Quality",
+      "content": "Our Resize SVG online tool resizes the SVG online for free by retaining its quality."
     },
     {
-      "priority": 1,
+      "priority": "2",
       "logoUrl": "/img/featureproperty/security.png",
-      "header": "",
-      "content": ""
+      "header": "Data Security",
+      "content": "None of your data is sent on our servers; all the operations are performed on the browser itself. This helps us to be 100% safe for our users."
     },
     {
-      "priority": 1,
+      "priority": "3",
       "logoUrl": "/img/featureproperty/flexible.png",
-      "header": "",
-      "content": ""
+      "header": "Flexibility",
+      "content": "Our Resize SVG online tool works on almost all kinds of browsers and devices."
     },
     {
       "priority": 1,
