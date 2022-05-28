@@ -34,16 +34,16 @@
       "content": "Our Resize SVG online tool works on almost all kinds of browsers and devices."
     },
     {
-      "priority": 1,
+      "priority": "4",
       "logoUrl": "/img/featureproperty/userfriendly.png",
-      "header": "",
-      "content": ""
+      "header": "User friendly",
+      "content": "Our Resize SVG online tool is very easy to understand. No professional is required to work on our tool."
     },
     {
-      "priority": 1,
+      "priority": "5",
       "logoUrl": "/img/featureproperty/free.png",
-      "header": "",
-      "content": ""
+      "header": "Free of cost",
+      "content": "Our Resize SVG online tool is completely free of cost; you can use our tool without paying a single penny."
     },
     {
       "priority": 1,
