@@ -66,6 +66,14 @@
   },
   "FAQ": [
     {
+      "question": "Will my uploaded image files corrupt after resizing them using the exquisite options present in the Resize SVG online feature from safeimagekit.com?",
+      "answer": "No, the Resize SVG online feature from safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to be corrupt. So, the uploaded image files are completely safe and secure. Also, safeimagekit.com is a server-free website, due to which no image files are stored here and are wiped from memory as soon as the webpage is closed."
+    },
+    {
+      "question": "Can I use the Resize SVG online feature from safeimagekit.com on my Apple iPhone 11?",
+      "answer": "Yes, Resize SVG online feature from safeimagekit.com is a cross-platform-based feature where the user can use this resize tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection and the size of the image files which are uploaded to be resized into others."
+    },
+    {
       "question": "Can we resize 4k and 8k images using the Resize SVG online from safeimagekit.com?",
       "answer": "No, currently, the resize feature from safeimagekit.com only offers to Resize SVG online features up to 1080p at its best. However, 4k image resizes options do exist in safeimagekit.com, but 8k image processing is not available and will be included in the coming future as an update to the website."
     },
