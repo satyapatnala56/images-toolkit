@@ -1,0 +1,617 @@
+<div class="container">
+    {%- assign boxColor = site.data[page.folderName][page.lang][page.fileName].color -%}
+    <div class="custom-box" style="background-color:{{boxColor}};">
+        <div class="inner-box">
+            <div style="display:none;" id="file-loader"><img src="/spinner.gif" alt="">
+                <div>Please Wait ,Loading Your file </div>
+            </div>
+            <div class="saving-file-download-wrap" style="display: none;">
+                <img loading="lazy" class="trust-img" src="/trust.svg" alt="trust">
+                <p class="text-white my-2">Thanks for your patience</p>
+                <button class="btn" id="download-zip">Download</button>
+            </div>
+            <div class="file-input">
+                <div class="mb-4 d-flex justify-content-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" id="img-svg" viewBox="0 0 96 60">
+                        <path fill="white"
+                            d="M61.9655252,3.24869071 L61.9765763,3.41278068 L62.045,5.866 L73.2405238,6.25793424 C74.5651997,6.30419294 75.6130942,7.37295092 75.6521743,8.67919891 L75.6517521,8.84366004 L73.9765763,56.8144197 C73.9303176,58.1390957 72.8615596,59.1869902 71.5553116,59.2260703 L71.3908505,59.2256481 L68.3103384,59.1184351 C68.0464245,59.8400339 67.3786666,60.3670921 66.5807111,60.425963 L66.4314488,60.4314488 L66.4314488,60.4314488 L30.4314488,60.4314488 C29.3268793,60.4314488 28.4314488,59.5360183 28.4314488,58.4314488 L28.431,55.114 L25.262454,55.2256481 C23.9377781,55.2719068 22.8178834,54.2788497 22.6877793,52.9785097 L22.6767282,52.8144197 L21.0015524,4.84366004 C20.9552937,3.51898409 21.9483508,2.39908942 23.2486907,2.2689853 L23.4127807,2.25793424 L59.3908505,1.00155235 C60.7155264,0.955293651 61.8354211,1.94835077 61.9655252,3.24869071 Z M54.2794488,39.4234488 L45.0024366,47.6809882 L40.7104488,42.4274488 L29.431,51.895 L29.4314488,58.4314488 C29.4314488,58.9442846 29.817489,59.3669559 30.3148276,59.424721 L30.4314488,59.4314488 L66.4314488,59.4314488 C66.9442846,59.4314488 67.3669559,59.0454086 67.424721,58.5480699 L67.4314488,58.4314488 L67.4304488,52.8324488 L54.2794488,39.4234488 Z M37.2275545,6.00094318 C36.4483334,5.97373218 35.7872098,6.54589593 35.688023,7.30354781 L35.676119,7.44768018 L35.676,8.431 L60.4314488,8.43144877 L68.4314488,16.4314488 L68.431,58.121 L71.4257499,58.2262572 C72.2049711,58.2534682 72.8660946,57.6813045 72.9652815,56.9236526 L72.9771854,56.7795202 L74.6523613,8.80876055 C74.6795723,8.0295394 74.1074085,7.36841587 73.3497567,7.26922904 L73.2056243,7.25732506 L37.2275545,6.00094318 Z M59.4257499,2.00094318 L23.4476802,3.25732506 C22.668459,3.28453606 22.0488581,3.9014237 22.002764,4.6641489 L22.0009432,4.80876055 L23.676119,52.7795202 C23.70333,53.5587414 24.3202177,54.1783423 25.0829429,54.2244364 L25.2275545,54.2262572 L28.431,54.114 L28.4314488,10.4314488 C28.4314488,9.32687927 29.3268793,8.43144877 30.4314488,8.43144877 L34.611,8.431 L34.6767282,7.41278068 C34.7229869,6.08810473 35.7917449,5.04021022 37.0979929,5.00113017 L37.262454,5.00155235 L61.045,5.831 L60.9771854,3.44768018 C60.9499744,2.66845903 60.3330868,2.04885809 59.5703616,2.00276399 L59.4257499,2.00094318 Z M59.431,9.431 L30.4314488,9.43144877 C29.9186129,9.43144877 29.4959416,9.81748896 29.4381765,10.3148276 L29.4314488,10.4314488 L29.431,50.591 L40.8439098,41.010846 L45.1168036,46.2404726 L54.3266522,38.0432874 L67.431,51.405 L67.431,17.431 L59.4314488,17.4314488 L59.431,9.431 Z M58.4314488,26.4314488 C60.088303,26.4314488 61.4314488,27.7745945 61.4314488,29.4314488 C61.4314488,31.088303 60.088303,32.4314488 58.4314488,32.4314488 C56.7745945,32.4314488 55.4314488,31.088303 55.4314488,29.4314488 C55.4314488,27.7745945 56.7745945,26.4314488 58.4314488,26.4314488 Z M60.431,9.846 L60.431,16.431 L67.016,16.431 L60.431,9.846 Z">
+                        </path>
+                    </svg>
+                </div>
+                <div class="d-flex justify-content-center align-items-center ">
+                    <div id="Inputbox" class="boxes"> <img height="21px" width="21px" src="/img/add-image.png" /> <span
+                            class='ml-1'>CHOOSE FILE</span> </div>
+                    <div class="file-pick-dropdown">
+                        <i class="fas fa-angle-down arrow-sign "></i>
+                        <div class="file-picker-dropdown" style="display: none;">
+                            <button id="dropbox"> <svg viewBox="0 0 24 24" fill="#0061FF"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path id="icon"
+                                        d="M12.0146 6.57367L6.50732 10.1473L12.0146 13.721L6.50732 17.2947L1 13.6912L6.50732 10.1176L1 6.57367L6.50732 3L12.0146 6.57367ZM6.47803 18.4263L11.9854 14.8527L17.4927 18.4263L11.9854 22L6.47803 18.4263ZM12.0146 13.6912L17.522 10.1176L12.0146 6.57367L17.4927 3L23 6.57367L17.4927 10.1473L23 13.721L17.4927 17.2947L12.0146 13.6912Z">
+                                    </path>
+                                </svg> From Dropbox</button>
+                            <button id='filepicker'> <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <path id="Path" d="M8.33331 3H15.6666L23 15H15.6666L8.33331 3Z" fill="#FFC107">
+                                    </path>
+                                    <path id="Path_2" d="M4.6012 21L8.30086 15H23L19.3333 21H4.6012Z" fill="#1976D2">
+                                    </path>
+                                    <path id="Path_3" d="M1 15.0625L4.60119 21L12 9L8.33333 3L1 15.0625Z"
+                                        fill="#4CAF50">
+                                    </path>
+                                </svg> From Google Drive</button>
+                        </div>
+                    </div>
+                </div>
+                <p id="dropfile">or drop your file here</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<input class="d-none" onchange="fileOnChange()" type="file" id="file" accept=".webp,.png,.jpg,.jpeg,.gif" />
+<div class="editor-box" id="editor-panel" style="display: none;">
+    <div class="body-container">
+        <div class="top-nav">
+            <div class="top-nav-logo">
+                <img src="https://d33wubrfki0l68.cloudfront.net/2e37a1020563aa528471da7425b8e58343e2baf7/a186c/picture.png"
+                    alt="logo">
+            </div>
+            <div class="undo-redo-buttons">
+                <button class="disabled btn-transparent" id="btn-undo"><img src="/img/svg/icon-c/ic-undo.svg"
+                        alt=""></button>
+                <button class="disabled btn-transparent" id="btn-redo"><img src="/img/svg/icon-c/ic-redo.svg"
+                        alt=""></button>
+            </div>
+
+            <div class="download-img-btn">
+                <button style="background-color: {{boxColor}};" id="btn-download"><i class="fas fa-arrow-down"></i>
+                    Download</button>
+            </div>
+        </div>
+        <div class="workspace">
+            <div class="options-panel">
+                <div class="menu">
+
+                    <button class="menu-item" id="btn-crop"><img src="/img/svg/icon-c/ic-crop.svg" alt="">
+                        Crop</button>
+                    <button class="menu-item" id="btn-image-filter"> <img src="/img/svg/icon-c/ic-filter.svg"
+                            alt="">Filter</button>
+                    <button class="menu-item" id="btn-rotation"><img src="/img/svg/icon-c/ic-rotate.svg"
+                            alt="">Rotation</button>
+                    <button class="menu-item" id="btn-flip"><img src="/img/svg/icon-c/ic-flip.svg" alt="">
+                        Flip</button>
+                    <button class="menu-item" id="btn-draw-line"><img src="/img/svg/icon-c/ic-draw.svg"
+                            alt="">DrawLine</button>
+                    <button class="menu-item" id="btn-draw-shape"><img src="/img/svg/icon-c/ic-shape.svg"
+                            alt="">Shape</button>
+                    <button class="menu-item" style="display: none;" id="btn-add-icon"><img
+                            src="/img/svg/icon-c/ic-icon.svg" alt="">Icon</button>
+                    <button class="menu-item" id="btn-text"><img src="/img/svg/icon-c/ic-text.svg" alt="">Text</button>
+                    <button class="menu-item" id="btn-mask-filter"><img src="/img/svg/icon-c/ic-mask.svg"
+                            alt="">Mask</button>
+                </div>
+            </div>
+            <div class="submenus my-3">
+                <div class="sub-menu-container" id="crop-sub-menu">
+                    <h3 class="submenu-h1">Crop</h3>
+                    <div class="sub-menu-container-style">
+                        <div id="crop-panel-options sub-menu-options">
+                            <div class="d-flex crop-aspect-ratio-container">
+                                <button class="crop-aspect-ratio active-option" data-ratio="custom">
+                                    <img src="/img/svg/icon-c/ic-shape-rectangle.svg" alt="">
+                                    <span>Custom</span>
+                                </button>
+                                <button class="crop-aspect-ratio" data-ratio="1/1">
+                                    <img src="/img/svg/icon-c/ic-crop.svg" alt="">
+                                    <span>Square</span>
+                                </button>
+                                <button class="crop-aspect-ratio" data-ratio="3/2">
+                                    <img src="/img/svg/icon-c/ic-crop.svg" alt="">
+                                    <span>3:2</span>
+                                </button>
+                                <button class="crop-aspect-ratio" data-ratio="4/3">
+                                    <img src="/img/svg/icon-c/ic-crop.svg" alt=""> <span>4:3</span>
+
+                                </button>
+                                <button class="crop-aspect-ratio" data-ratio="5/4">
+                                    <img src="/img/svg/icon-c/ic-crop.svg" alt=""> <span>5:4</span>
+
+                                </button>
+                                <button class="crop-aspect-ratio" data-ratio="7/5">
+                                    <img src="/img/svg/icon-c/ic-crop.svg" alt=""> <span>7:5</span>
+
+                                </button>
+                                <button class="crop-aspect-ratio" data-ratio="16/9">
+                                    <img src="/img/svg/icon-c/ic-crop.svg" alt=""> <span>16:9</span>
+
+                                </button>
+                            </div>
+                            <div class="d-flex justify-content-between mt-3 ">
+                                <button class="btn-transparent crop-btns" id="btn-cancel-crop"> <img
+                                        src="/img/svg/icon-c/ic-cancel.svg" alt="">
+                                    Cancel</button>
+                                <button class="crop-btns btn-style" style="background-color: {{boxColor}};"
+                                    id="btn-apply-crop"> <img src="/img/svg/icon-c/ic-apply.svg" alt=""> Apply</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="sub-menu-container" id="flip-sub-menu">
+                    <h3 class="submenu-h1">Flip</h3>
+                    <div class="sub-menu-container-style">
+                        <div class="flip-panel-options sub-menu-options">
+                            <div class="d-flex  justify-content-around">
+                                <button class="flip-btn" id="btn-flip-x"><img src="/img/svg/icon-c/ic-flip-x.svg"
+                                        alt="flip-x-icon">
+                                    <span>Flip X</span></button>
+                                <button class="flip-btn" id="btn-flip-y"><img src="/img/svg/icon-c/ic-flip-y.svg"
+                                        alt="flip-y-icon"> <span>Flip Y</span></button>
+
+                            </div>
+                            <div class="d-flex justify-content-center mt-4">
+                                <button class="flip-btn" id="btn-reset-flip"><img src="/img/svg/icon-c/ic-reset.svg"
+                                        alt="reset-icon"> <span>Reset</span></button>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+                <div class="sub-menu-container" id="rotation-sub-menu">
+                    <h3 class="submenu-h1">Rotate</h3>
+                    <div class="sub-menu-container-style">
+                        <div>
+                            <div class="rotate-buttons">
+                                <button class="rotate-angle" id="btn-rotate-clockwise">
+                                    <img src="/img/svg/icon-c/ic-rotate-clockwise.svg" alt="">
+                                    <span>30</span>
+                                </button>
+                                <button class="rotate-angle" id="btn-rotate-counter-clockwise">
+                                    <img src="/img/svg/icon-c/ic-rotate-counterclockwise.svg" alt="">
+                                    <span>-30</span>
+                                </button>
+                            </div>
+                            <div class="rotate-range">
+                                <input id="input-rotation-range" class="rs-range" type="range" min="-360" value="0"
+                                    max="360" />
+                                <div id="rotate-value" class="text-center">0</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sub-menu-container" id="draw-line-sub-menu">
+                    <h3 class="submenu-h1">Draw Line</h3>
+                    <div class="sub-menu-container-style">
+                        <div>
+                            <div class="panel divider">
+                                <label id="free-mode" class="active-option label draw-mode">
+                                    <img src="/img/svg/icon-c/ic-draw-free.svg" alt="">
+                                    <span>Free</span>
+                                    <input type="radio" name="select-line-type" style="display: none;"
+                                        value="freeDrawing" checked="checked" />
+                                </label>
+                                <label id="line-mode" class="label draw-mode">
+                                    <img src="/img/svg/icon-c/ic-draw-line.svg" alt="">
+                                    <input type="radio" name="select-line-type" style="display: none;"
+                                        value="lineDrawing" />
+                                    <span>Straight</span>
+                                </label>
+                            </div>
+                            <div class="divider flex-column panel">
+                                <div class="color-picker-wrapper">
+                                    <input type="color" name="text-color-picker" class="color-picker"
+                                        id="tui-brush-color-picker">
+                                </div>
+                                <span class="option-title text-center">Brush color</span>
+                            </div>
+                            <div class="divider panel flex-column">
+                                <label class=" no-pointer">
+                                    Brush width
+                                    <input id="input-brush-width-range" class="rs-range" type="range" min="5" max="30"
+                                        value="12" />
+                                </label>
+                                <div id="brush-width-value" class="options-title text-center">
+                                    12
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="sub-menu-container" id="draw-shape-sub-menu">
+                    <h3 class="submenu-h1">Shapes</h3>
+                    <div class="sub-menu-container-style">
+                        <div>
+                            <div class="panel divider ">
+                                <label class="active-option label drawing-shape">
+                                    <img src="/img/svg/icon-c/ic-shape-rectangle.svg" alt="">
+                                    <span>Rect</span>
+                                    <input type="radio" style="display: none;" name="select-shape-type" value="rect"
+                                        checked="checked" />
+                                </label>
+                                <label class="label drawing-shape">
+                                    <img src="/img/svg/icon-c/ic-shape-circle.svg" alt="">
+                                    <span>Circle</span>
+                                    <input style="display: none;" type="radio" name="select-shape-type"
+                                        value="circle" />
+                                </label>
+                                <label class="label drawing-shape">
+                                    <img src="/img/svg/icon-c/ic-shape-triangle.svg" alt="">
+                                    <span> Triangle</span>
+                                    <input style="display: none;" type="radio" name="select-shape-type"
+                                        value="triangle" />
+                                </label>
+
+
+                            </div>
+                            <div class="panel divider justify-content-between">
+                                <label class="radio-label">
+                                    <input type="radio" value="transparent" name="input-check-fill"
+                                        id="input-check-transparent" data-colortype="transparent" />
+                                    <span class="checkmark"></span>
+                                    <span class="label-span">transparent</span>
+
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="input-check-fill" data-colortype="filter"
+                                        id="input-check-filter" value="filter" />
+                                    <span class="checkmark"></span>
+                                    <span class="label-span">filter</span>
+                                </label>
+                            </div>
+                            <div class="panel divider">
+                                <div>
+                                    <div class="color-picker-wrapper">
+                                        <input type="color" data-colortype="fill" name="text-color-picker"
+                                            class="color-picker" value="fill" id="fill-color-picker">
+                                    </div>
+                                    <span class="option-title text-center">Fill</span>
+                                </div>
+                                <div>
+                                    <div class="color-picker-wrapper">
+                                        <input type="color" data-colortype="stroke" name="text-color-picker"
+                                            class="color-picker" value="stroke" id="stroke-color-picker">
+                                    </div>
+                                    <span class="option-title text-center">Stroke</span>
+                                </div>
+
+                            </div>
+                            <div class="panel flex-column">
+                                <label class=" no-pointer">
+                                    Stroke width
+                                    <input id="input-stroke-width-range" class="rs-range" type="range" min="0" max="300"
+                                        value="12" />
+                                </label>
+                                <div id="stroke-width" class="options-title text-center">
+                                    12
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="sub-menu-container" id="icon-sub-menu" style="display: none;">
+                    <h3 class="submenu-h1">Icons</h3>
+                    <div class="sub-menu-container-style">
+                        <div class="panel divider">
+                            <div>
+                                <label class="label icon-text" data-icon-type="arrow">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="arrow-2">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="arrow-3">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="star-1">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="star-2">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="ploygon">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="location">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="heart">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+                                <label class="label icon-text" data-icon-type="cancel">
+                                    <img src="/img/svg/icon-c/ic-icon-arrow.svg" alt="">
+                                </label>
+
+
+                            </div>
+                        </div>
+
+                        <div class="panel divider">
+                            <div id="btn-register-icon"><img src="/img/svg/icon-c/ic-icon-load.svg" alt=""></div>
+                        </div>
+                        <div class="panel">
+                            <div>
+                                <div id="tui-icon-color-picker">Icon color</div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="sub-menu-container" id="text-sub-menu">
+                    <h3 class="submenu-h1">Text</h3>
+                    <div class="sub-menu-container-style">
+                        <div>
+                            <div>
+                                <div class="divider text-panel">
+                                    <button class="btn-text-style btn-transparent " data-style-type="b"><img
+                                            src="/img/svg/icon-c/ic-text-bold.svg" alt=""></button>
+                                    <button class="btn-text-style btn-transparent " data-style-type="i"><img
+                                            src="/img/svg/icon-c/ic-text-italic.svg" alt=""></button>
+                                    <button class="btn-text-style btn-transparent " data-style-type="u"><img
+                                            src="/img/svg/icon-c/ic-text-underline.svg" alt=""></button>
+                                </div>
+                                <div class="divider text-panel">
+                                    <button class="btn-text-style select-text-position btn-transparent "
+                                        data-style-type="l"><img src="/img/svg/icon-c/ic-text-align-left.svg"
+                                            alt=""></button>
+                                    <button class="btn-text-style select-text-position btn-transparent "
+                                        data-style-type="c"><img src="/img/svg/icon-c/ic-text-align-center.svg"
+                                            alt=""></button>
+                                    <button class="btn-text-style select-text-position btn-transparent "
+                                        data-style-type="r"><img src="/img/svg/icon-c/ic-text-align-right.svg"
+                                            alt=""></button>
+                                </div>
+                                <div class="divider text-panel flex-column">
+                                    <div class="color-picker-wrapper">
+                                        <input type="color" name="text-color-picker" class="color-picker"
+                                            id="text-color-picker">
+                                    </div>
+                                    <span class="option-title text-center">Color</span>
+                                </div>
+                                <div class="divider text-panel flex-column">
+                                    <label class="no-pointer">
+                                        <input id="input-font-size-range" class="rs-range" type="range" min="10"
+                                            max="100" value="10" />
+                                    </label>
+                                    <div id="text-font" class="options-title text-center">
+                                        10
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+                <div class="sub-menu-container" id="filter-sub-menu">
+                    <h3 class="submenu-h1">Mask Image</h3>
+                    <div class="sub-menu-container-style">
+                        <div class="divider panel flex-column">
+                            <button class="input-wrapper m-auto">
+                                <img src="/img/svg/icon-c/ic-mask-load.svg" alt="">
+                                <input type="file" accept="image/*" id="input-mask-image-file" />
+                            </button>
+                            <span class="option-title mt-2 text-center">Load Mask Image</span>
+
+                        </div>
+                        <div class="divider panel">
+                            <buton class="btn-transparent" id="btn-apply-mask"> <img src="/img/svg/icon-c/ic-apply.svg"
+                                    alt=""> Apply </buton>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="sub-menu-container" id="image-filter-sub-menu">
+                    <h3 class="submenu-h1">Filters</h3>
+                    <div class="sub-menu-container-style">
+                        <div class="panel divider flex-column">
+                            <div class="checkbox-filters">
+                                <label><input type="checkbox" id="input-check-grayscale" />
+                                    <span class="checkbox-checkmark"></span> <span class="ml-4">Grayscale</span>
+                                </label>
+                                <label><input type="checkbox" id="input-check-invert" /> <span
+                                        class="checkbox-checkmark"></span> <span class="ml-4">Invert</span></label>
+
+                            </div>
+                            <div class="checkbox-filters">
+                                <label><input type="checkbox" id="input-check-sepia2" /> <span
+                                        class="checkbox-checkmark"></span> <span class="ml-4">Sepia2</span> </label>
+                                <label><input type="checkbox" id="input-check-sepia" /> <span
+                                        class="checkbox-checkmark"></span> <span class="ml-4">
+                                        Sepia
+                                    </span> </label>
+
+                            </div>
+                            <div class="checkbox-filters">
+                                <label><input type="checkbox" id="input-check-sharpen" /> <span
+                                        class="checkbox-checkmark"></span> <span class="ml-4">
+                                        Sharpen
+                                    </span></label>
+                                <label><input type="checkbox" id="input-check-blur" /> <span
+                                        class="checkbox-checkmark"></span> <span class="ml-4">
+                                        Blur
+                                    </span></label>
+
+                            </div>
+                            <div class="checkbox-filters">
+                                <label><input type="checkbox" id="input-check-emboss" /><span
+                                        class="checkbox-checkmark"></span> <span class="ml-4">
+                                        Emboss
+                                    </span> </label>
+                            </div>
+                        </div>
+                        <div class="divider panel flex-column">
+                            <div class="divider mb-4 pb-4">
+                                <div>
+                                    <div class="checkbox-filters">
+                                        <label>
+                                            <input type="checkbox" id="input-check-remove-white" />
+                                            <span class="checkbox-checkmark"></span> <span class="ml-4">
+                                                Remove White
+                                            </span>
+                                        </label>
+                                    </div>
+
+                                    Distance
+                                    <input class="range-narrow rs-range" id="input-range-remove-white-distance"
+                                        type="range" min="0" value="10" max="255" />
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="divider mb-4 pb-4">
+                                <div>
+                                    <div class="checkbox-filters">
+                                        <label><input type="checkbox" id="input-check-brightness" />
+                                            <span class="checkbox-checkmark"></span> <span class="ml-4">
+                                                Brightness
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <label>
+                                        <input class="range-narrow rs-range" id="input-range-brightness-value"
+                                            type="range" min="-255" value="100" max="255" />
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="divider mb-4 pb-4">
+                                <div>
+                                    <div class="checkbox-filters">
+                                        <label><input type="checkbox" id="input-check-noise" />
+                                            <span class="checkbox-checkmark"></span> <span class="ml-4">
+                                                Noise
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <label>
+                                        <input class="range-narrow rs-range" id="input-range-noise-value" type="range"
+                                            min="0" value="100" max="1000" />
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="divider mb-4 pb-4">
+                                <div>
+                                    <div class="checkbox-filters">
+                                        <label>
+                                            <input type="checkbox" id="input-check-color-filter" />
+                                            <span class="checkbox-checkmark"></span> <span class="ml-4">
+                                                ColorFilter
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <label>
+                                        Threshold
+                                        <input class="range-narrow rs-range" id="input-range-color-filter-value"
+                                            type="range" min="0" value="45" max="255" />
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="divider mb-4 pb-4">
+                                <div>
+                                    <div class="checkbox-filters">
+                                        <label><input type="checkbox" id="input-check-pixelate" />
+                                            <span class="checkbox-checkmark"></span> <span class="ml-4">
+                                                Pixelate
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <label>
+                                        <input class="range-narrow rs-range" id="input-range-pixelate-value"
+                                            type="range" min="2" value="4" max="20" />
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel divider">
+                            <div class="w-100">
+                                <div class="color-picker-wrapper">
+                                    <input type="color" name="text-color-picker" value="#03bd9e" class="color-picker"
+                                        id="tui-multiply-color-picker">
+                                </div>
+                                <span class="option-title text-center">Multiply</span>
+
+                                <div class="checkbox-filters"> <label class="custom-label"><input type="checkbox"
+                                            id="input-check-multiply" /> <span
+                                            class="checkbox-checkmark"></span></label></div>
+
+                            </div>
+
+
+
+                        </div>
+                        <div class="panel divider">
+                            <div class="w-100">
+
+                                <div class="color-picker-wrapper">
+                                    <input type="color" name="text-color-picker" value="#515ce6" class="color-picker"
+                                        id="tui-tint-color-picker">
+                                </div>
+                                <span class="option-title text-center">Tint</span>
+                                <div class="checkbox-filters"> <label class="custom-label"><input type="checkbox"
+                                            id="input-check-tint" />
+                                        <span class="checkbox-checkmark"></span></label></div>
+                                <label>
+                                    Opacity
+                                    <input class="range-narrow rs-range" id="input-range-tint-opacity-value"
+                                        type="range" min="0" value="1" max="1" step="0.1" />
+                                </label>
+                            </div>
+                        </div>
+                        <div class="panel divider">
+                            <div class="w-100">
+
+                                <div class="color-picker-wrapper">
+                                    <input type="color" name="text-color-picker" value="#ffbb3b" class="color-picker"
+                                        id="tui-blend-color-picker">
+                                </div>
+                                <span class="option-title text-center">Blend</span>
+                                <div class="checkbox-filters"> <label class="custom-label"><input type="checkbox"
+                                            id="input-check-blend" />
+                                        <span class="checkbox-checkmark"></span></label></div>
+                                <select id="select-blend-type" name="select-blend-type">
+                                    <option value="add" selected>Add</option>
+                                    <option value="diff">Diff</option>
+                                    <option value="diff">Subtract</option>
+                                    <option value="multiply">Multiply</option>
+                                    <option value="screen">Screen</option>
+                                    <option value="lighten">Lighten</option>
+                                    <option value="darken">Darken</option>
+                                </select>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+
+            </div>
+            <div class="canvas-area">
+                <div class="tui-image-editor-cont">
+                    <div class="tui-image-editor">
+
+                    </div>
+                </div>
+
+                <div class="other-options">
+                    <button class="disabled btn-transparent" id="btn-undo1"><img src="/img/svg/icon-c/ic-undo.svg"
+                            alt=""></button>
+                    <button class="disabled btn-transparent" id="btn-redo1"><img src="/img/svg/icon-c/ic-redo.svg"
+                            alt=""></button>
+                    <button id="btn-clear-objects" class="btn-transparent">Clear Objects</button>
+                    <button id="btn-remove-active-object" class="btn-transparent">Remove Active Object</button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <div class="tui-image-editor-controls">
+
+
+    </div>
+
+</div>
+</div>
