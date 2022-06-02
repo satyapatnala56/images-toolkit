@@ -97,7 +97,6 @@ html {
   margin-top: -14px;
 }
 
-
 #content {
   visibility: hidden;
 }
@@ -108,87 +107,81 @@ html {
   font-size: 23px;
 }
 
-img{
+img {
   max-width: fit-content;
 }
 
-.modal-backdrop{
+.modal-backdrop {
   display: none;
 }
 
-
 body {
-    display: block !important;
-    margin: 8px !important;
+  display: block !important;
 }
 
-pre{
+pre {
   display: none;
   overflow: visible !important;
 }
 
-#slider{
+#slider {
   position: relative;
   margin: 0;
   width: 800px;
 }
 
-@media (max-width : 900px){
-  #slider{
+@media (max-width: 900px) {
+  #slider {
     position: relative;
     margin: 0;
     width: 300px;
   }
 }
 
-#bottom{
+#bottom {
   position: absolute;
   overflow: hidden;
   width: 50%;
 }
-#up{
+#up {
   position: absolute;
   z-index: -1;
 }
-#sliderInput{
+#sliderInput {
   position: relative;
   margin: 0;
   width: 800px;
 }
 
-@media (max-width : 900px){
-  #sliderInput{
+@media (max-width: 900px) {
+  #sliderInput {
     position: relative;
     margin: 0;
     width: 300px;
   }
 }
 
-.myBtn{
+.myBtn {
   margin-top: 20px;
 }
 
-#fontLoader{
+#fontLoader {
   display: flex;
   /* height: 700px; */
   justify-content: center;
   align-items: center;
 }
 
-#actualArt{
+#actualArt {
   width: fit-content;
-      height: 537px;
-    overflow: scroll;
+  height: 537px;
+  overflow: scroll;
 }
 
-.modal-body{
+.modal-body {
   display: flex;
   justify-content: center;
 }
-
-
-
-
 
 #message {
   color: yellow;
@@ -247,14 +240,12 @@ pre{
   font-size: 17px;
 }
 
-
-#Showloader{
+#Showloader {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 90px;
 }
-
 
 .file-pick-dropdown {
   display: inline-flex;
