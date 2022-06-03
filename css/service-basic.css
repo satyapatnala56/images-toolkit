@@ -5,7 +5,7 @@
   background-color: #242631;
   position: fixed;
   top: 0;
-  z-index: 99;
+  z-index: 9999999;
   width: 100vw;
   height: 100vh;
   color: #fff;
@@ -742,9 +742,6 @@
     padding-left: 4px;
     background-color: #1c1d26;
     z-index: 99;
-  }
-  .tui-image-editor-canvas-container {
-    top: 0px;
   }
   .undo-redo-buttons {
     display: flex;
