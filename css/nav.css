@@ -2,3 +2,15 @@ nav .dropdown-menu {
   overflow-y: scroll !important;
   height: 70vh !important;
 }
+@media (min-width: 1200px) {
+  .flex-class {
+    max-width: 900px;
+  }
+  .feature-content-box {
+    max-width: 900px;
+    margin: auto;
+  }
+}
+.footer {
+  margin-bottom: 80px;
+}
