@@ -3,10 +3,11 @@ nav .dropdown-menu {
   height: 70vh !important;
 }
 @media (min-width: 1200px) {
-  .flex-class {
+  .box-padding .flex-class {
     max-width: 900px;
   }
-  .feature-content-box {
+  .feature-content-box,
+  .home-content-box {
     max-width: 900px;
     margin: auto;
   }
