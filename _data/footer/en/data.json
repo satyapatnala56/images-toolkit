@@ -152,7 +152,6 @@
       "name": " Printing image resizer",
       "url": "/image-resize-printing"
     },
-   
     {
       "name": "List of mm to pixels conveter pages",
       "url": "/all-mm-in-pixels-urls"
@@ -164,6 +163,10 @@
     {
       "name": "Pixel converter tools",
       "url": "/conv"
+    },
+    {
+      "name": "Adjusts tools",
+      "url": "/adjust"
     }
   ],
   "social": [
