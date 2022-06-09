@@ -101,6 +101,11 @@
             "iconSrc": "/img/compressjpeg.png",
             "name": "Jpeg Compressor",
             "url": "/compress-jpeg"
+          },
+          {
+            "iconSrc": "/img/compressjpeg.png",
+            "name": "Compress Image to Specific Size",
+            "url": "/compress-image-to-specific-size"
           }
         ]
       },
@@ -152,7 +157,6 @@
             "iconSrc": "/img/compare.png",
             "url": "/compress-image-all"
           },
-       
           {
             "name": "List of mm to pixels conveter pages",
             "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
@@ -167,6 +171,66 @@
             "name": "Pixel converter tools",
             "iconSrc": "/img/watermark.png",
             "url": "/conv"
+          }
+        ]
+      },
+      {
+        "categoryName": "Social Media Tools",
+        "links": [
+          {
+            "name": "Youtube thumbnail resizer",
+            "iconSrc": "/img/profile/youtube.png",
+            "url": "/youtube/youtube-thumbnail-resizer"
+          },
+          {
+            "name": "Youtube channel art resizer",
+            "iconSrc": "/img/profile/youtube.png",
+            "url": "/youtube/youtube-channel-art-resizer"
+          },
+          {
+            "name": "Free facebook profile picture resizer",
+            "iconSrc": "/img/profile/facebook.png",
+            "url": "/facebook/free-facebook-profile-picture-resizer"
+          },
+          {
+            "name": "Free facebook cover photo resizer",
+            "iconSrc": "/img/profile/facebook.png",
+            "url": "/facebook/free-facebook-cover-photo-resizer"
+          },
+          {
+            "name": "Free facebook profile picture resizer",
+            "iconSrc": "/img/profile/facebook.png",
+            "url": "/facebook/free-facebook-profile-picture-resizer"
+          },
+          {
+            "name": "Instagram profile picture resizer",
+            "iconSrc": "/img/profile/instagram.png",
+            "url": "/instagram/instagram-profile-picture-resizer"
+          },
+          {
+            "name": "Instagram story image resizer",
+            "iconSrc": "/img/profile/instagram.png",
+            "url": "/instagram/instagram-story-image-resizer"
+          },
+          {
+            "name": "Linkedin background photo resizer",
+            "iconSrc": "/img/profile/linkedin.png",
+            "url": "/linkedin/linkedin-background-photo-resizer"
+          },
+          {
+            "name": "Discord profile pic resizer",
+            "iconSrc": "/img/profile/linkedin.png",
+            "url": "/discord/discord-profile-pic-resizer"
+          },
+          {
+            "name": "Twitter header image resizer",
+            "iconSrc": "/img/profile/twitter.png",
+            "url": "/twitter/twitter-header-image-resizer"
+          },
+          {
+            "name": "Twitter profile picture resizer",
+            "iconSrc": "/img/profile/twitter.png",
+            "url": "/twitter/twitter-profile-picture-resizer"
           }
         ]
       }
