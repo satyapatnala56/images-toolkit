@@ -1,0 +1,629 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Compress all image to specific size online.",
+    "H2": "Upload your image to be compressed without losing quality.",
+    "TITLE": "Compress image to specific size online-Free image file compressor",
+    "META": "Use this online image compressor tool to compress any image to specific size online in an easy way without losing quality.",
+    "img": "/img/compressimage.png",
+    "keywords": "compress image to spacific size,compress image to specific size online,reduce image size to specific size,android compress image to specific size,java compress image to specific size,how to compress image to specific size,compress image to a specific size",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "info",
+    "BREADCRUMB_LABEL": "",
+    "color": "#41B8FE",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "images resizers in kb/mb",
+                "links": [
+                    {
+                        "name": "compress image to 256kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-256-kb"
+                    },
+                    {
+                        "name": "compress image to 100kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-100-kb"
+                    },
+                    {
+                        "name": "compress image to 500kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-500-kb"
+                    },
+                    {
+                        "name": "compress image to 100kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-100-kb"
+                    },
+                    {
+                        "name": "compress image to 200kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-200-kb"
+                    },
+                    {
+                        "name": "compress image to 30kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-30-kb"
+                    },
+                    {
+                        "name": "compress image to 9kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-9-kb"
+                    },
+                    {
+                        "name": "compress image to 6kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-6-kb"
+                    },
+                    {
+                        "name": "compress image to 3kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-3-kb"
+                    },
+                    {
+                        "name": "compress image to 25kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-25-kb"
+                    },
+                    {
+                        "name": "compress image to 600kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-600-kb"
+                    },
+                    {
+                        "name": "compress image to 300kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-300-kb"
+                    }
+                ]
+            },
+            {
+                "categoryName": "images resizers in kb/mb",
+                "links": [
+                    {
+                        "name": "compress image to 11.8kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-11-8-kb"
+                    },
+                    {
+                        "name": "compress image to 4.4kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-4-4-kb"
+                    },
+                    {
+                        "name": "compress image to 2.4kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-2-4-kb"
+                    },
+                    {
+                        "name": "compress image to 240kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-240-kb"
+                    },
+                    {
+                        "name": "compress image to 2.4kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-2-4-kb"
+                    },
+                    {
+                        "name": "compress image to 720kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-720-kb"
+                    },
+                    {
+                        "name": "compress image to 399kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-399-kb"
+                    },
+                    {
+                        "name": "compress image to 71kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-71-kb"
+                    },
+                    {
+                        "name": "compress image to 1.8kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-8-kb"
+                    },
+                    {
+                        "name": "compress image to 50kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-50-kb"
+                    },
+                    {
+                        "name": "compress image to 20kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-20-kb"
+                    },
+                    {
+                        "name": "compress image to 8kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-8-kb"
+                    }
+                ]
+            },
+            {
+                "categoryName": "images resizers in kb/mb",
+                "links": [
+                    {
+                        "name": "compress image to 15kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-15-kb"
+                    },
+                    {
+                        "name": "compress image to 414kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-414-kb"
+                    },
+                    {
+                        "name": "compress image to 173kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-173-kb"
+                    },
+                    {
+                        "name": "compress image to 299kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-299-kb"
+                    },
+                    {
+                        "name": "compress image to 480kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-480-kb"
+                    },
+                    {
+                        "name": "compress image to 27kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-27-kb"
+                    },
+                    {
+                        "name": "compress image to 425kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-425-kb"
+                    },
+                    {
+                        "name": "compress image to 79kb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-79-kb"
+                    },
+                    {
+                        "name": "compress image to 2mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-2-mb"
+                    },
+                    {
+                        "name": "compress image to 1.5mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-5-mb"
+                    },
+                    {
+                        "name": "compress image to 5mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-5-mb"
+                    },
+                    {
+                        "name": "compress image to 10mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-10-mb"
+                    },
+                    {
+                        "name": "compress image to 3mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-3-mb"
+                    },
+                    {
+                        "name": "compress image to 20mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-20-mb"
+                    },
+                    {
+                        "name": "compress image to 1.8mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-8-mb"
+                    },
+                    {
+                        "name": "compress image to 8mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-8-mb"
+                    },
+                    {
+                        "name": "compress image to 4mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-4-mb"
+                    },
+                    {
+                        "name": "compress image to 1mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-mb"
+                    },
+                    {
+                        "name": "compress image to 1.5mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-5-mb"
+                    },
+                    {
+                        "name": "compress image to 5mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-5-mb"
+                    },
+                    {
+                        "name": "compress image to 10mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-10-mb"
+                    },
+                    {
+                        "name": "compress image to 3mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-3-mb"
+                    },
+                    {
+                        "name": "compress image to 20mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-20-mb"
+                    },
+                    {
+                        "name": "compress image to 1.8mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-8-mb"
+                    },
+                    {
+                        "name": "compress image to 8mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-8-mb"
+                    },
+                    {
+                        "name": "compress image to 4mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-4-mb"
+                    },
+                    {
+                        "name": "compress image to 1.3mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-3-mb"
+                    },
+                    {
+                        "name": "compress image to 2.6mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-2-6-mb"
+                    },
+                    {
+                        "name": "compress image to 1.2mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1-2-mb"
+                    },
+                    {
+                        "name": "compress image to 3.5mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-3-5-mb"
+                    },
+                    {
+                        "name": "compress image to 6mb ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-6-mb"
+                    }
+                ]
+            },
+            {
+                "categoryName": "images resizers in kb/mb",
+                "links": [
+                    {
+                        "name": "Compress image to 2kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-2-kb"
+                    },
+                    {
+                        "name": "Compress image to 3kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-3-kb"
+                    },
+                    {
+                        "name": "Compress image to 4kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-4-kb"
+                    },
+                    {
+                        "name": "Compress image to 5kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-5-kb"
+                    },
+                    {
+                        "name": "Compress image to 6kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-6-kb"
+                    },
+                    {
+                        "name": "Compress image to 9kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-9-kb"
+                    },
+                    {
+                        "name": "Compress image to 10kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-10-kb"
+                    },
+                    {
+                        "name": "Compress image to 12kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-12-kb"
+                    },
+                    {
+                        "name": "Compress image to 15kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-15-kb"
+                    },
+                    {
+                        "name": "Compress image to 16kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-16-kb"
+                    },
+                    {
+                        "name": "Compress image to 17kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-17-kb"
+                    },
+                    {
+                        "name": "Compress image to 18kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-18-kb"
+                    },
+                    {
+                        "name": "Compress image to 19kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-19-kb"
+                    },
+                    {
+                        "name": "Compress image to 20kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-20-kb"
+                    },
+                    {
+                        "name": "Compress image to 22kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-22-kb"
+                    },
+                    {
+                        "name": "Compress image to 24kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-24-kb"
+                    },
+                    {
+                        "name": "Compress image to 25kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-25-kb"
+                    },
+                    {
+                        "name": "Compress image to 30kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-30-kb"
+                    },
+                    {
+                        "name": "Compress image to 35kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-35-kb"
+                    },
+                    {
+                        "name": "Compress image to 40kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-40-kb"
+                    },
+                    {
+                        "name": "Compress image to 45kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-45-kb"
+                    },
+                    {
+                        "name": "Compress image to 50kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-50-kb"
+                    },
+                    {
+                        "name": "Compress image to 60kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-60-kb"
+                    },
+                    {
+                        "name": "Compress image to 64kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-64-kb"
+                    },
+                    {
+                        "name": "Compress image to 70kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-70-kb"
+                    },
+                    {
+                        "name": "Compress image to 75kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-75-kb"
+                    },
+                    {
+                        "name": "Compress image to 80kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-80-kb"
+                    },
+                    {
+                        "name": "Compress image to 90kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-90-kb"
+                    },
+                    {
+                        "name": "Compress image to 100kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-100-kb"
+                    },
+                    {
+                        "name": "Compress image to 120kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-120-kb"
+                    },
+                    {
+                        "name": "Compress image to 130kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-130-kb"
+                    },
+                    {
+                        "name": "Compress image to 140kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-140-kb"
+                    },
+                    {
+                        "name": "Compress image to 150kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-150-kb"
+                    },
+                    {
+                        "name": "Compress image to 180kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-180-kb"
+                    },
+                    {
+                        "name": "Compress image to 200kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-200-kb"
+                    },
+                    {
+                        "name": "Compress image to 220kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-220-kb"
+                    },
+                    {
+                        "name": "Compress image to 228kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-228-kb"
+                    },
+                    {
+                        "name": "Compress image to 250kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-250-kb"
+                    },
+                    {
+                        "name": "Compress image to 256kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-256-kb"
+                    },
+                    {
+                        "name": "Compress image to 300kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-300-kb"
+                    },
+                    {
+                        "name": "Compress image to 350kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-350-kb"
+                    },
+                    {
+                        "name": "Compress image to 388kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-388-kb"
+                    },
+                    {
+                        "name": "Compress image to 400kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-400-kb"
+                    },
+                    {
+                        "name": "Compress image to 450kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-450-kb"
+                    },
+                    {
+                        "name": "Compress image to 480kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-480-kb"
+                    },
+                    {
+                        "name": "Compress image to 500kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-500-kb"
+                    },
+                    {
+                        "name": "Compress image to 510kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-510-kb"
+                    },
+                    {
+                        "name": "Compress image to 512kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-512-kb"
+                    },
+                    {
+                        "name": "Compress image to 600kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-600-kb"
+                    },
+                    {
+                        "name": "Compress image to 800kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-800-kb"
+                    },
+                    {
+                        "name": "Compress image to 1024kb",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/compress-image-to-1024-kb"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/compress-image-to-specific-size.css' />"
+    ]
+}
