@@ -281,6 +281,13 @@
       "url": "/all-crop-tools"
     },
     {
+      "name": "Avatar cropper",
+      "description": "Image avatar cropper",
+      "color": "rgb(0, 89, 255)",
+      "icon": "/img/home/crop.png",
+      "url": "/avatar-cropper"
+    },
+    {
       "name": "List of mm to pixels conveter pages",
       "description": "List of all free mm to pixels conveter pages",
       "color": "#f77b00",
