@@ -143,6 +143,11 @@
         "categoryName": "Other tools",
         "links": [
           {
+            "name": "Adjusts tools",
+            "iconSrc": "/img/adjust.png",
+            "url": "/adjust"
+          },
+          {
             "name": "Social Media Image Resizers",
             "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
             "url": "/social-media-resizer"

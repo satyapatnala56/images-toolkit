@@ -125,3 +125,21 @@
   force = true
   status = 200
   
+
+[[redirects]]
+  from = "/adjust/sitemap.xml"
+  to = "https://safeimagekit-adjust.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/adjust"
+  to = "https://safeimagekit-adjust.netlify.app/"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/adjust*"
+  to = "https://safeimagekit-adjust.netlify.app/adjust/:splat"
+  force = true
+  status = 200

@@ -280,7 +280,6 @@
       "icon": "/img/home/crop.png",
       "url": "/all-crop-tools"
     },
-    
     {
       "name": "List of mm to pixels conveter pages",
       "description": "List of all free mm to pixels conveter pages",
@@ -301,6 +300,13 @@
       "color": "#0566D1",
       "icon": "/img/home/resize.png",
       "url": "/conv"
+    },
+    {
+      "name": "Adjusts tools",
+      "description": "List of adjusts tools",
+      "color": "#ad81ee",
+      "icon": "/img/home/adjust.png",
+      "url": "/adjust"
     }
   ]
 }
