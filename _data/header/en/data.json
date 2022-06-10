@@ -236,81 +236,81 @@
             "name": "Twitter profile picture resizer",
             "iconSrc": "/img/profile/twitter.png",
             "url": "/twitter/twitter-profile-picture-resizer"
+          }
+        ]
+      },
+      {
+        "categoryName": "Profile Picture maker",
+        "links": [
+          {
+            "iconSrc": "/img/profile-picture.png",
+            "name": "Profile picture maker",
+            "url": "/profile-picture-maker"
           },
           {
-            "categoryName": "Profile Picture maker",
-            "links": [
-              {
-                "iconSrc": "/img/profile-picture.png",
-                "name": "Profile picture maker",
-                "url": "/profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/discord.png",
-                "name": "Discord profile picture maker",
-                "url": "/discord-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/facebook.png",
-                "name": "facebook profile picture maker",
-                "url": "/facebook-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/instagram.png",
-                "name": "instagram profile picture maker",
-                "url": "/instagram-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/linkedin.png",
-                "name": "linkedin profile picture maker",
-                "url": "/linkedin-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/pinterest.png",
-                "name": "pinterest profile picture maker",
-                "url": "/pinterest-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/soundcloud.png",
-                "name": "soundcloud profile picture maker",
-                "url": "/soundcloud-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/tiktok.png",
-                "name": "tiktok profile picture maker",
-                "url": "/tiktok-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/tumblr.png",
-                "name": "tumblr profile picture maker",
-                "url": "/tumblr-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/discord.png",
-                "name": "Discord profile picture maker",
-                "url": "/discord-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/twitch.png",
-                "name": "twitch profile picture maker",
-                "url": "/twitch-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/twitter.png",
-                "name": "twitter profile picture maker",
-                "url": "/twitter-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/whatsapp.png",
-                "name": "whatsapp profile picture maker",
-                "url": "/whatsapp-profile-picture-maker"
-              },
-              {
-                "iconSrc": "/img/profile/youtube.png",
-                "name": "youtube profile picture maker",
-                "url": "/youtube-profile-picture-maker"
-              }
-            ]
+            "iconSrc": "/img/profile/discord.png",
+            "name": "Discord profile picture maker",
+            "url": "/discord-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/facebook.png",
+            "name": "facebook profile picture maker",
+            "url": "/facebook-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/instagram.png",
+            "name": "instagram profile picture maker",
+            "url": "/instagram-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/linkedin.png",
+            "name": "linkedin profile picture maker",
+            "url": "/linkedin-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/pinterest.png",
+            "name": "pinterest profile picture maker",
+            "url": "/pinterest-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/soundcloud.png",
+            "name": "soundcloud profile picture maker",
+            "url": "/soundcloud-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/tiktok.png",
+            "name": "tiktok profile picture maker",
+            "url": "/tiktok-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/tumblr.png",
+            "name": "tumblr profile picture maker",
+            "url": "/tumblr-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/discord.png",
+            "name": "Discord profile picture maker",
+            "url": "/discord-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/twitch.png",
+            "name": "twitch profile picture maker",
+            "url": "/twitch-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/twitter.png",
+            "name": "twitter profile picture maker",
+            "url": "/twitter-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/whatsapp.png",
+            "name": "whatsapp profile picture maker",
+            "url": "/whatsapp-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/youtube.png",
+            "name": "youtube profile picture maker",
+            "url": "/youtube-profile-picture-maker"
           }
         ]
       }
