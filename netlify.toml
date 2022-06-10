@@ -112,6 +112,18 @@
   to = "https://safeimagekit-youtube.netlify.app/youtube/:splat"
   force = true
   status = 200
+
+[[redirects]]
+  from = "/ppm/sitemap.xml"
+  to = "https://ppm-maker.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/ppm*"
+  to = "https://ppm-maker.netlify.app/ppm/:splat"
+  force = true
+  status = 200
   
 
 [[redirects]]

@@ -76,6 +76,11 @@
             "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
             "name": "Placeholder image generator tools",
             "url": "/placeholder-image-generator-tools"
+          },
+          {
+            "iconSrc": "/img/crop-img.png",
+            "name": "Avatar cropper",
+            "url": "/avatar-cropper"
           }
         ]
       },
@@ -101,6 +106,11 @@
             "iconSrc": "/img/compressjpeg.png",
             "name": "Jpeg Compressor",
             "url": "/compress-jpeg"
+          },
+          {
+            "iconSrc": "/img/compressjpeg.png",
+            "name": "Compress Image to Specific Size",
+            "url": "/compress-image-to-specific-size"
           }
         ]
       },
@@ -171,6 +181,141 @@
             "name": "Pixel converter tools",
             "iconSrc": "/img/watermark.png",
             "url": "/conv"
+          }
+        ]
+      },
+      {
+        "categoryName": "Social Media Tools",
+        "links": [
+          {
+            "name": "Youtube thumbnail resizer",
+            "iconSrc": "/img/profile/youtube.png",
+            "url": "/youtube/youtube-thumbnail-resizer"
+          },
+          {
+            "name": "Youtube channel art resizer",
+            "iconSrc": "/img/profile/youtube.png",
+            "url": "/youtube/youtube-channel-art-resizer"
+          },
+          {
+            "name": "Free facebook profile picture resizer",
+            "iconSrc": "/img/profile/facebook.png",
+            "url": "/facebook/free-facebook-profile-picture-resizer"
+          },
+          {
+            "name": "Free facebook cover photo resizer",
+            "iconSrc": "/img/profile/facebook.png",
+            "url": "/facebook/free-facebook-cover-photo-resizer"
+          },
+          {
+            "name": "Free facebook profile picture resizer",
+            "iconSrc": "/img/profile/facebook.png",
+            "url": "/facebook/free-facebook-profile-picture-resizer"
+          },
+          {
+            "name": "Instagram profile picture resizer",
+            "iconSrc": "/img/profile/instagram.png",
+            "url": "/instagram/instagram-profile-picture-resizer"
+          },
+          {
+            "name": "Instagram story image resizer",
+            "iconSrc": "/img/profile/instagram.png",
+            "url": "/instagram/instagram-story-image-resizer"
+          },
+          {
+            "name": "Linkedin background photo resizer",
+            "iconSrc": "/img/profile/linkedin.png",
+            "url": "/linkedin/linkedin-background-photo-resizer"
+          },
+          {
+            "name": "Discord profile pic resizer",
+            "iconSrc": "/img/profile/discord.png",
+            "url": "/discord/discord-profile-pic-resizer"
+          },
+          {
+            "name": "Twitter header image resizer",
+            "iconSrc": "/img/profile/twitter.png",
+            "url": "/twitter/twitter-header-image-resizer"
+          },
+          {
+            "name": "Twitter profile picture resizer",
+            "iconSrc": "/img/profile/twitter.png",
+            "url": "/twitter/twitter-profile-picture-resizer"
+          }
+        ]
+      },
+      {
+        "categoryName": "Profile Picture maker",
+        "links": [
+          {
+            "iconSrc": "/img/profile-picture.png",
+            "name": "Profile picture maker",
+            "url": "/profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/discord.png",
+            "name": "Discord profile picture maker",
+            "url": "/discord-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/facebook.png",
+            "name": "facebook profile picture maker",
+            "url": "/facebook-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/instagram.png",
+            "name": "instagram profile picture maker",
+            "url": "/instagram-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/linkedin.png",
+            "name": "linkedin profile picture maker",
+            "url": "/linkedin-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/pinterest.png",
+            "name": "pinterest profile picture maker",
+            "url": "/pinterest-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/soundcloud.png",
+            "name": "soundcloud profile picture maker",
+            "url": "/soundcloud-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/tiktok.png",
+            "name": "tiktok profile picture maker",
+            "url": "/tiktok-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/tumblr.png",
+            "name": "tumblr profile picture maker",
+            "url": "/tumblr-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/discord.png",
+            "name": "Discord profile picture maker",
+            "url": "/discord-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/twitch.png",
+            "name": "twitch profile picture maker",
+            "url": "/twitch-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/twitter.png",
+            "name": "twitter profile picture maker",
+            "url": "/twitter-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/whatsapp.png",
+            "name": "whatsapp profile picture maker",
+            "url": "/whatsapp-profile-picture-maker"
+          },
+          {
+            "iconSrc": "/img/profile/youtube.png",
+            "name": "youtube profile picture maker",
+            "url": "/youtube-profile-picture-maker"
           }
         ]
       }
