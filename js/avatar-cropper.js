@@ -212,7 +212,6 @@ const handleFile = (file) => {
           cropBoxPanel.appendChild(img)
           cropper = new Cropper(img, {
             aspectRadio: 1 / 1,
-            viewMode: 3,
             ready() {
               cropper.setAspectRatio(1)
               downloadButton.addEventListener('click', handleDownload)
