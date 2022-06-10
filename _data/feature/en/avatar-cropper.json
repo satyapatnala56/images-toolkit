@@ -69,11 +69,11 @@
     ],
     "jsfilepaths": [
         "/js/cropper.min.js",
-        "/js/profile.js"
+        "/js/avatar-cropper.js"
     ],
     "csscdns": [
         "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
-        "<link rel=\"stylesheet\" href=\"/css/profile.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/avatar-cropper.css\" />",
         "<link rel=\"stylesheet\" href=\"/css/cropper.min.css\" />"
     ]
 }

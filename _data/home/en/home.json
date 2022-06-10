@@ -283,7 +283,7 @@
     {
       "name": "Avatar cropper",
       "description": "Image avatar cropper",
-      "color": "rgb(0, 89, 255)",
+      "color": "#0059ff",
       "icon": "/img/home/crop.png",
       "url": "/avatar-cropper"
     },
