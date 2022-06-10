@@ -107,10 +107,6 @@ html {
   font-size: 23px;
 }
 
-img {
-  max-width: fit-content;
-}
-
 .modal-backdrop {
   display: none;
 }
