@@ -209,6 +209,9 @@
   font-size: 21px;
   transition: all 0.3s;
 }
+.action-buttons img {
+  height: 17px;
+}
 #image-format {
   padding: 6px 21px 6px 10px;
   border-radius: 50px;
