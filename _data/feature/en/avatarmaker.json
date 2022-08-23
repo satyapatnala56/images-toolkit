@@ -1,0 +1,26 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Avatar Maker",
+    "nofileupload": true,
+    "variant": "danger",
+    "imgalt": "altvalue",
+    "H2": "Splitting image online has been made easy by us, start by uploading your file below",
+    "TITLE": "Avatar Maker- safeimagekit",
+    "META": "Are you looking for a high-quality photo splitter? Well, then you are at the right place. Our online split photo tool is extremely safe, user-friendly, and super quick.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff6666",
+
+    "jscdns": [
+       "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>",
+       "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js\" integrity=\"sha512-01CJ9/g7e8cUmY0DFTMcUw/ikS799FHiOA0eyHsUWfOetgbx/t6oV4otQ5zXKQyIrQGTHSmRVPIgrgLcZi/WMA==\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"></script>"
+    
+    ],
+    "jsfilepaths": [
+      "/js/avatarmaker.js"
+    ],
+    "cssfilepaths": [
+      "/css/avatarmaker.css"
+    ]
+  }

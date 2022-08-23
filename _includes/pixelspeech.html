@@ -1,0 +1,20 @@
+<div id="container">
+  <p id="Containerheading"> Write some text and click Create to make your own pixel speech bubble.</p>
+  <textarea  id="inputtext" placeholder="type here" rows="4" cols="50"></textarea> 
+  <div class="radio-picture-selector-1"> 
+              spike left<input type="radio" name="direction" id="left" value="spikeleft" checked  >
+             <input type="radio" name="direction" id="right" value="spikeright">spike right
+  </div>
+  <div class="radio-picture-selector-2">
+           speech bubble<input type="radio" name="type" id="speech" value="speech" checked>
+          <input type="radio" name="type" id="thought" value="thought">thought bubble            
+  </div >
+  
+  <div id="animatediv"> <input type="checkbox" name="animated" id="animate" >Animated</div>
+  <button id="finalclick" onclick="drawImage()">Create</button>
+  <div id="canvasconatiner"></div>
+<div id="space-between"></div>
+  <button id="downloadbtn">downlaodbtn</button>
+</div>
+<div id="canvaspanel"><img id="output"></div>
+

@@ -1,0 +1,28 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "JS Paint",
+    "img": "/img/split.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "nofileupload": true,
+    "variant": "danger",
+    "imgalt": "altvalue",
+    "H2": "Splitting image online has been made easy by us, start by uploading your file below",
+    "TITLE": "Photo splitter- split photo- safeimagekit",
+    "META": "Are you looking for a high-quality photo splitter? Well, then you are at the right place. Our online split photo tool is extremely safe, user-friendly, and super quick.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff6666",
+
+    "jscdns": [
+       "<script src=\"https://unpkg.com/@christianliebel/paint/dist/elements/index.js\" type=\"module\"></script>"
+    
+    ],
+    "jsfilepaths": [
+      "/js/jspaint.js"
+    ],
+    "cssfilepaths": [
+      "/css/jspaint.css"
+    ]
+  }

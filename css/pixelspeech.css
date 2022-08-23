@@ -1,0 +1,52 @@
+@import url('http://fonts.cdnfonts.com/css/minecraft-3');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10%;
+    height: 100%;
+    width: 100%;
+    font-size: 150%;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+    align-items: center;
+    width: 800px;
+    background-color: #b0afaf;
+    box-shadow: 5px 10px #f8d7da;
+    border-radius: 15px;
+} 
+#Containerheading{
+color: white;
+}
+.radio-picture-selector-1{
+    color: white;
+}
+.radio-picture-selector-2{
+    color: white;
+}
+#animatediv{
+color: white;
+}
+ #finalclick{
+border:none;
+background-color: rgb(255, 255, 255);
+height: 55px;
+width: 90;
+display: block;
+padding: 1px 6px;
+}
+#downloadbtn{
+    border:none;
+    background-color:#ffffff;
+    height: 20px;
+    display: block;
+    color: white;
+    text-decoration: underline;
+}
+#space-between{
+    height: 20px;
+}
