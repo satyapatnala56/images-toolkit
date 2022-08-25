@@ -27,6 +27,8 @@ body {
     border: 3px solid #ffffff;
   }
 #conatiner{
+    margin-top: 10%;
+    background-color: #ffffff;
     position: absolute;
     left: 12%;
     top: 25%;
@@ -34,12 +36,12 @@ body {
     height: fit-content;
     border: 3px solid aqua;
 }
-svg {
+.svg {
     position:absolute;
     top:0;
     left:0;
-    width:420px;
-    height:420px;
+    width:360px;
+    height:360px;
 }
 #avatar {
     position:relative;
@@ -53,7 +55,7 @@ svg {
     border: 3px solid lightcyan;
     top:25%;
     right:8%;
-    width:699px;
+    width:599px;
     height:320px;
 }
 #options_title {
@@ -72,7 +74,7 @@ svg {
     position:absolute;
     top:50px;
     left:0;
-    width:699px;
+    width:599px;
     height:160px;
     /* overflow-y:auto; */
 }
@@ -103,7 +105,7 @@ svg {
     position:absolute;
     top:10%;
     left:40%;
-    width:699px;
+    width:599px;
     overflow-x: scroll;
     overflow-y: hidden;
     height:auto;
@@ -111,11 +113,19 @@ svg {
 }
 .btn {
     /* position: absolute; */
-    height: 50px;
+    height: 60px;
     width: 190px;
     padding:8px;
     font-weight:bold;
     margin-bottom:7px;
+    border: none;
+    border: 2px solid #80d6da;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0.25rem 0.125rem 0 rgb(0 0 0 / 5%);
+  transition: box-shadow 0.15s, border-color 0.15s;
+  margin-bottom: 10px;
+  background-color: #ffffff;
 }
 /* #menu_list div {
     position: relative;
@@ -128,7 +138,18 @@ svg {
     color:#707070;
 } */
 #random{
-    height: 50px;
+    position: absolute;
+    top: 85%;
+    right: 35%;
+    width: 300px;
+    border: none;
+    border: 2px solid #80d6da;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0.25rem 0.125rem 0 rgb(0 0 0 / 5%);
+  transition: box-shadow 0.15s, border-color 0.15s;
+  margin-bottom: 10px;
+  background-color: #ffffff;
 }
 #randomimg{
     height: 15px;
@@ -137,7 +158,7 @@ svg {
 #download{
     position: absolute;
     top: 85%;
-    right: 35%;
+    right: 5%;
     width: 300px;
     border: none;
     border: 2px solid #80d6da;
